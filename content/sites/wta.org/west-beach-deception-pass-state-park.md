@@ -1,5 +1,5 @@
 ---
-title: "Deception Pass State Park - West Beach Sand Dunes (wto.org)"
+title: "Deception Pass State Park - West Beach Sand Dunes (wta.org)"
 excerpt: >-
   Astroll along the sand dunes of Deception State Park's West Beach offers a glimpse into this important geologic feature. The way is easy and interpretive signs provide information about the seaside vegetation unique to this area.
 hiking of:
