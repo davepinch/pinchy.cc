@@ -1,5 +1,6 @@
 ---
 title: "C Coolidge signature.svg (Wikimedia Commons)"
+➡️: Herbert Clark Hoover Signature.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2f/C_Coolidge_signature.svg"
 signature of:
