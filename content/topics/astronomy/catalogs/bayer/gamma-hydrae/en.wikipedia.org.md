@@ -7,6 +7,7 @@ star of: Hydra (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Gamma_Hydrae/
 website: "https://en.wikipedia.org/wiki/Gamma_Hydrae"
+wikipedia of: Gamma Hydrae
 tags:
   - Wikipedia
 ---
