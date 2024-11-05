@@ -1,5 +1,6 @@
 ---
 title: "John Tyler Signature 2.svg (Wikimedia Commons)"
+⬅️: William Henry Harrison Signature-full.svg (Wikimedia Commons)
 license: public domain
 signature of:
   - John Tyler
