@@ -1,8 +1,5 @@
 ---
 title: "Pinwheel Galaxy"
+common name of: Messier 101
 galaxy of: Ursa Major
-messier: Messier 101
-ngc: NGC 5457
-tags:
-  - galaxy
 ---
