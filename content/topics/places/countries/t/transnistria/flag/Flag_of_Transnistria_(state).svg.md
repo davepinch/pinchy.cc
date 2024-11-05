@@ -6,7 +6,7 @@ borders:
 flag of:
   - Transnistria
   - SVG
-license: compliated, see page.
+license: complicated, see page.
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Transnistria_%28state%29.svg"
 TODO: territory is disputed, multiple flags used
 type: picture
