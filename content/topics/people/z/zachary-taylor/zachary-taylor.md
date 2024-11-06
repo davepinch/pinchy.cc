@@ -1,7 +1,7 @@
 ---
 title: "Zachary Taylor"
 ⬅️: James K. Polk
-➡️: Millard Millmore
+➡️: Millard Fillmore
 former president of: United States
 type: person
 tags:
