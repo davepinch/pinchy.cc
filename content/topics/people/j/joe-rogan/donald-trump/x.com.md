@@ -4,6 +4,7 @@ title: >-
 donald trump of: Joe Rogan
 endorsement of: Donald Trump
 interview of: Elon Musk
+reddit thread: "https://www.reddit.com/r/DecodingTheGurus/comments/1gjvoii/joe_rogan_endorsed_donald_trump_for_president/"
 type: tweet
 url: /x.com/joerogan/status/1853614670764015762/
 website: "https://x.com/joerogan/status/1853614670764015762"
