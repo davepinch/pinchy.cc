@@ -1,6 +1,7 @@
 ---
 title: "Isaac Newton signature ws.svg (Wikimedia Commons)"
 author: "Digitization by [Scewing](https://commons.wikimedia.org/wiki/User:Scewing)"
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/84/Isaac_Newton_signature_ws.svg"
 signature of:
   - Isaac Newton
