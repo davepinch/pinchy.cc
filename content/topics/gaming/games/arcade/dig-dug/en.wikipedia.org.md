@@ -6,7 +6,7 @@ retrieved: 2024-11-07
 type: website
 url: /en.wikipedia.org/wiki/Dig_Dug/
 website: "https://en.wikipedia.org/wiki/Dig_Dug"
-wikipedia of: Dig Dug
+wikipedia of: Dig Dug (arcade)
 tags:
   - Wikipedia
 ---
