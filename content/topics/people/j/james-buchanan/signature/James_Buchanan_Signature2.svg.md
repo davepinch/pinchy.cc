@@ -1,5 +1,7 @@
 ---
 title: "James Buchanan Signature2.svg (Wikimedia Commons)"
+⬅️: Franklin Pierce Signature2.svg (Wikimedia Commons)
+➡️: Abraham Lincoln 1862 signature.svg (Wikimedia Commons)
 author: "Digitization by [Connormah](https://commons.wikimedia.org/wiki/User:Connormah)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/57/James_Buchanan_Signature2.svg"
