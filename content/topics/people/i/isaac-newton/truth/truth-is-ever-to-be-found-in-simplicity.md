@@ -5,9 +5,9 @@ next: "Simplicity is the keynote of all true elegance."
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg
   - Isaac Newton (Wikipedia)
+truth of: Isaac Newton
 type: quote
 tags:
-  - Isaac Newton
   - quote
   - KEEP IT SIMPLE
 ---

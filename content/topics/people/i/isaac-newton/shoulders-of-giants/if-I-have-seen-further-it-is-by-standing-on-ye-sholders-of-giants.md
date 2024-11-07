@@ -5,7 +5,7 @@ type: quote
 related:
   - Portrait_of_Sir_Isaac_Newton,_1689.jpg (wikimedia.org)
   - Isaac Newton (Wikipedia)
+shoulders of giants of: Isaac Newton
 tags:
-  - Isaac Newton
   - quote
 ---
