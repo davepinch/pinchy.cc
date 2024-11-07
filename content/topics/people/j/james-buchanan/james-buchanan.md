@@ -1,5 +1,7 @@
 ---
 title: "James Buchanan"
+⬅️: Franklin Pierce
+➡️: Abraham Lincoln
 former president of: United States
 type: person
 tags:
