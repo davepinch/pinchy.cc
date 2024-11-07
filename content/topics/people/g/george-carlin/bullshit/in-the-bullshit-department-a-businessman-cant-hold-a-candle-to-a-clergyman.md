@@ -1,11 +1,11 @@
 ---
 title: "In the bullshit department, a businessman can't hold a candle to a clergyman."
 attribution: "George Carlin, *You Are All Diseased*"
+bullshit of: George Carlin
 citation: >-
   George Carlin. (2023, October 12). Wikiquote. Retrieved October 30, 2023 from https://en.wikiquote.org/w/index.php?title=George_Carlin&oldid=3379217.
 next: >-
   All my theology is reduced to this narrow compass — "Jesus Christ came into the world to save sinners."
-religion of: George Carlin
 type: quote
 tags:
   - quote
