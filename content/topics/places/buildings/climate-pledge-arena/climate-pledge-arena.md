@@ -1,6 +1,6 @@
 ---
 title: "Climate Pledge Arena"
-stadium of:
+building of:
   - Seattle Center
   - Seattle
 openstreetmap: "https://www.openstreetmap.org/way/25123756"
