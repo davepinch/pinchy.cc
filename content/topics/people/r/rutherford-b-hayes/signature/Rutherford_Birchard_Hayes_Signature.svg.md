@@ -1,5 +1,7 @@
 ---
 title: "Rutherford Birchard Hayes Signature.svg (Wikimedia Commons)"
+⬅️: UlyssesSGrantSignature.svg (Wikimedia Commons)
+➡️: James Abram Garfield Signature.svg (Wikimedia Commons)
 author: "Digitization by [Connormah](https://commons.wikimedia.org/wiki/User:Connormah)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e8/Rutherford_Birchard_Hayes_Signature.svg"
