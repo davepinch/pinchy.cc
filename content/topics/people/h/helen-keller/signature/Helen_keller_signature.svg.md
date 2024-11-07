@@ -7,7 +7,7 @@ signature of:
   - Helen Keller
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Helen_keller_signature.svg/
+url: /commons.wikimedia.org/wiki/Helen_keller_signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Helen_keller_signature.svg"
 tags:
   - signature

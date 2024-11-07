@@ -6,7 +6,7 @@ signature of:
   - Hermann Göring
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Hermann_Goring_Signature.svg/
+url: /commons.wikimedia.org/wiki/Hermann_Goring_Signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hermann_G%C3%B6ring_Signature.svg"
 tags:
   - signature
