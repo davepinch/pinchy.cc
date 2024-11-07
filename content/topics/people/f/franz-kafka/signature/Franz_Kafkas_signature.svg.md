@@ -7,7 +7,7 @@ signature of:
   - Franz Kafka
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Franz_Kafkas_signature.svg/
+url: /commons.wikimedia.org/wiki/Franz_Kafkas_signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Franz_Kafka%27s_signature.svg"
 tags:
   - signature
