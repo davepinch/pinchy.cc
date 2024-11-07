@@ -1,6 +1,4 @@
 ---
 title: "Schedar"
-star of: Cassiopeia
-tags:
-  - star
+proper name of: Alpha Cassiopeiae
 ---
