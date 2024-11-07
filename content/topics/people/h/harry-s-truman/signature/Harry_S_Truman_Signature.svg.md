@@ -1,5 +1,7 @@
 ---
 title: "Harry S Truman Signature.svg (Wikimedia Commons)"
+⬅️: Franklin Roosevelt Signature.svg (Wikimedia Commons)
+➡️: Dwight Eisenhower Signature.svg (Wikimedia Commons)
 author: "Tracing by [Connormah](https://commons.wikimedia.org/wiki/User:Connormah)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Harry_S_Truman_Signature.svg"
