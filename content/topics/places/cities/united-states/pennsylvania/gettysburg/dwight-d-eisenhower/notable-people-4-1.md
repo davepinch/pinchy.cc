@@ -6,7 +6,7 @@ retirement of: Dwight D. Eisenhower
 snippet of: Gettysburg, Pennsylvania (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Gettysburg,_Pennsylvania/notable-people-4-1/
-vicinity of: Gettysburb, Pennsylvania
+vicinity of: Gettysburg, Pennsylvania
 tags:
   - snippet
 ---
