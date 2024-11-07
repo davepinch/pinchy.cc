@@ -7,7 +7,7 @@ signature of:
   - Erwin Schrödinger
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Erwin_Schrodinger_signature.svg/
+url: /commons.wikimedia.org/wiki/Erwin_Schrodinger_signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Erwin_Schr%C3%B6dinger_signature.svg"
 tags:
   - signature
