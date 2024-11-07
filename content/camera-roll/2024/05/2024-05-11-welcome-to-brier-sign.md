@@ -12,6 +12,7 @@ picture: content/camera-roll/2024/05/2024-05-11-welcome-to-brier-sign/welcome-to
 town sign of:
   - Brier, Washington
   - artist unknown
+  - wood
 thumbnail: content/camera-roll/2024/05/2024-05-11-welcome-to-brier-sign/welcome-to-brier-sign.thumbnail.jpg
 type: picture
 when: 2024-05-11
