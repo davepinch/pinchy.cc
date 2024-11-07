@@ -6,7 +6,9 @@ lofty thoughts: Add a "Holy shit, this exists" checkbox to the footer
 type: website
 url: /en.wikipedia.org/wiki/Small_Sagittarius_Star_Cloud/
 website: "https://en.wikipedia.org/wiki/Small_Sagittarius_Star_Cloud"
-wikipedia of: Small Sagittarius Star Cloud
+wikipedia of:
+  - Small Sagittarius Star Cloud
+  - Messier 24
 tags:
   - Wikipedia
   - Lofty Thoughts
