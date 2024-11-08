@@ -4,10 +4,10 @@ title: >-
 attribution: "Mahatma Gandi, *Hind Swaraj* (1909)"
 citation: >-
   Mahatma Gandhi. (2024, February 13). *Wikiquote*. Retrieved February 14, 2024 from https://en.wikiquote.org/w/index.php?title=Mahatma_Gandhi&oldid=3464383.
+religions of: Mahatma Gandhi
 type: quote
 tags:
   - quote
-  - Mahatma Gandhi
   - reality
   - religion
 ---
