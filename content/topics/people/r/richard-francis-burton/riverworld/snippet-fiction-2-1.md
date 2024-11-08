@@ -6,6 +6,7 @@ citation: >-
 Richard Francis Burton of:
   - To Your Scattered Bodies Go
   - Riverworld
+Riverworld of: Richard Francis Burton
 snippet of: Richard Francis Burton (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Richard_Francis_Burton/fiction-2-1/
