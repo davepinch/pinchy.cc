@@ -4,10 +4,10 @@ title: >-
 attribution: "Mark Twain"
 citation: >-
   Mark Twain. (2023, November 25). *Wikiquote*. Retrieved January 7, 2024 from https://en.wikiquote.org/w/index.php?title=Mark_Twain&oldid=3407072.
+geniuses of: Mark Twain
 type: quote
 tags:
   - quote
-  - Mark Twain
   - American Civil War
   - Abraham Lincoln
 ---

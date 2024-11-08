@@ -3,9 +3,9 @@ title: "To create man was a fine and original idea; but to add the sheep was a t
 attribution: "Mark Twain"
 citation: >-
   Mark Twain. (2023, November 25). *Wikiquote*. Retrieved January 7, 2024 from https://en.wikiquote.org/w/index.php?title=Mark_Twain&oldid=3407072.
+sheep of: Mark Twain
 type: quote
 tags:
-  - Mark Twain
   - quote
   - human being
   - sheep
