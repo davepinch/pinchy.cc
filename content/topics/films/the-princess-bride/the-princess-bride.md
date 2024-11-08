@@ -8,7 +8,7 @@ film of:
 starring:
   - André the Giant
   - incomplete list
-type: movie
+wikidata: "https://www.wikidata.org/wiki/Q506418"
 tags:
   - film
 ---

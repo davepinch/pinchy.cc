@@ -8,6 +8,7 @@ film of:
 on location of:
   - Mexico
   - Thailand
+wikidata: "https://www.wikidata.org/wiki/Q319783"
 tags:
   - film
 ---

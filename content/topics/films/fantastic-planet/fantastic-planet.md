@@ -5,7 +5,7 @@ film of:
   - adult animation
   - experimental film
 next in dystopia: Mad Max (film)
-type: movie
+wikidata: "https://www.wikidata.org/wiki/Q477687"
 tags:
   - French
   - animated

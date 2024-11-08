@@ -9,6 +9,7 @@ film of:
 next in dystopia: Akira
 setting: Detroit
 when: 1987-07-17
+wikidata: "https://www.wikidata.org/wiki/Q372514"
 tags:
   - American
   - film

@@ -4,7 +4,7 @@ film of:
   - black comedy
 near: Jesus
 on location of: Tunisia
-type: movie
+wikidata: "https://www.wikidata.org/wiki/Q24953"
 tags:
   - Monty Python
   - film

@@ -5,6 +5,7 @@ film of:
   - western film
   - Sergio Leone
   - Clint Eastwood
+wikidata: "https://www.wikidata.org/wiki/Q76479"
 tags:
   - spaghetti Western
   - film

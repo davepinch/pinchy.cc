@@ -5,6 +5,7 @@ film of:
   - action film
   - parallel universe
 jump around the multiverse: Donnie Darko
+wikidata: "https://www.wikidata.org/wiki/Q83808444"
 tags:
   - film
 ---

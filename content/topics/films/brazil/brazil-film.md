@@ -7,6 +7,7 @@ film of:
   - science fiction
   - Terry Gilliam
 next in dystopia: RoboCop
+wikidata: "https://www.wikidata.org/wiki/Q25057"
 tags:
   - fantasy film
 ---

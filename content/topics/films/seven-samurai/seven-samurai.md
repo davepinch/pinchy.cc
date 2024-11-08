@@ -6,6 +6,7 @@ film of:
   - epic film
   - action film
 influenced: "Star Wars (film)"
+wikidata: "https://www.wikidata.org/wiki/Q189540"
 tags:
   - Japanese
   - film

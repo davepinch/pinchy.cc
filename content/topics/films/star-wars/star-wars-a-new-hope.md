@@ -6,7 +6,7 @@ directed by: George Lucas
 influenced by:
   - Seven Samurai
   - The Hidden Fortress
-parody: Spaceballs
+wikidata: "https://www.wikidata.org/wiki/Q17738"
 tags:
   - epic
   - space opera

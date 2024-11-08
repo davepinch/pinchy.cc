@@ -5,6 +5,7 @@ film of:
   - nuclear warfare
   - military fiction
 president at the time: Ronald Reagan
+wikidata: "https://www.wikidata.org/wiki/Q738462"
 tags:
   - film
 ---

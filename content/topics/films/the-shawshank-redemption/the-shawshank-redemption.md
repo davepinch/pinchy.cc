@@ -6,7 +6,7 @@ film of:
   - prison film
   - drama
 on the poster: Rita Hayworth
-type: movie
+wikidata: "https://www.wikidata.org/wiki/Q172241"
 tags:
   - movie
 ---

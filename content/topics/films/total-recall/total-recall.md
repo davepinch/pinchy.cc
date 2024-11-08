@@ -7,8 +7,8 @@ film of:
   - Mars
   - reality 
 next in dystopia: Demolition Man
-type: movie
 when: 1990-06-01
+wikidata: "https://www.wikidata.org/wiki/Q222018"
 tags:
   - film
   - Philip K. Dick

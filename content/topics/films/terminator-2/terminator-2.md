@@ -5,6 +5,7 @@ film of:
   - science fiction
   - action film
   - nuclear warfare
+wikidata: "https://www.wikidata.org/wiki/Q170564"
 tags:
   - film
 ---

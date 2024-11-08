@@ -9,7 +9,7 @@ film of:
 released: 1981-07-02
 trilogy of imagination:
   - Brazil (film)
-type: movie
+wikidata: "https://www.wikidata.org/wiki/Q1426318"
 tags:
   - film
   - God as a Character
