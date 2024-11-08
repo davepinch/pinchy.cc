@@ -7,7 +7,7 @@ signature of:
   - Marie Curie
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Marie_Curie_Sklodowska_Signature_Polish.svg/
+url: /commons.wikimedia.org/wiki/Marie_Curie_Sklodowska_Signature_Polish.svg/
 website: "https://commons.wikimedia.org/wiki/File:Marie_Curie_Sk%C5%82odowska_Signature_Polish.svg"
 tags:
   - signature

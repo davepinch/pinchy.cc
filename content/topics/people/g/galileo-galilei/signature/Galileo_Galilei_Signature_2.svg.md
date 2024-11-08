@@ -7,7 +7,7 @@ signature of:
   - SVG
 source: "http://asv.vatican.va/immagini/doc/1616_b.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Galileo_Galilei_Signature_2.svg/
+url: /commons.wikimedia.org/wiki/Galileo_Galilei_Signature_2.svg/
 website: "https://commons.wikimedia.org/wiki/File:Galileo_Galilei_Signature_2.svg"
 tags:
   - signature

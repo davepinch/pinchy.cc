@@ -6,7 +6,7 @@ signature of:
   - Kanye West
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Kanyewestsignature.svg/
+url: /commons.wikimedia.org/wiki/Kanyewestsignature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Kanyewestsignature.svg"
 tags:
   - signature
