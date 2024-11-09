@@ -12,6 +12,7 @@ countries:
   - South America (Wikipedia)
   - Venezuela (Wikipedia)
   - incomplete list
+openstreetmap: "https://www.openstreetmap.org/node/305640123"
 sea of:
   - Caribbean
   - Atlantic Ocean

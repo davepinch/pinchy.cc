@@ -9,6 +9,7 @@ borders:
   - Kazakhstan
   - Russia
   - Turkmenistan
+openstreetmap: "https://www.openstreetmap.org/relation/3987743"
 sea of:
   - Europe
   - Asia

@@ -27,6 +27,7 @@ clockwise around the red sea:
   - Saudi Arabia
   - Yemen
 near: Mecca
+openstreetmap: "https://www.openstreetmap.org/relation/9323456"
 sea of:
   - Indian Ocean
   - Middle East
