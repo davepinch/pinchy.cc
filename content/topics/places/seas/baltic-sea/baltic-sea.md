@@ -13,6 +13,7 @@ borders:
   - Sweden
 sea of: Atlantic Ocean
 type: sea
+wikidata: "https://www.wikidata.org/wiki/Q545"
 tags:
   - sea
 ---
