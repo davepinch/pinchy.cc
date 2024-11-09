@@ -1,6 +1,7 @@
 ---
 title: "Crows at sunset in Bothell"
 author: David Pinch
+crows of: looking up
 license: CC BY-SA 4.0
 photograph of:
   - crow
@@ -13,7 +14,6 @@ type: picture
 when: 2023-06-25
 tags:
   - in the backyard
-  - looking up
   - photograph
 ---
 A few days later the neighbor mowed it down.

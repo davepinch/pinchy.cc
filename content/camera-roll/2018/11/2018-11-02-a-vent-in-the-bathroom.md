@@ -13,8 +13,8 @@ picture: content/camera-roll/2018/11/2018-11-02-a-vent-in-the-bathroom/2018-11-0
 related: North Seattle College (Wikipedia)
 thumbnail: content/camera-roll/2018/11/2018-11-02-a-vent-in-the-bathroom/2018-11-02-a-vent-in-the-bathroom-thumbnail.jpg
 type: picture
+vents of: looking up
 tags:
-  - looking up
   - photograph  
   - public domain
   - Tremendous Artist

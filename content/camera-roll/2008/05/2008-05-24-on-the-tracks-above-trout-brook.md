@@ -9,6 +9,7 @@ photograph of:
   - looking up
   - Trout Brook
 picture: content/camera-roll/2008/05/2008-05-24-on-the-tracks-above-trout-brook/recon-2-072.jpg
+railroad tracks of: looking up
 thumbnail: content/camera-roll/2008/05/2008-05-24-on-the-tracks-above-trout-brook/recon-2-072-thumbnail.jpg
 type: picture
 when: 2008-05-24

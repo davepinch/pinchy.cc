@@ -1,5 +1,6 @@
 ---
 title: "Lamps in the Commons"
+lamps of: looking up
 license: public domain
 photograph of:
   - Microsoft campus
@@ -11,6 +12,5 @@ thumbnail: >-
 type: picture
 when: 2015-11-11
 tags:
-  - looking up
   - photograph
 ---

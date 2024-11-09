@@ -1,6 +1,7 @@
 ---
 title: "Nice clean rooms at Valu Inn Sea Tac"
 license: CC BY-SA 4.0
+nice clean rooms of: looking up
 photograph of:
   - sign
   - photograph
@@ -11,6 +12,5 @@ thumbnail: content/camera-roll/2018/02/2018-02-03-nice-clean-rooms-at-valu-inn-s
 type: picture
 when: 2018-02-03
 tags:
-  - looking up
   - photograph
 ---
