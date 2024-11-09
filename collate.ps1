@@ -1102,6 +1102,12 @@ foreach ($page in $titles.Values) {
     Test-TypeRequiresProperty $page "river" "wikipedia"
     Test-TypeRequiresTag $page "river" "river"
 
+    # sea
+    Test-TagRequiresProperty $page "sea" "sea of"
+    Test-TagRequiresProperty $page "sea" "openstreetmap"
+    Test-TagRequiresProperty $page "sea" "wikidata"
+    Test-TagRequiresProperty $page "sea" "Wikipedia"
+
     # snippet
     Test-TypeRequiresTag $page "snippet" "snippet"
     Test-TypeRequiresProperty $page "snippet", "url"
