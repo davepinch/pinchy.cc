@@ -1,5 +1,5 @@
 ---
-title: "Mediterranee_02_EN.jpg (Wikimedia Commons)"
+title: "Mediterranee 02 EN.jpg (Wikimedia Commons)"
 author: "O_H_237"
 description: Map of the Mediterranean Sea with subdivisions, straits, islands and countries
 license: CC BY-SA 4.0
