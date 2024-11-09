@@ -13,6 +13,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/9328393"
 sea of:
   - Indian Ocean
   - Middle East
+wikidata: "https://www.wikidata.org/wiki/Q58705"
 tags:
   - sea
 ---

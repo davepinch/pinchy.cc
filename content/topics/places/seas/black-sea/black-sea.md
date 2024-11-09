@@ -12,6 +12,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/7160849"
 sea of:
   - Europe
   - Asia
+wikidata: "https://www.wikidata.org/wiki/Q166"
 tags:
   - sea
 ---

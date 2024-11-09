@@ -31,6 +31,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/9323456"
 sea of:
   - Indian Ocean
   - Middle East
+wikidata: "https://www.wikidata.org/wiki/Q23406"
 tags:
   - sea
 ---
