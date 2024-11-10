@@ -1,6 +1,7 @@
 ---
 title: "Copper (Wikipedia)"
 ➡️: Zinc (Wikipedia)
+⬅️: Nickel (Wikipedia)
 atomic number: 29
 element of: Chemistry (Wikipedia)
 excerpt: >-
