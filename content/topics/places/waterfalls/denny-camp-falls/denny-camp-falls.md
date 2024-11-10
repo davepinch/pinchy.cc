@@ -7,6 +7,7 @@ waterfall of:
   - South Fork Snoqualmie River
   - King County, Washington
   - Cascade Range
+wikidata: "https://www.wikidata.org/wiki/Q37983"
 tags:
   - waterfall
 ---
