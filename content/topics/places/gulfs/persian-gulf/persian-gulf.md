@@ -15,6 +15,7 @@ inlets:
 gulf of:
   - West Asia
   - Middle East
+wikidata: "https://www.wikidata.org/wiki/Q34675"
 tags:
   - gulf
   - sea

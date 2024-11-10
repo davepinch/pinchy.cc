@@ -10,6 +10,7 @@ gulf of:
   - Arabian Sea
   - Indian Ocean
   - Middle East
+wikidata: "https://www.wikidata.org/wiki/Q41837"
 tags:
   - gulf
 ---

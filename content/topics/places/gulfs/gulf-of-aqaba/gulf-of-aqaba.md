@@ -9,6 +9,7 @@ gulf of:
   - Saudi Arabia
   - Sinai Peninsula
   - Middle East
+wikidata: "https://www.wikidata.org/wiki/Q81611"
 tags:
   - gulf
 ---

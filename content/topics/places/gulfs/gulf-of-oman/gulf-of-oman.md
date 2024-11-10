@@ -10,6 +10,7 @@ connects:
   - Persian Gulf (Wikipedia)
 gulf of:
   - Middle East
+wikidata: "https://www.wikidata.org/wiki/Q79948"
 tags:
   - gulf
 ---

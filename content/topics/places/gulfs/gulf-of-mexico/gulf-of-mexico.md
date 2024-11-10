@@ -14,6 +14,7 @@ united states:
   - Louisiana
   - Mississippi
   - Texas
+wikidata: "https://www.wikidata.org/wiki/Q12630"
 tags:
   - gulf
 ---

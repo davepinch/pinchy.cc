@@ -7,6 +7,7 @@ gulf of:
   - Red Sea
   - Middle East
 near: Gulf of Aqaba
+wikidata: "https://www.wikidata.org/wiki/Q168277"
 tags:
   - gulf
 ---

@@ -9,6 +9,7 @@ borders:
 gulf of: North America
 mouth of: St. Lawrence River
 part of: Atlantic Ocean
+wikidata: "https://www.wikidata.org/wiki/Q169523"
 tags:
   - gulf
 ---

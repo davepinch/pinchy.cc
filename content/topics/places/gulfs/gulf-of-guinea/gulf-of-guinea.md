@@ -11,6 +11,7 @@ countries (south to north):
   - Ghana
   - Ivory Coast
 part of: Atlantic Ocean
+wikidata: "https://www.wikidata.org/wiki/Q41430"
 tags:
   - gulf
 ---
