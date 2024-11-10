@@ -18,5 +18,4 @@ gulf of:
 wikidata: "https://www.wikidata.org/wiki/Q34675"
 tags:
   - gulf
-  - sea
 ---
