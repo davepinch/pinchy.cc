@@ -5,6 +5,7 @@ died on: 1943-09-08
 executed in: Berlin
 known for: Notes from the Gallows
 those who faced death a hero: Jørgen Haagen Schmith
+TODO: document his uncle, a composer with the same name
 type: person
 tags:
   - journalist
@@ -14,4 +15,5 @@ tags:
   - executed
   - murdered by Nazis
   - those who faced death
+  - TODO
 ---
