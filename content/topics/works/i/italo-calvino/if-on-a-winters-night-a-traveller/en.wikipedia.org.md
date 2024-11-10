@@ -1,6 +1,6 @@
 ---
 title: "If on a winter's night a traveler (Wikipedia)"
-retrieved:eved:eved: 2023-10-31
+retrieved:eved: 2023-10-31
 excerpt: >-
   ***If on a winter's night a traveler*** (Italian: *Se una notte d'inverno un viaggiatore*) is a 1979 novel by the Italian writer Italo Calvino. The postmodernist narrative, in the form of a frame story, is about the reader trying to read a book called *If on a winter's night a traveler*. Each chapter is divided into two sections. The first section of each chapter is in second person, and describes the process the reader goes through to attempt to read the next chapter of the book they are reading. The second half is the first part of a new book that the reader ("you") finds. The second half is always about something different from the previous ones. The book was published in an English translation by William Weaver in 1981.
 type: website
