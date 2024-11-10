@@ -1,5 +1,5 @@
 ---
-title: "Dmitiry Muratov"
+title: "Dmitry Muratov"
 editor-in-chief: Novaya Gazeta
 from: Russia
 type: person
