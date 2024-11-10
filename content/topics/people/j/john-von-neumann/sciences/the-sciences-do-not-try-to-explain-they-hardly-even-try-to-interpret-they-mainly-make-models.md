@@ -7,9 +7,9 @@ quote: "The sciences do not try to explain, they hardly even try to interpret, t
 related:
   - JohnvonNeumann-LosAlamos.gif
   - John von Neumann (Wikipedia)
+sciences of: John von Neumann
 type: quote
 tags:
-  - John von Neumann
   - quote
 ---
 [Wikiquote](https://en.wikiquote.org/wiki/John_von_Neumann)
