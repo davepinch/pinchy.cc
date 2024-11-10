@@ -1,5 +1,6 @@
 ---
 title: "Senator Vance official portrait. 118th Congress.jpg (Wikimedia Commons)"
+license: public domain
 note: higher resolution versions are available on the website
 picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Senator_Vance_official_portrait._118th_Congress.jpg/1638px-Senator_Vance_official_portrait._118th_Congress.jpg"
 portrait of: JD Vance
