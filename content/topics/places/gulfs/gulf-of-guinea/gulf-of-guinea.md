@@ -10,6 +10,7 @@ countries (south to north):
   - Benin
   - Ghana
   - Ivory Coast
+openstreetmap: "https://www.openstreetmap.org/node/305640297"
 part of: Atlantic Ocean
 wikidata: "https://www.wikidata.org/wiki/Q41430"
 tags:
