@@ -1,6 +1,7 @@
 ---
 title: "Don Miguel Ruiz"
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q116177"
 tags:
   - Mexican
   - philosopher

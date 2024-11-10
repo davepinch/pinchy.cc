@@ -5,6 +5,7 @@ title: "Donald Trump"
 member of: Republican Party
 former president of: United States
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q22686"
 tags:
   - American
   - politician
