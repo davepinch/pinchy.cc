@@ -1,5 +1,7 @@
 ---
 title: "Arsenic (Wikipedia)"
+⬅️: Germanium (Wikipedia)
+➡️: Selenium (Wikipedia)
 atomic number: 33
 element of: Chemistry (Wikipedia)
 excerpt: >-
