@@ -6,6 +6,7 @@ retrieved: 2024-11-09
 type: website
 url: /en.wikipedia.org/wiki/Prime_number/
 website: "https://en.wikipedia.org/wiki/Prime_number"
+wikipedia of: prime number
 tags:
   - Natural number (Wikipedia)
   - Wikipedia
