@@ -6,7 +6,7 @@ signature of:
   - JD Vance
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:JD_Vance_Signature-01.svg/
+url: /commons.wikimedia.org/wiki/JD_Vance_Signature-01.svg/
 website: "https://commons.wikimedia.org/wiki/File:JD_Vance_Signature-01.svg"
 when: 2023-11-16
 tags:
