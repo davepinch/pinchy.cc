@@ -6,6 +6,7 @@ mountain range of:
 near:
   - Santa Barbara
   - Goleta Beach
+wikidata: "https://www.wikidata.org/wiki/Q2223302"
 tags:
   - mountain range
 ---

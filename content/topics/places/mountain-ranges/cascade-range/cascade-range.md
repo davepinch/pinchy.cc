@@ -16,6 +16,7 @@ mountain range of:
   - Washington
   - United States
   - North America
+wikidata: "https://www.wikidata.org/wiki/Q4558"
 tags:
   - mountain range
 ---

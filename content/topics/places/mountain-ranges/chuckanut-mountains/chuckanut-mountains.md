@@ -10,7 +10,7 @@ mountain range of:
 near:
   - Bellingham, Washington
   - Lake Samish
-type: mountain-range
+wikidata: "https://www.wikidata.org/wiki/Q5115863"
 tags:
   - mountain range
 ---
