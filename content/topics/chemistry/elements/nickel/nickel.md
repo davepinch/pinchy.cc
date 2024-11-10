@@ -2,6 +2,7 @@
 title: "nickel"
 ⬅️: cobalt
 ➡️: copper
+atomic number: 28
 element of:
   - metal
   - chemistry
