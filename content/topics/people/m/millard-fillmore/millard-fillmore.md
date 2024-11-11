@@ -2,7 +2,7 @@
 title: "Millard Fillmore"
 ⬅️: Zachary Taylor
 ➡️: Franklin Pierce
-former president of: United States
+president of: United States
 type: person
 tags:
   - president of the United States
