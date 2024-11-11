@@ -2,7 +2,7 @@
 title: "William Henry Harrison"
 ⬅️: Martin Van Buren
 ➡️: John Tyler
-former president of: United States
+president of: United States
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q11869"
 tags:
