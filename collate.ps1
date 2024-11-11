@@ -1095,8 +1095,10 @@ foreach ($page in $titles.Values) {
     Test-TagRequiresProperty $page "photograph" "photograph of"
 
     # president of the United States
+    Test-TagRequiresProperty $page "president of the United States" "birth"
     Test-TagRequiresProperty $page "president of the United States" "member of"
     Test-TagRequiresProperty $page "president of the United States" "president of"
+    Test-TagRequiresProperty $page "president of the United States" "signature"
     Test-TagRequiresProperty $page "president of the United States" "wikidata"
     Test-TagRequiresProperty $page "president of the United States" "Wikipedia"
 
