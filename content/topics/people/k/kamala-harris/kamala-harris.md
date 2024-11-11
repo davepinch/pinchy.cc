@@ -1,5 +1,6 @@
 ---
 title: "Kamala Harris"
+member of: Democratic Party
 type: person
 vice president of:
   - United States
