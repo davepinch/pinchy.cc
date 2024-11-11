@@ -2,6 +2,7 @@
 title: "Zachary Taylor"
 ⬅️: James K. Polk
 ➡️: Millard Fillmore
+member of: Whig Party
 president of: United States
 type: person
 tags:
