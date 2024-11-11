@@ -8,7 +8,7 @@ retrieved: 2024-03-02
 type: website
 url: /en.wikipedia.org/wiki/Dmitry_Muratov/
 website: "https://en.wikipedia.org/wiki/Dmitry_Muratov"
-wikipedia of: Dmitiry Muratov
+wikipedia of: Dmitry Muratov
 tags:
   - Wikipedia
 ---
