@@ -4,7 +4,7 @@ title: >-
 attribution: Katt Williams, *The Pimp Chronicles, Pt. 1* (2006)
 citation: >-
   Katt Williams. (2023, December 6). *Wikiquote*. Retrieved July 21, 2024 from https://en.wikiquote.org/w/index.php?title=Katt_Williams&oldid=3413284.
-quote of: Katt Williams
+marijuana of: Katt Williams
 type: quote
 tags:
   - cannabis
