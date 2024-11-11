@@ -2,7 +2,8 @@
 title: "James K. Polk"
 ⬅️: John Tyler
 ➡️: Zachary Taylor
-former president of: United States
+member of: Democratic Party
+president of: United States
 protege of: Andrew Jackson
 type: person
 tags:
