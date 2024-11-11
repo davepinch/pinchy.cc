@@ -1,7 +1,8 @@
 ---
 title: "Abraham Lincoln"
 ⬅️: James Buchanan
-➡️: Andrew Johnson 
+➡️: Andrew Johnson
+president of: United States
 type: person
 tags:
   - American
