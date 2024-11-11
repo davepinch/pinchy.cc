@@ -4,6 +4,7 @@ title: "Grover Cleveland"
 ➡️ (1st presidency): Benjamin Harrison
 ⬅️ (2nd presidency): Benjamin Harrison
 ➡️ (2nd presidency): William McKinley
+member of: Democratic Party
 president of: United States
 type: person
 tags:
