@@ -2,6 +2,7 @@
 title: "Theodore Roosevelt"
 ⬅️: William McKinley
 ➡️: William Howard Taft
+member of: Republican Party
 president of: United States
 tags:
   - president of the United States
