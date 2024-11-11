@@ -2,7 +2,7 @@
 title: "Richard Nixon"
 ⬅️: Lyndon B. Johnson
 ➡️: Gerald Ford
-party: Republican Party
+member of: Republican Party
 tags:
   - president of the United States
   - human being
