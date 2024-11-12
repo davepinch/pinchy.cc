@@ -5,6 +5,7 @@ died on: 1947-07-17
 friend:
   - Pál Szalai
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q152850"
 tags:
   - Swedish
   - humanitarian

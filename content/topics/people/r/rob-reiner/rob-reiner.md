@@ -1,9 +1,7 @@
 ---
 title: "Rob Reiner"
-directed:
-  - The Princess Bride
-  - A Few Good Men
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q287607"
 tags:
   - American
   - actor

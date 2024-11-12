@@ -7,6 +7,7 @@ excerpt: >-
 member of:
   - Whig Party (United States) (Wikipedia)
   - Republican Party (United States) (Wikipedia)
+president of: United States (Wikipedia)
 retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Rutherford_B._Hayes/
