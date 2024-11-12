@@ -12,5 +12,5 @@ url: /youtu.be/O9fSK2AR594/
 website: "https://www.youtube.com/watch?v=O9fSK2AR594"
 youtube-id: O9fSK2AR594
 tags:
-  - YouTube
+  - YouTube video
 ---
