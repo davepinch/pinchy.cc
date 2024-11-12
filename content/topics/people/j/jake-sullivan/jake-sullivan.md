@@ -8,6 +8,7 @@ national security advisor of:
   - United States
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q16730147"
+𝕏: "https://x.com/JakeSullivan46"
 tags:
   - human being
 ---
