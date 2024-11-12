@@ -1,6 +1,7 @@
 ---
 title: "Grigori Rasputin"
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q43989"
 tags:
   - Russian
   - mystic
