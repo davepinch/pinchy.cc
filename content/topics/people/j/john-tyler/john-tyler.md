@@ -2,7 +2,7 @@
 title: "John Tyler"
 ⬅️: William Henry Harrison
 ➡️: James K. Polk
-former president of: United States
+president of: United States
 member of: Whig Party
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q11881"
