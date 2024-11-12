@@ -7,7 +7,7 @@ signature of:
   - William Blake
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:William_Blake_signature.svg/
+url: /commons.wikimedia.org/wiki/William_Blake_signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:William_Blake_signature.svg"
 tags:
   - signature
