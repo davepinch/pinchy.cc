@@ -2,8 +2,8 @@
 title: "Gerald Ford"
 ⬅️: Richard Nixon
 ➡️: Jimmy Carter
-former president of: United States
 member of: Republican Party
+president of: United States
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q9582"
 tags:
