@@ -1,6 +1,7 @@
 ---
 title: "Calvin Coolidge cph.3g10777.jpg (Wikimedia Commons)"
 author: Notman Studio, Boston. Restoration by Adam Cuerden
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/78/Calvin_Coolidge_cph.3g10777.jpg"
 portrait of: Calvin Coolidge
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Calvin_Coolidge_cph.3g10777.jpg/389px-Calvin_Coolidge_cph.3g10777.jpg"
