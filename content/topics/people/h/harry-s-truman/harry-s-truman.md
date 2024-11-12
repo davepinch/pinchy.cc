@@ -5,6 +5,7 @@ title: "Harry S. Truman"
 member of: Democratic Party
 president of: United States
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q11613"
 tags:
   - president of the United States
   - human being
