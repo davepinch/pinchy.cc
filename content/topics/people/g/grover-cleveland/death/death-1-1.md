@@ -3,6 +3,7 @@ title: "Cleveland's health had been declining for several years, and in the autu
 citation: >-
   Wikipedia contributors. (2024, November 11). Grover Cleveland. In *Wikipedia, The Free Encyclopedia*. Retrieved 03:41, November 12, 2024, from https://en.wikipedia.org/w/index.php?title=Grover_Cleveland&oldid=1256855030
 death of: Grover Cleveland
+last words: "I have tried so hard to do right."
 snippet of: Grover Cleveland (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Grover_Cleveland/death-1-1/
