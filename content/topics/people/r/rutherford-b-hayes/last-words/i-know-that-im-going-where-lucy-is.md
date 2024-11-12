@@ -8,4 +8,5 @@ type: quote
 when: 1893-01-17
 tags:
   - last words
+  - quote
 ---
