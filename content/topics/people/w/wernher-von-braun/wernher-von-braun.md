@@ -1,6 +1,7 @@
 ---
 title: "Wernher von Braun"
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q57384"
 tags:
   - German
   - scientist

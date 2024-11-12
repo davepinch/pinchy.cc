@@ -5,6 +5,7 @@ title: "Warren G. Harding"
 member of: Republican Party
 president of: United States
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q35286"
 tags:
   - president of the United States
   - human being

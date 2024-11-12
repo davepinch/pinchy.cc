@@ -5,6 +5,7 @@ title: "William Howard Taft"
 member of: Republican Party
 president of: United States
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q35648"
 tags:
   - president of the United States
 ---

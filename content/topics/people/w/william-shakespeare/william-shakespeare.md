@@ -1,6 +1,7 @@
 ---
 title: "William Shakespeare"
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q692"
 tags:
   - English
   - writer
