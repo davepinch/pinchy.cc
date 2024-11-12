@@ -6,7 +6,7 @@ excerpt: >-
 type: website
 url: /en.wikiquote.org/wiki/Johannes_Kepler/
 website: "https://en.wikiquote.org/wiki/Johannes_Kepler"
-quotes of: Johannes Kepler
+wikiquote of: Johannes Kepler
 tags:
   - Wikiquote
 ---
