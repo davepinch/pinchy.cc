@@ -7,6 +7,7 @@ president of: United States
 TODO:
   - catalog other founding fathers
   - catalog other political parties
+wikidata: "https://www.wikidata.org/wiki/Q11806"
 tags:
   - Founding Father
   - president of the United States

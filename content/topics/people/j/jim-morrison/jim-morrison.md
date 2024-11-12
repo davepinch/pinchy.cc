@@ -2,6 +2,7 @@
 title: "Jim Morrison"
 also died in paris: Oscar Wilde
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q44301"
 tags:
   - American
   - singer

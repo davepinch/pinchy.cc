@@ -7,6 +7,7 @@ national security advisor of:
   - Joe Biden
   - United States
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q16730147"
 tags:
   - human being
 ---

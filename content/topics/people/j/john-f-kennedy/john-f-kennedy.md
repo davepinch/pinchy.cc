@@ -4,6 +4,7 @@ title: "John F. Kennedy"
 ➡️: Lyndon B. Johnson
 member of: Democratic Party
 president of: United States
+wikidata: "https://www.wikidata.org/wiki/Q9696"
 tags:
   - president of the United States
   - human being

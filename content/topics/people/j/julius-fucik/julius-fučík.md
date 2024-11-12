@@ -7,6 +7,7 @@ known for: Notes from the Gallows
 those who faced death a hero: Jørgen Haagen Schmith
 TODO: document his uncle, a composer with the same name
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q142059"
 tags:
   - journalist
   - writer
