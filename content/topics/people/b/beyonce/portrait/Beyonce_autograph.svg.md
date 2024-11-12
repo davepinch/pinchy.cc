@@ -7,7 +7,7 @@ signature of:
   - Beyoncé
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Beyonce_autograph.svg/
+url: /commons.wikimedia.org/wiki/Beyonce_autograph.svg/
 website: "https://commons.wikimedia.org/wiki/File:Beyonc%C3%A9_autograph.svg"
 tags:
   - signature
