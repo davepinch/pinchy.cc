@@ -3,7 +3,7 @@ title: "Donald Trump"
 ⬅️: Barack Obama
 ➡️: Joe Biden
 member of: Republican Party
-former president of: United States
+president of: United States
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q22686"
 𝕏: https://x.com/realDonaldTrump
