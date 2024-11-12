@@ -7,7 +7,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TAYLOR%2C_Za
 portrait of: Zachary Taylor
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/TAYLOR%2C_Zachary-President_%28BEP_engraved_portrait%29.jpg/348px-TAYLOR%2C_Zachary-President_%28BEP_engraved_portrait%29.jpg"
 type: picture
-url: /en.wikipedia.org/wiki/File:TAYLOR,_Zachary-President_(BEP_engraved_portrait).jpg/
+url: /en.wikipedia.org/wiki/TAYLOR,_Zachary-President_(BEP_engraved_portrait).jpg/
 website: "https://en.wikipedia.org/wiki/File:TAYLOR,_Zachary-President_(BEP_engraved_portrait).jpg"
 tags:
   - portrait
