@@ -7,6 +7,7 @@ title: "Grover Cleveland"
 member of: Democratic Party
 president of: United States
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q35171"
 tags:
   - president of the United States
   - human being
