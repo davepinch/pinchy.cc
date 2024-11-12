@@ -2,6 +2,7 @@
 title: "Benjamin Harrison"
 ⬅️: Grover Cleveland
 ➡️: Grover Cleveland
+member of: Republican Party
 president of: United States
 type: person
 tags:
