@@ -5,6 +5,7 @@ title: "Ulysses S. Grant"
 member of: Republican Party
 president of: United States
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q34836"
 tags:
   - president of the United States
   - human being
