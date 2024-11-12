@@ -2,6 +2,7 @@
 title: "John Adams"
 ⬅️: George Washington
 ➡️: Thomas Jefferson
+member of: Federalist Party
 president of: United States
 TODO: catalog other founding fathers
 tags:
