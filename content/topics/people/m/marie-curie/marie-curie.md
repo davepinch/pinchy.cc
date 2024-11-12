@@ -1,6 +1,7 @@
 ---
 title: "Marie Curie"
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q7186"
 tags:
   - physicist
   - chemist
