@@ -7,4 +7,5 @@ president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q35236"
 tags:
   - president of the United States
+  - dead at the moment
 ---
