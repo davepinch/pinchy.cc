@@ -6,8 +6,10 @@ citation: >-
 snippet of: Vashon, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Vashon,_Washington/history-1-2/
-tags:
+vicinity of:
+  - Vashon, Washington
   - Vashon Island
+tags:
   - Pacific Ocean
   - Cascadia Subduction Zone
   - snippet
