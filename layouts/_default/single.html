@@ -8,7 +8,7 @@
   {{ .Content }}
 </section>
 
-{{ $record := index .Site.Data.titles .Title }}
+{{ $record := partial "cc-get" .Title }}
 
 <!-- sections -->
 {{ $skip := slice
