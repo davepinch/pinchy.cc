@@ -27,7 +27,21 @@ function _DIR($criteria) {
     }
 }
 
+function _EXEC($command) {
+    _DIR $command
+}
+
+function _READ {
+    return Read-Host ":"
+}
+
 Write-Host "hello world"
 _DIR
-$userInput = Read-Host ">>> "
-_DIR $userInput
+
+do {
+    $userInput = _READ
+    if ($userInput -eq "exit") {
+        break
+    }
+    _EXEC $userInput
+} while ($true)
