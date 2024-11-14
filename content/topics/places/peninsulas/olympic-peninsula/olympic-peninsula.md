@@ -9,7 +9,7 @@ borders:
 pensinula of: Washington
 near: Seattle
 state: Washington
-type: peninsula
+wikidata: "https://www.wikidata.org/wiki/Q780293"
 tags:
   - peninsula
 ---
