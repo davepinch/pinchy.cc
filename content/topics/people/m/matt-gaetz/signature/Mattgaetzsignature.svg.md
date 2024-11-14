@@ -1,6 +1,5 @@
 ---
 title: "Mattgaetzsignature.svg (Wikimedia Commons)"
-author: 
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Mattgaetzsignature.svg"
 signataure of:
