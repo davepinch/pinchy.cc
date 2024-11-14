@@ -5,6 +5,7 @@ excerpt: >-
 member of: Republican Party (United States) (Wikipedia)
 retrieved: 2024-11-13
 type: website
+url: /en.wikipedia.org/wiki/Tulsi_Gabbard/
 website: "https://en.wikipedia.org/wiki/Tulsi_Gabbard"
 wikipedia of: Tulsi Gabbard
 tags:
