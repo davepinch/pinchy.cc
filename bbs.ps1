@@ -19,6 +19,10 @@ function Get-Icon($item) {
 # are under development and will be renamed to conventional form.
 #
 
+function _CLS {
+    Clear-Host
+}
+
 function _DIR($criteria) {
     Get-ChildItem | ForEach-Object {
         if ($_.Name -like "$criteria*") {
@@ -38,10 +42,18 @@ function _READ {
 Write-Host "hello world"
 _DIR
 
+$exit = $false
 do {
     $userInput = _READ
-    if ($userInput -eq "exit") {
-        break
+    switch ($userInput) {
+        "cls" {
+            _CLS
+        }
+        "exit" {
+            $exit = $true
+        }
+        default {
+            _EXEC $userInput
+        }
     }
-    _EXEC $userInput
-} while ($true)
+} while (-not $exit)
