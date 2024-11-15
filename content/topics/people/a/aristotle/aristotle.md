@@ -6,6 +6,7 @@ pupils:
   - Alexander the Great
   - Theophrastus
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q868"
 tags:
   - Greek
   - philosopher

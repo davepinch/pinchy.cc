@@ -6,6 +6,7 @@ friends:
   - Jack Kerouac
   - William S. Burroughs
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q6711"
 tags:
   - American
   - poet

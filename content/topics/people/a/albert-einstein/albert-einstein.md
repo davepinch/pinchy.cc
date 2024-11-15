@@ -8,6 +8,7 @@ good friend: Kurt Gödel
 known for:
   - General relativity
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q937"
 tags:
   - German
   - physicist

@@ -5,4 +5,5 @@ type: person
 tags:
   - attorney
   - human being
+  - no Wikidata record
 ---
