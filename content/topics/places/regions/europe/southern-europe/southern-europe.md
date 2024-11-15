@@ -1,7 +1,7 @@
 ---
 title: "Southern Europe"
 region of: Europe
-type: region
+wikidata: "https://www.wikidata.org/wiki/Q27449"
 tags:
   - region
 ---

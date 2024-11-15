@@ -1,7 +1,7 @@
 ---
 title: "Southeast Europe"
 region of: Europe
-type: region
+wikidata: "https://www.wikidata.org/wiki/Q263686"
 tags:
   - region
 ---
