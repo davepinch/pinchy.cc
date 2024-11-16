@@ -3,6 +3,9 @@ title: "Scratchpad"
 draft: true
 ---
 
+Wilmington Lie (Bill Burr?)
+
+---
 A site to research:
 https://www.hathitrust.org/
 
