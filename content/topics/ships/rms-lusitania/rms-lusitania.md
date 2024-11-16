@@ -1,5 +1,5 @@
 ---
-title: "Lusitania"
+title: "RMS Lusitania"
 tags:
   - ocean liner
   - ship
