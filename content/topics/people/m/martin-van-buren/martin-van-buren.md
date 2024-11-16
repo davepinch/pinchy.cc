@@ -2,6 +2,7 @@
 title: "Martin Van Buren"
 ⬅️: Andrew Jackson
 ➡️: William Henry Harrison
+member of: Democratic Party
 president of: United States
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q11820"
