@@ -1,5 +1,6 @@
 ---
 title: "gallium"
+➡️: germanium
 ⬅️: zinc
 atomic number: 31
 element of: chemistry
