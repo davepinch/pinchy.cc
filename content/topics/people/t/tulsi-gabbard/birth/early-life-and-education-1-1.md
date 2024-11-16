@@ -9,5 +9,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Tulsi_Gabbard/early-life-and-education-1-1/
 when: 1981-04-12
 tags:
-  - Wikipedia
+  - snippet
 ---
