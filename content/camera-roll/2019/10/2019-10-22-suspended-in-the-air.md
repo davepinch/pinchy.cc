@@ -1,5 +1,6 @@
 ---
 title: "Suspended in the air"
+author: Dave Pinch
 floating of: leaf
 leaf of: looking up
 license: CC BY-SA 4.0
