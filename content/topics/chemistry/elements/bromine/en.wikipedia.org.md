@@ -1,5 +1,7 @@
 ---
 title: "Bromine (Wikipedia)"
+⬅️: Selenium (Wikipedia)
+➡️: Krypton (Wikipedia)
 atomic number: 35
 element of:
   - Halogen (Wikipedia)
