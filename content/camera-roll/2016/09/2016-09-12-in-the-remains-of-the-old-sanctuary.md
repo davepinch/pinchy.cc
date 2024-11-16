@@ -1,5 +1,7 @@
 ---
 title: "In the remains of the Old Sanctuary"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - Temple De Hirsch Sinai
   - looking down
