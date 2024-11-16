@@ -8,11 +8,11 @@ photograph of:
   - leaf
   - rusted
   - Capitol Hill, Seattle
-picture: content/camera-roll/2016/09/2016-09-12-in-the-remains-of-the-old-sanctuary/20160912_003500813_iOS.jpg
+picture: content/camera-roll/2016/09/2016-09-12-in-the-remains-of-the-old-sanctuary/in-the-remains-of-the-old-sanctuary.jpg
 related:
   - Seattle_-_Old_Temple_De_Hirsch.jpg (Wikimedia Commons)
   - Temple De Hirsch Sinai (Wikipedia)
-thumbnail: content/camera-roll/2016/09/2016-09-12-in-the-remains-of-the-old-sanctuary/20160912_003500813_iOS-thumbnail.jpg
+thumbnail: content/camera-roll/2016/09/2016-09-12-in-the-remains-of-the-old-sanctuary/in-the-remains-of-the-old-sanctuary.thumbnail.jpg
 type: picture
 when: 2016-09-12
 tags:
