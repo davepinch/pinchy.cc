@@ -1,6 +1,7 @@
 ---
 title: "Ginkgo leaves in November"
 alt: "The ground is covered with yellow and brown Ginkgo biloba leaves, damp from a recent rainfall." 
+author: David Pinch
 caption: "Damp weather has started, and leaves cover the ground"
 leaves of: Ginkgo biloba
 license: CC BY-SA 4.0
