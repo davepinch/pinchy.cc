@@ -1,7 +1,7 @@
 ---
 title: "Memorial Stadium"
 openstreetmap: "https://www.openstreetmap.org/relation/1671940"
-stadium of:
+building of:
   - Seattle Center
   - Seattle
 wikidata: "https://www.wikidata.org/wiki/Q6588210"
