@@ -1,6 +1,7 @@
 ---
 title: "copper"
 ➡️: zinc
+⬅️: nickel
 atomic number: 29
 element of:
   - metal
