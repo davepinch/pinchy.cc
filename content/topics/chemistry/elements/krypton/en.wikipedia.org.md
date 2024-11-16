@@ -8,6 +8,7 @@ retrieved: 2024-11-16
 type: website
 url: /en.wikipedia.org/wiki/Krypton/
 website: "https://en.wikipedia.org/wiki/Krypton"
+wikipedia of: krypton
 tags:
   - Wikipedia
 ---
