@@ -12,5 +12,6 @@ url: /commons.wikimedia.org/wiki/Flag_of_Little_Canada,_Minnesota.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Little_Canada,_Minnesota.svg"
 tags:
   - 🍁
+  - flag
   - Wikimedia Commons
 ---
