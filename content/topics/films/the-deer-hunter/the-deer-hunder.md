@@ -18,6 +18,7 @@ on location of:
   - West Virginia
   - Pennsylvania
 wikidata: "https://www.wikidata.org/wiki/Q201674"
+wikipedia: "https://en.wikipedia.org/wiki/The_Deer_Hunter"
 tags:
   - film
 ---
