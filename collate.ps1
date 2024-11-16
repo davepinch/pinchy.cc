@@ -1069,6 +1069,10 @@ foreach ($page in $titles.Values) {
     # flag
     Test-TagRequiresProperty $page "flag" "wikipedia"
 
+    # film
+    Test-TagRequiresProperty $page "film" "wikidata"
+    Test-TagRequiresProperty $page "film" "Wikipedia"
+
     # hacker news
     Test-PropertyRequiresTag $page "hacker news" "shared on Hacker News"
     Test-TagRequiresProperty $page "shared on Hacker News" "hacker news"    
