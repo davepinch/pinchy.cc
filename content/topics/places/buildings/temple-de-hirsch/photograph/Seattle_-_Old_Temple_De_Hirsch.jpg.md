@@ -1,5 +1,6 @@
 ---
 title: "Seattle_-_Old_Temple_De_Hirsch.jpg (Wikimedia Commons)"
+bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3lb45nnsbuc2v"
 excerpt: >-
   Jewish New Year's Card circa 1908, depicting Seattle's old Temple de Hirsch (demolished 1993; only part of the façade remains)
 license: public domain
