@@ -3,6 +3,10 @@ title: "Scratchpad"
 draft: true
 ---
 
+IEEE code of ethics
+https://www.ieee.org/about/corporate/governance/p7-8.html
+
+
 Wilmington Lie (Bill Burr?)
 
 ---
