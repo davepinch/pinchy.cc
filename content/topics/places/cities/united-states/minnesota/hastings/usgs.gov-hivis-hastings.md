@@ -5,7 +5,9 @@ description: >-
 license: "https://www.usgs.gov/information-policies-and-instructions/copyrights-and-credits"
 picture: >-
   https://usgs-nims-images.s3.amazonaws.com/overlay/MN_Mississippi_River_below_Lock_and_Dam_2_at_Hastings/MN_Mississippi_River_below_Lock_and_Dam_2_at_Hastings_newest.jpg
-TODO: get a picture of the reflected bridge (see timelapse for examples)
+TODO:
+  - get a picture of the reflected bridge (see timelapse for examples)
+  - See Internet Archive made on 11/17/2024
 type: picture
 url: /apps.usgs.gov/hivis/camera/MN_Mississippi_River_below_Lock_and_Dam_2_at_Hastings/
 webcam of:
