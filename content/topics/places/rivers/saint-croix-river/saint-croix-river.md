@@ -5,7 +5,7 @@ river of:
   - Minnesota
   - Wisconsin
 tributary of: Mississippi River
-type: river
+wikidata: "https://www.wikidata.org/wiki/Q1507416"
 tags:
   - river
 ---

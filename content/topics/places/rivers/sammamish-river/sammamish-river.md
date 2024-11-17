@@ -12,7 +12,7 @@ source: Lake Sammamish
 tributaries:
   - Swamp Creek
   - incomplete list
-type: river
+wikidata: "https://www.wikidata.org/wiki/Q7409639"
 tags:
   - river
 ---

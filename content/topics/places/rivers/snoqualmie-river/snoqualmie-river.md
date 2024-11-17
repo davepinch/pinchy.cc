@@ -6,7 +6,7 @@ river of:
   - Snohomish County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/10651897"
 tributary of: Snohomish River
-type: river
+wikidata: "https://www.wikidata.org/wiki/Q2295983"
 tags:
   - river
 ---

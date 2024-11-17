@@ -11,7 +11,7 @@ river of:
   - Snohomish County, Washington
   - Washington
   - Cascade Range
-type: river
+wikidata: "https://www.wikidata.org/wiki/Q2349527"
 tags:
   - river
 ---

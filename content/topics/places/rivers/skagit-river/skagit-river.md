@@ -17,7 +17,7 @@ river of:
   - Puget Sound
   - Cascade Range
 southbound on interstate 5: Mount Vernon, Washington
-type: river
+wikidata: "https://www.wikidata.org/wiki/Q305408"
 tags:
   - river
 ---

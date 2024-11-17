@@ -22,6 +22,7 @@ river of:
   - Cascade Range
   - Snohomish County, Washington
 westbound on U.S. Route 2: Interstate 5
+wikidata: "https://www.wikidata.org/wiki/Q2619028"
 tags:
   - river
 ---

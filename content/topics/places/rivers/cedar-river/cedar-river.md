@@ -11,6 +11,7 @@ reddit posts:
 rockhounding site of:
   - petrified wood
   - fossil
+wikidata: "https://www.wikidata.org/wiki/Q1052529"
 tags:
   - river
   - VISIT SOMEWHERE NEW

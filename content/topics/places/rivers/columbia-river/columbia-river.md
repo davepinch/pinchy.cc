@@ -17,7 +17,6 @@ river of:
 tributaries:
   - Methow River
   - incomplete list
-type: river
 wikidata: "https://www.wikidata.org/wiki/Q2251"
 tags:
   - river

@@ -33,7 +33,7 @@ states:
   - Arkansas
   - Mississippi
   - Louisiana
-type: river
+wikidata: "https://www.wikidata.org/wiki/Q1497"
 tags:
   - river
 ---

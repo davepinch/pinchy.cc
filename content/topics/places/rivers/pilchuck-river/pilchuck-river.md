@@ -9,6 +9,7 @@ river of:
 TODO: see if using 'openstreetmap' instead of 'OpenStreetMap' impacts the orders of properties on the page. In this page, it is all lowercase.
 tributary of: Snohomish River
 westbound on U.S. Route 2: Snohomish River
+wikidata: "https://www.wikidata.org/wiki/Q4362811"
 tags:
   - river
   - TODO

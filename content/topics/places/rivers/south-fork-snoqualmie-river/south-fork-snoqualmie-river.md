@@ -7,6 +7,7 @@ river of:
   - King County, Washington
   - Washington
 south fork of: Snoqualmie River
+wikidata: "https://www.wikidata.org/wiki/Q114381972"
 tags:
   - river
 ---
