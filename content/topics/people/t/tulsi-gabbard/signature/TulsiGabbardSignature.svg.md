@@ -1,7 +1,7 @@
 ---
 title: "TulsiGabbardSignature.svg (Wikimedia Commons)"
 license: public domain
-picture: "https://upload.wikimedia.org/wikipedia/commons/e/e5/TulsiGabbardSignature.svg"
+picture: "https://upload.wikimedia.org/wikipedia/commons/7/7c/Tulsi_Gabbard_signature.svg"
 signature of:
   - Tulsi Gabbard
   - SVG
