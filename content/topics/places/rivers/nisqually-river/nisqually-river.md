@@ -1,5 +1,6 @@
 ---
 title: "Nisqually River"
+openstreetmap: "https://www.openstreetmap.org/relation/13695348"
 river of:
   - Cascade Range
   - Mount Rainier

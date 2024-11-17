@@ -1,5 +1,6 @@
 ---
 title: "Sumas River"
+openstreetmap: "https://www.openstreetmap.org/relation/11989582"
 river of:
   - British Columbia
   - Washington
