@@ -1,5 +1,7 @@
 ---
 title: "Astatine (Wikipedia)"
+⬅️: Polonium (Wikipedia)
+➡️: Radon (Wikipedia)
 atomic number: 85
 element of:
   - Halogen (Wikipedia)
