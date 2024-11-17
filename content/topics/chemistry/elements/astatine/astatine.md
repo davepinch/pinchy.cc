@@ -1,5 +1,7 @@
 ---
 title: "astatine"
+⬅️: polonium
+➡️: radon
 atomic number: 85
 element of:
   - chemistry
