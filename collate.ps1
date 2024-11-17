@@ -1111,9 +1111,11 @@ foreach ($page in $titles.Values) {
     Test-TypeRequiresTag $page "quote" "quote"
     
     # river
-    Test-TypeRequiresProperty $page "river" "river of"
-    Test-TypeRequiresProperty $page "river" "wikipedia"
     Test-TypeRequiresTag $page "river" "river"
+    Test-TagRequiresProperty $page "river" "openstreetmap"
+    Test-TagRequiresProperty $page "river" "river of"
+    Test-TagRequiresProperty $page "river" "wikidata"
+    Test-TagRequiresProperty $page "river" "Wikipedia"
 
     # sea
     Test-TagRequiresProperty $page "sea" "sea of"
