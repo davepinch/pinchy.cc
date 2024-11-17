@@ -1,15 +1,11 @@
-.cc-tweet-masthead {
-    background-color: black;
-    color: white;
-    padding-left: 16pt;
-    padding-right: 16pt
-}
 
-.cc-tweet-card {
+.cc-tweet-masthead,
+.cc-tweet-card,
+.cc-tweet-inline,
+.cc-tweet-tag {
     background-color: black;
     color: white;
-    padding: 8pt;
-    padding-right: 0pt;
+    font-family: sans-serif;
 }
 
 .cc-tweet-card a,
@@ -19,7 +15,12 @@
     color: white;
 }
 
-.cc-tweet-inline {
-    background-color: black;
-    color: white;
+.cc-tweet-masthead {
+    padding-left: 16pt;
+    padding-right: 16pt
+}
+
+.cc-tweet-card {
+    padding: 8pt;
+    padding-right: 0pt;
 }
