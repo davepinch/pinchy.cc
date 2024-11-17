@@ -1,6 +1,7 @@
 ---
 title: "In the remains of the Old Sanctuary"
 author: David Pinch
+bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3lb44ipcfv22v"
 license: CC BY-SA 4.0
 photograph of:
   - Temple De Hirsch Sinai
