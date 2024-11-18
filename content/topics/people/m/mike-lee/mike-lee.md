@@ -1,5 +1,6 @@
 ---
 title: "Mike Lee"
+member of: Republican Party
 type: person
 United States Senator of: Utah
 wikidata: "https://www.wikidata.org/wiki/Q627098"
