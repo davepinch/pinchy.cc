@@ -1,5 +1,6 @@
 ---
 title: "Yakima River"
+longest river entirely in the state of: Washington
 river of:
   - Benton County, Washington
   - Yakima County, Washington
