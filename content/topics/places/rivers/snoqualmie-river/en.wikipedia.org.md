@@ -9,10 +9,14 @@ river of:
   - King County, Washington (Wikipedia)
   - Snohomish County, Washington (Wikipedia)
 tributary of: Snohomish River (Wikipedia)
+TODO: add other forks
 type: website
 url: /en.wikipedia.org/wiki/Snoqualmie_River/
 website: "https://en.wikipedia.org/wiki/Snoqualmie_River"
-wikipedia of: Snoqualmie River
+wikipedia of:
+  - Snoqualmie River
+  - South Fork Snoqualmie River
 tags:
+  - TODO
   - Wikipedia
 ---
