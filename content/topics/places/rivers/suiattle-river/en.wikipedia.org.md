@@ -6,7 +6,7 @@ retrieved: 2024-11-17
 river of:
   - Skagit County, Washington (Wikipedia)
   - Cascade Range (Wikipedia)
-tributary of: Sauk River (Wikipedia)
+tributary of: Sauk River (Washington) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Suiattle_River/
 website: "https://en.wikipedia.org/wiki/Suiattle_River"
