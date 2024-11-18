@@ -1,5 +1,6 @@
 ---
 title: "Guidon of the United States National Park Service.svg (Wikimedia Commons)"
+agency of: Flag of the United States Department of the Interior.svg (Wikimedia Commons)
 author: "Vectorization by [Fry1989](https://commons.wikimedia.org/wiki/User:Fry1989)"
 flag of: National Park Service
 license: public domain
