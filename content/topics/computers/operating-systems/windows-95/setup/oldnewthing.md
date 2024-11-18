@@ -1,5 +1,5 @@
 ---
-title: "Why did Windows 95 setup use three operating systems? (The Old New Thing)"
+title: "Why did Windows 95 setup use three operating systems? (devblogs.microsoft.com)"
 excerpt: >-
   Twitter users @tthirtle asked why Windows 95 setup goes through three operating systems: MS-DOS, Windows 3.1, and then Windows 95. Why not go from MS-DOS straight to Windows 95?
 mention of:
