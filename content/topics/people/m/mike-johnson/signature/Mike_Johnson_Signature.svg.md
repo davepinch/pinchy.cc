@@ -2,6 +2,7 @@
 title: "Mike Johnson Signature.svg (Wikimedia Commons)"
 author: "Vectorization by [Aerra Carnicom](https://commons.wikimedia.org/wiki/User:Zhing%27za_z%C3%AF_%C3%8Fnin)"
 license: public domain
+picture: "https://upload.wikimedia.org/wikipedia/commons/0/07/Mike_Johnson_Signature.svg"
 signature of:
   - Mike Johnson
   - SVG
