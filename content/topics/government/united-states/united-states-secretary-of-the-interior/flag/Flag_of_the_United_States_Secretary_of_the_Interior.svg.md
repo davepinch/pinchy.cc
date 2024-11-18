@@ -1,9 +1,7 @@
 ---
 title: "Flag of the United States Secretary of the Interior.svg (Wikimedia Commons)"
 author: "[Fry1989](https://commons.wikimedia.org/wiki/User:Fry1989)"
-flag of:
-  - United States Department of the Interior
-  - United States Secretary of the Interior
+flag of: United States Secretary of the Interior
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_the_United_States_Secretary_of_the_Interior.svg"
 type: picture
