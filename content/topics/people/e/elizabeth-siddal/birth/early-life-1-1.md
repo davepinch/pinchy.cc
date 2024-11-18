@@ -6,6 +6,7 @@ citation: >-
 snippet of: Elizabeth Siddal (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Elizabeth_Siddal/early-life-1-1/
+when: 1829-07-25
 tags:
   - birth
   - snippet
