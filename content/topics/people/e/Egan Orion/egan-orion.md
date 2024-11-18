@@ -6,4 +6,5 @@ tags:
   - politician
   - city council candidate
   - human being
+  - no Wikidata record
 ---
