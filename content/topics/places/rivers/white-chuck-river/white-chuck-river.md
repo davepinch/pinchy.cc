@@ -1,5 +1,6 @@
 ---
 title: "White Chuck River"
+openstreetmap: "https://www.openstreetmap.org/way/127439971"
 river of:
   - Snohomish County, Washington
   - Washington
