@@ -1,6 +1,7 @@
 ---
 title: "Flag of the United States Department of Energy.svg (Wikimedia Commons)"
 author: "Vectorization by [Fry1989](https://commons.wikimedia.org/wiki/User:Fry1989)"
+executive department of: Flag_of_the_United_States.svg (Wikimedia Commons)
 flag of:
   - United States Department of Energy
   - SVG
