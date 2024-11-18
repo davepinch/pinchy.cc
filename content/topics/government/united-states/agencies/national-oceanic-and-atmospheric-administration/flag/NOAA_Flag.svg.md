@@ -1,5 +1,6 @@
 ---
 title: "NOAA Flag.svg (Wikimedia Commons)"
+agency of: Flag of the United States Department of Commerce.svg (Wikimedia Commons)
 author: "Vectorization by [Mdnavman](https://en.wikipedia.org/wiki/User:Mdnavman)"
 flag of:
   - National Oceanic and Atmospheric Administration
