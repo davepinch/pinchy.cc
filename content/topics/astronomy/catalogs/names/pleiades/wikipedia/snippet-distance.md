@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, July 17). Pleiades. In Wikipedia, The Free Encyclopedia. Retrieved July 17, 2024, from https://en.wikipedia.org/w/index.php?title=Pleiades&oldid=1234961455
 distance of: Pleiades
+light years: "442.77±0.33 light years"
 snippet of: Pleiades (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Pleiades/distance-3/
