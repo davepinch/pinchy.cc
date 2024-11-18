@@ -8,5 +8,5 @@ url: /en.wikipedia.org/wiki/United_States_Department_of_Transportation/
 website: "https://en.wikipedia.org/wiki/United_States_Department_of_Transportation"
 wikipedia of: United States Department of Transportation
 tags:
-  - Wikimedia
+  - Wikipedia
 ---
