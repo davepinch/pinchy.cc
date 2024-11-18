@@ -1,5 +1,6 @@
 ---
 title: "Sauk River"
+openstreetmap: "https://www.openstreetmap.org/relation/14885805"
 river of:
   - Skagit County, Washington
   - Washington
