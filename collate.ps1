@@ -74,7 +74,6 @@ function Get-EmojiCalendar() {
 
 function Get-EmojiCheckbox() {
     return [System.Char]::ConvertFromUtf32(0x2611)
-    #return Get-EmojiChar("1F5F8")
 }
 
 function Get-EmojiGlobe() {
@@ -180,8 +179,6 @@ foreach ($mdFile in $mdFiles) {
         $lastProgress = $progress
         Write-Progress -Activity "Loading" -Status $mdFile -PercentComplete $progress
     }
-    #Write-Host "Processing file $processedFiles of $totalFiles ($progress% done)"
-
  
     #
     # Get the relative path of the file for output
