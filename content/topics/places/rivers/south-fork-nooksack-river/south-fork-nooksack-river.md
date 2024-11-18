@@ -1,5 +1,6 @@
 ---
 title: "South Fork Nooksack River"
+openstreetmap: "https://www.openstreetmap.org/relation/14498334"
 river of:
   - Mount Baker–Snoqualmie National Forest
   - Mount Baker Wilderness
