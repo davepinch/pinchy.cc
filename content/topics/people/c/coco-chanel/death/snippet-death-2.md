@@ -10,6 +10,7 @@ snippet of: Coco Chanel (Wikipedia)
 related: "You see, this is how you die."
 type: snippet
 url: /en.wikipedia.org/wiki/Coco_Chanel/death-2/
+when: 1971-01-10
 tags:
   - death
   - Hotel Ritz
