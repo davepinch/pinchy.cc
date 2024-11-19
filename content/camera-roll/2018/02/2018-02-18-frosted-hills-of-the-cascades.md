@@ -1,11 +1,11 @@
 ---
 title: "Frosted hills of the Cascades"
+foothills of: Cascade Range
 license: CC BY-SA 4.0
 photograph of:
   - winter
   - Van Zandt, Washington
   - Washington State Route 9
-  - Cascade Range
 picture: >-
   content/camera-roll/2018/02/2018-02-18-frosted-hills-of-the-cascades/frosted-hills-of-the-cascades.jpg
 related:
