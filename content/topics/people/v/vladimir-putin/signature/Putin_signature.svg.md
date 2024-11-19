@@ -7,7 +7,7 @@ signature of:
   - Vladimir Putin
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Putin_signature.svg/
+url: /commons.wikimedia.org/wiki/Putin_signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Putin_signature.svg"
 tags:
   - signature
