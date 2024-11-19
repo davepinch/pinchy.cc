@@ -6,4 +6,5 @@ river of:
   - Washington
 tags:
   - river
+  - no Wikidata record
 ---
