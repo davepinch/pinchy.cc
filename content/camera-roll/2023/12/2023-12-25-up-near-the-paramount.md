@@ -1,5 +1,6 @@
 ---
 title: "Up Near the Paramount"
+author: David Pinch
 license: CC BY-SA 4.0
 looking up of: building
 photograph of:
