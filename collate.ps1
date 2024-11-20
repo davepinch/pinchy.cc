@@ -164,6 +164,11 @@ $titles = [hashtable]::new()
 $websites = [hashtable]::new()
 
 #
+# Use an array list to hold the list of pages.
+#
+$pageList = New-Object -TypeName System.Collections.ArrayList
+
+#
 # Define a hashtable of reverse-tags
 #
 $tagged = [hashtable]::new()
@@ -280,8 +285,11 @@ foreach ($mdFile in $mdFiles) {
     #
     # Add the YAML object to the hashtable of pages using its title as key
     #
+    $yaml."::path" = $mdPath
+    $pageIndex = $pageList.Add($yaml)
     $titles[$yaml.title] = $yaml
     $titles[$yaml.title]."::path" = $mdPath
+    $titles[$yaml.title]."::index" = $pageIndex
     
     #
     # Adjust the path if it starts with "content\"
