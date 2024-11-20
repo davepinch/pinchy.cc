@@ -1,23 +1,18 @@
 ---
 title: Crypto addresses
 type: article
-#
-# Updated on
-#
-date: 2023-06-16
-excerpt: Send cryptocurrency to the following addresses.
+date: 2024-11-20
+excerpt: I am creating a new crypto wallet, please do not send crypto right now
 ---
 
 ## BTC
 
-1M4tFj66mt7hkRoHoNgDsGH5HG88tQyj6Z
+* NONE at the moment
 
 ## Etherium (ERC20)
 
-0x3936d75af4da1e4884e543ad0e50b24d3cb70e1e
+* NONE at the moment
 
 ## BNB
 
-bnb10749k3j3lk763s9amgfhtyf72pfggf22x7glc0
-
-memo: 107699002
+* NONE at the moment
