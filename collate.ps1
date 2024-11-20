@@ -10,8 +10,14 @@
 function Add-PropertyValue($page, $property, $value) {
 
     if (-not $page.ContainsKey($property)) {
+        #
+        # The property is not defined yet. Add the value.
+        #
         $page[$property] = $value
     } else {
+        #
+        # The property is already defined. Append to an array.
+        #
         if ($page[$property] -isnot [array]) {
             $page[$property] = @($page[$property])
         }
@@ -27,7 +33,7 @@ function Add-PropertyValue($page, $property, $value) {
 # =======================================================================
 
 #
-# Track the number of warnings or issues found.
+# Track the total number of warnings or issues found.
 #
 $script:foundProblems = 0
 
@@ -115,6 +121,203 @@ function Get-EmojiWarning() {
 }
 
 # ========================================================================
+# Get-FrontMatter
+# ------------------------------------------------------------------------
+# Gets a hashtable of the front matter for the specified file.
+# ========================================================================
+
+function Get-FrontMatter($file) {
+
+    #
+    # Get the relative path of the file for output
+    #
+    $path = $file.FullName -replace [regex]::Escape($PSScriptRoot + "\"), ''
+    
+    #
+    # Check for a common error of a directory with a .md extension
+    #
+    if ($file.Attributes -band [System.IO.FileAttributes]::Directory) {
+        Debug-Path $path "Directory has .md extension (probably a copy-paste error)"
+        return $null
+    }
+    
+    #
+    # Skip files called README.md
+    #
+    if ($file.Name -eq "README.md") {
+        return $null
+    }
+    
+    #
+    # Get the contents of the file as a string array
+    #
+    $content = Get-Content -Path $file.FullName
+    
+    #
+    # Make sure the file isn't empty
+    #
+    if ($null -eq $content) {
+        Debug-Path $path "No content loaded"
+        return $null
+    }
+    
+    #
+    # Make sure the first line is the start of YAML front matter (---)
+    #
+    if ($content[0] -ne "---") {
+        Debug-Path $path "First line must be --- to start YAML front matter"
+        return $null
+    }
+    
+    # 
+    # Get the array index of the second "---" in the lines of the file
+    # 
+    $endOfYaml = -1
+    for ($i = 1; $i -lt $content.Length; $i++) {
+        if ($content[$i] -eq "---") {
+            $endOfYaml = $i
+            break
+        }
+    }
+    
+    if ($endOfYaml -eq -1) {
+        Debug-Path $path "No end of YAML front matter"
+        return $null
+    }
+    
+    #
+    # Make sure the first property is the title
+    #
+    if ($content[1] -notmatch "^title: ") {
+        Debug-Path $path "Title should be first in front matter by convention"
+    }
+        
+    #
+    # Parse the YAML front matter
+    #
+    try {
+        $yaml = $content[1..($endOfYaml - 1)] | ConvertFrom-Yaml
+    }
+    catch {
+        Debug-Path $path "Error parsing YAML front matter"
+        return $null
+    }
+    
+    #
+    # Skip files where draft is true
+    #
+    if ($yaml.draft -eq $true) {
+        return $null
+    }
+    
+    #
+    # Save the path for later reference. By convention, properties
+    # defined by the script use a "::" prefix to avoid conflicts
+    # with user properties.
+    #
+    $yaml."::path" = $path
+        
+    #
+    # Adjust the path if it starts with "content\"
+    #
+    if ($path -like "content\*") {
+        $yaml."::content" = $path.Substring(8) -replace '\\', '/'
+    }
+
+    return $yaml
+}
+
+# ========================================================================
+# Get-Lookup
+# ------------------------------------------------------------------------
+# Generates a hashtable that maps titles to page indexes. It accepts
+# an array or arraylist and returns a case-sensitive hashtable where the
+# key is a page title, and the value is the integer page index.
+# ========================================================================
+
+function Get-Lookup($pages) {
+
+    $hash = [hashtable]::new()
+    $index = -1;
+
+    foreach($page in $pages) {
+
+        #
+        # Track the 0-based index of this item
+        #
+        $index++;
+
+        if ($null -eq $page.title) {
+            Debug-Page $page "missing title"
+        }
+        else {
+            #
+            # Set the index of the title
+            #
+            $hash[$page.title] = $index
+
+            #
+            # Set the index of the lowercase variation of the title
+            #
+            $lowercaseTitle = $page.title.ToLower()
+            if ($lowercaseTitle -cne $page.title) {
+                $hash[$lowercaseTitle] = $index
+            }    
+        }
+
+        #
+        # if type = website, add the website address to the lookup
+        #
+        if ($page.type -eq "website") {
+            if ($null -ne $page.website) {
+                $hash[$page.website] = $index
+            }
+        }
+    }
+
+    return $hash
+}
+
+# ========================================================================
+# Get-Pages
+# ------------------------------------------------------------------------
+# Loads the page objects of the specified file system objects. Each
+# page object is a hashtable containing the front matter properties. The
+# return value is an array of hashtables.
+# ========================================================================
+
+function Get-Pages {
+
+    $count = 0
+    $lastProgress = -1
+    $list = New-Object -TypeName System.Collections.ArrayList
+
+    $mdFiles = Get-ChildItem -Path $PSScriptRoot -Filter "*.md" -Recurse
+    foreach ($mdFile in $mdFiles) {
+
+        $count++
+
+        #
+        # Calculate the progress (percent done) of the files
+        #
+        $progress = [math]::Round(($count / $mdFiles.Count) * 100)
+        if ($progress -ne $lastProgress) {
+            $lastProgress = $progress
+            Write-Progress -Activity "Loading" -Status $mdFile -PercentComplete $progress
+        }
+     
+        $fm = Get-FrontMatter $mdFile
+        if ($null -ne $fm) {
+            #$fm.GetType()
+            $idx=$list.Add($fm)
+        }
+    }
+    
+    Write-Progress -Activity "Loading" -Completed
+    return $list.ToArray()
+}
+
+# ========================================================================
 # Install powershell-yaml module
 # ========================================================================
 
@@ -150,183 +353,17 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
 #
 Write-Host "$(Get-EmojiOpenFolder) Loading..."
 $rootPath = $PSScriptRoot
-$mdFiles = Get-ChildItem -Path $rootPath -Filter "*.md" -Recurse
 
 #
-# Define a case-sensitive hashtable of page titles for lookup and dupe checking.
+# Load the front matter of the files
 #
-#$titles = @{} # do not use - not case sensitive and dupes some emoji characters
-$titles = [hashtable]::new()
-
-#
-# Define a hashtable to hold website type page titles
-#
-$websites = [hashtable]::new()
+$script:pages = Get-Pages
 
 #
-# Use an array list to hold the list of pages.
+# Build a hashtable for looking up pages by title or website url
 #
-$pageList = New-Object -TypeName System.Collections.ArrayList
-
-#
-# Define a hashtable of reverse-tags
-#
-$tagged = [hashtable]::new()
-$lastProgress = -1
-
-foreach ($mdFile in $mdFiles) {
-
-    #
-    # Calculate the progress (percent done) of the files
-    #
-    $progress = [math]::Round(($titles.Count / $mdFiles.Count) * 100)
-    if ($progress -ne $lastProgress) {
-        $lastProgress = $progress
-        Write-Progress -Activity "Loading" -Status $mdFile -PercentComplete $progress
-    }
- 
-    #
-    # Get the relative path of the file for output
-    #
-    $mdPath = $mdFile.FullName -replace [regex]::Escape($rootPath + "\"), ''
-
-    #
-    # Check for a common error of a directory with a .md extension
-    #
-    if ($mdFile.Attributes -band [System.IO.FileAttributes]::Directory) {
-        Debug-Path $mdPath "Directory has .md extension (probably a copy-paste error)"
-        continue
-    }
-
-    #
-    # Skip files called README.md
-    #
-    if ($mdFile.Name -eq "README.md") {
-        continue
-    }
-
-    #
-    # Get the contents of the file as a string array
-    #
-    $content = Get-Content -Path $mdFile.FullName
-
-    #
-    # Make sure content is loaded from the file.
-    #
-    if ($null -eq $content) {
-        Debug-Path $mdPath "No content loaded"
-        continue
-    }
-
-    #
-    # Make sure the first line is the start of YAML front matter (---)
-    #
-    if ($content[0] -ne "---") {
-        Debug-Path $mdPath "First line must be --- to start YAML front matter"
-        continue
-    }
-
-    # 
-    # Get the array index of the second "---" in the lines of the file
-    # 
-    $endOfYaml = -1
-    for ($i = 1; $i -lt $content.Length; $i++) {
-        if ($content[$i] -eq "---") {
-            $endOfYaml = $i
-            break
-        }
-    }
-
-    if ($endOfYaml -eq -1) {
-        Debug-Path $mdPath "No end of YAML front matter"
-        continue
-    }
-
-    #
-    # Make sure the first property is the title
-    #
-    if ($content[1] -notmatch "^title: ") {
-        Debug-Path $mdPath "Title must be first in front matter by convention"
-    }
-    
-    #
-    # Parse the YAML front matter
-    #
-    try {
-        $yaml = $content[1..($endOfYaml - 1)] | ConvertFrom-Yaml
-    }
-    catch {
-        Debug-Path $mdPath "Error parsing YAML front matter"
-        continue
-    }
-
-    #
-    # Skip files where draft is true
-    #
-    if ($yaml.draft -eq $true) {
-        continue
-    }
-
-    #
-    # Check for missing title
-    #
-    if ($null -eq $yaml.title) {
-        Debug-Path $mdPath "Title is required"
-        continue
-    }
-    
-    #
-    # Check if the title has already been loaded
-    #
-    if ($titles.ContainsKey($yaml.title)) {
-        Debug-Path $mdPath "Duplicate title"
-    }
-
-    #
-    # Add the YAML object to the hashtable of pages using its title as key
-    #
-    $yaml."::path" = $mdPath
-    $pageIndex = $pageList.Add($yaml)
-    $titles[$yaml.title] = $yaml
-    $titles[$yaml.title]."::path" = $mdPath
-    $titles[$yaml.title]."::index" = $pageIndex
-    
-    #
-    # Adjust the path if it starts with "content\"
-    #
-    if ($mdPath -like "content\*") {
-        $titles[$yaml.title]."::content" = $mdPath.Substring(8) -replace '\\', '/'
-    }
-
-    #
-    # if type = website
-    #
-    if ($yaml.type -eq "website") {
-        #
-        # Track websites for easy dereference later
-        #
-        if ($null -ne $yaml.website) {
-            $websites[$yaml.website] = $yaml.title
-        }
-    }
-
-    if ($null -ne $yaml["tags"]) {
-        if ($yaml["tags"] -isnot [array]) {
-            $yaml["tags"] = @($yaml["tags"])
-        }
-    }
-    
-    if ($yaml["tags"] -is [array]) {
-        foreach($tag in $yaml["tags"]) {
-            if (-not $tagged.ContainsKey($tag)) {
-                $tagged[$tag] = @()
-            }
-            $tagged[$tag] += $yaml.title
-        }
-    }
-}
-
-Write-Progress -Activity "Loading" -Completed
+Write-Host "$(Get-EmojiRunning) Indexing titles..."
+$script:lookup = Get-Lookup $script:pages
 
 # ========================================================================
 # $props
@@ -337,18 +374,20 @@ Write-Progress -Activity "Loading" -Completed
 # of the inner hashtable are the distinct values of the property.
 # ========================================================================
 
-$props = [hashtable]::new()
+Write-Host "Indexing properties..."
+$script:props = [hashtable]::new()
 
-Write-Host "Building props hashtable..."
-
-foreach($page in $titles.Values) {
+foreach($page in $script:pages) {
     foreach($key in $page.Keys) {
 
-        if (-not $props.ContainsKey($key)) {
+        # 
+        # Create the hashtable for this key, if it does not exist.
+        #
+        if (-not $script:props.ContainsKey($key)) {
             # Do not use @{} to create a hashtable. That
             # hashtable is not case-sensitive, which causes
             # problems with emoji characters.
-            $props[$key] = [hashtable]::new()
+            $script:props[$key] = [hashtable]::new()
         }
 
         $value = $page[$key]
@@ -363,29 +402,16 @@ foreach($page in $titles.Values) {
                     Debug-Page $page "Property '$key' has a null value"
                     continue
                 }
-                Add-PropertyValue $props[$key] $v $page["title"]
+                Add-PropertyValue $script:props[$key] $v $page["title"]
             }
         }
         else {
-            Add-PropertyValue $props[$key] $value $page["title"]
+            Add-PropertyValue $script:props[$key] $value $page["title"]
         }
     }
 }
 
-Write-Host "There are $($props.Count) distinct properties."
-
-# ========================================================================
-# Build titles array
-# ========================================================================
-#
-# Create an array of titles for n-based references. The
-# index of each title may change between builds and should not
-# be considered stable. However, assuming no titles are changed
-# nor new pages added or removed, the indexes will be stable 
-# for the rest of the script run.
-#
-$titleKeys = [string[]]::new($titles.Count)
-$titles.Keys.CopyTo($titleKeys, 0)
+Write-Host "There are $($script:props.Count) distinct properties."
 
 # ========================================================================
 # Updaters
@@ -399,53 +425,62 @@ function Update-OfProperties($page) {
     # Loop through each property of the page and look for ones that end in ' of'
     #
     foreach($propkey in $page.Keys) {
-        if ($propkey -like "* of") {
+
+        if ($propkey -notlike "* of") {
+            continue
+        }
             
-            #
-            # Get the property value as an array
-            #
-            $proparray = $page[$propkey]
-            if ($proparray -isnot [array]) {
-                $proparray = @($proparray)
+        #
+        # Get the property value as an array
+        #
+        $proparray = $page[$propkey]
+        if ($proparray -isnot [array]) {
+            $proparray = @($proparray)
+        }
+
+        foreach($propvalue in $proparray) {
+
+            if ($null -eq $propvalue) {
+                Debug-Page $page "Property '$propkey' has a null value"
+                continue
             }
 
             #
-            # Confirm each value is a valid title
+            # Get the index of the page referenced by this value.
             #
-            foreach($propvalue in $proparray) {
+            $propindex = $script:lookup[$propvalue]
 
-                if ($null -eq $propvalue) {
-                    Debug-Page $page "Property '$propkey' has a null value"
+            #
+            # If the index is valid...
+            #
+            if ($null -ne $propindex) {
+
+                #
+                # Get the page at the index
+                #
+                $ofPage = $script:pages[$propindex]
+                if($ofPage -eq $page) {
+                    Debug-Page $page "Property '$propkey' references itself"
                     continue
                 }
 
-                if ($titles.ContainsKey($propvalue)) {
+                #
+                # Build the name of the property that will be
+                # added to the referenced page.
+                #
+                $propertyName = $propkey.Substring(0, $propkey.Length - 3)
+                Add-PropertyValue $ofPage $propertyName $page.title
 
-                    #
-                    # Calculate the name of the property to set
-                    #
-                    $ofPage = $titles[$propvalue]
-                    if($ofPage -eq $page) {
-                        Debug-Page $page "Property '$propkey' references itself"
-                        continue
-                    }
-
-                    # 
-                    # Remove the " of" suffix from the property name
-                    #
-                    $propertyName = $propkey.Substring(0, $propkey.Length - 3)
-                    Add-PropertyValue $ofPage $propertyName $page.title
-
-                }
-                else {
-                    #
-                    # Ignore cases where the the "of" property begins with http
-                    #
-                    if ($propvalue -notmatch "^https?://") {
-                        Debug-Page `
-                            $page `
-                            "Property '$propkey' references non-existent title '$propvalue'"
-                    }
+            }
+            else {
+                #
+                # The index does not exist. This is OK if the 
+                # value is a hyperlink. Otherwise issue a warning.
+                #
+                if ($propvalue -notmatch "^https?://") {
+                    Debug-Page `
+                        $page `
+                        "Property '$propkey' references non-existent title '$propvalue'"
                 }
             }
         }
@@ -454,7 +489,7 @@ function Update-OfProperties($page) {
 
 function Update-Ofs() {
     Write-Host "$(Get-EmojiRepeat) Of..."
-    foreach($page in $titles.Values) {
+    foreach($page in $script:pages) {
         Update-OfProperties $page
     }
 }
@@ -474,19 +509,19 @@ function Update-OnThisDay($page) {
         return
     }
 
-    # fine all titles that have the same when value
+    # fine all pages that have the same when value
     $sameWhen = @()
-    foreach($title in $titles.Keys) {
+    foreach($other in $script:pages) {
 
-        if ($title -eq $page.title) {
+        if ($page -eq $other) {
             #
             # skip this page
             #
             continue
         }
 
-        if ($titles[$title]["when"] -eq $when) {
-            $sameWhen += $title
+        if ($other["when"] -eq $when) {
+            $sameWhen += $other["title"]
         }
     }
 
@@ -495,9 +530,10 @@ function Update-OnThisDay($page) {
         $page["on this day"] = $sameWhen
     }
 }
+
 function Update-OnTheseDays() {
     Write-Host "$(Get-EmojiCalendar) On these days..."
-    foreach($page in $titles.Values) {
+    foreach($page in $script:pages) {
         Update-OnThisDay $page
     }
 }
@@ -520,11 +556,18 @@ function Update-Plural($page) {
     # Loop through each property of the page
     #    
     foreach($propkey in $keys) {
+        #
+        # Get the index of the page that defines this property
+        #
+        $propindex = $script:lookup[$propkey]
+        if ($null -eq $propindex) {
+            continue
+        }
 
         #
         # Get the page for this property and skip if it doesn't exist.
         #
-        $proppage = $titles[$propkey]
+        $proppage = $script:pages[$propindex]
         if ($null -eq $proppage) {
             continue
         }
@@ -611,7 +654,7 @@ function Update-Plurals() {
          [System.Char]::ConvertFromUtf32(0xFE0F) + `
          [System.Char]::ConvertFromUtf32(0x20E3)
     Write-Host "$s  Plurals..."
-    foreach($page in $titles.Values) {
+    foreach($page in $script:pages) {
         Update-Plural $page
     }
 }
@@ -636,8 +679,8 @@ function Update-Random($page) {
     # Skip isolated pages
     #
     do {
-        $index = Get-Random -Minimum 0 -Maximum $titleKeys.Length
-        $randomPage = $titles[$titleKeys[$index]]
+        $index = Get-Random -Minimum 0 -Maximum $script:pages.Length
+        $randomPage = $script:pages[$index]
         $isolated = $randomPage["tags"] -contains "isolated page"
     } while ($isolated)
 
@@ -646,7 +689,7 @@ function Update-Random($page) {
 
 function Update-Randoms() {
     Write-Host "$(Get-EmojiQuestionMark) Randomize..."
-    foreach($page in $titles.Values) {
+    foreach($page in $script:pages) {
         Update-Random $page
     }
 }
@@ -658,14 +701,15 @@ function Update-Randoms() {
 # the current page.
 # ========================================================================
 function Update-ReverseTag($page) {
-    if ($tagged[$page.title] -is [array]) {
-        $page["tagged"] = $tagged[$page.title]
+    $tagged = $script:props["tags"][$page.title]
+    if ($tagged) {
+        $page["tagged"] = $tagged
     }
 }
 
 function Update-ReverseTags() {
     Write-Host "$(Get-EmojiBookmark) Reverse tags..."
-    foreach($page in $titles.Values) {
+    foreach($page in $script:pages) {
         Update-ReverseTag $page
     }
 }
@@ -706,11 +750,13 @@ function Update-Timeline($page) {
             return
         }
 
-        $timelinePage = $titles[$title]
-        if ($null -eq $timelinePage) {
+        $timelineIndex = $script:lookup[$title]
+        if ($null -eq $timelineIndex) {
             Debug-Page $page "Timeline references non-existent '$title'"
             return
         }
+
+        $timelinePage = $script:pages[$timelineIndex]
 
         if ($null -eq $timelinePage["when"]) {
             Debug-Page $page "Timeline item '$title' has no 'when' property"
@@ -752,10 +798,10 @@ function Update-Timeline($page) {
 
 function Update-Timelines() {
     Write-Host "$(Get-EmojiLink) Timelines..."
-    foreach($page in $titles.Values) {
+    foreach($page in $script:pages) {
         Update-Timeline $page
     }
-} 
+}
 
 # ========================================================================
 # Update-WikipediaFlagAndLocation
@@ -781,16 +827,25 @@ function Update-WikipediaFlagAndLocation($page) {
     }
 
     #
-    # Skip if this page does not have a wikipedia property.
+    # Get the wikipedia value
     #
-    if ($null -eq $page["wikipedia"]) {
+    $wikipedia = $page["wikipedia"]
+    if ($null -eq $wikipedia) {
         return
     }
 
     #
-    # Skip if the wikipedia value is not a valid title.
+    # Get the index of the wikipedia value
     #
-    $wikipediaPage = $titles[$page["wikipedia"]]
+    $wikipediaIndex = $script:lookup[$wikipedia]
+    if ($null -eq $wikipediaIndex) {
+        return
+    }
+
+    # 
+    # Get the wikipedia page
+    #
+    $wikipediaPage = $script:pages[$wikipediaIndex]
     if ($null -eq $wikipediaPage) {
         return
     }
@@ -810,7 +865,7 @@ function Update-WikipediaFlagAndLocation($page) {
 
 function Update-WikipediaFlagsAndLocations() {
     Write-Host "$(Get-EmojiGlobe) Wikipedia flags and locations..."
-    foreach($page in $titles.Values) {
+    foreach($page in $script:pages) {
         Update-WikipediaFlagAndLocation $page
     }
 }
@@ -834,6 +889,9 @@ Update-Plurals
 
 function Test-RequiresProperty($page, $property, $message) {
 
+    #
+    # See if the property exists as required
+    #
     if ($null -ne $page[$property]) {
         return
     }
@@ -841,11 +899,15 @@ function Test-RequiresProperty($page, $property, $message) {
     #
     # The property doesn't exist, but its plural might,
     # or the page might have a tag to override the requirement.
-    # First get the property page, which has metadata such
-    # as the plural title.
+    # First get the index of the property definition.
     #
-    $propertyPage = $titles[$property]
+    $propertyIndex = $script:lookup[$property]
     if ($null -ne $propertyPage) {
+
+        #
+        # This property has a page at the specified index.
+        #
+        $propertyPage = $script:pages[$propertyIndex]
 
         #
         # See if this property has a plural form, and if so,
@@ -853,15 +915,21 @@ function Test-RequiresProperty($page, $property, $message) {
         #
         $plural = $propertyPage["plural"]
         if ($null -ne $plural) {
-
             #
-            # The plural title exists
-            #
+            # This property does have a plural form. See if it
+            # exists on the page. If the plural form is used,
+            # that meets the requirement of existing.
             if ($null -ne $page[$plural]) {
                 return
             }
         }
 
+        #
+        # Neither the property or its plural form is used on
+        # this page. Lastly, see if this property has a tag
+        # that overrides the requirement. For example, a 
+        # person page requires a Wikipedia article, unless
+        # the page uses the tag "no Wikipedia article"
         $nonExistenceTag = $propertyPage["non-existence tag"]
         if ($null -ne $nonExistenceTag) {
             if ($page["tags"] -contains $nonExistenceTag) {
@@ -870,6 +938,9 @@ function Test-RequiresProperty($page, $property, $message) {
         }
     }
 
+    #
+    # All checks failed -- the required property does not exist in any form.
+    #
     Debug-Page $page $message
 }
 
@@ -977,10 +1048,10 @@ function Test-RemotePictureRequiresLicenseAndWebsite($page) {
 }
 
 function Test-UniqueUrls() {
-    foreach($page in $titles.Values) {
+    foreach($page in $script:pages) {
         if ($null -ne $page["url"]) {
             $url = $page["url"]
-            $urlPages = $props["url"][$url]
+            $urlPages = $script:props["url"][$url]
             if ($urlPages.Count -gt 1) {
                 Debug-Page $page "URL is not unique"
                 foreach($urlPage in $urlPages) {
@@ -1016,7 +1087,7 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 Write-Host "Testing..."
 Test-UniqueUrls
 
-foreach ($page in $titles.Values) {
+foreach ($page in $script:pages) {
     
     # airport
     #$foundProblems += Test-PropertyRequiresTag $page "airport of" "airport"
@@ -1166,14 +1237,14 @@ if (-not (Test-Path -Path $dataPath)) {
 }
 
 #
-# Write the $titles hastable to a file in JSON
+# Write the pages array to a JSON file
 #
-$titles | ConvertTo-Json | Set-Content -Path "$rootPath\data\titles.json"
+$pages | ConvertTo-Json | Set-Content -Path "$rootPath\data\pages.json"
 
 #
-# Write the $websites hashtable to a file in JSON
+# Write the $lookups hashtable to a file in JSON
 #
-$websites | ConvertTo-Json | Set-Content -Path "$rootPath\data\websites.json"
+$lookup | ConvertTo-Json | Set-Content -Path "$rootPath\data\lookup.json"
 
 # ========================================================================
 # Summarize results
@@ -1193,4 +1264,4 @@ else {
     Write-Host "  - Edsger W. Dijkstra"
 }
 
-Write-Host "Total pages: $($titles.count)"
+Write-Host "Total pages: $($script:pages.Length)"

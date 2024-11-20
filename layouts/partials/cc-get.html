@@ -1,7 +1,12 @@
 {{ $page := false }}
-{{ with index site.Data.titles (string .) }}
-    {{ with index . "::content" }}
-        {{ $page = site.GetPage . }}
+{{ $index := index site.Data.lookup (string .) }}
+{{ if $index }}
+    {{ $props := index site.Data.pages $index }}
+    {{ if $props }}
+        {{ $content := index $props "::content" }}
+        {{ if $content }}
+            {{ $page = site.GetPage $content }}
+        {{ end }}
     {{ end }}
 {{ end }}
 {{ return $page }}

@@ -8,7 +8,8 @@
   {{ .Content }}
 </section>
 
-{{ $record := index .Site.Data.titles .Title }}
+{{ $index := index .Site.Data.lookup .Title }}
+{{ $record := index .Site.Data.pages $index }}
 
 <!-- sections -->
 {{ $skip := slice
