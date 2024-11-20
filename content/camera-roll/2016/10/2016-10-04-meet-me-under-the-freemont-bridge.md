@@ -1,5 +1,6 @@
 ---
 title: "meet me under the freemont bridge"
+author: David Pinch
 bridge of: looking up
 caption: Looking up as the Fremont Bridge opens
 license: public domain
