@@ -4,4 +4,5 @@ sculpture of:
   - Seattle–Tacoma International Airport
 tags:
   - sculpture
+  - no Wikidata record
 ---

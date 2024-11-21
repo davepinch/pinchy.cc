@@ -5,4 +5,5 @@ sculpture of:
   - Sand Point, Seattle
 tags:
   - sculpture
+  - no Wikidata record
 ---
