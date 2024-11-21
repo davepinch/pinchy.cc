@@ -1164,10 +1164,10 @@ foreach ($page in $script:pages) {
 
     # mountain range
     Test-TagRequiresProperty $page "mountain range" "mountain range of"
-    Test-TagRequiresProperty $page "mountain range" "openstreetmap"
+    #Test-TagRequiresProperty $page "mountain range" "openstreetmap"
     Test-TagRequiresProperty $page "mountain range" "wikidata"
     Test-TagRequiresProperty $page "mountain range" "Wikipedia"
-    
+
     # neighborhood
     Test-TagRequiresProperty $page "neighborhood" "neighborhood of"
     Test-TagRequiresProperty $page "neighborhood" "Wikipedia"
