@@ -902,7 +902,7 @@ function Test-RequiresProperty($page, $property, $message) {
     # First get the index of the property definition.
     #
     $propertyIndex = $script:lookup[$property]
-    if ($null -ne $propertyPage) {
+    if ($null -ne $propertyIndex) {
 
         #
         # This property has a page at the specified index.
