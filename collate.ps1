@@ -268,11 +268,11 @@ function Get-Lookup($pages) {
         #
         # if type = website, add the website address to the lookup
         #
-        if ($page.type -eq "website") {
-            if ($null -ne $page.website) {
-                $hash[$page.website] = $index
-            }
-        }
+        #if ($page.type -eq "website") {
+        #    if ($null -ne $page.website) {
+        #        $hash[$page.website] = $index
+        #    }
+        #}
     }
 
     return $hash
