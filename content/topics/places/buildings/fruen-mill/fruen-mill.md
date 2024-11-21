@@ -7,5 +7,6 @@ tags:
   - abandoned
   - mill
   - building
+  - no Wikidata record
   - no Wikipedia article
 ---
