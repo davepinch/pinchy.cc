@@ -1,5 +1,5 @@
 {{ $page := false }}
-{{ $index := index site.Data.lookup (string .) }}
+{{ $index := int index site.Data.lookup (string .) }}
 {{ if $index }}
     {{ $props := index site.Data.pages $index }}
     {{ if $props }}
