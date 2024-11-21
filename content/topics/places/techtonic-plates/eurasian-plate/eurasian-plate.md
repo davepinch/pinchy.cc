@@ -9,7 +9,7 @@ borders:
   - Burma Plate
   - Indian Plate
   - North American Plate
-  - Okhotsk microplate
+  - Okhotsk Microplate
   - Sunda Plate
   - Yangtze Plate
 clockwise around the african plate: Aegean Sea Plate
