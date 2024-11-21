@@ -7,6 +7,7 @@ excerpt: >-
 galaxy of: Virgo (constellation) (Wikipedia)
 retrieved: 2024-11-20
 type: website
+url: /en.wikipedia.org/wiki/Messier_84/
 website: "https://en.wikipedia.org/wiki/Messier_84"
 wikipedia of: Messier 84
 tags:
