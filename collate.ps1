@@ -1162,6 +1162,11 @@ foreach ($page in $script:pages) {
     Test-PropertyRequiresTag $page "location of" "location"
     Test-TagRequiresProperty $page "location" "location of"
 
+    # neighborhood
+    Test-TagRequiresProperty $page "neighborhood" "neighborhood of"
+    Test-TagRequiresProperty $page "neighborhood" "Wikipedia"
+    Test-TagRequiresProperty $page "neighborhood" "wikidata"
+    
     # park
     Test-TagRequiresProperty $page "park" "openstreetmap"
     
