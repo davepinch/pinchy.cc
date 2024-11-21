@@ -11,4 +11,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Bure
 tags:
   - flag
   - Wikimedia Commons
+  - no Wikipedia article
 ---
