@@ -1,7 +1,9 @@
 ---
 title: "Ramsey County Minnesota Incorporated and Unincorporated areas Lauderdale Highlighted.svg (Wikimedia Commons)"
 author: "[Arkyan](https://en.wikipedia.org/wiki/User:Arkyan)"
-county of: SVG
+county of:
+  - Minnesota in United States.svg (Wikimedia Commons)
+  - SVG
 license: CC BY-SA 2.5
 location of: Lauderdale, Minnesota
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/31/Ramsey_County_Minnesota_Incorporated_and_Unincorporated_areas_Lauderdale_Highlighted.svg"
