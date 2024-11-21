@@ -12,6 +12,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150946177"
 part of: Northgate, Seattle
+wikidata: "https://www.wikidata.org/wiki/Q6753924"
 tags:
   - neighborhood
 ---

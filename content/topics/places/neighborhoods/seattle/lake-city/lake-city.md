@@ -13,6 +13,7 @@ borders:
 clockwise around lake washington: Lake Forest Park, Washington
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150938688"
+wikidata: "https://www.wikidata.org/wiki/Q6475354"
 tags:
   - neighborhood
 ---

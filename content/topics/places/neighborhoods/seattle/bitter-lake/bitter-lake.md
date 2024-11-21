@@ -9,6 +9,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/3501771566"
 southeast corner: Licton Springs, Seattle
+wikidata: "https://www.wikidata.org/wiki/Q4919012"
 tags:
   - neighborhood
 ---

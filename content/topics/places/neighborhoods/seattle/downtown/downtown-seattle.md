@@ -9,8 +9,7 @@ neighborhood of:
   - Seattle
   - Elliott Bay
   - Puget Sound
-places:
-  - Interurban Trail
+wikidata: "https://www.wikidata.org/wiki/Q745358"
 tags:
   - downtown
   - neighborhood

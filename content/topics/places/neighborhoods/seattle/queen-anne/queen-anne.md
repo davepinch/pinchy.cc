@@ -11,6 +11,7 @@ borders:
   - Lake Washington Ship Canal
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150946182"
+wikidata: "https://www.wikidata.org/wiki/Q3413999"
 tags:
   - neighborhood
 ---

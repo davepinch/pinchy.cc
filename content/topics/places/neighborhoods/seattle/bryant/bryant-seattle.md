@@ -10,6 +10,7 @@ borders:
   - Windermere, Seattle
 neighborhood of: Seattle
 overlaps: Hawthorne Hills, Seattle
+wikidata: "https://www.wikidata.org/wiki/Q4980534"
 tags:
   - neighborhood
 ---

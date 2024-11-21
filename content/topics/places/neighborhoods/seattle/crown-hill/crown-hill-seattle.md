@@ -8,6 +8,7 @@ borders:
   - Whittier Heights, Seattle
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150951646"
+wikidata: "https://www.wikidata.org/wiki/Q5189368"
 tags:
   - neighborhood
 ---

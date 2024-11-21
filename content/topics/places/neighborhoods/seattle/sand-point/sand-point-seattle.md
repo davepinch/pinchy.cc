@@ -12,6 +12,7 @@ clockwise around lake washington:
   - Lake City, Seattle
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/6152786239"
+wikidata: "https://www.wikidata.org/wiki/Q7415850"
 tags:
   - neighborhood
 ---

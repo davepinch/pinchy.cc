@@ -9,6 +9,7 @@ borders:
   - Washington State Route 522
 neighborhood of: Lake City, Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150933768"
+wikidata: "https://www.wikidata.org/wiki/Q7927502"
 tags:
   - neighborhood
 ---

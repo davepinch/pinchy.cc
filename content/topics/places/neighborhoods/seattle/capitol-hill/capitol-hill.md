@@ -12,6 +12,7 @@ places:
   - Cal Anderson Park
   - Comet Tavern
   - incomplete list
+wikidata: "https://www.wikidata.org/wiki/Q1041704"
 tags:
   - neighborhood
 ---

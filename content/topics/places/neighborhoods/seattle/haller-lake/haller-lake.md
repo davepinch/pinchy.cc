@@ -12,6 +12,7 @@ openstreetmap: "https://www.openstreetmap.org/node/150960538"
 part of: Northgate, Seattle
 southeast corner: Maple Leaf, Seattle
 southwest corner: Greenwood, Seattle
+wikidata: "https://www.wikidata.org/wiki/Q5642894"
 tags:
   - neighborhood
 ---

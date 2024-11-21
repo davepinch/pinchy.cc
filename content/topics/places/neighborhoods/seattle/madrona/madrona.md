@@ -8,6 +8,7 @@ borders:
 clockwise around lake washington: Denny-Blaine, Seattle
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/4763894"
+wikidata: "https://www.wikidata.org/wiki/Q6728665"
 tags:
   - neighborhood
 ---

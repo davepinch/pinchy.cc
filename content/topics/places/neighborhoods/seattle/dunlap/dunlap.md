@@ -15,6 +15,7 @@ district: Rainier Valley, Seattle
 clockwise around lake washington: Seward Park, Seattle
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150937668"
+wikidata: "https://www.wikidata.org/wiki/Q5315406"
 tags:
   - neighborhood
 ---

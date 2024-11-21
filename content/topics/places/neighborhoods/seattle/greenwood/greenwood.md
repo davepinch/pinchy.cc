@@ -11,6 +11,7 @@ borders:
 neighborhood of: Seattle
 northeast corner: Haller Lake, Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150977294"
+wikidata: "https://www.wikidata.org/wiki/Q5604954"
 tags:
   - neighborhood
 ---

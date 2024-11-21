@@ -12,6 +12,7 @@ borders:
   - View Ridge, Seattle
   - Washington State Route 522
 neighborhood of: Seattle
+wikidata: "https://www.wikidata.org/wiki/Q7979189"
 tags:
   - neighborhood
 ---

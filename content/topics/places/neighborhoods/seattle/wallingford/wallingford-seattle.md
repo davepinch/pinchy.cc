@@ -11,6 +11,7 @@ borders:
   - incomplete list
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150973716"
+wikidata: "https://www.wikidata.org/wiki/Q2341532"
 tags:
   - neighborhood
 ---

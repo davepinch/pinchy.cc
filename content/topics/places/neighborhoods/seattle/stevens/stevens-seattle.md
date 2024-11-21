@@ -10,4 +10,5 @@ overlaps:
   - Miller Park, Seattle
 tags:
   - neighborhood
+  - no Wikidata record
 ---

@@ -9,6 +9,7 @@ borders:
   - Wedgwood, Seattle
 clockwise around lake washington: Cedar Park, Seattle
 neighborhood of: Lake City, Seattle
+wikidata: "https://www.wikidata.org/wiki/Q6791486"
 tags:
   - neighborhood
 ---

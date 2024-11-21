@@ -10,6 +10,7 @@ borders:
   - Windermere, Seattle
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150955075"
+wikidata: "https://www.wikidata.org/wiki/Q7928753"
 tags:
   - neighborhood
 ---

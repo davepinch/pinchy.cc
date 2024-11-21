@@ -10,6 +10,7 @@ near:
   - Lake Washington
 tags:
   - neighborhood
+  - no Wikidata record
   - no Wikipedia article
 ---
 Rainier View is sometimes considered part of the Rainier Beach neighborhood. It does not have its own Wikipedia entry, although it is shown as a distinct neighborhood on Bing maps.

@@ -12,6 +12,7 @@ neighborhood of:
   - Shilshole Bay
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150967778"
+wikidata: "https://www.wikidata.org/wiki/Q7641284"
 tags:
   - neighborhood
 ---

@@ -12,6 +12,7 @@ neighborhood of:
   - Seattle
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150979529"
+wikidata: "https://www.wikidata.org/wiki/Q4929689"
 tags:
   - neighborhood
 ---

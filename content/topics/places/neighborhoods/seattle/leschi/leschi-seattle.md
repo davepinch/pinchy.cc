@@ -9,6 +9,7 @@ borders:
 clockwise around lake washington: Madrona, Seattle
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/1998438951"
+wikidata: "https://www.wikidata.org/wiki/Q6530303"
 tags:
   - neighborhood
 ---

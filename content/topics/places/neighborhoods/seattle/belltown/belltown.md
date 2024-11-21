@@ -10,6 +10,7 @@ neighborhood of:
   - Elliott Bay
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150935511"
+wikidata: "https://www.wikidata.org/wiki/Q967732"
 tags:
   - neighborhood
 ---
