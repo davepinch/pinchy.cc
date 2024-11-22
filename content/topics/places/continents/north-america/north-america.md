@@ -4,7 +4,7 @@ an even bigger continent: Africa
 continent of: Northern Hemisphere
 setting of:
   - The Hunger Games (novel)
-type: continent
+wikidata: "https://www.wikidata.org/wiki/Q49"
 tags:
   - continent
 ---

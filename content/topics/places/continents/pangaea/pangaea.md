@@ -1,6 +1,6 @@
 ---
 title: "Pangaea"
-type: supercontinent
+wikidata: "https://www.wikidata.org/wiki/Q4398"
 tags:
   - supercontinent
   - Paleozoic

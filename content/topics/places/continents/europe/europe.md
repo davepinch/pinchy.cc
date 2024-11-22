@@ -11,7 +11,7 @@ borders:
 continent of:
   - Eurasia
   - Northern Hemisphere
-type: continent
+wikidata: "https://www.wikidata.org/wiki/Q46"
 tags:
   - continent
 ---

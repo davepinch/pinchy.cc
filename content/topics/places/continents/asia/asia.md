@@ -6,7 +6,7 @@ continent of:
 note:
 - Some islands are the [Southern Hemisphere](/southern-hemisphere/)
 subdivision of: Eurasia
-type: continent
+wikidata: "https://www.wikidata.org/wiki/Q48"
 tags:
   - continent
 ---

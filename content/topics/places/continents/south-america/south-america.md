@@ -2,7 +2,7 @@
 title: "South America"
 an even bigger continent: North America
 continent of: Southern Hemisphere
-type: continent
+wikidata: "https://www.wikidata.org/wiki/Q18"
 tags:
   - continent
 ---

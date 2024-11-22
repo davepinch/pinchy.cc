@@ -1,7 +1,7 @@
 ---
 title: "Eurasia"
 continent of: Earth
-type: continent
+wikidata: "https://www.wikidata.org/wiki/Q5401"
 tags:
   - continent
 ---
