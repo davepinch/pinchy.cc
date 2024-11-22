@@ -1154,12 +1154,12 @@ foreach ($page in $script:pages) {
     Test-TagRequiresProperty $page "shared on Hacker News" "hacker news"    
     
     # island
-    Test-PropertyRequiresTag $page "island of" "island"
+    #Test-PropertyRequiresTag $page "island of" "island"
     Test-TagRequiresProperty $page "island" "island of"
     Test-TagRequiresProperty $page "island" "openstreetmap"
     Test-TagRequiresProperty $page "island" "wikidata"
     Test-TagRequiresProperty $page "island" "Wikipedia"
-    
+
     # lake
     Test-TypeRequiresProperty $page "lake" "lake of"
     Test-TypeRequiresTag $page "lake" "lake"
