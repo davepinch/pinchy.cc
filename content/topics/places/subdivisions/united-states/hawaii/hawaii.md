@@ -8,6 +8,6 @@ state of:
   - Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q782"
 tags:
-  - island
+  - archipelago
   - state
 ---
