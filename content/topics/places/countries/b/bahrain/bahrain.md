@@ -7,6 +7,7 @@ country of:
   - Middle East
   - West Asia
   - Asia
+island of: Persian Gulf
 near:
   - Qatar
   - Saudi Arabia
