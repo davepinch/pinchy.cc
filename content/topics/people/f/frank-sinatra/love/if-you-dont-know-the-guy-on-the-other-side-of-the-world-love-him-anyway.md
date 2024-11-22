@@ -4,9 +4,9 @@ title: >-
 attribution: "Frank Sintara, *Playboy* interview (1963)"
 citation: >-
   Frank Sinatra. (2024, January 6). *Wikiquote*. Retrieved June 13, 2024 from https://en.wikiquote.org/w/index.php?title=Frank_Sinatra&oldid=3438942.
+love of: Frank Sintara
 type: quote
 tags:
   - quote
-  - Frank Sintara
   - neighborhood
 ---
