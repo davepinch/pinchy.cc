@@ -4,6 +4,7 @@ country of:
   - Europe
   - Mediterranean Sea
   - Southern Europe
+island of: Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/365307"
 type: country
 wikidata: "https://www.wikidata.org/wiki/Q233"
