@@ -5,6 +5,7 @@ title: "Franklin Pierce"
 president of: United States
 TODO: expand out list of all U.S. presidents
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q12312"
 tags:
   - American
   - president
