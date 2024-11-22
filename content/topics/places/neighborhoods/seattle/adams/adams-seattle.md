@@ -12,4 +12,5 @@ neighborhood of: Ballard, Seattle
 northeast corner: Whittier Heights, Seattle
 tags:
   - neighborhood
+  - no Wikipedia article
 ---
