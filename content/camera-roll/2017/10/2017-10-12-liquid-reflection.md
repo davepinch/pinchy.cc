@@ -1,6 +1,8 @@
 ---
 title: "liquid reflection"
+author: David Pinch
 depiction of: LSD
+license: CC BY-SA 4.0
 looking down of: reflection
 photograph of: Microsoft campus
 picture: content/camera-roll/2017/10/2017-10-12-liquid-reflection/20171012_212615973_iOS.jpg
