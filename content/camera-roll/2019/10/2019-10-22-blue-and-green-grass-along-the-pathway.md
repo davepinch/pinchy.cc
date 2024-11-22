@@ -1,9 +1,6 @@
 ---
 title: "Blue and green grass along the pathway"
 license: CC BY-SA 4.0
-near:
-  - Cracked pathway in Madison Park
-  - Suspended in the air
 photograph of:
   - autumn
   - leaf
