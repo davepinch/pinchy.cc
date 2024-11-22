@@ -9,6 +9,7 @@ retrieved: 2024-11-21
 type: website
 url: /en.wikipedia.org/wiki/United_States_Secretary_of_Defense/
 website: "https://en.wikipedia.org/wiki/United_States_Secretary_of_Defense"
+wikipedia of: United States Secretary of Defense
 tags:
   - Wikipedia
 ---
