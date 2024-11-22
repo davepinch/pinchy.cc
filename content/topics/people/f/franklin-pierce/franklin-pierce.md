@@ -2,9 +2,9 @@
 title: "Franklin Pierce"
 ⬅️: Millard Fillmore
 ➡️: James Buchanan
+president of: United States
 TODO: expand out list of all U.S. presidents
 type: person
-wikipedia: "https://en.wikipedia.org/wiki/Franklin_Pierce"
 tags:
   - American
   - president
