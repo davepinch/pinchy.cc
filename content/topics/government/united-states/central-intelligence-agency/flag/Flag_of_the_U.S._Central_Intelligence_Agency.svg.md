@@ -12,4 +12,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_U.S._Central_Intel
 tags:
   - flag
   - Wikimedia Commons
+  - no Wikipedia article
 ---
