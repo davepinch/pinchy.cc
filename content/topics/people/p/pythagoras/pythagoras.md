@@ -1,6 +1,7 @@
 ---
 title: "Pythagoras"
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q10261"
 tags:
   - philosopher
   - mathematician

@@ -5,6 +5,7 @@ directed:
   - RoboCop
   - Total Recall
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q129079"
 tags:
   - Dutch
   - director
