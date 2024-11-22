@@ -6,6 +6,7 @@ island of:
   - French Polynesia
   - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/6082560"
+wikidata: "https://www.wikidata.org/wiki/Q602937"
 tags:
   - island
 ---

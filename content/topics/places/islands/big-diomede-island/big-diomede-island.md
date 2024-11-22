@@ -6,6 +6,7 @@ island of:
   - Alaska
 near: Little Diomede Island
 openstreetmap: "https://www.openstreetmap.org/relation/2283488"
+wikidata: "https://www.wikidata.org/wiki/Q958528"
 tags:
   - island
 ---
