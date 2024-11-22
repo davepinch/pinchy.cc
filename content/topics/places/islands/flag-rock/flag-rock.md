@@ -18,6 +18,6 @@ openstreetmap: "https://www.openstreetmap.org/way/969224032"
 tags:
   - rock
   - island
-  - no Wikidata entry
+  - no Wikidata record
   - no Wikipedia article
 ---
