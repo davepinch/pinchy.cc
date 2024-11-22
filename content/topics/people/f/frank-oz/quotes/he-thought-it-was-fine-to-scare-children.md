@@ -4,12 +4,12 @@ title: >-
 attribution: "Frank Oz talking about *The Dark Crystal*"
 citation: >-
   The Dark Crystal. (2024, January 11). *Wikiquote*. Retrieved January 12, 2024 from https://en.wikiquote.org/w/index.php?title=The_Dark_Crystal&oldid=3442986.
+darkness of: The Dark Crystal
+Jim Henson of: Frank Oz
 type: quote
+vision of: Jim Henson
 tags:
   - quote
-  - Frank Oz
-  - The Dark Crystal
-  - Jim Henson
   - fear
 ---
 Frank Oz, as quoted in Q&A: Frank Oz on Henson, “Dark Crystal” and the Kwik Way, SFGate, (Jun 28, 2007).
