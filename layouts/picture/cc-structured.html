@@ -22,7 +22,7 @@
       "creditText": {{ . | safeJSStr }},
       {{ end -}}
 
-      {{ with .Params.photographer -}}
+      {{ with .Params.author -}}
       "creator": {
         "@type": "Person",
         "name": {{ . | safeJSStr }}
