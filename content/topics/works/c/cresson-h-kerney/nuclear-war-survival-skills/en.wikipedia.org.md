@@ -7,6 +7,7 @@ surival book of: Nuclear warfare (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Nuclear_War_Survival_Skills/
 website: "https://en.wikipedia.org/wiki/Nuclear_War_Survival_Skills"
+wikipedia of: Nuclear War Survival Skills
 tags:
   - Wikipedia
 ---
