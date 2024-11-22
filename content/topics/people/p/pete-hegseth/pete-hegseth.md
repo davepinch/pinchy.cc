@@ -7,4 +7,5 @@ tags:
   - veteran
   - Fox News host
   - human being
+  - nominee
 ---
