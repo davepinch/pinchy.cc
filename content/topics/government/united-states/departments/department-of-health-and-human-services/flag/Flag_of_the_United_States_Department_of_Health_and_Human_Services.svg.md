@@ -9,4 +9,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Depa
 tags:
   - flag
   - Wikimedia Commons
+  - no Wikipedia article
 ---
