@@ -23,20 +23,21 @@
       {{ end -}}
 
       {{ with .Params.author -}}
-          {{ if reflect.isSlice . }}
-      "creator": [
-        {{ range . }}
-        {
-          "@type": "Person",
-          "name": {{ . | safeJSStr }}
-        },
-        {{ end }}
-      ],
+          {{ $type := printf "%T" . }}
+          {{ if eq $type "[]string" }}
+              "creator": [
+              {{ range . }}
+              {
+                "@type": "Person",
+                "name": {{ . | safeJSStr }}
+              },
+              {{ end }}
+              ],
           {{ else }}
-      "creator": {
-        "@type": "Person",
-        "name": {{ . | safeJSStr }}
-      },
+              "creator": {
+                "@type": "Person",
+                "name": {{ . | safeJSStr }}
+              },
           {{ end }}
       {{ end -}}
 
