@@ -5,6 +5,7 @@ birth: >-
   Salvador Dalí was born on 11 May 1904, at 8:45 am, on the first floor of Carrer Monturiol, 20 in the town of Figueres, in the Empordà region, close to the French border in Catalonia, Spain.
 born in: Spain
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q5577"
 tags:
   - Spanish
   - artist
