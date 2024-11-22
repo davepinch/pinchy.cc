@@ -13,6 +13,6 @@ roadways:
   - incomplete list
 tags:
   - neighborhood
-  - no Wikidata entry
+  - no Wikidata record
   - no Wikipedia article
 ---
