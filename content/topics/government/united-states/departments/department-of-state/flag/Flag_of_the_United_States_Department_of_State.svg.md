@@ -9,4 +9,5 @@ url: /commons.wikimedia.org/wiki/Flag_of_the_United_States_Department_of_State.s
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Department_of_State.svg"
 tags:
   - Wikipedia
+  - no Wikipedia article
 ---
