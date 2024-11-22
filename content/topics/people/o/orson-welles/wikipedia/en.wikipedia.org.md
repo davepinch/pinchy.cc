@@ -9,7 +9,7 @@ retrieved: 2024-02-09
 type: website
 url: /en.wikipedia.org/wiki/Orson_Welles/
 website: "https://en.wikipedia.org/wiki/Orson_Welles"
-wikipedia of: Orson Wells
+wikipedia of: Orson Welles
 tags:
   - Wikipedia
 ---
