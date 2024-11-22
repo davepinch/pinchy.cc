@@ -1,7 +1,9 @@
 ---
 title: "Shadows on a leaf on the road"
+author: David Pinch
 description: >-
   This is a crumbling leaf on an old road that runs through the proposed Steelhead County Park.
+leaf of: looking down
 license: CC BY-SA 4.0
 photograph of:
   - leaf
@@ -13,6 +15,5 @@ thumbnail: content/camera-roll/2024/06/2024-06-19-shadows-on-a-leaf-on-the-road/
 type: picture
 when: 2024-06-19
 tags:
-  - looking down
   - photograph
 ---
