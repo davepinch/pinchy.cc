@@ -9,6 +9,6 @@ type: country
 wikidata: "https://www.wikidata.org/wiki/Q17"
 tags:
   - Japanese
-  - island
+  - archipelago 
   - country
 ---
