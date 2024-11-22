@@ -7,7 +7,7 @@ signature of:
   - Orson Welles
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Orson_Welles_signature.svg/
+url: /commons.wikimedia.org/wiki/Orson_Welles_signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Orson_Welles_signature.svg"
 tags:
   - signature
