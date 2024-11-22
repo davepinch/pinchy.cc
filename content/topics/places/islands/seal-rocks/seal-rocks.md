@@ -11,6 +11,10 @@ near:
   - Flag Rock
   - Sutro Baths
   - Sutro Heights Park
+openstreetmap:
+  - "https://www.openstreetmap.org/way/969197373"
+  - "https://www.openstreetmap.org/way/969197372"
+wikidata: "https://www.wikidata.org/wiki/Q7440537"
 tags:
   - rock
   - island

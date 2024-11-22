@@ -14,6 +14,7 @@ near:
   - Seal Rocks
   - Sutro Baths
   - Sutro Heights Park
+openstreetmap: "https://www.openstreetmap.org/way/969224032"
 tags:
   - rock
   - island

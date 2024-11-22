@@ -5,6 +5,7 @@ island of:
   - Bering Strait
   - Alaska
 near: Big Diomede Island
+openstreetmap: "https://www.openstreetmap.org/way/20747781"
 tags:
   - island
 ---

@@ -5,7 +5,7 @@ island of:
   - Society Islands
   - French Polynesia
   - Pacific Ocean
-type: island
+openstreetmap: "https://www.openstreetmap.org/relation/3992237"
 tags:
   - island
 ---

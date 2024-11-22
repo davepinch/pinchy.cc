@@ -7,7 +7,7 @@ island of: Skagit County, Washington
 near:
   - Deception Pass
   - Strawberry Island
-type: island
+openstreetmap: "https://www.openstreetmap.org/relation/3958301"
 tags:
   - island
 ---
