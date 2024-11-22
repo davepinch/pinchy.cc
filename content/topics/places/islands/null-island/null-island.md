@@ -5,4 +5,5 @@ wikidata: "https://www.wikidata.org/wiki/Q16896007"
 tags:
   - imaginary
   - island
+  - no OpenStreetMap element
 ---
