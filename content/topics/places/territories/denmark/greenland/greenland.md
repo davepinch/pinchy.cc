@@ -9,5 +9,6 @@ island of: North America
 learn about nordic culture: National Nordic Museum
 territory of: Denmark
 tags:
+  - island
   - territory
 ---
