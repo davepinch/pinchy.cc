@@ -1,5 +1,6 @@
 ---
 title: "Secretary Janet Yellen portrait.jpg (Wikimedia Commons)"
+appointed by: Joe Biden presidential portrait.jpg (Wikimedia Commons)
 author: United States Department of Treasury
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/35/Secretary_Janet_Yellen_portrait.jpg"
