@@ -1,5 +1,6 @@
 ---
 title: "Elise Stefanik"
+member of: Republican Party
 type: person
 United States Representative of: New York
 Wikidata: "https://www.wikidata.org/wiki/Q18211057"
