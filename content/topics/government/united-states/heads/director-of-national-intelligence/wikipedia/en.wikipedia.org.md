@@ -1,7 +1,9 @@
 ---
 title: "Director of National Intelligence (Wikipedia)"
+appointed by: President of the United States (Wikipedia)
 excerpt: >-
   The **director of national intelligence** (**DNI**) is a senior cabinet-level United States government official, required by the Intelligence Reform and Terrorism Prevention Act of 2004 to serve as executive head of the United States Intelligence Community (IC) and to direct and oversee the National Intelligence Program (NIP). All IC agencies report directly to the DNI.
+head of: United States Intelligence Community (Wikipedia)
 member of:
   - Cabinet of the United States (Wikipedia)
   - United States National Security Council (Wikipedia)
