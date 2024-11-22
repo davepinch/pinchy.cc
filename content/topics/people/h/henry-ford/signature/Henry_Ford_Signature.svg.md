@@ -1,6 +1,6 @@
 ---
 title: "Henry Ford Signature.svg (Wikimedia Commons)"
-author: Traced by [Connormah](https://commons.wikimedia.org/wiki/User:Connormah)"
+author: "Traced by [Connormah](https://commons.wikimedia.org/wiki/User:Connormah)"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/be/Henry_Ford_Signature.svg"
 signature of:
