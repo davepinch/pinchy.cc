@@ -10,5 +10,6 @@ tags:
   - demolished
   - building
   - urban exploration
+  - no Wikidata record
   - no Wikipedia article
 ---
