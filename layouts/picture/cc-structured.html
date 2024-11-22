@@ -23,10 +23,21 @@
       {{ end -}}
 
       {{ with .Params.author -}}
+          {{ if reflect.isSlice . }}
+      "creator": [
+        {{ range . }}
+        {
+          "@type": "Person",
+          "name": {{ . | safeJSStr }}
+        },
+        {{ end }}
+      ],
+          {{ else }}
       "creator": {
         "@type": "Person",
         "name": {{ . | safeJSStr }}
       },
+          {{ end }}
       {{ end -}}
 
       {{ with .Params.copyright }}
