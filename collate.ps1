@@ -425,14 +425,14 @@ Write-Host "There are $($script:props.Count) distinct properties."
 # An updater is a function that modifies a page object in some way.
 # ========================================================================
 
-function Update-OfProperties($page) {
+function Update-OfProperties($page, $suffix = " of") {
 
     #
     # Loop through each property of the page and look for ones that end in ' of'
     #
     foreach($propkey in $page.Keys) {
 
-        if ($propkey -notlike "* of") {
+        if ($propkey -notlike "* {$suffix}") {
             continue
         }
             
