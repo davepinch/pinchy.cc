@@ -707,8 +707,25 @@ function Update-Randoms() {
 # the current page.
 # ========================================================================
 function Update-ReverseTag($page) {
-    $tagged = $script:props["tags"][$page.title]
-    if ($tagged) {
+
+    #
+    # Get the hashtable for tags
+    #
+    $tags = $script:props["tags"]
+    if ($null -eq $tags) {
+        Debug-Page $page "No tags property"
+        exit
+        return
+    }
+
+    #
+    # Get the titles of all pages that tag this page
+    #
+    $tagged = $tags[$page.title]
+    if ($null -eq $tagged) {
+        return
+    }
+    else {
         $page["tagged"] = $tagged
     }
 }
