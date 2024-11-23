@@ -1,6 +1,6 @@
 ---
 title: "square"
-regular of: quadilateral
+regular of: Quadrilateral
 schläfli symbol: "{4}"
 wikidata: "https://www.wikidata.org/wiki/Q164"
 tags:
