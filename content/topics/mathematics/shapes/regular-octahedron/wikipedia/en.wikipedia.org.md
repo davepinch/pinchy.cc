@@ -9,5 +9,6 @@ url: /en.wikipedia.org/wiki/Regular_octahedron/
 website: "https://en.wikipedia.org/wiki/Regular_octahedron"
 wikipedia of: regular octahedron
 tags:
+  - Platonic solid (Wikipedia)
   - Wikipedia
 ---
