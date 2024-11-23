@@ -8,6 +8,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/9/9f/Flag_of_the_Domini
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Dominican_Republic.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Dominican_Republic.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Dominican_Republic"
 tags:
   - flag
   - Wikimedia Commons
