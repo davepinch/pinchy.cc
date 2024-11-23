@@ -1,5 +1,5 @@
 ---
-title: "Floor796 (floor796.com)"
+title: "Floor796"
 excerpt: >-
   Floor796 is an ever-expanding animation scene showing the life of the 796th floor of the huge space station! The goal of the project is to create as huge animation as possible, with many references to movies, games, anime and memes.
 retrieved: 2023-06-01
