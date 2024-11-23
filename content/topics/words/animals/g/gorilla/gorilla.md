@@ -1,0 +1,5 @@
+---
+title: "gorilla"
+tags:
+  - mammal
+---
