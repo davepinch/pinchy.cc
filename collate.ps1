@@ -318,6 +318,56 @@ function Get-Pages {
 }
 
 # ========================================================================
+# Get-Props
+# ------------------------------------------------------------------------
+# This function generates a hashtable of properties. The input is an
+# array of page objects. The output is a hashtable where the key is the
+# property name and the value is a hashtable of distinct values for that
+# property. The inner hashtable has the distinct value as the key and an
+# array of page titles as the value.
+# ========================================================================
+function Get-Props($pages) {
+
+    $props = [hashtable]::new()
+
+    foreach($page in $pages) {
+
+        foreach($key in $page.Keys) {
+
+            #
+            # Create the hashtable for this key.
+            #
+            if (-not $props.ContainsKey($key)) {
+                $props[$key] = [hashtable]::new()
+            }
+
+            #
+            # Get the key value as an array
+            #
+            $value = $page[$key]
+            if ($value -isnot [array]) {
+                $value = @($value)
+            }
+
+            foreach($v in $value) {
+                if ($null -eq $v) {
+                    Debug-Page $page "Property '$key' has a null value"
+                    continue
+                }
+            
+                if ($v -isnot [string]) {
+                    $v = [string]$v
+                    Debug-Page $page "Property '$key' has a non-string value"
+                    continue
+                }
+                Add-PropertyValue $props[$key] $v $page["title"]
+            }
+        }
+    }
+    return $props
+}
+
+# ========================================================================
 # Install powershell-yaml module
 # ========================================================================
 
@@ -365,52 +415,8 @@ $script:pages = Get-Pages
 Write-Host "$(Get-EmojiRunning) Indexing titles..."
 $script:lookup = Get-Lookup $script:pages
 
-# ========================================================================
-# $props
-# ------------------------------------------------------------------------
-# The $props hashtable contains a key for each distinct property used in
-# any page. For example, it contains a "title" and a "tags" as these are
-# commonly used keys. The value of each key is also a hashtable. The keys
-# of the inner hashtable are the distinct values of the property.
-# ========================================================================
-
 Write-Host "Indexing properties..."
-$script:props = [hashtable]::new()
-
-foreach($page in $script:pages) {
-    foreach($key in $page.Keys) {
-
-        # 
-        # Create the hashtable for this key, if it does not exist.
-        #
-        if (-not $script:props.ContainsKey($key)) {
-            # Do not use @{} to create a hashtable. That
-            # hashtable is not case-sensitive, which causes
-            # problems with emoji characters.
-            $script:props[$key] = [hashtable]::new()
-        }
-
-        $value = $page[$key]
-        if ($null -eq $value) {
-            Debug-Page $page "Property '$key' is null"
-            continue
-        }
-
-        if ($value -is [array]) {
-            foreach($v in $value) {
-                if ($null -eq $v) {
-                    Debug-Page $page "Property '$key' has a null value"
-                    continue
-                }
-                Add-PropertyValue $script:props[$key] $v $page["title"]
-            }
-        }
-        else {
-            Add-PropertyValue $script:props[$key] $value $page["title"]
-        }
-    }
-}
-
+$script:props = Get-Props $script:pages
 Write-Host "There are $($script:props.Count) distinct properties."
 
 # ========================================================================
@@ -1265,7 +1271,7 @@ if (-not (Test-Path -Path $dataPath)) {
 
 $script:pages  | ConvertTo-Json | Set-Content -Path "$rootPath\data\pages.json"
 $script:lookup | ConvertTo-Json | Set-Content -Path "$rootPath\data\lookup.json"
-#$script:props  | ConvertTo-Json | Set-Content -Path "$rootPath\data\props.json"
+$script:props  | ConvertTo-Json | Set-Content -Path "$rootPath\data\props.json"
 
 # ========================================================================
 # Summarize results
