@@ -6,7 +6,7 @@ excerpt: >-
 head of: United States Department of the Treasury (Wikipedia)
 member of:
   - Cabinet of the United States (Wikipedia)
-  - National Security Council (Wikipedia)
+  - United States National Security Council (Wikipedia)
 retrieved: 2024-11-21
 type: website
 url: /en.wikipedia.org/wiki/United_States_Secretary_of_the_Treasury/
