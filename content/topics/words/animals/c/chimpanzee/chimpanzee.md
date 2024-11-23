@@ -1,0 +1,5 @@
+---
+title: "chimpanzee"
+tags:
+  - mammal
+---
