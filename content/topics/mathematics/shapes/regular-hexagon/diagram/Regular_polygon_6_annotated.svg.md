@@ -4,8 +4,8 @@ title: "Regular_polygon_6_annotated.svg (Wikimedia Commons)"
 ➖ side: Regular_polygon_5_annotated.svg (Wikimedia Commons)
 author: "[László Németh](https://commons.wikimedia.org/wiki/User:Nl74)"
 diagram of:
-  - hexagon
   - regular polygon
+  - hexagon
   - SVG
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/38/Regular_polygon_6_annotated.svg"
