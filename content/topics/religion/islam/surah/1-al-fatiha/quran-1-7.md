@@ -1,5 +1,6 @@
 ---
 title: "Quran 1:7"
+⬅️: "Quran 1:6"
 Abdullah Yusuf Ali: >-
   The way of those on whom Thou hast bestowed Thy Grace, those whose (portion) is not wrath, and who go not astray.
 Marmaduke Pickthall: >-
