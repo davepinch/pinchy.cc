@@ -1,5 +1,6 @@
 ---
 title: "Lamps in the Commons"
+author: David Pinch
 lamps of: looking up
 license: public domain
 photograph of:
