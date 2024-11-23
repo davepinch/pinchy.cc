@@ -1192,6 +1192,11 @@ foreach ($page in $script:pages) {
     Test-PropertyRequiresTag $page "photograph of" "photograph"
     Test-TagRequiresProperty $page "photograph" "photograph of"
 
+    # polygon
+    Test-TagRequiresProperty $page "polygon" "sides"
+    Test-TagRequiresProperty $page "polygon" "wikidata"
+    Test-TagRequiresProperty $page "polygon" "Wikipedia"
+
     # president of the United States
     Test-TagRequiresProperty $page "president of the United States" "birth"
     Test-TagRequiresProperty $page "president of the United States" "member of"
