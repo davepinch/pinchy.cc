@@ -6,7 +6,7 @@ schläfli symbol:
   - "{10}"
   - "t{5}"
 sides: 10
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q184625"
 tags:
   - polygon
   - geometry

@@ -1,8 +1,8 @@
 ---
 title: "cone"
-type: shape
+wikidata: "https://www.wikidata.org/wiki/Q42344"
 tags:
-- shape
-- geometry
-- mathematics
+  - shape
+  - geometry
+  - mathematics
 ---

@@ -4,7 +4,7 @@ title: "hexadecagon"
 ➖ side: pentadecagon
 schläfli symbol: "{16}"
 sides: 16
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q263152"
 tags:
   - polygon
 ---

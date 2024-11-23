@@ -6,7 +6,7 @@ schläfli symbol:
   - "{6}"
   - "t{3}"
 sides: 6
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q83043"
 tags:
   - polygon
   - geometry

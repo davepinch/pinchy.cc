@@ -4,7 +4,7 @@ title: "hendecagon"
 ➖ side: decagon
 schläfli symbol: "{11}"
 sides: 11
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q214382"
 tags:
   - polygon
 ---

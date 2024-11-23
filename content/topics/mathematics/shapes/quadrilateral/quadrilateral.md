@@ -3,7 +3,7 @@ title: "quadrilateral"
 ➕ side: pentagon
 ➖ side: triangle
 sides: 4
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q36810"
 tags:
   - polygon
   - mathematics

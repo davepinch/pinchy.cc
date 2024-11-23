@@ -6,7 +6,7 @@ schläfli symbol:
   - "{18}"
   - "t{9}"
 sides: 18
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q1054120"
 tags:
   - polygon
 ---

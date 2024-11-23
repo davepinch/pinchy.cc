@@ -6,7 +6,7 @@ schläfli symbol:
   - "{8}"
   - "t{4}"
 sides: 8
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q166080"
 tags:
   - polygon
   - geometry

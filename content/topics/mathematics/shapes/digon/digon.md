@@ -5,7 +5,7 @@ lofty thoughts: A minusagon is a value that when added to a polygon, removes one
 remove a side: monogon
 schläfli symbol: "{2}"
 sides: 2
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q854818"
 tags:
   - polygon
 ---

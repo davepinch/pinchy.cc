@@ -4,7 +4,7 @@ title: "nonagon"
 ➖ side: octagon
 schläfli symbol: "{9}"
 sides: 9
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q200042"
 tags:
   - polygon
   - geometry

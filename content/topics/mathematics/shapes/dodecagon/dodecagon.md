@@ -7,7 +7,7 @@ schläfli symbol:
   - "t{6}"
   - "tt{3}"
 sides: 12
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q212074"
 tags:
   - polygon
 ---

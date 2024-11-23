@@ -5,7 +5,7 @@ title: "triangle"
 emoji:
   - 🚩
 sides: 3
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q19821"
 tags:
   - polygon
   - geometry

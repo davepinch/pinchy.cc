@@ -4,7 +4,7 @@ title: "tridecagon"
 ➖ side: dodecagon
 schläfli symbol: "{13}"
 sides: 13
-type: polygon
+wikidata: "https://www.wikidata.org/wiki/Q849375"
 tags:
   - polygon
 ---

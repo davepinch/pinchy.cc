@@ -2,7 +2,7 @@
 title: "square"
 regular of: quadilateral
 schläfli symbol: "{4}"
-type: rhombus
+wikidata: "https://www.wikidata.org/wiki/Q164"
 tags:
   - rhombus
   - geometry
