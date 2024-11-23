@@ -1259,15 +1259,13 @@ if (-not (Test-Path -Path $dataPath)) {
     New-Item -ItemType Directory -Path $dataPath | Out-Null
 }
 
-#
-# Write the pages array to a JSON file
-#
-$pages | ConvertTo-Json | Set-Content -Path "$rootPath\data\pages.json"
+# ========================================================================
+# Save the results
+# ========================================================================
 
-#
-# Write the $lookups hashtable to a file in JSON
-#
-$lookup | ConvertTo-Json | Set-Content -Path "$rootPath\data\lookup.json"
+$script:pages  | ConvertTo-Json | Set-Content -Path "$rootPath\data\pages.json"
+$script:lookup | ConvertTo-Json | Set-Content -Path "$rootPath\data\lookup.json"
+#$script:props  | ConvertTo-Json | Set-Content -Path "$rootPath\data\props.json"
 
 # ========================================================================
 # Summarize results
