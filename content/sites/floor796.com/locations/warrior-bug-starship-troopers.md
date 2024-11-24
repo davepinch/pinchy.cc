@@ -1,6 +1,6 @@
 ---
 title: "Warrior Bug - Starship Troopers (floor796.com)"
-floor796 of: Starship Troopers
+floor796 of: Starship Troopers (film)
 type: website
 url: /floor796.com/t5r3,64,49/
 website: "https://floor796.com/#t5r3,64,49"
