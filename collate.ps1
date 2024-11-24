@@ -357,7 +357,6 @@ function Get-Props($pages) {
             
                 if ($v -isnot [string]) {
                     $v = [string]$v
-                    Debug-Page $page "Property '$key' has a non-string value"
                     continue
                 }
                 Add-PropertyValue $props[$key] $v $page["title"]
@@ -425,14 +424,14 @@ Write-Host "There are $($script:props.Count) distinct properties."
 # An updater is a function that modifies a page object in some way.
 # ========================================================================
 
-function Update-OfProperties($page, $suffix = " of") {
+function Update-OfProperties($page, $suffix = "of") {
 
     #
     # Loop through each property of the page and look for ones that end in ' of'
     #
     foreach($propkey in $page.Keys) {
 
-        if ($propkey -notlike "* {$suffix}") {
+        if ($propkey -notlike "* $suffix") {
             continue
         }
             
@@ -472,9 +471,13 @@ function Update-OfProperties($page, $suffix = " of") {
 
                 #
                 # Build the name of the property that will be
-                # added to the referenced page.
+                # added to the referenced page. To do this, trim
+                # off the suffix and extra space, e.g., " of".
                 #
-                $propertyName = $propkey.Substring(0, $propkey.Length - 3)
+                $propertyName = $propkey.Substring( `
+                  0, `
+                  $propkey.Length - $suffix.Length - 1)
+
                 Add-PropertyValue $ofPage $propertyName $page.title
 
             }
