@@ -6,6 +6,7 @@ lake of:
   - British Columbia
   - Whatcom County, Washington
   - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/443809"
 upstream on the Skagit River: Skagit Valley Provincial Park
 vicinity of: E. C. Manning Provincial Park
