@@ -1,7 +1,9 @@
 ---
 title: "Bridge in Mount Vernon"
 author: David Pinch
-bridge of: Skagit River
+bridge of:
+  - Skagit River
+  - Mount Vernon
 heart of: graffiti
 license: CC BY-SA 4.0
 photograph of:
