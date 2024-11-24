@@ -6,7 +6,7 @@ shooter game of: MS-DOS (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Doom_(1993_video_game)/
 website: "https://en.wikipedia.org/wiki/Doom_(1993_video_game)"
-wikipedia of: DOOM
+wikipedia of: Doom
 tags:
   - Wikipedia
 ---
