@@ -9,6 +9,7 @@ lake of:
 retrieved: 2024-11-23
 type: website
 upstream on the Skagit River: Ross Dam (Wikipedia)
+url: /en.wikipedia.org/wiki/Diablo_Lake/
 website: "https://en.wikipedia.org/wiki/Diablo_Lake"
 wikipedia of: Diablo Lake
 tags:
