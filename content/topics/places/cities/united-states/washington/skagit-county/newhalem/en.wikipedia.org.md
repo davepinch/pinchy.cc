@@ -1,5 +1,6 @@
 ---
 title: "Newhalem, Washington (Wikipedia)"
+downstream of the Skagit River: Marblemount, Washington (Wikipedia)
 excerpt: >-
   **Newhalem** (Lushootseed: dxʷʔiyb) is a small unincorporated community on the Skagit River in the western foothills of the North Cascades, in Whatcom County, northwestern Washington, United States.
 retrieved: 2024-11-23
