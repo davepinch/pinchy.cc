@@ -2,7 +2,7 @@
 title: "Ross Dam (Wikipedia)"
 dam of:
   - Skagit River (Wikipedia)
-  - Ross Lake (Wikipedia)
+  - Ross Lake (Washington) (Wikipedia)
   - Whatcom County, Washington (Wikipedia)
   - Washington (state) (Wikipedia)
 downstream on the Skagit River: Diablo Lake (Wikipedia)
