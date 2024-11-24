@@ -1,11 +1,5 @@
 ---
 title: "Skagit River"
-course:
-  - Sedro-Woolley, Washington
-  - Burlington, Washington
-  - Mount Vernon, Washington
-  - Conway, Washington
-  - incomplete list
 crosses:
   - Washington State Route 9
   - Interstate 5
