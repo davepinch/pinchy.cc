@@ -13,6 +13,7 @@ northbound on interstate 5: Alger, Washington (Wikipedia)
 retrieved: 2023-12-25
 southbound on interstate 5: Skagit River (Wikipedia)
 type: website
+upstream on the Skagit River: Sedro-Woolley, Washington (Wikipedia)
 url: /en.wikipedia.org/wiki/Burlington,_Washington/
 website: "https://en.wikipedia.org/wiki/Burlington,_Washington"
 wikipedia of: Burlington, Washington
