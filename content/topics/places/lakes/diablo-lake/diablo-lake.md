@@ -1,5 +1,6 @@
 ---
 title: "Diablo Lake"
+downstream on the Skagit River: Diablo Dam
 lake of:
   - Skagit River
   - Whatcom County, Washington
