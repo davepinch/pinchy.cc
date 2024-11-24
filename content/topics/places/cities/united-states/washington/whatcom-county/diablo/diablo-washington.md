@@ -1,5 +1,6 @@
 ---
 title: "Diablo, Washington"
+downstream on the Skagit River: Gorge Lake
 unincorporated community of:
   - Skagit River
   - Whatcom County, Washington
