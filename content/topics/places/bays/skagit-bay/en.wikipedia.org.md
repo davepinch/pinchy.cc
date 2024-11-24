@@ -5,6 +5,7 @@ excerpt: >-
 mouth of: Skagit River (Wikipedia)
 retrieved: 2024-08-02
 type: website
+upstream on the Skagit River: Fir Island (Wikipedia)
 url: /en.wikipedia.org/wiki/Skagit_Bay/
 website: "https://en.wikipedia.org/wiki/Skagit_Bay"
 wikipedia of: Skagit Bay
