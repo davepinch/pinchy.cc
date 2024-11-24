@@ -12,6 +12,7 @@ northbound on interstate 5: Skagit River (Wikipedia)
 retrieved: 2023-12-25
 southbound on interstate 5: Conway, Washington (Wikipedia)
 type: website
+upstream on the Skagit River: Burlington, Washington (Wikipedia)
 url: /en.wikipedia.org/wiki/Mount_Vernon,_Washington/
 website: "https://en.wikipedia.org/wiki/Mount_Vernon,_Washington"
 wikipedia of: Mount Vernon, Washington
