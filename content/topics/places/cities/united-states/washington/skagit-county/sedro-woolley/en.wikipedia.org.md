@@ -12,6 +12,7 @@ southbound on state route 9: Arlington, Washington (Wikipedia)
 related: "Abandoned barn by the water"
 retrieved: 2023-08-02
 type: website
+upstream on the Skagit River: Concrete, Washington (Wikipedia)
 url: /en.wikipedia.org/wiki/Sedro-Woolley,_Washington/
 website: "https://en.wikipedia.org/wiki/Sedro-Woolley,_Washington"
 wikipedia of: Sedro-Woolley, Washington
