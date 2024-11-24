@@ -12,7 +12,7 @@ provincial park of:
   - Skagit River (Wikipedia)
 retrieved: 2024-11-23
 type: website
-url: /en.wikipedia.org/wiki/E._C._Manning_Provincial_Park
+url: /en.wikipedia.org/wiki/E._C._Manning_Provincial_Park/
 website: "https://en.wikipedia.org/wiki/E._C._Manning_Provincial_Park"
 wikipedia of: E. C. Manning Provincial Park
 tags:
