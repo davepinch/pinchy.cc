@@ -1,6 +1,6 @@
 ---
 title: "Doom"
-shooter game of: MS-DOS
+video game of: MS-DOS
 tags:
-  - game
+  - video game
 ---
