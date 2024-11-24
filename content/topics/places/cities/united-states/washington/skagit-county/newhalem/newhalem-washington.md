@@ -4,6 +4,7 @@ openstreetmap: "https://www.openstreetmap.org/node/150967747"
 unincorporated community of:
   - Skagit County
   - Skagit River
+upstream on the Skagit River: Diablo Dam
 wikidata: "https://www.wikidata.org/wiki/Q3474237"
 tags:
   - unincorporated community
