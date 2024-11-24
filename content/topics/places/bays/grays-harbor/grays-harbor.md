@@ -15,6 +15,7 @@ rivers:
   - Chehalis River
   - Humptulips River
   - incomplete list
+wikidata: "https://www.wikidata.org/wiki/Q1544076"
 tags:
   - estuarine bay
   - bay
