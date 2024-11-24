@@ -4,10 +4,10 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 5). Arthur C. Clarke. In *Wikipedia, The Free Encyclopedia*. Retrieved February 11, 2024, from https://en.wikipedia.org/w/index.php?title=Arthur_C._Clarke&oldid=1203859612
 snippet of: Arthur C. Clarke (Wikipedia)
+sri lanka of: Arthur C. Clarke
 type: snippet
 url: /en.wikipedia.org/wiki/Arthur_C._Clarke/4-1/
 tags:
-  - Arthur C. Clarke
   - Ceylon
   - Sri Lanka
   - scuba diving
