@@ -8,6 +8,7 @@ lake of:
   - Washington (state) (Wikipedia)
 retrieved: 2024-11-23
 type: website
+upstream on the Skagit River: Ross Dam (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Diablo_Lake"
 wikipedia of: Diablo Lake
 tags:
