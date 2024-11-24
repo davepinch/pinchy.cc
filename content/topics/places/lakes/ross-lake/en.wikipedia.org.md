@@ -9,6 +9,7 @@ lake of:
   - Washington (state) (Wikipedia)
   - Cascade Range (Wikipedia)
 type: website
+upstream on the Skagit River: Skagit Valley Provincial Park (Wikipedia)
 url: /en.wikipedia.org/wiki/Ross_Lake_(Washington)/
 website: "https://en.wikipedia.org/wiki/Ross_Lake_(Washington)"
 wikipedia of: Ross Lake
