@@ -1,5 +1,7 @@
 ---
 title: "Under a tree at the University of California, Santa Barbara"
+author: David Pinch
+license: CC BY-SA 4.0
 picture: content/camera-roll/2016/08/2016-08-19-under-a-tree-at-ucsb/20160819_005310132_iOS.jpg
 photograph of:
   - tree
