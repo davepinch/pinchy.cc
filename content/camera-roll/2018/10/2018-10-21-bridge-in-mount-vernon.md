@@ -3,7 +3,7 @@ title: "Bridge in Mount Vernon"
 author: David Pinch
 bridge of:
   - Skagit River
-  - Mount Vernon
+  - Mount Vernon, Washington
 heart of: graffiti
 license: CC BY-SA 4.0
 photograph of:
