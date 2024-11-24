@@ -8,7 +8,7 @@ type: website
 unincorporated community of:
   - Skagit County, Washington (Wikipedia)
   - Skagit River (Wikipedia)
-upstream on the Skagit River: Diablo Dam (Wikipedia)
+upstream on the Skagit River: Gorge Lake (Wikipedia)
 url: /en.wikipedia.org/wiki/Newhalem,_Washington/
 website: "https://en.wikipedia.org/wiki/Newhalem,_Washington"
 wikipedia of: Newhalem, Washington
