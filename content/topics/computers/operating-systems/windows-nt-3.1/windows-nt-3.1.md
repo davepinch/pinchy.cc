@@ -3,6 +3,6 @@ title: "Windows NT 3.1"
 successor of: Windows 3.1
 version of: Microsoft Windows
 tags:
-  - operating systme
+  - operating system
   - product
 ---
