@@ -1,6 +1,10 @@
 ---
 title: "E. C. Manning Provincial Park"
-borders: Washington
+borders:
+  - Skagit Valley Provincial Park
+  - Washington
+  - United States
+downstream on the Skagit River: Skagit Valley Provincial Park
 openstreetmap: "https://www.openstreetmap.org/relation/2230176"
 provincial park of:
   - British Columbia
