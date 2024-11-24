@@ -1,0 +1,5 @@
+---
+title: "webcam"
+tags:
+  - camera
+---
