@@ -1,5 +1,6 @@
 ---
 title: "Fir Island"
+downstream on the Skagit River: Skagit Bay
 island of:
   - Skagit Bay
   - Skagit River
