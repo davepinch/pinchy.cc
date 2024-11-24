@@ -8,6 +8,7 @@ unincorporated community of:
   - Skagit River (Wikipedia)
   - Whatcom County, Washington (Wikipedia)
   - Washington (state) (Wikipedia)
+upstream on the Skagit River: Diablo Dam (Wikipedia)
 url: /en.wikipedia.org/wiki/Diablo,_Washington/
 website: "https://en.wikipedia.org/wiki/Diablo,_Washington"
 wikipedia of: Diablo, Washington
