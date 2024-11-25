@@ -7,7 +7,6 @@ shortly after of: birth
 type: picture
 when: 1974-04-14
 tags:
-  - "This is how I began."
   - About Me
   - photograph
   - selfie
