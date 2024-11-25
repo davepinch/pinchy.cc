@@ -6,9 +6,9 @@ mountain of:
   - Whatcom County, Washington
 made of: Shuksan Greenschist
 near: Mount Baker
-type: massif
+openstreetmap: "https://www.openstreetmap.org/node/349028214"
+wikidata: "https://www.wikidata.org/wiki/Q1788022"
 tags:
+  - massif
   - mountain
-  - Washington
-  - United States
 ---
