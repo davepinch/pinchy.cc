@@ -11,6 +11,7 @@ near:
   - Interstate 90
   - Issaquah, Washington
   - Tiger Mountain
+wikidata: "https://www.wikidata.org/wiki/Q7581914"
 tags:
   - mountain
 ---
