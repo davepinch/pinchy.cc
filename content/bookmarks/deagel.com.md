@@ -9,5 +9,6 @@ type: website
 url: /www.deagel.com/
 website: "https://www.deagel.com/"
 tags:
+  - conspiracy
   - military
 ---
