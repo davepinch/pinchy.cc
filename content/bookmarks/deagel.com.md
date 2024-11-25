@@ -1,5 +1,6 @@
 ---
 title: "Guide to Military Equipment and Civil Aviation (deagel.com)"
+first archive on 5 Sept 2003: "https://web.archive.org/web/20030905115229/http://deagel.com/"
 meta description: >-
   world military power, air forces, navies, armies, marines, civil aviation, news, equipment information, photographs
 meta keywords: >-
