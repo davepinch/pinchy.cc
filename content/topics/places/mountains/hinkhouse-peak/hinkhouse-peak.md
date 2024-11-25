@@ -4,7 +4,8 @@ mountain of:
   - Cascade Range
   - Washington
 near: "Washington Pass"
-type: mountain
+openstreetmap: "https://www.openstreetmap.org/node/356550199"
+wikidata: "https://www.wikidata.org/wiki/Q49036567"
 tags:
   - mountain
 ---
