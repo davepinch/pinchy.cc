@@ -9,4 +9,5 @@ vicinity of: Snoqualmie Pass
 wikidata: "https://www.wikidata.org/wiki/Q49047039"
 tags:
   - mountain
+  - no Wikipedia article
 ---
