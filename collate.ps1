@@ -1163,6 +1163,12 @@ foreach ($page in $script:pages) {
     Test-TagRequiresProperty $page "county" "wikidata"
     Test-TagRequiresProperty $page "county" "wikipedia"
 
+    # dam
+    Test-TagRequiresProperty $page "dam" "dam of"
+    Test-TagRequiresProperty $page "dam" "openstreetmap"
+    Test-TagRequiresProperty $page "dam" "wikidata"
+    Test-TagRequiresProperty $page "dam" "Wikipedia"
+    
     # emoji
     Test-TypeRequiresProperty $page "emoji" "emoji of"
 
@@ -1203,7 +1209,7 @@ foreach ($page in $script:pages) {
     Test-TagRequiresProperty $page "mountain" "openstreetmap"
     Test-TagRequiresProperty $page "mountain" "wikidata"
     Test-TagRequiresProperty $page "mountain" "Wikipedia"
-    
+
     # mountain range
     Test-TagRequiresProperty $page "mountain range" "mountain range of"
     #Test-TagRequiresProperty $page "mountain range" "openstreetmap"
