@@ -8,5 +8,6 @@ note: This is the lake, which is also the name of the surrounding community of B
 openstreetmap: "https://www.openstreetmap.org/way/37021427"
 tags:
   - lake
+  - no Wikidata record
   - no Wikipedia article
 ---
