@@ -5,6 +5,7 @@ excerpt: >-
 mountain of: Oregon (Wikipedia)
 retrieved: 2024-11-25
 type: website
+url: /en.wikipedia.org/wiki/Steens_Mountain/
 website: "https://en.wikipedia.org/wiki/Steens_Mountain"
 wikipedia of: Steens Mountain
 tags:
