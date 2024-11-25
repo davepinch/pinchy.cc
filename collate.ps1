@@ -1126,6 +1126,7 @@ foreach ($page in $script:pages) {
     # bay
     Test-TagRequiresProperty $page "bay" "bay of"
     Test-TagRequiresProperty $page "bay" "openstreetmap"
+    Test-TagRequiresProperty $page "bay" "wikidata"
     Test-TagRequiresProperty $page "bay" "Wikipedia"
 
     # building
@@ -1184,17 +1185,25 @@ foreach ($page in $script:pages) {
     Test-TagRequiresProperty $page "island" "island of"
     Test-TagRequiresProperty $page "island" "openstreetmap"
     Test-TagRequiresProperty $page "island" "wikidata"
-    Test-TagRequiresProperty $page "island" "Wikipedia"
+    Test-TagRequiresProperty $page "island" "wikipedia"
 
     # lake
     Test-TypeRequiresProperty $page "lake" "lake of"
     Test-TypeRequiresTag $page "lake" "lake"
     Test-TagRequiresProperty $page "lake" "openstreetmap"
+    Test-TagRequiresProperty $page "lake" "wikidata"
+    Test-TagRequiresProperty $page "lake" "wikipedia"
 
     # location
     Test-PropertyRequiresTag $page "location of" "location"
     Test-TagRequiresProperty $page "location" "location of"
 
+    # mountain
+    Test-TagRequiresProperty $page "mountain" "mountain of"
+    Test-TagRequiresProperty $page "mountain" "openstreetmap"
+    Test-TagRequiresProperty $page "mountain" "wikidata"
+    Test-TagRequiresProperty $page "mountain" "Wikipedia"
+    
     # mountain range
     Test-TagRequiresProperty $page "mountain range" "mountain range of"
     #Test-TagRequiresProperty $page "mountain range" "openstreetmap"
