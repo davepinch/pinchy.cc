@@ -5,6 +5,7 @@ mountain of:
   - Skagit County, Washington
 tags:
   - mountain
+  - no OpenStreetMap element
   - no Wikidata record
   - no Wikipedia article
 ---
