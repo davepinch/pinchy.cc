@@ -5,6 +5,10 @@ mountain of:
   - Squak Mountain State Park
   - Issaquah Alps
   - King County, Washington
+openstreetmap:
+  - "https://www.openstreetmap.org/node/2352997606 (west peak)"
+  - "https://www.openstreetmap.org/node/2352989602 (central peak)"
+  - "https://www.openstreetmap.org/node/2352990801 (southeast peak)"
 near:
   - Cougar Mountain
   - East Renton Highlands
