@@ -4,6 +4,7 @@ title: "Franklin D. Roosevelt"
 ➡️: Harry S. Truman
 born on: 1882-01-30
 died on: 1945-04-12
+member of: Democratic Party
 president of: United States
 type: person
 wife: Eleanor Roosevelt
