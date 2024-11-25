@@ -7,5 +7,6 @@ lake of:
 openstreetmap: "https://www.openstreetmap.org/way/32892649"
 tags:
   - lake
+  - no Wikidata record
   - no Wikipedia article
 ---
