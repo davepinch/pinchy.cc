@@ -8,7 +8,7 @@ type: person
 wikidata: "https://www.wikidata.org/wiki/Q12312"
 tags:
   - American
-  - president
+  - president of the United States
   - human being
   - dead at the moment
   - TODO

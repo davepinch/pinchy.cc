@@ -5,5 +5,5 @@ title: "Thomas Jefferson"
 former president of: United States
 type: person
 tags:
-  - president
+  - president of the United States
 ---

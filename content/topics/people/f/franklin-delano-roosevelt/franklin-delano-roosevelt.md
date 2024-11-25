@@ -10,7 +10,7 @@ wife: Eleanor Roosevelt
 wikidata: "https://www.wikidata.org/wiki/Q8007"
 tags:
   - American
-  - president
+  - president of the United States
   - human being
   - dead at the moment
 ---
