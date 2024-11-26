@@ -5,5 +5,6 @@ type: person
 tags:
   - mass shooting victim
   - human being
+  - no Wikidata record
   - no Wikipedia article
 ---
