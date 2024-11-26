@@ -2,6 +2,7 @@
 title: "Satoshi Kon"
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q333643"
+wikipedia: "https://en.wikipedia.org/wiki/Satoshi_Kon"
 tags:
   - director
   - animator
