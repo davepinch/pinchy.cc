@@ -5,4 +5,5 @@ type: person
 tags:
   - writer
   - human being
+  - no Wikidata record
 ---
