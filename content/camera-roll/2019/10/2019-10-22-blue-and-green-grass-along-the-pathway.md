@@ -6,12 +6,12 @@ photograph of:
   - autumn
   - leaf
   - sidewalk
-picture: content/camera-roll/2019/10/2019-10-22-blue-and-green-grass-along-the-pathway/20191022_192334013_iOS.jpg
+picture: content/camera-roll/2019/10/2019-10-22-blue-and-green-grass-along-the-pathway/blue-and-green-grass-along-the-pathway.jpg
 related: Madison Park, Seattle (Wikipedia)
 sidewalk of:
   - Madison Park, Seattle
   - looking down
-thumbnail: content/camera-roll/2019/10/2019-10-22-blue-and-green-grass-along-the-pathway/20191022_192334013_iOS-thumbnail.jpg
+thumbnail: content/camera-roll/2019/10/2019-10-22-blue-and-green-grass-along-the-pathway/blue-and-green-grass-along-the-pathway.thumbnail.jpg
 type: picture
 when: 2019-10-22
 tags:
