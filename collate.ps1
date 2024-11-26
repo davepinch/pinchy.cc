@@ -974,7 +974,6 @@ function Test-PropertyRequiresTag($page, $property, $tag) {
     #
     # If the page has the given property, it must also
     # contain the given tag in the tags property.
-    # Note: this test is not used yet, it is being built for future use.
     #
     if ($null -ne $page[$property]) {
         
