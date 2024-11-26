@@ -7,7 +7,7 @@ lake of:
   - Mount Baker–Snoqualmie National Forest (Wikipedia)
   - Cascade Range (Wikipedia)
   - Whatcom County, Washington (Wikipedia)
-  - Washington (Wikipedia)
+  - Washington (state) (Wikipedia)
 retrieved: 2024-11-25
 type: website
 url: /en.wikipedia.org/wiki/Baker_Lake_(Washington)/
