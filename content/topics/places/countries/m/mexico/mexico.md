@@ -1,16 +1,13 @@
 ---
 title: "Mexico"
 borders:
-  - Arizona
   - Atlantic Ocean
   - Belize
-  - California
   - Caribbean Sea
   - Central America
   - Guatemala
   - Gulf of Mexico
   - Pacific Ocean
-  - Texas
   - United States
   - incomplete list
 country of: North America
@@ -19,6 +16,11 @@ type: country
 up the pacific coast:
   - United States
   - California
+  - Texas
+US states that border Mexico:
+  - California
+  - Arizona
+  - New Mexico
   - Texas
 wikidata: "https://www.wikidata.org/wiki/Q96"
 tags:
