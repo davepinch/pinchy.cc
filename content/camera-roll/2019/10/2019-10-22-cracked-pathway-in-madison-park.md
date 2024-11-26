@@ -2,9 +2,6 @@
 title: "Cracked pathway in Madison Park"
 author: David Pinch
 license: CC BY-SA 4.0
-near:
-  - Suspended in the air
-  - Blue and green grass along the pathway
 photograph of:
   - grass
   - leaf
