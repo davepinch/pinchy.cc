@@ -6,7 +6,7 @@ signature of:
   - Nicolaus Copernicus
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Nicolaus_Copernicus_signature_(podpis_Miko%C5%82aja_Kopernika).svg/
+url: /commons.wikimedia.org/wiki/Nicolaus_Copernicus_signature_(podpis_Miko%C5%82aja_Kopernika).svg/
 website: "https://commons.wikimedia.org/wiki/File:Nicolaus_Copernicus_signature_(podpis_Mikolaja_Kopernika).svg"
 tags:
   - signature
