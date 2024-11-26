@@ -6,7 +6,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/a/af/Jake-Sullivan-WH.p
 portrait of: Jake Sullivan
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Jake-Sullivan-WH.png/384px-Jake-Sullivan-WH.png"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Jake-Sullivan-WH.png/
+url: /commons.wikimedia.org/wiki/Jake-Sullivan-WH.png/
 website: "https://commons.wikimedia.org/wiki/File:Jake-Sullivan-WH.png"
 tags:
   - portrait
