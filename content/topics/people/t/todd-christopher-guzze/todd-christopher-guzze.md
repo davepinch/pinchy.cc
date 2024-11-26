@@ -6,4 +6,5 @@ tags:
   - writer
   - human being
   - no Wikidata record
+  - no Wikipedia article
 ---
