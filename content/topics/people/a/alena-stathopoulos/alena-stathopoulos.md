@@ -5,4 +5,5 @@ tags:
   - human being
   - murdered
   - no Wikidata record
+  - no Wikipedia article
 ---
