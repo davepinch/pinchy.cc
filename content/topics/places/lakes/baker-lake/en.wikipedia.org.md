@@ -10,6 +10,7 @@ lake of:
   - Washington (Wikipedia)
 retrieved: 2024-11-25
 type: website
+url: /en.wikipedia.org/wiki/Baker_Lake_(Washington)/
 website: "https://en.wikipedia.org/wiki/Baker_Lake_(Washington)"
 wikipedia of: Baker Lake
 tags:
