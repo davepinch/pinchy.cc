@@ -1,4 +1,4 @@
 ---
 title: "steam engine"
-wikipedia: "https://en.wikipedia.org/wiki/Steam_engine"
+wikidata: "https://www.wikidata.org/wiki/Q12760"
 ---
