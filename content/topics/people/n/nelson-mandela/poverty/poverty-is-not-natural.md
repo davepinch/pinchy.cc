@@ -3,8 +3,9 @@ title: "Poverty is not natural. It is man-made and it can be overcome and eradic
 attribution: "Nelson Mandela, *Make Povery History*"
 citation: >-
   Poverty. (2024, April 25). Wikiquote. Retrieved October 3, 2024 from https://en.wikiquote.org/w/index.php?title=Poverty&oldid=3506162.
-nelson mandela of: poverty
+poverty of: Nelson Mandela
 type: quote
+unnatural of: poverty
 tags:
   - quote
 ---
