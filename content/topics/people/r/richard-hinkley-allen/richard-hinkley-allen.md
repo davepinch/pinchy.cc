@@ -1,6 +1,7 @@
 ---
 title: "Richard Hinkley Allen"
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q3934810"
 tags:
   - astronomer
   - writer
