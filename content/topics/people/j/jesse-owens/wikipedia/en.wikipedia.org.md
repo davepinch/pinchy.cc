@@ -6,7 +6,7 @@ retrieved: 2024-11-26
 type: website
 url: /en.wikipedia.org/wiki/Jesse_Owens/
 website: "https://en.wikipedia.org/wiki/Jesse_Owens"
-wikipedia of: Jesse Owns
+wikipedia of: Jesse Owens
 tags:
   - Wikipedia
 ---
