@@ -5,6 +5,7 @@ directed:
   - Brazil (film)
   - "12 Monkeys"
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q25078"
 tags:
   - American
   - British
