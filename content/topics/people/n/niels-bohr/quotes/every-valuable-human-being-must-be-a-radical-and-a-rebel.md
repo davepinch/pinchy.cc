@@ -1,7 +1,7 @@
 ---
 title: "Every valuable human being must be a radical and a rebel, for what he must aim at is to make things better than they are."
 ascend: CHALLENGE REALITY
-attribution: "Niels Bohr"
+attribution: Niels Bohr
 radical and rebel of: Niels Bohr
 related:
   - Niels_Bohr.jpg (Wikimedia Commons)
