@@ -1,6 +1,7 @@
 ---
 title: "Clematis lasiantha"
 type: species
+wikidata: "https://www.wikidata.org/wiki/Q5131214"
 tags:
   - species
   - plant

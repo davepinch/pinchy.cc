@@ -1,6 +1,7 @@
 ---
 title: "Reynoutria japonica"
 type: species
+wikidata: "https://www.wikidata.org/wiki/Q18421053"
 tags:
   - invasive
   - species
