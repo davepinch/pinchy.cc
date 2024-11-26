@@ -1,8 +1,8 @@
 ---
 title: "Thomas Fuller, M.D."
-"born on": 1654-06-24
-"died on": 1734-09-17
-"not to be confused with": "Thomas Fuller"
+born on: 1654-06-24
+died on: 1734-09-17
+not to be confused with: Thomas Fuller
 tags:
   - British
   - physician
