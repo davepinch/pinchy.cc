@@ -8,7 +8,7 @@ TODO: No Gorge Lake article exists on Wikipedia. Create it.
 upstream on the Skagit River: Diablo, Washington (Wikipedia)
 wikipedia of: Gorge Lake
 tags:
-  - Wikipedia placeholder
-  - no Wikipedia article
+  - Wikipedia
+  - placeholder
   - TODO
 ---
