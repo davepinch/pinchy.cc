@@ -9,4 +9,5 @@ tags:
   - world record holder
   - slackliner
   - human being
+  - no Wikipedia article
 ---
