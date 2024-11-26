@@ -1,5 +1,5 @@
 ---
 title: "steam"
-vapor of: water
+gas phase of: water
 wikidata: "https://www.wikidata.org/wiki/Q3251738"
 ---
