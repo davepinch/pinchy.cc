@@ -7,4 +7,5 @@ tags:
   - artist
   - human being
   - New York City
+  - no Wikipedia article
 ---
