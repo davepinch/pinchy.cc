@@ -7,4 +7,5 @@ tags:
   - writer
   - human being
   - dead at the moment
+  - no Wikipedia article
 ---
