@@ -6,7 +6,7 @@ retrieved: 2024-11-26
 type: website
 url: /en.wikipedia.org/wiki/Luz_Long/
 website: "https://en.wikipedia.org/wiki/Luz_Long"
-wikipedia of: Luz Long
+wikipedia of: Lutz Long
 tags:
   - Wikipedia
 ---
