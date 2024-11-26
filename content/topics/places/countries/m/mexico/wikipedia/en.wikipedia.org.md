@@ -1,16 +1,13 @@
 ---
 title: "Mexico (Wikipedia)"
 borders:
-  - Arizona (Wikipedia)
   - Atlantic Ocean (Wikipedia)
   - Belize (Wikipedia)
-  - California (Wikipedia)
   - Caribbean Sea (Wikipedia)
   - Central America (Wikipedia)
   - Guatemala (Wikipedia)
   - Gulf of Mexico (Wikipedia)
   - Pacific Ocean (Wikipedia)
-  - Texas (Wikipedia)
   - United States (Wikipedia)
   - incomplete list
 country of: North America (Wikipedia)
@@ -26,6 +23,11 @@ up the pacific coast:
   - United States (Wikipedia)
   - California (Wikipedia)
 url: /en.wikipedia.org/wiki/Mexico/
+US states that border Mexico:
+  - California (Wikipedia)
+  - Arizona (Wikipedia)
+  - New Mexico (Wikipedia)
+  - Texas (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Mexico"
 wikipedia of: Mexico
 tags:
