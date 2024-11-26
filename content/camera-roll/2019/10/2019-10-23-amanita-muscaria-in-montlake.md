@@ -1,5 +1,6 @@
 ---
 title: "Amanita muscaria in Montlake"
+author: David Pinch
 license: CC BY-SA 4.0
 moment of: canvassing
 mushroom of: looking down

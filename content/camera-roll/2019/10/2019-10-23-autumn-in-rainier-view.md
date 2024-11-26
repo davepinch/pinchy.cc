@@ -1,5 +1,6 @@
 ---
 title: "Autumn in Rainier View"
+author: David Pinch
 license: CC BY-SA 4.0
 moment of: canvassing
 photograph of:

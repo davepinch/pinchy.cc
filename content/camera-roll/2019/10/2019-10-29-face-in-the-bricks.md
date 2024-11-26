@@ -1,11 +1,12 @@
 ---
 title: "Face in the bricks"
-when: 2019-10-29
+author: David Pinch
 license: CC BY-SA 4.0
 near: Painting in the lobby
 picture: content/camera-roll/2019/10/2019-10-29-face-in-the-bricks/20191022_165941185_iOS.jpg
 thumbnail: content/camera-roll/2019/10/2019-10-29-face-in-the-bricks/20191022_165941185_iOS-thumbnail.jpg
 type: picture
+when: 2019-10-29
 tags:
   - pareidolia
   - circle

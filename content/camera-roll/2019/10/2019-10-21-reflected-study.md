@@ -1,5 +1,7 @@
 ---
 title: "Reflected study"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - sidewalk
   - drain

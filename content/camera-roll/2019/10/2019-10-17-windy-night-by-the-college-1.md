@@ -1,5 +1,7 @@
 ---
 title: "Windy night by the college (1 of 4)"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - forest
   - tree

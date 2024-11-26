@@ -1,5 +1,6 @@
 ---
 title: "Rower in Montlake Cut"
+author: David Pinch
 license: CC BY-SA 4.0
 moment of: canvassing
 near:

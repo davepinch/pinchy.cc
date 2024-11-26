@@ -1,5 +1,6 @@
 ---
 title: "Blue and green grass along the pathway"
+author: David Pinch
 license: CC BY-SA 4.0
 photograph of:
   - autumn

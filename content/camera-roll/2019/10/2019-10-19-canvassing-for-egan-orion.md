@@ -1,5 +1,7 @@
 ---
 title: "Canvassing for Egan Orion"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - pumpkin
   - flier

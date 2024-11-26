@@ -1,5 +1,6 @@
 ---
 title: "Stepping onto Montlake Bridge"
+author: David Pinch
 license: CC BY-SA 4.0
 moment of: canvassing
 near: Rower in Montlake Cut

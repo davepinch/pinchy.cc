@@ -1,6 +1,6 @@
 ---
 title: "Cracked pathway in Madison Park"
-when: 2019-10-22
+author: David Pinch
 license: CC BY-SA 4.0
 near:
   - Suspended in the air
@@ -13,6 +13,7 @@ picture: content/camera-roll/2019/10/2019-10-22-cracked-pathway-in-madison-park/
 related: Madison Park, Seattle (Wikipedia)
 thumbnail: content/camera-roll/2019/10/2019-10-22-cracked-pathway-in-madison-park/cracked-pathway-in-madison-park.thumbnail.jpg
 type: picture
+when: 2019-10-22
 tags:
   - autumn
   - looking down

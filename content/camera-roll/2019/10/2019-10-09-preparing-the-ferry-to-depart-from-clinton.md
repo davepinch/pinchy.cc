@@ -1,10 +1,11 @@
 ---
 title: "Preparing the ferry to depart from Clinton"
-when: 2019-10-09
+author: David Pinch
 picture: content/camera-roll/2019/10/2019-10-09-preparing-the-ferry-to-depart-from-clinton/preparing-the-ferry-to-depart-from-clinton.jpg
 related: Clinton, Washington (Wikipedia)
 thumbnail: content/camera-roll/2019/10/2019-10-09-preparing-the-ferry-to-depart-from-clinton/preparing-the-ferry-to-depart-from-clinton.thumbnail.jpg
 type: picture
+when: 2019-10-09
 tags:
   - looking down
   - ferry
