@@ -7,4 +7,5 @@ tags:
   - hero
   - inventor
   - human being
+  - no Wikipedia article
 ---
