@@ -5,7 +5,7 @@ citation: >-
 lakes of: Shoreview, Minnesota
 mention of:
   - Turtle Lake
-  - Snale Lake
+  - Snail Lake
   - Lake Owasso
   - Island Lake
 snippet of: Shoreview, Minnesota (Wikipedia)
