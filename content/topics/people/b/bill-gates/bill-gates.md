@@ -1,7 +1,8 @@
 ---
 title: "Bill Gates"
-cofounder of: Microsoft
+co-founder of: Microsoft
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q5284"
 tags:
   - programmer
   - human being
