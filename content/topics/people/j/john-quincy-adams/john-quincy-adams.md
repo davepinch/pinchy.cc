@@ -3,6 +3,7 @@ title: "John Quincy Adams"
 ⬅️: James Monroe
 ➡️: Andrew Jackson
 president of: United States
+son of: John Adams
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q11816"
 tags:
