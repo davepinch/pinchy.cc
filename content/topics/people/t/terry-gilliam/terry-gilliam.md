@@ -6,6 +6,7 @@ directed:
   - "12 Monkeys"
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q25078"
+𝕏: "https://x.com/TerryGilliam"
 tags:
   - American
   - British
