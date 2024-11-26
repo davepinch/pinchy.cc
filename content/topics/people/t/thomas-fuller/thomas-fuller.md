@@ -2,6 +2,7 @@
 title: "Thomas Fuller"
 not to be confused with: Thomas Fuller, M.D.
 type: person
+wikidata: "https://www.wikidata.org/wiki/Q1248758"
 tags:
   - English
   - historian
