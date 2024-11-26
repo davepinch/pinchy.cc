@@ -7,4 +7,5 @@ tags:
   - mass shooting victim
   - activist
   - human being
+  - no Wikipedia article
 ---
