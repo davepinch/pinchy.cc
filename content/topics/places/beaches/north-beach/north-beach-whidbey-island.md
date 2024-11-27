@@ -10,4 +10,5 @@ LOOK AROUND:
 openstreetmap: "https://www.openstreetmap.org/way/367284616"
 tags:
   - beach
+  - no Wikipedia article
 ---
