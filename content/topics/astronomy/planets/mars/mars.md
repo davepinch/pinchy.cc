@@ -7,6 +7,7 @@ planet of:
   - Sun
   - Solar System
 type: planet
+wikidata: "https://www.wikidata.org/wiki/Q111"
 tags:
   - planet
 ---
