@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_Hamas.svg (Wikimedia Commons)"
+flag of: Hamas
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Flag_of_Hamas.svg"
 related: Hamas (Wikipedia)
