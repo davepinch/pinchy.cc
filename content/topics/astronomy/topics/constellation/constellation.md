@@ -9,7 +9,6 @@ tag requires property:
   - Wikidata
   - Wikipedia
 tags:
-  - star
   - sky
   - astronomy
 ---
