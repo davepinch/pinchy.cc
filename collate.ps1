@@ -971,22 +971,29 @@ function Test-RequiresProperty($page, $property, $message) {
     Debug-Page $page $message
 }
 
+function Test-RequiresTag($page, $tag, $message) {
+
+    if ($null -eq $page["tags"]) {
+        Debug-Page $page $message
+        return
+    }
+
+    if ($page["tags"] -notcontains $tag) {
+        Debug-Page $page $message
+        return
+    }
+}
+
 function Test-PropertyRequiresTag($page, $property, $tag) {
     #
     # If the page has the given property, it must also
     # contain the given tag in the tags property.
     #
-    if ($null -ne $page[$property]) {
-        
-        if ($null -eq $page["tags"]) {
-            Debug-Page $page "'tags' property is required when '$property' is present"
-            return
-        }
-
-        if ($page["tags"] -notcontains $tag) {
-            Debug-Page $page "'tags' must contain '$tag' when '$property' is present"
-            return
-        }
+    if ($null -ne $page[$property]) {        
+        Test-RequiresTag `
+            $page `
+            $tag `
+            "'$tag' is required when '$property' is present"
     }
 }
 
@@ -1014,15 +1021,10 @@ function Test-TypeRequiresProperty($page, $type, $property) {
 
 function Test-TypeRequiresTag($page, $type, $tag) {
     if ($page["type"] -eq $type) {
-        if ($null -eq $page["tags"]) {
-            Debug-Page $page "'tags' property is required when type=$type"
-            return
-        }
-
-        if ($page["tags"] -notcontains $tag) {
-            Debug-Page $page "'tags' must contain '$tag' when type=$type"
-            return
-        }
+        Test-RequiresTag `
+            $page `
+            $tag `
+            "'tags' must contain '$tag' when type=$type"
     }
 }
 
