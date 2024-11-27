@@ -7,6 +7,7 @@ defeat of: John McCain
 first African-American president of:
   - Barack Obama
   - president of the United States
+snippet of: "https://en.wikipedia.org/wiki/2008"
 type: snippet
 url: /en.wikipedia.org/wiki/2008/november-4/
 when: 2008-11-04
