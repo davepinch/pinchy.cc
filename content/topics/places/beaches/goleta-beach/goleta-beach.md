@@ -6,7 +6,7 @@ beach of:
 near:
   - Santa Barbara, California
   - Santa Ynez Mountains
-state: California
+openstreetmap: "https://www.openstreetmap.org/way/446753850"
 wikidata: "https://www.wikidata.org/wiki/Q5580527"
 tags:
   - beach
