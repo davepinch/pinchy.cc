@@ -6,4 +6,5 @@ park of:
   - Alderwood Manor, Washington
 tags:
   - park
+  - no Wikidata record
 ---

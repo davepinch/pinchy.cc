@@ -6,4 +6,5 @@ park of:
   - Kansas City
 tags:
   - park
+  - no Wikidata record
 ---

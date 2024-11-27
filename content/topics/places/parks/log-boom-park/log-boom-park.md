@@ -8,5 +8,6 @@ park of:
   - Lake Washington
 tags:
   - park
+  - no Wikidata record
   - no Wikipedia article
 ---

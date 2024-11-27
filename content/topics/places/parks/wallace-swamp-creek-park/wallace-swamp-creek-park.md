@@ -7,5 +7,6 @@ park of:
   - Kenmore, Washington
 tags:
   - park
+  - no Wikidata record
   - no Wikipedia article
 ---

@@ -7,6 +7,7 @@ openstreetmap: "https://www.openstreetmap.org/way/469685000"
 park of:
   - Hazelwood Street
   - Maplewood, Minnesota
+wikidata: "https://www.wikidata.org/wiki/Q49561149"
 tags:
   - park
   - no Wikipedia article

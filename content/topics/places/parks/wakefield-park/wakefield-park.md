@@ -13,6 +13,7 @@ dave:
   - Some years later I returned with my brother and friend to explore the old drain in the park. The drain was gated.
 openstreetmap: "https://www.openstreetmap.org/way/356342295"
 park of: Maplewood, Minnesota
+wikidata: "https://www.wikidata.org/wiki/Q49576290"
 tags:
   - park
   - no Wikipedia article

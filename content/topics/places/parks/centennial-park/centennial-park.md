@@ -6,6 +6,7 @@ park of:
   - Snohomish County, Washington
 tags:
   - park
+  - no Wikidata record
   - no Wikipedia article
 ---
 Centennial Park contains a historic North Creek Schoolhouse.

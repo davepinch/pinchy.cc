@@ -6,4 +6,5 @@ website: "https://www.bothellwa.gov/1040/Red-Brick-Road-Park"
 tags:
   - park
   - VISIT SOMEWHERE NEW
+  - no Wikidata record
 ---

@@ -8,4 +8,5 @@ park of:
 website: "https://snohomishcountywa.gov/Facilities/Facility/Details/Miners-Corner-57"
 tags:
   - park
+  - no Wikidata record
 ---

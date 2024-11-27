@@ -12,4 +12,5 @@ tags:
   - Discover Pass required
   - no OpenStreetMap element
   - no Wikipedia article
+  - no Wikidata record
 ---
