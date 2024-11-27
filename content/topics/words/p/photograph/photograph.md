@@ -2,5 +2,6 @@
 title: "photograph"
 next: "type of photograph"
 see also: painting
-type: noun
+tag requires property:
+  - photograph of
 ---
