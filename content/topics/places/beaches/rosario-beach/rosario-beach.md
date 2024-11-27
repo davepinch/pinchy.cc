@@ -9,6 +9,7 @@ rockhounding site of:
   - carnelian
   - sea glass
 tides: "https://tides.net/washington/696/"
+wikidata: "https://www.wikidata.org/wiki/Q122197248"
 tags:
   - rockhounding site
   - beach
