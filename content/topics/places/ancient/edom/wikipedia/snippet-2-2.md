@@ -5,6 +5,7 @@ citation: >-
 duration of: Edom
 snippet of: Edom (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Edom/2-2/
 tags:
   - snippet
 ---
