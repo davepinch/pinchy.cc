@@ -12,8 +12,6 @@ borders:
   - United Kingdom
   - Atlantic Ocean
   - Mediterranean Sea
-born here:
-  - Émile Zola
 capital: Paris
 clockwise around the mediterranean:
   - Marseille

@@ -7,7 +7,6 @@ borders:
   - Louisiana (Wikipedia)
   - Mississippi River (Wikipedia)
   - Tennessee (Wikipedia)
-born here: Jim Henson (Wikipedia)
 down the coast: "Louisiana (Wikipedia)"
 down the mississippi: "Louisiana (Wikipedia)"
 excerpt: >-

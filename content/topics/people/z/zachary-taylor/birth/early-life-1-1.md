@@ -1,6 +1,7 @@
 ---
 title: "Zachary Taylor was born on November 24, 1784, on a plantation in Orange County, Virginia, to a prominent family of planters of English ancestry."
 birth of: Zachary Taylor
+born in: Virginia
 citation: >-
   Wikipedia contributors. (2024, November 9). Zachary Taylor. In *Wikipedia, The Free Encyclopedia*. Retrieved 23:26, November 11, 2024, from https://en.wikipedia.org/w/index.php?title=Zachary_Taylor&oldid=1256352288
 snippet of: Zachary Taylor (Wikipedia)

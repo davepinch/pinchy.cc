@@ -13,8 +13,6 @@ borders:
   - Spain (Wikipedia)
   - Switzerland (Wikipedia)
   - United Kingdom (Wikipedia)
-born here:
-  - Émile Zola (Wikipedia)
 capital: Paris (Wikipedia)
 clockwise around the mediterranean:
   - Marseille (Wikipedia)
