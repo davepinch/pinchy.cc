@@ -1237,13 +1237,6 @@ foreach ($page in $script:pages) {
 
     # wikipedia
     Test-PropertyRequiresTag $page "wikipedia of" "wikipedia"
-
-
-    # youtube
-    Test-TypeRequiresTag $page "youtube" "YouTube video"
-    Test-TagRequiresProperty $page "YouTube video" "url"
-    Test-TagRequiresProperty $page "YouTube video" "website"
-    Test-TagRequiresProperty $page "YouTube video" "youtube-id"
 }
 
 # ========================================================================
