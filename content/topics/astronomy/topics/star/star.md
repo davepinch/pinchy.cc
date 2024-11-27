@@ -7,8 +7,8 @@ related:
   - universe
 tag requires property:
   - star of
-  - Wikidata
-  - Wikipedia
+#  - Wikidata
+#  - Wikipedia
 tags:
   - astronomy
 ---
