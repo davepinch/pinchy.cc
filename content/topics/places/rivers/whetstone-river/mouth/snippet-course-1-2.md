@@ -9,6 +9,7 @@ down the minnesota river: >-
 mouth of: Whetstone River
 snippet of: Whetstone River (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Whetstone_River/course-1-2/
 tags:
   - Minnesota River
   - Ortonville, Minnesota

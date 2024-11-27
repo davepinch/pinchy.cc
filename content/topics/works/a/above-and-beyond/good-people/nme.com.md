@@ -5,6 +5,7 @@ archive: "https://web.archive.org/web/20240122050106/https://www.nme.com/news/mu
 retrieved: 2024-01-16
 license: fair use
 type: snippet
+url: /www.nme.com/news/music/mumford-sons-and-pharrell-share-joyous-new-single-good-people-3571830/
 tags:
   - Mumford & Sons
   - Good People

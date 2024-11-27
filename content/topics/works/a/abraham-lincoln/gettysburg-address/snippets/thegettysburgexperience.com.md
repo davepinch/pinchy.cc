@@ -7,6 +7,7 @@ commentary of: >-
 license: none (fair use of a small portion of full text)
 snippet of: "https://www.thegettysburgexperience.com/the-meaning-of-the-gettysburg-address"
 type: snippet
+url: /www.thegettysburgexperience.com/the-meaning-of-the-gettysburg-address/
 tags:
   - snippet
 ---
