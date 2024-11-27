@@ -1,5 +1,5 @@
 ---
 title: "barbed wire"
 related: fence
-type: noun
+wikidata: "https://www.wikidata.org/wiki/Q192065"
 ---
