@@ -9,6 +9,7 @@ citation: >-
 snippet of: Niels Bohr (Wikipedia)
 timeline of: Niels Bohr
 type: snippet
+url: /en.wikipedia.org/wiki/Niels_Bohr/early-life-1-1/
 when: 1885-10-07
 tags:
   - birth

@@ -7,6 +7,7 @@ epitaph of:
   - United States Declaration of Independence
 snippet of: Thomas Jefferson (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Thomas_Jefferson/final-days-death-and-burial-5/
 tags:
   - epitaph
   - snippet

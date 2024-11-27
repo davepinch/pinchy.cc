@@ -6,6 +6,7 @@ citation: >-
 death of: Thomas Fuller
 snippet of: Thomas Fuller (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Thomas_Fuller/death-1-2/
 when: 1661-08-12
 tags:
   - snippet

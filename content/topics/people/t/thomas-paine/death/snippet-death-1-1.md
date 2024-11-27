@@ -6,6 +6,7 @@ citation: >-
 death of: Thomas Paine
 snippet of: Thomas Paine (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Thomas_Paine/death-1-1/
 when: 1809-06-08
 tags:
   - death
