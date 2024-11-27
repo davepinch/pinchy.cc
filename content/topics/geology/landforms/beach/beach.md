@@ -6,6 +6,11 @@ landform alongside of:
   - river
 see also:
   - coast
+tag requires property:
+  - beach of
+  - OpenStreetMap
+  - Wikidata
+  - Wikipedia
 tags:
   - landform
 ---
