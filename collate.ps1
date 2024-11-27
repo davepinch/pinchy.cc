@@ -1016,6 +1016,64 @@ function Test-TagRequiresProperty($page, $tag, $property) {
     }
 }
 
+function Test-TagRequirementsForPage($page) {
+
+    $tags = $page["tags"]
+    if ($null -eq $tags) {
+        return
+    }
+
+    if ($tags -isnot [array]) {
+        $tags = @($tags)
+    }
+
+    foreach($tag in $tags) {
+
+        #
+        # Check whether this tag has a page definition
+        #
+        $tagindex = $script:lookup[$tag]
+        if ($null -eq $tagindex) {
+            continue
+        }
+
+        #
+        # Get the page for this tag
+        #
+        $tagpage = $script:pages[$tagindex]
+
+        #
+        # Get the list of properties required when this tage is used
+        #
+        $requires = $tagpage["tag requires property"]
+        if ($null -eq $requires) {
+            continue
+        }
+
+        #
+        # Cast the list to an array
+        #
+        if ($requires -isnot [array]) {
+            $requires = @($requires)
+        }
+
+        foreach($require in $requires) {
+            Assert-Property `
+                $page `
+                $require `
+                "'$require' property is required when 'tags' contain '$tag'"
+
+        }
+    }
+}
+
+function Test-TagRequirements() {
+    Write-Host "$(Get-EmojiCheckbox) Tag requirements..."
+    foreach($page in $script:pages) {
+        Test-TagRequirementsForPage $page
+    }
+}
+
 function Test-TypeRequiresProperty($page, $type, $property) {
     if ($page["type"] -eq $type) {
         Assert-Property `
@@ -1119,63 +1177,16 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 # Execute tests after all decorators have run
 #
 Write-Host "Testing..."
+Test-TagRequirements
 Test-UniqueUrls
 
 foreach ($page in $script:pages) {
     
-    # airport
-    #$foundProblems += Test-PropertyRequiresTag $page "airport of" "airport"
-    Test-TagRequiresProperty $page "airport" "airport of"
-    Test-TagRequiresProperty $page "airport" "official website"
-    Test-TagRequiresProperty $page "airport" "openstreetmap"
-    Test-TagRequiresProperty $page "airport" "wikidata"
-    Test-TagRequiresProperty $page "airport" "wikipedia"
 
-    # bay
-    Test-TagRequiresProperty $page "bay" "bay of"
-    Test-TagRequiresProperty $page "bay" "openstreetmap"
-    Test-TagRequiresProperty $page "bay" "wikidata"
-    Test-TagRequiresProperty $page "bay" "Wikipedia"
 
-    # building
-    Test-TagRequiresProperty $page "building" "building of"
-    Test-TagRequiresProperty $page "building" "openstreetmap"
-    Test-TagRequiresProperty $page "building" "wikidata"
-    Test-TagRequiresProperty $page "building" "Wikipedia"
-    
-    # chemical element
-    Test-TypeRequiresTag $page "element" "chemical element"
-    Test-TagRequiresProperty $page "chemical element" "wikidata"
-    Test-TagRequiresProperty $page "chemical element" "wikipedia"
 
-    # city
-    Test-TagRequiresProperty $page "city" "city of"
-    Test-TagRequiresProperty $page "city" "openstreetmap"
-    Test-TagRequiresProperty $page "city" "wikidata"
-    Test-TagRequiresProperty $page "city" "wikipedia"
 
-    # country
-    Test-TypeRequiresTag $page "country" "country"
-    Test-TagRequiresProperty $page "country" "country of"
-    Test-TagRequiresProperty $page "country" "flag"
-    Test-TagRequiresProperty $page "country" "location"
-    Test-TagRequiresProperty $page "country" "openstreetmap"
-    Test-TagRequiresProperty $page "country" "wikidata"
-    Test-TagRequiresProperty $page "country" "wikipedia"
 
-    # county
-    Test-TypeRequiresTag $page "county" "county"
-    Test-TagRequiresProperty $page "county" "county of"
-    Test-TagRequiresProperty $page "county" "county of"
-    Test-TagRequiresProperty $page "county" "openstreetmap"
-    Test-TagRequiresProperty $page "county" "wikidata"
-    Test-TagRequiresProperty $page "county" "wikipedia"
-
-    # dam
-    Test-TagRequiresProperty $page "dam" "dam of"
-    Test-TagRequiresProperty $page "dam" "openstreetmap"
-    Test-TagRequiresProperty $page "dam" "wikidata"
-    Test-TagRequiresProperty $page "dam" "Wikipedia"
     
     # emoji
     Test-TypeRequiresProperty $page "emoji" "emoji of"
@@ -1183,56 +1194,17 @@ foreach ($page in $script:pages) {
     # excerpt
     Test-ExcerptCannotHaveFootnotes($page)
 
-    # flag
-    Test-TagRequiresProperty $page "flag" "wikipedia"
-
-    # film
-    Test-TagRequiresProperty $page "film" "wikidata"
-    Test-TagRequiresProperty $page "film" "Wikipedia"
 
     # hacker news
     Test-PropertyRequiresTag $page "hacker news" "shared on Hacker News"
     Test-TagRequiresProperty $page "shared on Hacker News" "hacker news"    
-    
-    # human being
-    Test-TagRequiresProperty $page "human being" "wikidata"
-    Test-TagRequiresProperty $page "human being" "Wikipedia"
 
-    # island
-    #Test-PropertyRequiresTag $page "island of" "island"
-    Test-TagRequiresProperty $page "island" "island of"
-    Test-TagRequiresProperty $page "island" "openstreetmap"
-    Test-TagRequiresProperty $page "island" "wikidata"
-    Test-TagRequiresProperty $page "island" "wikipedia"
-
-    # lake
-    Test-TypeRequiresProperty $page "lake" "lake of"
-    Test-TypeRequiresTag $page "lake" "lake"
-    Test-TagRequiresProperty $page "lake" "openstreetmap"
-    Test-TagRequiresProperty $page "lake" "wikidata"
-    Test-TagRequiresProperty $page "lake" "wikipedia"
 
     # location
     Test-PropertyRequiresTag $page "location of" "location"
     Test-TagRequiresProperty $page "location" "location of"
 
-    # mountain
-    Test-TagRequiresProperty $page "mountain" "mountain of"
-    Test-TagRequiresProperty $page "mountain" "openstreetmap"
-    Test-TagRequiresProperty $page "mountain" "wikidata"
-    Test-TagRequiresProperty $page "mountain" "Wikipedia"
 
-    # mountain range
-    Test-TagRequiresProperty $page "mountain range" "mountain range of"
-    #Test-TagRequiresProperty $page "mountain range" "openstreetmap"
-    Test-TagRequiresProperty $page "mountain range" "wikidata"
-    Test-TagRequiresProperty $page "mountain range" "Wikipedia"
-
-    # neighborhood
-    Test-TagRequiresProperty $page "neighborhood" "neighborhood of"
-    Test-TagRequiresProperty $page "neighborhood" "Wikipedia"
-    Test-TagRequiresProperty $page "neighborhood" "wikidata"
-    
     # park
     Test-TagRequiresProperty $page "park" "openstreetmap"
     
@@ -1245,42 +1217,15 @@ foreach ($page in $script:pages) {
     Test-PropertyRequiresTag $page "photograph of" "photograph"
     Test-TagRequiresProperty $page "photograph" "photograph of"
 
-    # polygon
-    Test-TagRequiresProperty $page "polygon" "sides"
-    Test-TagRequiresProperty $page "polygon" "wikidata"
-    Test-TagRequiresProperty $page "polygon" "Wikipedia"
-
-    # president of the United States
-    Test-TagRequiresProperty $page "president of the United States" "birth"
-    Test-TagRequiresProperty $page "president of the United States" "member of"
-    Test-TagRequiresProperty $page "president of the United States" "portrait"
-    Test-TagRequiresProperty $page "president of the United States" "president of"
-    Test-TagRequiresProperty $page "president of the United States" "signature"
-    Test-TagRequiresProperty $page "president of the United States" "wikidata"
-    Test-TagRequiresProperty $page "president of the United States" "Wikipedia"
 
     # quote
     Test-TypeRequiresTag $page "quote" "quote"
-    
-    # river
-    Test-TypeRequiresTag $page "river" "river"
-    Test-TagRequiresProperty $page "river" "openstreetmap"
-    Test-TagRequiresProperty $page "river" "river of"
-    Test-TagRequiresProperty $page "river" "wikidata"
-    Test-TagRequiresProperty $page "river" "Wikipedia"
 
-    # sea
-    Test-TagRequiresProperty $page "sea" "sea of"
-    Test-TagRequiresProperty $page "sea" "openstreetmap"
-    Test-TagRequiresProperty $page "sea" "wikidata"
-    Test-TagRequiresProperty $page "sea" "Wikipedia"
 
     # snippet
     Test-TypeRequiresTag $page "snippet" "snippet"
     Test-TypeRequiresProperty $page "snippet", "url"
 
-    # star
-    Test-TypeRequiresProperty $page "star" "star of"
     
     # url
     Test-UrlCannotHaveFileNamespace($page)
@@ -1292,7 +1237,7 @@ foreach ($page in $script:pages) {
 
     # wikipedia
     Test-PropertyRequiresTag $page "wikipedia of" "wikipedia"
-    Test-TagRequiresProperty $page "wikipedia" "wikipedia of"
+
 
     # youtube
     Test-TypeRequiresTag $page "youtube" "YouTube video"
