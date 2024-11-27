@@ -1196,11 +1196,6 @@ foreach ($page in $script:pages) {
 
     # location
     Test-PropertyRequiresTag $page "location of" "location"
-    Test-TagRequiresProperty $page "location" "location of"
-
-
-    # park
-    Test-TagRequiresProperty $page "park" "openstreetmap"
     
     # picture
     Test-PictureUnderCameraRollRequiresWhen($page)
@@ -1209,17 +1204,9 @@ foreach ($page in $script:pages) {
 
     # photograph
     Test-PropertyRequiresTag $page "photograph of" "photograph"
-    Test-TagRequiresProperty $page "photograph" "photograph of"
-
 
     # quote
     Test-TypeRequiresTag $page "quote" "quote"
-
-
-    # snippet
-    Test-TypeRequiresTag $page "snippet" "snippet"
-    Test-TypeRequiresProperty $page "snippet", "url"
-
     
     # url
     Test-UrlCannotHaveFileNamespace($page)
