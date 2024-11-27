@@ -8,8 +8,8 @@ park of:
   - Saint Croix River
   - Taylors Falls, Minnesota
 wikidata:
-  - "https://www.wikidata.org/wiki/Q49505271" (MN)
-  - "https://www.wikidata.org/wiki/Q6057075" (WI)
+  - "https://www.wikidata.org/wiki/Q49505271 (MN)"
+  - "https://www.wikidata.org/wiki/Q6057075 (WI)"
 tags:
   - park
 ---
