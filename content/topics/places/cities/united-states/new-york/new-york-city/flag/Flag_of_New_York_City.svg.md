@@ -1,7 +1,7 @@
 ---
 title: "Flag of New York City.svg (Wikimedia Commons)"
 author: "[Zscout370](https://commons.wikimedia.org/wiki/User:Zscout370)"
-city flag of:
+flag of:
   - New York City
   - vertical
   - tricolor
