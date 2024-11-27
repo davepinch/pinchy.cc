@@ -7,7 +7,11 @@ see also:
   - ocean
   - river
   - water
-type: fluvial-landform
+tag requires property:
+  - island of
+  - OpenStreetMap
+  - Wikidata
+  - Wikipedia
 tags:
   - fluvial landform
   - landform
