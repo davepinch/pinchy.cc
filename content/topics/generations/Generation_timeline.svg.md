@@ -7,7 +7,7 @@ generation timeline of:
   - Silent Generation
   - Baby Boomers
   - Generation X
-  - Millenials
+  - Millennials
   - Generation Z
   - Generation Alpha
 license: CC BY-SA 4.0
