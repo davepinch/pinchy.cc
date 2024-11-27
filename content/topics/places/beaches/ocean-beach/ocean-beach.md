@@ -9,7 +9,7 @@ near:
   - Seal Rocks
   - Sutro Baths
   - Sutro Heights Park
-type: beach
+wikidata: "https://www.wikidata.org/wiki/Q2350498"
 tags:
   - beach
 ---
