@@ -6,7 +6,11 @@ related:
   - lake
   - ocean
   - waterfall
-type: fluvial-landform
+tag requires property:
+  - OpenStreetMap
+  - river of
+  - Wikidata
+  - Wikipedia
 tags:
   - fluvial landform
   - landform
