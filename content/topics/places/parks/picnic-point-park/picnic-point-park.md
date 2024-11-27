@@ -6,4 +6,5 @@ park of:
   - Puget Sound
 tags:
   - park
+  - no Wikidata record
 ---
