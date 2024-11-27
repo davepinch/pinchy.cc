@@ -2,7 +2,7 @@
 title: "Everything you love turns into a condo (3 of 7)"
 painting of:
   - artist unknown
-  - star
+  - star polygon
 photograph of:
   - window
   - painting
@@ -18,7 +18,6 @@ tags:
   - "I encounter many odd perspectives."
   - Everything you love turns into a condo
   - photograph
-  - star
   - Capitol Hill, Seattle
   - ⭐
 ---
