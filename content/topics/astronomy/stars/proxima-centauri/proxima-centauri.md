@@ -8,7 +8,7 @@ star of:
   - Alpha Centauri
   - Centaurus
   - G-Cloud
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q14266"
 tags:
   - star
   - red dwarf
