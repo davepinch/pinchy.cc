@@ -909,12 +909,12 @@ Update-WikipediaFlagsAndLocations
 Update-Plurals
 
 # ========================================================================
-# Tests
+# Assertions
 # ------------------------------------------------------------------------
-# A test is a function that checks whether a page meets a requirement.
+# These functions check whether a page meets a requirement.
 # ========================================================================
 
-function Test-RequiresProperty($page, $property, $message) {
+function Assert-Property($page, $property, $message) {
 
     #
     # See if the property exists as required
@@ -971,7 +971,7 @@ function Test-RequiresProperty($page, $property, $message) {
     Debug-Page $page $message
 }
 
-function Test-RequiresTag($page, $tag, $message) {
+function Assert-Tag($page, $tag, $message) {
 
     if ($null -eq $page["tags"]) {
         Debug-Page $page $message
@@ -984,13 +984,19 @@ function Test-RequiresTag($page, $tag, $message) {
     }
 }
 
+# ========================================================================
+# Tests
+# ------------------------------------------------------------------------
+# A test is a function that checks whether a page meets a requirement.
+# ========================================================================
+
 function Test-PropertyRequiresTag($page, $property, $tag) {
     #
     # If the page has the given property, it must also
     # contain the given tag in the tags property.
     #
     if ($null -ne $page[$property]) {        
-        Test-RequiresTag `
+        Assert-Tag `
             $page `
             $tag `
             "'$tag' is required when '$property' is present"
@@ -1003,7 +1009,7 @@ function Test-TagRequiresProperty($page, $tag, $property) {
     # the given property.
     #
     if ($page["tags"] -contains $tag) {
-        Test-RequiresProperty `
+        Assert-Property `
             $page `
             $property `
             "'$property' property is required when 'tags' contain '$tag'"  
@@ -1012,7 +1018,7 @@ function Test-TagRequiresProperty($page, $tag, $property) {
 
 function Test-TypeRequiresProperty($page, $type, $property) {
     if ($page["type"] -eq $type) {
-        Test-RequiresProperty `
+        Assert-Property `
             $page `
             $property `
             "'$property' property is required when type=$type"
@@ -1021,7 +1027,7 @@ function Test-TypeRequiresProperty($page, $type, $property) {
 
 function Test-TypeRequiresTag($page, $type, $tag) {
     if ($page["type"] -eq $type) {
-        Test-RequiresTag `
+        Assert-Tag `
             $page `
             $tag `
             "'tags' must contain '$tag' when type=$type"
