@@ -6,6 +6,7 @@ death of: John Adams
 last words: "Thomas Jefferson survives."
 snippet of: John Adams (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/John_Adams/last-years-and-death-2-1/
 when: 1826-07-04
 tags:
   - inauguration

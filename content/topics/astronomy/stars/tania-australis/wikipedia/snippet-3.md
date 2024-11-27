@@ -8,6 +8,7 @@ see also: Mercury (Wikipedia)
 snippet of: Mu Ursae Majoris (Wikipedia)
 TODO: "Look at the following paper and confirm the distance is 0.2 AU. Other sources give a larger distance. See desigation HIP 50801. https://iopscience.iop.org/article/10.1088/0004-6256/145/3/81"
 type: snippet
+url: /en.wikipedia.org/wiki/Mu_Ursae_Majoris/3/
 tags:
   - snippet
 ---

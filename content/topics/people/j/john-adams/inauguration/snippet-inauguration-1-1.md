@@ -5,6 +5,7 @@ citation: >-
 inauguration of: John Adams
 snippet of: John Adams (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/John_Adams/inauguration-1-1/
 when: 1797-03-04
 tags:
   - inauguration

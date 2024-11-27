@@ -5,6 +5,7 @@ citation: >-
 distance of: Tania Australis
 snippet of: Mu Ursae Majoris (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Mu_Ursae_Majoris/1-3/
 tags:
   - snippet
 ---

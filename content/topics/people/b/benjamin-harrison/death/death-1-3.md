@@ -7,6 +7,7 @@ death of: Benjamin Harrison
 last words: "Are the doctors here? Doctor, my lungs..."
 snippet of: Benjamin Harrison (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Benjamin_Harrison/death-1-3/
 when: 1901-03-13
 tags:
   - death
