@@ -6,6 +6,10 @@ see also:
   - city
   - downtown
   - township
+tag requires property:
+  - neighborhood of
+  - Wikidata
+  - Wikipedia
 tags:
   - type of populated place
   - geography
