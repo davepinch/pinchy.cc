@@ -1,9 +1,8 @@
 ---
 title: "Microsoft"
-company of:
-  - Redmond, Washington
-  - Washington
-  - United States
+company of: United States
+headquarters in: Redmond, Washington
 tags:
+  - American
   - company
 ---
