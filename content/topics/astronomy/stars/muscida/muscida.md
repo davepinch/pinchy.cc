@@ -1,7 +1,7 @@
 ---
 title: "Muscida"
 star of: Ursa Major
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q956651"
 tags:
   - star
 ---
