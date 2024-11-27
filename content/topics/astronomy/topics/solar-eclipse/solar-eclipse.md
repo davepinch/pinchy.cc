@@ -1,6 +1,7 @@
 ---
 title: "solar eclipse"
-type: eclipse
+eclipse of: Sun
+wikidata: "https://www.wikidata.org/wiki/Q3887"
 tags:
   - astronomy
 ---
