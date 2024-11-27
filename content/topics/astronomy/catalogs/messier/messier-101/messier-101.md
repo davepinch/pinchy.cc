@@ -6,6 +6,7 @@ galaxy of: Ursa Major
 other names:
   - Pinwheel Galaxy
   - NGC 5457
+wikidata: "https://www.wikidata.org/wiki/Q14371"
 tags:
   - galaxy
   - Messier object

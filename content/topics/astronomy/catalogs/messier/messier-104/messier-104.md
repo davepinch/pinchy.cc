@@ -8,6 +8,7 @@ also known as:
 galaxy of:
   - Virgo
   - Corvus
+wikidata: "https://www.wikidata.org/wiki/Q91461627"
 tags:
   - galaxy
   - Messier object
