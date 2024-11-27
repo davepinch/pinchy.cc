@@ -3,7 +3,7 @@ title: "Vega"
 star of:
   - Lyra
   - Summer Triangle
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q3427"
 tags:
   - star
   - alpha

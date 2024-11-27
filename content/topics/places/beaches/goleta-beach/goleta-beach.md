@@ -7,7 +7,7 @@ near:
   - Santa Barbara, California
   - Santa Ynez Mountains
 state: California
-type: place
+wikidata: "https://www.wikidata.org/wiki/Q5580527"
 tags:
   - beach
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Vindemiatrix"
 star of: Virgo
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q14198"
 tags:
   - giant star
   - star
