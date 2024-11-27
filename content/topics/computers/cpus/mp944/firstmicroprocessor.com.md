@@ -9,7 +9,6 @@ type: website
 url: /firstmicroprocessor.com/
 website: "https://firstmicroprocessor.com/"
 tags:
-  - MP955
-  - microprocessor
+  - MP944
   - shared on Hacker News
 ---
