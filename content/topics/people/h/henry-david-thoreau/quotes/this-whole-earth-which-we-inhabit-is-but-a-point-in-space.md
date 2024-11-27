@@ -6,11 +6,11 @@ but a point in space of: Earth
 citation: >-
   Milky Way. (2023, February 25). *Wikiquote*. Retrieved December 30, 2023 from https://en.wikiquote.org/w/index.php?title=Milky_Way&oldid=3255444.
 type: quote
+yonder of: star
 tags:
   - Henry David Thoreau
   - quote
   - life
-  - star
   - Milky Way
 ---
 Quote found in C.C. Gaither “Astronomically Speaking: A Dictionary of Quotations on Astronomy and Physics”, p. 194.
