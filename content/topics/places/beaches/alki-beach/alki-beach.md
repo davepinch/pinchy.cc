@@ -7,6 +7,7 @@ rockhounding site of:
   - carnelian
   - sea glass
 wikidata: "https://www.wikidata.org/wiki/Q49320012"
+wikipedia: "https://en.wikipedia.org/wiki/Alki_Beach_Park"
 tags:
   - beach
 ---
