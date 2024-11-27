@@ -9,7 +9,9 @@ retrieved: 2024-11-07
 type: website
 url: /en.wikipedia.org/wiki/Whirlpool_Galaxy/
 website: "https://en.wikipedia.org/wiki/Whirlpool_Galaxy"
-wikipedia of: Whirlpool Galaxy
+wikipedia of:
+  - Whirlpool Galaxy
+  - Messier 51
 tags:
   - Wikipedia
 ---
