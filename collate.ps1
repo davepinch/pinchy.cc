@@ -1182,12 +1182,6 @@ Test-UniqueUrls
 
 foreach ($page in $script:pages) {
     
-
-
-
-
-
-    
     # emoji
     Test-TypeRequiresProperty $page "emoji" "emoji of"
 
