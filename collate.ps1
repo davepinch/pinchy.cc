@@ -496,10 +496,10 @@ function Update-OfProperties($page, $suffix = "of") {
     }
 }
 
-function Update-Ofs() {
+function Update-Ofs($suffix = "of") {
     Write-Host "$(Get-EmojiRepeat) Of..."
     foreach($page in $script:pages) {
-        Update-OfProperties $page
+        Update-OfProperties $page $suffix
     }
 }
 
@@ -899,7 +899,8 @@ function Update-WikipediaFlagsAndLocations() {
 #
 # Execute updaters
 #
-Update-Ofs
+Update-Ofs "of"
+Update-Ofs "in"
 Update-OnTheseDays
 Update-Randoms
 Update-ReverseTags
