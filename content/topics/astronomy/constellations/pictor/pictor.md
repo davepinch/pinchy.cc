@@ -9,6 +9,7 @@ borders:
   - Volans
 constellation of: southern celestial hemisphere
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10486"
 tags:
   - constellation
 ---

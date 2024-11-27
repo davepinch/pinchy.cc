@@ -11,6 +11,7 @@ constellation of:
   - Ptolemy
 see also: Canis Minor
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10538"
 tags:
   - constellation
 ---

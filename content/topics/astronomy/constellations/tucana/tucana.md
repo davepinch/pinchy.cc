@@ -1,6 +1,5 @@
 ---
 title: "Tucana"
-type: constellation
 borders:
   - Eridanus
   - Grus
@@ -11,6 +10,8 @@ borders:
 constellation of:
   - toucan
   - southern celestial hemisphere
+type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10567"
 tags:
   - constellation
 ---

@@ -15,6 +15,7 @@ constellation of:
   - Ptolemy
 passage through the ecliptic: Sagittarius
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8906"
 tags:
   - constellation
 ---

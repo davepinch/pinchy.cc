@@ -13,6 +13,7 @@ constellation of:
   - Ptolemy
 passage through the ecliptic: Aquarius
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10535"
 tags:
   - constellation
 ---

@@ -11,6 +11,7 @@ constellation of:
   - compass (drawing tool)
   - southern celestial hemisphere
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10508"
 tags:
   - constellation
   - circle

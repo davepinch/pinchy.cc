@@ -11,6 +11,7 @@ constellation of:
   - crane
   - southern celestial hemisphere
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10563"
 tags:
   - constellation
 ---

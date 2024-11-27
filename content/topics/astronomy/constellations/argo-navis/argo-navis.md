@@ -8,6 +8,7 @@ divided into:
   - Puppis
   - Vela
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q9258"
 tags:
   - obsolete
   - constellation

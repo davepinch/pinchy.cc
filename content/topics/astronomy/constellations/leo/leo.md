@@ -18,6 +18,7 @@ constellation of:
   - Ptolemy
 passage through the ecliptic: Virgo
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8853"
 tags:
   - constellation
 ---

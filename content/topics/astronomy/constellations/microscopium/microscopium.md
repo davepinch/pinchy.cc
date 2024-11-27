@@ -11,6 +11,7 @@ constellation of:
   - microscope
   - southern celestial hemisphere
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10492"
 tags:
   - constellation
 ---

@@ -17,6 +17,7 @@ constellation of:
   - Ptolemy
 passage through the ecliptic: Pisces
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10576"
 tags:
   - constellation
 ---

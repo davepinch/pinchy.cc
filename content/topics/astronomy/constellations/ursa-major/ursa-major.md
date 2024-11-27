@@ -17,6 +17,7 @@ related:
   - Big Dipper
   - Ursa Minor
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8918"
 tags:
   - constellation
 ---

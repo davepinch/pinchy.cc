@@ -13,6 +13,7 @@ constellation of:
   - northern celestial hemisphere
   - Ptolemy
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8667"
 tags:
   - constellation
 ---

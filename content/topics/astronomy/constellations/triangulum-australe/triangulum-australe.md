@@ -10,6 +10,7 @@ constellation of:
   - southern celestial hemisphere
 opposite: Triangulum
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10422"
 tags:
   - constellation
 ---

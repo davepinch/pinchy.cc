@@ -11,7 +11,7 @@ constellation of:
   - telescope
   - southern celestial hemisphere
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10546"
 tags:
-  - telescope
   - constellation
 ---

@@ -15,6 +15,7 @@ constellation of:
   - southern celestial hemisphere
   - Ptolemy
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10586"
 tags:
   - constellation
 ---

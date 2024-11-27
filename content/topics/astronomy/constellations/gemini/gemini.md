@@ -14,6 +14,7 @@ constellation of:
   - Ptolemy
 passage through the ecliptic: Cancer
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8923"
 tags:
   - constellation
 ---

@@ -16,6 +16,7 @@ constellation of:
   - Ptolemy
 passage through the ecliptic: Libra
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8842"
 tags:
   - constellation
 ---

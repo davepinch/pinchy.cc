@@ -14,6 +14,7 @@ constellation of:
   - Ptolemy
 passage through the ecliptic: Ophiuchus
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8865"
 tags:
   - constellation
 ---

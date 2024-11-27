@@ -14,7 +14,6 @@ tags:
   - Abell 3627
   - ESA
   - ESO 137-002
-  - galaxy
   - Great Attractor
   - Hubble Space Telescope
   - NASA

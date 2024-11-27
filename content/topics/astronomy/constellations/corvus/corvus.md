@@ -9,6 +9,7 @@ constellation of:
   - Ptolemy
   - crow
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10517"
 tags:
   - constellation
 ---

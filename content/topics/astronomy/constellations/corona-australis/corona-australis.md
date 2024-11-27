@@ -11,6 +11,7 @@ constellation of:
   - Ptolemy
 opposite: Corona Borealis
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10413"
 tags:
   - constellation
 ---

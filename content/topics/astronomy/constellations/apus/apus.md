@@ -12,6 +12,7 @@ constellation of:
   - bird-of-paradise
   - southern celestial hemisphere
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10506"
 tags:
   - constellation
 ---

@@ -10,6 +10,7 @@ constellation of:
   - Ptolemy
 opposite: Corona Australis
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10406"
 tags:
   - constellation
 ---

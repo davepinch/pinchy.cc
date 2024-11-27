@@ -12,6 +12,7 @@ KNOW YOUR GOALS: Polaris
 opposite: Octans
 related: Ursa Major
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10478"
 tags:
   - constellation
 ---

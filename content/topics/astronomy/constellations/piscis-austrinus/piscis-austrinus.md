@@ -11,6 +11,7 @@ constellation of:
   - Ptolemy
 see also: Pisces
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10409"
 tags:
   - constellation
 ---

@@ -12,6 +12,7 @@ constellation of:
   - dolphinfish
   - southern celestial hemisphere
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8837"
 tags:
   - constellation
 ---

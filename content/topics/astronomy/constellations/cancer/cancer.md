@@ -14,6 +14,7 @@ constellation of:
   - Ptolemy
 passage through the ecliptic: Leo
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8849"
 tags:
   - constellation
 ---

@@ -11,6 +11,7 @@ constellation of:
   - fox
   - northern celestial hemisphere
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10519"
 tags:
   - constellation
 ---

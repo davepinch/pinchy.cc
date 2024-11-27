@@ -14,6 +14,7 @@ constellation of:
   - northern celestial hemisphere
 near: Polaris
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q8832"
 tags:
   - constellation
 ---

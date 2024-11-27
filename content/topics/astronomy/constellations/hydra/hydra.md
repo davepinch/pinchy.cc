@@ -22,6 +22,7 @@ constellation of:
   - Ptolemy
 not to be confused with: Hydrus
 type: constellation
+wikidata: "https://www.wikidata.org/wiki/Q10578"
 tags:
   - female
   - water
