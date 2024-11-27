@@ -8,4 +8,5 @@ tags:
   - beach
   - VISIT SOMEWHERE NEW
   - Discover Pass required
+  - no Wikipedia article
 ---
