@@ -4,5 +4,9 @@ plural: buildings
 related:
   - house
   - urban exploration
-type: noun
+tag requires property:
+  - building of
+  - OpenStreetMap
+  - Wikidata
+  - Wikipedia
 ---
