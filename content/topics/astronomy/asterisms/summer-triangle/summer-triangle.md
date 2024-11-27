@@ -3,7 +3,7 @@ title: "Summer Triangle"
 asterism of:
   - triangle
   - northern celestial hemisphere
-type: asterism
+wikidata: "https://www.wikidata.org/wiki/Q324113"
 tags:
   - summer
   - asterism

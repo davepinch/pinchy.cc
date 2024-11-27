@@ -1,7 +1,7 @@
 ---
 title: "Big Dipper"
 asterism of: Ursa Major
-type: asterism
+wikidata: "https://www.wikidata.org/wiki/Q10460"
 tags:
   - asterism
   - astronomy
