@@ -9,7 +9,6 @@ variant of: Minesweeper
 website: "https://polyreplay.com/minesweepertwist"
 tags:
   - game
-  - Hacker News
   - play in your browser
   - shared on Hacker News
 ---
