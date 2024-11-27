@@ -1,7 +1,7 @@
 ---
 title: "Adhafera"
 star of: Leo
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q14207"
 tags:
   - giant star
   - star
