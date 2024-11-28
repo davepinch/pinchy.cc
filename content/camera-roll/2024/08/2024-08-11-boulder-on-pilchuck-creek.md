@@ -1,8 +1,8 @@
 ---
 title: "Boulder on Pilchuck Creek"
+author: David Pinch
 license: CC BY-SA 4.0
 note: I published this picture on Wikimedia Commons.
-photo by: David Pinch
 photograph of:
   - Pilchuck Creek
   - boulder
