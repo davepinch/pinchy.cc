@@ -1,7 +1,7 @@
 ---
 title: "Mars"
 ⬅️: Earth
-➡️: Jupiter
+➡️: Ceres
 exploring the surface: Curiosity (rover)
 planet of:
   - Sun
