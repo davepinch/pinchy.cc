@@ -5,6 +5,7 @@ excerpt: >-
 galaxy of: Andromeda (Wikipedia)
 retrieved: 2024-11-27
 type: website
+url: /en.wikipedia.org/wiki/Messier_32/
 website: "https://en.wikipedia.org/wiki/Messier_32"
 wikipedia of: Messier 32
 tags:
