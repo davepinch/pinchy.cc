@@ -5,5 +5,6 @@ namesake of: Moscow
 symbol: Mc
 type: element
 tags:
+  - radioactive
   - chemical element
 ---
