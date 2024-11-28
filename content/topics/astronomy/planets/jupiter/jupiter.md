@@ -1,7 +1,7 @@
 ---
 title: "Jupiter"
-⬅️: Mars (Wikipedia)
-➡️: Saturn (Wikipedia)
+⬅️: Ceres
+➡️: Saturn
 planet of:
   - Sun
   - Solar System
