@@ -3,6 +3,7 @@ title: "Asia"
 an even bigger continent: Eurasia
 continent of:
   - Northern Hemisphere
+  - Earth
 note:
 - Some islands are the [Southern Hemisphere](/southern-hemisphere/)
 subdivision of: Eurasia

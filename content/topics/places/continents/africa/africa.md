@@ -7,6 +7,7 @@ borders:
 continent of:
   - Northern Hemisphere
   - Southern Hemisphere
+  - Earth
 wikidata: "https://www.wikidata.org/wiki/Q15"
 tags:
   - continent
