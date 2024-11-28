@@ -1,5 +1,7 @@
 ---
 title: "Parking lot near Rattlesnake Lake"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - parking lot
   - shadows

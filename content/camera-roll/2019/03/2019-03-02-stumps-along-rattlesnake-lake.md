@@ -1,5 +1,6 @@
 ---
 title: "Stumps along Rattlesnake Lake"
+author: David Pinch
 license: CC BY-SA 4.0
 photograph of:
   - stump

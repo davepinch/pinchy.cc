@@ -1,5 +1,7 @@
 ---
 title: "Material in the snow"
+author: David Pinch
+license: CC BY-SA 4.0
 near: Parking lot near Rattlesnake Lake
 photograph of:
   - snow

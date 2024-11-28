@@ -1,5 +1,7 @@
 ---
 title: "Gnarly stump near Rattlesnake Lake"
+author: David Pinch
+license: CC BY-SA 4.0
 photograph of:
   - stump
   - Rattlesnake Lake
