@@ -1,6 +1,6 @@
 ---
 title: "Frederick the Great"
-Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
+gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 father: Frederick William I of Prussia
 spouse: Elisabeth Christine of Brunswick-Wolfenbüttel-Bevern
 type: person

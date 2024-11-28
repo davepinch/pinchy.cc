@@ -1,6 +1,6 @@
 ---
 title: "Deception Pass"
-OpenStreetMap: "https://www.openstreetmap.org/relation/13317036"
+openstreetmap: "https://www.openstreetmap.org/relation/13317036"
 strait of:
   - Fidalgo Island
   - Whidbey Island

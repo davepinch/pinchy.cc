@@ -6,7 +6,7 @@ citation: >-
 snippet of: Susie Wiles (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Susie_Wiles/work-for-donald-trump-7/
-White House of: Susie Wiles
+white house of: Susie Wiles
 tags:
   - snippet
 ---

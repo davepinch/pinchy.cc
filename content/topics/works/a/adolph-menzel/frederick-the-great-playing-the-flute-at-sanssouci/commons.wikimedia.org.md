@@ -1,7 +1,7 @@
 ---
 title: "Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Google Art Project.jpg (Wikimedia Commons)"
 another ruler who played a musical instrument: "Quo Vadis, Nero burning Rome.jpg (Wikimedia Commons)"
-Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
+gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 license: public domain
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg

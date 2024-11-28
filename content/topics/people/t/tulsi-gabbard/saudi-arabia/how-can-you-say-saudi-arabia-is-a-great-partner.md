@@ -5,7 +5,7 @@ citation: >-
   Tulsi Gabbard. (2024, November 14). *Wikiquote*. Retrieved 05:20, November 16, 2024 from https://en.wikiquote.org/w/index.php?title=Tulsi_Gabbard&oldid=3615879.
 funding terrorists of: Yemen
 partner of: Saudi Arabia
-Saudi Arabia of: Tulsi Gabbard
+saudi arabia of: Tulsi Gabbard
 source: "https://www.foxnews.com/media/tulsi-gabbard-defends-debate-claim-that-trump-supports-al-qaeda-to-shannon-bream"
 type: quote
 when: 2019-08-01

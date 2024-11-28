@@ -2,7 +2,7 @@
 title: "WHOIS deagel.com"
 date of results: 24 Nov 2024
 website: "whois.enom.com"
-WHOIS of: Guide to Military Equipment and Civil Aviation (deagel.com)
+whois of: Guide to Military Equipment and Civil Aviation (deagel.com)
 tags:
   - WHOIS
 ---

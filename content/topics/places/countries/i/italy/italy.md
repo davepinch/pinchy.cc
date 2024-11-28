@@ -7,7 +7,7 @@ country of:
   - Western Europe
   - Europe
   - Mediterranean Sea
-Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
+gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 land borders:
   - Austria
   - France

@@ -3,7 +3,7 @@ title: "I’ve known Jeff for fifteen years. Terrific guy. He’s a lot of fun t
 attribution: Donald Trump, *New York* magazine, 2002
 citation: >-
   Jeffrey Epstein. (2024, October 20). *Wikiquote*. Retrieved 20:39, November 5, 2024 from https://en.wikiquote.org/w/index.php?title=Jeffrey_Epstein&oldid=3601311.
-Jeffrey Epstein of: Donald Trump
+jeffrey epstein of: Donald Trump
 social life of: Jeffrey Epstein
 source: "http://nymag.com/nymetro/news/people/n_7912/"
 type: quote

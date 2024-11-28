@@ -1,7 +1,7 @@
 ---
 title: "Freiberg"
 city of: Germany
-Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
+gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 notable people:
   - Gottfried Silbermann
 openstreetmap: "https://www.openstreetmap.org/relation/416561"

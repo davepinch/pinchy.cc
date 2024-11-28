@@ -1,7 +1,7 @@
 ---
 title: "Leipzig"
 city of: Germany
-Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
+gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 notable people:
   - Johann Sebastian Bach
 openstreetmap: "https://www.openstreetmap.org/relation/62649"

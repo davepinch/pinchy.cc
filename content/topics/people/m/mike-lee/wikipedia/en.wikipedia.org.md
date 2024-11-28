@@ -5,7 +5,7 @@ excerpt: >-
 member of: Republican Party (United States) (Wikipedia)
 retrieved: 2024-11-17
 type: website
-United States Senator of: Utah (Wikipedia)
+united states senator of: Utah (Wikipedia)
 url: /en.wikipedia.org/wiki/Mike_Lee/
 website: "https://en.wikipedia.org/wiki/Mike_Lee"
 wikipedia of: Mike Lee

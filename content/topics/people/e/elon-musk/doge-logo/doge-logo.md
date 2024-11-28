@@ -1,6 +1,6 @@
 ---
 title: "DOGE logo"
-DOGE logo of: Elon Musk
+doge logo of: Elon Musk
 picture: content/topics/people/elon-musk/GcOyC21W4AAtT7P.jpg
 type: picture
 unofficial logo of: Department of Government Efficiency
