@@ -6,7 +6,7 @@ retrieved: 2024-11-27
 type: website
 url: /en.wikipedia.org/wiki/IC_2391/
 website: "https://en.wikipedia.org/wiki/IC_2391"
-wikipedia of: IC 23391
+wikipedia of: IC 2391
 tags:
   - Wikipedia
 ---
