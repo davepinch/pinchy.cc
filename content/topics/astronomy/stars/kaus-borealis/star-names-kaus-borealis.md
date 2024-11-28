@@ -6,6 +6,7 @@ license: public domain
 meaning of: Kaus Borealis
 snippet of: "Star Names: Their Lore and Meaning"
 type: snippet
+url: /archive.org/details/in.ernet.dli.2015.42847/page/n377/mode/2up/
 website: "https://archive.org/details/in.ernet.dli.2015.42847/page/n377/mode/2up"
 tags:
   - archive
