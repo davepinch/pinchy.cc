@@ -1,5 +1,6 @@
 ---
 title: "One way to the moiré pattern"
+author: David Pinch
 photograph of:
   - sign
   - fence
