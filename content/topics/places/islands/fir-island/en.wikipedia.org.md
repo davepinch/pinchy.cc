@@ -8,6 +8,7 @@ island of:
   - Skagit River (Wikipedia)
   - Skagit County, Washington (Wikipedia)
   - Washington (state) (Wikipedia)
+retrieved: 2024-11-29
 type: website
 url: /en.wikipedia.org/wiki/Fir_Island/
 website: "https://en.wikipedia.org/wiki/Fir_Island"
