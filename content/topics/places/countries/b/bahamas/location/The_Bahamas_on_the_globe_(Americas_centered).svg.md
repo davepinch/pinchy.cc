@@ -1,5 +1,6 @@
 ---
 title: "The Bahamas on the globe (Americas centered).svg (Wikimedia Commons)"
+license: CC BY-SA 3.0
 location of:
   - The Bahamas
   - SVG
