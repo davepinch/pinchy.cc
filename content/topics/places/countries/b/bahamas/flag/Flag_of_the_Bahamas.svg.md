@@ -9,6 +9,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/9/93/Flag_of_the_Bahama
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_the_Bahamas.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_the_Bahamas.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Bahamas"
 tags:
   - flag
   - Wikimedia Commons
