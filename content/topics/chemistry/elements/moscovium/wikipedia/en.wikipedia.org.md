@@ -7,6 +7,7 @@ retrieved: 2024-11-28
 type: website
 url: /en.wikipedia.org/wiki/Moscovium/
 website: "https://en.wikipedia.org/wiki/Moscovium"
+wikipedia of: moscovium
 tags:
   - Wikipedia
 ---
