@@ -10,7 +10,6 @@ url: /en.wikipedia.org/wiki/Paramount_leader/
 website: "https://en.wikipedia.org/wiki/Paramount_leader"
 wikipedia of: paramount leader
 tags:
-  - China (Wikipedia)
   - Chinese Communist Party (Wikipedia)
   - Wikipedia
 ---
