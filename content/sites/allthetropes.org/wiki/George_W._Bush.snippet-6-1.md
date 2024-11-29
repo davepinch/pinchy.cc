@@ -7,7 +7,7 @@ fifth cousin four times removed of:
   - George W. Bush
 snippet of: George W. Bush (allthetropes.org)
 type: snippet
-url: /allthetropes.org/wiki/George_W._Bush/6-1
+url: /allthetropes.org/wiki/George_W._Bush/6-1/
 tags:
   - snippet
 ---
