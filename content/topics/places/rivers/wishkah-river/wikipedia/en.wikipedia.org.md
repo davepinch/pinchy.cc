@@ -1,7 +1,8 @@
 ---
 title: "Wishkah River (Wikipedia)"
 excerpt: >-
-  The **Wishkah River** is a tributary of the [Chehalis River](/en.wikipedia.org/wiki/Chehalis_River_(Washington)/) in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). Approximately 40 miles (64 km) long, the river drains a remote rural area of approximately 102 square miles (260 km2) in [Grays Harbor County](/en.wikipedia.org/wiki/Grays_Harbor_County,_Washington/) along the Washington coast north of [Aberdeen](/en.wikipedia.org/wiki/Aberdeen,_Washington/). It flows south through the county and empties into the Chehalis at Aberdeen.
+  The **Wishkah River** is a tributary of the Chehalis River in the U.S. state of Washington. Approximately 40 miles (64 km) long, the river drains a remote rural area of approximately 102 square miles (260 km2) in Grays Harbor County along the Washington coast north of Aberdeen. It flows south through the county and empties into the Chehalis at Aberdeen.
+retrieved: 2024-11-29
 river of:
   - Aberdeen, Washington (Wikipedia)
   - Grays Harbor County, Washington (Wikipedia)
