@@ -924,6 +924,18 @@ function Assert-Property($page, $property, $message) {
     }
 
     #
+    # See if a 'qualified' version of the property is defined.
+    # A qualified version has parentheses, e.g., flag (sea) or
+    # flag (land). Both of these meet the requirement for
+    # a 'flag' property.
+    #
+    foreach ($key in $page.Keys) {
+        if ($key -match "^$property \(\w+\)$") {
+            return
+        }
+    }
+
+    #
     # The property doesn't exist, but its plural might,
     # or the page might have a tag to override the requirement.
     # First get the index of the property definition.
