@@ -5,6 +5,7 @@ excerpt: >-
 mountain of:
   - King County, Washington (Wikipedia)
   - Cascade Range (Wikipedia)
+retrieved: 2024-11-29
 type: website
 url: /en.wikipedia.org/wiki/Granite_Mountain_(King_County,_Washington)/
 vicinity of: Snoqualmie Pass (Wikipedia)
