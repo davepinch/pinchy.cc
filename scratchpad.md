@@ -3,6 +3,9 @@ title: "Scratchpad"
 draft: true
 ---
 
+God once arranged the world as a joke.
+God took all of the momentary frames of existence, and arranged them in a manner of a joke. Everything that has happened still happened, but the order was in a different way.
+
 IEEE code of ethics
 https://www.ieee.org/about/corporate/governance/p7-8.html
 
