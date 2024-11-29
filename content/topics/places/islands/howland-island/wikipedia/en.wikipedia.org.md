@@ -5,6 +5,7 @@ excerpt: >-
 island of:
   - Pacific Ocean (Wikipedia)
   - United States (Wikipedia)
+retrieved: 2024-11-29
 type: website
 url: /en.wikipedia.org/wiki/Howland_Island/
 website: "https://en.wikipedia.org/wiki/Howland_Island"
