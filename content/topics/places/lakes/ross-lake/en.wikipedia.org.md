@@ -9,6 +9,7 @@ lake of:
   - Whatcom County, Washington (Wikipedia)
   - Washington (state) (Wikipedia)
   - Cascade Range (Wikipedia)
+retrieved: 2024-11-29
 type: website
 upstream on the Skagit River: Skagit Valley Provincial Park (Wikipedia)
 url: /en.wikipedia.org/wiki/Ross_Lake_(Washington)/
