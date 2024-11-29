@@ -7,5 +7,6 @@ mountain of:
 openstreetmap: "https://www.openstreetmap.org/node/356544063"
 wikidata: "https://www.wikidata.org/wiki/Q267646"
 tags:
+  - volcano
   - mountain
 ---
