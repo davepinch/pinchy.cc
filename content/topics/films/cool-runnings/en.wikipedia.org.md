@@ -5,6 +5,7 @@ excerpt: >-
 film of: Jamaica (Wikipedia)
 retrieved: 2024-11-29
 type: website
+url: /en.wikipedia.org/wiki/Cool_Runnings/
 website: "https://en.wikipedia.org/wiki/Cool_Runnings"
 wikipedia of: Cool Runnings
 tags:
