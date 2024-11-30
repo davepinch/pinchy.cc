@@ -1,6 +1,7 @@
 ---
 title: "Lamps in the Commons"
 author: David Pinch
+bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3lblurnbwa22g"
 lamps of: looking up
 license: public domain
 photograph of:
