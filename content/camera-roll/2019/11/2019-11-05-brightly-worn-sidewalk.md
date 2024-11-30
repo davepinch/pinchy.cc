@@ -1,6 +1,7 @@
 ---
 title: "Brightly worn sidewalk"
 author: David Pinch
+bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3lbdnthvw6c24"
 description: >-
   A large piece of metal covering construction on the sidewalk. The metal was painted bright yellow but has been heavily worn causing an interesting mix of yellow and black splotches. A red leaf on the board provides some color contrast.
 license: CC BY-SA 4.0
