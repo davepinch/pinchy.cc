@@ -5,6 +5,7 @@ excerpt: >-
 game of: Atari 2600 (Wikipedia)
 not to be confused with: Solaris (1972 film) (Wikipedia)
 play online: Solaris (Atari 2600) online game (atarionline.org)
+retrieved: 2024-11-30
 screenshot: Solaris (Atari 2600) screenshot
 type: website
 url: /en.wikipedia.org/wiki/Solaris_(video_game)/
