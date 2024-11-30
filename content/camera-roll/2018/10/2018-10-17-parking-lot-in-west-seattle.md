@@ -1,5 +1,7 @@
 ---
 title: "Parking lot in West Seattle"
+author: David Pinch
+bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3lby7mc6hvc2a"
 license: CC BY-SA 4.0
 photograph of:
   - parking lot
