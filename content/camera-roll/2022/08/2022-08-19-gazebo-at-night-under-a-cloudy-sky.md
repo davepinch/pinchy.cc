@@ -1,6 +1,7 @@
 ---
 title: "Gazebo at night under a clowdy sky"
 author: David Pinch
+bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3lbhfcuemgs2u"
 gazebo of: looking up
 license: CC BY-SA 4.0
 photograph of:
