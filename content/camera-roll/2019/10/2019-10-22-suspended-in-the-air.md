@@ -1,7 +1,7 @@
 ---
 title: "Suspended in the air"
 author: Dave Pinch
-Bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3laznwvxq4222"
+bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3laznwvxq4222"
 floating of: leaf
 leaf of: looking up
 license: CC BY-SA 4.0
