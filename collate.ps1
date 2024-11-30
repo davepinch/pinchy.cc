@@ -929,8 +929,8 @@ function Assert-Property($page, $property, $message) {
     # flag (land). Both of these meet the requirement for
     # a 'flag' property.
     #
-    foreach ($key in $page.Keys) {
-        if ($key -match "^$property \(\w+\)$") {
+    foreach ($key in $page.Keys) {        
+        if ($key -match "^$property \(.+\)$") {
             return
         }
     }
