@@ -1,6 +1,7 @@
 ---
 title: "Water tower near Skyway"
 author: David Pinch
+bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3lbv2q5452s2q"
 license: CC BY-SA 4.0
 photograph of:
   - Bryn Mawr-Skyway, Washington
