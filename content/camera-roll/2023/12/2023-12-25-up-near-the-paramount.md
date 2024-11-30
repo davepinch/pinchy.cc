@@ -1,6 +1,7 @@
 ---
 title: "Up Near the Paramount"
 author: David Pinch
+bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3lbbpnanp722g"
 license: CC BY-SA 4.0
 looking up of: building
 photograph of:
