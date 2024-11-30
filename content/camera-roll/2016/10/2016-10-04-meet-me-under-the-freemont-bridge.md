@@ -3,7 +3,7 @@ title: "meet me under the freemont bridge"
 author: David Pinch
 bridge of: looking up
 caption: Looking up as the Fremont Bridge opens
-license: public domain
+license: CC BY-SA 4.0
 photograph of:
   - bridge
   - Fremont Bridge
