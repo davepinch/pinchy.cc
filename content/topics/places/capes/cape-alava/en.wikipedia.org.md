@@ -1,6 +1,7 @@
 ---
 title: "Cape Alava (Wikipedia)"
 cape of:
+  - Clallam County, Washington (Wikipedia)
   - Washington (state) (Wikipedia)
   - Pacific Northwest (Wikipedia)
   - Pacific Ocean (Wikipedia)
