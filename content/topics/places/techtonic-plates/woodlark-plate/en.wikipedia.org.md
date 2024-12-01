@@ -14,6 +14,7 @@ excerpt: >-
 retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Woodlark_Plate/
+vicinity of: New Guinea (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Woodlark_Plate"
 wikipedia of: Woodlark Plate
 tags:
