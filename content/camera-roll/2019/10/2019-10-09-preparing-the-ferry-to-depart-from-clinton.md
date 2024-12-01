@@ -1,6 +1,7 @@
 ---
 title: "Preparing the ferry to depart from Clinton"
 author: David Pinch
+license: CC BY-SA 4.0
 picture: content/camera-roll/2019/10/2019-10-09-preparing-the-ferry-to-depart-from-clinton/preparing-the-ferry-to-depart-from-clinton.jpg
 related: Clinton, Washington (Wikipedia)
 thumbnail: content/camera-roll/2019/10/2019-10-09-preparing-the-ferry-to-depart-from-clinton/preparing-the-ferry-to-depart-from-clinton.thumbnail.jpg
