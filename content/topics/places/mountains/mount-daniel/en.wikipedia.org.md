@@ -3,6 +3,7 @@ title: "Mount Daniel (Wikipedia)"
 excerpt: >-
   **Mount Daniel** is the highest summit on the Cascade Range crest of Alpine Lakes Wilderness of the central [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). It is the highest point in [King](/en.wikipedia.org/wiki/King_County,_Washington/) and [Kittitas](/en.wikipedia.org/wiki/Kittitas_County,_Washington/) counties. Streams on its eastern slopes form the headwaters of the Cle Elum River.
 mountain of:
+  - Alpine Lakes Wilderness (Wikipedia)
   - Cascade Range (Wikipedia)
   - King County, Washington (Wikipedia)
   - Kittitas County, Washington (Wikipedia)
