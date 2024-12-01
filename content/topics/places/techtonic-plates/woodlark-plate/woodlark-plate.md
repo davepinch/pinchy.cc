@@ -9,6 +9,7 @@ borders:
   - Pacific Plate
   - Solomon Sea Plate
   - South Bismarck Plate
+vicinity of: New Guinea
 wikidata: "https://www.wikidata.org/wiki/Q1050177"
 tags:
   - tectonic plate
