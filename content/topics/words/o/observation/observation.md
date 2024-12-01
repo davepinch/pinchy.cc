@@ -1,0 +1,4 @@
+---
+title: "observation"
+plural: observations
+---
