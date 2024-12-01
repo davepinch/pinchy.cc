@@ -13,9 +13,7 @@ TODO: add other forks
 type: website
 url: /en.wikipedia.org/wiki/Snoqualmie_River/
 website: "https://en.wikipedia.org/wiki/Snoqualmie_River"
-wikipedia of:
-  - Snoqualmie River
-  - South Fork Snoqualmie River
+wikipedia of: Snoqualmie River
 tags:
   - TODO
   - Wikipedia
