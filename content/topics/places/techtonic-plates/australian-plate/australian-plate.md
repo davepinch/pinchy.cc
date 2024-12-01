@@ -19,6 +19,7 @@ borders:
   - Timor Plate
   - Tonga Plate
   - Woodlark Plate
+wikidata: "https://www.wikidata.org/wiki/Q783056"
 tags:
   - tectonic plate
 ---

@@ -8,7 +8,7 @@ borders:
 remnant of: Farallon Plate
 subducting under: North American Plate
 tectonic plate of: North America
-type: techtonic-plate
+wikidata: "https://www.wikidata.org/wiki/Q860385"
 tags:
   - techtonic plate
   - Farallon Plate

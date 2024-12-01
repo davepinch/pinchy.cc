@@ -8,6 +8,7 @@ borders:
 countries:
   - Costa Rica
   - Panama
+wikidata: "https://www.wikidata.org/wiki/Q951362"
 tags:
   - tectonic plate
 ---

@@ -11,6 +11,7 @@ borders:
   - Panama Plate
   - South American Plate
 remnant of: Farallon Plate
+wikidata: "https://www.wikidata.org/wiki/Q538867"
 tags:
   - tectonic plate
 ---

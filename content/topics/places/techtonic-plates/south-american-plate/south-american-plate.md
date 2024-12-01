@@ -9,6 +9,7 @@ contains:
   - Atlantic Ocea
   - South America
   - incomplete list
+wikidata: "https://www.wikidata.org/wiki/Q119490"
 tags:
   - techtonic plate
 ---

@@ -7,6 +7,7 @@ borders:
   - Australian Plate
   - Indian Plate
 clockwise around the african plate: Antarctic Plate
+wikidata: "https://www.wikidata.org/wiki/Q1415528"
 tags:
   - tectonic plate
 ---

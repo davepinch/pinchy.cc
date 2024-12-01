@@ -9,6 +9,7 @@ borders:
   - Philippine Sea Plate
   - Sunda Plate
   - Woodlark Plate
+wikidata: "https://www.wikidata.org/wiki/Q1200497"
 tags:
   - tectonic plate
 ---

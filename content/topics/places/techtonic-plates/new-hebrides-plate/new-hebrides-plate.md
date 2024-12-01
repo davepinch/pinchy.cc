@@ -5,6 +5,7 @@ borders:
   - Balmoral Reef Plate
   - Conway Reef Plate
   - Pacific Plate
+wikidata: "https://www.wikidata.org/wiki/Q1340601"
 tags:
   - tectonic plate
 ---

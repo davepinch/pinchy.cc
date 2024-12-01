@@ -9,6 +9,7 @@ borders:
 tectonic plate of:
   - Caribbean Sea
   - Central America
+wikidata: "https://www.wikidata.org/wiki/Q673071"
 tags:
   - tectonic plate
 ---

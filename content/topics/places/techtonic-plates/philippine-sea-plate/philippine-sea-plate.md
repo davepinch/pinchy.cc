@@ -10,6 +10,7 @@ borders:
   - Pacific Plate
   - Sunda Plate
   - Yangtze Plate
+wikidata: "https://www.wikidata.org/wiki/Q339748"
 tags:
   - tectonic plate
 ---

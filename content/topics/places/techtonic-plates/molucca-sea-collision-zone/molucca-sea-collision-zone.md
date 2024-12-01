@@ -5,4 +5,5 @@ borders:
   - Bird's Head Plate (Wikipedia)
   - Sunda Plate (Wikipedia)
 see also: tectonic plate
+wikidata: "https://www.wikidata.org/wiki/Q6896881"
 ---

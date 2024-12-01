@@ -9,6 +9,7 @@ borders:
   - Panama Plate
   - Rivera Plate
 remnant of: Farallon Plate
+wikidata: "https://www.wikidata.org/wiki/Q386615"
 tags:
   - tectonic plate
 ---

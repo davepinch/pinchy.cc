@@ -14,6 +14,7 @@ borders:
   - South American Plate
 clockwise around the african plate: Eurasian Plate
 tectonic plate of: North America
+wikidata: "https://www.wikidata.org/wiki/Q220305"
 tags:
   - tectonic plate
   - Earth

@@ -11,6 +11,7 @@ borders:
   - Somali Plate
   - South American Plate
   - South Sandwich Plate
+wikidata: "https://www.wikidata.org/wiki/Q501705"
 tags:
   - tectonic plate
 ---

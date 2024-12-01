@@ -1,6 +1,6 @@
 ---
 title: "Farallon Plate"
-type: oceanic-plate
+wikidata: "https://www.wikidata.org/wiki/Q1203170"
 tags:
   - Panthalassa
   - geology

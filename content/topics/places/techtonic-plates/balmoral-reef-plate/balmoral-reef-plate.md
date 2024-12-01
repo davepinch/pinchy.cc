@@ -7,6 +7,7 @@ borders:
   - Pacific Plate
 tectonic plate of: Pacific Ocean
 near: Fiji
+wikidata: "https://www.wikidata.org/wiki/Q2363051"
 tags:
   - tectonic plate
 ---

@@ -13,6 +13,7 @@ borders:
   - Sunda Plate
   - Yangtze Plate
 clockwise around the african plate: Aegean Sea Plate
+wikidata: "https://www.wikidata.org/wiki/Q188521"
 tags:
   - tectonic plate
 ---
