@@ -1,6 +1,6 @@
 ---
 title: "Belarus role in the Russo-Ukrainian war (ChatGPT)"
-belarus of: Russo-Ukrainian war
+belarus of: Russo-Ukrainian War
 prompt: >-
   Please summarize the role of Belarus in the Russo-Ukrainian war as a single paragraph with the most important points.
 excerpt: >-
