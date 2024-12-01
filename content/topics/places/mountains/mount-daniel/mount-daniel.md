@@ -1,6 +1,7 @@
 ---
 title: "Mount Daniel"
 mountain of:
+  - Alpine Lakes Wilderness
   - Cascade Range
   - King County, Washington
   - Kittitas County, Washington
