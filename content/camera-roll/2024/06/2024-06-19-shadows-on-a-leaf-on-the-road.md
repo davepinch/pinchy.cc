@@ -16,5 +16,6 @@ thumbnail: content/camera-roll/2024/06/2024-06-19-shadows-on-a-leaf-on-the-road/
 type: picture
 when: 2024-06-19
 tags:
+  - fallen leaf
   - photograph
 ---
