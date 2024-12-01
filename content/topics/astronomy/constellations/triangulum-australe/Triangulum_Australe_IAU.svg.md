@@ -8,6 +8,7 @@ borders:
 chart of:
   - Triangulum Australe
   - NGC 6025
+  - triangle
   - SVG
 excerpt: >-
   Far south, small constellation of bright: Alpha Beta Gamma stars & on one side (NW) sits Epsilon. Delta is outwith NE side and much lesser than the three; deep-space 6025 strays into Norma in north. Stunners of Centaurus to west.
@@ -22,6 +23,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Triangulum_Australe_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Triangulum_Australe_IAU.svg"
 tags:
-  - triangle
   - star chart
+  - Wikimedia Commons
 ---
