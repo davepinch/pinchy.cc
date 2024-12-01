@@ -7,6 +7,7 @@ see also:
   - sea
 tag requires property:
   - gulf of
+  - OpenStreetMap
   - Wikidata
   - Wikipedia
 tags:
