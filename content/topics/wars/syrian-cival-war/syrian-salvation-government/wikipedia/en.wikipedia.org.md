@@ -5,6 +5,7 @@ excerpt: >-
 opposition of: Syrian Civil War (Wikipedia)
 retrieved: 2024-11-30
 type: website
+url: /en.wikipedia.org/wiki/Syrian_Salvation_Government/
 website: "https://en.wikipedia.org/wiki/Syrian_Salvation_Government"
 wikipedia of: Syrian Salvation Government
 tags:
