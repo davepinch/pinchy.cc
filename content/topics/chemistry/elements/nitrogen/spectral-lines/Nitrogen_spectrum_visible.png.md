@@ -5,7 +5,7 @@ license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f1/Nitrogen_spectrum_visible.png"
 spectral lines of: nitrogen
 type: picture
-url: /commons.wikimedia.org/wiki/File:Nitrogen_spectrum_visible.png/
+url: /commons.wikimedia.org/wiki/Nitrogen_spectrum_visible.png/
 website: "https://commons.wikimedia.org/wiki/File:Nitrogen_spectrum_visible.png"
 tags:
   - spectral lines
