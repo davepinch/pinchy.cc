@@ -23,5 +23,6 @@ observation of:
   - Cassiopeia
 when: 2023-06-11
 tags:
+  - observation
   - star log
 ---

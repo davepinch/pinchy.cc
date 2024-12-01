@@ -8,6 +8,7 @@ observation of:
 related:
   - Polaris (Wikipedia)
 tags:
+  - observation
   - Bothell, Washington
   - star log
 ---

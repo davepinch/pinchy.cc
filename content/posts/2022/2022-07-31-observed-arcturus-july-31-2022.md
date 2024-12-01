@@ -9,6 +9,7 @@ related:
   - Speed of light (Wikipedia)
 when: 2022-07-31
 tags:
+  - observation
   - Bothell, Washington
   - star log
 ---

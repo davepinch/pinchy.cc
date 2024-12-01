@@ -8,6 +8,7 @@ related:
   - Cassiopeia (constellation) (Wikipedia)
 when: 2022-08-28 21:05:00 -0700
 tags:
+  - observation
   - Bothell, Washington
   - star Log
 ---

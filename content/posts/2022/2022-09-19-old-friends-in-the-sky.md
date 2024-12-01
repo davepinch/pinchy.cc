@@ -10,6 +10,7 @@ observation of:
   - Triangulum
 when: 2022-09-19
 tags:
+  - observation
   - star log
   - naked eye
   - Bothell, Washington

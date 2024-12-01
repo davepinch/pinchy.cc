@@ -8,5 +8,6 @@ observation of:
 related: Vega (Wikipedia)
 when: 2022-08-27 21:00:00 -0700
 tags:
+  - observation
   - Bothell, Washington
 ---

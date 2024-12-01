@@ -10,6 +10,7 @@ related:
   - Lyra (Wikipedia)
   - "I heard a distant shout of my name"
 tags:
+  - observation
   - Bothell, Washington
   - star log
 ---
