@@ -1,6 +1,7 @@
 ---
 title: "Middle Fork Snoqualmie River"
 middle fork of: Snoqualmie River
+openstreetmap: "https://www.openstreetmap.org/relation/14572931"
 river of:
   - King County, Washington
   - Alpine Lakes Wilderness
