@@ -9,6 +9,5 @@ type: picture
 url: /commons.wikimedia.org/wiki/Triangle.Scalene.svg/
 website: "https://commons.wikimedia.org/wiki/File:Triangle.Scalene.svg"
 tags:
-  - triangle
   - Wikimedia Commons
 ---

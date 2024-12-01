@@ -13,5 +13,5 @@ url: /commons.wikimedia.org/wiki/Triangle.Acute.svg/
 website: "https://commons.wikimedia.org/wiki/File:Triangle.Acute.svg"
 wikipedia: Acute triangle (Wikipedia)
 tags:
-  - triangle
+  - Wikimedia Commons
 ---

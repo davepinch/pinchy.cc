@@ -14,6 +14,5 @@ url: /commons.wikimedia.org/wiki/Rtriangle.svg/
 website: "https://commons.wikimedia.org/wiki/File:Rtriangle.svg"
 wikipedia: "Right triangle (Wikipedia)"
 tags:
-  - triangle
   - Wikimedia Commons
 ---
