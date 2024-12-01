@@ -2,12 +2,12 @@
 title: "4th dimension"
 date: 2022-05-01
 excerpt: Jagged triangular shapes made with articial intelligence
+generative work of: triangle
 license: public domain
 picture: content/generative-works/4th-dimension/4th-dimension.jpg
 type: picture
 tags:
   - generative work
-  - triangle
   - NightCafe Studio
   - Tremendous Artist
   - I like it anyway
