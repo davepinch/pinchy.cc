@@ -1,6 +1,7 @@
 ---
 title: "Japan"
 country of:
+  - island
   - East Asia
   - Asia
   - Pacific Ocean
@@ -9,6 +10,6 @@ type: country
 wikidata: "https://www.wikidata.org/wiki/Q17"
 tags:
   - Japanese
-  - archipelago 
+  - island country
   - country
 ---
