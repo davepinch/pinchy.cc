@@ -12,5 +12,6 @@ url: /en.wikipedia.org/wiki/Antigua_and_Barbuda/
 website: "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
 wikipedia of: Antigua and Barbuda
 tags:
+  - Archipelagic state (Wikipedia)
   - Wikipedia
 ---
