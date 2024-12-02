@@ -16,6 +16,7 @@ url: /en.wikipedia.org/wiki/Iceland/
 website: "https://en.wikipedia.org/wiki/Iceland"
 wikipedia of: Iceland
 tags:
+  - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
