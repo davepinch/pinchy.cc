@@ -5,6 +5,7 @@ borders:
   - Pacific Plate
   - South Bismarck Plate
   - Woodlark Plate
+tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q1340339"
 tags:
   - tectonic plate
