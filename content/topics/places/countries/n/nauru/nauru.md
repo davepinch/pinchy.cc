@@ -1,0 +1,5 @@
+---
+title: "Nauru"
+tags:
+  - country
+---
