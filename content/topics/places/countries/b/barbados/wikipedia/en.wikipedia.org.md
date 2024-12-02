@@ -1,6 +1,7 @@
 ---
 title: "Barbados (Wikipedia)"
 country of:
+  - Island (Wikipedia)
   - Caribbean (Wikipedia)
   - Atlantic Ocean (Wikipedia)
 excerpt: >-
@@ -11,5 +12,7 @@ url: /en.wikipedia.org/wiki/Barbados/
 website: "https://en.wikipedia.org/wiki/Barbados"
 wikipedia of: Barbados
 tags:
+  - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
