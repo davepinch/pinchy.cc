@@ -1,6 +1,7 @@
 ---
 title: "Antigua and Barbuda"
 country of:
+  - archipelago
   - Caribbean Sea
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/536900"
