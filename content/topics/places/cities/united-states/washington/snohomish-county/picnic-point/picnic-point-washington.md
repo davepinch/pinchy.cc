@@ -14,6 +14,7 @@ census-designated place of:
   - Washington
 down the pacific coast: Meadowdale, Washington
 up the pacific coast: Mukilteo, Washington
+wikidata: "https://www.wikidata.org/wiki/Q17560547"
 tags:
   - census-designated place
 ---
