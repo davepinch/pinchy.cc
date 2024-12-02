@@ -1,5 +1,7 @@
 ---
 title: "Looking up at Subterraneum"
+artist: Leo Saul Berk
+more info: "https://lmnarchitects.com/project/university-of-washington-station-sound-transit"
 picture: content/camera-roll/2016/11/2016-11-25-looking-up-at-subterraneum/looking-up-at-subterraneum.jpg
 related:
   - University of Washington station (Wikipedia)
