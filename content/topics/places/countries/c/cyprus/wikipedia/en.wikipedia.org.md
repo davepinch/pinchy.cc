@@ -4,6 +4,7 @@ borders:
   - Akrotiri and Dhekelia (Wikipedia)
   - Mediterranean Sea (Wikipedia)
 country of:
+  - Island (Wikipedia)
   - Mediterranean Sea (Wikipedia)
   - Middle East (Wikipedia)
   - West Asia (Wikipedia)
