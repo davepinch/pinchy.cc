@@ -1,6 +1,7 @@
 ---
 title: "Japan (Wikipedia)"
 country of:
+  - Island (Wikipedia)
   - East Asia (Wikipedia)
   - Asia (Wikipedia)
   - Pacific Ocean (Wikipedia)
@@ -12,6 +13,7 @@ url: /en.wikipedia.org/wiki/Japan/
 website: "https://en.wikipedia.org/wiki/Japan"
 wikipedia of: Japan
 tags:
+  - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
