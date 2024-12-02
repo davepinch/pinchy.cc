@@ -17,6 +17,7 @@ url: /en.wikipedia.org/wiki/The_Bahamas/
 website: "https://en.wikipedia.org/wiki/The_Bahamas"
 wikipedia of: The Bahamas
 tags:
+  - Archipelagic state (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
