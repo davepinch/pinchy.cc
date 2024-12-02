@@ -16,5 +16,6 @@ west of:
 type: country
 wikidata: "https://www.wikidata.org/wiki/Q229"
 tags:
+  - island country
   - country
 ---
