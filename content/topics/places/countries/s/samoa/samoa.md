@@ -1,0 +1,5 @@
+---
+title: "Samoa"
+tags:
+  - country
+---
