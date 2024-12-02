@@ -1,6 +1,7 @@
 ---
 title: "Malta (Wikipedia)"
 country of:
+  - Island (Wikipedia)
   - Europe (Wikipedia)
   - Mediterranean Sea (Wikipedia)
   - Southern Europe (Wikipedia)
@@ -12,6 +13,7 @@ url: /en.wikipedia.org/wiki/Malta/
 website: "https://en.wikipedia.org/wiki/Malta"
 wikipedia of: Malta
 tags:
+  - Island Country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
