@@ -1,6 +1,7 @@
 ---
 title: "Cuba"
 country of:
+  - island
   - Caribbean Sea
   - Gulf of Mexico
   - Atlantic Ocean
