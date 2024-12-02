@@ -1,6 +1,7 @@
 ---
 title: "Antigua and Barbuda (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Caribbean Sea (Wikipedia)
   - Atlantic Ocean (Wikipedia)
 excerpt: >-
