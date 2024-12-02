@@ -2,7 +2,11 @@
 title: "FREE GAZA!!! graffiti at Picnic Point Park"
 license: CC BY-SA 4.0
 mention of: Gaza City
-graffiti of: artist unknown
+graffiti of:
+  - artist unknown
+  - Gaza
+  - watermelon
+  - 🍉
 photograph of:
   - graffiti
   - Picnic Point, Washington
