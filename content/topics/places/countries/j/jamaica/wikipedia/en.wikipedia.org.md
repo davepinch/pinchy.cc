@@ -1,6 +1,7 @@
 ---
 title: "Jamaica (Wikipedia)"
 country of:
+  - Island (Wikipedia)
   - Caribbean (Wikipedia)
   - Caribbean Sea (Wikipedia)
   - Atlantic Ocean (Wikipedia)
@@ -12,5 +13,6 @@ url: /en.wikipedia.org/wiki/Jamaica/
 website: "https://en.wikipedia.org/wiki/Jamaica"
 wikipedia of: Jamaica
 tags:
+  - Island country (Wikipedia)
   - Wikipedia
 ---
