@@ -14,6 +14,8 @@ url: /en.wikipedia.org/wiki/Fiji/
 website: "https://en.wikipedia.org/wiki/Fiji"
 wikipedia of: Fiji
 tags:
+  - Archipelagic state (Wikipedia)
+  - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
