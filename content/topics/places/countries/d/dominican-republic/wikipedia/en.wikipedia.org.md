@@ -13,5 +13,6 @@ url: /en.wikipedia.org/wiki/Dominican_Republic/
 website: "https://en.wikipedia.org/wiki/Dominican_Republic"
 wikipedia of: Dominican Republic
 tags:
+  - Island country (Wikipedia)
   - Wikipedia
 ---
