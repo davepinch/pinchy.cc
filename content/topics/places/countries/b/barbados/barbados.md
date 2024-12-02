@@ -3,6 +3,7 @@ title: "Barbados"
 country of:
   - island
   - Caribbean
+  - North America
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/547511"
 type: country
