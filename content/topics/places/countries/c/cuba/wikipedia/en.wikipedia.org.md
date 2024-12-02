@@ -1,6 +1,7 @@
 ---
 title: "Cuba (Wikipedia)"
 country of:
+  - Island (Wikipedia)
   - Caribbean Sea (Wikipedia)
   - Gulf of Mexico (Wikipedia)
   - Atlantic Ocean (Wikipedia)
