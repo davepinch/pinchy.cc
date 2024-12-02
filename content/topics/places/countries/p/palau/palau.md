@@ -1,0 +1,5 @@
+---
+title: "Palau"
+tags:
+  - country
+---
