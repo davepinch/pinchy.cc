@@ -2,6 +2,34 @@
 title: "Scratchpad"
 draft: true
 ---
+12/2/2014-->
+Which one is it going to be?
+Is it going to be nuclear war?
+Is it going to be UFOs?
+Is it going to be Trump as a dictator?
+There are so many options. Which one is it going to be?
+
+---
+Unhandled exception in the simulator.
+
+
+---
+
+How the game works.
+Assume there exists the set of all experiences.
+in order to select an experience, it must be described.
+Some experiences reference other ones.
+Such as the experience of remembering the past, or imagining the future.
+Some experiences are aware of the structure, such as the one you are having now.
+
+
+At any given time you may change one decision you had in life.
+The one being evaluated is the one right now.
+Once you make a choice, you are instantly there.
+That moment is the moment of your next consciousness.
+<--
+
+
 
 God once arranged the world as a joke.
 God took all of the momentary frames of existence, and arranged them in a manner of a joke. Everything that has happened still happened, but the order was in a different way.
