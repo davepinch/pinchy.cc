@@ -1,6 +1,7 @@
 ---
 title: "Dominican Republic"
 country of:
+  - island
   - Hispaniola
   - Caribbean
   - Caribbean Sea
