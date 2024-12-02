@@ -10,6 +10,7 @@ borders:
   - Philippine Sea Plate
   - Timor Plate
   - Yangtze Plate
+tectonic plate of: Southeast Asia
 wikidata: "https://www.wikidata.org/wiki/Q1144881"
 tags:
   - tectonic plate
