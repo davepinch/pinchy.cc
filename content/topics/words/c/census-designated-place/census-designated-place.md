@@ -2,6 +2,7 @@
 title: "census-designated place"
 plural: census-designated places
 tag requires property:
+  - census-designated place of
   - OpenStreetMap
   - Wikidata
   - Wikipedia
