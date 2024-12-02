@@ -3,6 +3,7 @@ title: "The Bahamas"
 country of:
   - island
   - Caribbean
+  - North America
   - Atlantic Ocean
 near:
   - Cuba
