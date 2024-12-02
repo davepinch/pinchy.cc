@@ -1,6 +1,7 @@
 ---
 title: "Cyprus"
 country of:
+  - island
   - Mediterranean Sea
   - Middle East
   - West Asia
@@ -15,6 +16,5 @@ west of:
 type: country
 wikidata: "https://www.wikidata.org/wiki/Q229"
 tags:
-  - island
   - country
 ---
