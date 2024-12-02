@@ -1,6 +1,7 @@
 ---
 title: "Indonesia (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Southeast Asia (Wikipedia)
   - Indian Ocean (Wikipedia)
   - Pacific Ocean (Wikipedia)
@@ -12,5 +13,6 @@ url: /en.wikipedia.org/wiki/Indonesia/
 website: "https://en.wikipedia.org/wiki/Indonesia"
 wikipedia of: Indonesia
 tags:
+  - Archipelagic state (Wikipedia)
   - Wikipedia
 ---
