@@ -1,6 +1,9 @@
 ---
 title: "The Bahamas"
-country of: Atlantic Ocean
+country of:
+  - island
+  - Caribbean
+  - Atlantic Ocean
 near:
   - Cuba
   - Florida
