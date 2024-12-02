@@ -22,6 +22,7 @@ west of:
   - Lebanon (Wikipedia)
 wikipedia of: Cyprus
 tags:
+  - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
