@@ -1,5 +1,6 @@
 ---
-title: "When was the famous "sudo warning" introduced? Under what background? By whom? (stackexchange.com)"
+title: >-
+  When was the famous "sudo warning" introduced? Under what background? By whom? (stackexchange.com)
 excerpt: >-
   On all Unix-like operating systems, sudo is often provided as the standard package for executing commands as superuser (or an alternative user). When sudo is invoked by the user for the first time, many systems print the following well-known "Sudo Warning"...
 hacker news: "https://news.ycombinator.com/item?id=42291781"
