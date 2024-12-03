@@ -6,6 +6,7 @@ not to be confused with: Island County, Washington (Wikipedia)
 retrieved: 2024-12-02
 subclass of: Country (Wikipedia)
 type: website
+url: /en.wikipedia.org/wiki/Island_country/
 website: "https://en.wikipedia.org/wiki/Island_country"
 wikipedia of: island country
 tags:
