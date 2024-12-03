@@ -11,6 +11,7 @@ stars of: circle
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Cape_Verde.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Cape_Verde.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Cape_Verde"
 tags:
   - flag
   - Wikimedia Commons
