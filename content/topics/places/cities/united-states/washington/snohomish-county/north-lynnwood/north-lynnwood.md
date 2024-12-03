@@ -12,6 +12,7 @@ census-designated place of:
   - Interstate 5
 northbound on interstate 5: Everett, Washington
 southbound on interstate 5: Lynnwood, Washington
+wikidata: "https://www.wikidata.org/wiki/Q9050710"
 tags:
   - census-designated place
 ---
