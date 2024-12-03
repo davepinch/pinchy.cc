@@ -10,6 +10,7 @@ near: Vancouver Island (Wikipedia)
 remnant of: Farallon Plate (Wikipedia)
 retrieved: 2024-06-12
 subducting under: North American Plate (Wikipedia)
+tectonic plate of: Pacific Ocean (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Explorer_Plate/
 website: "https://en.wikipedia.org/wiki/Explorer_Plate"
