@@ -13,7 +13,6 @@ website: "https://en.wikipedia.org/wiki/Transnistria"
 wikipedia of: Transnistria
 tags:
   - Landlocked (Wikipedia)
-  - Country (Wikipedia)
   - Wikipedia
   - TODO
 ---
