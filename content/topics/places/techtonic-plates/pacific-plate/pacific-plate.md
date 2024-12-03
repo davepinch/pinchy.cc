@@ -26,8 +26,8 @@ borders:
   - Solomon Sea Plate
   - Tonga Plate
   - Woodlark Plate
+tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q205411"
 tags:
   - tectonic plate
-  - Pacific Ocean
 ---
