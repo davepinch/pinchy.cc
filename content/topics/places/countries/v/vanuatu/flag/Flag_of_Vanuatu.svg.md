@@ -4,6 +4,7 @@ author: See file history on website
 license: public domain
 flag of:
   - Vanuatu
+  - triangle
   - SVG
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Vanuatu.svg"
 type: picture
