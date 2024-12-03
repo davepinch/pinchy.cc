@@ -5,7 +5,7 @@ borders:
   - Cocos Plate
   - Nazca Plate
   - North Andes Plate
-countries:
+tectonic plate of:
   - Costa Rica
   - Panama
 wikidata: "https://www.wikidata.org/wiki/Q951362"
