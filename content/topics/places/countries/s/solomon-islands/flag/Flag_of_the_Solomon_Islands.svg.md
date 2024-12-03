@@ -11,6 +11,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomo
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_the_Solomon_Islands.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_the_Solomon_Islands.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Solomon_Islands"
 tags:
   - flag
   - Wikimedia Commons
