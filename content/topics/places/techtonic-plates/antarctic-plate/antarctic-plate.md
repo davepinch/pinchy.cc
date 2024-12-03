@@ -11,6 +11,9 @@ borders:
   - Somali Plate
   - South American Plate
   - South Sandwich Plate
+tectonic plate of:
+  - Antarctica
+  - Southern Ocean
 wikidata: "https://www.wikidata.org/wiki/Q501705"
 tags:
   - tectonic plate
