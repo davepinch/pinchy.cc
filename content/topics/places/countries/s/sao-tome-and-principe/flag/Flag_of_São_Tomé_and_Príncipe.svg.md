@@ -9,6 +9,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/0/0a/Flag_of_S%C3%A3o_T
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_São_Tomé_and_Príncipe.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
 tags:
   - flag
   - Wikimedia Commons
