@@ -3,6 +3,8 @@ title: "Flag of the Solomon Islands.svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:SKopp"
 flag of:
   - Solomon Islands
+  - five-pointed star
+  - triangle
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/74/Flag_of_the_Solomon_Islands.svg"
