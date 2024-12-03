@@ -11,10 +11,10 @@ photograph of:
   - Amanita muscaria
   - mushroom
   - Montlake, Seattle
-picture: content/camera-roll/2019/10/2019-10-23-amanita-muscaria-in-montlake/20191023_185929475_iOS.jpg
+picture: content/camera-roll/2019/10/2019-10-23-amanita-muscaria-in-montlake/amanita-muscaria-in-montlake.jpg
 related:
   - Montlake, Seattle (Wikipedia)
-thumbnail: content/camera-roll/2019/10/2019-10-23-amanita-muscaria-in-montlake/20191023_185929475_iOS-thumbnail.jpg
+thumbnail: content/camera-roll/2019/10/2019-10-23-amanita-muscaria-in-montlake/amanita-muscaria-in-montlake.thumbnail.jpg
 type: picture
 when: 2019-10-23
 tags:
