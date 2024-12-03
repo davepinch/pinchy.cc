@@ -1,9 +1,10 @@
 ---
 title: "Acute triangle (Wikipedia)"
+diagram: Triangle.Acute.svg (Wikimedia Commons)
 excerpt: >-
-  An **acute triangle** (or acute-angled triangle) is a [triangle](/en.wikipedia.org/wiki/Triangle/) with three acute angles (less than 90°).
+  An **acute triangle** (or **acute-angled triangle**) is a triangle with three acute angles (less than 90°).
 note: Wikipedia redirects to a page that combines information for acute and obtuse triangles.
-related: Triangle.Acute.svg (Wikimedia Commons)
+retrieved: 2024-12-03
 see also:
   - Obtuse triangle (Wikipedia)
   - Right triangle (Wikipedia)
