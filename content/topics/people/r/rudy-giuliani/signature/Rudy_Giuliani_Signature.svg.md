@@ -7,7 +7,7 @@ signature of:
   - Rudy Giuliani
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Rudy_Giuliani_Signature.svg/
+url: /commons.wikimedia.org/wiki/Rudy_Giuliani_Signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Rudy_Giuliani_Signature.svg"
 tags:
   - signature
