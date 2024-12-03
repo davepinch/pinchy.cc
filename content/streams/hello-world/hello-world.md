@@ -9,6 +9,7 @@ browse mindlessly:
   - "https://x.com"
   - "https://news.ycombinator.com"
 get started today: YOU GOT THIS
+to be sorted: "We are in the mind of Jesus Christ as he is being crucified."
 type: fragment
 url: /hello-world/
 ---
