@@ -19,6 +19,12 @@ borders:
   - Timor Plate
   - Tonga Plate
   - Woodlark Plate
+tectonic plate of:
+  - Australia (country)
+  - Australia (continent)
+  - Indian Ocean
+  - New Zealand
+  - Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q783056"
 tags:
   - tectonic plate
