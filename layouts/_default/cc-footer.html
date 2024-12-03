@@ -1,8 +1,6 @@
 <footer class="cc-footer">
-  <menu>
-    <li><a href="/index.html">home</a></li>
-    <li><a href="/privacy-policy/">privacy policy</a></li>
-    <li><a href="https://github.com/sponsors/davepinch">sponsor</a></li>
-    <li><a href="https://bsky.app/profile/pinchycc.bsky.social">Bluesky</a></li>
-  </menu>
+{{ $key := "footer"}}
+{{ $tags := index .Site.Data.props "tags" }}
+{{ $value := index $t $k }}
+{{ partial "cc-section" (dict "key" $key "value" $value) }}
 </footer>
