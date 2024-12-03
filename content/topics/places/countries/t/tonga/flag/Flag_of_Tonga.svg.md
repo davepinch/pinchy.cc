@@ -9,6 +9,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/9/9a/Flag_of_Tonga.svg"
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Tonga.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Tonga.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Tonga"
 tags:
   - flag
   - Wikimedia Commons
