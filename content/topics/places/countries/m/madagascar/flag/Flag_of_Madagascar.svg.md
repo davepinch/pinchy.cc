@@ -9,6 +9,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Flag_of_Madagascar
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Madagascar.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Madagascar.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Madagascar"
 tags:
   - flag
   - Wikimedia Commons
