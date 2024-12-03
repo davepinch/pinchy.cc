@@ -10,6 +10,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Flag_of_the_Federa
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_Federated_States_of_Micronesia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_Federated_States_of_Micronesia.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_the_Federated_States_of_Micronesia"
 tags:
   - flag
   - Wikimedia Commons
