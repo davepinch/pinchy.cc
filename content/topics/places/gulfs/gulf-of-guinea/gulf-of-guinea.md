@@ -1,8 +1,8 @@
 ---
 title: "Gulf of Guinea"
-borders:
+gulf of:
+  - Atlantic Ocean
   - Africa
-countries (south to north):
   - Gabon
   - Equatorial Guinea
   - Cameroon
@@ -10,6 +10,7 @@ countries (south to north):
   - Benin
   - Ghana
   - Ivory Coast
+  - Null Island
 openstreetmap: "https://www.openstreetmap.org/node/305640297"
 part of: Atlantic Ocean
 wikidata: "https://www.wikidata.org/wiki/Q41430"
