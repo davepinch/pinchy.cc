@@ -26,9 +26,10 @@ borders:
   - Solomon Sea Plate (Wikipedia)
   - Tonga Plate (Wikipedia)
   - Woodlark Plate (Wikipedia)
-retrieved: 2024-03-05
 excerpt: >-
   The **Pacific Plate** is an oceanic tectonic plate that lies beneath the [Pacific Ocean](/en.wikipedia.org/wiki/Pacific_Ocean/). At 103 million km2 (40 million sq mi), it is the largest tectonic plate.
+retrieved: 2024-03-05
+tectonic plate of: Pacific Ocean (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Pacific_Plate/
 website: "https://en.wikipedia.org/wiki/Pacific_Plate"
