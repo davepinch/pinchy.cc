@@ -6,6 +6,7 @@ borders:
   - Pacific Plate
   - Philippine Sea Plate
   - Woodlark Plate
+tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q1361799"
 tags:
   - tectonic plate
