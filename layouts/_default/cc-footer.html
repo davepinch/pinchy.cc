@@ -1,6 +1,6 @@
 <footer class="cc-footer">
 {{ $key := "footer"}}
 {{ $tags := index .Site.Data.props "tags" }}
-{{ $value := index $t $k }}
+{{ $value := index $tags $key }}
 {{ partial "cc-section" (dict "key" $key "value" $value) }}
 </footer>
