@@ -11,6 +11,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/2/26/Flag_of_East_Timor
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_East_Timor.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_East_Timor.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_East_Timor"
 tags:
   - flag
   - Wikimedia Commons
