@@ -10,5 +10,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Madagascar_(centered_orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Madagascar_(centered_orthographic_projection).svg"
 tags:
-  - Wikipedia
+  - location
+  - Wikimedia Commons
 ---
