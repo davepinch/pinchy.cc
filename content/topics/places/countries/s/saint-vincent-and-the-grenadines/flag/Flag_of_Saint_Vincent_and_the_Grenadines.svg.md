@@ -10,6 +10,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Flag_of_Saint_Vinc
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Saint_Vincent_and_the_Grenadines.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Saint_Vincent_and_the_Grenadines.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Saint_Vincent_and_the_Grenadines"
 tags:
   - flag
   - Wikimedia Commons
