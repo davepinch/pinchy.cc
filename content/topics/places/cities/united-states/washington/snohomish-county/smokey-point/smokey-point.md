@@ -1,6 +1,6 @@
 ---
 title: "Smokey Point, Washington"
-neighborhood of:
+census-designated place of:
   - Arlington, Washington
   - Marysville, Washington
   - Snohomish County, Washington
