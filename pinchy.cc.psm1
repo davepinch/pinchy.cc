@@ -1,3 +1,84 @@
+
+function Import-CommonsFlag {
+
+    param (
+        [string]$url
+    )
+
+    #
+    # Fetch the content from the URL.
+    #
+    try {
+        $content = Invoke-WebRequest -Uri $url
+    } catch {
+        Write-Error "Failed to download content from $url. Error: $_"
+        return
+    }
+ 
+    #
+    # Create an array to hold the front matter
+    #
+    $lines = @()
+
+    #
+    # --- (start of front matter)
+    #
+    $lines += "---"
+
+    #
+    # title: "..." (must be enclosed in quotes)
+    #
+    # The title on Wikimedia Commons has the following format:
+    # "File:Flag of Australia.svg - Wikimedia Commons"
+    # Extract the text between File: and - Wikimedia Commons
+    $title = $content.ParsedHtml.querySelector("title").innerText
+    $title = $title -replace "^File:", ""
+    $title = $title -replace " - Wikimedia Commons$", ""
+    $lines += "title: `"$title`""
+
+    #
+    # flag of: country
+    #
+    $country = $title -replace "^Flag of ", ""
+    $country = $country -replace "\.svg$", ""
+    $lines += "flag of: $country"
+
+    #
+    # type: picture
+    #
+    $lines += "type: picture"
+
+    #
+    # url: /path/to/file - but remove the File: namespace in the path
+    #
+    $localUrl = "/" + ($url -replace "https://", "") + "/"
+    $localUrl = $localUrl -replace "^/wiki/File:", "/wiki/"
+    $lines += "url: $localUrl"
+
+    #
+    # website: url
+    #
+    $lines += "website: `"$url`""
+
+    # tags:
+    #   - flag
+    #   - Wikimedia Commons
+    $lines += "tags:"
+    $lines += "  - flag"
+    $lines += "  - Wikimedia Commons"
+
+    #
+    # --- (end of YAML front matter)
+    #
+    $lines += "---"
+
+    #
+    # Write the content to a file
+    #
+    $outputPath = "commons.wikimedia.org.md"
+    $lines | Out-File -FilePath $outputPath -Encoding utf8
+}
+
 function Import-Wikipedia {
 
     param (
@@ -67,4 +148,5 @@ function Import-Wikipedia {
     $lines | Out-File -FilePath $outputPath -Encoding utf8
 }
 
+Export-ModuleMember -Function Import-CommonsFlag
 Export-ModuleMember -Function Import-Wikipedia
