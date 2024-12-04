@@ -11,6 +11,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/f/fe/Flag_of_Saint_Kitt
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Saint_Kitts_and_Nevis.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Saint_Kitts_and_Nevis.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Saint_Kitts_and_Nevis"
 tags:
   - flag
   - Wikimedia Commons
