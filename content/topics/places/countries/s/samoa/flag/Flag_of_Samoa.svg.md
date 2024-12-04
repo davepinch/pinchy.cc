@@ -11,6 +11,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/3/31/Flag_of_Samoa.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Samoa.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Samoa.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Samoa"
 tags:
   - flag
   - Wikimedia Commons
