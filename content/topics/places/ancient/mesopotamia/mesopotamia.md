@@ -1,6 +1,6 @@
 ---
 title: "Mesopotamia"
-type: region
+wikidata: "https://www.wikidata.org/wiki/Q11767"
 tags:
   - region
   - West Asia
