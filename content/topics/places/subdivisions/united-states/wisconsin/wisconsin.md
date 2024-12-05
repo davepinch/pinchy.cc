@@ -11,9 +11,6 @@ borders:
 clockwise around lake superior: Minnesota
 down the mississippi: Iowa
 eastbound on interstate 90: Illinois
-rivers:
-  - Mississippi River
-  - Saint Croix River
 state of:
   - Upper Midwest
   - Midwestern United States
