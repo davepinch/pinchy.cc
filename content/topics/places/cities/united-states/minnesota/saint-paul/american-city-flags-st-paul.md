@@ -4,6 +4,7 @@ title: >-
 snippet of: Raven, volume 9-10 (2002–2003) (nava.org)
 related: Flag_of_St._Paul,_Minnesota.svg (Wikimedia Commons)
 type: snippet
+url: /nava.org/raven-volume-9-10/st-paul/
 tags:
   - Mississippi River
   - Saint Paul, Minnesota
