@@ -20,9 +20,6 @@ not to be confused with: Mississippi
 openstreetmap: "https://www.openstreetmap.org/relation/1756854"
 represented on a flag: Flag_of_St._Paul,_Minnesota.svg (Wikimedia Commons)
 river of:
-  - United States
-  - North America
-states:
   - Minnesota
   - Wisconsin
   - Iowa
@@ -33,6 +30,8 @@ states:
   - Arkansas
   - Mississippi
   - Louisiana
+  - United States
+  - North America
 wikidata: "https://www.wikidata.org/wiki/Q1497"
 tags:
   - river
