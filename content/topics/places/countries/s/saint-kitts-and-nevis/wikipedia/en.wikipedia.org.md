@@ -12,5 +12,5 @@ website: "https://en.wikipedia.org/wiki/Saint_Kitts_and_Nevis"
 wikipedia of: Saint Kitts and Nevis
 tags:
   - Island country (Wikipedia)
-  - website
+  - Wikipedia
 ---
