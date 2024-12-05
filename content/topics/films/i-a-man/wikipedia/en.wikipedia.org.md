@@ -7,6 +7,7 @@ film of:
   - Drama (film and television) (Wikipedia)
   - Andy Warhol (Wikipedia)
 opposite: Man a Machine (Wikipedia)
+retrieved: 2024-12-04
 type: website
 url: /en.wikipedia.org/wiki/I,_a_Man/
 website: "https://en.wikipedia.org/wiki/I,_a_Man"
