@@ -2,7 +2,7 @@
 title: "Arabian Peninsula.svg"
 author: "https://commons.wikimedia.org/wiki/User:M.Bitton"
 license: CC BY-SA 3.0
-location of peninsula of:
+location of:
   - Arabian Peninsula
   - SVG
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Arabian_Peninsula.svg"
