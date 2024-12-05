@@ -7,7 +7,7 @@ location of peninsula of:
   - SVG
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Arabian_Peninsula.svg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Arabian_Peninsula.svg/
+url: /commons.wikimedia.org/wiki/Arabian_Peninsula.svg/
 website: "https://commons.wikimedia.org/wiki/File:Arabian_Peninsula.svg"
 tags:
   - location
