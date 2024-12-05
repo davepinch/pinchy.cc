@@ -86,19 +86,19 @@ function Import-Wikipedia {
     )
 
     #
-    # Create an array to hold the front matter
-    #
-    $lines = @()
-
-    #
     # Fetch the content from the URL.
     #
     try {
-        $content = Invoke-WebRequest -Uri $url -UseBasicParsing
+        $content = Invoke-WebRequest -Uri $url
     } catch {
         Write-Error "Failed to download content from $url. Error: $_"
         return
     }
+
+    #
+    # Create an array to hold the front matter
+    #
+    $lines = @()
 
     #
     # --- (start of front matter)
@@ -108,7 +108,9 @@ function Import-Wikipedia {
     #
     # title: "..." (must be enclosed in quotes)
     #
-    $lines += "title: `"$($content.ParsedHtml.title)`""
+    $title = $content.ParsedHtml.querySelector("title").innerText
+    $title = $title -replace " - Wikipedia$", ""
+    $lines += "title: `"$title (Wikipedia)`""    
 
     #
     # retrieved: yyyy-MM-dd
@@ -130,6 +132,11 @@ function Import-Wikipedia {
     #
     $lines += "website: `"$url`""
 
+    #
+    # wikipedia of: title
+    #
+    $lines += "wikipedia of: $title"
+    
     #
     # tags:
     #
