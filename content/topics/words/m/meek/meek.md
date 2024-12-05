@@ -1,4 +1,3 @@
 ---
 title: "meek"
-type: noun
 ---

@@ -1,8 +1,7 @@
 ---
 title: "Golden Teacher"
-type: mushroom-strain
+mushroom strain of: Psilocybe cubensis
 tags:
-  - Psilocybe cubensis
   - mushroom strain
 ---
 Golden Teacher is a strain of *[P. cubensis](/psilocybe-cubensis/)*.

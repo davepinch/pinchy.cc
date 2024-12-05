@@ -4,5 +4,4 @@ related:
   - fire
   - sidewalk
   - water
-type: noun
 ---

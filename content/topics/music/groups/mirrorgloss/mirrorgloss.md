@@ -1,8 +1,6 @@
 ---
 title: "Mirrorgloss"
-from: Tacoma
-type: band
+band of: Tacoma
 tags:
   - band
-  - Tacoma
 ---

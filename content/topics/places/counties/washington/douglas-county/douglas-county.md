@@ -7,7 +7,6 @@ borders:
   - Okanogan County, Washington
 county of: Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1153555"
-type: county
 wikidata: "https://www.wikidata.org/wiki/Q156220"
 tags:
   - county

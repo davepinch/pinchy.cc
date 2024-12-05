@@ -1,4 +1,3 @@
 ---
 title: "recipe"
-type: noun
 ---

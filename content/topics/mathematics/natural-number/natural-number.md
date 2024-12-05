@@ -1,6 +1,6 @@
 ---
 title: "natural number"
-type: number
 tags:
+  - number
   - mathematics
 ---

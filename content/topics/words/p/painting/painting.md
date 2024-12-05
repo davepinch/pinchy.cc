@@ -4,5 +4,4 @@ next: "type of painting"
 related: paint
 see also:
   - drawing
-type: noun
 ---

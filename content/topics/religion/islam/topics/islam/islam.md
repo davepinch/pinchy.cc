@@ -7,7 +7,6 @@ topics:
   - Alhamdulillah
   - Hadith
   - Sufism
-type: religion
 tags:
   - religion
 ---

@@ -1,7 +1,6 @@
 ---
 title: "igneous rock"
-"Strike a path to Jasper": "Igneous rock (Wikipedia)"
-type: rock
+strike a path to jasper: Igneous rock (Wikipedia)
 tags:
   - rock
   - geology

@@ -1,7 +1,7 @@
 ---
 title: "artist"
+occupation of: art
 related: artist unknown
-type: occupation
 tags:
   - occupation
 ---

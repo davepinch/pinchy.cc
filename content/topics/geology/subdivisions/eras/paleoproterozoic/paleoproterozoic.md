@@ -9,7 +9,6 @@ subdivisions:
   - Rhyacian
   - Orosirian
   - Statherian
-type: geologic-era
 wikipedia: Paleoproterozoic (Wikipedia)
 tags:
   - geologic era

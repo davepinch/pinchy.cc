@@ -1,4 +1,3 @@
 ---
 title: "debt"
-type: noun
 ---

@@ -5,7 +5,6 @@ ASCEND: >-
 subdivision of: Paleozoic 
 next period ➡: Devonian
 ⬅ previous period: Ordovician
-type: geologic-period
 tags:
   - geologic period
 ---

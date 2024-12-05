@@ -4,5 +4,4 @@ related:
   - outfall
   - tunnel
   - water
-type: noun
 ---

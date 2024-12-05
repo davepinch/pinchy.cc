@@ -10,7 +10,6 @@ borders:
 clockwise around the baltic sea: Kaliningrad Oblast
 country of: Europe
 openstreetmap: "https://www.openstreetmap.org/relation/72596"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q37"
 tags:
   - Lithuanian

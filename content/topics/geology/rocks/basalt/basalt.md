@@ -1,6 +1,5 @@
 ---
 title: "basalt"
-type: rock
 tags:
   - aphanite
   - igneous rock

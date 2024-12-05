@@ -14,7 +14,6 @@ country of:
   - Central Europe
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/1741311"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q403"
 tags:
   - landlocked

@@ -1,9 +1,9 @@
 ---
 title: "Pink Floyd"
-type: band
-tags:
-  - English
+band of:
   - progressive rock
-  - band
   - London
+  - England
+tags:
+  - band
 ---

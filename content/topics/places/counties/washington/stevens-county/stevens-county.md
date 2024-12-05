@@ -8,7 +8,6 @@ borders:
   - Spokane County, Washington
 county of: Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1150602"
-type: county
 wikidata: "https://www.wikidata.org/wiki/Q483954"
 tags:
   - county

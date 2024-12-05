@@ -1,7 +1,6 @@
 ---
 title: "geologist"
-type: occupation
+occupation of: geology
 tags:
   - occupation
-  - geology
 ---

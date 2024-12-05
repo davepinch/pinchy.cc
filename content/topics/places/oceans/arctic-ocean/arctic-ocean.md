@@ -2,8 +2,7 @@
 title: "Arctic Ocean"
 ocean of:
   - Northern Hemisphere
-  - Earth  
-type: ocean
+  - Earth
 tags:
   - ocean
 ---

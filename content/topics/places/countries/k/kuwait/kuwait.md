@@ -10,7 +10,6 @@ country of:
   - West Asia
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/305099"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q817"
 tags:
   - Kuwaiti

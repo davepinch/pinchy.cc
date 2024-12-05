@@ -24,7 +24,6 @@ country of:
   - Indian Ocean
 near: Bahrain
 openstreetmap: "https://www.openstreetmap.org/relation/307584"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q851"
 tags:
   - Saudi

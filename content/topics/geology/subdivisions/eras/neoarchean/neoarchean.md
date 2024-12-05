@@ -6,7 +6,6 @@ next era ➡: "Paleoproterozoic"
 next eon ↗: "Proterozoic"
 ⬅ previous era: "Mesoarchean"
 subdivision of: Archean
-type: geologic-era
 tags:
   - geologic era
 ---

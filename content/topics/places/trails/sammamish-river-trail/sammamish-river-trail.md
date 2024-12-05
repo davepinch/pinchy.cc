@@ -7,7 +7,6 @@ trail of:
   - Redmond, Washington
   - Bothell, Washington
   - Woodinville, Washington
-type: trail
 tags:
   - trail
 ---

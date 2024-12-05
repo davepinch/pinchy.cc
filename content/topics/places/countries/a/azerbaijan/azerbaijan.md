@@ -17,7 +17,6 @@ country of:
   - West Asia
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/364110"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q227"
 tags:
   - landlocked

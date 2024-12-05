@@ -1,8 +1,6 @@
 ---
 title: "fugue"
-"Gödel, Escher, Bach":
-  - "Introduction: A Musico-Logical Offering"
-type: music
+gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 tags:
 - music
 ---

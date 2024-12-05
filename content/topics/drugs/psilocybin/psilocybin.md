@@ -5,7 +5,6 @@ see also:
   - LSD
   - mescaline
   - psilocin
-type: drug
 tags:
   - Schedule I
   - psychedelic drug

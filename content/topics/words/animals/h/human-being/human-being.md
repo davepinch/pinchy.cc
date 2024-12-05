@@ -6,7 +6,6 @@ see also:
 tag requires property:
   - Wikidata
   - Wikipedia
-type: mammal
 tags:
   - mammal
   - animal

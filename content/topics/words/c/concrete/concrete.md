@@ -1,4 +1,3 @@
 ---
 title: "concrete"
-type: noun
 ---

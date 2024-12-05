@@ -1,7 +1,6 @@
 ---
 title: "DJ"
-type: occupation
+occupation of: music
 tags:
-  - music
   - occupation
 ---

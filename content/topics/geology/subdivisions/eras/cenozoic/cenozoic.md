@@ -6,7 +6,6 @@ subdivisions:
   - Paleogene
   - Neogene
   - Quaternary
-type: geologic-era
 tags:
   - geologic era
   - now

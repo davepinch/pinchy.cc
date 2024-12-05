@@ -1,4 +1,3 @@
 ---
 title: "window"
-type: noun
 ---

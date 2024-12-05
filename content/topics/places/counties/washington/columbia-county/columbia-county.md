@@ -9,7 +9,6 @@ borders:
 county of: Washington
 created from: Walla Walla County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1150530"
-type: county
 wikidata: "https://www.wikidata.org/wiki/Q156253"
 tags:
   - county

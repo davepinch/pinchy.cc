@@ -1,4 +1,3 @@
 ---
 title: "suitcase"
-type: noun
 ---

@@ -13,7 +13,6 @@ country of:
   - Europe
 learn about nordic culture: National Nordic Museum
 openstreetmap: "https://www.openstreetmap.org/relation/50046"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q35"
 tags:
   - Danish

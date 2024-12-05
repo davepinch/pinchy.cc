@@ -12,7 +12,6 @@ country of:
   - Northern Europe
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/72594"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q211"
 tags:
   - Latvian

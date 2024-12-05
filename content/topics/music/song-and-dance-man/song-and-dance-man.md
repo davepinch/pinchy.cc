@@ -1,7 +1,8 @@
 ---
 title: "song and dance man"
-type: occupation
+occupation of:
+  - music
+  - dance
 tags:
   - occupation
-  - music
 ---

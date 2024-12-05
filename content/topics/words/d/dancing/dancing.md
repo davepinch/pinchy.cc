@@ -1,4 +1,3 @@
 ---
 title: "dancing"
-type: noun
 ---

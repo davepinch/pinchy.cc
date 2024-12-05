@@ -7,7 +7,6 @@ subdivisions:
   - Triassic
   - Jurassic
   - Cretaceous
-type: geologic-era
 tags:
   - geologic era
 ---

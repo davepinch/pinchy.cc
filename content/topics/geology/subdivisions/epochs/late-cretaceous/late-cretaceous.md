@@ -4,7 +4,6 @@ next epoch ➡: Paleocene
 next period ↗: Paleogene
 ⬅ previous epoch: Early Cretaceous
 subdivision of: Cretaceous
-type: geologic-epoch
 tags:
   - geologic epoch
 ---

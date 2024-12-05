@@ -13,7 +13,6 @@ country of:
   - South Asia
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/307573"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q843"
 tags:
   - country

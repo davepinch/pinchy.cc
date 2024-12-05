@@ -1,4 +1,3 @@
 ---
 title: "school"
-type: noun
 ---

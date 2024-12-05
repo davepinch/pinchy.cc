@@ -1,4 +1,3 @@
 ---
 title: "glasses"
-type: noun
 ---

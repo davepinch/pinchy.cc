@@ -1,4 +1,3 @@
 ---
 title: "fountain"
-type: noun
 ---

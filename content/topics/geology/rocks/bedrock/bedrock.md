@@ -1,7 +1,6 @@
 ---
 title: "bedrock"
-"Strike a path to Jasper": "Bedrock (Wikipedia)"
-type: rock
+strike a path to jasper: Bedrock (Wikipedia)
 tags:
   - rock
   - geology

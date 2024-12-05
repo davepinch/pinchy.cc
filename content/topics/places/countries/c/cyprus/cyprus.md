@@ -13,7 +13,6 @@ south of: Turkey
 west of:
   - Syria
   - Lebanon
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q229"
 tags:
   - island country

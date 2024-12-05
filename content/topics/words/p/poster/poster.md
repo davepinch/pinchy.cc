@@ -1,4 +1,3 @@
 ---
 title: "poster"
-type: noun
 ---

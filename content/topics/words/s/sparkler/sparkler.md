@@ -1,4 +1,3 @@
 ---
 title: "sparkler"
-type: noun
 ---

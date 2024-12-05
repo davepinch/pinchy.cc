@@ -19,7 +19,6 @@ country of:
   - Central Europe
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/51477"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q183"
 tags:
   - German

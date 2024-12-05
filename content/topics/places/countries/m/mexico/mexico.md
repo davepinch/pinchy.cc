@@ -12,7 +12,6 @@ borders:
   - incomplete list
 country of: North America
 openstreetmap: "https://www.openstreetmap.org/relation/114686"
-type: country
 up the pacific coast:
   - United States
   - California

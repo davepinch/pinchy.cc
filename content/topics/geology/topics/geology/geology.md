@@ -7,7 +7,6 @@ related:
   - geography
   - paleontology
   - physics
-type: earth-science
 tags:
   - Earth
   - science

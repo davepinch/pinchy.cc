@@ -6,7 +6,6 @@ next: "To be honest, I don't check email often."
 related:
   - History of email (Wikipedia)
   - Gmail (Wikipedia)
-type: email
 tags:
   - Contact Me
   - email

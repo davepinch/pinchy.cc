@@ -12,7 +12,6 @@ highway of:
   - Oregon
   - Washington
 westbound on U.S. Route 2: Everett, Washington
-type: highway
 tags:
   - highway
 ---

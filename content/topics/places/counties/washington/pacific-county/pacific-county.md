@@ -8,7 +8,6 @@ borders:
 county of: Washington
 namesake of: Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/1153390"
-type: county
 wikidata: "https://www.wikidata.org/wiki/Q483990"
 tags:
   - county

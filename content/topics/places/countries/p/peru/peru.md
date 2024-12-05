@@ -10,7 +10,6 @@ borders:
   - Pacific Ocean
 country of: South America
 openstreetmap: "https://www.openstreetmap.org/relation/288247"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q419"
 tags:
   - country

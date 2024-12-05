@@ -4,9 +4,8 @@ next in series: Lords and Ladies
 novel of:
   - Discworld
   - Terry Pratchett
-type: novel
 tags:
-  - book
+  - novel
   - God as a Character
   - religion
   - turtle

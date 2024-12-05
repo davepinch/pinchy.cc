@@ -3,8 +3,7 @@ title: "singer"
 emoji:
   - 👩‍🎤
   - 👨‍🎤
-related: music
-type: occupation
+occuptation of: music
 tags:
   - occupation
 ---

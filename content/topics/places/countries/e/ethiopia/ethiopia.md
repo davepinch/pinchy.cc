@@ -9,7 +9,6 @@ borders:
   - Sudan
 country of: Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192800"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q115"
 tags:
   - country

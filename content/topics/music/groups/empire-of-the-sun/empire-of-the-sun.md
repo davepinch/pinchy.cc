@@ -1,7 +1,6 @@
 ---
 title: "Empire of the Sun"
-from: Australia
-type: band
+band of: Australia
 tags:
   - electronic music
   - band

@@ -22,7 +22,6 @@ country of:
   - Asia
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/174737"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q43"
 tags:
   - Turkish

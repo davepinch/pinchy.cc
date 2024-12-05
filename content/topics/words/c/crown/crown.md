@@ -1,4 +1,3 @@
 ---
 title: "crown"
-type: noun
 ---

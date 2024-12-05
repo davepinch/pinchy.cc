@@ -9,7 +9,6 @@ borders:
   - Trinidad and Tobago
 country of: South America
 openstreetmap: "https://www.openstreetmap.org/relation/272644"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q717"
 tags:
   - country

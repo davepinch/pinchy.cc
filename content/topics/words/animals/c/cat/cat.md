@@ -18,7 +18,6 @@ emoji:
   - 🐱‍🐉
   - 🐱‍👓
   - 🐱‍🚀
-type: mammal
 tags:
   - mammal
 ---

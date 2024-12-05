@@ -1,6 +1,5 @@
 ---
 title: Crypto addresses
-type: article
 date: 2024-11-20
 excerpt: I am creating a new crypto wallet, please do not send crypto right now
 ---

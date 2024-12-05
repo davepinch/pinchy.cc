@@ -1,4 +1,3 @@
 ---
 title: "explorer"
-type: occupation
 ---

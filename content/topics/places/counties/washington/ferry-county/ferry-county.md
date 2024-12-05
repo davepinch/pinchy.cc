@@ -7,7 +7,6 @@ borders:
   - Stevens County, Washington
 county of: Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1153067"
-type: county
 wikidata: "https://www.wikidata.org/wiki/Q493228"
 tags:
   - county

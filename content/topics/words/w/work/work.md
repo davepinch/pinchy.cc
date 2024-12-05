@@ -1,4 +1,3 @@
 ---
 title: "work"
-type: noun
 ---

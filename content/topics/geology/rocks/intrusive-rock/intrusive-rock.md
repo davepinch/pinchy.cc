@@ -1,8 +1,7 @@
 ---
 title: "intrusive rock"
 opposite: extrusive rock
-"Strike a path to Jasper": Intrusive rock (Wikipedia)
-type: igneous-rock
+strike a path to jasper: Intrusive rock (Wikipedia)
 tags:
   - igneous rock
   - rock

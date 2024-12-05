@@ -10,7 +10,6 @@ down the skykomish: Monroe, Washington
 eastbound on U.S. Route 2: Startup, Washington
 near: Monroe, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237255"
-type: city
 up the skykomish: Gold Bar, Washington
 westbound on U.S. Route 2: Monroe, Washington
 wikidata: "https://www.wikidata.org/entity/Q1505643"

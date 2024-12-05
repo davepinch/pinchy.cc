@@ -1,10 +1,8 @@
 ---
 title: "harpsichord"
-"Gödel, Escher, Bach":
-  - "Introduction: A Musico-Logical Offering"
+gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 related: piano
-type: instrument
 tags:
-- music
-- instrument
+  - music
+  - instrument
 ---

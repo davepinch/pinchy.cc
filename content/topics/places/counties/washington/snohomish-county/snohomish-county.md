@@ -26,7 +26,6 @@ roadways:
   - Washington State Route 9
   - Washington State Route 522
 southbound on interstate 5: King County, Washington
-type: county
 wikidata: "https://www.wikidata.org/wiki/Q110403"
 tags:
   - county

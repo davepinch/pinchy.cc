@@ -6,7 +6,6 @@ books:
   - Book of Proverbs
   - Ecclesiastes
   - incomplete list
-type: testament
 tags:
   - Bible
 ---

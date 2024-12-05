@@ -1,8 +1,7 @@
 ---
 title: "The Wall"
+album of: Pink Floyd
 symbolically of: wall
-type: album
 tags:
   - album
-  - Pink Floyd
 ---

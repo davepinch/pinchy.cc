@@ -1,4 +1,3 @@
 ---
 title: "daily"
-type: noun
 ---

@@ -1,8 +1,8 @@
 ---
 title: "Sagittarius A"
-constellation: Sagittarius
-type: black-hole
+black hole of:
+  - Sagittarius
+  - Milky Way
 tags:
   - black hole
-  - Milky Way
 ---

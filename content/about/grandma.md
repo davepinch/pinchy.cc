@@ -1,4 +1,3 @@
 ---
 title: "grandma"
-type: family
 ---

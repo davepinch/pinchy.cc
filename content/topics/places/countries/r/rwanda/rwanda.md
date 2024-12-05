@@ -7,7 +7,6 @@ borders:
   - Uganda
 country of: Africa
 openstreetmap: "https://www.openstreetmap.org/relation/171496"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q1037"
 tags:
   - landlocked

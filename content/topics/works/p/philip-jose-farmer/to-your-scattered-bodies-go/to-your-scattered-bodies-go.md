@@ -10,7 +10,6 @@ novel of:
   - science fiction
   - death
   - reincarnation
-type: novel
 tags:
   - novel
 ---

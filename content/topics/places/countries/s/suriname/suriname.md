@@ -7,7 +7,6 @@ borders:
   - Guyana
 country of: South America
 openstreetmap: "https://www.openstreetmap.org/relation/287082"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q730"
 tags:
   - country

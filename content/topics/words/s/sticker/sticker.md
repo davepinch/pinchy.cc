@@ -1,4 +1,3 @@
 ---
 title: "sticker"
-type: noun
 ---

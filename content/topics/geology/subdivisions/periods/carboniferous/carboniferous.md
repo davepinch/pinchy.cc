@@ -6,7 +6,6 @@ subdivision of: Paleozoic
 subdivisions:
   - Mississippian
   - Pennsylvanian
-type: geologic-period
 tags:
   - geologic period
 ---

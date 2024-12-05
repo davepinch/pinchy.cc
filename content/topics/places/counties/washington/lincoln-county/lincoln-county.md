@@ -14,7 +14,6 @@ county of:
 eastbound on interstate 90: Spokane County, Washington
 namesake of: Abraham Lincoln
 openstreetmap: "https://www.openstreetmap.org/relation/1153068"
-type: county
 westbound on interstate 90: Adams County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q484150"
 tags:

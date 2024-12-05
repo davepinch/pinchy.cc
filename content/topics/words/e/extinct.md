@@ -1,4 +1,3 @@
 ---
 title: "extinct"
-type: noun
 ---

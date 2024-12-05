@@ -8,7 +8,6 @@ subdivisions:
   - Early Triassic
   - Middle Triassic
   - Late Triassic (Wikipedia)
-type: geologic-period
 tags:
   - geologic period
 ---

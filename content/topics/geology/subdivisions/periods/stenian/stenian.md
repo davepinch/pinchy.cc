@@ -7,7 +7,6 @@ next era ↗: Neoproterozoic
 next period ➡: Tonian
 ⬅ previous period: Ectasian
 subdivision of: Mesoproterozoic
-type: geologic period
 tags:
   - geologic period
 ---

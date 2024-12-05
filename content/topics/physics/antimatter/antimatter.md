@@ -1,6 +1,6 @@
 ---
 title: "antimatter"
-type: matter
+opposite of: matter
 tags:
   - physics
 ---

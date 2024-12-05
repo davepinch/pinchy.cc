@@ -7,7 +7,6 @@ subdivisions:
   - Paleoarchean
   - Mesoarchean
   - Neoarchean
-type: geologic-eon
 tags:
   - geologic eon
   - Earth

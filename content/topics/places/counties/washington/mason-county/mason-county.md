@@ -9,7 +9,6 @@ borders:
 county of: Washington
 official website: "https://masoncountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153637"
-type: county
 wikidata: "https://www.wikidata.org/wiki/Q111904"
 tags:
   - county

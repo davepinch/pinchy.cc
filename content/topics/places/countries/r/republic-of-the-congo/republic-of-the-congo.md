@@ -11,7 +11,6 @@ borders:
 country of: Africa
 not to be confused with: Democratic Republic of the Congo
 openstreetmap: "https://www.openstreetmap.org/relation/192794"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q971"
 tags:
   - country

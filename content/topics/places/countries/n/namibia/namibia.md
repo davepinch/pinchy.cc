@@ -9,7 +9,6 @@ borders:
 country of: Africa
 near: Zimbabwe
 openstreetmap: "https://www.openstreetmap.org/relation/195266"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q1030"
 tags:
   - country

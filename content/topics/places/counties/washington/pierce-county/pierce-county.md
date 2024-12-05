@@ -16,7 +16,6 @@ county seat: Tacoma, Washington
 northbound on interstate 5: King County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1153347"
 southbound on interstate 5: Thurston County, Washington
-type: county
 wikidata: "https://www.wikidata.org/wiki/Q156459"
 tags:
   - county

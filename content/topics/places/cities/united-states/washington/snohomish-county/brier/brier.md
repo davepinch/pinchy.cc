@@ -11,7 +11,6 @@ borders:
 city of:
   - Snohomish County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237218"
-type: city
 wikidata: "https://www.wikidata.org/wiki/Q1515537"
 tags:
   - city

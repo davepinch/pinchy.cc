@@ -7,7 +7,6 @@ borders:
   - Gulf of Guinea
 country of: Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192791"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q983"
 tags:
   - country

@@ -1,7 +1,6 @@
 ---
 title: "Turbo Pascal"
 dialect of: Pascal
-type: compiler
 tags:
   - compiler
   - linker

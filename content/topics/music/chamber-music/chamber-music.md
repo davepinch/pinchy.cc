@@ -1,9 +1,8 @@
 ---
 title: "chamber music"
-"Gödel, Escher, Bach":
+gödel, escher, bach:
   - "Introduction: A Musico-Logical Offering"
-type: music
 tags:
-- classical music
-- music
+  - classical music
+  - music
 ---

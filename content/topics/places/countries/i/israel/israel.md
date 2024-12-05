@@ -24,7 +24,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/1473946"
 present-day of:
   - Edom
   - Kingdom of Judah
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q801"
 tags:
   - Israeli

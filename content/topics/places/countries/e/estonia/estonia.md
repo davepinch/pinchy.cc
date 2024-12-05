@@ -7,7 +7,6 @@ clockwise around the baltic sea: Latvia
 country of: Europe
 learn about nordic culture: National Nordic Museum
 openstreetmap: "https://www.openstreetmap.org/relation/79510"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q191"
 tags:
   - Estonian

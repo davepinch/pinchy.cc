@@ -1,7 +1,6 @@
 ---
 title: "New Canada Township"
 former township of: Ramsey County, Minnesota
-type: township
 tags:
   - township
 ---

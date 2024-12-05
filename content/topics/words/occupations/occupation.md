@@ -1,5 +1,4 @@
 ---
 title: "occupation"
-"SCAN FOR OPPORTUNITIES": explorer
-type: noun
+SCAN FOR OPPORTUNITIES: explorer
 ---

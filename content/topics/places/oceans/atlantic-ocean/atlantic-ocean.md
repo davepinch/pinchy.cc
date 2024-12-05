@@ -72,7 +72,6 @@ parts:
   - Río de la Plata
   - Strait of Gibraltar
   - incomplete list
-type: ocean
 tags:
   - ocean
 ---

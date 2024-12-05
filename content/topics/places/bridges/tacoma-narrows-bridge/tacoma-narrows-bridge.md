@@ -5,7 +5,6 @@ bridge of:
   - Kitsap Peninsula
   - Tacoma, Washington
 near: Titlow Park
-type: bridge
 tags:
   - bridge
 ---

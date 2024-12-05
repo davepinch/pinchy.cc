@@ -14,7 +14,6 @@ country of:
   - West Asia
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/307763"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q878"
 tags:
   - country

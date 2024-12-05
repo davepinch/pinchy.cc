@@ -1,7 +1,6 @@
 ---
 title: "The Mysterious Stranger"
 novel of: Mark Twain
-type: novel
 tags:
   - book
   - Satan

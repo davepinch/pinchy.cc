@@ -11,7 +11,6 @@ subdivisions:
   - Devonian
   - Carboniferous
   - Permian
-type: geologic-era
 tags:
   - geologic era
 ---

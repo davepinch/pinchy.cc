@@ -9,7 +9,6 @@ borders:
 country of: North America
 down the pacific coast: Mexico
 openstreetmap: "https://www.openstreetmap.org/relation/148838"
-type: country
 up the pacific coast:
   - Canada
   - British Columbia

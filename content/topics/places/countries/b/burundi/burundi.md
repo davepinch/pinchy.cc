@@ -8,7 +8,6 @@ borders:
 clockwise around lake tanganyika: Tanzania
 country of: Africa
 openstreetmap: "https://www.openstreetmap.org/relation/195269"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q967"
 tags:
   - landlocked

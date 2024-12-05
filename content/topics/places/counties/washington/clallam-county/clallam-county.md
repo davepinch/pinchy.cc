@@ -8,7 +8,6 @@ borders:
 county of: Washington
 county seat: Port Angeles, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1153923"
-type: county
 westernmost county of:
   - Washington
   - contiguous United States

@@ -1,4 +1,3 @@
 ---
 title: "sidewalk"
-type: noun
 ---

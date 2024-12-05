@@ -8,7 +8,6 @@ subdivisions:
   - Tonian
   - Cryogenian
   - Ediacaran
-type: geologic-era
 tags:
   - geologic era
 ---

@@ -16,7 +16,6 @@ land borders:
 maritime borders:
   - Italy
 openstreetmap: "https://www.openstreetmap.org/relation/214885"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q224"
 tags:
   - country

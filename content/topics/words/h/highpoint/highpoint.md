@@ -1,4 +1,3 @@
 ---
 title: "highpoint"
-type: noun
 ---

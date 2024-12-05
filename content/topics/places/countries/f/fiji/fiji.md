@@ -7,7 +7,6 @@ country of:
   - Pacific Ocean
 near: Balmoral Reef Plate
 openstreetmap: "https://www.openstreetmap.org/relation/571747"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q712"
 tags:
   - archipelagic state

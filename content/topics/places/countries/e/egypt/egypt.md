@@ -17,7 +17,6 @@ country of:
   - Africa
   - Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/1473947"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q79"
 tags:
   - country

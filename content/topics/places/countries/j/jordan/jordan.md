@@ -18,7 +18,6 @@ present-day of:
   - Ammon
   - Edom
   - Moab
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q810"
 tags:
   - Jordanian

@@ -22,7 +22,6 @@ roadways:
   - Washington State Route 9
   - Washington State Route 20
 southbound on interstate 5: Snohomish County, Washington
-type: county
 wikidata: "https://www.wikidata.org/wiki/Q113892"
 tags:
   - county

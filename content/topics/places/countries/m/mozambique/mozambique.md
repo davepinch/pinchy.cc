@@ -12,7 +12,6 @@ country of:
   - Africa
   - Indian Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/195273"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q1029"
 tags:
   - country

@@ -14,7 +14,6 @@ country of:
   - Central Europe
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/49715"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q36"
 tags:
   - Polish

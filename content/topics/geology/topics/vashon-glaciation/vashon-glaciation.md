@@ -1,7 +1,6 @@
 ---
 title: "Vashon Glaciation"
-strike a path to jasper: "Vashon Glaciation (Wikipedia)"
-type: climate-period
+strike a path to jasper: Vashon Glaciation (Wikipedia)
 tags:
   - geology
   - Salish Sea

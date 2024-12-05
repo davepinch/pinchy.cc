@@ -15,7 +15,6 @@ country of:
   - East Asia
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/270056"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q148"
 tags:
   - Chinese

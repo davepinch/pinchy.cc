@@ -7,7 +7,6 @@ next epoch ➡: Late Cretaceous
 ⬅ previous epoch: Late Jurassic
 ↖ previous period: Jurassic
 subdivision of: Cretaceous
-type: geological-epoch
 tags:
   - geological epoch
 ---

@@ -1,4 +1,3 @@
 ---
 title: "bravery"
-type: noun
 ---

@@ -1,6 +1,5 @@
 ---
 title: "bird-of-paradise"
-type: bird
 tags:
   - bird
 ---

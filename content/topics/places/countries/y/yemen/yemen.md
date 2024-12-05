@@ -18,7 +18,6 @@ country of:
   - Asia
   - Indian Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/305092"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q805"
 tags:
   - country

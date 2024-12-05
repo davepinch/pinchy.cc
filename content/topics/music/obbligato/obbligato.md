@@ -1,8 +1,6 @@
 ---
 title: "obbligato"
-"Gödel, Escher, Bach":
-  - "Introduction: A Musico-Logical Offering"
-type: music-term
+gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 tags:
 - music
 ---

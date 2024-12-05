@@ -8,7 +8,6 @@ subdivisions:
   - Paleocene
   - Eocene
   - Oligocene
-type: geologic-period
 tags:
   - geologic period
 ---

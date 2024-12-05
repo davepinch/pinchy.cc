@@ -1,4 +1,5 @@
 ---
 title: "illegal number"
-type: number
+tags:
+  - number
 ---

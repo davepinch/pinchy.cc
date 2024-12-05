@@ -1,4 +1,3 @@
 ---
 title: "road"
-type: noun
 ---

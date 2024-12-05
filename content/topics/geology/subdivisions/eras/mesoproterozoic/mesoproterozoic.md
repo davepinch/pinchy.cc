@@ -7,7 +7,6 @@ subdivisions:
   - Calymmian
   - Ectasian
   - Stenian
-type: geologic-era
 tags:
   - geologic era
 ---

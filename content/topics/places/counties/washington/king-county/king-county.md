@@ -14,7 +14,6 @@ namesake of: Martin Luther King Jr.
 northbound on interstate 5: Snohomish County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1153346"
 southbound on interstate 5: Pierce County, Washington
-type: county
 westbound on interstate 90: Seattle
 wikidata: "https://www.wikidata.org/wiki/Q108861"
 tags:

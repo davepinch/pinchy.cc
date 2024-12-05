@@ -14,7 +14,6 @@ country of:
   - Central Asia
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/214665"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q232"
 tags:
   - landlocked

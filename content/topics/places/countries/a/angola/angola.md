@@ -8,7 +8,6 @@ borders:
   - Zambia
 country of: Africa
 openstreetmap: "https://www.openstreetmap.org/relation/195267"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q916"
 tags:
   - country

@@ -1,4 +1,3 @@
 ---
 title: "justice"
-type: noun
 ---

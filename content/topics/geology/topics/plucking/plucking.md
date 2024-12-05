@@ -1,8 +1,7 @@
 ---
 title: "plucking"
-"Strike a path to Jasper": "Plucking (Wikipedia)"
-type: glacial-phenomenon
+strike a path to jasper: Plucking (Wikipedia)
 tags:
-- glacial
-- geology
+  - glacial
+  - geology
 ---

@@ -1,4 +1,3 @@
 ---
 title: "task"
-type: noun
 ---

@@ -8,7 +8,6 @@ borders:
   - Coon Rapids, Minnesota
 city of: Hennepin County, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136688"
-type: city
 wikidata: "https://www.wikidata.org/wiki/Q987126"
 tags:
   - city

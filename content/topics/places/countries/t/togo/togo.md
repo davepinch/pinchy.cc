@@ -8,7 +8,6 @@ borders:
   - incomplete list
 country of: Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192782"
-type: country
 wikidata: "https://www.wikidata.org/wiki/Q945"
 tags:
   - country

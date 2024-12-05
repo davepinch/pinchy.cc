@@ -8,7 +8,6 @@ subdivisions:
   - Lutetian
   - Bartonian
   - Priabonian
-type: geologic-epoch
 tags:
   - geologic epoch
 ---

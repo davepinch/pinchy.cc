@@ -1,8 +1,8 @@
 ---
 title: "flutist"
-type: occupation
+occupation of:
+  - flute
+  - music
 tags:
-- flute
-- occupation
-- music
+  - occupation
 ---

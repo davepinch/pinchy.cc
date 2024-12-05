@@ -1,4 +1,3 @@
 ---
 title: "curiosity"
-type: noun
 ---
