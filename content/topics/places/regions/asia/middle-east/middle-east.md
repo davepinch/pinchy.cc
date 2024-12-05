@@ -1,7 +1,7 @@
 ---
 title: "Middle East"
 region of: Asia
-type: region
+wikidata: "https://www.wikidata.org/wiki/Q7204"
 tags:
   - region
 ---

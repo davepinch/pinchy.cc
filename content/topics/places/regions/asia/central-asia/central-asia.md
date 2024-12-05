@@ -1,7 +1,7 @@
 ---
 title: "Central Asia"
 region of: Asia
-type: region
+wikidata: "https://www.wikidata.org/wiki/Q27275"
 tags:
   - region
 ---

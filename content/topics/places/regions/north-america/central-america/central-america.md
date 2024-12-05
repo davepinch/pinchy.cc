@@ -6,7 +6,7 @@ borders:
   - Mexico
   - Pacific Ocean
 region of: North America
-type: region
+wikidata: "https://www.wikidata.org/wiki/Q27611"
 tags:
   - region
 ---
