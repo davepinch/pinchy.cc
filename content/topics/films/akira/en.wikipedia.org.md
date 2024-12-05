@@ -8,6 +8,7 @@ film of:
   - Anime (Wikipedia)
 next in dystopia: Total Recall (1990 film) (Wikipedia)
 released: 1988-07-16
+retrieved: 2024-12-04
 type: website
 url: /en.wikipedia.org/wiki/Akira_(1988_film)/
 website: "https://en.wikipedia.org/wiki/Akira_(1988_film)"
