@@ -1,7 +1,7 @@
 ---
 title: "Southeastern United States"
 region of: United States
-type: region
+wikidata: "https://www.wikidata.org/wiki/Q1139046"
 tags:
   - region
 ---
