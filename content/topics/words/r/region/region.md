@@ -5,6 +5,9 @@ see also:
   - country
   - neighborhood
   - state
+tag requires property:
+  - Wikidata
+  - Wikipedia
 tags:
   - geography
 ---
