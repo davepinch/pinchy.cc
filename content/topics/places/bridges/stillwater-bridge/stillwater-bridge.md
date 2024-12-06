@@ -5,7 +5,7 @@ bridge of:
   - Stillwater, Minnesota
   - Houlton, Wisconsin
   - Minnesota
-  - Wiconsin
+  - Wisconsin
 tags:
   - bridge
 ---
