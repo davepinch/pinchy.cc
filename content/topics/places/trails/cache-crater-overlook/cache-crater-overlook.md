@@ -3,7 +3,7 @@ title: "Cache Crater Overlook"
 near: Odessa Craters Trail
 trail of:
   - Lincoln County, Washington
-  - Channelled Scablands
+  - Channeled Scablands
 tags:
   - trail
 ---
