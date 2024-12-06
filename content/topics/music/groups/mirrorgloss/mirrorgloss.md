@@ -1,6 +1,6 @@
 ---
 title: "Mirrorgloss"
-band of: Tacoma
+band of: Tacoma, Washington
 tags:
   - band
 ---
