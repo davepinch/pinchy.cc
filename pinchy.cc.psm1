@@ -1,5 +1,5 @@
 
-function Import-CommonsFlag {
+function Import-CommonsPicture {
 
     param (
         [string]$url
@@ -29,19 +29,12 @@ function Import-CommonsFlag {
     # title: "..." (must be enclosed in quotes)
     #
     # The title on Wikimedia Commons has the following format:
-    # "File:Flag of Australia.svg - Wikimedia Commons"
+    # "File:filename.svg - Wikimedia Commons"
     # Extract the text between File: and - Wikimedia Commons
     $title = $content.ParsedHtml.querySelector("title").innerText
     $title = $title -replace "^File:", ""
     $title = $title -replace " - Wikimedia Commons$", ""
     $lines += "title: `"$title`""
-
-    #
-    # flag of: country
-    #
-    $country = $title -replace "^Flag of ", ""
-    $country = $country -replace "\.svg$", ""
-    $lines += "flag of: $country"
 
     #
     # type: picture
@@ -64,7 +57,6 @@ function Import-CommonsFlag {
     #   - flag
     #   - Wikimedia Commons
     $lines += "tags:"
-    $lines += "  - flag"
     $lines += "  - Wikimedia Commons"
 
     #
@@ -155,5 +147,5 @@ function Import-Wikipedia {
     $lines | Out-File -FilePath $outputPath -Encoding utf8
 }
 
-Export-ModuleMember -Function Import-CommonsFlag
+Export-ModuleMember -Function Import-CommonsPicture
 Export-ModuleMember -Function Import-Wikipedia
