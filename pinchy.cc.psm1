@@ -105,6 +105,11 @@ function Import-Wikipedia {
     $lines += "title: `"$title (Wikipedia)`""    
 
     #
+    # license: CC BY-SA 4.0
+    #
+    $lines += "license: CC BY-SA 4.0"
+    
+    #
     # retrieved: yyyy-MM-dd
     #
     $lines += "retrieved: " + (Get-Date -format "yyyy-MM-dd")
