@@ -1,6 +1,7 @@
 ---
 title: "supergiant"
+subclass of: star
 wikidata: "https://www.wikidata.org/wiki/Q193599"
 tags:
-  - star
+  - type of star
 ---
