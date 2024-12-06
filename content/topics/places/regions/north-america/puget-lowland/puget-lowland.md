@@ -6,6 +6,6 @@ between:
 region of: Washington
 tags:
   - region
-  - no Wikidata element
+  - no Wikidata record
   - no Wikipedia article
 ---
