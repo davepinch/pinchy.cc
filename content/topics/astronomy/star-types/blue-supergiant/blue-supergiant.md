@@ -1,6 +1,7 @@
 ---
 title: "blue supergiant"
+subclass of: supergiant
 wikidata: "https://www.wikidata.org/wiki/Q1048372"
 tags:
-  - supergiant
+  - type of star
 ---
