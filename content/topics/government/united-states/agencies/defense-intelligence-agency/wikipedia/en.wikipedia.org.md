@@ -2,6 +2,7 @@
 title: "Defense Intelligence Agency (Wikipedia)"
 excerpt: >-
   The **Defense Intelligence Agency** (**DIA**) is an intelligence agency and combat support agency of the United States Department of Defense, specializing in defense and military intelligence.
+member of: United States Intelligence Community (Wikipedia)
 retrieved: 2024-12-05
 type: website
 url: /en.wikipedia.org/wiki/Defense_Intelligence_Agency/
