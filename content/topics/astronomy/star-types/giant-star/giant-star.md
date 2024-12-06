@@ -3,5 +3,5 @@ title: "giant star"
 related: Hertzsprung–Russell diagram
 wikidata: "https://www.wikidata.org/wiki/Q5875"
 tags:
-  - star
+  - type of star
 ---
