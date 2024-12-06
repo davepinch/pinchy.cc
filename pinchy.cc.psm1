@@ -33,7 +33,7 @@ function Import-CommonsPicture {
     # Extract the text between File: and - Wikimedia Commons
     $title = $content.ParsedHtml.querySelector("title").innerText
     $title = $title -replace "^File:", ""
-    $title = $title -replace " - Wikimedia Commons$", ""
+    $title = $title -replace " - Wikimedia Commons$", " (Wikimedia Commons)"
     $lines += "title: `"$title`""
 
     #
