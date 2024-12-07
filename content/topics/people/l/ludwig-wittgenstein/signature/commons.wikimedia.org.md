@@ -7,7 +7,7 @@ signature of:
   - Ludwig Wittgenstein
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/File:Ludwig_Wittgenstein_signature.svg/
+url: /commons.wikimedia.org/wiki/Ludwig_Wittgenstein_signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ludwig_Wittgenstein_signature.svg"
 tags:
   - Wikimedia Commons
