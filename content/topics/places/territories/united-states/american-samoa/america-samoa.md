@@ -1,6 +1,9 @@
 ---
 title: "American Samoa"
-territory of: United States
+territory of:
+  - Polynesia
+  - United States
+  - Pacific Ocean
 tags:
   - territory
 ---
