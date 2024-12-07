@@ -1,7 +1,7 @@
 ﻿---
 title: "Claim denial rates by insurance company.webp (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:Wikideas1"
-claim denial rates of: United Healthcare
+claim denial rates of: UnitedHealthcare
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Claim_denial_rates_by_insurance_company.webp"
 type: picture
