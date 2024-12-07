@@ -2,13 +2,16 @@
 title: "Enneadecagon (Wikipedia)"
 ➕ side: Icosagon (Wikipedia)
 ➖ side: Octadecagon (Wikipedia)
+excerpt: >-
+  A polygon with nineteen sides and nineteen angles.
 note: >-
-  No Wikipedia article exists for the 19-gon. Why not create it? The values shown on this page are predicated based on the pattern of other n-gon articles. The name of the article should be Enneadecagon based on the list of polygons at https://en.wikipedia.org/wiki/Polygon. 
+  The Wikipedia URL redirects to the Polygon article, which does not have an excerpt or much information. The except here is from the Wiktionary page.
 related: Regular_polygon_19_annotated.svg (Wikimedia Commons)
 type: website
 url: /en.wikipedia.org/wiki/Enneadecagon/
 website: "https://en.wikipedia.org/wiki/Enneadecagon"
 wikipedia of: enneadecagon
+wiktionary: "https://en.wiktionary.org/wiki/enneadecagon"
 tags:
   - Polygon (Wikipedia)
   - Wikipedia
