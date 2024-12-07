@@ -5,7 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, December 6). Killing of Brian Thompson. In *Wikipedia, The Free Encyclopedia*. Retrieved 22:12, December 6, 2024, from https://en.wikipedia.org/w/index.php?title=Killing_of_Brian_Thompson&oldid=1261588196
 death of: Brian Thompson
 died in: New York City
-snippet of:
+snippet of: Killing of Brian Thompson (Wikipedia)
 timeline of: Killing of Brian Thompson
 type: snippet
 url: /en.wikipedia.org/wiki/Killing_of_Brian_Thompson/killing-1-2/
