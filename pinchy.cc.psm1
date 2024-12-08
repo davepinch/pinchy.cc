@@ -45,7 +45,7 @@ function Import-CommonsPicture {
     # url: /path/to/file - but remove the File: namespace in the path
     #
     $localUrl = "/" + ($url -replace "https://", "") + "/"
-    $localUrl = $localUrl -replace "^/wiki/File:", "/wiki/"
+    $localUrl = $localUrl -replace "/wiki/File:", "/wiki/"
     $lines += "url: $localUrl"
 
     #
