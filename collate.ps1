@@ -985,15 +985,34 @@ function Assert-Property($page, $property, $message) {
 
 function Assert-Tag($page, $tag, $message) {
 
-    if ($null -eq $page["tags"]) {
-        Debug-Page $page $message
+    if ($page["tags"] -contains $tag) {
         return
     }
 
-    if ($page["tags"] -notcontains $tag) {
-        Debug-Page $page $message
-        return
+    #
+    # The tag doesn't exist. Before writing a warning, see if the
+    # tag definition has a "non-existance tag", which is a special tag
+    # that can override the requirement. For example, if a Wikipedia
+    # tag is required, the non-existance tag of "no Wikipedia article"
+    # can be used to suppress the warning.
+    #
+    $tagIndex = $script:lookup[$tag]
+    if ($null -ne $tagIndex) {
+
+        $tagPage = $script:pages[$tagIndex]
+        $nonExistenceTag = $tagPage["non-existence tag"]
+        
+        #
+        # See if the non-existance tag is used...
+        #
+        if ($null -ne $nonExistenceTag) {
+            if ($page["tags"] -contains $nonExistenceTag) {
+                return
+            }
+        }
     }
+
+    Debug-Page $page $message
 }
 
 # ========================================================================
