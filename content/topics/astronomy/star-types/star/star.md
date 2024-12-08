@@ -1,14 +1,14 @@
 ---
 title: "star"
-nearest to earth: Sun
 related:
   - constellation
   - asterism
   - universe
+star nearest to earth: Sun
 tag requires property:
   - star of
-#  - Wikidata
-#  - Wikipedia
+  - Wikidata
+  - Wikipedia
 tags:
   - astronomy
 ---
