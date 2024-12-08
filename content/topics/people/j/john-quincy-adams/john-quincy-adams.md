@@ -2,6 +2,7 @@
 title: "John Quincy Adams"
 ⬅️: James Monroe
 ➡️: Andrew Jackson
+member of: Democratic-Republican Party
 president of: United States
 eldest son of: John Adams
 type: person
