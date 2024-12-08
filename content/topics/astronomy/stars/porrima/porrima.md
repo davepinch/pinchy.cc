@@ -1,7 +1,7 @@
 ---
 title: "Porrima"
 star of: Virgo
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q66477101"
 wikipedia: "https://en.wikipedia.org/wiki/Gamma_Virginis"
 tags:
   - star

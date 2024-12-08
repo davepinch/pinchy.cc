@@ -4,7 +4,7 @@ star of:
   - Ursa Major
   - Ursa Major Moving Group
 near: Alcor
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q66477109"
 tags:
   - star
   - double star
