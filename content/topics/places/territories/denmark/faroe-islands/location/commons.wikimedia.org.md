@@ -7,8 +7,9 @@ location of:
   - SVG
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Europe-Faroe_Islands.svg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Europe-Faroe_Islands.svg/
+url: /commons.wikimedia.org/wiki/Europe-Faroe_Islands.svg/
 website: "https://commons.wikimedia.org/wiki/File:Europe-Faroe_Islands.svg"
 tags:
+  - location
   - Wikimedia Commons
 ---
