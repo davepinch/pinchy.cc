@@ -1,7 +1,7 @@
 ---
 title: "Ankaa"
 star of: Phoenix (constellation)
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q14251"
 tags:
   - star
 ---

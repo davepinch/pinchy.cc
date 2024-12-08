@@ -6,7 +6,7 @@ star of:
   - Ursa Major Moving Group
   - Big Dipper
 next in brightness: Alnitak
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q13091"
 tags:
   - star
 ---

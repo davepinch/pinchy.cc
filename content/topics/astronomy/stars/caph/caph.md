@@ -1,7 +1,7 @@
 ---
 title: "Caph"
 star of: Cassiopeia
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q13594"
 tags:
   - giant star
   - star

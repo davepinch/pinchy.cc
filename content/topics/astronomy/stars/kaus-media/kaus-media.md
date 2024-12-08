@@ -4,7 +4,7 @@ partners:
   - Kaus Australis
   - Kaus Borealis
 star of: Sagittarius
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q14038"
 wikipedia: "https://en.wikipedia.org/wiki/Delta_Sagittarii"
 tags:
   - star

@@ -5,7 +5,7 @@ star of:
   - Aquila
   - Summer Triangle
   - G-Cloud
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q12975"
 tags:
   - alpha
   - A-type main-sequence star

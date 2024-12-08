@@ -5,6 +5,7 @@ next in brightness: Miaplacidus
 star of:
   - Orion
   - Orion's Belt
+wikidata: "https://www.wikidata.org/wiki/Q13070"
 tags:
   - blue supergiant
   - star

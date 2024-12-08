@@ -1,7 +1,7 @@
 ---
 title: "Kitalpha"
 star of: Equuleus
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q15711"
 wikipedia: "https://en.wikipedia.org/wiki/Alpha_Equulei"
 tags:
   - star

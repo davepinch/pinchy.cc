@@ -1,7 +1,7 @@
 ---
 title: "Giausar"
 star of: Draco
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q1347243"
 tags:
   - red giant
   - star

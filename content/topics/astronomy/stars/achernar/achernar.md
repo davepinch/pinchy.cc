@@ -1,7 +1,7 @@
 ---
 title: "Achernar"
 star of: Eridanus
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q12183"
 tags:
   - star
 ---

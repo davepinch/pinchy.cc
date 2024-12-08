@@ -1,7 +1,7 @@
 ---
 title: "Arcturus"
 star of: Boötes
-type: star
+wikidata: "https://www.wikidata.org/wiki/Q12985"
 tags:
   - alpha
   - red giant
