@@ -1,6 +1,7 @@
 ﻿---
 title: "Quintana Roo (Wikipedia)"
 clockwise on the Gulf of Mexico: Yucatán (Wikipedia)
+counterclockwise on the Gulf of Mexico: Cuba (Wikipedia)
 excerpt: >-
   **Quintana Roo**, officially the **Free and Sovereign State of Quintana Roo**, is one of the 31 states which, with Mexico City, constitute the 32 federal entities of Mexico. It is divided into 11 municipalities, and its capital city is Chetumal.
 license: CC BY-SA 4.0
