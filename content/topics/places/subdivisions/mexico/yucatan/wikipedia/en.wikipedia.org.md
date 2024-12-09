@@ -8,7 +8,7 @@ license: CC BY-SA 4.0
 retrieved: 2024-12-08
 state of: Mexico (Wikipedia)
 type: website
-url: /en.wikipedia.org/wiki/Yucat%C3%A1n/
+url: /en.wikipedia.org/wiki/Yucatan/
 website: "https://en.wikipedia.org/wiki/Yucat%C3%A1n"
 wikipedia of: Yucatán
 tags:
