@@ -5,6 +5,7 @@ borders:
   - Flag_of_Mississippi.svg (Wikimedia Commons)
   - Flag_of_Texas.svg (Wikimedia Commons)
 clockwise on the Gulf of Mexico: Flag_of_Mississippi.svg (Wikimedia Commons)
+counterclockwise on the Gulf of Mexico: Flag_of_Texas.svg (Wikimedia Commons)
 down the coast: Flag_of_Texas.svg (Wikimedia Commons)
 flag of:
   - Louisiana

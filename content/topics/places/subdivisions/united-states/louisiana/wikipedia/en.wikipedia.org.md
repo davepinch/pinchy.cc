@@ -7,6 +7,7 @@ borders:
   - Mississippi River (Wikipedia)
   - Texas (Wikipedia)
 clockwise on the Gulf of Mexico: Mississippi (Wikipedia)
+counterclockwise on the Gulf of Mexico: Texas (Wikipedia)
 down the coast: Texas (Wikipedia)
 down the mississippi: Gulf of Mexico (Wikipedia)
 excerpt: >-
