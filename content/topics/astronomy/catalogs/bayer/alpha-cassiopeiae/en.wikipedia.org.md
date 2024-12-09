@@ -7,7 +7,7 @@ star of: Cassiopeia (constellation) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Alpha_Cassiopeiae/
 website: "https://en.wikipedia.org/wiki/Alpha_Cassiopeiae"
-wikipedia of: Schedar
+wikipedia of: Alpha Cassiopeiae
 tags:
   - Wikipedia
 ---
