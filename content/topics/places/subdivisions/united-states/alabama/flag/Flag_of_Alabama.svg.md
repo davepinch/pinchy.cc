@@ -6,6 +6,7 @@ borders:
   - Flag_of_Mississippi.svg (Wikimedia Commons)
   - Flag_of_Tennessee.svg (Wikimedia Commons)
 clockwise on the Gulf of Mexico: Flag_of_Florida.svg (Wikimedia Commons)
+counterclockwise on the Gulf of Mexico: Flag_of_Mississippi.svg (Wikimedia Commons)
 flag of:
   - Alabama
   - saltire
