@@ -12,5 +12,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Tamaulipas_in_Mexico_(location_map_scheme).svg/
 website: "https://commons.wikimedia.org/wiki/File:Tamaulipas_in_Mexico_(location_map_scheme).svg"
 tags:
+  - location
   - Wikimedia Commons
 ---
