@@ -1,6 +1,6 @@
 ﻿---
 title: "Yucatán (Wikipedia)"
-clockwise around the Gulf of Mexico: Campeche (Wikipedia)
+clockwise on the Gulf of Mexico: Campeche (Wikipedia)
 excerpt: >-
   **Yucatán**, officially the **Free and Sovereign State of Yucatán**, is one of the 31 states which, along with Mexico City, constitute the 32 federal entities of Mexico. It comprises 106 separate municipalities, and its capital city is Mérida.
 license: CC BY-SA 4.0
