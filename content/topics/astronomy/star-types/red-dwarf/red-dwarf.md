@@ -1,6 +1,8 @@
 ---
 title: "red dwarf"
-subclass of: dwarf star
+subclass of:
+  - M-type star
+  - dwarf star
 wikidata: "https://www.wikidata.org/wiki/Q5893"
 tags:
   - star
