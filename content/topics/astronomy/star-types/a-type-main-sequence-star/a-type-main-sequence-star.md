@@ -6,5 +6,5 @@ subclass of:
   - dwarf star
 wikidata: "https://www.wikidata.org/wiki/Q471805"
 tags:
-  - star
+  - type of star
 ---
