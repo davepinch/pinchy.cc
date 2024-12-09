@@ -1,6 +1,8 @@
 ---
 title: "Katie Britt"
-born in: Enterprise, Alabama
+born in:
+  - Enterprise, Alabama
+  - Alabama
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q111285444"
 𝕏: https://x.com/SenKatieBritt
