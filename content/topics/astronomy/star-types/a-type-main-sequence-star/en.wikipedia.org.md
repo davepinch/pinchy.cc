@@ -5,6 +5,7 @@ excerpt: >-
 retrieved: 2024-07-01
 subclass of:
   - A-type star (Wikipedia)
+  - Main sequence (Wikipedia)
   - Dwarf star (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/A-type_main-sequence_star/
