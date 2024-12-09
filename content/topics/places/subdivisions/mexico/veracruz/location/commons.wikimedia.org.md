@@ -1,6 +1,7 @@
 ﻿---
 title: "Veracruz in Mexico (location map scheme).svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:TUBS"
+clockwise on the Gulf of Mexico: Tamaulipas in Mexico (location map scheme).svg (Wikimedia Commons)
 license: CC BY-SA 3.0
 location of:
   - Veracruz
