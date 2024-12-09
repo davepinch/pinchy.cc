@@ -3,7 +3,7 @@ title: "Flag of Nauru.svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:Skimel"
 flag of:
   - Nauru
-  - twelve-pointed star
+  - dodecagram
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/30/Flag_of_Nauru.svg"
