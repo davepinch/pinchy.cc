@@ -6,6 +6,7 @@ borders:
   - Gulf of Mexico
   - Mississippi
   - Tennessee
+clockwise on the Gulf of Mexico: Florida
 down the coast:
   - Mississippi
   - Florida
