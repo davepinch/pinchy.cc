@@ -8,7 +8,6 @@ borders:
   - Texas
 clockwise on the Gulf of Mexico: Mississippi
 counterclockwise on the Gulf of Mexico: Texas
-down the coast: Texas
 down the mississippi: Gulf of Mexico
 state of:
   - Southeastern United States
