@@ -12,5 +12,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Veracruz_in_Mexico_(location_map_scheme).svg/
 website: "https://commons.wikimedia.org/wiki/File:Veracruz_in_Mexico_(location_map_scheme).svg"
 tags:
+  - location
   - Wikimedia Commons
 ---

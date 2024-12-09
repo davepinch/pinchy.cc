@@ -12,5 +12,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Mississippi_in_United_States.svg/
 website: "https://commons.wikimedia.org/wiki/File:Mississippi_in_United_States.svg"
 tags:
+  - location
   - Wikimedia Commons
 ---

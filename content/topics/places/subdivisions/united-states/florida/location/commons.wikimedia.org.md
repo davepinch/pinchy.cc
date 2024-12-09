@@ -11,5 +11,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Florida_in_United_States.svg/
 website: "https://commons.wikimedia.org/wiki/File:Florida_in_United_States.svg"
 tags:
+  - location
   - Wikimedia Commons
 ---

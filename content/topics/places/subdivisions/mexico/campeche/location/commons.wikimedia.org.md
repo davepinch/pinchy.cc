@@ -12,5 +12,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Campeche_in_Mexico.svg/
 website: "https://commons.wikimedia.org/wiki/File:Campeche_in_Mexico.svg"
 tags:
+  - location
   - Wikimedia Commons
 ---
