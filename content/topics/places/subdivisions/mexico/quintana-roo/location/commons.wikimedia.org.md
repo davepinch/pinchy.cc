@@ -2,6 +2,7 @@
 title: "Quintana Roo in Mexico (location map scheme).svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:TUBS"
 clockwise on the Gulf of Mexico: Yucatan in Mexico (location map scheme).svg (Wikimedia Commons)
+counterclockwise on the Gulf of Mexico: CUB orthographic.svg (Wikimedia Commons)
 license: CC BY-SA 3.0
 location of:
   - Quintana Roo
