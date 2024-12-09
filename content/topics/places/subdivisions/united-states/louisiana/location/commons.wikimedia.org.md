@@ -1,6 +1,8 @@
 ﻿---
 title: "Louisiana in United States.svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:TUBS"
+clockwise on the Gulf of Mexico: Mississippi in United States.svg (Wikimedia Commons)
+counterclockwise on the Gulf of Mexico: Texas in United States.svg (Wikimedia Commons)
 license: CC BY-SA 3.0
 location of:
   - Louisiana
