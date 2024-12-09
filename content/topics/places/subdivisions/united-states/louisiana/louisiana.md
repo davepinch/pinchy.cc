@@ -6,6 +6,7 @@ borders:
   - Mississippi
   - Mississippi River
   - Texas
+clockwise on the Gulf of Mexico: Mississippi
 down the coast: Texas
 down the mississippi: Gulf of Mexico
 state of:
