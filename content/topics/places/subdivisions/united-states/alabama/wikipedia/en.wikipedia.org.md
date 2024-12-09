@@ -7,6 +7,7 @@ borders:
   - Mississippi (Wikipedia)
   - Tennessee (Wikipedia)
 clockwise on the Gulf of Mexico: Florida (Wikipedia)
+counterclockwise on the Gulf of Mexico: Mississippi (Wikipedia)
 down the coast:
   - Mississippi (Wikipedia)
   - Florida (Wikipedia)
