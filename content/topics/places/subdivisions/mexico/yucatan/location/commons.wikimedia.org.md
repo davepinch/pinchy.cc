@@ -2,6 +2,7 @@
 title: "Yucatan in Mexico (location map scheme).svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:TUBS"
 clockwise on the Gulf of Mexico: Campeche in Mexico.svg (Wikimedia Commons)
+counterclockwise on the Gulf of Mexico: Quintana Roo in Mexico (location map scheme).svg (Wikimedia Commons)
 location of:
   - Yucatán
   - SVG
