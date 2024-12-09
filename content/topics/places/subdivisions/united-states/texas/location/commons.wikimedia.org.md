@@ -1,6 +1,7 @@
 ﻿---
 title: "Texas in United States.svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:TUBS"
+clockwise on the Gulf of Mexico: Louisiana in United States.svg (Wikimedia Commons)
 counterclockwise on the Gulf of Mexico: Tamaulipas in Mexico (location map scheme).svg (Wikimedia Commons)
 license: CC BY-SA 3.0
 location of:
