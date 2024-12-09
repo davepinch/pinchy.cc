@@ -2,6 +2,7 @@
 title: "Tabasco in Mexico (location map scheme).svg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:TUBS"
 clockwise on the Gulf of Mexico: Veracruz in Mexico (location map scheme).svg (Wikimedia Commons)
+counterclockwise on the Gulf of Mexico: Campeche in Mexico.svg (Wikimedia Commons)
 license: CC BY-SA 3.0
 location of:
   - Tabasco
