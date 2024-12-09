@@ -9,5 +9,5 @@ url: /en.wikipedia.org/wiki/G-type_star/
 website: "https://en.wikipedia.org/wiki/G-type_star"
 wikipedia of: G-type star
 tags:
-  - type of star
+  - Wikipedia
 ---
