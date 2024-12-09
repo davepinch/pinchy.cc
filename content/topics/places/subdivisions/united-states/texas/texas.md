@@ -7,6 +7,7 @@ borders:
   - Mexico
   - New Mexico
   - Oklahoma
+clockwise on the Gulf of Mexico: Louisiana
 down the coast:
   - Tamaulipas
   - Mexico

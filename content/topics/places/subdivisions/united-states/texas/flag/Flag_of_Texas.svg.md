@@ -6,6 +6,7 @@ borders:
   - Flag_of_Mexico.svg (Wikimedia Commons)
   - Flag_of_New_Mexico.svg (Wikimedia Commons)
   - Flag_of_Oklahoma.svg (Wikimedia Commons)
+clockwise on the Gulf of Mexico: Flag_of_Louisiana.svg (Wikimedia Commons)
 down the coast:
   - missing Tamaulipas flag
   - Flag_of_Mexico.svg (Wikimedia Commons)
