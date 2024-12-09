@@ -12,7 +12,6 @@ state of: Mexico
 up the pacific coast:
   - California
   - United States
-type: state
 tags:
-  - state
+  - state in Mexico
 ---

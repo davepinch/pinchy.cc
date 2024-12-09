@@ -8,7 +8,6 @@ borders:
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/1673426"
 state of: Mexico
-type: state
 tags:
-  - state
+  - state in Mexico
 ---
