@@ -8,6 +8,7 @@ borders:
   - New Mexico (Wikipedia)
   - Oklahoma (Wikipedia)
 clockwise on the Gulf of Mexico: Louisiana (Wikipedia)
+counterclockwise on the Gulf of Mexico: Tamaulipas (Wikipedia)
 down the coast:
   - Tamaulipas (Wikipedia)
   - Mexico (Wikipedia)
