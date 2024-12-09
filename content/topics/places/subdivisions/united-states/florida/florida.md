@@ -5,7 +5,7 @@ borders:
   - Atlantic Ocean
   - Georgia
   - Gulf of Mexico
-counterclockwise on the gulf: Alabama
+counterclockwise on the Gulf of Mexico: Alabama
 state:
   - Southeastern United States
   - United States

@@ -3,7 +3,7 @@ title: "Flag_of_Florida.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Alabama.svg (Wikimedia Commons)
   - Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
-counterclockwise on the gulf: Flag_of_Alabama.svg (Wikimedia Commons)
+counterclockwise on the Gulf of Mexico: Flag_of_Alabama.svg (Wikimedia Commons)
 flag of:
   - Florida
   - saltire
