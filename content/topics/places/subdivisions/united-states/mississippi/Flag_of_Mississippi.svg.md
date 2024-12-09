@@ -5,6 +5,8 @@ borders:
   - Flag_of_Arkansas.svg (Wikimedia Commons)
   - Flag_of_Louisiana.svg (Wikimedia Commons)
   - Flag_of_Tennessee.svg (Wikimedia Commons)
+clockwise on the Gulf of Mexico: Flag_of_Alabama.svg (Wikimedia Commons)
+counterclockwise on the Gulf of Mexico: Flag_of_Louisiana.svg (Wikimedia Commons)
 flag of:
   - Mississippi
   - five-pointed star

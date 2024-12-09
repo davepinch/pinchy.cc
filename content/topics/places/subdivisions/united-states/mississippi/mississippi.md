@@ -7,7 +7,8 @@ borders:
   - Louisiana
   - Mississippi River
   - Tennessee
-down the coast: Louisiana
+clockwise on the Gulf of Mexico: Alabama
+counterclockwise on the Gulf of Mexico: Louisiana
 down the mississippi: Louisiana
 not to be confused with: Mississippi River
 state of:
