@@ -6,6 +6,7 @@ vicinity of: Snoqualmie Pass
 waterfall of:
   - Snoqualmie River
   - Washington
+wikidata: "https://www.wikidata.org/wiki/Q37421"
 tags:
   - waterfall
 ---
