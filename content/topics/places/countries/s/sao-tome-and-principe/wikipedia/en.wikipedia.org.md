@@ -1,6 +1,7 @@
 ---
 title: "São Tomé and Príncipe (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Gulf of Guinea (Wikipedia)
   - Atlantic Ocean (Wikipedia)
@@ -13,6 +14,7 @@ url: /en.wikipedia.org/wiki/São_Tomé_and_Príncipe/
 website: "https://en.wikipedia.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe"
 wikipedia of: São Tomé and Príncipe
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

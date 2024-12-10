@@ -1,6 +1,7 @@
 ---
 title: "Saint Vincent and the Grenadines (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Caribbean (Wikipedia)
   - Caribbean Sea (Wikipedia)
@@ -14,6 +15,7 @@ url: /en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines/
 website: "https://en.wikipedia.org/wiki/Saint_Vincent_and_the_Grenadines"
 wikipedia of: Saint Vincent and the Grenadines
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

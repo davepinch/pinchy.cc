@@ -1,6 +1,7 @@
 ---
 title: "Jamaica (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Caribbean (Wikipedia)
   - Caribbean Sea (Wikipedia)
@@ -13,6 +14,7 @@ url: /en.wikipedia.org/wiki/Jamaica/
 website: "https://en.wikipedia.org/wiki/Jamaica"
 wikipedia of: Jamaica
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

@@ -1,6 +1,7 @@
 ---
 title: "Solomon Islands (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Oceania (Wikipedia)
   - Pacific Ocean (Wikipedia)
@@ -12,6 +13,7 @@ url: /en.wikipedia.org/wiki/Solomon_Islands/
 website: "https://en.wikipedia.org/wiki/Solomon_Islands"
 wikipedia of: Solomon Islands
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

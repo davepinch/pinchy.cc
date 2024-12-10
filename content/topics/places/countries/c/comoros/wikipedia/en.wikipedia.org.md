@@ -1,6 +1,7 @@
 ---
 title: "Comoros (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Africa (Wikipedia)
   - Indian Ocean (Wikipedia)
@@ -12,6 +13,7 @@ url: /en.wikipedia.org/wiki/Comoros/
 website: "https://en.wikipedia.org/wiki/Comoros"
 wikipedia of: Comoros
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

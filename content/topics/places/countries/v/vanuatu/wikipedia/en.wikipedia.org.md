@@ -1,6 +1,7 @@
 ---
 title: "Vanuatu (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Pacific Ocean (Wikipedia)
 excerpt: >-
@@ -11,6 +12,7 @@ url: /en.wikipedia.org/wiki/Vanuatu/
 website: "https://en.wikipedia.org/wiki/Vanuatu"
 wikipedia of: Vanuatu
 tags:
+  - Archipelagic state (Wikipedia)
   - Island Country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

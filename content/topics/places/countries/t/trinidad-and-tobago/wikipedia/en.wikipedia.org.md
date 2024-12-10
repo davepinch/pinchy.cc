@@ -4,6 +4,7 @@ borders:
   - Venezuela (Wikipedia)
   - incomplete list
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Caribbean (Wikipedia)
 excerpt: >-
@@ -14,6 +15,7 @@ url: /en.wikipedia.org/wiki/Trinidad_and_Tobago/
 website: "https://en.wikipedia.org/wiki/Trinidad_and_Tobago"
 wikipedia of: Trinidad and Tobago
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

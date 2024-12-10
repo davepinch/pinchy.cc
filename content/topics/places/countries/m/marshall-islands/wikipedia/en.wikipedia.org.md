@@ -1,6 +1,7 @@
 ---
 title: "Marshall Islands (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Pacific Ocean (Wikipedia)
 excerpt: >-
@@ -11,6 +12,7 @@ url: /en.wikipedia.org/wiki/Marshall_Islands/
 website: "https://en.wikipedia.org/wiki/Marshall_Islands"
 wikipedia of: Marshall Islands
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

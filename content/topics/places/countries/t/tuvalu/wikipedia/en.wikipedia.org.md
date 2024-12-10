@@ -1,6 +1,7 @@
 ---
 title: "Tuvalu (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Oceania (Wikipedia)
   - Pacific Ocean (Wikipedia)
@@ -12,6 +13,7 @@ url: /en.wikipedia.org/wiki/Tuvalu/
 website: "https://en.wikipedia.org/wiki/Tuvalu"
 wikipedia of: Tuvalu
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

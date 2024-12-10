@@ -1,6 +1,7 @@
 ---
 title: "Mauritius (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Indian Ocean (Wikipedia)
 excerpt: >-
@@ -11,6 +12,7 @@ url: /en.wikipedia.org/wiki/Mauritius/
 website: "https://en.wikipedia.org/wiki/Mauritius"
 wikipedia of: Mauritius
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

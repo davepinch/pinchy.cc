@@ -1,6 +1,7 @@
 ---
 title: "Maldives (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - South Asia (Wikipedia)
   - Asia (Wikipedia)
@@ -12,6 +13,7 @@ url: /en.wikipedia.org/wiki/Maldives/
 website: "https://en.wikipedia.org/wiki/Maldives"
 wikipedia of: Maldives
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

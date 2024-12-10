@@ -1,6 +1,7 @@
 ---
 title: "Grenada (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Caribbean (Wikipedia)
   - Caribbean Sea (Wikipedia)
@@ -14,6 +15,7 @@ url: /en.wikipedia.org/wiki/Grenada/
 website: "https://en.wikipedia.org/wiki/Grenada"
 wikipedia of: Grenada
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

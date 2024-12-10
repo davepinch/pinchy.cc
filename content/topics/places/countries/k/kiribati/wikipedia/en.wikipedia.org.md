@@ -1,6 +1,7 @@
 ---
 title: "Kiribati (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Micronesia (Wikipedia)
   - Oceania (Wikipedia)
@@ -13,6 +14,7 @@ url: /en.wikipedia.org/wiki/Kiribati/
 website: "https://en.wikipedia.org/wiki/Kiribati"
 wikipedia of: Kiribati
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

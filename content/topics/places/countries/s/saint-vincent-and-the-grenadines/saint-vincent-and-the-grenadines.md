@@ -1,6 +1,7 @@
 ---
 title: "Saint Vincent and the Grenadines"
 country of:
+  - archipelago
   - island
   - Caribbean
   - Caribbean Sea
@@ -9,6 +10,7 @@ country of:
 openstreetmap: "https://www.openstreetmap.org/relation/550725"
 wikidata: "https://www.wikidata.org/wiki/Q757"
 tags:
+  - archipelagic state
   - island country
   - country
 ---

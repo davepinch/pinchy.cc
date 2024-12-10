@@ -1,6 +1,7 @@
 ---
 title: "Philippines (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Southeast Asia (Wikipedia)
   - Pacific Ocean (Wikipedia)
@@ -12,6 +13,7 @@ url: /en.wikipedia.org/wiki/Philippines/
 website: "https://en.wikipedia.org/wiki/Philippines"
 wikipedia of: Philippines
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
