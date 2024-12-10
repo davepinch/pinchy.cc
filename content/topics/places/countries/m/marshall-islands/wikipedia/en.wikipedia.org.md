@@ -12,5 +12,6 @@ website: "https://en.wikipedia.org/wiki/Marshall_Islands"
 wikipedia of: Marshall Islands
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
