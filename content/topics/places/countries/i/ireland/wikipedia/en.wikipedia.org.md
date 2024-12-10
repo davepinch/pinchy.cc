@@ -1,9 +1,8 @@
 ---
 title: "Republic of Ireland (Wikipedia)"
-borders:
-  - Atlantic Ocean (Wikipedia)
-  - incomplete list
 country of:
+  - Island (Wikipedia)
+  - Atlantic Ocean (Wikipedia)
   - Northwestern Europe (Wikipedia)
   - Europe (Wikipedia)
 excerpt: >-
@@ -14,6 +13,7 @@ url: /en.wikipedia.org/wiki/Republic_of_Ireland/
 website: "https://en.wikipedia.org/wiki/Republic_of_Ireland"
 wikipedia of: Ireland
 tags:
+  - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
