@@ -6,4 +6,5 @@ country of:
 wikidata: "https://www.wikidata.org/wiki/Q921"
 tags:
   - island country
+  - country
 ---
