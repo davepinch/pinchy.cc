@@ -1,12 +1,9 @@
 ---
 title: "Neville's Ladder Experiment"
+ladder experiment of: Neville Lancelot Goddard
 retrieved: 2023-06-07
-tag:
-  - Neville Lancelot Goddard
+source: "https://pastebin.com/nWzSmHvU"
 ---
-
-https://pastebin.com/nWzSmHvU
-
 Warning: pastebin uses many tracking cookies. Install [Privacy Badger](/privacy-badger/).
 
 > Neville's Ladder Experiment 
