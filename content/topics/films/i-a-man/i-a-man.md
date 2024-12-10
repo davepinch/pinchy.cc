@@ -1,5 +1,6 @@
 ---
 title: "I, a Man"
+appearance of: Valerie Solanas
 film of:
   - erotic film
   - drama
