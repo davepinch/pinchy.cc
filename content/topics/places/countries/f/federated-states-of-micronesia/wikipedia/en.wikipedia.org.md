@@ -14,5 +14,6 @@ website: "https://en.wikipedia.org/wiki/Federated_States_of_Micronesia"
 wikipedia of: Federated States of Micronesia
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
