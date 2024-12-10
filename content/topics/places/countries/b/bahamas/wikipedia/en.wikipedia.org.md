@@ -18,6 +18,7 @@ website: "https://en.wikipedia.org/wiki/The_Bahamas"
 wikipedia of: The Bahamas
 tags:
   - Archipelagic state (Wikipedia)
+  - Island Country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
