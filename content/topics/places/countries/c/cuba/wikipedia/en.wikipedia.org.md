@@ -15,5 +15,7 @@ url: /en.wikipedia.org/wiki/Cuba/
 website: "https://en.wikipedia.org/wiki/Cuba"
 wikipedia of: Cuba
 tags:
+  - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
