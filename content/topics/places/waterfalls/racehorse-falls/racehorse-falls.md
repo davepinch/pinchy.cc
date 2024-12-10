@@ -8,4 +8,6 @@ waterfall of:
   - Washington
 tags:
   - waterfall
+  - no Wikidata record
+  - no Wikipedia article
 ---
