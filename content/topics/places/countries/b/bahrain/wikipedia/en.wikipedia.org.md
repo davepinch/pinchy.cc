@@ -3,7 +3,7 @@ title: "Bahrain (Wikipedia)"
 borders: Gulf of Bahrain (Wikipedia)
 borders (maritime): Saudi Arabia (Wikipedia)
 country of:
-  - Island country (Wikipedia)
+  - Island (Wikipedia)
   - Persian Gulf (Wikipedia)
   - Middle East (Wikipedia)
   - West Asia (Wikipedia)
