@@ -14,5 +14,6 @@ website: "https://en.wikipedia.org/wiki/Jamaica"
 wikipedia of: Jamaica
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
