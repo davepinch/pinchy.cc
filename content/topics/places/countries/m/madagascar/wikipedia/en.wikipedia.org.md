@@ -12,5 +12,6 @@ website: "https://en.wikipedia.org/wiki/Madagascar"
 wikipedia of: Madagascar
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
