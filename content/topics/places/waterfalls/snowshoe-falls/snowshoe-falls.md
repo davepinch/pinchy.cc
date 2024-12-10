@@ -8,4 +8,6 @@ waterfall of:
   - Mount Baker–Snoqualmie National Forest
 tags:
   - waterfall
+  - no Wikidata record
+  - no Wikipedia article
 ---
