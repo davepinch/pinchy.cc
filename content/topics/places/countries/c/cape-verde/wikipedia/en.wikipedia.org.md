@@ -1,6 +1,7 @@
 ---
 title: "Cape Verde (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Africa (Wikipedia)
   - Atlantic Ocean (Wikipedia)
@@ -12,6 +13,7 @@ url: /en.wikipedia.org/wiki/Cape_Verde/
 website: "https://en.wikipedia.org/wiki/Cape_Verde"
 wikipedia of: Cape Verde
 tags:
+  - Archipelagic state (Wikipedia)
   - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia

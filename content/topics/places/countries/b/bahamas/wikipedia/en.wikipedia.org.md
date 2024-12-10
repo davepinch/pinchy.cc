@@ -1,6 +1,7 @@
 ---
 title: "The Bahamas (Wikipedia)"
 country of:
+  - Archipelago (Wikipedia)
   - Island (Wikipedia)
   - Caribbean (Wikipedia)
   - North America (Wikipedia)
