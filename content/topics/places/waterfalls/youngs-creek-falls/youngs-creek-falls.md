@@ -9,4 +9,6 @@ waterfall of:
   - Snohomish County, Washington
 tags:
   - waterfall
+  - no Wikidata record
+  - no Wikipedia article
 ---
