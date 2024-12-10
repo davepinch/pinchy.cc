@@ -2,6 +2,7 @@
 title: "Dominican Republic (Wikipedia)"
 country of:
   - Hispaniola (Wikipedia)
+  - Island (Wikipedia)
   - Caribbean (Wikipedia)
   - Caribbean Sea (Wikipedia)
 excerpt: >-
@@ -14,5 +15,6 @@ website: "https://en.wikipedia.org/wiki/Dominican_Republic"
 wikipedia of: Dominican Republic
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
