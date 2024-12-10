@@ -7,6 +7,7 @@ related:
   - river
 tag requires property:
   - OpenStreetMap
+  - waterfall of
   - Wikidata
   - Wikipedia
 tags:
