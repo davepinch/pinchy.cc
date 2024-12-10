@@ -12,5 +12,7 @@ url: /en.wikipedia.org/wiki/Brunei/
 website: "https://en.wikipedia.org/wiki/Brunei"
 wikipedia of: Brunei
 tags:
+  - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
