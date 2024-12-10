@@ -7,5 +7,6 @@ country of:
 openstreetmap: "https://www.openstreetmap.org/relation/535774"
 wikidata: "https://www.wikidata.org/wiki/Q1011"
 tags:
+  - island country
   - country
 ---
