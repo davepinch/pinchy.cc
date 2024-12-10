@@ -2,6 +2,7 @@
 title: "Haiti (Wikipedia)"
 country of:
   - Hispaniola (Wikipedia)
+  - Island (Wikipedia)
   - Caribbean (Wikipedia)
   - Caribbean Sea (Wikipedia)
 excerpt: >-
@@ -12,6 +13,7 @@ url: /en.wikipedia.org/wiki/Haiti/
 website: "https://en.wikipedia.org/wiki/Haiti"
 wikipedia of: Haiti
 tags:
+  - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
