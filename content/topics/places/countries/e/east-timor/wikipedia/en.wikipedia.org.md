@@ -12,5 +12,7 @@ vicinity of: Australia (Wikipedia)
 website: "https://en.wikipedia.org/wiki/East_Timor"
 wikipedia of: East Timor
 tags:
+  - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
