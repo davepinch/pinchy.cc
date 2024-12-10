@@ -13,5 +13,6 @@ website: "https://en.wikipedia.org/wiki/Nauru"
 wikipedia of: Nauru
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
