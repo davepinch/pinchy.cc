@@ -4,6 +4,7 @@ borders:
   - Denmark (Wikipedia)
   - incomplete list
 country of:
+  - Island (Wikipedia)
   - Atlantic Ocean (Wikipedia)
   - Europe (Wikipedia)
   - North America (Wikipedia)
