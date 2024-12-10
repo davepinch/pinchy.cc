@@ -8,6 +8,7 @@ waterfall of:
   - King County, Washington
   - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q37983"
+wikipedia: "https://en.wikipedia.org/wiki/Denny_Camp_Falls"
 tags:
   - waterfall
 ---
