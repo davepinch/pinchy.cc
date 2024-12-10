@@ -13,5 +13,6 @@ website: "https://en.wikipedia.org/wiki/Cape_Verde"
 wikipedia of: Cape Verde
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
