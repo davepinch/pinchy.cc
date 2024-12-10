@@ -2,6 +2,7 @@
 title: "Antigua and Barbuda (Wikipedia)"
 country of:
   - Archipelago (Wikipedia)
+  - Island (Wikipedia)
   - Caribbean Sea (Wikipedia)
   - Atlantic Ocean (Wikipedia)
 excerpt: >-
@@ -13,5 +14,6 @@ website: "https://en.wikipedia.org/wiki/Antigua_and_Barbuda"
 wikipedia of: Antigua and Barbuda
 tags:
   - Archipelagic state (Wikipedia)
+  - Island country (Wikipedia)
   - Wikipedia
 ---
