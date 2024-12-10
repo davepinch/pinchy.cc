@@ -9,6 +9,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Flag_of_Brunei.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Brunei.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Brunei.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Brunei"
 tags:
   - flag
   - Wikimedia Commons
