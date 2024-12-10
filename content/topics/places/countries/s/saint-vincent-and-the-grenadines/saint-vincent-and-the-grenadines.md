@@ -1,6 +1,7 @@
 ---
 title: "Saint Vincent and the Grenadines"
 country of:
+  - island
   - Caribbean
   - Caribbean Sea
   - North America
