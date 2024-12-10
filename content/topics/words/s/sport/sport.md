@@ -1,0 +1,4 @@
+---
+title: "sport"
+plural: sports
+---
