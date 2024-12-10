@@ -1,5 +1,7 @@
 ---
 title: "Cuba (Wikipedia)"
+clockwise on the Gulf of Mexico: Quintana Roo (Wikipedia)
+counterclockwise on the Gulf of Mexico: Florida (Wikipedia)
 country of:
   - Island (Wikipedia)
   - Caribbean Sea (Wikipedia)
