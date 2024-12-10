@@ -2,6 +2,7 @@
 title: "Papua New Guinea (Wikipedia)"
 country of:
   - New Guinea (Wikipedia)
+  - Island (Wikipedia)
   - Oceania (Wikipedia)
   - Pacific Ocean (Wikipedia)
 excerpt: >-
@@ -12,5 +13,7 @@ url: /en.wikipedia.org/wiki/Papua_New_Guinea/
 website: "https://en.wikipedia.org/wiki/Papua_New_Guinea"
 wikipedia of: Papua New Guinea
 tags:
+  - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
