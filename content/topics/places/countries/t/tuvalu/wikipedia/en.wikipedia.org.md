@@ -13,5 +13,6 @@ website: "https://en.wikipedia.org/wiki/Tuvalu"
 wikipedia of: Tuvalu
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
