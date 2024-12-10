@@ -6,6 +6,7 @@ borders:
   - Kirkland, Washington (Wikipedia)
   - Lake Sammamish (Wikipedia)
   - Sammamish, Washington (Wikipedia)
+  - Union Hill-Novelty Hill, Washington (Wikipedia)
   - incomplete list
 city of:
   - King County, Washington (Wikipedia)
