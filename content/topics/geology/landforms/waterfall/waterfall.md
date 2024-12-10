@@ -5,7 +5,10 @@ plural: waterfalls
 related:
   - creek
   - river
-type: fluvial-landform
+tag requires property:
+  - OpenStreetMap
+  - Wikidata
+  - Wikipedia
 tags:
   - fluvial landform
   - landform
