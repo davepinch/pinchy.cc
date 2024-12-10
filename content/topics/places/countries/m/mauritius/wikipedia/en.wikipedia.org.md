@@ -12,5 +12,6 @@ website: "https://en.wikipedia.org/wiki/Mauritius"
 wikipedia of: Mauritius
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
