@@ -14,5 +14,6 @@ website: "https://en.wikipedia.org/wiki/Kiribati"
 wikipedia of: Kiribati
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
