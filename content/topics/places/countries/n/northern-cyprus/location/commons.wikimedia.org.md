@@ -3,7 +3,7 @@ title: "Northern Cyprus (orthographic projection).svg (Wikimedia Commons)"
 author: Multiple; see file history on website
 license: CC BY-SA 3.0
 location of:
-  - Northern Cyrpus
+  - Northern Cyprus
   - SVG
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/77/Northern_Cyprus_%28orthographic_projection%29.svg"
 type: picture
