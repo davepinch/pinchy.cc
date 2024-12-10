@@ -1,6 +1,7 @@
 ---
 title: "Sri Lanka (Wikipedia)"
 country of:
+  - Island (Wikipedia)
   - South Asia (Wikipedia)
   - Asia (Wikipedia)
 excerpt: >-
@@ -11,6 +12,7 @@ url: /en.wikipedia.org/wiki/Sri_Lanka/
 website: "https://en.wikipedia.org/wiki/Sri_Lanka"
 wikipedia of: Sri Lanka
 tags:
+  - Island country (Wikipedia)
   - Country (Wikipedia)
   - Wikipedia
 ---
