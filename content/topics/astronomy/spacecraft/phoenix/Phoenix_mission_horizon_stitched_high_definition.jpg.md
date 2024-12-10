@@ -6,6 +6,7 @@ license: public domain
 example of: polygonal patterned ground
 photograph of:
   - Phoenix (spacecraft)
+  - Vastitas Borealis
   - Mars
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5c/Phoenix_mission_horizon_stitched_high_definition.jpg"
 source: "https://photojournal.jpl.nasa.gov/catalog/PIA10690"
