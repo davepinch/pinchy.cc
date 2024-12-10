@@ -1,5 +1,6 @@
 ---
 title: "Warhol gave Solanas a part in the film for $25 and as compensation for a script she had given to Warhol called Up Your Ass, which he had lost. Solanas later attempted to kill Warhol by shooting him."
+cast of: "I, a Man"
 "I, a Man of": Valerie Solanas
 mention of:
   - Andy Warhol
