@@ -1,7 +1,7 @@
 ---
 title: "Cool Runnings"
 film of:
-  - sports
+  - sport
   - comedy
   - Jamaica
 wikidata: "https://www.wikidata.org/wiki/Q282748"
