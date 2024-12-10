@@ -10,5 +10,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Northern_Cyprus_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Northern_Cyprus_(orthographic_projection).svg"
 tags:
+  - location
   - Wikimedia Commons
 ---
