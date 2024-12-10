@@ -2,6 +2,7 @@
 title: "Redmond, Washington"
 borders:
   - Bellevue, Washington
+  - Kirkland, Washington
   - Lake Sammamish
   - Sammamish, Washington
   - incomplete list
