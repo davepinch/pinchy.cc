@@ -14,5 +14,6 @@ website: "https://en.wikipedia.org/wiki/Samoa"
 wikipedia of: Samoa
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
