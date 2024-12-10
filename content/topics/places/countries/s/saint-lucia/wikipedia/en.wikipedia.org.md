@@ -14,5 +14,6 @@ website: "https://en.wikipedia.org/wiki/Saint_Lucia"
 wikipedia of: Saint Lucia
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
