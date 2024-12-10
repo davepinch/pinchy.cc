@@ -7,9 +7,7 @@ borders:
   - Lake Sammamish (Wikipedia)
   - Sammamish, Washington (Wikipedia)
   - Union Hill-Novelty Hill, Washington (Wikipedia)
-  - incomplete list
-city of:
-  - King County, Washington (Wikipedia)
+city of: King County, Washington (Wikipedia)
 clockwise around lake sammamish: Sammamish, Washington (Wikipedia)
 excerpt: >-
   **Redmond** is a city in [King County](/en.wikipedia.org/wiki/King_County,_Washington), [Washington](/en.wikipedia.org/wiki/Washington_(state)), [United States](/en.wikipedia.org/wiki/United_States), located 15 miles (24 km) east of [Seattle](/en.wikipedia.org/wiki/Seattle). The population was 73,256 at the 2020 census, up from 54,144 in 2010.

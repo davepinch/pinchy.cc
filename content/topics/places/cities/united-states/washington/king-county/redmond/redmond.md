@@ -7,9 +7,7 @@ borders:
   - Lake Sammamish
   - Sammamish, Washington
   - Union Hill-Novelty Hill, Washington
-  - incomplete list
-city of:
-  - King County, Washington
+city of: King County, Washington
 clockwise around lake sammamish: Sammamish, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237376"
 roadways:
