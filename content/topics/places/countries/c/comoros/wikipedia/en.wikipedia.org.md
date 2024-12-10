@@ -13,5 +13,6 @@ website: "https://en.wikipedia.org/wiki/Comoros"
 wikipedia of: Comoros
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
