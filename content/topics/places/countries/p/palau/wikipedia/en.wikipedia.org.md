@@ -14,5 +14,6 @@ website: "https://en.wikipedia.org/wiki/Palau"
 wikipedia of: Palau
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
