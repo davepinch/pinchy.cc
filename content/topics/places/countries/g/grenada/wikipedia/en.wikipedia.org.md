@@ -15,5 +15,6 @@ website: "https://en.wikipedia.org/wiki/Grenada"
 wikipedia of: Grenada
 tags:
   - Island country (Wikipedia)
+  - Country (Wikipedia)
   - Wikipedia
 ---
