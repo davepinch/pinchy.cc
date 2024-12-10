@@ -2,7 +2,7 @@
 title: "song and dance man"
 occupation of:
   - music
-  - dance
+  - dancing
 tags:
   - occupation
 ---
