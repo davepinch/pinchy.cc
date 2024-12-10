@@ -15,7 +15,7 @@ url: /en.wikipedia.org/wiki/Alpha_Centauri/
 website: "https://en.wikipedia.org/wiki/Alpha_Centauri"
 wikipedia of:
   - Alpha Centauri
-  - Rigel Kentaurus
+  - Rigil Kentaurus
 tags:
   - alpha
   - Star system (Wikipedia)
