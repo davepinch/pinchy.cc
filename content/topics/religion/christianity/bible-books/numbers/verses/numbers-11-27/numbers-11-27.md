@@ -6,4 +6,5 @@ King James Bible: >-
   And there ran a young man, and told Moses, and said, Eldad and Medad do prophesy in the camp.
 New International Version: >-
   A young man ran and told Moses, “Eldad and Medad are prophesying in the camp.”
+verse of: Numbers 11
 ---

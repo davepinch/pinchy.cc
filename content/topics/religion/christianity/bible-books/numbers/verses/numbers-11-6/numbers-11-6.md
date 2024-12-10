@@ -6,4 +6,5 @@ King James Bible: >-
   But now our soul *is* dried away: *there is* nothing at all, beside this manna, *before* our eyes.
 New International Version: >-
   But now we have lost our appetite; we never see anything but this manna!”
+verse of: Numbers 11
 ---

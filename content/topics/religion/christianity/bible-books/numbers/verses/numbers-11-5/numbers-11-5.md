@@ -13,4 +13,5 @@ New International Version: >-
   - 🧅
   - 🧄
 🐟 of: Egypt
+verse of: Numbers 11
 ---

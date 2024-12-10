@@ -6,4 +6,5 @@ King James Bible: >-
   And the manna *was* as coriander seed, and the colour thereof as the colour of bdellium.
 New International Version: >-
   The manna was like coriander seed and looked like resin.
+verse of: Numbers 11
 ---

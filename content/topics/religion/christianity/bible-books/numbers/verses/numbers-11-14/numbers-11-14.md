@@ -6,4 +6,5 @@ King James Bible: >-
   I am not able to bear all this people alone, because *it is* too heavy for me.
 New International Version: >-
   I cannot carry all these people by myself; the burden is too heavy for me.
+verse of: Numbers 11
 ---
