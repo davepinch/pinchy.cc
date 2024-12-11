@@ -23,6 +23,7 @@ parts:
   - Red Sea
   - Strait of Hormuz
   - incomplete list
+wikidata: "https://www.wikidata.org/wiki/Q1239"
 tags:
   - ocean
 ---

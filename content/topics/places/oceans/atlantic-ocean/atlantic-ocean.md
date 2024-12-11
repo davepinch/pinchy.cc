@@ -72,6 +72,7 @@ parts:
   - Río de la Plata
   - Strait of Gibraltar
   - incomplete list
+wikidata: "https://www.wikidata.org/wiki/Q97"
 tags:
   - ocean
 ---
