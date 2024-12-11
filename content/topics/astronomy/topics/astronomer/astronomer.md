@@ -1,7 +1,7 @@
 ---
 title: "astronomer"
 plural: "astronomers"
-type: scientist
+wikidata: "https://www.wikidata.org/wiki/Q11063"
 tags:
   - astronomy
   - occupation

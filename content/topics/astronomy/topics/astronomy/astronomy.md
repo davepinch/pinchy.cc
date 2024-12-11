@@ -8,7 +8,7 @@ related:
   - geology
   - mathematics
   - physics
-type: science
+wikidata: "https://www.wikidata.org/wiki/Q333"
 tags:
   - science
 ---

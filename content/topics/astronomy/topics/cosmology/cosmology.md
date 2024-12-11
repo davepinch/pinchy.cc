@@ -5,7 +5,7 @@ related:
   - astronomy
   - mathematics
   - physics
-type: science
+wikidata: "https://www.wikidata.org/wiki/Q338"
 tags:
   - science
   - universe
