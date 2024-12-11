@@ -10,6 +10,7 @@ borders:
   - Virgo_IAU.svg (Wikimedia Commons)
 chart of:
   - Libra
+  - Beta Librae
   - ecliptic
   - Zubenelgenubi
   - Zubeneschamali
