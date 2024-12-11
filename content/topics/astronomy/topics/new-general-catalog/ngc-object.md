@@ -1,4 +1,7 @@
 ---
 title: "NGC object"
-member of: New General Catalogue
+object of: New General Catalogue
+tag requires property:
+  - Wikidata
+  - Wikipedia
 ---
