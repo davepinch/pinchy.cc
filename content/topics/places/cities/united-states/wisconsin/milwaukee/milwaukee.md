@@ -1,5 +1,5 @@
 ---
-title: "Milwaukee, Wisconsin"
+title: "Milwaukee"
 city of:
   - Wisconsin
   - Lake Michigan
