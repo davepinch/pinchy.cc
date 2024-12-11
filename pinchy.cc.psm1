@@ -1,3 +1,12 @@
+Function ConvertTo-NormalHTML {
+
+    # https://stackoverflow.com/questions/56187543/invoke-webrequest-freezes-hangs
+    param([Parameter(Mandatory = $true, ValueFromPipeline = $true)]$HTML)
+
+    $NormalHTML = New-Object -Com "HTMLFile"
+    $NormalHTML.IHTMLDocument2_write($HTML.RawContent)
+    return $NormalHTML
+}
 
 function Import-CommonsPicture {
 
@@ -81,11 +90,21 @@ function Import-Wikipedia {
     # Fetch the content from the URL.
     #
     try {
-        $content = Invoke-WebRequest -Uri $url
+        #
+        # Note: Invoke-WebRequest is used with -UseBasicParsing
+        # to avoid a hang that occurs randomly. For more info, see:
+        # https://stackoverflow.com/questions/56187543/invoke-webrequest-freezes-hangs
+        #
+        $response = Invoke-WebRequest -Uri $url -UseBasicParsing
     } catch {
         Write-Error "Failed to download content from $url. Error: $_"
         return
     }
+
+    #
+    # Manually parse the HTML using the StackOverflow solution.
+    #
+    $parsed = ConvertTo-NormalHTML -HTML $response 
 
     #
     # Create an array to hold the front matter
@@ -100,7 +119,7 @@ function Import-Wikipedia {
     #
     # title: "..." (must be enclosed in quotes)
     #
-    $title = $content.ParsedHtml.querySelector("title").innerText
+    $title = $parsed.title #$parsed.querySelector("title").innerText
     $title = $title -replace " - Wikipedia$", ""
     $lines += "title: `"$title (Wikipedia)`""    
 
