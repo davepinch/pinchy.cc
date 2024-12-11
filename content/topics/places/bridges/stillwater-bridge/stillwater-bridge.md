@@ -6,6 +6,7 @@ bridge of:
   - Houlton, Wisconsin
   - Minnesota
   - Wisconsin
+wikidata: "https://www.wikidata.org/wiki/Q7617281"
 tags:
   - bridge
 ---

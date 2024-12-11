@@ -8,6 +8,7 @@ bridge of:
   - Fidalgo Island
   - Skagit County, Washington
   - Washington
+wikidata: "https://www.wikidata.org/wiki/Q1181772"
 tags:
   - bridge
 ---
