@@ -1,5 +1,5 @@
 ---
 title: "railroad bridge"
 tags:
-  - bridge
+  - type of bridge
 ---
