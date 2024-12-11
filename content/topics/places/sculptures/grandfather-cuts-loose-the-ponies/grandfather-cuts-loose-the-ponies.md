@@ -5,7 +5,7 @@ near:
   - Columbia River
   - Vantage Bridge
 openstreetmap: "https://www.openstreetmap.org/node/768965209"
-sculptor of:
+sculpture of:
   - Grant County, Washington
   - Interstate 90
   - horse
