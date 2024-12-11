@@ -1,7 +1,7 @@
 ---
 title: "Big Bang"
 part of: universe
-type: theory
+wikidata: "https://www.wikidata.org/wiki/Q323"
 tags:
   - astronomy
   - universe
