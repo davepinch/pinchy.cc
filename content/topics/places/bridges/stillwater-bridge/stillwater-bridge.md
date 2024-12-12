@@ -6,6 +6,7 @@ bridge of:
   - Houlton, Wisconsin
   - Minnesota
   - Wisconsin
+openstreetmap: "https://www.openstreetmap.org/way/707399033"
 wikidata: "https://www.wikidata.org/wiki/Q7617281"
 tags:
   - bridge
