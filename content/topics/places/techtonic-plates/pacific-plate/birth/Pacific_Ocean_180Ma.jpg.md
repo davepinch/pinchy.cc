@@ -1,6 +1,7 @@
 ---
 title: "Birth of the Pacific Plate 180 million years ago (Wikimedia Commons)"
 author: Fama Clamosa
+birth of: Pacific Plate
 license: CC BY-SA 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/95/Pacific_Ocean_180Ma.jpg"
 related:
@@ -11,7 +12,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Pacific_Ocean_180Ma.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Pacific_Ocean_180Ma.jpg"
 tags:
-  - Pacific Plate
   - Izanagi Plate
   - Farallon Plate
   - Phoenix Plate
