@@ -1,5 +1,6 @@
 ---
 title: "Skagit Bay"
+also considered a: strait
 bay of:
   - Puget Sound
   - Washington
@@ -9,5 +10,4 @@ upstream on the Skagit River: Fir Island
 wikidata: "https://www.wikidata.org/wiki/Q13219387"
 tags:
   - bay
-  - strait
 ---
