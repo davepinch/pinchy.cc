@@ -7,10 +7,9 @@ history of:
   - Hudson Toll Bridge
   - U.S. Route 12
   - Saint Croix River
+related of: Toll Bridge (Old), Hudson, WI (johnweeks.com)
 snippet of: Hudson, Wisconsin (Wikipedia)
 license: CC BY-SA 4.0
-related:
-  - "Toll Bridge (Old), Hudson, WI (johnweeks.com)"
 type: snippet
 url: /en.wikipedia.org/wiki/Hudson,_Wisconsin/history-6-1/
 tags:
