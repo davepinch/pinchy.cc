@@ -8,6 +8,7 @@ history of:
   - U.S. Route 12
   - Saint Croix River
 related of: Toll Bridge (Old), Hudson, WI (johnweeks.com)
+toll bridge of: Hudson, Wisconsin
 snippet of: Hudson, Wisconsin (Wikipedia)
 license: CC BY-SA 4.0
 type: snippet
