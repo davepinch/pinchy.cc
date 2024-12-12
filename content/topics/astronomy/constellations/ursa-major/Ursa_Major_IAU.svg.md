@@ -17,6 +17,7 @@ chart of:
   - Alula Australis
   - Alula Borealis
   - Dubhe
+  - Iota Ursae Majoris
   - Megrez
   - Merak
   - Messier 81
