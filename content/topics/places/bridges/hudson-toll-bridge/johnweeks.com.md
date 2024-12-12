@@ -10,7 +10,7 @@ related: >-
 retrieved: 2024-03-06
 type: website
 url: /www.johnweeks.com/bridges/pages/sc03.html/
-website: "https://www.johnweeks.com/bridges/pages/sc03.html"
+website: "http://www.johnweeks.com/bridges/pages/sc03.html"
 website of: Hudson Toll Bridge
 tags:
   - website
