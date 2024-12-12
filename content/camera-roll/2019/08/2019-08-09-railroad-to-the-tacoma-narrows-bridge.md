@@ -3,7 +3,7 @@ title: "Railroad to the Tacoma Narrows Bridge"
 author: David Pinch
 license: CC BY-SA 4.0
 photograph of:
-  - railray
+  - railway
   - bridge
 picture: content/camera-roll/2019/08/2019-08-09-railroad-to-the-tacoma-narrows-bridge/railroad-to-the-tacoma-narrows-bridge.jpg
 related:
