@@ -7,6 +7,7 @@ countries:
 connects:
   - Atlantic Ocean
   - Mediterranean Sea
+wikidata: "https://www.wikidata.org/wiki/Q36124"
 tags:
   - strait
 ---
