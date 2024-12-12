@@ -1,5 +1,6 @@
 ---
 title: "Rosario Strait"
+openstreetmap: "https://www.openstreetmap.org/relation/13321028"
 strait of:
   - Salish Sea
   - Washington
