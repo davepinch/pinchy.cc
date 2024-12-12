@@ -7,4 +7,7 @@ see also:
 tags:
   - abandoned
   - bridge
+  - no OpenStreetMap element
+  - no Wikidata record
+  - no Wikipedia article
 ---
