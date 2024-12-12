@@ -5,7 +5,6 @@ borders:
   - Canada
   - United States
   - Olympic Peninsula
-  - Port Angeles, Washington
   - Vancouver Island
   - list incomplete
 openstreetmap: "https://www.openstreetmap.org/relation/13321590"
