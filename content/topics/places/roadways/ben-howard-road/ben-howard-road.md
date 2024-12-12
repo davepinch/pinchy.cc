@@ -6,4 +6,6 @@ vicinity of:
   - Sultan, Washington
 tags:
   - road
+  - no Wikidata record
+  - no Wikipedia article
 ---
