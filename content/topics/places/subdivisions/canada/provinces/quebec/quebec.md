@@ -16,6 +16,7 @@ borders:
   - Vermont
 openstreetmap: "https://www.openstreetmap.org/relation/61549"
 province of: Canada
+wikidata: "https://www.wikidata.org/wiki/Q176"
 tags:
   - province of Canada
 ---

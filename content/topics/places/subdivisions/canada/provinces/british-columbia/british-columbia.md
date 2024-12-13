@@ -23,7 +23,7 @@ up the coast:
   - Alaska
   - Alberta
   - United States
-type: province
+wikidata: "https://www.wikidata.org/wiki/Q1973"
 tags:
   - province of Canada
 ---

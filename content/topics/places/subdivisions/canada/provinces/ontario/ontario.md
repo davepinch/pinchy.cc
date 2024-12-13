@@ -18,6 +18,7 @@ borders:
 clockwise around lake superior: Michigan
 openstreetmap: "https://www.openstreetmap.org/relation/68841"
 province of: Canada
+wikidata: "https://www.wikidata.org/wiki/Q1904"
 tags:
   - province of Canada
 ---
