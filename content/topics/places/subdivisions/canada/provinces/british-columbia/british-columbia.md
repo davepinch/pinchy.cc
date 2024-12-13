@@ -16,13 +16,14 @@ down the pacific coast:
   - Washington
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/390867"
-province of: Canada
+province of:
+  - Canada
+  - Pacific Northwest
 up the coast:
   - Alaska
   - Alberta
   - United States
 type: province
 tags:
-  - province
-  - Pacific Northwest
+  - province of Canada
 ---

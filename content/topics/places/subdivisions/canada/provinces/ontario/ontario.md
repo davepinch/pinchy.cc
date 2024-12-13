@@ -19,5 +19,5 @@ clockwise around lake superior: Michigan
 openstreetmap: "https://www.openstreetmap.org/relation/68841"
 province of: Canada
 tags:
-  - province
+  - province of Canada
 ---

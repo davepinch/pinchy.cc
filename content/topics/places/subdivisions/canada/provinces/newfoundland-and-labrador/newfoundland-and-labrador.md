@@ -12,5 +12,5 @@ borders (maritime):
 openstreetmap: "https://www.openstreetmap.org/relation/391196"
 province of: Canada
 tags:
-  - province
+  - province of Canada
 ---

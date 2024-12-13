@@ -10,5 +10,5 @@ openstreetmap: "https://www.openstreetmap.org/relation/391186"
 province of: Canada
 tags:
   - landlocked
-  - province
+  - province of Canada
 ---
