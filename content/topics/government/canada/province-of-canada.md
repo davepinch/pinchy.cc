@@ -1,6 +1,8 @@
 ---
 title: "province of Canada"
 tag requires property:
+  - flag
+  - location
   - OpenStreetMap
   - province of
   - Wikidata
