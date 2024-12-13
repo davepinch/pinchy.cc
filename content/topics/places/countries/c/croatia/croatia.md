@@ -1,7 +1,7 @@
 ---
 title: "Croatia"
 clockwise around the mediterranean:
-  - Bosnia and Herzegovina
+  - A small sliver of [Bosnia and Herzegovina](/bosnia-and-herzegovina/), and then
   - Montenegro
 country of:
   - Europe
