@@ -1219,12 +1219,6 @@ foreach ($page in $script:pages) {
     # excerpt
     Test-ExcerptCannotHaveFootnotes($page)
 
-
-    # hacker news
-    Test-PropertyRequiresTag $page "hacker news" "shared on Hacker News"
-    Test-TagRequiresProperty $page "shared on Hacker News" "hacker news"    
-
-
     # location
     Test-PropertyRequiresTag $page "location of" "location"
     
