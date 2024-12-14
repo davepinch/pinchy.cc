@@ -13,6 +13,7 @@ state of:
   - Pacific Northwest
   - Western United States
   - United States
+  - Pacific Ocean
 up the pacific coast: Washington
 tags:
   - state
