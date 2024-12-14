@@ -10,6 +10,7 @@ novel of:
   - science fiction
   - death
   - reincarnation
+wikidata: "https://www.wikidata.org/wiki/Q2502043"
 tags:
   - novel
 ---

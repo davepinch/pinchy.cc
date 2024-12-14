@@ -10,6 +10,7 @@ next in series: Equal Rites
 novel of:
   - Discworld
   - Terry Pratchett
+wikidata: "https://www.wikidata.org/wiki/Q469969"
 tags:
   - novel
 ---
