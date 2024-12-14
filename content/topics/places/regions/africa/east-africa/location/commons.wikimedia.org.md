@@ -10,5 +10,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Map_of_East_African_countries.svg/
 website: "https://commons.wikimedia.org/wiki/File:Map_of_East_African_countries.svg"
 tags:
+  - location
   - Wikimedia Commons
 ---
