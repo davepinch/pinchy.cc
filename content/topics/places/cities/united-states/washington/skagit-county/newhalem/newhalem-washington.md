@@ -1,6 +1,6 @@
 ---
 title: "Newhalem, Washington"
-downstream of the Skagit River: Marblemount, Washington
+downstream on the Skagit River: Marblemount, Washington
 openstreetmap: "https://www.openstreetmap.org/node/150967747"
 unincorporated community of:
   - Skagit County, Washington
