@@ -1,5 +1,6 @@
 ---
 title: "Rock Identification with Willsey: BASALT and its many varieties (youtube.com)"
+episode of: "@shawnwillsey (YouTube channel)"
 excerpt: >-
   Team up with geology professor Shawn Willsey as he investigates basalt in all its wonderous varieties. Observe and learn pillow lava, scoria, reticulite, volcanic bombs, and more. Also watch for a special guest appearance at the end by some true rock stars. 
 identification of: basalt
