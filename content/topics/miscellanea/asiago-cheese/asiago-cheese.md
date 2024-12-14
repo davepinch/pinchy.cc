@@ -1,7 +1,7 @@
 ---
 title: "Asiago cheese"
 cheese of: Italy
-c
+wikidata: "https://www.wikidata.org/wiki/Q727210"
 tags:
   - cheese
 ---
