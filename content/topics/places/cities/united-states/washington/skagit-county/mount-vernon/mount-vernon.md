@@ -5,7 +5,9 @@ borders:
   - Skagit River
 city of:
   - Skagit County, Washington
+  - Skagit River
   - Interstate 5
+downstream on the Skagit River: Fir Island
 northbound on interstate 5: Skagit River
 openstreetmap: "https://www.openstreetmap.org/relation/126284"
 roadways: Interstate 5
