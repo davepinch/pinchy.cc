@@ -24,6 +24,7 @@ state of:
   - Southwestern United States
   - Western United States
   - United States
+  - Pacific Ocean
 up the pacific coast: Oregon
 tags:
   - state
