@@ -1,6 +1,7 @@
 ---
 title: >-
   During the Miocene era, what is now the catchment area of the lake was on the western side of an uplifted area that functioned as a continental divide, with streams on the western side flowing into the Congo River basin and streams on the eastern side flowing to the Indian Ocean.
+catchment area of: Lake Victoria
 definition of catchment area: >-
   Other terms for a drainage basin are catchment area, catchment basin, drainage area, river basin, water basin, and impluvium. In North America, they are commonly called a watershed, though in other English-speaking places, "watershed" is used only in its original sense, that of a drainage divide.
 citation: >-
@@ -10,7 +11,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/Lake_Victoria/geology-3-1/
 tags:
   - Miocene
-  - Lake Victoria
   - Congo River Basin
   - Indian Ocean
   - snippet
