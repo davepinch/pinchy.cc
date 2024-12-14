@@ -6,7 +6,9 @@ borders:
   - Rwanda
   - Tanzania
 clockwise around lake tanganyika: Tanzania
-country of: Africa
+country of:
+  - East Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/195269"
 wikidata: "https://www.wikidata.org/wiki/Q967"
 tags:

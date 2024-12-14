@@ -8,7 +8,9 @@ borders:
 borders (maritime):
   - Yemen
 clockwise around the red sea: Sudan
-country of: Africa
+country of:
+  - East Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/296961"
 wikidata: "https://www.wikidata.org/wiki/Q986"
 tags:

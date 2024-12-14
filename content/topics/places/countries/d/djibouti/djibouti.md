@@ -10,7 +10,9 @@ borders:
 borders (maritime):
   - Yemen
 clockwise around the red sea: Eritrea
-country of: Africa
+country of:
+  - East Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192801"
 wikidata: "https://www.wikidata.org/wiki/Q977"
 tags:

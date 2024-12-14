@@ -9,6 +9,7 @@ borders:
   - Zambia
   - Zimbabwe
 country of:
+  - East Africa
   - Africa
   - Indian Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/195273"

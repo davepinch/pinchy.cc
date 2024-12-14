@@ -7,7 +7,9 @@ borders:
   - Rwanda
   - South Sudan
   - Tanzania
-country of: Africa
+country of:
+  - East Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192796"
 wikidata: "https://www.wikidata.org/wiki/Q1036"
 tags:

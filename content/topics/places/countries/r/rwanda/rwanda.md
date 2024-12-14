@@ -5,7 +5,9 @@ borders:
   - Democratic Republic of the Congo
   - Tanzania
   - Uganda
-country of: Africa
+country of:
+  - East Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/171496"
 wikidata: "https://www.wikidata.org/wiki/Q1037"
 tags:

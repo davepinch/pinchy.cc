@@ -10,6 +10,7 @@ borders:
 borders (maritime):
   - Yemen (Wikipedia)
 country of:
+  - East Africa (Wikipedia)
   - Africa (Wikipedia)
   - Indian Ocean (Wikipedia)
 excerpt: >-

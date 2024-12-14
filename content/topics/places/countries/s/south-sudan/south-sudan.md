@@ -7,7 +7,9 @@ borders:
   - Kenya
   - Sudan
   - Uganda
-country of: Africa
+country of:
+  - East Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/1656678"
 wikidata: "https://www.wikidata.org/wiki/Q958"
 tags:

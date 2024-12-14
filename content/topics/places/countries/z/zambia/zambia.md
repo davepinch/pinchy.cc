@@ -11,7 +11,9 @@ borders:
   - Tanzania
   - Zimbabwe
 clockwise around lake tanganyika: Democratic Republic of the Congo
-country of: Africa
+country of:
+  - East Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/195271"
 wikidata: "https://www.wikidata.org/wiki/Q953"
 tags:

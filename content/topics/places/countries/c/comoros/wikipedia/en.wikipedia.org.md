@@ -3,6 +3,7 @@ title: "Comoros (Wikipedia)"
 country of:
   - Archipelago (Wikipedia)
   - Island (Wikipedia)
+  - East Africa (Wikipedia)
   - Africa (Wikipedia)
   - Indian Ocean (Wikipedia)
 excerpt: >-
