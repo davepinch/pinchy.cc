@@ -11,6 +11,7 @@ borders:
   - Zimbabwe
 country of:
   - Africa
+  - Atlantic Ocean
   - Indian Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/87565"
 wikidata: "https://www.wikidata.org/wiki/Q258"
