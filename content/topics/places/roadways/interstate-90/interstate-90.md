@@ -3,6 +3,7 @@ title: "Interstate 90"
 crosses:
   - Columbia River
   - Lake Washington
+eastbound on Interstate 82: Manastash Ridge
 near: # west to east
   - Squak Mountain
   - Rattlesnake Ridge
