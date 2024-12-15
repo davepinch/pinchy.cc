@@ -7,6 +7,7 @@ interstate highway of:
   - Oregon (Wikipedia)
   - Pacific Northwest (Wikipedia)
 license: CC BY-SA 4.0
+northern terminus: Ellensburg, Washington (Wikipedia)
 retrieved: 2024-12-14
 type: website
 url: /en.wikipedia.org/wiki/Interstate_82/
