@@ -1,6 +1,7 @@
 ---
 title: "Manastash Ridge"
 eastbound on Interstate 82: Manastash Vista Point (eastbound)
+openstreetmap: "https://www.openstreetmap.org/way/712354728"
 ridge of:
   - Kittitas County, Washington
   - Yakima County, Washington
