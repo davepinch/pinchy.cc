@@ -7,7 +7,7 @@ retrieved: 2024-12-14
 ridge of:
   - Kittitas County, Washington (Wikipedia)
   - Yakima County, Washington (Wikipedia)
-southbound on Interstate 82: Yakima, Washington (Wikipedia)
+southbound on Interstate 82: Fred G. Redmon Bridge (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Manastash_Ridge/
 website: "https://en.wikipedia.org/wiki/Manastash_Ridge"
