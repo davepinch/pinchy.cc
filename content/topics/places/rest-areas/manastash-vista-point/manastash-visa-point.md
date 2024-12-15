@@ -1,6 +1,7 @@
 ---
 title: "Manastash Vista Point"
 eastbound on Interstate 82: Vanderbilt Gap
+mapcarta: "https://mapcarta.com/N4214008291"
 vista point of:
   - Manastash Ridge
   - Kittitas County, Washington
