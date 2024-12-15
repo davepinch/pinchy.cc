@@ -8,6 +8,7 @@ city of:
 eastbound on interstate 90: Wild Horse Wind Farm
 near: Wild Horse Wind Farm
 openstreetmap: "https://www.openstreetmap.org/relation/7482975"
+southbound on interstate 82: Yakima, Washington
 wikidata: "https://www.wikidata.org/entity/Q868684"
 tags:
   - city
