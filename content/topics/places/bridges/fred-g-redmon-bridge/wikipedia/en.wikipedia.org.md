@@ -6,9 +6,9 @@ bridge of:
 excerpt: >-
   The **Fred G. Redmon Bridge**, also known as the **Selah Creek Bridge**, is a twin arch bridge in the northwest United States, in Yakima County, Washington. It carries Interstate 82 across Selah Creek near Selah, between Yakima and Ellensburg.
 license: CC BY-SA 4.0
-northbound on Interstate 82: Manastash Ridge (Wikipedia)
+westbound on Interstate 82: Umtanum Ridge (Wikipedia)
 retrieved: 2024-12-14
-southbound on Interstate 82: Yakima, Washington (Wikipedia)
+eastbound on Interstate 82: Yakima, Washington (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Fred_G._Redmon_Bridge/
 website: "https://en.wikipedia.org/wiki/Fred_G._Redmon_Bridge"
