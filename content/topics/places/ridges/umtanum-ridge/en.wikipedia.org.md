@@ -12,6 +12,7 @@ ridge of:
 type: website
 url: /en.wikipedia.org/wiki/Umtanum_Ridge/
 website: "https://en.wikipedia.org/wiki/Umtanum_Ridge"
+westbound on Interstate 82: Manastash Ridge (Wikipedia)
 wikipedia of: Umtanum Ridge
 tags:
   - Wikipedia
