@@ -8,7 +8,7 @@ saddle of:
   - Manastash Ridge
   - Interstate 82
   - Washington
-westbound on Interstate 82: Manastash Vista Point
+westbound on Interstate 82: Manastash Vista Point (westbound)
 tags:
   - saddle
 ---
