@@ -19,6 +19,7 @@ highway of:
   - Pennsylvania (Wikipedia)
   - New York (state) (Wikipedia)
   - Massachusetts (Wikipedia)
+license: CC BY-SA 4.0
 near: # west to east
   - Squak Mountain (Wikipedia)
   - Rattlesnake Ridge (Wikipedia)
