@@ -6,6 +6,7 @@ ridge of:
   - Kittitas County, Washington
   - Yakima County, Washington
   - Washington
+westbound on Interstate 82: Manastash Ridge
 tags:
   - ridge
 ---
