@@ -5,10 +5,10 @@ vista point of:
   - Manastash Ridge
   - Kittitas County, Washington
   - Interstate 82
-westbound of: Manastash Vista Point
 westbound on Interstate 82:
   - Interstate 90
   - Ellensburg, Washington
+westbound side of: Manastash Vista Point
 tags:
   - rest area
   - no Wikidata record

@@ -1,7 +1,7 @@
 ---
 title: "Manastash Vista Point (eastbound)"
-eastbound of: Manastash Vista Point
 eastbound on Interstate 82: Vanderbilt Gap
+eastbound side of: Manastash Vista Point
 mapcarta: "https://mapcarta.com/N4214008291"
 openstreetmap: "https://www.openstreetmap.org/node/4214008291"
 vista point of:
