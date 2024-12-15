@@ -8,7 +8,7 @@ retrieved: 2023-07-04
 type: website
 url: /en.wikipedia.org/wiki/Square/
 website: "https://en.wikipedia.org/wiki/Square"
-wikipedia of: square
+wikipedia of: square (shape)
 tags:
   - Rhombus (Wikipedia)
   - Wikipedia
