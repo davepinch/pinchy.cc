@@ -10,6 +10,7 @@ excerpt: >-
 near: Wild Horse Wind Farm (Wikipedia)
 related: Behind the fruit building in Ellensburg
 retrieved: 2023-07-25
+southbound on interstate 82: Yakima, Washington (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Ellensburg,_Washington/
 website: "https://en.wikipedia.org/wiki/Ellensburg,_Washington"
