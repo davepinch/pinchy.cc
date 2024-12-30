@@ -6,6 +6,7 @@ film of:
   - Science fiction (Wikipedia)
   - Utopian and dystopian fiction (Wikipedia)
   - Action film (Wikipedia)
+filmed in: Sydney (Wikipedia)
 next in dystopia: Equilibrium (film) (Wikipedia)
 retrieved: 2024-04-17
 robot of: Squid (Wikipedia)
