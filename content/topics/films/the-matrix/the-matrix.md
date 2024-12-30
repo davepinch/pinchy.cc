@@ -4,6 +4,7 @@ film of:
   - science fiction
   - dystopian fiction
   - action film
+filmed in: Sydney
 next in dystopia: Equilibrium (film)
 robot of: squid
 when: 1999-03-24
