@@ -1,6 +1,7 @@
 ---
 title: "Yellowstone National Park Trip Planner | The Ultimate Guide (youtube.com)"
 channel: "[Dirt In My Shoes](https://www.youtube.com/@DirtInMyShoes)"
+episode of: "https://www.youtube.com/@DirtInMyShoes"
 excerpt: >-
   Are you planning a trip to Yellowstone National Park? Then, this Ultimate Yellowstone Trip Planning Guide is for you! / I’m talking you through everything you need to know to plan an amazing trip to Yellowstone National Park including the best way to get to Yellowstone, where to stay when you visit, the best things to do in Yellowstone National Park, and more! 
 trip planning of: Yellowstone National Park
