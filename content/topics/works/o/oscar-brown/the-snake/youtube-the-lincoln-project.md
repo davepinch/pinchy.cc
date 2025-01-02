@@ -1,5 +1,6 @@
 ---
 title: "The Snake by The Lincoln Project (youtube.com)"
+episode of: "https://www.youtube.com/@TheLincolnProject"
 excerpt: >-
   We know a NeverTrumper when we see one, Donald. He may have shed his skin but the bite is coming. / The Lincoln Project is a leading pro-democracy organization in the United States — dedicated to the preservation, protection, and defense of democracy. Our fight against Trumpism is only beginning. We must combat these forces everywhere and at all times — our democracy depends on it. 
 related: "Donald Trump Does Dramatic Reading Of ‘The Snake’ | MSNBC (youtube.com)"
