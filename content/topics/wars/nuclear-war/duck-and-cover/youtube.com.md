@@ -1,5 +1,6 @@
 ---
 title: "Duck and Cover (1080p) (Remastered) (youtube.com)"
+episode of: "https://www.youtube.com/@pacmandrugs"
 excerpt: >-
   "Duck and Cover" is a Civil Defense film, demonstrating the "Duck and Cover" technique of minimizing harm from a nuclear blast. The techniques have been widely ridiculed, although experts still support them. Some critics believe the film was meant to serve a dual purpose of propagandizing against communism.
 license: public domain
