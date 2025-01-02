@@ -1,6 +1,7 @@
 ---
 title: "Nancy Pelosi Insists the Election Was Not a Rebuke of the Democrats (youtube.com)"
 channel: "https://www.youtube.com/@NYTPodcasts"
+episode of: "https://www.youtube.com/@NYTPodcasts"
 excerpt: >-
   The former House Speaker reflects on Donald Trump’s victory, Kamala Harris’s candidacy and the future of the Democratic Party.
 interview of: Nancy Pelosi
