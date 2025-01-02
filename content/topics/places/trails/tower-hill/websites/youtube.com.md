@@ -1,6 +1,7 @@
 ---
 title: "Tower Hill Agate Rockhounding Monroe Washington (youtube.com)"
 creator: "[Quartz Cowboy](https://www.youtube.com/@QuartzCowboy)"
+episode of: "https://www.youtube.com/@QuartzCowboy"
 excerpt: "#towerhill #towerhillagate #melanophlogite"
 type: youtube
 url: /youtube.com/embed/UZuwjbubqs0/
