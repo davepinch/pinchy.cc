@@ -1,5 +1,6 @@
 ---
 title: "Adam Ruins Everything - The Conspiracy Behind Your Glasses (youtube.com)"
+episode of: "https://www.youtube.com/@trutv"
 excerpt: "Did you know that a single company controls 80% of all glasses and sunglasses brands?"
 related: >-
   The HBO series Last Week Tonight with John Oliver has criticized the company as a prominent instance of corporate consolidation, as has the TruTV series Adam Ruins Everything.
