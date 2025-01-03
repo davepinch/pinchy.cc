@@ -3,6 +3,7 @@ title: "I'm What the Culture Feeling (The full story of Kendrick Lamar Vs Drake)
 analysis of:
   - Kendrick Lamar
   - Drake
+episode of: F.D. Signifier
 type: youtube
 url: /www.youtube.com/embed/AEsf7QmIJTQ/
 video of: F.D. Signifier
