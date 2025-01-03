@@ -1,6 +1,7 @@
 ---
 title: "Charlie the Unicorn (youtube.com)"
 description: "Charlie and friends go to the mysterious Candy Mountain."
+episode of: "https://www.youtube.com/@filmcow"
 watch online of: Charlie the Unicorn
 type: youtube
 url: /youtube.com/embed/CsGYh8AacgY/
