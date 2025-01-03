@@ -1,6 +1,6 @@
 ---
 title: "High Dose SHROOMS Trip Simulation (POV) (youtube.com)"
-episode of: "[LokaVision](https://www.youtube.com/@LokaVision)"
+episode of: "https://www.youtube.com/@LokaVision"
 simulation of:
   - mushrooms
   - shrooms
