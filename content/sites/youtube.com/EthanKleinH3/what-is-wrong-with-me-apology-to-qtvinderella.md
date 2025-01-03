@@ -1,5 +1,6 @@
 ---
 title: "What is wrong with me? Apology to QTCinderella (YouTube)"
+episode of: "https://www.youtube.com/@EthanKleinH3"
 excerpt: "Hello everybody.I wanted to come here and discuss the situation with QTCinderella."
 type: youtube
 url: /www.youtube.com/watch?v=jUgEv_B3_tI/

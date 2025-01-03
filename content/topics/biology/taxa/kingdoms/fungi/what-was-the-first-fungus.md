@@ -1,6 +1,6 @@
 ---
 title: "What Was The First Fungus? (YouTube)"
-epside of: "https://www.youtube.com/@HistoryoftheEarth"
+episode of: "https://www.youtube.com/@HistoryoftheEarth"
 history of: fungus
 type: youtube
 url: /youtube.com/embed/KH9JVy-u5DQ/

@@ -3,6 +3,7 @@ title: "The Absolute Annihilation of Sneako - Video Vigilante (youtube.com)"
 annihilation of:
   - Gokanaru
   - Sneako
+episode of: "https://www.youtube.com/@Gokanaru"
 type: youtube
 url: /youtu.be/ekuxF-whakc/
 website: "https://www.youtube.com/watch?v=ekuxF-whakc"
