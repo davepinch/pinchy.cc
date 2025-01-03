@@ -1,6 +1,7 @@
 ---
 title: "Incredible Moiré Patterns! (youtube.com)"
 demonstration of: moiré pattern
+episode of: "https://www.youtube.com/@TheRoyalInstitution"
 excerpt: >-
   Sir Roger Penrose demonstrates the extraordinary moiré patterns produced by overlaying and rotating two identical, repeating patterns. As the two patterns overlapped and rotated they interfere with each other to produce tertiary patterns.
 type: youtube
