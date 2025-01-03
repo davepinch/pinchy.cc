@@ -10,5 +10,5 @@ highway of:
   - Washington
 westbound on U.S. Route 2: Everett, Washington
 tags:
-  - highway
+  - interstate highway
 ---
