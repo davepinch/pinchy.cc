@@ -1,5 +1,6 @@
 ---
 title: "A Bubbly Origin for Stars around the Sun (youtube.com)"
+episode of: "https://www.youtube.com/@CenterforAstrophysics"
 event of:
   - Miocene
   - Pliocene
