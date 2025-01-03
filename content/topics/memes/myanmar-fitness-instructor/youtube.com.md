@@ -1,6 +1,7 @@
 ---
 title: "Myanmar Dance Workout during the military coup | Full video (youtube)"
 description: This is the highest quality copy of the full video that I could find on YouTube.
+episode of: "https://www.youtube.com/@poo1090"
 type: youtube
 url: /youtube.com/embed/6r6vnSR0wbI/
 video of:
