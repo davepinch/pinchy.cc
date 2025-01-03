@@ -9,5 +9,6 @@ thumbnail: content/camera-roll/2024/12/2024-12-27-you-are-here-at-the-green-cree
 type: picture
 when: 2024-12-27
 tags:
+  - location
   - photograph
 ---
