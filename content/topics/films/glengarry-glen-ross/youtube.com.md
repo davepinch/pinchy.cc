@@ -1,5 +1,6 @@
 ---
 title: "Glengarry Glen Ross Speech (youtube.com)"
+episode of: "https://www.youtube.com/@BlueInfinityFilm"
 excerpt: >-
   Fragment of Glengarry Glen Ross(1992). Alec Baldwin gives a speech to the employees of a sales company. I can recommend this movie to anyone in sales. "Coffee is for closers only!" I do not own any of the rights to this movie.
 speech of:
