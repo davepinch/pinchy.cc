@@ -1,5 +1,6 @@
 ---
 title: "The Origin of the Zodiac Sign of Aquarius: Zeus and Ganymede - Greek Mythology - See U in History (youtube.com)"
+episode of: "https://www.youtube.com/@SeeUinHistory"
 mythology of: Aquarius
 type: youtube
 url: /youtube.com/embed/b2mUHGJvE_k/

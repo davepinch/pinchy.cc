@@ -1,6 +1,7 @@
 ---
 title: "Tiny Octopus Gets So Excited When His Diver Friend Comes To Visit Him | The Dodo (youtube.com)"
 description: "Tiny octopus swims up to this woman to gives her little handshakes — then waits for her every day to bring him gifts 😍"
+episode of: "https://www.youtube.com/@TheDodo"
 friendship of: octopus
 type: youtube
 url: /youtube.com/embed/V32yeA9yUuk/
