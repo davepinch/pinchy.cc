@@ -1,5 +1,6 @@
 ---
 title: "The Missile Knows Where It Is... (youtube.com)"
+episode of: "https://www.youtube.com/@Jeff7181"
 excerpt: >-
   The missile knows where it is at all times. It knows this because it knows where it isn't.
 how it knows: Inside the guidance system and computer of the Minuteman III nuclear missile (rightto.com)
