@@ -1,6 +1,7 @@
 ---
 title: "How Cathode Ray Tubes Work (youtube.com)"
 author: The 8-Bit Guy
+episode of: "https://www.youtube.com/@The8BitGuy"
 hacker news: "https://news.ycombinator.com/item?id=40770409"
 related: Cathode-ray tube (Wikipedia)
 type: youtube
