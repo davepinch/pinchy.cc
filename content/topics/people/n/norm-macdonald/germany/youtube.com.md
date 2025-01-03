@@ -1,5 +1,6 @@
 ---
 title: "Norm Macdonald on Germany (YouTube)"
+episode of: "https://www.youtube.com/@RayDorschner"
 excerpt: >-
   Norm Macdonald on David Letterman's last episode of The Late Show in 2015. It has been said that this is Norm's best joke by fellow comedian Jerry Seinfeld.
 germany of: Norm Macdonald
