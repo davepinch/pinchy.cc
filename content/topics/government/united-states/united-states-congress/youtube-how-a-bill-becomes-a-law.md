@@ -1,5 +1,6 @@
 ---
 title: "Schoolhouse Rock- How a Bill Becomes a Law (youtube.com)"
+episode of: "https://www.youtube.com/@TheItalix"
 explanation of:
   - United States House of Representatives
   - United States Congress
