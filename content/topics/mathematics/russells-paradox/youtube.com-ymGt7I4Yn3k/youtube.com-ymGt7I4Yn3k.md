@@ -1,5 +1,6 @@
 ---
 title: "Russell's Paradox - a simple explanation of a profound problem (youtube.com)"
+episode of: "https://www.youtube.com/@profjeffreykaplan"
 thumbnail: content/topics/mathematics/russells-paradox/youtube.com-ymGt7I4Yn3k/maxresdefault.jpg
 type: youtube
 url: /youtu.be/ymGt7I4Yn3k/
