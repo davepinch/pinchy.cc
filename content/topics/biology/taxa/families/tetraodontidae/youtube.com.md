@@ -1,5 +1,6 @@
 ---
 title: "Pufferfish Builds Sand Sculpture for Mating (youtube.com)"
+episode of: "https://www.youtube.com/@naturepbs"
 excerpt: >-
   Male Japanese pufferfish build exquisite sand sculptures to attract a mate. When a female is not impressed with this male's creation, Spy Puffer steps in as the artist’s assistant.
 pufferfish of: sculpture
