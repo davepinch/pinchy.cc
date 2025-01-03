@@ -12,7 +12,7 @@ westbound on Interstate 82:
   - Ellensburg, Washington (Wikipedia)
 wikipedia of:
   - Manastash Vista Point (eastbound)
-  - Manastach Vista Point (westbound)
+  - Manastash Vista Point (westbound)
 tags:
   - no Wikipedia article
   - TODO
