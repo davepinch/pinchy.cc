@@ -1,6 +1,6 @@
 ---
 title: "Infinity is bigger than you think - Numberphile (youtube.com)"
-channel: "[Numberphile](https://www.youtube.com/@numberphile)"
+episode of: "[Numberphile](https://www.youtube.com/@numberphile)"
 excerpt: >-
   Sometimes infinity is even bigger than you think... Dr James Grime explains with a little help from Georg Cantor.
 explanation of: infinity
