@@ -1,6 +1,6 @@
 ---
 title: "The Opposite of Infinity - Numberphile (youtube.com)"
-channel: "[Numberphile](https://www.youtube.com/@numberphile)"
+episode of: "[Numberphile](https://www.youtube.com/@numberphile)"
 excerpt: "Continuing to talk Infinitesimals, this time with Dr James Grime."
 explanation of: infinitesimal
 mention of:
