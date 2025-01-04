@@ -1,5 +1,5 @@
 ---
-title: "sound (geography)"
+title: "sound (landform)"
 tags:
   - sound
   - landform

@@ -10,5 +10,5 @@ connects to:
 sound of: Puget Sound
 wikidata: "https://www.wikidata.org/wiki/Q10937274"
 tags:
-  - sound (geography)
+  - sound (landform)
 ---

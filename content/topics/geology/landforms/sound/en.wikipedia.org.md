@@ -6,7 +6,7 @@ retrieved: 2024-09-22
 type: website
 url: /en.wikipedia.org/wiki/Sound_(geography)/
 website: "https://en.wikipedia.org/wiki/Sound_(geography)"
-wikipedia of: sound (geography)
+wikipedia of: sound (landform)
 tags:
   - Wikipedia
 ---

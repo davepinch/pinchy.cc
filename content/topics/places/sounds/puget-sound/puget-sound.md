@@ -25,5 +25,5 @@ sound of:
   - Pacific Northwest
 wikidata: "https://www.wikidata.org/wiki/Q604141"
 tags:
-  - sound (geography)
+  - sound (landform)
 ---
