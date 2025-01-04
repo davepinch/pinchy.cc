@@ -14,6 +14,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/11822742"
 township of:
   - White Bear Lake, Minnesota
   - Ramsey County, Minnesota
+wikidata: "https://www.wikidata.org/wiki/Q998331"
 tags:
   - township
 ---
