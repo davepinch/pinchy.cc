@@ -7,6 +7,7 @@ photograph of:
   - rest area
 picture: content/camera-roll/2024/12/2024-12-27-trucks-at-the-green-creek-rest-area/trucks-at-the-green-creek-rest-area.jpg
 thumbnail: content/camera-roll/2024/12/2024-12-27-trucks-at-the-green-creek-rest-area/trucks-at-the-green-creek-rest-area.thumbnail.jpg
+trucks of: Green Creek Rest Area
 type: picture
 when: 2024-12-27
 tags:
