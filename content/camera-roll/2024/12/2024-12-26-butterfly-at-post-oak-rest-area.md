@@ -1,7 +1,7 @@
 ---
 title: "Butterfly at Post Oak Rest Area"
 author: artist unknown
-butterfly of: Post Oak Rest Area
+butterfly of: Post Oak Rest Area Northbound
 license:
   - The drawing has unknown copyright.
   - The photograph is under fair use but grants to rights to the drawing.
