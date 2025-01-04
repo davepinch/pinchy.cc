@@ -4,5 +4,5 @@ spit of:
   - Whatcom County, Washington
   - Strait of Georgia
 tags:
-  - spit
+  - spit (landform)
 ---

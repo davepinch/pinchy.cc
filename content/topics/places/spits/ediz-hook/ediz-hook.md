@@ -5,5 +5,5 @@ sand spit of:
   - Strait of Juan de Fuca
 wikidata: "https://www.wikidata.org/wiki/Q5338765"
 tags:
-  - spit
+  - spit (landform)
 ---
