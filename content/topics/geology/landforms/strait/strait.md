@@ -5,6 +5,7 @@ tag requires property:
   - OpenStreetMap
   - Wikidata
   - Wikipedia
+wikidata: "https://www.wikidata.org/wiki/Q37901"
 tags:
   - landform
 ---
