@@ -7,7 +7,7 @@ retrieved: 2025-01-07
 type: website
 url: /en.wikipedia.org/wiki/Tributary/
 website: "https://en.wikipedia.org/wiki/Tributary"
-wikipedia of: Tributary
+wikipedia of: tributary
 tags:
   - Wikipedia
 ---
