@@ -7,7 +7,7 @@ retrieved: 2025-01-07
 type: website
 url: /en.wikipedia.org/wiki/Mudflat/
 website: "https://en.wikipedia.org/wiki/Mudflat"
-wikipedia of: mudflats
+wikipedia of: mudflat
 tags:
   - Wikipedia
 ---
