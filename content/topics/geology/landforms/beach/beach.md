@@ -11,6 +11,7 @@ tag requires property:
   - OpenStreetMap
   - Wikidata
   - Wikipedia
+wikidata: "https://www.wikidata.org/wiki/Q40080"
 tags:
   - landform
 ---

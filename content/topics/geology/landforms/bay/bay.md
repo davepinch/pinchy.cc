@@ -6,6 +6,7 @@ tag requires property:
   - OpenStreetMap
   - Wikidata
   - Wikipedia
+wikidata: "https://www.wikidata.org/wiki/Q39594"
 tags:
   - landform
 ---

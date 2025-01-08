@@ -8,6 +8,7 @@ tag requires property:
   - OpenStreetMap
   - Wikidata
   - Wikipedia
+wikidata: "https://www.wikidata.org/wiki/Q8502"
 tags:
   - landform
 ---
