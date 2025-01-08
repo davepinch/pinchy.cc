@@ -3,7 +3,6 @@ title: "Sun ripples on Lake Ballinger"
 license: CC BY-SA 4.0
 photograph of:
   - Lake Ballinger
-  - shoreline
   - Sun
   - sunlight
   - waves
