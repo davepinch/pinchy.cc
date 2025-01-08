@@ -8,5 +8,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Kootenai_County_Idaho_Incorporated_and_Unincorporated_areas_Coeur_dAlene_Highlighted_1616750.svg/
 website: "https://commons.wikimedia.org/wiki/File:Kootenai_County_Idaho_Incorporated_and_Unincorporated_areas_Coeur_d%27Alene_Highlighted_1616750.svg"
 tags:
+  - location
   - Wikimedia Commons
 ---
