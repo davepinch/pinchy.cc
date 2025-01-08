@@ -6,6 +6,5 @@ building of: Saint Paul, Minnesota
 type: place
 wikidata: "https://www.wikidata.org/wiki/Q5455616"
 tags:
-  - theater
-  - building
+  - theater building
 ---

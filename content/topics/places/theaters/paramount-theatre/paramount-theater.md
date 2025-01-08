@@ -1,7 +1,7 @@
 ---
 title: "Paramount Theatre"
 openstreetmap: "https://www.openstreetmap.org/way/115042486"
-theater of: Seattle
+theater building of: Seattle
 tags:
-  - theater
+  - theater building
 ---
