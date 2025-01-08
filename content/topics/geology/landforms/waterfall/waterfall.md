@@ -10,6 +10,7 @@ tag requires property:
   - waterfall of
   - Wikidata
   - Wikipedia
+wikidata: "https://www.wikidata.org/wiki/Q34038"
 tags:
   - fluvial landform
   - landform
