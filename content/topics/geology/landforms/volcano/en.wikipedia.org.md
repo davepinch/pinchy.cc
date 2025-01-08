@@ -7,7 +7,7 @@ retrieved: 2025-01-07
 type: website
 url: /en.wikipedia.org/wiki/Volcano/
 website: "https://en.wikipedia.org/wiki/Volcano"
-wikipedia of: Volcano
+wikipedia of: volcano
 tags:
   - Wikipedia
 ---
