@@ -7,7 +7,7 @@ retrieved: 2025-01-07
 type: website
 url: /en.wikipedia.org/wiki/Lake/
 website: "https://en.wikipedia.org/wiki/Lake"
-wikipedia of: Lake
+wikipedia of: lake
 tags:
   - Wikipedia
 ---
