@@ -11,6 +11,7 @@ tag requires property:
   - river of
   - Wikidata
   - Wikipedia
+wikidata: "https://www.wikidata.org/wiki/Q4022"
 tags:
   - fluvial landform
   - landform
