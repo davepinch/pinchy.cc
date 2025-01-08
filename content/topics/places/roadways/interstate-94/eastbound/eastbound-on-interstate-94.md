@@ -9,6 +9,7 @@ eastbound states:
   - Indiana
   - Michigan
 eastbound of: Interstate 94
+opposite: westbound on Interstate 94
 tags:
   - westbound
 ---
