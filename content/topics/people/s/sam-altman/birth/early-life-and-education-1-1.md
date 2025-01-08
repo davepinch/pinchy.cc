@@ -8,7 +8,7 @@ grew up in: St. Louis, Missouri
 license: CC BY-SA 4.0
 snippet of: Sam Altman (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Sam_Altman/
+url: /en.wikipedia.org/wiki/Sam_Altman/early-life-and-education-1-1/
 when: 1985-04-22
 tags:
   - birth
