@@ -1,6 +1,6 @@
 ---
 title: "Technoviking"
-also written as: Techno Viking
+viking of: dancing
 tags:
   - meme
 ---
