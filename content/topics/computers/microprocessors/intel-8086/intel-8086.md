@@ -7,5 +7,6 @@ operating systems:
 wikidata: "https://www.wikidata.org/wiki/Q207539"
 tags:
   - "16-bit"
+  - x86
   - microprocessor
 ---

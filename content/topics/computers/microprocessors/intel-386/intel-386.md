@@ -6,5 +6,6 @@ also known as:
 wikidata: "https://www.wikidata.org/wiki/Q237794"
 wikipedia: "https://en.wikipedia.org/wiki/I386"
 tags:
+  - x86
   - microprocessor
 ---
