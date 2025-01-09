@@ -5,6 +5,7 @@ excerpt: >-
 episode of: "https://www.youtube.com/@Rodzilla101"
 song of:
   - Technoviking
+  - Fuckparade
   - The original Technoviking video (youtube.com)
 type: youtube
 url: /youtu.be/Cm5YeM-LNUA/
