@@ -7,5 +7,6 @@ tag requires property:
   - OpenStreetMap
   - Wikidata
   - Wikipedia
+wikidata: "https://www.wikidata.org/wiki/Q1248784"
 wikipedia: "https://en.wikipedia.org/wiki/Airport"
 ---
