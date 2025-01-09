@@ -10,5 +10,6 @@ url: /en.wikipedia.org/wiki/Fitzgerald_Theater/
 website: "https://en.wikipedia.org/wiki/Fitzgerald_Theater"
 wikipedia of: Fitzgerald Theater
 tags:
+  - Theater (structure) (Wikipedia)
   - Wikipedia
 ---
