@@ -1,5 +1,6 @@
 ---
 title: "Technoviking"
+moment of: Fuckparade
 note: The video is the work of Matthias Fritsch. The viking is unknown.
 viking of:
   - dancing
