@@ -5,7 +5,7 @@ TODO: cheer up
 type: youtube
 url: /youtube.com/embed/UjCdB5p2v0Y/
 youtube-id: "UjCdB5p2v0Y"
-website: "https://www.youtube.com/watch?v=-UjCdB5p2v0Y"
+website: "https://www.youtube.com/watch?v=UjCdB5p2v0Y"
 when: 2000-07-08
 tags:
   - Technoviking
