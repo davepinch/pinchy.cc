@@ -8,6 +8,6 @@ spit of:
   - Strait of Georgia
 tags:
   - spit (landform)
-  - no Wikidata entry
+  - no Wikidata record
   - no Wikipedia article
 ---
