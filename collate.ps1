@@ -741,6 +741,71 @@ function Update-ReverseTags() {
 }
 
 # ========================================================================
+# Update-Sequences
+# ========================================================================
+
+function Update-Sequence($page) {
+    #
+    # Get the sequence property
+    #
+    $sequence = $page["sequence"]
+    if ($null -eq $sequence) {
+        return $false
+    }
+
+    #
+    # Cast the sequence to an array
+    #
+    if ($sequence -isnot [array]) {
+        $sequence = @($sequence)
+    }
+
+    #
+    # Loop through each element of the sequence except for the last element.
+    #
+    for ($i = 0; $i -lt $sequence.Length - 1; $i++) {
+
+        $currentElement = $sequence[$i]
+        $nextElement = $sequence[$i + 1]
+
+        #
+        # Get the page index of the current element
+        #
+        $currentIndex = $script:lookup[$currentElement]
+        if ($null -eq $currentIndex) {
+            Debug-Page $page "Sequence references non-existent title '$currentElement'"
+            continue
+        }
+
+        #
+        # Get the page for the current element
+        #
+        $currentPage = $script:pages[$currentIndex]
+
+        #
+        # Add a property with the current page title and set it to the value of the next element
+        #
+        $currentPage[$page["title"]] = $nextElement
+    }
+
+    return $true
+}
+
+function Update-Sequences() {
+    Write-Host "$(Get-EmojiLeftRightArrow) Sequences..."
+
+    $count = 0
+
+    foreach($page in $script:pages) {
+        if(Update-Sequence $page) {
+            $count++
+        }
+    }
+
+    Write-Host "Updated $count sequences"
+}
+
+# ========================================================================
 # Update-Timeline
 # ------------------------------------------------------------------------
 # This function updates the timeline property of a page to ensure that
@@ -904,6 +969,7 @@ Update-Ofs "in"
 Update-OnTheseDays
 Update-Randoms
 Update-ReverseTags
+Update-Sequences
 Update-Timelines
 Update-WikipediaFlagsAndLocations
 Update-Plurals
