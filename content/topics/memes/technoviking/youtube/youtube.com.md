@@ -1,7 +1,8 @@
 ---
 title: "The original Technoviking video (youtube.com)"
 artist: "subrealic.net - website of Matthias Fritsch (technoviking.tv)"
-TODO: cheer up
+episode of: "https://www.youtube.com/@86Ivar"
+original video of: Technoviking
 type: youtube
 url: /youtube.com/embed/UjCdB5p2v0Y/
 youtube-id: "UjCdB5p2v0Y"
