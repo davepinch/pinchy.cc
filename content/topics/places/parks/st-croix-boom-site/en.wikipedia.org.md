@@ -5,8 +5,6 @@ excerpt: >-
 park of:
   - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
   - Stillwater Township, Washington County, Minnesota (Wikipedia)
-northbound on highway 95: Marine on St. Croix, Minnesota (Wikipedia)
-southbound on highway 95: Stillwater, Minnesota (Wikipedia)
 retrieved: 2024-02-11
 type: website
 url: /en.wikipedia.org/wiki/St._Croix_Boom_Site/

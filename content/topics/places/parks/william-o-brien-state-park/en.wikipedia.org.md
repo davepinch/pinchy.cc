@@ -7,8 +7,6 @@ park of:
   - St. Croix River (Wisconsin–Minnesota) (Wikipedia)
   - Minnesota State Highway 95 (Wikipedia) 
 retrieved: 2024-02-11
-northbound on highway 95: Taylors Falls, Minnesota (Wikipedia)
-southbound on highway 95: Marine on St. Croix, Minnesota (Wikipedia)
 state park of: Minnesota (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/William_O'Brien_State_Park/
