@@ -7,7 +7,10 @@ borders:
   - Flag of Gabon (Wikimedia Commons)
   - Flag of Nigeria (Wikimedia Commons)
   - Flag of the Republic of the Congo (Wikimedia Commons)
-flag of: Cameroon
+flag of:
+  - Cameroon
+  - five-pointed star
+  - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Flag_of_Cameroon.svg"
 related: Cameroon (Wikipedia)
