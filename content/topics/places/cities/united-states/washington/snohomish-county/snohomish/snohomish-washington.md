@@ -11,7 +11,6 @@ near:
   - Everett, Washington
   - Lord Hill Regional Park
   - Monroe, Washington
-northbound on state route 9: Lake Stevens, Washington
 not to be confused with:
   - Snohomish County, Washington
   - Snohomish River
