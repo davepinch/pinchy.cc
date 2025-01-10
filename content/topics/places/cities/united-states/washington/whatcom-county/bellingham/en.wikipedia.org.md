@@ -10,10 +10,8 @@ excerpt: >-
 near:
   - Chuckanut Mountains (Wikipedia)
   - Deming, Washington (Wikipedia)
-northbound on interstate 5: Ferndale, Washington (Wikipedia)
 related: Family at Little Cheerful Cafe
 retrieved: 2023-11-13
-southbound on interstate 5: Lake Samish (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Bellingham,_Washington/
 website: "https://en.wikipedia.org/wiki/Bellingham,_Washington"

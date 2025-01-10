@@ -1,8 +1,6 @@
 ---
 title: "River Rock Tobacco & Fuel"
 address: "23704 13th Ave NE, Arlington, WA 98223"
-"Northbound on Interstate 5": "Conway, Washington"
-"Southbound on Interstate 5": "Smokey Point Rest Area Southbound"
 website: "https://riverrock.stillaguamish.com/"
 tags:
   - retail

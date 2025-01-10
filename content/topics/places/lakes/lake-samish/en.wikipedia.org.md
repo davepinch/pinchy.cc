@@ -6,9 +6,7 @@ lake of: Whatcom County, Washington (Wikipedia)
 near:
   - Chuckanut Mountains (Wikipedia)
   - Interstate 5 in Washington (Wikipedia)
-northbound on interstate 5: Bellingham, Washington (Wikipedia)
 retrieved: 2023-11-17
-southbound on interstate 5: Alger, Washington (Wikipedia)
 not to be confused with: Lake Sammamish (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Lake_Samish/
