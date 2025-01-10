@@ -5,7 +5,6 @@ census-designated place of:
   - Whatcom County, Washington
   - Washington State Route 9
   - Washington State Route 542
-eastbound on the Mount Baker Highway: Welcome, Washington
 near:
   - Bellingham, Washington
   - Racehorse Creek

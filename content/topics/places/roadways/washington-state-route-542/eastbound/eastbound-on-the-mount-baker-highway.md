@@ -1,9 +1,17 @@
 ---
 title: "eastbound on the Mount Baker Highway"
-start: Bellingham, Washington
+eastbound of: Washington State Route 542
+sequence:
+  - Bellingham, Washington
+  - "I-5 at MP 254.9: Sunset Dr (wsdot.com)"
+  - Deming, Washington
+  - Welcome, Washington
+  - Kendall, Washington
+  - Maple Falls, Washington
+  - Glacier, Washington
+  - Mount Baker
 type: fragment
 tags:
   - eastbound
-  - Mount Baker
-  - Washington State Route 542"
+  - sequence
 ---

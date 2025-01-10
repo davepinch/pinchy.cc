@@ -9,7 +9,6 @@ eastbound route:
   - Maple Falls, Washington
   - Glacier, Washington
   - Mount Baker
-eastbound on the mount baker highway: Bellingham, Washington
 highway of:
   - Whatcom County, Washington
   - Washington

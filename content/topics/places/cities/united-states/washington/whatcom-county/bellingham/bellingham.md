@@ -8,7 +8,6 @@ city of:
   - Interstate 5
   - Washington State Route 542
 county: Whatcom County, Washington
-eastbound on the Mount Baker Highway: Deming, Washington
 near:
   - Chuckanut Mountains
   - Deming, Washington
