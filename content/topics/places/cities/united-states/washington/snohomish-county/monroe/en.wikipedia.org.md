@@ -21,7 +21,6 @@ retrieved: 2023-07-16
 type: website
 url: /en.wikipedia.org/wiki/Monroe,_Washington/
 website: "https://en.wikipedia.org/wiki/Monroe,_Washington"
-westbound on U.S. Route 2: Pilchuck River (Wikipedia)
 wikipedia of: Monroe, Washington
 tags:
   - Wikipedia

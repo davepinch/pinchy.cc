@@ -13,7 +13,6 @@ retrieved: 2023-08-05
 type: website
 url: /en.wikipedia.org/wiki/Sultan,_Washington/
 website: "https://en.wikipedia.org/wiki/Sultan,_Washington"
-westbound on U.S. Route 2: Monroe, Washington (Wikipedia)
 wikipedia of: Sultan, Washington
 tags:
   - Wikipedia

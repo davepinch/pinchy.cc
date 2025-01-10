@@ -7,7 +7,6 @@ type: website
 unincorporated community of: Chelan County, Washington (Wikipedia)
 url: /en.wikipedia.org/wiki/Peshastin,_Washington/
 website: "https://en.wikipedia.org/wiki/Peshastin,_Washington"
-westbound on U.S. Route 2: Leavenworth, Washington (Wikipedia)
 wikipedia of: Peshatin, Washington
 tags:
   - Wikipedia

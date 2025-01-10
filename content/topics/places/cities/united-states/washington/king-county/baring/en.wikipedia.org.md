@@ -7,7 +7,6 @@ retrieved: 2024-08-21
 type: website
 url: /en.wikipedia.org/wiki/Baring,_Washington/
 website: "https://en.wikipedia.org/wiki/Baring,_Washington"
-westbound on U.S. Route 2: Index, Washington (Wikipedia)
 wikipedia of: Baring, Washington
 tags:
   - Wikipedia

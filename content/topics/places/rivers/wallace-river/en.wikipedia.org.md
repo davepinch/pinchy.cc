@@ -7,7 +7,6 @@ tributary of: Skykomish River (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Wallace_River/
 website: "https://en.wikipedia.org/wiki/Wallace_River"
-westbound on U.S. Route 2: Startup, Washington (Wikipedia)
 wikipedia of: Wallace River
 tags:
   - Wikipedia

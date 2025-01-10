@@ -13,7 +13,6 @@ retrieved: 2023-08-05
 type: website
 url: /en.wikipedia.org/wiki/Gold_Bar,_Washington/
 website: "https://en.wikipedia.org/wiki/Gold_Bar,_Washington"
-westbound on U.S. Route 2: Wallace River (Wikipedia)
 wikipedia of: Gold Bar, Washington
 tags:
   - Wikipedia

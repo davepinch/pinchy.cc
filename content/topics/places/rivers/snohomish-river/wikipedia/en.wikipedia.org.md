@@ -26,7 +26,6 @@ river of:
 type: website
 url: /en.wikipedia.org/wiki/Snohomish_River/
 website: "https://en.wikipedia.org/wiki/Snohomish_River"
-westbound on U.S. Route 2: Interstate 5 in Washington (Wikipedia)
 wikipedia of: Snohomish River
 tags:
   - Wikipedia

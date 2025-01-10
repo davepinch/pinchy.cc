@@ -15,7 +15,6 @@ tributary of: Snohomish River (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Pilchuck_River/
 website: "https://en.wikipedia.org/wiki/Pilchuck_River"
-westbound on U.S. Route 2: Snohomish River (Wikipedia)
 wikipedia of: Pilchuck River
 tags:
   - TODO

@@ -12,7 +12,6 @@ retrieved: 2023-10-02
 type: website
 url: /en.wikipedia.org/wiki/Skykomish_River/
 website: "https://en.wikipedia.org/wiki/Skykomish_River"
-westbound on U.S. Route 2: Gold Bar, Washington (Wikipedia)
 wikipedia of:
   - Skykomish River
   - North Fork Skykomish River

@@ -10,7 +10,6 @@ retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Index,_Washington/
 website: "https://en.wikipedia.org/wiki/Index,_Washington"
-westbound on U.S. Route 2: Skykomish River (Wikipedia)
 wikipedia of: Index, Washington
 tags:
   - Wikipedia

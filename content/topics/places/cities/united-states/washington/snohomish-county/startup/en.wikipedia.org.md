@@ -7,7 +7,6 @@ retrieved: 2024-08-21
 type: website
 url: /en.wikipedia.org/wiki/Startup,_Washington/
 website: "https://en.wikipedia.org/wiki/Startup,_Washington"
-westbound on U.S. Route 2: Sultan, Washington (Wikipedia)
 wikipedia of: Startup, Washington
 tags:
   - Wikipedia

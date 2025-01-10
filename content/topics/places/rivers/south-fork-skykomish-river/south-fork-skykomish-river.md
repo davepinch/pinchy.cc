@@ -6,7 +6,6 @@ river of:
   - Snohomish County, Washington
   - King County, Washington
 south fork of: Skykomish River
-westbound on U.S. Route 2: Skykomish River
 wikidata: "https://www.wikidata.org/wiki/Q100251473"
 tags:
   - river
