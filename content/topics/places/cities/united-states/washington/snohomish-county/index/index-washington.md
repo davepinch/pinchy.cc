@@ -3,7 +3,6 @@ title: "Index, Washington"
 city of:
   - Snohomish County, Washington
   - Skykomish River
-down the skykomish: Gold Bar, Washington
 eastbound on U.S. Route 2: Baring, Washington
 near: Mount Persis
 openstreetmap: "https://www.openstreetmap.org/relation/237661"
