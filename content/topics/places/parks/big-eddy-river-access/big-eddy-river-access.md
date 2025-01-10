@@ -3,7 +3,7 @@ title: "Big Eddy River Access"
 openstreetmap: "https://www.openstreetmap.org/way/64253126"
 park of:
   - Skykomish River
-  - Snohomish County
+  - Snohomish County, Washington
   - Washington
 tags:
   - park
