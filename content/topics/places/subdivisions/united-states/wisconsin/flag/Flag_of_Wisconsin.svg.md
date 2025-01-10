@@ -6,7 +6,6 @@ borders:
   - Flag_of_Michigan.svg (Wikimedia Commons)
   - Flag_of_Minnesota.svg (Wikimedia Commons)
 clockwise around lake superior: Flag_of_Minnesota.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Illinois.svg (Wikimedia Commons)
 flag of:
   - Wisconsin
   - anchor

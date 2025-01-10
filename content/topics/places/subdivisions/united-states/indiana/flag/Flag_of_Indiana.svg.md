@@ -5,7 +5,6 @@ borders:
   - Flag_of_Kentucky.svg (Wikimedia Commons)
   - Flag_of_Michigan.svg (Wikimedia Commons)
   - Flag_of_Ohio.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Ohio.svg (Wikimedia Commons)
 flag of:
   - Indiana
   - five-pointed star

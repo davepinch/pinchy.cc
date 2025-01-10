@@ -9,7 +9,6 @@ city of:
   - King County, Washington
   - Interstate 90
 clockwise around lake sammamish: Bellevue, Washington
-eastbound on interstate 90: North Bend, Washington
 near: Squak Mountain
 openstreetmap: "https://www.openstreetmap.org/relation/237874"
 wikidata: "https://www.wikidata.org/entity/Q40251"

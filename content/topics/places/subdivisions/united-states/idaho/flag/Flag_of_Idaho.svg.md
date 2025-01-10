@@ -9,7 +9,6 @@ borders:
   - Flag_of_Utah.svg (Wikimedia Commons)
   - Flag_of_Washington.svg (Wikimedia Commons)
   - Flag_of_Wyoming.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Montana.svg (Wikimedia Commons)
 flag of:
   - Idaho
   - circle

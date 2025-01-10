@@ -10,7 +10,6 @@ borders:
   - Flag_of_South_Dakota.svg (Wikimedia Commons)
   - Flag_of_Wisconsin.svg (Wikimedia Commons)
 clockwise around lake superior: Flag_of_Ontario.svg (Wikimedia Commons)
-eastbound on interstate 90: "Flag_of_Wisconsin.svg (Wikimedia Commons)"
 flag of:
   - Minnesota
   - eight-pointed star

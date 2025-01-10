@@ -7,7 +7,6 @@ borders:
   - Flag_of_Nebraska.svg (Wikimedia Commons)
   - Flag_of_South_Dakota.svg (Wikimedia Commons)
   - Flag_of_Utah.svg (Wikimedia Commons)
-eastbound on interstate 90: "Flag_of_South_Dakota.svg (Wikimedia Commons)"
 flag of:
   - Wyoming
   - bison

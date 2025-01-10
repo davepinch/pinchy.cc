@@ -5,7 +5,6 @@ census-designated place of:
   - Kittitas County, Washington
   - Columbia Plateau
   - Interstate 90
-eastbound on interstate 90: Vantage Bridge
 openstreetmap: "https://www.openstreetmap.org/relation/238278"
 wikidata: "https://www.wikidata.org/entity/Q1514736"
 tags:

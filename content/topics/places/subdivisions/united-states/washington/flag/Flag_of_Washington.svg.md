@@ -6,7 +6,6 @@ borders:
   - Flag_of_Idaho.svg (Wikimedia Commons)
   - Flag_of_Oregon.svg (Wikimedia Commons)
 down the pacific coast: Flag_of_Oregon.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Idaho.svg (Wikimedia Commons)
 flag of:
   - Washington
   - George Washington

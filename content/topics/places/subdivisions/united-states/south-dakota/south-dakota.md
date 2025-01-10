@@ -7,7 +7,6 @@ borders:
   - Nebraska
   - North Dakota
   - Wyoming
-eastbound on interstate 90: Minnesota
 state of:
   - Upper Midwest
   - Midwestern United States

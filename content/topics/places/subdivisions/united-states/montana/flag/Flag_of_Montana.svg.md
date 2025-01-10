@@ -9,7 +9,6 @@ borders:
   - Flag_of_Saskatchewan.svg (Wikimedia Commons)
   - Flag_of_South_Dakota.svg (Wikimedia Commons)
   - Flag_of_Wyoming.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Wyoming.svg (Wikimedia Commons)
 flag of:
   - Montana
   - circle

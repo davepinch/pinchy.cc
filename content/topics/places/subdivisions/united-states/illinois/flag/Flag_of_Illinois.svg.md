@@ -6,7 +6,6 @@ borders:
   - Flag_of_Kentucky.svg (Wikimedia Commons)
   - Flag_of_Missouri.svg (Wikimedia Commons)
   - Flag_of_Wisconsin.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Indiana.svg (Wikimedia Commons)
 flag of:
   - Illinois
   - eagle

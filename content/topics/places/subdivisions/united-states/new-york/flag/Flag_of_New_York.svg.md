@@ -11,7 +11,6 @@ borders:
   - Flag_of_Rhode_Island.svg (Wikimedia Commons)
   - Flag_of_Vermont.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_New_Jersey.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Massachusetts.svg
 flag of:
   - New York
   - eagle

@@ -10,7 +10,6 @@ borders:
   - Mississippi River
 clockwise around lake superior: Minnesota
 down the mississippi: Iowa
-eastbound on interstate 90: Illinois
 state of:
   - Upper Midwest
   - Midwestern United States

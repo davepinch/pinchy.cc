@@ -8,7 +8,6 @@ borders:
   - Flag_of_Ontario.svg (Wikimedia Commons)
   - Flag_of_Pennsylvania.svg (Wikimedia Commons)
   - Flag_of_West_Virginia.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Pennsylvania.svg (Wikimedia Commons)
 flag of:
   - Ohio
   - circle

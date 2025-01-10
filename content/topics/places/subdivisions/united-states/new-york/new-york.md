@@ -12,7 +12,6 @@ borders:
   - Rhode Island
   - Vermont
 down the atlantic coast: New Jersey
-eastbound on interstate 90: Massachusetts
 state of:
   - Mid-Atlantic
   - Northeastern United States

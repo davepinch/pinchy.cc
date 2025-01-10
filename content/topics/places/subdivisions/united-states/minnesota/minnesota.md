@@ -16,7 +16,6 @@ borders:
 capital: Saint Paul, Minnesota
 clockwise around lake superior: Ontario
 down the mississippi: Wisconsin
-eastbound on Interstate 90: I-90 Mississippi River Bridge
 rivers:
   - Minnesota River
   - Mississippi River

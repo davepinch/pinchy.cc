@@ -1,7 +1,50 @@
 ---
 title: "eastbound on Interstate 90"
 eastbound of: Interstate 90
-next: Seattle
+sequence:
+  - Washington
+  - King County, Washington
+  - Seattle
+  - Lake Washington
+  - Mercer Island, Washington
+  - Bellevue, Washington
+  - Issaquah, Washington
+  - North Bend, Washington
+  - Snoqualmie Pass
+  - Hyak, Washington
+  - Keechelus Lake
+  - Cle Elum, Washington
+  - Ellensburg, Washington
+  - Interstate 82
+  - Wild Horse Wind Farm
+  - Vantage, Washington
+  - Vantage Bridge
+  - Columbia River
+  - Grandfather Cuts Loose the Ponies
+  - George, Washington
+  - Spokane, Washington
+  - Idaho
+  - Coeur d'Alene, Idaho
+  - Montana
+  - Missoula, Montana
+  - Bozeman, Montana
+  - Livingston, Montana
+  - Billings, Montana
+  - Interstate 94
+  - Wyoming
+  - South Dakota
+  - Minnesota
+  - I-90 Mississippi River Bridge
+  - Mississippi River
+  - Wisconsin
+  - Illinois
+  - Chicago
+  - Indiana
+  - Ohio
+  - Pennsylvania
+  - New York
+  - Massachusetts
+  - Boston
 type: fragment
 tags:
   - eastbound

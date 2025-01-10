@@ -9,7 +9,6 @@ borders:
   - Pacific Ocean
 capitol building: Washington State Capitol
 down the pacific coast: Oregon
-eastbound on interstate 90: Idaho
 namesake of: George Washington
 state of:
   - Pacific Northwest

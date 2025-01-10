@@ -9,7 +9,6 @@ borders:
   - Ohio
   - Ontario
   - West Virginia
-eastbound on interstate 90: New York
 state of:
   - Mid-Atlantic
   - Northeastern United States

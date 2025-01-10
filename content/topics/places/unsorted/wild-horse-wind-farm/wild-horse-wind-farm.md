@@ -1,6 +1,5 @@
 ---
 title: "Wild Horse Wind Farm"
-eastbound on interstate 90: Vantage, Washington
 near:
   - Interstate 90
   - Ellensburg, Washington

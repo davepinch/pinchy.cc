@@ -5,7 +5,6 @@ bridge of:
   - Mississippi River
   - Minnesota
   - Wisconsin
-eastbound on interstate 90: Wisconsin
 near: Lock and Dam No. 7
 openstreetmap: "https://www.openstreetmap.org/relation/9866417"
 wikidata: "https://www.wikidata.org/wiki/Q5967579"

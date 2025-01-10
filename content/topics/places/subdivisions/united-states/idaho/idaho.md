@@ -9,7 +9,6 @@ borders:
   - Utah 
   - Washington
   - Wyoming
-eastbound on interstate 90: Montana
 state of:
   - Mountain States
   - Pacific Northwest

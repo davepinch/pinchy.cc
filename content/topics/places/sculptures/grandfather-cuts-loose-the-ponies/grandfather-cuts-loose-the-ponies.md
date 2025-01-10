@@ -1,6 +1,5 @@
 ---
 title: "Grandfather Cuts Loose the Ponies"
-eastbound on interstate 90: George, Washington
 near:
   - Columbia River
   - Vantage Bridge

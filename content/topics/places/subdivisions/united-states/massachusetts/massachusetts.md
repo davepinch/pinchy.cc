@@ -8,7 +8,6 @@ borders:
   - Rhode Island
   - Vermont
 down the atlantic coast: Rhode Island
-eastbound on interstate 90: Boston
 state of:
   - New England
   - Northeastern United States

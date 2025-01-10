@@ -9,7 +9,6 @@ borders:
   - Flag_of_Wyoming.svg (Wikimedia Commons)
 description: >-
   Flag of South Dakota, United States of America, created by [Xrmap](https://web.archive.org/web/20130930164315/http://www.arvernes.com/wiki/index.php/Xrmap) and released to the public domain.
-eastbound on interstate 90: Flag_of_Minnesota.svg (Wikimedia Commons)
 flag of:
   - South Dakota
   - circle

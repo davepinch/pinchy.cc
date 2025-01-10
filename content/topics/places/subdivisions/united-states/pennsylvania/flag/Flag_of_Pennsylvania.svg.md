@@ -9,7 +9,6 @@ border:
   - Flag_of_Ontario.svg (Wikimedia Commons)
   - Flag_of_Ohio.svg (Wikimedia Commons)
   - Flag_of_West_Virginia.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_New_York.svg (Wikimedia Commons)
 flag of:
   - Pennsylvania
   - eagle

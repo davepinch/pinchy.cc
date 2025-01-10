@@ -7,7 +7,6 @@ borders:
   - Flag_of_Rhode_Island.svg (Wikimedia Commons)
   - Flag_of_Vermont.svg (Wikimedia Commons)
 down the atlantic coast: Flag_of_Rhode_Island.svg (Wikimedia Commons)
-eastbound on interstate 90: Flag_of_Boston.svg
 flag of:
   - Massachusetts
   - five-pointed star

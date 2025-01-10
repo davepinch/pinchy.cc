@@ -6,7 +6,6 @@ city of:
   - Washington
   - Interstate 90
 eastbound on interstate 82: Manastash Ridge
-eastbound on interstate 90: Wild Horse Wind Farm
 near: Wild Horse Wind Farm
 openstreetmap: "https://www.openstreetmap.org/relation/7482975"
 wikidata: "https://www.wikidata.org/entity/Q868684"
