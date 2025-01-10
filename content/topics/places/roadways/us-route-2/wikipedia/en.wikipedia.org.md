@@ -9,12 +9,10 @@ highway of:
   - Cascade Range (Wikipedia)
   - United States (Wikipedia)
 retrieved: 2024-11-29
-TODO: document route in Washington
 type: website
 url: /en.wikipedia.org/wiki/U.S._Route_2/
 website: "https://en.wikipedia.org/wiki/U.S._Route_2"
 wikipedia of: U.S. Route 2
 tags:
   - Wikipedia
-  - TODO
 ---
