@@ -11,7 +11,6 @@ city of:
   - U.S. Route 2
   - Washington State Route 99
 down the pacific coast: Mukilteo, Washington
-eastbound on U.S. Route 2: Interstate 5
 near:
   - Snohomish, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237659"

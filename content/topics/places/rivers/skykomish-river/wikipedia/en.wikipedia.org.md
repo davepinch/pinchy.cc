@@ -1,6 +1,5 @@
 ---
 title: "Skykomish River (Wikipedia)"
-eastbound on U.S. Route 2: Index, Washington (Wikipedia)
 river of:
   - King County, Washington (Wikipedia)
   - Snohomish County, Washington (Wikipedia)

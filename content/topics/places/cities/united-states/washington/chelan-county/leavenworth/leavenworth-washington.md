@@ -1,7 +1,6 @@
 ---
 title: "Leavenworth, Washington"
 city of: Chelan County, Washington
-eastbound on U.S. Route 2: Peshastin, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237799"
 westbound on U.S. Route 2: Skykomish, Washington
 wikidata: "https://www.wikidata.org/entity/Q1025813"

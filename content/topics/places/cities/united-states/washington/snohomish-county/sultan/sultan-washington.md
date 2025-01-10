@@ -6,7 +6,6 @@ city of:
   - Skykomish River
   - Sultan River
 disambiguate of: sultan
-eastbound on U.S. Route 2: Startup, Washington
 near: Monroe, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237255"
 westbound on U.S. Route 2: Monroe, Washington

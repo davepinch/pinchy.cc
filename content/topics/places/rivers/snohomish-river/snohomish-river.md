@@ -10,7 +10,6 @@ course:
   - Everett, Washington
   - Port Gardner
   - Possession Sound
-eastbound on U.S. Route 2: Pilchuck River
 mouth: Port Gardner
 near:
   - Monroe, Washington

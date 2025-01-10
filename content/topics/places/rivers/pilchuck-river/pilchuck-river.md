@@ -1,6 +1,5 @@
 ---
 title: "Pilchuck River"
-eastbound on U.S. Route 2: Monroe, Washington
 not to be confused with: Pilchuck Creek
 openstreetmap: "https://www.openstreetmap.org/relation/14645435"
 river of:

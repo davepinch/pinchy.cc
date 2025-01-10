@@ -3,7 +3,6 @@ title: "Index, Washington"
 city of:
   - Snohomish County, Washington
   - Skykomish River
-eastbound on U.S. Route 2: Baring, Washington
 near: Mount Persis
 openstreetmap: "https://www.openstreetmap.org/relation/237661"
 westbound on U.S. Route 2: South Fork Skykomish River

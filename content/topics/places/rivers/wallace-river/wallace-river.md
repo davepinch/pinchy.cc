@@ -1,6 +1,5 @@
 ---
 title: "Wallace River"
-eastbound on U.S. Route 2: Gold Bar, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/14661376"
 river of: Snohomish County, Washington
 tributary of: Skykomish River

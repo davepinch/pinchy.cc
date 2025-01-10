@@ -6,7 +6,6 @@ city of:
   - Snohomish County, Washington
   - U.S. Route 2
   - Washington State Route 522
-eastbound on U.S. Route 2: Sultan, Washington
 namesake of: James Monroe
 near:
   - Lord Hill Regional Park

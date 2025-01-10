@@ -1,6 +1,5 @@
 ---
 title: "South Fork Skykomish River"
-eastbound on U.S. Route 2: Index, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/14650593"
 river of:
   - Mount Baker–Snoqualmie National Forest
