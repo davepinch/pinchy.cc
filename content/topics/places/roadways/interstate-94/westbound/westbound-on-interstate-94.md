@@ -1,6 +1,7 @@
 ---
 title: "westbound on Interstate 94"
-westbound states:
+opposite: eastbound on Interstate 94
+sequence:
   - Michigan
   - Indiana
   - Illinois
@@ -8,8 +9,9 @@ westbound states:
   - Minnesota
   - North Dakota
   - Montana
+type: fragment
 westbound of: Interstate 94
-opposite: eastbound on Interstate 94
 tags:
   - westbound
+  - sequence
 ---
