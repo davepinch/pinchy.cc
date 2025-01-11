@@ -3,6 +3,7 @@ title: "Martha Lake, Washington (Wikipedia)"
 borders:
   - Lake Stickney, Washington (Wikipedia)
   - Larch Way, Washington (Wikipedia)
+  - Mill Creek, Washington (Wikipedia)
   - incomplete list
 census-designated place of:
   - Snohomish County, Washington (Wikipedia)
