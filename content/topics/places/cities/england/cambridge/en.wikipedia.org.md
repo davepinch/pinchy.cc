@@ -7,7 +7,7 @@ retrieved: 2025-01-10
 type: website
 url: /en.wikipedia.org/wiki/Cambridge/
 website: "https://en.wikipedia.org/wiki/Cambridge"
-wikipedia of: Cambridge
+wikipedia of: Cambridge, England
 tags:
   - Wikipedia
 ---
