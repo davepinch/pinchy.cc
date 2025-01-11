@@ -10,7 +10,7 @@ retrieved: 2023-12-10
 type: website
 url: /en.wikipedia.org/wiki/Mid-Atlantic_(United_States)/
 website: "https://en.wikipedia.org/wiki/Mid-Atlantic_(United_States)"
-wikipedia of: Mid-Atlantic
+wikipedia of: Mid-Atlantic United States
 tags:
   - Wikipedia
 ---

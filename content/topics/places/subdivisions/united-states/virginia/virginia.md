@@ -10,7 +10,7 @@ borders:
   - West Virginia
 down the atlantic coast: North Carolina
 state of:
-  - Mid-Atlantic
+  - Mid-Atlantic United States
   - Southeastern United States
   - United States
 up the atlantic coast: Maryland

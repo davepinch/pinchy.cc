@@ -10,7 +10,7 @@ motto: Montani Semper Liberi
 nickname: The Mountain State
 state flower: Rhododendron maximum
 state of:
-  - Mid-Atlantic
+  - Mid-Atlantic United States
   - Southeastern United States
   - United States
 tags:

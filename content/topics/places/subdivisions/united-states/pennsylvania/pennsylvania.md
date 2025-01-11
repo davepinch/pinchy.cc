@@ -10,7 +10,7 @@ borders:
   - Ontario
   - West Virginia
 state of:
-  - Mid-Atlantic
+  - Mid-Atlantic United States
   - Northeastern United States
   - United States
 tags:

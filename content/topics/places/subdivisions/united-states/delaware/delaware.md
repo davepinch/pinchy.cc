@@ -7,7 +7,7 @@ borders:
   - Pennsylvania
 down the atlantic coast: Maryland
 state of:
-  - Mid-Atlantic
+  - Mid-Atlantic United States
   - United States
 up the atlantic coast: New Jersey
 tags:

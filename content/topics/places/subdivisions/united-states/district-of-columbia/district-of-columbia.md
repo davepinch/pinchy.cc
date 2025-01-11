@@ -6,6 +6,6 @@ borders:
 namesake of: George Washington
 not to be confused with: Washington
 state of:
-  - Mid-Atlantic
+  - Mid-Atlantic United States
   - United States
 ---

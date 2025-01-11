@@ -7,7 +7,7 @@ borders:
   - Pennsylvania
 down the atlantic coast: Delaware
 state of:
-  - Mid-Atlantic
+  - Mid-Atlantic United States
   - Northeastern United States
   - United States
 up the atlantic coast: New York
