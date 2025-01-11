@@ -9,4 +9,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49523330"
 tags:
   - park
   - no Wikipedia article
+  - VISIT SOMEWHERE NEW
 ---
