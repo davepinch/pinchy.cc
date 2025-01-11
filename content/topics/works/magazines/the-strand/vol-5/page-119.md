@@ -1,5 +1,6 @@
 ---
 title: "Hands - The Strand, Vol 5"
+➡️: "Hands - The Strand, Vol 5, page 120"
 article of: The Strand
 author: Beckles Wilson
 hand of: Queen Victoria

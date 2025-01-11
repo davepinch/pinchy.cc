@@ -1,5 +1,7 @@
 ---
 title: "Hands - The Strand, Vol 5, page 122"
+⬅️: "Hands - The Strand, Vol 5, page 121"
+➡️: "Hands - The Strand, Vol 5, page 123"
 license: public domain
 next: "Hands - The Strand, Vol 5, page 123"
 page 122 of: The Strand Vol. 5 – 1893 (archive.org)
