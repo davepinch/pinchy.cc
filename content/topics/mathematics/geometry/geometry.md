@@ -1,6 +1,6 @@
 ---
 title: "geometry"
+branch of: mathematics
 related: Pablo Picasso
-tags:
-  - mathematics
+wikidata: "https://www.wikidata.org/wiki/Q8087"
 ---
