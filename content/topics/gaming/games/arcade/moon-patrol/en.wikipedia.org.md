@@ -7,7 +7,9 @@ retrieved: 2025-01-11
 type: website
 url: /en.wikipedia.org/wiki/Moon_Patrol/
 website: "https://en.wikipedia.org/wiki/Moon_Patrol"
-wikipedia of: Moon Patrol (arcade)
+wikipedia of:
+  - Moon Patrol (arcade)
+  - Moon Patrol (Atari 2600)
 tags:
   - Wikipedia
 ---
