@@ -6,7 +6,7 @@ citation: >-
   Wikipedia contributors. (2024, December 31). Douglas Adams. In *Wikipedia, The Free Encyclopedia*. Retrieved 00:49, January 11, 2025, from https://en.wikipedia.org/w/index.php?title=Douglas_Adams&oldid=1266295254
 snippet of: Douglas Adams (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Douglas_Adams/
+url: /en.wikipedia.org/wiki/Douglas_Adams/early-life-1-1/
 when: 1952-03-11
 tags:
   - birth
