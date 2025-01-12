@@ -1,5 +1,8 @@
 ---
 title: "North Creek, Washington"
+borders:
+  - Martha Lake, Washington
+  - incomplete list
 census-designated place of:
   - Snohomish County, Washington
   - Washington
