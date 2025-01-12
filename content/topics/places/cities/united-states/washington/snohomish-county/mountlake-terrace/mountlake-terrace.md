@@ -1,6 +1,7 @@
 ---
 title: "Mountlake Terrace, Washington"
 borders:
+  - Alderwood Manor, Washington
   - Brier, Washington
   - Lake Ballinger
   - Lake Forest Park, Washington
