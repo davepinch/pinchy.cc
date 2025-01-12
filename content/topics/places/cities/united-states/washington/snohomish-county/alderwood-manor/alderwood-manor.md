@@ -2,8 +2,10 @@
 title: "Alderwood Manor, Washington"
 borders:
   - Bothell West, Washington
+  - Brier, Washington
   - Larch Way, Washington
-  - incomplete list
+  - Lynnwood, Washington
+  - Mountlake Terrace, Washington
 census-designated place of:
   - Snohomish County, Washington
 note: >-
