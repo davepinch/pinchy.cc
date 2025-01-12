@@ -1,6 +1,8 @@
 ---
 title: "Bothell, Washington"
 borders:
+  - Bothell East, Washington
+  - Bothell West, Washington
   - Brier, Washington
   - Kenmore, Washington
   - Kirkland, Washington
