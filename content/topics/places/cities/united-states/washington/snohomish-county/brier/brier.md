@@ -1,6 +1,7 @@
 ---
 title: "Brier, Washington"
 borders:
+  - Alderwood Manor, Washington
   - Bothell West, Washington
   - Kenmore, Washington
   - King County, Washington
