@@ -22,6 +22,7 @@ sequence:
   - Columbia River
   - Grandfather Cuts Loose the Ponies
   - George, Washington
+  - Ritzville, Washington
   - Spokane, Washington
   - Idaho
   - Coeur d'Alene, Idaho
