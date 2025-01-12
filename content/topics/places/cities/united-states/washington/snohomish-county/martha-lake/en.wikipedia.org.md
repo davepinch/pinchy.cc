@@ -1,10 +1,11 @@
 ---
 title: "Martha Lake, Washington (Wikipedia)"
 borders:
+  - Bothell West, Washington (Wikipedia)
   - Lake Stickney, Washington (Wikipedia)
   - Larch Way, Washington (Wikipedia)
   - Mill Creek, Washington (Wikipedia)
-  - incomplete list
+  - North Creek, Washington (Wikipedia)
 census-designated place of:
   - Snohomish County, Washington (Wikipedia)
 excerpt: >-
