@@ -6,8 +6,7 @@ borders:
   - Larch Way, Washington
   - Lynnwood, Washington
   - Mountlake Terrace, Washington
-census-designated place of:
-  - Snohomish County, Washington
+census-designated place of: Snohomish County, Washington
 note: >-
   Alderwood Manor "fills up" the tip where Internet 5 and Interstate 405 merge north of Seattle. 
 openstreetmap: "https://www.openstreetmap.org/relation/237465"
