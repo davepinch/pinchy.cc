@@ -1,6 +1,7 @@
 ---
 title: "Alderwood Manor, Washington"
 borders:
+  - Bothell West, Washington
   - Larch Way, Washington
   - incomplete list
 census-designated place of:

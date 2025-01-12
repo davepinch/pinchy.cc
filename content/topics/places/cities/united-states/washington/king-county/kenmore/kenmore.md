@@ -2,6 +2,7 @@
 title: "Kenmore, Washington"
 borders:
   - Bothell, Washington
+  - Bothell West, Washington
   - Brier, Washington
   - Kirkland, Washington
   - Lake Forest Park, Washington

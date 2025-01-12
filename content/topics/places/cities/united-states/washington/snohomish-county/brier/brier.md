@@ -1,7 +1,7 @@
 ---
 title: "Brier, Washington"
 borders:
-  - Bothell, Washington
+  - Bothell West, Washington
   - Kenmore, Washington
   - King County, Washington
   - Lake Forest Park, Washington
