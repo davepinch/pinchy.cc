@@ -1,7 +1,7 @@
 ---
 title: "Farmland outside Ritsville"
 agricultural land of:
-  - Ritsville, Washington
+  - Ritzville, Washington
   - Adams County, Washington
 author: David Pinch
 license: CC BY-SA 4.0
