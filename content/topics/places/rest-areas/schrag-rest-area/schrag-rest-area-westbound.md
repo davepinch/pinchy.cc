@@ -4,7 +4,7 @@ official website: "https://wsdot.wa.gov/travel/roads-bridges/rest-areas/schrag-i
 rest area of:
   - Interstate 90
   - Washington
-vicinity of: Ritsville, Washington
+vicinity of: Ritzville, Washington
 tags:
   - rest area
 ---
