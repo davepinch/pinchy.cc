@@ -2,6 +2,7 @@
 title: "Frozen shoreline of Wakefield Lake"
 author: David Pinch
 frozen shoreline of: Wakefield Lake
+license: CC BY-SA 4.0
 photograph of:
   - shoreline
   - lake
