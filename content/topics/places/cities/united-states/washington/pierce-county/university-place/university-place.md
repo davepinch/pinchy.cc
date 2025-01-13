@@ -2,6 +2,7 @@
 title: "University Place, Washington"
 borders:
   - Fircrest, Washington
+  - Lakewood, Washington
   - Puget Sound
   - Tacoma, Washington
   - incomplete list
