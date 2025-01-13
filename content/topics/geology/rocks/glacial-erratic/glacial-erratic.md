@@ -1,7 +1,7 @@
 ---
 title: "glacial erratic"
+rock of: glacier
 tags:
-  - glacier
   - rock
   - boulder
   - geology
