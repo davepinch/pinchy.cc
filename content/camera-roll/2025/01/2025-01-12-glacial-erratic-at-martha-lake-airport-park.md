@@ -2,6 +2,8 @@
 title: "Glacial erratic at Martha Lake Airport Park"
 airport boulder of: Martha Lake Airport Park
 author: David Pinch
+description: >-
+  Finally I reached the erratic after reading about it for months. It looks feasible to climb but I will try that next time. I then headed toward the park entrance nearby so grab a picture of the park sign.
 license: CC BY-SA 4.0
 photograph of:
   - Airport Boulder

@@ -1,6 +1,8 @@
 ---
 title: "Paper airplane at Martha Lake Airport Park"
 author: David Pinch
+description: >-
+  After parking, I notice some metallic sculptures along the west side of the park. These seem to be various forms of paper airplanes. An older man was walking by and I felt a bit awkward grabbing a picture, so I wanted for him to pass. I then looked around to find the glacial erratic that is supposed to be in the park. I see it in the distance.
 license: CC BY-SA 4.0
 paper airplane of:
   - sculpture
