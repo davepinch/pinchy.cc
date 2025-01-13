@@ -9,6 +9,7 @@ photograph of:
   - Weaver Elementary School
 picture: content/camera-roll/2025/01/2025-01-01-a-big-tree-overlooking-the-fields-at-weaver/a-big-tree-overlooking-the-fields-at-weaver.jpg
 thumbnail: content/camera-roll/2025/01/2025-01-01-a-big-tree-overlooking-the-fields-at-weaver/a-big-tree-overlooking-the-fields-at-weaver.thumbnail.jpg
+tree of: Weaver Elementary School
 type: picture
 when: 2025-01-01
 tags:
