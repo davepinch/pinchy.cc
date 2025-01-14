@@ -8,7 +8,7 @@ down the atlantic coast: Flag_of_Connecticut.svg (Wikimedia Commons)
 flag of:
   - Rhode Island
   - anchor
-  - star
+  - five-pointed star
   - hope
   - SVG
 license: public domain
