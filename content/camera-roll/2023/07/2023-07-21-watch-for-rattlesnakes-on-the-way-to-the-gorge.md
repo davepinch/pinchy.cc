@@ -6,9 +6,9 @@ near:
   - Grandfather Cuts Loose the Ponies
 photograph of:
   - sign
-  - Columbia River
   - Vantage Bridge
 picture: content/camera-roll/2023/07/2023-07-21-watch-for-rattlesnakes-on-the-way-to-the-gorge/watch-for-rattlesnakes-on-the-way-to-the-gorge.jpg
+rattlesnakes of: Columbia River
 sign of: rattlesnake
 thumbnail: content/camera-roll/2023/07/2023-07-21-watch-for-rattlesnakes-on-the-way-to-the-gorge/watch-for-rattlesnakes-on-the-way-to-the-gorge.thumbnail.jpg
 type: picture
