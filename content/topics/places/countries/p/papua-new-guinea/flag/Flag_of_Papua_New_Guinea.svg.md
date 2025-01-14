@@ -6,7 +6,6 @@ flag of:
   - bird-of-paradise
   - Crux
   - five-pointed star
-  - star
   - triangle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Flag_of_Papua_New_Guinea.svg"
