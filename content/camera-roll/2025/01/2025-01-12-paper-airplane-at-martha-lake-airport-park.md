@@ -7,6 +7,7 @@ license: CC BY-SA 4.0
 paper airplane of:
   - sculpture
   - Martha Lake Airport Park
+photograph of: park
 picture: content/camera-roll/2025/01/2025-01-12-paper-airplane-at-martha-lake-airport-park/paper-airplane-at-martha-lake-airport-park.jpg
 thumbnail: content/camera-roll/2025/01/2025-01-12-paper-airplane-at-martha-lake-airport-park/paper-airplane-at-martha-lake-airport-park.thumbnail.jpg
 type: picture
