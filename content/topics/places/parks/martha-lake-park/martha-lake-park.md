@@ -4,7 +4,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/17542938"
 park of:
   - Martha Lake
   - Martha Lake, Washington
-  - Snohomish County
+  - Snohomish County, Washington
   - Washington
 tags:
   - park
