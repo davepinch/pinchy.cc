@@ -1,6 +1,8 @@
 ---
 title: "GAVEL in Larch Way"
 author: artist unknown
+description: >-
+  A graffiti tag of "GAVEL" found on the Interurban Trail in Larch Way, Washington.
 fence of: graffiti
 graffiti of:
   - Larch Way, Washington

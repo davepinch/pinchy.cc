@@ -1,6 +1,8 @@
 ---
 title: "Looking down looking up on Martha Lake"
 author: David Pinch
+description: >-
+  I walked to a dock on Martha Lake and took a picture of the shoreline and reflections of clouds on the water.
 license: CC BY-SA 4.0
 looking down of: lake
 photograph of: Martha Lake
