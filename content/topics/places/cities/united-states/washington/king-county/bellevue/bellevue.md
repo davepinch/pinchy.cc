@@ -12,6 +12,7 @@ borders:
   - Redmond, Washington
 city of:
   - King County, Washington
+  - Lake Washington
   - Interstate 90
   - Washington State Route 520
 clockwise around lake sammamish: Redmond, Washington

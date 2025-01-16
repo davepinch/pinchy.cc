@@ -1,19 +1,5 @@
 ---
 title: "Lake Washington (Wikipedia)"
-cities:
-  - Beaux Arts Village, Washington (Wikipedia)
-  - Bellevue, Washington (Wikipedia)
-  - Bryn Mawr-Skyway, Washington (Wikipedia)
-  - Hunts Point, Washington (Wikipedia)
-  - Kenmore, Washington (Wikipedia)
-  - Kirkland, Washington (Wikipedia)
-  - Lake Forest Park, Washington (Wikipedia)
-  - Medina, Washington (Wikipedia)
-  - Mercer Island, Washington (Wikipedia)
-  - Newcastle, Washington (Wikipedia)
-  - Renton, Washington (Wikipedia)
-  - Seattle (Wikipedia)
-  - Yarrow Point, Washington (Wikipedia)
 crossed by:
   - Interstate 90 (Wikipedia)
   - Washington State Route 520 (Wikipedia)

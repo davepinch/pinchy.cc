@@ -13,8 +13,9 @@ borders:
   - incomplete list
 city of:
   - King County, Washington
-  - Interstate 90
+  - Lake Washington
   - Puget Sound
+  - Interstate 90
 clockwise around lake washington: Lake Forest Park, Washington
 near:
   - Bellevue, Washington

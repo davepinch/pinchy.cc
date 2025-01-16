@@ -7,6 +7,7 @@ borders:
   - Lake Washington
 city of:
   - King County, Washington
+  - Lake Washington
   - Washington State Route 520
 clockwise around lake washington: Bellevue, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237359"

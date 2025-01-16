@@ -10,6 +10,7 @@ borders:
   - Snohomish County, Washington
 city of:
   - King County, Washington
+  - Lake Washington
   - Sammamish River
   - Washington State Route 522
 clockwise around lake washington: Kirkland, Washington
