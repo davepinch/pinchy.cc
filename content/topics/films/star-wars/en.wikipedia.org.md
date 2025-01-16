@@ -7,7 +7,6 @@ excerpt: >-
 influenced by:
   - Seven Samurai (Wikipedia)
   - The Hidden Fortress (Wikipedia)
-parody: Spaceballs (Wikipedia)
 retrieved: 2024-06-15
 type: website
 url: /en.wikipedia.org/wiki/Star_Wars_(film)/
