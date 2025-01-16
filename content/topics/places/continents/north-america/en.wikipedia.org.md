@@ -7,8 +7,6 @@ continent of:
   - Northern Hemisphere (Wikipedia)
   - Earth (Wikipedia)
 retrieved: 2023-06-26
-setting of:
-  - The Hunger Games (novel) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/North_America/
 website: "https://en.wikipedia.org/wiki/North_America"
