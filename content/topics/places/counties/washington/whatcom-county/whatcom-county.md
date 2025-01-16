@@ -6,7 +6,9 @@ borders:
   - Pacific Ocean
   - San Juan County, Washington
   - Skagit County, Washington
-county of: Washington
+county of:
+  - Washington
+  - Cascade Range
 county seat: Bellingham, Washington
 northbound on interstate 5: Canada
 openstreetmap: "https://www.openstreetmap.org/relation/1153762"

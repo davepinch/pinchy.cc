@@ -8,7 +8,9 @@ borders:
   - Lewis County, Washington
   - Pierce County, Washington
   - Skamania County, Washington
-county of: Washington
+county of:
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/1153323"
 wikidata: "https://www.wikidata.org/wiki/Q156629"
 tags:

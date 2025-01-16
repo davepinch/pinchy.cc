@@ -7,7 +7,9 @@ borders:
   - Kittitas County, Washington
   - Pierce County, Washington
   - Snohomish County, Washington
-county of: Washington
+county of:
+  - Washington
+  - Cascade Range
 county seat: Seattle
 eastbound on interstate 90: Kittitas County, Washington
 namesake of: Martin Luther King Jr.
