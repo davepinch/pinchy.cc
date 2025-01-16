@@ -26,26 +26,17 @@ function Add-PropertyValue($page, $property, $value) {
 }
 
 # =======================================================================
-# Debug-Page
+# Debug-Path
 # -----------------------------------------------------------------------
-# This function writes a warning message and keeps track of the various
-# issues found in the markdown files.
+# Writes a warning about the file located at a specified path, and keeps
+# track of the total number of warnings found. The path is written to
+# the console window as a clickable link (press ctl-click to open).
 # =======================================================================
 
 #
 # Track the total number of warnings or issues found.
 #
 $script:foundProblems = 0
-
-function Debug-Page {
-    
-    param(
-        [hashtable]$page,
-        [string]$message
-    )
-
-    Debug-Path $page["::path"] $message
-}
 
 function Debug-Path() {
 
@@ -64,6 +55,22 @@ function Debug-Path() {
         Write-Host $path
         Write-Host
     }
+}
+
+# =======================================================================
+# Debug-Page
+# -----------------------------------------------------------------------
+# Shortcut to calling Debug-Path with a page instead of a string path.
+# =======================================================================
+
+function Debug-Page {
+    
+    param(
+        [hashtable]$page,
+        [string]$message
+    )
+
+    Debug-Path $page["::path"] $message
 }
 
 # ========================================================================
