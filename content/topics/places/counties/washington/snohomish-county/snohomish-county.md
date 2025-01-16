@@ -13,13 +13,6 @@ not to be confused with:
   - Snohomish, Washington
   - Snohomish River
 openstreetmap: "https://www.openstreetmap.org/relation/1153766"
-rivers:
-  - Pilchuck River
-  - Skykomish River
-  - Snohomish River
-  - Snoqualmie River
-  - Stillaguamish River
-  - Sultan River
 roadways:
   - Interstate 5
   - U.S. Route 2

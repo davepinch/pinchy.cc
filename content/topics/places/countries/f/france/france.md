@@ -22,7 +22,6 @@ country of:
   - Northwestern Europe
   - Europe
   - Mediterranean Sea
-nationality: French
 openstreetmap: "https://www.openstreetmap.org/relation/2202162"
 wikidata: "https://www.wikidata.org/wiki/Q142"
 tags:

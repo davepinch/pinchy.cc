@@ -10,9 +10,6 @@ river of:
   - Bothell, Washington
   - Kenmore, Washington
 source: Lake Sammamish
-tributaries:
-  - Swamp Creek
-  - incomplete list
 wikidata: "https://www.wikidata.org/wiki/Q7409639"
 tags:
   - river

@@ -16,10 +16,6 @@ borders:
 capital: Saint Paul, Minnesota
 clockwise around lake superior: Ontario
 down the mississippi: Wisconsin
-rivers:
-  - Minnesota River
-  - Mississippi River
-  - Saint Croix River
 see also: Twin Cities
 state of:
   - Upper Midwest

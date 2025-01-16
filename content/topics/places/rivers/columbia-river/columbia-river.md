@@ -13,9 +13,6 @@ river of:
   - Cascade Range
   - Washington
   - Oregon
-tributaries:
-  - Methow River
-  - incomplete list
 wikidata: "https://www.wikidata.org/wiki/Q2251"
 tags:
   - river

@@ -13,9 +13,6 @@ river of:
   - Bothell, Washington (Wikipedia)
   - Kenmore, Washington (Wikipedia)
 source: Lake Sammamish (Wikipedia)
-tributaries:
-  - Swamp Creek (Washington) (Wikipedia)
-  - incomplete list
 type: website
 url: /en.wikipedia.org/wiki/Sammamish_River/
 website: "https://en.wikipedia.org/wiki/Sammamish_River"

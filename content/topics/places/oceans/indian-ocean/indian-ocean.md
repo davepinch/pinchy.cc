@@ -1,16 +1,5 @@
 ---
 title: "Indian Ocean"
-countries:
-  - India
-  - Kenya
-  - Mozambique
-  - Oman
-  - Saudi Arabia
-  - Somalia
-  - South Africa
-  - Tanzania
-  - Yemen
-  - incomplete list
 ocean of: Earth
 parts:
   - Arabian Sea
