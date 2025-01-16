@@ -273,15 +273,6 @@ function Get-Lookup($pages) {
                 $hash[$lowercaseTitle] = $index
             }    
         }
-
-        #
-        # if type = website, add the website address to the lookup
-        #
-        #if ($page.type -eq "website") {
-        #    if ($null -ne $page.website) {
-        #        $hash[$page.website] = $index
-        #    }
-        #}
     }
 
     return $hash
