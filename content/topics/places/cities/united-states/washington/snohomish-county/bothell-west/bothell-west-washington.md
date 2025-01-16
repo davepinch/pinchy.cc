@@ -1,11 +1,13 @@
 ---
 title: "Bothell West, Washington"
-borders:
-  - Alderwood Manor, Washington
-  - Bothell, Washington
-  - Brier, Washington
-  - Kenmore, Washington
+borders clockwise from north:
   - Martha Lake, Washington
+  - North Creek, Washington
+  - Bothell East, Washington
+  - Bothell, Washington
+  - Kenmore, Washington
+  - Brier, Washington
+  - Alderwood Manor, Washington
 census-designated place of:
   - Bothell, Washington
   - Snohomish County, Washington
