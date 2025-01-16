@@ -6,6 +6,8 @@ crosses:
 openstreetmap: "https://www.openstreetmap.org/relation/6425328"
 river of:
   - British Columbia
+  - Skagit County, Washington
+  - Whatcom County, Washington
   - Washington
   - Puget Sound
   - Cascade Range

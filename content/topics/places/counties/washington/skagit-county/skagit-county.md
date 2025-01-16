@@ -14,11 +14,6 @@ county of:
 county seat: Mount Vernon, Washington
 northbound on interstate 5: Whatcom County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1153763"
-rivers:
-  - Samish River
-  - Sauk River
-  - Skagit River
-  - Stillaguamish River
 roadways:
   - Interstate 5
   - Washington State Route 9
