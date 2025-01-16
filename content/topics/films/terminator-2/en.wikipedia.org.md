@@ -8,7 +8,7 @@ film of:
   - Nuclear warfare (Wikipedia)
 retrieved: 2024-09-28
 type: website
-url: /en.wikipedia.org/wiki/Terminator_2:_Judgment_Day/
+url: /en.wikipedia.org/wiki/Terminator_2_Judgment_Day/
 website: "https://en.wikipedia.org/wiki/Terminator_2:_Judgment_Day"
 wikipedia of: "Terminator 2: Judgement Day"
 tags:
