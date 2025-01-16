@@ -1,5 +1,5 @@
 ---
 title: "John"
+draft: true
 type: person
-published: false
 ---

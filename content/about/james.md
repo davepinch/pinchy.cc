@@ -1,5 +1,5 @@
 ---
 title: "James"
 type: person
-published: false
+draft: true
 ---

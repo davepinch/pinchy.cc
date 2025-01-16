@@ -1,5 +1,5 @@
 ---
 title: "Larry"
+draft: true
 type: person
-published: false
 ---
