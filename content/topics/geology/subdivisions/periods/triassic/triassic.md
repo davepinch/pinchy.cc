@@ -7,7 +7,7 @@ subdivision of: Mesozoic
 subdivisions:
   - Early Triassic
   - Middle Triassic
-  - Late Triassic (Wikipedia)
+  - Late Triassic
 tags:
   - geologic period
 ---
