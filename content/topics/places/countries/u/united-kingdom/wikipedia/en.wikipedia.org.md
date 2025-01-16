@@ -10,8 +10,6 @@ excerpt: >-
 flag at sea: Flag_of_the_United_Kingdom_(1-2).svg (Wikimedia Commons)
 flag on land: Flag_of_the_United_Kingdom_(3-5).svg (Wikimedia Commons)
 retrieved: 2023-12-31
-setting of:
-  - Children of Men (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/United_Kingdom/
 website: "https://en.wikipedia.org/wiki/United_Kingdom"
