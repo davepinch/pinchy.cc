@@ -12,6 +12,7 @@ continent of:
   - Eurasia
   - Northern Hemisphere
   - Earth
+subdivision of: Eurasia
 wikidata: "https://www.wikidata.org/wiki/Q46"
 tags:
   - continent
