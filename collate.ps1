@@ -227,7 +227,7 @@ function Get-FrontMatter($file) {
     $yaml."::path" = $path
         
     #
-    # Adjust the path if it starts with "content\"
+    # Add another help property with the path relative to the content folder.
     #
     if ($path -like "content\*") {
         $yaml."::content" = $path.Substring(8) -replace '\\', '/'
