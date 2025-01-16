@@ -75,6 +75,8 @@ function Debug-Page {
 
 # ========================================================================
 # Get-Emoji characters
+# ------------------------------------------------------------------------
+# These functions return a string containing a single emoji character.
 # ========================================================================
 
 function Get-EmojiBookmark() {
