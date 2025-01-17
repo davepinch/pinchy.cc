@@ -1,9 +1,5 @@
 ---
 title: "Columbia River"
-cities:
-  - Wenatchee, Washington
-  - Vantage, Washington
-  - incomplete list
 crosses: Interstate 90
 near:
   - The Gorge Amphitheatre
