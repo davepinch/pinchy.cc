@@ -9,8 +9,8 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Flag_of_Savannah%2
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Savannah,_Georgia.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Savannah,_Georgia.svg"
-wikipedia: Savannah, Georgia (Wikipedia)
 tags:
   - flag
   - Wikimedia Commons
+  - no Wikipedia article
 ---
