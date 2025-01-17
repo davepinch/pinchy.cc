@@ -6,9 +6,6 @@ next period ➡: Permian (Wikipedia)
 ⬅ previous period: Devonian (Wikipedia)
 retrieved: 2023-12-17
 subdivision of: Paleozoic (Wikipedia)
-subdivisions:
-  - Mississippian (geology) (Wikipedia)
-  - Pennsylvanian (geology) (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Carboniferous/
 website: "https://en.wikipedia.org/wiki/Carboniferous"

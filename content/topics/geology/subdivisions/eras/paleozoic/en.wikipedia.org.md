@@ -7,13 +7,6 @@ next era ➡: Mesozoic (Wikipedia)
 ↖ previous eon: Proterozoic (Wikipedia)
 ⬅ previous era: Neoproterozoic (Wikipedia)
 subdivision of: Phanerozoic (Wikipedia)
-subdivisions:
-  - Cambrian (Wikipedia)
-  - Ordovician (Wikipedia)
-  - Silurian (Wikipedia)
-  - Devonian (Wikipedia)
-  - Carboniferous (Wikipedia)
-  - Permian (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Paleozoic/
 website: "https://en.wikipedia.org/wiki/Paleozoic"

@@ -7,7 +7,6 @@ borders:
   - Idaho
   - Oregon
   - Pacific Ocean
-capitol building: Washington State Capitol
 down the pacific coast: Oregon
 namesake of: George Washington
 state of:

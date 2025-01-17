@@ -5,10 +5,6 @@ excerpt: >-
 previous era: Mesozoic (Wikipedia)
 retrieved: 2023-12-17
 subdivision of: Phanerozoic (Wikipedia)
-subdivisions:
-  - Paleogene (Wikipedia)
-  - Neogene (Wikipedia)
-  - Quaternary (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Cenozoic/
 website: "https://en.wikipedia.org/wiki/Cenozoic"

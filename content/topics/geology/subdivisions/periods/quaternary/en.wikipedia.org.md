@@ -5,9 +5,6 @@ excerpt: >-
 ⬅ previous period: Neogene (Wikipedia)
 retrieved: 2023-12-17
 subdivision of: Cenozoic (Wikipedia)
-subdivisions:
-  - Pleistocene (Wikipedia)
-  - Holocene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Quaternary/
 website: "https://en.wikipedia.org/wiki/Quaternary"

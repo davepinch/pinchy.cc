@@ -6,10 +6,6 @@ next period ➡: Cretaceous (Wikipedia)
 ⬅ previous period: Triassic (Wikipedia)
 retrieved: 2023-12-17
 subdivision of: Mesozoic (Wikipedia)
-subdivisions:
-  - Early Jurassic (Wikipedia)
-  - Middle Jurassic (Wikipedia)
-  - Late Jurassic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Jurassic/
 website: "https://en.wikipedia.org/wiki/Jurassic"

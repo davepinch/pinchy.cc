@@ -6,9 +6,6 @@ next period ➡: Quaternary (Wikipedia)
 ⬅ previous period: Paleogene (Wikipedia)
 retrieved: 2023-08-05
 subdivision of: Cenozoic (Wikipedia)
-subdivisions:
-  - Miocene (Wikipedia)
-  - Pliocene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Neogene/
 website: "https://en.wikipedia.org/wiki/Neogene"

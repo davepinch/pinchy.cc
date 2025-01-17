@@ -6,11 +6,6 @@ next epoch ➡: Oligocene (Wikipedia)
 ⬅ previous epoch: Paleocene (Wikipedia)
 retrieved: 2023-11-04
 subdivision of: Paleogene (Wikipedia)
-subdivisions:
-  - Ypresian (Wikipedia)
-  - Lutetian (Wikipedia)
-  - Bartonian (Wikipedia)
-  - Priabonian (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Eocene/
 website: "https://en.wikipedia.org/wiki/Eocene"

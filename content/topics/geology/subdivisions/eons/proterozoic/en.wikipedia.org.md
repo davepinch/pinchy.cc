@@ -5,10 +5,6 @@ excerpt: >-
 next eon ➡: Phanerozoic (Wikipedia)
 ⬅ previous eon: Archean (Wikipedia)
 retrieved: 2023-12-17
-subdivisions:
-  - Paleoproterozoic (Wikipedia)
-  - Mesoproterozoic (Wikipedia)
-  - Neoproterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Proterozoic/
 website: "https://en.wikipedia.org/wiki/Proterozoic"

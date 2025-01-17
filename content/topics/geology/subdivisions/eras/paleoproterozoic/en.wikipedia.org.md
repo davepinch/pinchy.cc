@@ -7,11 +7,6 @@ next era ➡: Mesoproterozoic (Wikipedia)
 ↖ previous eon: Archean (Wikipedia)
 ⬅ previous era: Neoarchean (Wikipedia)
 subdivision of: Proterozoic (Wikipedia)
-subdivisions:
-  - Siderian (Wikipedia)
-  - Rhyacian (Wikipedia)
-  - Orosirian (Wikipedia)
-  - Statherian (Wikipedia)
 retrieved: 2023-12-17
 type: website
 url: /en.wikipedia.org/wiki/Paleoproterozoic/

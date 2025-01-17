@@ -7,10 +7,6 @@ next period ➡: Triassic (Wikipedia)
 ⬅ previous period: Carboniferous (Wikipedia)
 retrieved: 2023-11-16
 subdivsion of: Paleozoic (Wikipedia)
-subdivisions:
-  - Cisuralian (Wikipedia)
-  - Guadalupian (Wikipedia)
-  - Lopingian (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Permian/
 website: "https://en.wikipedia.org/wiki/Permian"

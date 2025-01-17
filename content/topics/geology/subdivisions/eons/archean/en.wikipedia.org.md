@@ -5,11 +5,6 @@ excerpt: >-
 next eon ➡: Proterozoic (Wikipedia)
 ⬅ previous eon: Hadean (Wikipedia)
 retrieved: 2023-12-17
-subdivisions:
-  - Eoarchean (Wikipedia)
-  - Paleoarchean (Wikipedia)
-  - Mesoarchean (Wikipedia)
-  - Neoarchean (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Archean/
 website: "https://en.wikipedia.org/wiki/Archean"

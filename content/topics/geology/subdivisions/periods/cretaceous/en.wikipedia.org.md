@@ -7,8 +7,6 @@ next period ➡: Paleogene (Wikipedia)
 ⬅ previous period: Jurassic (Wikipedia)
 retrieved: 2023-12-17
 subdivision of: Mesozoic (Wikipedia)
-subdivisions:
-  - Early Cretaceous (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Cretaceous/
 website: "https://en.wikipedia.org/wiki/Cretaceous"

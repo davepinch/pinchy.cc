@@ -6,10 +6,6 @@ next era ➡: Cenozoic (Wikipedia)
 ⬅ previous era: Paleozoic (Wikipedia)
 retrieved: 2023-12-17
 subdivision of: Phanerozoic (Wikipedia)
-subdivisions:
-  - Triassic (Wikipedia)
-  - Jurassic (Wikipedia)
-  - Cretaceous (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Mesozoic/
 website: "https://en.wikipedia.org/wiki/Mesozoic"

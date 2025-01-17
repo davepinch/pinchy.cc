@@ -7,10 +7,6 @@ next period ➡: Jurassic (Wikipedia)
 ⬅ previous period: Permian (Wikipedia)
 retrieved: 2023-12-17
 subdivision of: Mesozoic (Wikipedia)
-subdivisions:
-  - Early Triassic (Wikipedia)
-  - Middle Triassic (Wikipedia)
-  - Late Triassic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Triassic/
 website: "https://en.wikipedia.org/wiki/Triassic"

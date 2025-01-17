@@ -6,10 +6,6 @@ next era ➡: Neoproterozoic (Wikipedia)
 ⬅ previous era: Paleoproterozoic (Wikipedia)
 retrieved: 2023-12-17
 subdivision of: Proterozoic (Wikipedia)
-subdivisions:
-  - Calymmian (Wikipedia)
-  - Ectasian (Wikipedia)
-  - Stenian (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Mesoproterozoic/
 website: "https://en.wikipedia.org/wiki/Mesoproterozoic"

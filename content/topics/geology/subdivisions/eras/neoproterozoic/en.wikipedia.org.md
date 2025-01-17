@@ -5,12 +5,8 @@ excerpt: >-
 next eon ↗: Phanerozoic (Wikipedia)
 next era ➡: Paleozoic (Wikipedia)
 ⬅ previous era: Mesoproterozoic (Wikipedia)
-subdivision of: Proterozoic (Wikipedia)
 retrieved: 2023-12-17
-subdivisions:
-  - Tonian (Wikipedia)
-  - Cryogenian (Wikipedia)
-  - Ediacaran (Wikipedia)
+subdivision of: Proterozoic (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Neoproterozoic/
 website: "https://en.wikipedia.org/wiki/Neoproterozoic"

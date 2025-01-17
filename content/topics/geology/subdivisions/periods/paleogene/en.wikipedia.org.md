@@ -8,10 +8,6 @@ next period ➡: Neogene (Wikipedia)
 related: Tertiary (Wikipedia)
 retrieved: 2023-08-05
 subdivision of: Cenozoic (Wikipedia)
-subdivisions:
-  - Paleocene (Wikipedia)
-  - Eocene (Wikipedia)
-  - Oligocene (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Paleogene/
 website: "https://en.wikipedia.org/wiki/Paleogene"
