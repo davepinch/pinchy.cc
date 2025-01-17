@@ -1236,6 +1236,53 @@ function Test-RemotePictureRequiresLicenseAndWebsite($page) {
     }
 }
 
+function Test-UniquePropertyValuesFor($page) {
+
+    #
+    # Loop through each key of the page
+    #
+    foreach($key in $page.Keys) {
+
+        $array = $page[$key]
+        if ($array -isnot [array]) {
+            continue
+        }
+
+        #
+        # Create a set to hold each array item and check for dupes.
+        #
+        $set = New-Object System.Collections.Generic.HashSet[string]
+
+        #
+        # Add each value to the hashtable and check for conflicts.
+        #
+        foreach($v in $array) {
+            if ($null -eq $v) {
+                Debug-Page $page "Property '$key' has a null value"
+                continue
+            }
+
+            #
+            # Cast the value to a string for comparison purposes
+            #
+            $v = [string]$v
+
+            if ($set.Contains($v)) {
+                Debug-Page $page "Property '$key' has non-unique value '$v'"
+            }
+            else {
+                $ignoreReturnValue = $set.Add($v)
+            }
+        }
+    }
+}
+
+function Test-UniquePropertyValues() {
+    foreach($page in $script:pages) {
+        Test-UniquePropertyValuesFor $page
+    }
+}
+
 function Test-UniqueUrls() {
     foreach($page in $script:pages) {
         if ($null -ne $page["url"]) {
@@ -1275,6 +1322,7 @@ function Test-UrlMustStartAndEndWithSlash($page) {
 #
 Write-Host "Testing..."
 Test-TagRequirements
+Test-UniquePropertyValues
 Test-UniqueUrls
 
 foreach ($page in $script:pages) {
