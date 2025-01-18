@@ -6,8 +6,7 @@ retrieved: 2024-10-11
 type: website
 url: /en.wikipedia.org/wiki/Lozenge_(shape)/
 website: "https://en.wikipedia.org/wiki/Lozenge_(shape)"
-wikipedia of: rhombus
+wikipedia of: lozenge
 tags:
-  - Rhombus (Wikipedia)
   - Wikipedia
 ---
