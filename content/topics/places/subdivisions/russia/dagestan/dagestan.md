@@ -10,7 +10,6 @@ borders:
 clockwise around the caspian sea: Kalmykia
 openstreetmap: "https://www.openstreetmap.org/relation/109876"
 republic of: Russia
-wikipedia: "https://en.wikipedia.org/wiki/Dagestan"
 tags:
   - republic of Russia
 ---
