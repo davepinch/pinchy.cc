@@ -5,7 +5,6 @@ excerpt: >-
 retrieved: 2024-03-14
 type: website
 url: /en.wikipedia.org/wiki/Gang_war_in_Haiti/
-war of: Haiti (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Gang_war_in_Haiti"
 wikipedia of: Gang war in Haiti
 tags:

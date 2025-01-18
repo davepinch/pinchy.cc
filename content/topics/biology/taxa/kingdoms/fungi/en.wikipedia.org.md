@@ -11,7 +11,5 @@ YOU ARE NOT YOUR THOUGHTS:
   - "Fungi don't have neurons"
   - Neuron
 tags:
-  - Eukaryote (Wikipedia)
-  - Biology (Wikipedia)
   - Wikipedia
 ---

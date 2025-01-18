@@ -8,6 +8,5 @@ type: website
 website: "https://en.wikipedia.org/wiki/Mushroom"
 wikipedia of: mushroom
 tags:
-  - Fungus (Wikipedia)
   - Wikipedia
 ---

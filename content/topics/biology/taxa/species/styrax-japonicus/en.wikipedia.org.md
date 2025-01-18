@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Styrax_japonicus/
 website: "https://en.wikipedia.org/wiki/Styrax_japonicus"
 wikipedia of: Styrax japonicus
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

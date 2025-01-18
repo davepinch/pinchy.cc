@@ -8,7 +8,5 @@ url: /en.wikipedia.org/wiki/The_Truman_Show/
 website: "https://en.wikipedia.org/wiki/The_Truman_Show"
 wikipedia of: The Truman Show
 tags:
-  - Comedy film (Wikipedia)
-  - Drama (film and television) (Wikipedia)
   - Wikipedia
 ---

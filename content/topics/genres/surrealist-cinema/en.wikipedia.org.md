@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Surrealist_cinema/
 website: "https://en.wikipedia.org/wiki/Surrealist_cinema"
 wikipedia of: surrealist cinema
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

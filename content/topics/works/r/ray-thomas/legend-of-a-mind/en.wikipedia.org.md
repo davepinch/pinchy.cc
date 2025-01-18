@@ -8,7 +8,6 @@ type: website
 url: /en.wikipedia.org/wiki/Legend_of_a_Mind/
 website: "https://en.wikipedia.org/wiki/Legend_of_a_Mind"
 wikipedia of: Legend of a Mind
-written by: Ray Thomas (Wikipedia)
 tags:
   - Wikipedia
 ---

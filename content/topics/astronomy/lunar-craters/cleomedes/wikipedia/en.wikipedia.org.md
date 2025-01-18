@@ -6,7 +6,6 @@ retrieved: 2024-08-21
 type: website
 url: /en.wikipedia.org/wiki/Cleomedes_(crater)/
 website: "https://en.wikipedia.org/wiki/Cleomedes_(crater)"
-vicinity of: Mare Crisium (Wikipedia)
 wikipedia of: Cleomedes (crater)
 tags:
   - Wikipedia

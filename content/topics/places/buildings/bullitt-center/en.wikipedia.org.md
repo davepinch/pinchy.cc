@@ -1,8 +1,5 @@
 ---
 title: "Bullitt Center (Wikipedia)"
-building of:
-  - Central District, Seattle (Wikipedia)
-  - Capitol Hill, Seattle (Wikipedia)
 excerpt: >-
   The **Bullitt** Center is a commercial office building at the intersection of the [Central District](/en.wikipedia.org/wiki/Central_District,_Seattle/) neighborhood, and [Capitol Hill](/en.wikipedia.org/wiki/Capitol_Hill,_Seattle/), [Seattle](/en.wikipedia.org/wiki/Seattle/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/). It was officially opened on Earth Day, April 22, 2013. The Bullitt Center was designed to be the greenest commercial building in the world, and was certified as a "Living Building" by the International Living Future Institute in April 2015.
 related: Sunny reflection of two passing women

@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Actinopterygii/
 website: "https://en.wikipedia.org/wiki/Actinopterygii"
 wikipedia of: Actinopterygii
 tags:
-  - Class (biology) (Wikipedia)
   - Wikipedia
 ---

@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Asiago_cheese/
 website: "https://en.wikipedia.org/wiki/Asiago_cheese"
 wikipedia of: Asiago cheese
 tags:
-  - Italy (Wikipedia)
   - Wikipedia
 ---

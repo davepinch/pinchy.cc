@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Family_(biology)/
 website: "https://en.wikipedia.org/wiki/Family_(biology)"
 wikipedia of: family (biology)
 tags:
-  - Taxonomic rank (Wikipedia)
   - Wikipedia
 ---

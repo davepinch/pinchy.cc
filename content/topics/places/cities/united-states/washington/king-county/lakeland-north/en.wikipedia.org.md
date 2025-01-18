@@ -1,12 +1,5 @@
 ---
 title: "Lakeland North, Washington (Wikipedia)"
-borders:
-  - Auburn, Washington (Wikipedia)
-  - Federal Way, Washington (Wikipedia)
-  - Kent, Washington (Wikipedia)
-census-designated place of:
-  - King County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
 excerpt: >-
   **Lakeland North** is a census-designated place (CDP) in [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 13,663 at the 2020 census. Part of the community was annexed into neighboring [Auburn](/en.wikipedia.org/wiki/Auburn,_Washington/) in 2008.
 retrieved: 2024-07-10

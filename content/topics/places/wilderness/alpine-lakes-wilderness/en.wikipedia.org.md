@@ -7,7 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Alpine_Lakes_Wilderness/
 website: "https://en.wikipedia.org/wiki/Alpine_Lakes_Wilderness"
 wikipedia of: Alpine Lakes Wilderness
-wilderness area of: Washington (state) (Wikipedia)
 tags:
   - Wikipedia
 ---

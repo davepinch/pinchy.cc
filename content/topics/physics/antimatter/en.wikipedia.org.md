@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Antimatter/
 website: "https://en.wikipedia.org/wiki/Antimatter"
 wikipedia of: antimatter
 tags:
-  - Physics (Wikipedia)
   - Wikipedia
 ---

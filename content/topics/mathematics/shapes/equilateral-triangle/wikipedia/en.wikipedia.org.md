@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Equilateral_triangle/
 website: "https://en.wikipedia.org/wiki/Equilateral_triangle"
 wikipedia of: equilateral triangle
 tags:
-  - Triangle (Wikipedia)
   - Wikipedia
 ---

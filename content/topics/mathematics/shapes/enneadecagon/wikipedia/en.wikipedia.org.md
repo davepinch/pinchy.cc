@@ -1,7 +1,5 @@
 ---
 title: "Enneadecagon (Wikipedia)"
-➕ side: Icosagon (Wikipedia)
-➖ side: Octadecagon (Wikipedia)
 excerpt: >-
   A polygon with nineteen sides and nineteen angles.
 note: >-
@@ -14,6 +12,5 @@ website: "https://en.wikipedia.org/wiki/Enneadecagon"
 wikipedia of: enneadecagon
 wiktionary: "https://en.wiktionary.org/wiki/enneadecagon"
 tags:
-  - Polygon (Wikipedia)
   - Wikipedia
 ---

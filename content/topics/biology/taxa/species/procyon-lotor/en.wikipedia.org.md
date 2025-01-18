@@ -11,7 +11,5 @@ wikipedia of:
   - Procyon lotor
   - raccoon
 tags:
-  - Mammal (Wikipedia)
-  - Species (Wikipedia)
   - Wikipedia
 ---

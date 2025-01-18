@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Archaea/
 website: "https://en.wikipedia.org/wiki/Archaea"
 wikipedia of: Archaea
 tags:
-  - Domain (biology) (Wikipedia)
   - Wikipedia
 ---

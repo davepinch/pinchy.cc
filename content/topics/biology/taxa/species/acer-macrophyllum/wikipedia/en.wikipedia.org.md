@@ -11,7 +11,5 @@ wikipedia of:
   - Acer macrophyllum
   - bigleaf maple
 tags:
-  - Species (Wikipedia)
-  - Tree (Wikipedia)
   - Wikipedia
 ---

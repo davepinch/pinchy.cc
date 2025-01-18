@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Aquilegia_vulgaris/
 website: "https://en.wikipedia.org/wiki/Aquilegia_vulgaris"
 wikipedia of: Aquilegia vulgaris
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

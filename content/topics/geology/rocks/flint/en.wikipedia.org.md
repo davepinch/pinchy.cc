@@ -9,7 +9,5 @@ url: /en.m.wikipedia.org/wiki/Flint/
 website: "https://en.m.wikipedia.org/wiki/Flint"
 wikipedia of: flint
 tags:
-  - Chert (Wikipedia)
-  - Quartz (Wikipedia)
   - Wikipedia
 ---

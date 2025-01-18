@@ -7,7 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/The_Musical_Offering/
 website: "https://en.wikipedia.org/wiki/The_Musical_Offering"
 wikipedia of: The Musical Offering
-work of: Johann Sebastian Bach (Wikipedia)
 tags:
   - Wikipedia
 ---

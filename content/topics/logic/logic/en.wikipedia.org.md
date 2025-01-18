@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Logic/
 website: "https://en.wikipedia.org/wiki/Logic"
 wikipedia of: logic
 tags:
-  - Philosophy (Wikipedia)
   - Wikipedia
 ---

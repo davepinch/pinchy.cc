@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Black_comedy/
 website: "https://en.wikipedia.org/wiki/Black_comedy"
 wikipedia of: black comedy
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

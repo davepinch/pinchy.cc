@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Valerie_Solanas/
 website: "https://en.wikipedia.org/wiki/Valerie_Solanas"
 wikipedia of: Valerie Solanas
 tags:
-  - SCUM Manifesto (Wikipedia)
   - Wikipedia
 ---

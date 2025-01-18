@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/2001_A_Space_Odyssey/
 website: "https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey"
 wikipedia of: "2001: A Space Odyssey"
 tags:
-  - Science fiction (Wikipedia)
   - Wikipedia
 ---

@@ -8,7 +8,5 @@ url: /en.wikipedia.org/wiki/Fish/
 website: "https://en.wikipedia.org/wiki/Fish"
 wikipedia of: fish
 tags:
-  - Vertebrate (Wikipedia)
-  - Animal (Wikipedia)
   - Wikipedia
 ---

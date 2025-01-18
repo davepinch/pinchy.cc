@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Above_&_Beyond_(band)/
 website: "https://en.wikipedia.org/wiki/Above_&_Beyond_(band)"
 wikipedia of: Above & Beyond
 tags:
-  - Electronic music (Wikipedia)
   - Wikipedia
 ---

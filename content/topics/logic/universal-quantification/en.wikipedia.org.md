@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Universal_quantification/
 website: "https://en.wikipedia.org/wiki/Universal_quantification"
 wikipedia of: universal quantification
 tags:
-  - Quantifier (logic) (Wikipedia)
   - Wikipedia
 ---

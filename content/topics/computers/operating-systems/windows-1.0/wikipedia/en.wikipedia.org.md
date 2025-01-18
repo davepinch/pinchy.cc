@@ -5,7 +5,6 @@ excerpt: >-
 retrieved: 2024-12-04
 type: website
 url: /en.wikipedia.org/wiki/Windows_1.0/
-version of: Microsoft Windows (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Windows_1.0"
 wikipedia of: Windows 1.0
 tags:

@@ -10,6 +10,5 @@ wikipedia of:
   - insect
   - Insecta
 tags:
-  - Class (biology) (Wikipedia)
   - Wikipedia
 ---

@@ -1,15 +1,5 @@
 ---
 title: "Yarrow Point, Washington (Wikipedia)"
-borders:
-  - Clyde Hill, Washington (Wikipedia)
-  - Hunts Point, Washington (Wikipedia)
-  - Kirkland, Washington (Wikipedia)
-  - Lake Washington (Wikipedia)
-  - Washington State Route 520 (Wikipedia)
-city of:
-  - King County, Washington (Wikipedia)
-  - Washington State Route 520
-clockwise around lake washington: Hunts Point, Washington (Wikipedia)
 excerpt: >-
   **Yarrow Point** is a town in [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 1,001 at the 2010 census. Based on per capita income, one of the more reliable measures of affluence, Yarrow Point ranks fifth of 522 areas in the state of Washington to be ranked.
 near: Bellevue, Washington (Wikipedia)

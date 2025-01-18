@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Salt_(chemistry)/
 website: "https://en.wikipedia.org/wiki/Salt_(chemistry)"
 wikipedia of: salt
 tags:
-  - Chemical compound (Wikipedia)
   - Wikipedia
 ---

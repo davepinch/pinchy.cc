@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Binary_star/Astrometric_binaries/
 website: "https://en.wikipedia.org/wiki/Binary_star#Astrometric_binaries"
 wikipedia of: astrometric binary star
 tags:
-  - Binary star (Wikipedia)
   - Wikipedia
 ---

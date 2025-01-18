@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Whale/
 website: "https://en.wikipedia.org/wiki/Whale"
 wikipedia of: whale
 tags:
-  - Mammal (Wikipedia)
   - Wikipedia
 ---

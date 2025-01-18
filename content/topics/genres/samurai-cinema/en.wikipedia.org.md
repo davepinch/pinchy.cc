@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Samurai_cinema/
 website: "https://en.wikipedia.org/wiki/Samurai_cinema"
 wikipedia of: samurai cinema
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

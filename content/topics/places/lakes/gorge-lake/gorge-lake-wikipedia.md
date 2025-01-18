@@ -1,8 +1,5 @@
 ---
 title: "Gorge Lake (Wikipedia)"
-lake of:
-  - Skagit River (Wikipedia)
-  - Whatcom County, Washington (Wikipedia)
 TODO: No Gorge Lake article exists on Wikipedia. Create it.
 wikipedia of: Gorge Lake
 tags:

@@ -1,8 +1,5 @@
 ---
 title: "Pasco, Washington (Wikipedia)"
-city of:
-  - Franklin County, Washington (Wikipedia)
-  - Columbia Plateau (Wikipedia)
 excerpt: >-
   **Pasco** (/ˈpæskoʊ/ *PAS-koh*) is a city in, and the county seat of, Franklin County, Washington, United States. The population was 77,108 at the 2020 census, and 79,315 as of the July 1, 2022 estimate.
 retrieved: 2024-10-13

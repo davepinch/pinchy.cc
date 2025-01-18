@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Archipelago/
 website: "https://en.wikipedia.org/wiki/Archipelago"
 wikipedia of: archipelago
 tags:
-  - Landform (Wikipedia)
   - Wikipedia
 ---

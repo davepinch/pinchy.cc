@@ -10,8 +10,5 @@ wikipedia of:
   - pufferfish
   - Tetraodontidae
 tags:
-  - Family (biology) (Wikipedia)
-  - Tetraodontiformes (Wikipedia)
-  - Fish (Wikipedia)
   - Wikipedia
 ---

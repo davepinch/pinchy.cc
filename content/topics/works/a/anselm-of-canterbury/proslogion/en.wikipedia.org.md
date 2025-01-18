@@ -9,8 +9,6 @@ website: "https://en.wikipedia.org/wiki/Proslogion"
 wikipedia of:
   - Proslogion
   - Proslogium
-work of: Anselm of Canterbury (Wikipedia)
 tags:
-  - God (Wikipedia)
   - Wikipedia
 ---

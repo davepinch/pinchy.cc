@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Kali_tragus/
 website: "https://en.wikipedia.org/wiki/Kali_tragus"
 wikipedia of: Kali tragus
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

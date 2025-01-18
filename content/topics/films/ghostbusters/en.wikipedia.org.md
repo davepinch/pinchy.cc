@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Ghostbusters/
 website: "https://en.wikipedia.org/wiki/Ghostbusters"
 wikipedia of: Ghostbusters
 tags:
-  - Comedy film (Wikipedia)
   - Wikipedia
 ---

@@ -10,6 +10,5 @@ wikipedia of:
   - reptile
   - Reptilia
 tags:
-  - Class (biology) (Wikipedia)
   - Wikipedia
 ---

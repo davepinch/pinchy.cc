@@ -7,7 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Parallel_Lives/
 website: "https://en.wikipedia.org/wiki/Parallel_Lives"
 wikipedia of: Parallel Lives
-work of: Plutarch (Wikipedia)
 tags:
   - Wikipedia
 ---

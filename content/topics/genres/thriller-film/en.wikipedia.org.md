@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Thriller_film/
 website: "https://en.wikipedia.org/wiki/Thriller_film"
 wikipedia of: thriller film
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

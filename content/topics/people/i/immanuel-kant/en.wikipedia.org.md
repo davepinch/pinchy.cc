@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Immanuel_Kant/
 website: "https://en.wikipedia.org/wiki/Immanuel_Kant"
 wikipedia of: Immanuel Kant
 tags:
-  - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---

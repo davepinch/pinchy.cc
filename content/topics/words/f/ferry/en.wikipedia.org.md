@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Ferry/
 website: "https://en.wikipedia.org/wiki/Ferry"
 wikipedia of: ferry
 tags:
-  - Watercraft (Wikipedia)
   - Wikipedia
 ---

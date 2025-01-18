@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Boat/
 website: "https://en.wikipedia.org/wiki/Boat"
 wikipedia of: boat
 tags:
-  - Watercraft (Wikipedia)
   - Wikipedia
 ---

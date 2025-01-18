@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Horse/
 website: "https://en.wikipedia.org/wiki/Horse"
 wikipedia of: horse
 tags:
-  - Mammal (Wikipedia)
   - Wikipedia
 ---

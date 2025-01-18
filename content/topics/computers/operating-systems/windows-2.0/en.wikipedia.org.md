@@ -5,7 +5,6 @@ excerpt: >-
 retrieved: 2024-10-23
 type: website
 url: /en.wikipedia.org/wiki/Windows_2.0/
-version of: Microsoft Windows (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Windows_2.0"
 wikipedia of: Windows 2.0
 tags:

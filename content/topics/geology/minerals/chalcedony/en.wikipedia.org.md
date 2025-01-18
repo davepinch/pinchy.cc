@@ -8,8 +8,5 @@ url: /en.wikipedia.org/wiki/Chalcedony/
 website: "https://en.wikipedia.org/wiki/Chalcedony"
 wikipedia of: chalcedony
 tags:
-  - Quartz (Wikipedia)
-  - Moganite (Wikipedia)
-  - Mineral (Wikipedia)
   - Wikipedia
 ---

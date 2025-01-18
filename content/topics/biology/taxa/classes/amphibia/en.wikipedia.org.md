@@ -10,6 +10,5 @@ wikipedia of:
   - amphibian
   - Amphibia
 tags:
-  - Class (biology) (Wikipedia)
   - Wikipedia
 ---

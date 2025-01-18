@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Psilocybe_semilanceata/
 website: "https://en.wikipedia.org/wiki/Psilocybe_semilanceata"
 wikipedia of: Psilocybe semilanceata
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

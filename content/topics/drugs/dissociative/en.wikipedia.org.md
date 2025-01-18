@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Dissociative/
 website: "https://en.wikipedia.org/wiki/Dissociative"
 wikipedia of: dissociative
 tags:
-  - Hallucinogen (Wikipedia)
   - Wikipedia
 ---

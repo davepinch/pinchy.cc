@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Saddle_(landform)/
 website: "https://en.wikipedia.org/wiki/Saddle_(landform)"
 wikipedia of: saddle (landform)
 tags:
-  - Landform (Wikipedia)
   - Wikipedia
 ---

@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Biographical_film/
 website: "https://en.wikipedia.org/wiki/Biographical_film"
 wikipedia of: biographical film
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

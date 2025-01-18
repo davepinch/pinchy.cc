@@ -10,7 +10,5 @@ url: /en.wikipedia.org/wiki/Igneous_rock/
 website: "https://en.wikipedia.org/wiki/Igneous_rock"
 wikipedia of: igneous rock
 tags:
-  - Rock (geology) (Wikipedia)
-  - Geology (Wikipedia)
   - Wikipedia
 ---

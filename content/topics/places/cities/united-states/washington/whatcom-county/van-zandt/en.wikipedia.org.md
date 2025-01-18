@@ -5,13 +5,9 @@ excerpt: >-
 related: Frosted hills of the Cascades
 retrieved: 2023-12-26
 type: website
-unincorporated community of:
-  - Whatcom County, Washington (Wikipedia)
-  - Washington State Route 9 (Wikipedia)
 url: /en.wikipedia.org/wiki/Van_Zandt,_Washington/
 website: "https://en.wikipedia.org/wiki/Van_Zandt,_Washington"
 wikipedia of: Van Zandt, Washington
 tags:
-  - Unincorporated community (Wikipedia)
   - Wikipedia
 ---

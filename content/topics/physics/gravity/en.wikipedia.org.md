@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Gravity/
 website: "https://en.wikipedia.org/wiki/Gravity"
 wikipedia of: gravity
 tags:
-  - Physics (Wikipedia)
   - Wikipedia
 ---

@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Regular_hexagon/
 website: "https://en.wikipedia.org/wiki/Regular_hexagon"
 wikipedia of: regular hexagon
 tags:
-  - Polygon (Wikipedia)
   - Wikipedia
 ---

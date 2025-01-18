@@ -5,7 +5,6 @@ excerpt: >-
 retrieved: 2023-12-26
 type: website
 url: /en.wikipedia.org/wiki/Myanmar_civil_war_(2021–present)/
-war of: Myanmar (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Myanmar_civil_war_(2021–present)"
 wikipedia of: Myanmar civil war
 tags:

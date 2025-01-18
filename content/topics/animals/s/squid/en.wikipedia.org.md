@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Squid/
 website: "https://en.wikipedia.org/wiki/Squid"
 wikipedia of: squid
 tags:
-  - Mollusca (Wikipedia)
   - Wikipedia
 ---

@@ -6,7 +6,6 @@ retrieved: 2024-11-30
 type: website
 url: /en.wikipedia.org/wiki/Initial_singularity/
 website: "https://en.wikipedia.org/wiki/Initial_singularity"
-what happened first of: Big Bang (Wikipedia)
 wikipedia of: initial singularity
 tags:
   - Wikipedia

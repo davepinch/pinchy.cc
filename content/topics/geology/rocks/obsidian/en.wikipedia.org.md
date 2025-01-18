@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Obsidian/
 website: "https://en.wikipedia.org/wiki/Obsidian"
 wikipedia of: obsidian
 tags:
-  - Igneous rock (Wikipedia)
   - Wikipedia
 ---

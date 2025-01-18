@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Epidote/
 website: "https://en.wikipedia.org/wiki/Epidote"
 wikipedia of: epidote
 tags:
-  - Mineral (Wikipedia)
   - Wikipedia
 ---

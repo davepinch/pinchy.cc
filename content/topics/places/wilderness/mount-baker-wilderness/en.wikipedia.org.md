@@ -7,11 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Mount_Baker_Wilderness/
 website: "https://en.wikipedia.org/wiki/Mount_Baker_Wilderness"
 wikipedia of: Mount Baker Wilderness
-wilderness area of:
-  - Mount Baker–Snoqualmie National Forest (Wikipedia)
-  - Whatcom County, Washington (Wikipedia)
-  - Skagit County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
 tags:
   - Wikipedia
 ---

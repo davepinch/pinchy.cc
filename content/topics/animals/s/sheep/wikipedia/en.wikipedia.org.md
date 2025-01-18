@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Sheep/
 website: "https://en.wikipedia.org/wiki/Sheep"
 wikipedia of: sheep
 tags:
-  - Mammal (Wikipedia)
   - Wikipedia
 ---

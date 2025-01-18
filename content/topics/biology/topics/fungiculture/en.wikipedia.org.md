@@ -8,7 +8,5 @@ url: /en.wikipedia.org/wiki/Fungiculture/
 website: "https://en.wikipedia.org/wiki/Fungiculture"
 wikipedia of: fungiculture
 tags:
-  - Mushroom (Wikipedia)
   - Wikipedia
 ---
-

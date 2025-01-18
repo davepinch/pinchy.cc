@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Prison_film/
 website: "https://en.wikipedia.org/wiki/Prison_film"
 wikipedia of: prison film
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

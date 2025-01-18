@@ -7,7 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Alice_Bailey/
 website: "https://en.wikipedia.org/wiki/Alice_Bailey"
 wikipedia of: Alice Bailey
-writer of: Theosophy (Wikipedia)
 tags:
   - Wikipedia
 ---

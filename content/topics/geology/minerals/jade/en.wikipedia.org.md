@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Jade/
 website: "https://en.wikipedia.org/wiki/Jade"
 wikipedia of: jade
 tags:
-  - Mineral (Wikipedia)
   - Wikipedia
 ---

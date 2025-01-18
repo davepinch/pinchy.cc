@@ -10,8 +10,5 @@ url: /en.wikipedia.org/wiki/Bedrock/
 website: "https://en.wikipedia.org/wiki/Bedrock"
 wikipedia of: bedrock
 tags:
-  - Rock (geology) (Wikipedia)
-  - Earth (Wikipedia)
-  - Geology (Wikipedia)
   - Wikipedia
 ---

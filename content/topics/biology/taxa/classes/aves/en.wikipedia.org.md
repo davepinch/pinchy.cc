@@ -10,6 +10,5 @@ wikipedia of:
   - bird
   - Aves
 tags:
-  - Class (biology) (Wikipedia)
   - Wikipedia
 ---

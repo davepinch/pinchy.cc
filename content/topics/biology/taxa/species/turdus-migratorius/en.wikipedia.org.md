@@ -10,6 +10,5 @@ wikipedia of:
   - American robin
   - Turdus migratorius
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

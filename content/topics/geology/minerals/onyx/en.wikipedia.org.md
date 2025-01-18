@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Onyx/
 website: "https://en.wikipedia.org/wiki/Onyx"
 wikipedia of: onyx
 tags:
-  - Mineral (Wikipedia)
   - Wikipedia
 ---

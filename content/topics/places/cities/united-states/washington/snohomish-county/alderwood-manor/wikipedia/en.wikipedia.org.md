@@ -1,12 +1,5 @@
 ---
 title: "Alderwood Manor, Washington (Wikipedia)"
-borders:
-  - Bothell West, Washington (Wikipedia)
-  - Brier, Washington (Wikipedia)
-  - Larch Way, Washington (Wikipedia)
-  - Lynnwood, Washington (Wikipedia)
-  - Mountlake Terrace, Washington (Wikipedia)
-census-designated place of: Snohomish County, Washington (Wikipedia)
 excerpt: >-
   **Alderwood Manor** is a census-designated place (CDP) in [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 10,198 at the 2020 census. Prior to the 2000 census, Alderwood Manor was counted as part of the Alderwood Manor-Bothell North CDP.
 retrieved: 2024-06-12

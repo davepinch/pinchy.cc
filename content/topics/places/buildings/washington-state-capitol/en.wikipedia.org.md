@@ -1,7 +1,5 @@
 ---
 title: "Washington State Capitol (Wikipedia)"
-building of: Olympia, Washington (Wikipedia)
-capitol building of: Washington (state) (Wikipedia)
 excerpt: >-
   The **Washington State Capitol** (or "*Legislative Building*") in Olympia is the home of the government of the State of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). It contains the chambers of the Washington State Legislature, offices for the governor, lieutenant governor, secretary of state, and state treasurer. It is part of a larger administrative campus including buildings for the Washington Supreme Court, the Washington Governor's Mansion, and many other state agencies.
 retrieved: 2024-06-25

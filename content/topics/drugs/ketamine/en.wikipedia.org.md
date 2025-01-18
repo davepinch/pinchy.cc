@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Ketamine/
 website: "https://en.wikipedia.org/wiki/Ketamine"
 wikipedia of: ketamine
 tags:
-  - Dissociative (Wikipedia)
   - Wikipedia
 ---

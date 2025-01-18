@@ -6,7 +6,6 @@ retrieved: 2024-10-22
 type: website
 url: /en.wikipedia.org/wiki/Holy_Week/
 website: "https://en.wikipedia.org/wiki/Holy_Week"
-week ahead of: Easter (Wikipedia)
 wikipedia of: Holy Week
 tags:
   - Wikipedia

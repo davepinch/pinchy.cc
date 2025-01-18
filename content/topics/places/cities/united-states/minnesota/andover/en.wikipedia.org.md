@@ -1,6 +1,5 @@
 ---
 title: "Andover, Minnesota (Wikipedia)"
-city of: Anoka County, Minnesota (Wikipedia)
 excerpt: >-
   **Andover** is a city in Anoka County, Minnesota, United States. The population was 32,601 at the 2020 census.
 retrieved: 2024-10-14

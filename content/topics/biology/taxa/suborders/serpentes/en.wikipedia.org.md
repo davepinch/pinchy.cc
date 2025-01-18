@@ -10,6 +10,5 @@ wikipedia of:
   - snake
   - Serpentes
 tags:
-  - Reptile (Wikipedia)
   - Wikipedia
 ---

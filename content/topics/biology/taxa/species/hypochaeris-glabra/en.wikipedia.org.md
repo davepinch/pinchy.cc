@@ -11,6 +11,5 @@ wikipedia of:
   - Hypochaeris glabra
   - smooth cat's ear
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

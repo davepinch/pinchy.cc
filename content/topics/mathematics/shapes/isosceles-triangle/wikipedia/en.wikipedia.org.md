@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Isosceles_triangle/
 website: "https://en.wikipedia.org/wiki/Isosceles_triangle"
 wikipedia of: isosceles triangle
 tags:
-  - Triangle (Wikipedia)
   - Wikipedia
 ---

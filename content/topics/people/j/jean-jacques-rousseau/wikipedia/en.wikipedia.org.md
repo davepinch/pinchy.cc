@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Jean-Jacques_Rousseau/
 website: "https://en.wikipedia.org/wiki/Jean-Jacques_Rousseau"
 wikipedia of: Jean-Jacques Rousseau
 tags:
-  - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---

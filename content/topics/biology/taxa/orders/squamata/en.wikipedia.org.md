@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Squamata/
 website: "https://en.wikipedia.org/wiki/Squamata"
 wikipedia of: Squamata
 tags:
-  - Order (biology) (Wikipedia)
   - Wikipedia
 ---

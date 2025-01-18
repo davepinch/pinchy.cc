@@ -7,8 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/Sedimentary_rock/
 website: "https://en.wikipedia.org/wiki/Sedimentary_rock"
 wikipedia of: sedimentary rock
-tags:
-  - Rock (geology) (Wikipedia)
-  - Geology (Wikipedia)  
+tags: 
   - Wikipedia
 ---

@@ -5,7 +5,6 @@ excerpt: >-
 retrieved: 2024-10-05
 type: website
 url: /en.wikipedia.org/wiki/Spacewar!/
-video game of: PDP-1 (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Spacewar!"
 wikipedia of: Spacewar!
 tags:

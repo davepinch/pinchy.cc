@@ -10,7 +10,5 @@ wikipedia of:
   - crab
   - Brachyura
 tags:
-  - Crustacean (Wikipedia)
-  - Jurassic (Wikipedia)
   - Wikipedia
 ---

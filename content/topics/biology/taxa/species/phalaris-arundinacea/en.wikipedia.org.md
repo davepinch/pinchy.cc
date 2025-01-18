@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Phalaris_arundinacea/
 website: "https://en.wikipedia.org/wiki/Phalaris_arundinacea"
 wikipedia of: Phalaris arundinacea
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

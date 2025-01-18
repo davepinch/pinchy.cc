@@ -8,7 +8,5 @@ url: /en.wikipedia.org/wiki/Species/
 website: "https://en.wikipedia.org/wiki/Species"
 wikipedia of: species
 tags:
-  - Taxonomic rank (Wikipedia)
-  - Biology (Wikipedia)
   - Wikipedia
 ---

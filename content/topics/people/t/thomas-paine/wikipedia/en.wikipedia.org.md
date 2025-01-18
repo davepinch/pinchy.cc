@@ -11,6 +11,5 @@ url: /en.wikipedia.org/wiki/Thomas_Paine/
 website: "https://en.wikipedia.org/wiki/Thomas_Paine"
 wikipedia of: Thomas Paine
 tags:
-  - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---

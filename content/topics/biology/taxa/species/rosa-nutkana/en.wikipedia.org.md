@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Rosa_nutkana/
 website: "https://en.wikipedia.org/wiki/Rosa_nutkana"
 wikipedia of: Rosa nutkana
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

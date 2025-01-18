@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Arthropod/
 website: "https://en.wikipedia.org/wiki/Arthropod"
 wikipedia of: Arthropoda
 tags:
-  - Animal (Wikipedia)
   - Wikipedia
 ---

@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Cockroach/
 website: "https://en.wikipedia.org/wiki/Cockroach"
 wikipedia of: cockroach
 tags:
-  - Insect (Wikipedia)
   - Wikipedia
 ---

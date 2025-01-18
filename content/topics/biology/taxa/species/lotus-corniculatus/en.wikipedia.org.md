@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Lotus_corniculatus/
 website: "https://en.wikipedia.org/wiki/Lotus_corniculatus"
 wikipedia of: Lotus corniculatus
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

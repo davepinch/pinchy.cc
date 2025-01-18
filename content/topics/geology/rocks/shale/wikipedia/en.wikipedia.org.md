@@ -9,8 +9,5 @@ url: /en.wikipedia.org/wiki/Shale/
 website: "https://en.wikipedia.org/wiki/Shale"
 wikipedia of: shale
 tags:
-  - Sedimentary rock (Wikipedia)
-  - Rock (geology) (Wikipedia)
-  - Geology (Wikipedia)
   - Wikipedia
 ---

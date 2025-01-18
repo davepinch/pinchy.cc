@@ -1,6 +1,5 @@
 ---
 title: "Al-Karak (Wikipedia)"
-city of: Jordan (Wikipedia)
 excerpt: >-
   **Al-Karak** (Arabic: الكرك) is a city in [Jordan](/en.wikipedia.org/wiki/Jordan/) known for its medieval castle, the Kerak Castle. The castle is one of the three largest castles in the region, the other two being in Syria. Al-Karak is the capital city of the Karak Governorate.
 retrieved: 2023-09-27

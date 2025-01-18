@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Peafowl/
 website: "https://en.wikipedia.org/wiki/Peafowl"
 wikipedia of: peacock
 tags:
-  - Bird (Wikipedia)
   - Wikipedia
 ---

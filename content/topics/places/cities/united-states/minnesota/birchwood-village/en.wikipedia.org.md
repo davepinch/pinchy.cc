@@ -1,12 +1,5 @@
 ---
 title: "Birchwood Village, Minnesota (Wikipedia)"
-borders:
-  - Mahtomedi, Minnesota (Wikipedia)
-  - White Bear Lake (Minnesota) (Wikipedia)
-  - White Bear Lake, Minnesota (Wikipedia)
-  - White Bear Township, Ramsey County, Minnesota (Wikipedia)
-city of: Washington County, Minnesota (Wikipedia)
-clockwise around white bear lake: Bellaire, Minnesota (Wikipedia)
 excerpt: >-
   Birchwood Village is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota/), [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 863 at the 2020 census.
 retrieved: 2024-06-02

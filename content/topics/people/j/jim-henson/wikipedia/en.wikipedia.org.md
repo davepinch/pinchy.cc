@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Jim_Henson/
 website: "https://en.wikipedia.org/wiki/Jim_Henson"
 wikipedia of: Jim Henson
 tags:
-  - Mississippi (Wikipedia)
   - Wikipedia
 ---

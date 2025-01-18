@@ -8,10 +8,5 @@ url: /en.wikipedia.org/wiki/Dendrite/
 website: "https://en.wikipedia.org/wiki/Dendrite"
 wikipedia of: dendrite
 tags:
-  - Nervous system (Wikipedia)
-  - Biology (Wikipedia)
-  - Axon (Wikipedia)
-  - Neuron (Wikipedia)
-  - Synapse (Wikipedia)
   - Wikipedia
 ---

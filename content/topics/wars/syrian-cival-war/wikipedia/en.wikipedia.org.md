@@ -5,7 +5,6 @@ excerpt: >-
 retrieved: 2023-12-26
 type: website
 url: /en.wikipedia.org/wiki/Syrian_civil_war/
-war of: Syria (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Syrian_civil_war"
 wikipedia of: Syrian Civil War
 tags:

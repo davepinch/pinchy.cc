@@ -8,7 +8,5 @@ url: /en.wikipedia.org/wiki/Chert/
 website: "https://en.wikipedia.org/wiki/Chert"
 wikipedia of: chert
 tags:
-  - Siliceous rock (Wikipedia)
-  - Rock (geology) (Wikipedia)
   - Wikipedia
 ---

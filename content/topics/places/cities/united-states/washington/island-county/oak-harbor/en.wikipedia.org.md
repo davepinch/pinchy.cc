@@ -1,8 +1,5 @@
 ---
 title: "Oak Harbor, Washington (Wikipedia)"
-city of:
-  - Whidbey Island (Wikipedia)
-  - Island County, Washington (Wikipedia)
 excerpt: >-
   **Oak Harbor** is a city located on Whidbey Island in Island County, Washington, United States. The population was 22,075 at the 2010 census. Oak Harbor was incorporated on May 14, 1915.
 retrieved: 2024-09-27

@@ -9,12 +9,6 @@ url: /en.wikipedia.org/wiki/Columbia_River_Basalt_Group/
 website: "https://en.wikipedia.org/wiki/Columbia_River_Basalt_Group"
 wikipedia of: Columbia River Basalt Group
 tags:
-  - Basalt (Wikipedia)
-  - Oregon (Wikipedia)
-  - Washington (state) (Wikipedia)
-  - Idaho (Wikipedia)
-  - Nevada (Wikipedia)
-  - Geology (Wikipedia)
   - Wikipedia
 ---
 This article incorporates some material from the USGS article [Columbia River Basalt Group Stretches from Oregon to Idaho](/www.usgs.gov/observatories/cvo/science/columbia-river-basalt-group-stretches-oregon-idaho/).

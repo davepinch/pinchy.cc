@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Experimental_film/
 website: "https://en.wikipedia.org/wiki/Experimental_film"
 wikipedia of: experimental film
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

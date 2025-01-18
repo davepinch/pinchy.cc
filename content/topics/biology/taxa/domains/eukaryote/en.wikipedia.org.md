@@ -8,7 +8,6 @@ url: /en.wikipedia.org/wiki/Eukaryote/
 website: "https://en.wikipedia.org/wiki/Eukaryote"
 wikipedia of: eukaryote
 tags:
-  - Domain (biology) (Wikipedia)
   - Wikipedia
 ---
 

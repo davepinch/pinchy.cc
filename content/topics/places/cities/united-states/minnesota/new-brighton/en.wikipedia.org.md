@@ -1,14 +1,5 @@
 ---
 title: "New Brighton, Minnesota (Wikipedia)"
-borders:
-  - Arden Hills, Minnesota (Wikipedia)
-  - Columbia Heights, Minnesota (Wikipedia)
-  - Fridley, Minnesota (Wikipedia)
-  - Interstate 35W (Minnesota) (Wikipedia)
-  - Mounds View, Minnesota (Wikipedia)
-  - Roseville, Minnesota (Wikipedia)
-  - St. Anthony, Minnesota (Wikipedia)
-city of: Ramsey County, Minnesota (Wikipedia)
 excerpt: >-
   **New Brighton** (/njuː ˈbraɪtən/ *NEW BRY-tən*) is a city in [Ramsey County](/en.wikipedia.org/wiki/Ramsey_County,_Minnesota/), [Minnesota](/en.wikipedia.org/wiki/Minnesota/), [United States](/en.wikipedia.org/wiki/United_States/). It is a suburb of the Twin Cities. The population was 23,454 at the 2020 census.
 retrieved: 2023-07-09

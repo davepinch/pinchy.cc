@@ -5,7 +5,6 @@ excerpt: >-
 retrieved: 2024-11-30
 type: website
 url: /en.wikipedia.org/wiki/Wolfenstein_3D/
-video game of: MS-DOS (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Wolfenstein_3D"
 wikipedia of: Wolfenstein 3D
 tags:

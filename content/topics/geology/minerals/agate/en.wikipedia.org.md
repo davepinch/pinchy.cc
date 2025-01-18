@@ -5,10 +5,8 @@ excerpt: >-
 retrieved: 2023-10-29
 type: website
 url: /en.wikipedia.org/wiki/Agate/
-variety of: Chalcedony (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Agate"
 wikipedia of: agate
 tags:
-  - Mineral (Wikipedia)
   - Wikipedia
 ---

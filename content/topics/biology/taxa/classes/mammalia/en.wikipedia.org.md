@@ -10,6 +10,5 @@ wikipedia of:
   - mammal
   - Mammalia
 tags:
-  - Class (biology) (Wikipedia)
   - Wikipedia
 ---

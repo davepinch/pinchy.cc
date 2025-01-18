@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Messier_56/
 website: "https://en.wikipedia.org/wiki/Messier_56"
 wikipedia of: Messier 56
 tags:
-  - Globular cluster (Wikipedia)
   - Wikipedia
 ---

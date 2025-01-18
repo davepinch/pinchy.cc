@@ -5,9 +5,6 @@ excerpt: >-
 retrieved: 2024-11-29
 type: website
 url: /en.wikipedia.org/wiki/Mike_Pence/
-vice president of:
-  - United States (Wikipedia)
-  - Donald Trump (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Mike_Pence"
 wikipedia of: Mike Pence
 tags:

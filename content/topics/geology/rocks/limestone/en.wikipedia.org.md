@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Limestone/
 website: "https://en.wikipedia.org/wiki/Limestone"
 wikipedia of: limestone
 tags:
-  - Sedimentary rock (Wikipedia)
   - Wikipedia
 ---

@@ -5,13 +5,10 @@ excerpt: >-
 related:
   - Birth of the Pacific Plate 180 million years ago (Wikimedia Commons)
 retrieved: 2023-11-16
-tectonic plate of: Panthalassa (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Farallon_Plate/
 website: "https://en.wikipedia.org/wiki/Farallon_Plate"
 wikipedia of: Farallon Plate
 tags:
-  - Panthalassa (Wikipedia)
-  - Geology (Wikipedia)
   - Wikipedia
 ---

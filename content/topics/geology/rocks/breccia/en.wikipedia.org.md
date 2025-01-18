@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Breccia/
 website: "https://en.wikipedia.org/wiki/Breccia"
 wikipedia of: breccia
 tags:
-  - Clastic rock (Wikipedia)
   - Wikipedia
 ---

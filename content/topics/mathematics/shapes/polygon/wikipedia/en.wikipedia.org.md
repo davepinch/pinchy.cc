@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Polygon/
 website: "https://en.wikipedia.org/wiki/Polygon"
 wikipedia of: polygon
 tags:
-  - Geometry (Wikipedia)
   - Wikipedia
 ---

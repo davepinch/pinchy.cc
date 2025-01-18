@@ -5,13 +5,10 @@ excerpt: >-
 references:
   - On the dimensionality of spacetime (space.mit.edu.md)
 retrieved: 2023-05-22
-see also:
-  - Boltzmann brain (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Anthropic_principle/
 website: "https://en.wikipedia.org/wiki/Anthropic_principle"
 wikipedia of: anthropic principle
 tags:
-  - Physics (Wikipedia)
   - Wikipedia
 ---

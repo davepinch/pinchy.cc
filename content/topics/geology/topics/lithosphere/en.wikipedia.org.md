@@ -8,7 +8,5 @@ url: /en.wikipedia.org/wiki/Lithosphere/
 website: "https://en.wikipedia.org/wiki/Lithosphere"
 wikipedia of: lithosphere
 tags:
-  - Earth (Wikipedia)
-  - Geology (Wikipedia)
   - Wikipedia
 ---

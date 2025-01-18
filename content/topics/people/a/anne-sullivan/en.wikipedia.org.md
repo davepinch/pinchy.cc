@@ -3,7 +3,6 @@ title: "Anne Sullivan (Wikipedia)"
 excerpt: >-
   **Anne Sullivan Macy** (born as Johanna Mansfield Sullivan; April 14, 1866 – October 20, 1936) was an American teacher best known for being the instructor and lifelong companion of Helen Keller.
 retrieved: 2024-10-22
-teacher and companion of: Helen Keller (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Anne_Sullivan/
 website: "https://en.wikipedia.org/wiki/Anne_Sullivan"

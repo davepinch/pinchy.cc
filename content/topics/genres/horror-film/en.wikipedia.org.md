@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Horror_film/
 website: "https://en.wikipedia.org/wiki/Horror_film"
 wikipedia of: horror film
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

@@ -1,6 +1,5 @@
 ---
 title: "Kafr Kila, Lebanon (Wikipedia)"
-city of: Lebanon (Wikipedia)
 excerpt: >-
   **KafarKila** (Arabic: كفركلا, also, Kfarkila, Kfarkela, Kafarkela) is a village in Southern [Lebanon](/en.wikipedia.org/wiki/Lebanon). Kafarkila name means "The village of the pasturage".
 retrieved: 2023-10-11

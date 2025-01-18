@@ -11,6 +11,5 @@ wikipedia of:
   - Japanese knotweed
   - Reynoutria japonica
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

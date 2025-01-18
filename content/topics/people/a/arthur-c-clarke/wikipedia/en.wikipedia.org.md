@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Arthur_C._Clarke/
 website: "https://en.wikipedia.org/wiki/Arthur_C._Clarke"
 wikipedia of: Arthur C. Clarke
 tags:
-  - Science fiction (Wikipedia)
   - Wikipedia
 ---

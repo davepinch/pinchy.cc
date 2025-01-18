@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Domain_(biology)/
 website: "https://en.wikipedia.org/wiki/Domain_(biology)"
 wikipedia of: domain (biology)
 tags:
-  - Taxonomic rank (Wikipedia)
   - Wikipedia
 ---

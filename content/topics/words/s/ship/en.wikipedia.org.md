@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Ship/
 website: "https://en.wikipedia.org/wiki/Ship"
 wikipedia of: ship
 tags:
-  - Watercraft (Wikipedia)
   - Wikipedia
 ---

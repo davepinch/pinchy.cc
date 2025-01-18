@@ -10,6 +10,5 @@ url: /en.wikipedia.org/wiki/Rhus_typhina/
 website: "https://en.wikipedia.org/wiki/Rhus_typhina"
 wikipedia of: Rhus typhina
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

@@ -9,7 +9,5 @@ url: /en.wikipedia.org/wiki/Thuja_plicata/
 website: "https://en.wikipedia.org/wiki/Thuja_plicata"
 wikipedia of: Thuja plicata
 tags:
-  - Tree (Wikipedia)
-  - Species (Wikipedia)
   - Wikipedia
 ---

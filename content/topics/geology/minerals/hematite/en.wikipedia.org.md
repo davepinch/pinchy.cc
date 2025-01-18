@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Hematite/
 website: "https://en.wikipedia.org/wiki/Hematite"
 wikipedia of: hematite
 tags:
-  - Mineral (Wikipedia)
   - Wikipedia
 ---

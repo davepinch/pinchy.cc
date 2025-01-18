@@ -10,7 +10,5 @@ wikipedia of:
   - ant
   - Formicidae
 tags:
-  - Insect (Wikipedia)
-  - Cretaceous (Wikipedia)
   - Wikipedia
 ---

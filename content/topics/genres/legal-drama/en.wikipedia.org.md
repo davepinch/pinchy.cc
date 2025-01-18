@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Legal_drama/
 website: "https://en.wikipedia.org/wiki/Legal_drama"
 wikipedia of: legal drama
 tags:
-  - Genre (Wikipedia)
   - Wikipedia
 ---

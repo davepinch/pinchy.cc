@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Pieris_japonica/
 website: "https://en.wikipedia.org/wiki/Pieris_japonica"
 wikipedia of: Pieris japonica
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

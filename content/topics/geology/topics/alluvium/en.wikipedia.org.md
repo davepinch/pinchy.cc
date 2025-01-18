@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Alluvium/
 website: "https://en.wikipedia.org/wiki/Alluvium"
 wikipedia of: alluvium
 tags:
-  - Geology (Wikipedia)
   - Wikipedia
 ---

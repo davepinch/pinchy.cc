@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Salmon/
 website: "https://en.wikipedia.org/wiki/Salmon"
 wikipedia of: salmon
 tags:
-  - Fish (Wikipedia)
   - Wikipedia
 ---

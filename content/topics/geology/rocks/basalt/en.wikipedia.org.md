@@ -8,8 +8,5 @@ url: /en.wikipedia.org/wiki/Basalt/
 website: "https://en.wikipedia.org/wiki/Basalt"
 wikipedia of: basalt
 tags:
-  - Aphanite (Wikipedia)
-  - Igneous rock (Wikipedia)
-  - Geology (Wikipedia)
   - Wikipedia
 ---

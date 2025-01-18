@@ -1,6 +1,5 @@
 ---
 title: "Local Bubble (Wikipedia)"
-ASCEND: "Orion Arm (Wikipedia)"
 contains:
   - G-Cloud (Wikipedia)
   - Local Interstellar Cloud (Wikipedia)
@@ -15,6 +14,5 @@ watch: A Bubbly Origin for Stars around the Sun (youtube.com)
 website: "https://en.wikipedia.org/wiki/Local_Bubble"
 wikipedia of: Local Bubble
 tags:
-  - Orion Arm (Wikipedia)
   - Wikipedia
 ---

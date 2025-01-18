@@ -8,7 +8,6 @@ url: /en.wikipedia.org/wiki/Voltaire/
 website: "https://en.wikipedia.org/wiki/Voltaire"
 wikipedia of: Voltaire
 tags:
-  - Age of Enlightenment (Wikipedia)
   - Wikipedia
 ---
 

@@ -11,6 +11,5 @@ wikipedia of:
   - tansy
   - Tanacetum vulgare
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

@@ -6,9 +6,6 @@ license: CC BY-SA 4.0
 retrieved: 2024-12-10
 type: website
 url: /en.wikipedia.org/wiki/Nooksack_Falls/
-waterfall of:
-  - Nooksack River (Wikipedia)
-  - Whatcom County, Washington (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Nooksack_Falls"
 wikipedia of: Nooksack Falls
 tags:

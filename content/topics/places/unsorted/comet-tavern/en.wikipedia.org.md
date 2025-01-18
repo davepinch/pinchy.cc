@@ -1,6 +1,5 @@
 ---
 title: "Comet Tavern (Wikipedia)"
-bar of: Capitol Hill, Seattle (Wikipedia)
 excerpt: >-
   Comet Tavern is a restaurant on [Seattle](/en.wikipedia.org/wiki/Seattle/)'s [Capitol Hill](/en.wikipedia.org/wiki/Capitol_Hill,_Seattle/), in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
 related: Bouncer at Comet Tavern

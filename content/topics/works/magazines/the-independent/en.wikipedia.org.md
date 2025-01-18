@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/The_Independent/
 website: "https://en.wikipedia.org/wiki/The_Independent"
 wikipedia of: The Independent
 tags:
-  - United Kingdom (Wikipedia)
   - Wikipedia
 ---

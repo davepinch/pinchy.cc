@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Prime_number/
 website: "https://en.wikipedia.org/wiki/Prime_number"
 wikipedia of: prime number
 tags:
-  - Natural number (Wikipedia)
   - Wikipedia
 ---

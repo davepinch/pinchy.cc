@@ -2,8 +2,6 @@
 title: "Northern Hemisphere (Wikipedia)"
 excerpt: >-
   The **Northern Hemisphere** is the half of [Earth](/en.wikipedia.org/wiki/Earth/) that is north of the Equator. For other planets in the [Solar System](/en.wikipedia.org/wiki/Solar_System/), north is defined as being in the same celestial hemisphere relative to the invariable plane of the Solar System as Earth's North Pole.
-hemisphere of: Earth (Wikipedia)
-opposite: Southern Hemisphere (Wikipedia)
 retrieved: 2024-05-19
 type: website
 url: /en.wikipedia.org/wiki/Northern_Hemisphere/

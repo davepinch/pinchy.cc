@@ -10,7 +10,5 @@ wikipedia of:
   - vertebrate
   - Vertebrata
 tags:
-  - Animal (Wikipedia)
-  - Biology (Wikipedia)
   - Wikipedia
 ---

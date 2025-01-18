@@ -5,7 +5,6 @@ excerpt: >-
 retrieved: 2024-10-25
 type: website
 url: /en.wikipedia.org/wiki/Dick_Cheney/
-vice president of: George W. Bush (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Dick_Cheney"
 wikipedia of: Dick Cheney
 tags:

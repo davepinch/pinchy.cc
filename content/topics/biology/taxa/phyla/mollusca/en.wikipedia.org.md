@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Mollusca/
 website: "https://en.wikipedia.org/wiki/Mollusca"
 wikipedia of: Mollusca
 tags:
-  - Phylum (Wikipedia)
   - Wikipedia
 ---

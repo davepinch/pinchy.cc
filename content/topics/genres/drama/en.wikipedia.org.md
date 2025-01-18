@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Drama_(film_and_television)/
 website: "https://en.wikipedia.org/wiki/Drama_(film_and_television)"
 wikipedia of: drama
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

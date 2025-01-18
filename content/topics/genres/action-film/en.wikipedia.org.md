@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Action_film/
 website: "https://en.wikipedia.org/wiki/Action_film"
 wikipedia of: action film
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Rhodonite/
 website: "https://en.wikipedia.org/wiki/Rhodonite"
 wikipedia of: rhodonite
 tags:
-  - Mineral (Wikipedia)
   - Wikipedia
 ---

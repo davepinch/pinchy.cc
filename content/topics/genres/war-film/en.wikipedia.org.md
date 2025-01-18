@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/War_film/
 website: "https://en.wikipedia.org/wiki/War_film"
 wikipedia of: war film
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

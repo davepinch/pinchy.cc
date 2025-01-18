@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Epic_film/
 website: "https://en.wikipedia.org/wiki/Epic_film"
 wikipedia of: epic film
 tags:
-  - Film genre (Wikipedia)
   - Wikipedia
 ---

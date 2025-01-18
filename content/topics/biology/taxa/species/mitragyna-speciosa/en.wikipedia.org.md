@@ -8,7 +8,5 @@ url: /en.wikipedia.org/wiki/Mitragyna_speciosa/
 website: "https://en.wikipedia.org/wiki/Mitragyna_speciosa"
 wikipedia of: kratom
 tags:
-  - Tree (Wikipedia)
-  - Species (Wikipedia)
   - Wikipedia
 ---

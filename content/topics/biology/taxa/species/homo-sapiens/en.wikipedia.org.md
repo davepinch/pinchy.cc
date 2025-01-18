@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Human/
 website: "https://en.wikipedia.org/wiki/Human"
 wikipedia of: Homo sapiens
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---

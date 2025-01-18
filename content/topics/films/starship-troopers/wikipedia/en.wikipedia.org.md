@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Starship_Troopers_(film)/
 website: "https://en.wikipedia.org/wiki/Starship_Troopers_(film)"
 wikipedia of: Starship Troopers (film)
 tags:
-  - Science fiction (Wikipedia)
   - Wikipedia
 ---

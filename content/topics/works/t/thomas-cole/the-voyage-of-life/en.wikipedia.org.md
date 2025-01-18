@@ -7,7 +7,6 @@ type: website
 url: /en.wikipedia.org/wiki/The_Voyage_of_Life/
 website: "https://en.wikipedia.org/wiki/The_Voyage_of_Life"
 wikipedia of: The Voyage of Life
-work of: Thomas Cole (Wikipedia)
 tags:
   - Wikipedia
 ---

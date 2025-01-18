@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/The_Showbox/
 website: "https://en.wikipedia.org/wiki/The_Showbox"
 wikipedia of: The Showbox
 tags:
-  - Music venue (Wikipedia)
   - Wikipedia
 ---

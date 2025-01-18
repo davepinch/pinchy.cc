@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Physocarpus_capitatus/
 website: "https://en.wikipedia.org/wiki/Physocarpus_capitatus"
 wikipedia of: Physocarpus capitatus
 tags:
-  - Species (Wikipedia)
   - Wikipedia
 ---
