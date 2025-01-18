@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/d/d0/Regular_polygon_15
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_15_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_15_annotated.svg"
-wikipedia: Pentadecagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

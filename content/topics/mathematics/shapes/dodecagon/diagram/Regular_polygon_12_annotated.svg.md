@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/0/06/Regular_polygon_12
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_12_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_12_annotated.svg"
-wikipedia: Dodecagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

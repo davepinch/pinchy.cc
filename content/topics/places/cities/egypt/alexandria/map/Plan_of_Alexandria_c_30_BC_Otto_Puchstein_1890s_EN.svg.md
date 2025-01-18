@@ -11,7 +11,6 @@ source: "Based on: Shepherd, William (1911) Historical Atlas New York: Henry Hol
 type: picture
 url: /commons.wikimedia.org/wiki/Plan_of_Alexandria_c_30_BC_Otto_Puchstein_1890s_EN.svg/
 website: "https://commons.wikimedia.org/wiki/File:Plan_of_Alexandria_c_30_BC_Otto_Puchstein_1890s_EN.svg"
-wikipedia: "Alexandria (Wikipedia)"
 tags:
   - SVG
   - Wikimedia Commons

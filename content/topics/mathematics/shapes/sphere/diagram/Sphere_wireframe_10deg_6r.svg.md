@@ -9,7 +9,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Sphere_wireframe_1
 type: picture
 url: /commons.wikimedia.org/wiki/Sphere_wireframe_10deg_6r.svg/
 website: "https://commons.wikimedia.org/wiki/File:Sphere_wireframe_10deg_6r.svg"
-wikipedia: "Sphere (Wikipedia)"
 tags:
   - Wikimedia Commons
 ---

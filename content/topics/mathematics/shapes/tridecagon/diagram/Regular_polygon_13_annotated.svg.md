@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/a/a6/Regular_polygon_13
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_13_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_13_annotated.svg"
-wikipedia: Tridecagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

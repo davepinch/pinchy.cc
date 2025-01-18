@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/d/d8/Regular_polygon_18
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_18_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_18_annotated.svg"
-wikipedia: Octadecagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

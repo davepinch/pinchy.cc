@@ -10,7 +10,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/6/6c/Right_angle.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Right_angle.svg/
 website: "https://commons.wikimedia.org/wiki/File:Right_angle.svg"
-wikipedia: "Right angle (Wikipedia)"
 tags:
   - Wikimedia Commons
 ---

@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/7/75/Regular_polygon_7_
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_7_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_7_annotated.svg"
-wikipedia: Heptagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

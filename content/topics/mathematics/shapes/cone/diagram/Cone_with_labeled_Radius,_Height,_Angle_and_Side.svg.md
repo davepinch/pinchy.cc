@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Cone_with_labeled_
 type: picture
 url: /commons.wikimedia.org/wiki/Cone_with_labeled_Radius,_Height,_Angle_and_Side.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cone_with_labeled_Radius,_Height,_Angle_and_Side.svg"
-wikipedia: Cone (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Regular_polygon_16
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_16_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_16_annotated.svg"
-wikipedia: Hexadecagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

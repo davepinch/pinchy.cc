@@ -11,7 +11,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/e/eb/Regular_polygon_3_
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_3_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_3_annotated.svg"
-wikipedia: Triangle (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

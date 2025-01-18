@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/3/38/Regular_polygon_6_
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_6_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_6_annotated.svg"
-wikipedia: Hexagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

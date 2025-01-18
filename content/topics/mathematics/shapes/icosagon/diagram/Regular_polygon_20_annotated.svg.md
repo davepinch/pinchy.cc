@@ -11,7 +11,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/2/23/Regular_polygon_20
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_20_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_20_annotated.svg"
-wikipedia: Icosagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

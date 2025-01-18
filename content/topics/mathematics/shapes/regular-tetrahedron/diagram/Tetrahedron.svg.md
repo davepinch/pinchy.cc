@@ -13,7 +13,6 @@ shape of: SVG
 type: picture
 url: /commons.wikimedia.org/wiki/Tetrahedron.svg/
 website: "https://commons.wikimedia.org/wiki/File:Tetrahedron.svg"
-wikipedia: Tetrahedron (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

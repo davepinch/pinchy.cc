@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/1/18/Regular_polygon_19
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_19_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_19_annotated.svg"
-wikipedia: Enneadecagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

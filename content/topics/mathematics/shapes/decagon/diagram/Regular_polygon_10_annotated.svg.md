@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Regular_polygon_10
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_10_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_10_annotated.svg"
-wikipedia: Decagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---

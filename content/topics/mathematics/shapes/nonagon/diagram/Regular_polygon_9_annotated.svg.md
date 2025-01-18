@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/ba/Regular_polygon_9_
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_9_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_9_annotated.svg"
-wikipedia: Nonagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---
