@@ -12,7 +12,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/e/e1/Regular_polygon_14
 type: picture
 url: /commons.wikimedia.org/wiki/Regular_polygon_14_annotated.svg/
 website: "https://commons.wikimedia.org/wiki/File:Regular_polygon_14_annotated.svg"
-wikipedia: Tetradecagon (Wikipedia)
 tags:
   - Wikimedia Commons
 ---
