@@ -7,7 +7,6 @@ tag requires property:
   - OpenStreetMap
   - Wikidata
   - Wikipedia
-wikipedia: "https://en.wikipedia.org/wiki/Country"
 tags:
   - geography
 ---
