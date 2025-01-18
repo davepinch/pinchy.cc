@@ -12,7 +12,6 @@ url: >-
   /commons.wikimedia.org/wiki/Thomas_Cole_-_The_Voyage_of_Life_Childhood,_1842_(National_Gallery_of_Art).jpg/
 website: >-
   https://commons.wikimedia.org/wiki/File:Thomas_Cole_-_The_Voyage_of_Life_Childhood,_1842_(National_Gallery_of_Art).jpg
-wikipedia: The Voyage of Life (Wikipedia)
 tags:
   - painting
   - Wikimedia Commons

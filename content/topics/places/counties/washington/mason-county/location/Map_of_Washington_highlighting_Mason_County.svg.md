@@ -8,7 +8,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Map_of_Washington_
 type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Washington_highlighting_Mason_County.svg/
 website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting_Mason_County.svg"
-wikipedia: "Mason County, Washington (Wikipedia)"
 tags:
   - location
   - Wikimedia Commons

@@ -8,7 +8,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Map_of_Washington_
 type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Washington_highlighting_Wahkiakum_County.svg/
 website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting_Wahkiakum_County.svg"
-wikipedia: "Wahkiakum County, Washington (Wikipedia)"
 tags:
   - location
   - Wikimedia Commons

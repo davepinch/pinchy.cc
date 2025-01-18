@@ -8,7 +8,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Map_of_Washington_
 type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Washington_highlighting_Lewis_County.svg/
 website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting_Lewis_County.svg"
-wikipedia: "Lewis County, Washington (Wikipedia)"
 tags:
   - location
   - Wikimedia Commons

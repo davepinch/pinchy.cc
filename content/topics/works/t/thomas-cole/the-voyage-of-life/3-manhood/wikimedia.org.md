@@ -10,7 +10,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Thomas_Cole,_The_Voyage_of_Life,_1842,_National_Gallery_of_Art.jpg/
 website: >-
   https://commons.wikimedia.org/wiki/File:Thomas_Cole,_The_Voyage_of_Life,_1842,_National_Gallery_of_Art.jpg
-wikipedia: The Voyage of Life (Wikipedia)
 tags:
   - painting
   - Wikimedia Commons

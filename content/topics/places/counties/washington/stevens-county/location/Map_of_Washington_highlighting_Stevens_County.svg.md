@@ -8,7 +8,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/6/66/Map_of_Washington_
 type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Washington_highlighting_Stevens_County.svg/
 website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting_Stevens_County.svg"
-wikipedia: "Stevens County, Washington (Wikipedia)"
 tags:
   - location
   - Wikimedia Commons

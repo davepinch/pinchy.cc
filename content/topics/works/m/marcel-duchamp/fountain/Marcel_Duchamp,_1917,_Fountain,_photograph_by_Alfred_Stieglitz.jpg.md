@@ -14,7 +14,6 @@ thumbnail: >-
 type: picture
 url: /commons.wikimedia.org/wiki/Marcel_Duchamp,_1917,_Fountain,_photograph_by_Alfred_Stieglitz.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Marcel_Duchamp,_1917,_Fountain,_photograph_by_Alfred_Stieglitz.jpg"
-wikipedia: Fountain (Duchamp) (Wikipedia)
 tags:
   - photograph
   - Wikimedia Commons

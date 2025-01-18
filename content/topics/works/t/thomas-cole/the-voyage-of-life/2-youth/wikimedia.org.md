@@ -11,7 +11,6 @@ url: >-
   /commons.wikimedia.org/wiki/Thomas_Cole_-_The_Ages_of_Life_-_Youth_-_WGA05140.jpg/
 website: >-
   https://commons.wikimedia.org/wiki/File:Thomas_Cole_-_The_Ages_of_Life_-_Youth_-_WGA05140.jpg
-wikipedia: The Voyage of Life (Wikipedia)
 tags:
   - painting
   - Wikimedia Commons

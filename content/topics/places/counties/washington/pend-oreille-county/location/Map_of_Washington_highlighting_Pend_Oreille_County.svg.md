@@ -8,7 +8,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Map_of_Washington_
 type: picture
 url: /commons.wikimedia.org/wiki/Map_of_Washington_highlighting_Pend_Oreille_County.svg/
 website: "https://commons.wikimedia.org/wiki/File:Map_of_Washington_highlighting_Pend_Oreille_County.svg"
-wikipedia: "Pend Oreille County, Washington (Wikipedia)"
 tags:
   - location
   - Wikimedia Commons

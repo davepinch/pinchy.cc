@@ -1,5 +1,5 @@
 ﻿---
-title: "Flag of Palau.svg"
+title: "Flag of Palau.svg (Wikimedia Commons)"
 author: No machine-readable author provided. Nightstallion assumed (based on copyright claims).
 flag of:
   - Palau
