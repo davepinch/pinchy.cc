@@ -1,6 +1,6 @@
 ---
 title: "Pale Blue Dot"
-photograph of:
+famous photograph of:
   - Earth
   - Solar System
 photographed by: Voyager 1
@@ -10,5 +10,4 @@ see also:
 work of: Voyager 1
 tags:
   - famous
-  - photograph
 ---
