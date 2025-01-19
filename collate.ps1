@@ -7,7 +7,13 @@
 # as an array.
 # =======================================================================
 
-function Add-PropertyValue($page, $property, $value) {
+function Add-PropertyValue {
+
+    param(
+        [hashtable]$page,
+        [string]$property,
+        $value
+    )
 
     if (-not $page.ContainsKey($property)) {
         #
@@ -398,14 +404,10 @@ if (-not (Get-Module -Name powershell-yaml -ListAvailable)) {
 # ========================================================================
 
 #
-# Get all .md files in all subdirectories
+# Get the front matter for all .md files in all subdirectories
 #
 Write-Host "$(Get-EmojiOpenFolder) Loading..."
 $rootPath = $PSScriptRoot
-
-#
-# Load the front matter of the files
-#
 $script:pages = Get-Pages
 
 #
@@ -414,6 +416,9 @@ $script:pages = Get-Pages
 Write-Host "$(Get-EmojiRunning) Indexing titles..."
 $script:lookup = Get-Lookup $script:pages
 
+#
+# Build an index of properties for quick reverse searches
+#
 Write-Host "Indexing properties..."
 $script:props = Get-Props $script:pages
 Write-Host "There are $($script:props.Count) distinct properties."
