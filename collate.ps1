@@ -895,6 +895,126 @@ function Update-Timelines() {
 }
 
 # ========================================================================
+# Update-WikipediaCrossReferences
+# ========================================================================
+
+function Update-WikipediaCrossReferencesFor($page) {
+
+    #
+    # Get the wikipedia property
+    #
+    $wikipedia = $page["wikipedia"]
+    if ($null -eq $wikipedia) {
+        return
+    }
+
+    #
+    # Get the index of the wikipedia page
+    #
+    $wikipediaIndex = $script:lookup[$wikipedia]
+    if ($null -eq $wikipediaIndex) {
+        return
+    }
+
+    #
+    # Get the wikipedia page
+    #
+    $wikipediaPage = $script:pages[$wikipediaIndex]
+    if ($null -eq $wikipediaPage) {
+        return
+    }
+
+    if ($wikipediaPage -is [array]) {
+        Debug-Page $page "wikipedia property is an array"
+        return
+    }
+
+    #
+    # Loop through each property of the page
+    #
+    foreach($propKey in $page.Keys) {
+
+        #
+        # Skip special properties
+        #
+        if ($propKey -eq "title" -or
+            $propKey -eq "random" -or
+            $propKey -eq "retrieved" -or
+            $propKey -eq "tag requires property" -or
+            $propKey -eq "type" -or 
+            $propKey -eq "url" -or
+            $propKey -eq "wikipedia" -or
+            $propKey -eq "::path" -or
+            $propKey -eq "::content" ) {
+            continue
+        }
+
+        #
+        # Cast the prop value to an array
+        #
+        $propValues = $page[$propKey]
+        if ($propValues -isnot [array]) {
+            $propValues = @($propValue)
+        }
+
+        #
+        # Loop through each property value
+        #
+        foreach($propValue in $propValues) {
+
+            #
+            # If not a string, continue.
+            #
+            if ($propValue -isnot [string]) {
+                continue
+            }
+
+            #
+            # Get the index of the page for this property value
+            #
+            $propIndex = $script:lookup[$propValue]
+            if ($null -eq $propIndex) {
+                continue
+            }
+
+            #
+            # Get the page for this property value
+            #
+            $propPage = $script:pages[$propIndex]
+            if ($null -eq $propPage) {
+                continue
+            }
+
+            #
+            # Get the wikipedia value of the property page
+            #
+            $propWikipedia = $propPage["wikipedia"]
+            if ($null -eq $propWikipedia) {
+                continue
+            }
+
+            #
+            # Create the corresponding Wikipedia property
+            #
+            try {
+                Add-PropertyValue $wikipediaPage $propKey $propWikipedia
+                #Add-PropertyValue $wikipediaPage ($propKey + "::origin") $page["title"]
+            }
+            catch {
+                Debug-Page $wikipediaPage "Error adding property '$propKey' to wikipedia page"
+            }
+        }
+    }
+}
+
+function Update-WikipediaCrossReferences() {
+    Write-Host "$(Get-EmojiLink) Wikipedia cross-references..."
+    foreach($page in $script:pages) {
+        Update-WikipediaCrossReferencesFor $page
+    }
+}
+
+# ========================================================================
 # Update-WikipediaFlagAndLocation
 # ------------------------------------------------------------------------
 # This function updates the wikipedia article associated with certain
@@ -971,6 +1091,7 @@ Update-Randoms
 Update-ReverseTags
 Update-Sequences
 Update-Timelines
+# not working at the moment -- Update-WikipediaCrossReferences
 Update-WikipediaFlagsAndLocations
 Update-Plurals
 
@@ -1317,6 +1438,34 @@ function Test-UrlMustStartAndEndWithSlash($page) {
     }
 }
 
+function Test-WikipediaImproperUse() {
+
+    #
+    # Loop through each page
+    #
+    foreach($page in $script:pages) {
+
+        #
+        # If the page has a wikipedia property...
+        #
+        if ($null -ne $page["wikipedia"]) {
+
+            #
+            # Don't use with pictures...
+            #
+            if ($page["type"] -eq "picture") {
+                #
+                # Unless it is a flag (SPECIAL CASE TO BE REFACTORED OUT)
+                #
+                if ($page["tags"] -contains "flag") {
+                    continue
+                }
+                Debug-Page $page "Do not use wikipedia property with pictures"
+            }
+        }
+    }
+}
+
 #
 # Execute tests after all decorators have run
 #
@@ -1324,6 +1473,7 @@ Write-Host "Testing..."
 Test-TagRequirements
 Test-UniquePropertyValues
 Test-UniqueUrls
+Test-WikipediaImproperUse
 
 foreach ($page in $script:pages) {
     
