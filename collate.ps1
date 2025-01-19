@@ -905,11 +905,20 @@ function Update-Timelines() {
 
 function Update-WikipediaCrossReferencesFor($page) {
 
+    $fn = "Update-WikipediaCrossReferencesFor"
+
+    if ($page["debug"]) {
+        Write-Host "$fn\: $($page["title"])"
+    }
+
     #
     # Get the wikipedia property
     #
     $wikipedia = $page["wikipedia"]
     if ($null -eq $wikipedia) {
+        if ($page["debug"]) {
+            Write-Host "$fn\: skipped because 'wikipedia' is null"
+        }
         return
     }
 
@@ -918,6 +927,9 @@ function Update-WikipediaCrossReferencesFor($page) {
     #
     $wikipediaIndex = $script:lookup[$wikipedia]
     if ($null -eq $wikipediaIndex) {
+        if ($wikipedia -notlike "https?*") {
+            Debug-Page $page "wikipedia property is not a page title or website url"
+        }
         return
     }
 
@@ -926,6 +938,7 @@ function Update-WikipediaCrossReferencesFor($page) {
     #
     $wikipediaPage = $script:pages[$wikipediaIndex]
     if ($null -eq $wikipediaPage) {
+        Debug-Page $page "wikipedia property has no lookup index"
         return
     }
 
@@ -959,7 +972,7 @@ function Update-WikipediaCrossReferencesFor($page) {
         #
         $propValues = $page[$propKey]
         if ($propValues -isnot [array]) {
-            $propValues = @($propValue)
+            $propValues = @($propValues)
         }
 
         #
@@ -987,6 +1000,7 @@ function Update-WikipediaCrossReferencesFor($page) {
             #
             $propPage = $script:pages[$propIndex]
             if ($null -eq $propPage) {
+                Debug-Page $page "Lookup page at index $propIndex is null"
                 continue
             }
 
@@ -1001,9 +1015,12 @@ function Update-WikipediaCrossReferencesFor($page) {
             #
             # Create the corresponding Wikipedia property
             #
+            if ($page["debug"]) {
+                Write-Host "$fn\: adding property '$propKey' to wikipedia page"
+            }
+            
             try {
                 Add-PropertyValue $wikipediaPage $propKey $propWikipedia
-                #Add-PropertyValue $wikipediaPage ($propKey + "::origin") $page["title"]
             }
             catch {
                 Debug-Page $wikipediaPage "Error adding property '$propKey' to wikipedia page"
@@ -1096,7 +1113,7 @@ Update-Randoms
 Update-ReverseTags
 Update-Sequences
 Update-Timelines
-# not working at the moment -- Update-WikipediaCrossReferences
+# Update-WikipediaCrossReferences
 Update-WikipediaFlagsAndLocations
 Update-Plurals
 
@@ -1394,6 +1411,7 @@ function Test-UniquePropertyValuesFor($page) {
             $v = [string]$v
 
             if ($set.Contains($v)) {
+                Write-Host $($script:pages[$lookup[$v]]."::path")
                 Debug-Page $page "Property '$key' has non-unique value '$v'"
             }
             else {
