@@ -4,7 +4,7 @@ title: >-
 description of: Semiahmoo Spit
 map: Whatcom County Shorelines (figure 1)
 north side of: Birch Point
-northern shorline of: Whatcom County, Washington
+northern shoreline of: Whatcom County, Washington
 split separation of:
   - Drayton Harbor
   - Semiahmoo Bay
