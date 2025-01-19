@@ -8,7 +8,5 @@ url: /en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)/
 website: "https://en.wikipedia.org/wiki/Big_Brother_(Nineteen_Eighty-Four)"
 wikipedia of: Big Brother
 tags:
-  - Nineteen Eighty-Four (Wikipedia)
-  - George Orwell (Wikipedia)
   - Wikipedia
 ---
