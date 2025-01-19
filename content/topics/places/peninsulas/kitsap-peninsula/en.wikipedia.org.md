@@ -8,8 +8,5 @@ url: /en.wikipedia.org/wiki/Kitsap_Peninsula/
 website: "https://en.wikipedia.org/wiki/Kitsap_Peninsula"
 wikipedia of: Kitsap Peninsula
 tags:
-  - Kitsap County, Washington (Wikipedia)
-  - Pierce County, Washington (Wikipedia)
-  - Washington (state) (Wikipedia)
   - Wikipedia
 ---

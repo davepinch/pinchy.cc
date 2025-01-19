@@ -1,6 +1,5 @@
 ---
 title: "Joe Biden classified documents incident (Wikipedia)"
-classified documents of: Joe Biden (Wikipedia)
 excerpt: >-
   On January 9, 2023, CBS News reported that attorneys for U.S. President Joe Biden discovered classified government documents in his former office at the Penn Biden Center in Washington, D.C., and in his personal residence in Wilmington, Delaware, dating to his time in the United States Senate and his vice presidency in the Obama administration. The number of documents was later revealed to be between 25 and 30. By June 2023, classified documents from Biden's Senate tenure were discovered in materials donated to the University of Delaware.
 retrieved: 2024-03-13

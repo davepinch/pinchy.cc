@@ -9,6 +9,5 @@ url: /en.wikipedia.org/wiki/Willapa_River/
 website: "https://en.wikipedia.org/wiki/Willapa_River"
 wikipedia of: Willapa River
 tags:
-  - Raymond, Washington (Wikipedia)
   - Wikipedia
 ---

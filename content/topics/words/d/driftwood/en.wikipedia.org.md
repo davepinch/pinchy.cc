@@ -1,6 +1,5 @@
 ---
 title: "Driftwood (Wikipedia)"
-drift of: Wood (Wikipedia)
 excerpt: >-
   **Driftwood** is wood that has been washed onto a shore or beach of a sea, lake, or river by the action of winds, tides or waves. It is part of beach wrack.
 retrieved: 2024-09-23

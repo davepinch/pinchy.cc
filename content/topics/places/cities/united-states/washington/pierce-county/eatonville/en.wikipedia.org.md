@@ -5,7 +5,6 @@ excerpt: >-
 retrieved: 2024-08-19
 type: website
 url: /en.wikipedia.org/wiki/Eatonville,_Washington/
-vicinity of: Tacoma, Washington (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Eatonville,_Washington"
 wikipedia of: Eatonville, Washington
 tags:

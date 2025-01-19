@@ -1,6 +1,5 @@
 ---
 title: "Mind at Large (Wikipedia)"
-concept of: Aldous Huxley (Wikipedia)
 excerpt: >-
   **Mind at Large** is a concept proposed by [Aldous Huxley](/en.wikipedia.org/wiki/Aldous_Huxley) to help interpret psychedelic experience. He maintained that the human mind filters [reality](/en.wikipedia.org/wiki/Reality) under normal circumstances and that psychedelic drugs remove the filter, exposing the user to a Mind at Large.
 related:

@@ -1,7 +1,5 @@
 ---
 title: "Messier 5 (Wikipedia)"
-⬅️: Messier 4 (Wikipedia)
-➡️: Butterfly Cluster (Wikipedia)
 excerpt: >-
   **Messier 5** or **M5** (also designated **NGC 5904**) is a globular cluster in the constellation Serpens. It was discovered by Gottfried Kirch in 1702.
 retrieved: 2024-11-01

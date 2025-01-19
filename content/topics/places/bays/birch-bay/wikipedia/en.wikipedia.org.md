@@ -6,7 +6,6 @@ related: Birch Bay on a November day
 retrieved: 2023-12-27
 type: website
 url: /en.wikipedia.org/wiki/Birch_Bay,_Washington/
-vicinity of: Blaine, Washington (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Birch_Bay,_Washington"
 wikipedia of: Birch Bay
 tags:

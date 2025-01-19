@@ -7,7 +7,6 @@ TODO: >-
   Add rule to collate.ps1 that "near" references should go both ways. For example, if Australia is near Fiji, then Fiji should be near Australia.
 type: website
 url: /en.wikipedia.org/wiki/New_Zealand/
-vicinity of: Australia (Wikipedia)
 website: "https://en.wikipedia.org/wiki/New_Zealand"
 wikipedia of: New Zealand
 tags:
