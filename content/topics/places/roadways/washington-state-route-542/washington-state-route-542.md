@@ -16,6 +16,5 @@ near: Interstate 5
 TODO: Update collate.ps1 so that if a page crosses another, it is crossed back.
 tags:
   - Mount Baker
-  - Nooksack River
   - TODO
 ---
