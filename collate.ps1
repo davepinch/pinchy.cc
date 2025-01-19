@@ -221,7 +221,7 @@ function Get-FrontMatter($file) {
     #
     # Skip files where draft is true
     #
-    if ($yaml.draft -eq $true) {
+    if ($yaml["draft"] -eq $true) {
         return $null
     }
     
