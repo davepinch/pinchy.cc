@@ -1429,14 +1429,23 @@ function Test-UniquePropertyValues() {
 
 function Test-UniqueUrls() {
     foreach($page in $script:pages) {
-        if ($null -ne $page["url"]) {
-            $url = $page["url"]
-            $urlPages = $script:props["url"][$url]
-            if ($urlPages.Count -gt 1) {
-                Debug-Page $page "URL is not unique"
-                foreach($urlPage in $urlPages) {
-                    Write-Host "  $urlPage"
-                }
+
+        #
+        # Get the url property; skip this page if not defined.
+        #
+        $url = $page["url"]
+        if ($null -eq $url) {
+            continue
+        }
+
+        #
+        # Get the page or pages that have this url property
+        #
+        $urlPages = $script:props["url"][$url]
+        if ($urlPages -is [array]) {
+            Debug-Page $page "URL is not unique"
+            foreach($urlPage in $urlPages) {
+                Write-Host "  url: $urlPage"
             }
         }
     }
