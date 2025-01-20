@@ -1,6 +1,6 @@
 ---
 title: "Revolt in the Desert"
-autobiographical account of: T. E. Lawrence
+original U.S. version of: Seven Pillars of Wisdom
 tags:
   - book
 ---
