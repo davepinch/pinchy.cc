@@ -6,9 +6,7 @@ retrieved: 2023-08-05
 type: website
 url: /en.wikipedia.org/wiki/Deception_Pass/
 website: "https://en.wikipedia.org/wiki/Deception_Pass"
-wikipedia of:
-  - Deception Pass
-  - Deception Pass State Park
+wikipedia of: Deception Pass
 tags:
   - Wikipedia
 ---
