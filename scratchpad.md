@@ -2,6 +2,21 @@
 title: "Scratchpad"
 draft: true
 ---
+
+
+---
+The boomers will be harvested.
+They represent a tremendous block of wealth.
+That wealth will be extracted through health care.
+Health is the harvester.
+---
+BEWARE THE HARVESTOR
+YOU ARE FOOD FOR THE RICH
+
+you have no chance of defeating this system within the law because they control the law
+imagine if a pig tried to tell the farmer the rules of the barn
+piggy's going to be extra special bacon
+
 12/2/2014-->
 Which one is it going to be?
 Is it going to be nuclear war?
