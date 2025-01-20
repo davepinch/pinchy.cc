@@ -7,9 +7,7 @@ retrieved: 2023-11-14
 type: website
 url: /en.wikipedia.org/wiki/Nooksack_River/
 website: "https://en.wikipedia.org/wiki/Nooksack_River"
-wikipedia of:
-  - Nooksack River
-  - South Fork Nooksack River
+wikipedia of: Nooksack River
 tags:
   - Wikipedia
 ---
