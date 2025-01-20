@@ -20,7 +20,7 @@ picture: "https://upload.wikimedia.org/wikipedia/en/0/05/Flag_of_Brazil.svg"
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Brazil.svg/
 website: "https://en.wikipedia.org/wiki/File:Flag_of_Brazil.svg"
-wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Brazil"
+wikipedia of flag: "https://en.wikipedia.org/wiki/Flag_of_Brazil"
 tags:
   - flag
   - Wikimedia Commons

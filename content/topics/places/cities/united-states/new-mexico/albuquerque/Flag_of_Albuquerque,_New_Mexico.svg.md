@@ -12,10 +12,8 @@ related:
 retrieved: 2024-03-30
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Albuquerque,_New_Mexico.svg/
-website: >-
-  https://commons.wikimedia.org/wiki/File:Flag_of_Albuquerque,_New_Mexico.svg
-wikipedia: >-
-  https://en.wikipedia.org/wiki/Flag_of_Albuquerque,_New_Mexico
+website: https://commons.wikimedia.org/wiki/File:Flag_of_Albuquerque,_New_Mexico.svg
+wikipedia: https://en.wikipedia.org/wiki/Flag_of_Albuquerque,_New_Mexico
 tags:
   - flag
   - Wikimedia Commons
