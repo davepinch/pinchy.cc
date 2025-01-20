@@ -1,4 +1,4 @@
 ---
 title: "episode"
-plural: eposodes
+plural: episodes
 ---
