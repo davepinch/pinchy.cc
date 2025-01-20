@@ -10,7 +10,6 @@ url: /en.wikipedia.org/wiki/Skykomish_River/
 website: "https://en.wikipedia.org/wiki/Skykomish_River"
 wikipedia of:
   - Skykomish River
-  - North Fork Skykomish River
   - South Fork Skykomish River
 tags:
   - Wikipedia
