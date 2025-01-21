@@ -13,4 +13,5 @@ openstreetmap: "https://www.openstreetmap.org/relation/136621"
 wikidata: "https://www.wikidata.org/entity/Q282822"
 tags:
   - city
+  - suburb
 ---

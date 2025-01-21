@@ -12,4 +12,5 @@ suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q844008"
 tags:
   - city
+  - suburb
 ---

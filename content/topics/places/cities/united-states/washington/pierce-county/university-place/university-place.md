@@ -14,4 +14,5 @@ suburb of: Tacoma, Washington
 wikidata: "https://www.wikidata.org/entity/Q1514808"
 tags:
   - city
+  - suburb
 ---

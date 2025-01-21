@@ -17,4 +17,5 @@ suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q986185"
 tags:
   - city
+  - suburb
 ---

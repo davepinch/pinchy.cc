@@ -6,4 +6,5 @@ suburb of: Minneapolis, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q868848"
 tags:
   - city
+  - suburb
 ---

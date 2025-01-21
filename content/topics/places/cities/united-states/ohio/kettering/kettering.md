@@ -6,4 +6,5 @@ suburb of: Dayton, Ohio
 wikidata: "https://www.wikidata.org/entity/Q866307"
 tags:
   - city
+  - suburb
 ---
