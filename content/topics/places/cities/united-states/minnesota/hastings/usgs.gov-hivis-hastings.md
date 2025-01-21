@@ -11,6 +11,7 @@ TODO:
 type: picture
 url: /apps.usgs.gov/hivis/camera/MN_Mississippi_River_below_Lock_and_Dam_2_at_Hastings/
 webcam of:
+  - Hastings Bridge
   - Mississippi River
   - Hastings, Minnesota
 website: "https://apps.usgs.gov/hivis/camera/MN_Mississippi_River_below_Lock_and_Dam_2_at_Hastings"
