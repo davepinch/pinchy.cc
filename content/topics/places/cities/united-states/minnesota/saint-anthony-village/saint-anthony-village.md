@@ -8,7 +8,9 @@ borders:
 city of:
   - Hennepin County, Minnesota
   - Ramsey County, Minnesota
-suburb of: Minneapolis, Minnesota
+suburb of:
+  - Minneapolis, Minnesota
+  - Saint Paul, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136621"
 wikidata: "https://www.wikidata.org/entity/Q282822"
 tags:

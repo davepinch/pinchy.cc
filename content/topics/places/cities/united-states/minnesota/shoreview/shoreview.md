@@ -13,7 +13,9 @@ borders:
   - White Bear Township
 city of: Ramsey County, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136611"
+suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q989471"
 tags:
   - city
+  - suburb
 ---

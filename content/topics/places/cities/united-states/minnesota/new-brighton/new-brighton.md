@@ -10,7 +10,9 @@ borders:
   - Saint Anthony Village, Minnesota
 city of: Ramsey County, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136625"
+suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q1986542"
 tags:
   - city
+  - suburb
 ---
