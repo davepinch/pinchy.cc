@@ -7,7 +7,7 @@ retrieved: 2025-01-21
 type: website
 url: /en.wikipedia.org/wiki/Blackfoot_River_(Montana)/
 website: "https://en.wikipedia.org/wiki/Blackfoot_River_(Montana)"
-wikipedia of: Blackfoot River (Montana)
+wikipedia of: Blackfoot River
 tags:
   - Wikipedia
 ---
