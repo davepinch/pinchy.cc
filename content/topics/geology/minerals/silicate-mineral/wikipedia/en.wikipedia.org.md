@@ -2,6 +2,7 @@
 title: "Silicate mineral (Wikipedia)"
 excerpt: >-
   **Silicate minerals** are rock-forming [minerals](/en.wikipedia.org/wiki/Mineral) made up of silicate groups. They are the largest and most important class of minerals and make up approximately 90 percent of [Earth](/en.wikipedia.org/wiki/Earth)'s crust.
+license: CC BY-SA 4.0
 retrieved: 2023-10-29
 type: website
 url: /en.wikipedia.org/wiki/Silicate_mineral/
