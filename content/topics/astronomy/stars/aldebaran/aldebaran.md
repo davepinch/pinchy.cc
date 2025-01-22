@@ -1,7 +1,9 @@
 ---
 title: "Aldebaran"
 next in magnitude: Acrux
-star of: Taurus
+star of:
+  - Taurus
+  - Local Bubble
 wikidata:
   - "https://www.wikidata.org/wiki/Q88540091"
   - "https://www.wikidata.org/wiki/Q12170"
