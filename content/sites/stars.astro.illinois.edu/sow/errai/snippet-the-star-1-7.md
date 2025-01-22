@@ -2,7 +2,7 @@
 title: >-
   From the planet, the secondary star would shine with the light of a couple dozen full Moons. 
 author: "[Jim Kaler](http://stars.astro.illinois.edu/sow/)"
-companion of: Errai
+companion of: Gamma Cephei
 sky of: Tadmor
 snippet of: Errai (Gamma Cephei) (stars.astro.illinois.edu)
 type: snippet

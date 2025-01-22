@@ -4,8 +4,9 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, December 25). Gamma Cephei. In *Wikipedia, The Free Encyclopedia*. Retrieved June 26, 2024, from https://en.wikipedia.org/w/index.php?title=Gamma_Cephei&oldid=1191759020
 future of:
-  - Errai
+  - Gamma Cephei
   - Polaris
+license: CC BY-SA 4.0
 snippet of: Gamma Cephei (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Gamma_Cephei/2/
