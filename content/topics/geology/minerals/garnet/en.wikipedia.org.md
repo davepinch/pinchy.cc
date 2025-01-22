@@ -2,6 +2,7 @@
 title: "Garnet (Wikipedia)"
 excerpt: >-
   Garnets ( /ˈɡɑːrnɪt/) are a group of silicate minerals that have been used since the Bronze Age as gemstones and abrasives.
+license: CC BY-SA 4.0
 retrieved: 2024-08-20
 type: website
 url: /en.wikipedia.org/wiki/Garnet/
