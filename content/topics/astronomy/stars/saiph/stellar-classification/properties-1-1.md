@@ -10,4 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Saiph/properties-1-1/
 tags:
   - steller classification
+  - snippet
 ---
