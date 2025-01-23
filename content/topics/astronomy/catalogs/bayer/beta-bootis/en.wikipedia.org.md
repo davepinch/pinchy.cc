@@ -7,7 +7,7 @@ retrieved: 2025-01-22
 type: website
 url: /en.wikipedia.org/wiki/Beta_Bo%C3%B6tis/
 website: "https://en.wikipedia.org/wiki/Beta_Bo%C3%B6tis"
-wikipedia of: Beta Boötis
+wikipedia of: "Beta Boötis"
 tags:
   - Wikipedia
 ---
