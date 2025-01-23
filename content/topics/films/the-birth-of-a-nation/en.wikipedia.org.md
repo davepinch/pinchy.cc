@@ -2,6 +2,7 @@
 title: "The Birth of a Nation (Wikipedia)"
 excerpt: >-
   ***The Birth of a Nation***, originally called ***The Clansman***, is a 1915 American silent epic drama film directed by D. W. Griffith and starring Lillian Gish. The screenplay is adapted from Thomas Dixon Jr.'s 1905 novel and play The Clansman. Griffith co-wrote the screenplay with Frank E. Woods and produced the film with Harry Aitken.
+license: CC BY-SA 4.0
 retrieved: 2024-11-01
 type: website
 url: /en.wikipedia.org/wiki/The_Birth_of_a_Nation/
