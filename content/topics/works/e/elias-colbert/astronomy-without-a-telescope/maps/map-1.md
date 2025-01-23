@@ -35,6 +35,7 @@ astronomy without a telescope of:
   - Thuban
   - Ursa Major
   - Ursa Minor
+license: public domain
 map 1 of: Astronomy Without a Telescope
 notes:
   - Alfirk is written as Alphirk
