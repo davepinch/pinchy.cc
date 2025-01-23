@@ -9,6 +9,7 @@ film of:
 next in dystopia: Brazil (film)
 released: 1984-10-26
 wikidata: "https://www.wikidata.org/wiki/Q162255"
+wikiquote: "https://en.wikiquote.org/wiki/The_Terminator"
 tags:
   - film
 ---
