@@ -4,11 +4,12 @@ title: >-
 attribution: "Phil Conners in *Groundhog Day*"
 citation: >-
   Groundhog Day (film). (2023, October 27). *Wikiquote*. Retrieved January 12, 2024 from https://en.wikiquote.org/w/index.php?title=Groundhog_Day_(film)&oldid=3387723.
-type: quote
-tags:
-  - Groundhog Day
-  - quote
+prediction of:
   - weather
   - winter
+type: quote
+weather of: Groundhog Day
+tags:
+  - quote
   - life
 ---
