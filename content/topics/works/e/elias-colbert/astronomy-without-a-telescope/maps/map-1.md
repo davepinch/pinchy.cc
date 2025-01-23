@@ -18,7 +18,7 @@ astronomy without a telescope of:
   - Dubhe
   - El Rakis
   - Errai
-  - Etanin
+  - Eltanin
   - Giausar
   - Grumium
   - Kochab
