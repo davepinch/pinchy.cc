@@ -4,7 +4,7 @@ citation: >-
   Wikipedia contributors. (2025, January 8). Yojimbo. In *Wikipedia, The Free Encyclopedia*. Retrieved 18:23, January 23, 2025, from https://en.wikipedia.org/w/index.php?title=Yojimbo&oldid=1268203514
 remake of:
   - Yojimbo
-  - A Fistfull of Dollars
+  - A Fistful of Dollars
 snippet of: Yojimbo (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Yojimbo/legacy-1-1/
