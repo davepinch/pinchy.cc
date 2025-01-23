@@ -6,6 +6,7 @@ on location of:
   - British Columbia
   - Spain
 wikidata: "https://www.wikidata.org/wiki/Q463108"
+wikiquote: "https://en.wikiquote.org/wiki/The_NeverEnding_Story_(film)"
 tags:
   - film
 ---
