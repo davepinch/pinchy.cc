@@ -1,5 +1,6 @@
 ---
-title: "Algernon F. Little"
+title: "Algernon Forrest Little"
+also known as: Algernon F. Little
 born on: 1842-05-06
 died on: 1861-12-25
 type: person
