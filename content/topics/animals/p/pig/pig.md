@@ -1,0 +1,5 @@
+---
+title: "pig"
+tags:
+  - mammal
+---
