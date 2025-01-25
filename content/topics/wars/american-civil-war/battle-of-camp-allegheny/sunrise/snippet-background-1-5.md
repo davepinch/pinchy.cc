@@ -5,6 +5,7 @@ citation: >-
 snippet of: Battle of Camp Allegheny (Wikipedia)
 sunrise of: Battle of Camp Allegheny
 type: snippet
+url: /en.wikipedia.org/wiki/Battle_of_Camp_Allegheny/background-1-5/
 when: 1861-12-13
 tags:
   - snippet
