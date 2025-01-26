@@ -1,8 +1,9 @@
 ---
 title: "Paleoarchean"
-next era ➡: Mesoarchean
-⬅ previous era: Eoarchean
-subdivision of: Archean
+➡️: Mesoarchean
+⬅️: Eoarchean
+geologic era of: Archean
+wikidata: "https://www.wikidata.org/wiki/Q738167"
 tags:
   - geologic era
 ---

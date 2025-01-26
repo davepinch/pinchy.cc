@@ -1,12 +1,9 @@
 ---
 title: "Paleoproterozoic"
-next era ➡: Mesoproterozoic
-↖ previous eon: Archean
-⬅ previous era: Neoarchean
-subdivision of: Proterozoic
+➡️: Mesoproterozoic
+⬅️: Neoarchean
+geologic era of: Proterozoic
+wikidata: "https://www.wikidata.org/wiki/Q193738"
 tags:
   - geologic era
-  - Proterozoic
-  - Earth
-  - geology
 ---

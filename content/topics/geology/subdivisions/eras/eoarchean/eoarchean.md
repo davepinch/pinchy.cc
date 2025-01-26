@@ -1,8 +1,8 @@
 ---
 title: "Eoarchean"
-next era ➡: Paleoarchean
-↖ previous eon: Hadean
-subdivision of: Archean
+➡️: Paleoarchean
+geologic era of: Archean
+wikidata: "https://www.wikidata.org/wiki/Q731470"
 tags:
   - geologic era
 ---

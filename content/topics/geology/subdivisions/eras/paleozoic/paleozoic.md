@@ -1,9 +1,9 @@
 ---
 title: "Paleozoic"
-next era ➡: Mesozoic
-↖ previous eon: Proterozoic
-⬅ previous era: Neoproterozoic
-subdivision of: Phanerozoic
+➡️: Mesozoic
+⬅️: Neoproterozoic
+geologic era of: Phanerozoic
+wikidata: "https://www.wikidata.org/wiki/Q75507"
 tags:
   - geologic era
 ---

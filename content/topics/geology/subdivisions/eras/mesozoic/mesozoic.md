@@ -1,8 +1,9 @@
 ---
 title: "Mesozoic"
-next era ➡: Cenozoic
-⬅ previous era: Paleozoic
-subdivision of: Phanerozoic
+➡️: Cenozoic
+⬅️: Paleozoic
+geologic era of: Phanerozoic
+wikidata: "https://www.wikidata.org/wiki/Q83222"
 tags:
   - geologic era
 ---

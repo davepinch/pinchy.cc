@@ -1,8 +1,9 @@
 ---
 title: "Mesoproterozoic"
-next era ➡: Neoproterozoic
-⬅ previous era: Paleoproterozoic
-subdivision of: Proterozoic
+➡️: Neoproterozoic
+⬅️: Paleoproterozoic
+geologic era of: Proterozoic
+wikidata: "https://www.wikidata.org/wiki/Q210611"
 tags:
   - geologic era
 ---
