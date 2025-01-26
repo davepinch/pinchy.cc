@@ -1,7 +1,8 @@
 ---
 title: "Ypresian"
-next age ➡: Lutetian
-subdivision of: Eocene
+➡️: Lutetian
+geologic age of: Eocene
+wikidata: "https://www.wikidata.org/wiki/Q508691"
 tags:
   - geologic age
 ---

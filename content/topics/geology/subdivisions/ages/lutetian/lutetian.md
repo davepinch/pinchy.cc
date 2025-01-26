@@ -1,8 +1,9 @@
 ---
 title: "Lutetian"
-next age ➡: Bartonian
-⬅ previous age: Ypresian
-subdivision of: Eocene
+⬅️: Ypresian
+➡️: Bartonian
+geologic age of: Eocene
+wikidata: "https://www.wikidata.org/wiki/Q514893"
 tags:
   - geologic age
 ---

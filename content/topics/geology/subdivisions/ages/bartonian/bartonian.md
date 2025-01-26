@@ -1,8 +1,9 @@
 ---
 title: "Bartonian"
-next age ➡: Priabonian
-⬅ previous age: Lutetian
-subdivision of: Eocene
+⬅️: Lutetian
+➡️: Priabonian
+geologic age of: Eocene
+wikidata: "https://www.wikidata.org/wiki/Q508675"
 tags:
   - geologic age
 ---
