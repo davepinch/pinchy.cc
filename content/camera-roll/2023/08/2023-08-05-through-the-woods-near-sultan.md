@@ -6,6 +6,7 @@ photograph of:
   - road
   - Sultan, Washington
 picture: content/camera-roll/2023/08/2023-08-05-through-the-woods-near-sultan/through-the-woods-near-sultan.jpg
+road of: forest
 thumbnail: content/camera-roll/2023/08/2023-08-05-through-the-woods-near-sultan/through-the-woods-near-sultan-thumbnail.jpg
 type: picture
 when: 2023-08-05
