@@ -1,14 +1,13 @@
 ---
 title: "I should say that the universe is just there, and that is all."
 attribution: Bertrand Russell
-quote of:
-  - Bertrand Russell
-  - brute fact
-  - universe
-related:
+brute fact of: universe
+example of: brute fact
+side note:
 # Terry Pratchett, Lords and Ladies:
   - "In the Beginning there was nothing, which exploded."
 type: quote
+universe of: Bertrand Russell
 tags:
   - quote
   - God
