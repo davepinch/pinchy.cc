@@ -2,7 +2,7 @@
 title: "Ectasian"
 ⬅️: Calymmian
 ➡️: Stenian
-subdivision of: Mesoproterozoic
+geologic period of: Mesoproterozoic
 wikidata: "https://www.wikidata.org/wiki/Q367597"
 tags:
   - geologic period

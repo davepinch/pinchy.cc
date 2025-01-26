@@ -2,7 +2,7 @@
 title: "Cryogenian"
 ⬅️: Tonian
 ➡️: Ediacaran
-subdivision of: Neoproterozoic
+geologic period of: Neoproterozoic
 wikidata: "https://www.wikidata.org/wiki/Q507402"
 tags:
   - geologic period

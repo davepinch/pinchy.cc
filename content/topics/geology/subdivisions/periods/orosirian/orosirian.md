@@ -2,7 +2,7 @@
 title: "Orosirian"
 ⬅️: Rhyacian
 ➡️: Statherian
-subdivision of: Paleoproterozoic
+geologic period of: Paleoproterozoic
 wikidata: "https://www.wikidata.org/wiki/Q597383"
 tags:
   - geologic period

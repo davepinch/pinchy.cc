@@ -1,7 +1,7 @@
 ---
 title: "Quaternary"
 ⬅️: Neogene
-subdivision of: Cenozoic
+geologic period of: Cenozoic
 wikidata: "https://www.wikidata.org/wiki/Q26185"
 tags:
   - geologic period

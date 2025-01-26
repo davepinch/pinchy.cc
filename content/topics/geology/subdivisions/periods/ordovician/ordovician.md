@@ -2,7 +2,7 @@
 title: "Ordovician"
 ⬅️: Cambrian
 ➡️: Silurian
-subdivision of: Paleozoic
+geologic period of: Paleozoic
 wikidata: "https://www.wikidata.org/wiki/Q62100"
 tags:
   - geologic period
