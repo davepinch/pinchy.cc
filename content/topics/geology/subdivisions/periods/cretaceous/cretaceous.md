@@ -1,8 +1,7 @@
 ---
 title: "Cretaceous"
-next era ↗: Cenozoic (Wikipedia)
-next period ➡: Paleogene
-⬅ previous period: Jurassic
+⬅️: Jurassic
+➡️: Paleogene
 subdivision of: Mesozoic
 tags:
   - geologic period

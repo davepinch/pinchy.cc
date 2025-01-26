@@ -1,8 +1,7 @@
 ---
 title: "Tonian"
-next period ➡: Cryogenian
-↖ previous era: Mesoproterozoic
-⬅ previous period: Stenian
+⬅️: Stenian
+➡️: Cryogenian
 subdivision of: Neoproterozoic
 tags:
   - geologic period

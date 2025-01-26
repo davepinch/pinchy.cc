@@ -1,8 +1,7 @@
 ---
 title: "Paleogene"
-next period ➡: Neogene
-↖ previous era: Mesozoic
-⬅ previous period: Cretaceous
+⬅️: Cretaceous
+➡️: Neogene
 subdivision of: Cenozoic
 tags:
   - geologic period

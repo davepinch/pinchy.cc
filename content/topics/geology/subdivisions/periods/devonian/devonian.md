@@ -1,7 +1,7 @@
 ---
 title: "Devonian"
-next period ➡: Carboniferous
-⬅ previous period: Silurian
+⬅️: Silurian
+➡️: Carboniferous
 subdivision of: Paleozoic
 tags:
   - geologic period

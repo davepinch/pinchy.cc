@@ -1,8 +1,7 @@
 ---
 title: "Calymmian"
-next period ➡: Ectasian
-↖ previous era: Paleoproterozoic
-⬅ previous period: Statherian
+⬅️: Statherian
+➡️: Ectasian
 subdivision of: Mesoproterozoic
 tags:
   - geologic period

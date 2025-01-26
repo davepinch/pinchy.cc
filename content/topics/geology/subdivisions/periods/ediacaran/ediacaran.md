@@ -1,8 +1,7 @@
 ---
 title: "Ediacaran"
-next era ↗: Paleozoic
-next period ➡: Cambrian
-⬅ previous period: Cryogenian
+⬅️: Cryogenian
+➡️: Cambrian
 subdivision of: Neoproterozoic
 tags:
   - geologic period

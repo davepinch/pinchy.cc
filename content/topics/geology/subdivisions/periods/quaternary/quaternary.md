@@ -1,6 +1,6 @@
 ---
 title: "Quaternary"
-⬅ previous period: Neogene
+⬅️: Neogene
 subdivision of: Cenozoic
 tags:
   - geologic period

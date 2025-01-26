@@ -1,7 +1,7 @@
 ---
 title: "Carboniferous"
-next period ➡: Permian
-⬅ previous period: Devonian
+⬅️: Devonian
+➡️: Permian
 subdivision of: Paleozoic
 tags:
   - geologic period

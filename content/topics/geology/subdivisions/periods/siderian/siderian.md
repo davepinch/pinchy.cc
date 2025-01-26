@@ -1,7 +1,6 @@
 ---
 title: "Siderian"
-next period ➡: Rhyacian
-↖ previous era: Neoarchean
+➡️: Rhyacian
 subdivision of: Paleoproterozoic
 tags:
   - geologic period

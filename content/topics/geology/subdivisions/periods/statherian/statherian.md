@@ -1,8 +1,7 @@
 ---
 title: "Statherian"
-next era ↗: Mesoproterozoic
-next period ➡: Calymmian
-⬅ previous period: Orosirian
+⬅️: Orosirian
+➡️: Calymmian
 subdivision of: Paleoproterozoic
 tags:
   - geologic period

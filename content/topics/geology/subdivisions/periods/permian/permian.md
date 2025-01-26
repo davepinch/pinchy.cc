@@ -1,8 +1,7 @@
 ---
 title: "Permian"
-next era ↗: Mesozoic
-next period ➡: Triassic
-⬅ previous period: Carboniferous
+⬅️: Carboniferous
+➡️: Triassic
 subdivision of: Paleozoic
 tags:
   - geologic period

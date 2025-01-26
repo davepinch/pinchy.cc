@@ -1,7 +1,7 @@
 ---
 title: "Ordovician"
-next period ➡: Silurian
-⬅ previous period: Cambrian
+⬅️: Cambrian
+➡️: Silurian
 subdivision of: Paleozoic
 tags:
   - geologic period

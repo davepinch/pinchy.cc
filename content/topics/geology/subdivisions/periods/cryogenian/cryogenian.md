@@ -1,7 +1,7 @@
 ---
 title: "Cryogenian"
-next period ➡: Ediacaran
-⬅ previous period: Tonian
+⬅️: Tonian
+➡️: Ediacaran
 subdivision of: Neoproterozoic
 tags:
   - geologic period

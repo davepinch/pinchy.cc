@@ -1,7 +1,7 @@
 ---
 title: "Jurassic"
-next period ➡: Cretaceous
-⬅ previous period: Triassic
+⬅️: Triassic
+➡️: Cretaceous
 subdivision of: Mesozoic
 tags:
   - geologic period

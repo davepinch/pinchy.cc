@@ -1,7 +1,7 @@
 ---
 title: "Rhyacian"
-next period ➡: Orosirian
-⬅ previous period: Siderian
+⬅️: Siderian
+➡️: Orosirian
 subdivision of: Paleoproterozoic
 tags:
   - geologic period

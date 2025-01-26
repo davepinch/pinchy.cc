@@ -1,8 +1,7 @@
 ---
 title: "Triassic"
-next period ➡: Jurassic
-↖ previous era: Paleozoic
-⬅ previous period: Permian
+⬅️: Permian
+➡️: Jurassic
 subdivision of: Mesozoic
 tags:
   - geologic period

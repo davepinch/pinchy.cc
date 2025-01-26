@@ -1,7 +1,7 @@
 ---
 title: "Orosirian"
-next period: Statherian
-⬅ previous period: Rhyacian
+⬅️: Rhyacian
+➡️: Statherian
 subdivision of: Paleoproterozoic
 tags:
   - geologic period
