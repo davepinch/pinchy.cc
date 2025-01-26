@@ -1,9 +1,8 @@
 ---
 title: "Hadean"
-next eon ➡: Archean
-next era ↘: Eoarchean
+➡️: Archean
+geologic eon of: Earth
+wikidata: "https://www.wikidata.org/wiki/Q104460"
 tags:
   - geologic eon
-  - Earth
-  - geology
 ---

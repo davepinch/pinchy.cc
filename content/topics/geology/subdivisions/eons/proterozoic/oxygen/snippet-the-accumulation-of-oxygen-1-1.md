@@ -1,15 +1,15 @@
 ---
 title: >-
-  It is believed that 43% of modern continental crust was formed in the Proterozoic, 39% formed in the Archean, and only 18% in the Phanerozoic.
+  One of the most important events of the Proterozoic was the accumulation of oxygen in the Earth's atmosphere.
 citation: >-
   Wikipedia contributors. (2024, February 5). Proterozoic. In *Wikipedia, The Free Encyclopedia*. Retrieved February 14, 2024, from https://en.wikipedia.org/w/index.php?title=Proterozoic&oldid=1203723954
+atmosphere of: oxygen
+oxygen of:
+  - Proterozoic
+  - Earth
 snippet of: Proterozoic (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Proterozoic/subduction-processes-5-2/
+url: /en.wikipedia.org/wiki/Proterozoic/the-accumulation-of-oxygen-1-1/
 tags:
-  - continental crust
-  - Proterozoic
-  - Archean
-  - Phanerozoic
   - snippet
 ---

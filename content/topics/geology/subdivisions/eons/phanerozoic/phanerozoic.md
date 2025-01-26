@@ -1,9 +1,9 @@
 ---
 title: "Phanerozoic"
-⬅ previous eon: Proterozoic
+⬅️: Proterozoic
+geologic eon of: Earth
+wikidata: "https://www.wikidata.org/wiki/Q101313"
 tags:
   - geologic eon
-  - Earth
-  - geology
   - now
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Proterozoic"
-next eon ➡: Phanerozoic
-⬅ previous eon: Archean
+➡️: Phanerozoic
+⬅️: Archean
+geologic eon of: Earth
+wikidata: "https://www.wikidata.org/wiki/Q104162"
 tags:
   - geologic eon
-  - Earth
-  - geology
 ---
