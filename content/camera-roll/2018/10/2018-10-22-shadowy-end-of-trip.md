@@ -6,6 +6,7 @@ photograph of:
   - shadows
   - Cascade Range
 picture: content/camera-roll/2018/10/2018-10-22-shadowy-end-of-trip/IMG_0793.JPG
+shadows of: North Fork Road
 thumbnail: content/camera-roll/2018/10/2018-10-22-shadowy-end-of-trip/IMG_0793-thumbnail.jpg
 type: picture
 when: 2018-10-22
