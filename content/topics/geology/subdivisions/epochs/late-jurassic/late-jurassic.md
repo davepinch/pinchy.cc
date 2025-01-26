@@ -1,9 +1,9 @@
 ---
 title: "Late Jurassic"
-next epoch ➡: Early Cretaceous
-next period ↗: Cretaceous
-⬅ previous epoch: Middle Jurassic
-subdivision of: Jurassic
+⬅️: Middle Jurassic
+➡️: Early Cretaceous
+geologic epoch of: Jurassic
+wikidata: "https://www.wikidata.org/wiki/Q499312"
 tags:
   - geologic epoch
 ---

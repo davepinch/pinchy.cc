@@ -1,9 +1,9 @@
 ---
 title: "Late Triassic"
-next epoch ➡: Early Jurassic
-next period  ↗: Jurassic
-⬅ previous epoch: Middle Triassic
-subdivision of: Triassic
+⬅️: Middle Triassic
+➡️: Early Jurassic
+geologic epoch of: Triassic
+wikidata: "https://www.wikidata.org/wiki/Q917293"
 tags:
   - geologic epoch
 ---

@@ -1,8 +1,9 @@
 ---
 title: "Middle Triassic"
-next epoch ➡: Late Triassic
-⬅ previous epoch: Early Triassic
-subdivision of: Triassic
+⬅️: Early Triassic
+➡️: Late Triassic
+geologic epoch of: Triassic
+wikidata: "https://www.wikidata.org/wiki/Q929395"
 tags:
   - geologic epoch
 ---

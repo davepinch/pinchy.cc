@@ -7,7 +7,7 @@ citation: >-
 formation of:
   - Laurasia
   - Gondwana
-moment of: Late Jurassic
+pangaea of: Late Jurassic
 snippet of: Late Jurassic (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Late_Jurassic/paleogeography-1-1/

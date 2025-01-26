@@ -1,9 +1,9 @@
 ---
 title: "Cisuralian"
-subdivision of: Permian
-next epoch ➡: Guadalupian
+➡️: Guadalupian
+geologic epoch of: Permian
 ⬅ previous subperiod: Pennsylvanian
-↖ previous period: Carboniferous
+wikidata: "https://www.wikidata.org/wiki/Q642169"
 tags:
   - geologic epoch
 ---

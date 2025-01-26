@@ -1,9 +1,9 @@
 ---
 title: "Pleistocene"
-next epoch ➡: Holocene
-⬅ previous epoch: Pliocene
-↖ previous period: Neogene
-subdivision of: Quaternary
+⬅️: Pliocene
+➡️: Holocene
+geologic epoch of: Quaternary
+wikidata: "https://www.wikidata.org/wiki/Q25546"
 tags:
   - geologic epoch
 ---

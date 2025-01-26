@@ -1,9 +1,9 @@
 ---
 title: "Oligocene"
-next epoch ➡: Miocene
-next period ↗: Neogene
-⬅ previous epoch: Eocene
-subdivision of: Paleogene
+⬅️: Eocene
+➡️: Miocene
+geologic epoch of: Paleogene
+wikidata: "https://www.wikidata.org/wiki/Q101873"
 tags:
   - geologic epoch
 ---

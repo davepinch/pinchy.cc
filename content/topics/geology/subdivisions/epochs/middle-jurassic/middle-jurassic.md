@@ -1,8 +1,9 @@
 ---
 title: "Middle Jurassic"
-⬅ previous epoch: Early Jurassic
-next epoch ➡: Late Jurassic
-subdivision of: Jurassic
+⬅️: Early Jurassic
+➡️: Late Jurassic
+geologic epoch of: Jurassic
+wikidata: "https://www.wikidata.org/wiki/Q500054"
 tags:
   - geologic epoch
 ---

@@ -1,9 +1,9 @@
 ---
 title: "Late Cretaceous"
-next epoch ➡: Paleocene
-next period ↗: Paleogene
-⬅ previous epoch: Early Cretaceous
-subdivision of: Cretaceous
+⬅️: Early Cretaceous
+➡️: Paleocene
+geologic epoch of: Cretaceous
+wikidata: "https://www.wikidata.org/wiki/Q338199"
 tags:
   - geologic epoch
 ---
