@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Panthalassa/
 website: "https://en.wikipedia.org/wiki/Panthalassa"
 wikipedia of: Panthalassa
 tags:
-  - Geology (Wikipedia)
   - Wikipedia
 ---
