@@ -7,4 +7,6 @@ tags:
   - politician
   - city council candidate
   - Seattle
+  - no Wikidata record
+  - no Wikipedia article
 ---
