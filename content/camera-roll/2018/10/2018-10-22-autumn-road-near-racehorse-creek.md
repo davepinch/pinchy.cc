@@ -1,5 +1,6 @@
 ---
 title: "Autumn road near Racehorse Creek"
+autumn of: North Fork Road
 near:
   - Cross at Racehorse creek
   - Shadowy end of trip
