@@ -8,5 +8,5 @@ website: "https://www.lynnwoodwa.gov/Community/Play-Lynnwood/Parks-Trails-and-Op
 website of: Heritage Park
 tags:
   - VISIT SOMEWHERE NEW
-  - Lynnwood, Washington
+  - website
 ---
