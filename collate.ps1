@@ -709,6 +709,45 @@ function Update-Randoms() {
 }
 
 # ========================================================================
+# Update-RandomFragments
+# ------------------------------------------------------------------------
+# Links each fragment to another fragment, unless already set.
+# ========================================================================
+function Update-RandomFragmentFor($page) {
+
+    #
+    # This function links a fragment to a random next fragment.
+    # Exit if the page is not a fragment.
+    #
+    $type = $page["type"]
+    if ($type -ne "fragment") {
+        return
+    }
+
+    #
+    # Exit if a next page is already defined
+    #
+    $next = $page["next"]
+    if ($null -ne $next) {
+        return
+    }
+
+    #
+    # Select a random page where type=fragment
+    #
+    $next = $script:props["type"]["fragment"] | Get-Random
+
+    $page["next"] = $next
+}
+
+function Update-RandomFragments() {
+    Write-Host "$(Get-EmojiQuestionMark) Random fragments..."
+    foreach($page in $script:pages) {
+        Update-RandomFragmentFor $page
+    }
+}
+
+# ========================================================================
 # Update-ReverseTag
 # ------------------------------------------------------------------------
 # Adds a "tagged" property containing an array of titles that reference
@@ -1110,6 +1149,7 @@ Update-Ofs "of"
 Update-Ofs "in"
 Update-OnTheseDays
 Update-Randoms
+Update-RandomFragments
 Update-ReverseTags
 Update-Sequences
 Update-Timelines
