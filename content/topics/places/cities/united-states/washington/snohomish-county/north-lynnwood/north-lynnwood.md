@@ -10,8 +10,7 @@ borders:
 census-designated place of:
   - Snohomish County, Washington
   - Interstate 5
-note: The OpenStreetMap link is for the Picnic Point-North Lynnwood census-designated place. There does not seem to be a record specifically for North Lynnwood only.
-openstreetmap: "https://www.openstreetmap.org/relation/237464"
+openstreetmap: "https://www.openstreetmap.org/relation/18389829"
 wikidata: "https://www.wikidata.org/wiki/Q9050710"
 tags:
   - census-designated place
