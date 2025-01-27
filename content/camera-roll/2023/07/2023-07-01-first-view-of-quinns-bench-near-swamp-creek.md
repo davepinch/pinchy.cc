@@ -1,5 +1,6 @@
 ---
 title: "First view of Quinn's Bench near Swamp Creek"
+inscription: "Dedicated to Quinn Proffitt in gratitude for his love of and service to Kenmore's nature spaces."
 photograph of:
   - bench
   - trail
@@ -12,4 +13,3 @@ when: 2023-07-01
 tags:
   - photograph
 ---
-First view of a bench <q>Dedicated to Quinn Proffitt in gratitude for his love of and service to [Kenmore](/kenmore/)'s nature spaces.</q>
