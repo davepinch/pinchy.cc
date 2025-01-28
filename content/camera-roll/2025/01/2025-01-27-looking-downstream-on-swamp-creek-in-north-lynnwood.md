@@ -9,7 +9,7 @@ parking: "https://www.openstreetmap.org/way/6124086"
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Looking_downstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Looking_downstream_on_Swamp_Creek_in_North_Lynnwood.jpg/320px-Looking_downstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/Looking_downstream_on_Swamp_Creek_in_North_Lynnwood.jpg
+url: /commons.wikimedia.org/wiki/Looking_downstream_on_Swamp_Creek_in_North_Lynnwood.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Looking_downstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
 wetland: "https://www.openstreetmap.org/way/242751893"
 wetland of: North Lynnwood, Washington
