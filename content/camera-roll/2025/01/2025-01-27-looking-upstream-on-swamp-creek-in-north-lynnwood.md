@@ -7,7 +7,7 @@ north lynnwood of: Swamp Creek
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/db/Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg/320px-Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg/
+url: /commons.wikimedia.org/wiki/Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
 wetland of: North Lynnwood, Washington
 when: 2025-01-27
