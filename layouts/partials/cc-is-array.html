@@ -1,0 +1,8 @@
+{{ $result := false }}
+{{ $type := printf "%T" . }}
+{{ if eq $type "[]string" }}
+    {{ $result = true }}
+{{ else if eq $type "[]interface" }}
+    {{ $result = true }}
+{{ end }}
+{{ return $result }}
