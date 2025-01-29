@@ -5,9 +5,9 @@ borders:
   - Hydra
   - Puppis
   - Vela
-constellation of: southern celestial hemisphere
-namesake of: compass (navigation)
-type: constellation
+constellation of:
+  - southern celestial hemisphere
+  - compass (navigation)
 wikidata: "https://www.wikidata.org/wiki/Q10473"
 tags:
   - constellation
