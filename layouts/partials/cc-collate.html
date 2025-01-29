@@ -1,6 +1,6 @@
 {{ $page := false }}
 {{ $index := int (index site.Data.lookup (string .)) }}
 {{ if $index }}
-    {{ $page := index site.Data.pages $index }}
+    {{ $page = index site.Data.pages $index }}
 {{ end }}
 {{ return $page }}

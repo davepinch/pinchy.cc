@@ -1,7 +1,7 @@
 {{ $collated := partial "cc-collate" .Params.title }}
 <header class="cc-masthead cc-{{ .Type }}-masthead">
     <h1 class="cc-title">
-    {{ if $collated.next }}
+    {{ if $collated }}
         {{ $next := partial "cc-get-first" $collated.next }}
         {{ if $next }}
           <a href="{{ $next.RelPermalink }}">{{ .Params.title | markdownify }}</a>
