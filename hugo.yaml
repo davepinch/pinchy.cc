@@ -5,6 +5,16 @@ disableKinds:
   - taxonomy
   - term
 enableEmoji: true
+
+#
+# Enable superscripts in markdown, e.g., 2^10^
+#
+markup:
+  goldmark:
+    extensions:
+      extras:
+        superscript:
+          enable: true
 timeout: 45s
 title: pinchy.cc
 permalinks:
