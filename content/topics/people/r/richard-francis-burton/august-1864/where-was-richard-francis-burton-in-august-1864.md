@@ -11,7 +11,7 @@ tags:
 
 Bing Copilot:
 
-> In August 1864, Sir Richard Francis Burton, the intrepid British explorer, writer, and orientalist scholar, found himself in Lagos Colony<sup>1</sup>. Burton was renowned for his extensive travels and explorations across Asia, Africa, and the Americas. His remarkable linguistic abilities allowed him to converse in 29 languages<sup>2</sup>. During this period, he was actively engaged in various pursuits, including his unexpurgated translation of One Thousand and One Nights, the publication of the Kama Sutra in English, and his exploration of the Great Lakes of Africa in search of the Nile’s source<sup>2</sup>.
+> In August 1864, Sir Richard Francis Burton, the intrepid British explorer, writer, and orientalist scholar, found himself in Lagos Colony^1^. Burton was renowned for his extensive travels and explorations across Asia, Africa, and the Americas. His remarkable linguistic abilities allowed him to converse in 29 languages^2^. During this period, he was actively engaged in various pursuits, including his unexpurgated translation of One Thousand and One Nights, the publication of the Kama Sutra in English, and his exploration of the Great Lakes of Africa in search of the Nile’s source^2^.
 
 1. https://commons.wikimedia.org/wiki/File:Richard_Francis_Burton_by_Rischgitz,_1864.jpg
 2. https://en.wikipedia.org/wiki/Richard_Francis_Burton
