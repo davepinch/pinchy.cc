@@ -1,5 +1,5 @@
 {{ $value := . }}
-{{ $isarray = partial "cc-is-array" $value }}
+{{ $isarray := partial "cc-is-array" $value }}
 {{ if $isarray }}
     {{ $value = index $value 0 }}
 {{ end }}
