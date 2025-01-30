@@ -4,6 +4,7 @@ ASCEND: Virgo Supercluster
 contains:
   - Andromeda Galaxy
   - Milky Way
+wikidata: "https://www.wikidata.org/wiki/Q3944"
 tags:
   - you
   - Virgo Supercluster

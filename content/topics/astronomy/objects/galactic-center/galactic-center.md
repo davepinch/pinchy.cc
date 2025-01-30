@@ -1,7 +1,7 @@
 ---
 title: "Galactic Center"
 center of: Milky Way
-type: place
+wikidata: "https://www.wikidata.org/wiki/Q649112"
 tags:
   - astronomy
 ---
