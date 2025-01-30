@@ -1,6 +1,6 @@
 ---
 title: "Chuckanut Formation"
-formation of:
+geological formation of:
   - Eocene
   - Washington
 formed into: Chuckanut Mountains

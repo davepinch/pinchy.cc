@@ -1,6 +1,6 @@
 ---
 title: "Tukwila Formation"
-formation of:
+geological formation of:
   - Puget Group
   - King County, Washington
 related: Renton Formation

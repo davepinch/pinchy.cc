@@ -1,6 +1,6 @@
 ---
 title: "Renton Formation"
-formation of:
+geological formation of:
   - Puget Group
   - Washington
 near: Tukwila Formation
