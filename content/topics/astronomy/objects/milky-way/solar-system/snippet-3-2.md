@@ -7,11 +7,11 @@ location of:
   - Solar System
   - Galactic Center
 snippet of: Milky Way (Wikipedia)
+solar system of: Milky Way
 type: snippet
 url: /en.wikipedia.org/wiki/Milky_Way/3-2/
 tags:
   - location
-  - Milky Way
   - Orion Arm
   - snippet
 ---
