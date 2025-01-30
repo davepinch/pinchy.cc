@@ -5,6 +5,8 @@ citation: >-
 direction of:
   - Milky Way
   - Centaurus
+license: CC BY-SA 4.0
+milky way of: Great Attractor
 snippet of: Great Attractor (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Great_Attractor/history-2-1/

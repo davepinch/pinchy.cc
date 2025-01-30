@@ -1,6 +1,7 @@
 ---
 title: "A busy patch of the Great Attractor (esahubble.org)"
 license: CC BY 4.0
+patch of: Great Attractor
 photograph of:
   - galaxy
   - Milky Way
@@ -14,7 +15,6 @@ tags:
   - Abell 3627
   - ESA
   - ESO 137-002
-  - Great Attractor
   - Hubble Space Telescope
   - NASA
   - Norma
