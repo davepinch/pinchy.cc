@@ -14,5 +14,6 @@ url: /commons.wikimedia.org/wiki/LAC_80.jpg/
 website: "https://commons.wikimedia.org/wiki/File:LAC_80.jpg"
 tags:
   - NASA
+  - Wikimedia Commons
 ---
 The image posted on USRA seems to be better quality that the versions on Wikimedia.
