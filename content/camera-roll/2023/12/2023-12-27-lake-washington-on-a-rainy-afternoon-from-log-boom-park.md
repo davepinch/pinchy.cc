@@ -1,10 +1,10 @@
 ---
 title: "Lake Washington on a rainy afternoon from Log Boom Park"
-license: CC BY-SA 4.0
-photograph of:
-  - Lake Washington
+lake washington of:
   - Log Boom Park
   - Kenmore, Washington
+license: CC BY-SA 4.0
+photograph of: Lake Washington
 picture: content/camera-roll/2023/12/2023-12-27-lake-washington-on-a-rainy-afternoon-from-log-boom-park/lake-washington-on-a-rainy-afternoon-from-log-boom-park.jpg
 related:
   - Log Boom Park (Tracy Owen Station) (kenmorewa.gov)
