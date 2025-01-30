@@ -1,7 +1,7 @@
 ---
 title: "Orion Arm"
 ASCEND: Milky Way
-type: spiral-arm
+spiral arm of: Milky Way
 tags:
   - astronomy
 ---
