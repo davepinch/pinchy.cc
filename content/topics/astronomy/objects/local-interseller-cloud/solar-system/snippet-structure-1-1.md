@@ -5,12 +5,13 @@ citation: >-
   Wikipedia contributors. (2023, December 3). Local Interstellar Cloud. In *Wikipedia, The Free Encyclopedia*. Retrieved March 8, 2024, from https://en.wikipedia.org/w/index.php?title=Local_Interstellar_Cloud&oldid=1188064887
 location of: Solar System
 snippet of: Local Interstellar Cloud (Wikipedia)
+solar system of:
+  - Local Interstellar Cloud
+  - Local Bubble
 type: snippet
 url: /en.wikipedia.org/wiki/Local_Interstellar_Cloud/structure-1-1/
 tags:
   - location
-  - Local Bubble
-  - Local Interstellar Cloud
   - hydrogen
   - Milky Way
   - snippet
