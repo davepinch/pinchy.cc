@@ -7,4 +7,5 @@ tags:
   - park
   - no Wikidata record
   - no Wikipedia article
+  - VISIT SOMEWHERE NEW
 ---
