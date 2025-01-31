@@ -8,5 +8,6 @@ near:
   - I-90 Mississippi River Bridge
   - Interstate 90
 tags:
+  - dam
   - lock and dam
 ---

@@ -12,5 +12,6 @@ lock and dam of:
   - Adams, Seattle
   - Seattle
 tags:
+  - dam
   - lock and dam complex
 ---
