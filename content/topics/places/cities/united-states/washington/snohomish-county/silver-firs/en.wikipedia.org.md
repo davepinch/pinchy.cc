@@ -5,7 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2025-01-15
 type: website
-url: /en.wikipedia.org/wiki/Silver_Firs%2C_Washington/
+url: /en.wikipedia.org/wiki/Silver_Firs,_Washington/
 website: "https://en.wikipedia.org/wiki/Silver_Firs%2C_Washington"
 wikipedia of: Silver Firs, Washington
 tags:
