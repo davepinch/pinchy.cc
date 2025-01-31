@@ -6,6 +6,7 @@ fixed version of: E.T. the Extra-Terrestrial (Atari 2600)
 hacker news: "https://news.ycombinator.com/item?id=42889139"
 retrieved: 2025-01-31
 type: website
+updated manual based on fixes: "http://www.neocomputer.org/projects/et/ET_Fixed-Manual.pdf"
 url: /www.neocomputer.org/projects/et/
 website: "http://www.neocomputer.org/projects/et/"
 tags:
