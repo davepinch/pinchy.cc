@@ -2,6 +2,7 @@
 title: "Lock and Dam No. 7 (Wikipedia)"
 excerpt: >-
   **Lock and Dam No. 7** is a lock and dam located on the Upper Mississippi River at river mile 702.5 near the cities of La Crescent, [Minnesota](/en.wikipedia.org/wiki/Minnesota/) and Onalaska, [Wisconsin](/en.wikipedia.org/wiki/Wisconsin/). It forms pool 7 and Lake Onalaska. The facility was constructed in the mid-1930s and placed in operation on April, 1937. It underwent major rehabilitation from 1989 through 2002. The lock and dam are owned and operated by the St. Paul District of the United States Army Corps of Engineers-Mississippi Valley Division.
+license: CC BY-SA 4.0
 related: Jason and David at Lock and Dam No. 7
 retrieved: 2024-02-10
 type: website
