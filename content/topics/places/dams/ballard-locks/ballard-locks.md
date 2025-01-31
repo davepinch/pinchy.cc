@@ -11,6 +11,7 @@ dam of:
   - Ballard, Seattle
   - Adams, Seattle
   - Seattle
+openstreetmap: "https://www.openstreetmap.org/way/292961531"
 wikidata: "https://www.wikidata.org/wiki/Q5769218"
 tags:
   - dam
