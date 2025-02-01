@@ -9,8 +9,8 @@ related:
   - The Social Contract (Wikipedia)
   - Jean-Jacques Rousseau (Wikipedia)
 type: quote
+vampires of: The Social Contract
 tags:
   - quote
-  - The Social Contract
   - Jean-Jacques Rousseau
 ---
