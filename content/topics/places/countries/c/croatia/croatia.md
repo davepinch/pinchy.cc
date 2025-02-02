@@ -5,6 +5,7 @@ clockwise around the mediterranean:
   - Montenegro
 country of:
   - Central Europe
+  - Southeast Europe
   - Europe
   - Mediterranean Sea
 land borders:
