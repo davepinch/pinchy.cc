@@ -4,8 +4,8 @@ official website: "https://www.mercerisland.gov/parksrec/page/luther-burbank-par
 openstreetmap: "https://www.openstreetmap.org/way/258709927"
 park of:
   - Luther Burbank
-  - Mercer Island
   - Lake Washington
+  - Mercer Island, Washington
   - King County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q49520200"
 tags:
