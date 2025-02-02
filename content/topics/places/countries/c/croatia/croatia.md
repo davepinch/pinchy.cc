@@ -4,6 +4,7 @@ clockwise around the mediterranean:
   - A small sliver of [Bosnia and Herzegovina](/bosnia-and-herzegovina/), and then
   - Montenegro
 country of:
+  - Central Europe
   - Europe
   - Mediterranean Sea
 land borders:
