@@ -8,7 +8,9 @@ borders:
   - Russia
   - Sweden
 clockwise around the baltic sea: Kaliningrad Oblast
-country of: Europe
+country of:
+  - Central Europe
+  - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/72596"
 wikidata: "https://www.wikidata.org/wiki/Q37"
 tags:
