@@ -4,9 +4,10 @@ title: >-
 next: >-
   We hold these truths to be self-evident, that all men are created equal, that they are endowed by their Creator with certain unalienable Rights, that among these are Life, Liberty and the pursuit of Happiness.
 related: United States Declaration of Independence (Wikipedia)
+snippet of: United States Declaration of Independence
+type: snippet
 url: /united-states-declaration-of-independence/introduction/
 tags:
-  - United States Declaration of Independence
   - preamble
-  - United States
+  - snippet
 ---
