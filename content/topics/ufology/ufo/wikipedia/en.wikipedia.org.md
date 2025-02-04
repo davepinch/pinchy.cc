@@ -2,6 +2,7 @@
 title: "Unidentified flying object (Wikipedia)"
 excerpt: >-
   An **unidentified flying object** (**UFO**), or **unidentified anomalous phenomenon** (**UAP**), is any perceived airborne, submerged or transmedium phenomenon that cannot be immediately identified or explained. Upon investigation, most UFOs are identified as known objects or atmospheric phenomena, while a small number remain unexplained.
+license: CC BY-SA 4.0
 retrieved: 2024-12-05
 type: website
 url: /en.wikipedia.org/wiki/Unidentified_flying_object/
