@@ -1,5 +1,6 @@
 ---
-title: "Gorbachev died at the Central Clinical Hospital in Moscow on 30 August 2022, at the age of 91. He died after a "severe and prolonged illness," according to the hospital."
+title: >-
+  Gorbachev died at the Central Clinical Hospital in Moscow on 30 August 2022, at the age of 91. He died after a "severe and prolonged illness," according to the hospital.
 citation: >-
   Wikipedia contributors. (2025, January 22). Mikhail Gorbachev. In *Wikipedia, The Free Encyclopedia*. Retrieved 18:33, February 4, 2025, from https://en.wikipedia.org/w/index.php?title=Mikhail_Gorbachev&oldid=1271191569
 death of: Mikhail Gorbachev
