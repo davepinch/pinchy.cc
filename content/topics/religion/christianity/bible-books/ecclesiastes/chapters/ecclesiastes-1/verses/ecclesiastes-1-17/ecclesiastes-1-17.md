@@ -1,6 +1,7 @@
 ---
 title: "Ecclesiastes 1:17"
-next: "Ecclesiastes 1:18"
+⬅️: "Ecclesiastes 1:16"
+➡️: "Ecclesiastes 1:18"
 king james version: >-
   And I gave my heart to know wisdom, and to know madness and folly: I perceived that this also is vexation of spirit.
 new international version: >-

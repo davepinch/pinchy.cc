@@ -1,6 +1,7 @@
 ---
 title: "Ecclesiastes 1:13"
-next: "Ecclesiastes 1:14"
+⬅️: "Ecclesiastes 1:12"
+➡️: "Ecclesiastes 1:14"
 king james version: >-
   And I gave my heart to seek and search out by wisdom concerning all things that are done under heaven: this sore travail hath God given to the sons of man to be exercised therewith.
 new international version: >-

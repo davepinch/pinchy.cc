@@ -1,6 +1,7 @@
 ---
 title: "Ecclesiastes 1:11"
-next: "Ecclesiastes 1:12"
+⬅️: "Ecclesiastes 1:10"
+➡️: "Ecclesiastes 1:12"
 king james version: >-
   There is no remembrance of former things; neither shall there be any remembrance of things that are to come with those that shall come after.
 new international version: >-

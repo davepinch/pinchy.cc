@@ -1,6 +1,7 @@
 ---
 title: "Ecclesiastes 1:5"
-next: "Ecclesiastes 1:6"
+⬅️: "Ecclesiastes 1:4"
+➡️: "Ecclesiastes 1:6"
 king james version: >-
   The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.
 New International Version: >-
