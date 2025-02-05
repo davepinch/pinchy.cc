@@ -7,6 +7,7 @@ reflection of: Tambark Creek Park
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Reflection_at_Tambark_Creek_Park.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Reflection_at_Tambark_Creek_Park.jpg/320px-Reflection_at_Tambark_Creek_Park.jpg"
 type: picture
+website: "https://commons.wikimedia.org/wiki/File:Reflection_at_Tambark_Creek_Park.jpg"
 when: 2025-01-15
 tags:
   - Wikimedia Commons
