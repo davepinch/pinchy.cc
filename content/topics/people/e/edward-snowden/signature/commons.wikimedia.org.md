@@ -6,6 +6,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/4/4e/Edward_Snowden_sig
 signature of:
   - Edward Snowden
   - SVG
+source: "https://rt.com/news/snowden-letter-germany-asylum-091/"
 type: picture
 url: /commons.wikimedia.org/wiki/Edward_Snowden_signature_2013.svg/
 website: "https://commons.wikimedia.org/wiki/File:Edward_Snowden_signature_2013.svg"
