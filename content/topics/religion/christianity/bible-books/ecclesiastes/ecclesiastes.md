@@ -1,7 +1,8 @@
 ---
 title: "Ecclesiastes"
-book of: Old Testament
+book of:
+  - Old Testament
+  - Bible
 tags:
   - Book of the Bible
-  - Bible
 ---
