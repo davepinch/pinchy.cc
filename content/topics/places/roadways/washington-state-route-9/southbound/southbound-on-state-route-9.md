@@ -10,7 +10,7 @@ sequence:
   - Lake Stevens, Washington
   - Snohomish, Washington
 southbound of: Washington State Route 9
-type: fragment
+type: sequence
 tags:
   - southbound
   - sequence

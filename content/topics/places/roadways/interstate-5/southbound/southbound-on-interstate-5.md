@@ -26,9 +26,8 @@ sequence:
   - Shoreline, Washington
   - Seattle
 southbound of: Interstate 5
-type: fragment
+type: sequence
 tags:
   - southbound
-  - fragment
   - sequence
 ---

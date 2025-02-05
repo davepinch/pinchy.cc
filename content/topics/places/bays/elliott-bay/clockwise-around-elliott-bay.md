@@ -1,6 +1,6 @@
 ---
 title: "clockwise around Elliott Bay"
-type: fragment
+type: sequence
 tags:
   - clockwise
   - Elliott Bay

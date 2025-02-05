@@ -20,7 +20,7 @@ sequence:
   - Snohomish River
   - Interstate 5
   - Everett, Washington
-type: fragment
+type: sequence
 westbound of: U.S. Route 2
 tags:
   - westbound

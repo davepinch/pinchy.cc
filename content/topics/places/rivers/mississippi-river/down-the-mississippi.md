@@ -3,7 +3,8 @@ title: "down the Mississippi"
 related:
   - Lake Itasca
   - Minnesota
-type: fragment
+type: sequence
 tags:
   - Mississippi River
+  - sequence
 ---

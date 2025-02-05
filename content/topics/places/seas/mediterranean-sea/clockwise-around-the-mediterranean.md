@@ -1,7 +1,7 @@
 ---
 title: "clockwise around the Mediterranean"
 next: Strait of Gibraltar
-type: fragment
+type: sequence
 tags:
   - clockwise
   - Mediterranean Sea

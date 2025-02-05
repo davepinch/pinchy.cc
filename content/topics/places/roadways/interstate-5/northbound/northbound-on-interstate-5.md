@@ -25,9 +25,8 @@ sequence:
   - Custer, Washington
   - Custer Rest Area Northbound
   - Blaine, Washington
-type: fragment
+type: sequence
 tags:
   - northbound
-  - fragment
   - sequence
 ---

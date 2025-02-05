@@ -1,7 +1,7 @@
 ---
 title: "clockwise around the African Plate"
 next: Eurasian Plate
-type: fragment
+type: sequence
 tags:
   - clockwise
   - African Plate

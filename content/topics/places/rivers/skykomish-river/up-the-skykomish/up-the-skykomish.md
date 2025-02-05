@@ -9,7 +9,7 @@ sequence:
   - Gold Bar, Washington
   - Index, Washington
   - Big Eddy River Access
-type: fragment
+type: sequence
 upstream of: Skykomish River
 tags:
   - upstream

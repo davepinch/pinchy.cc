@@ -10,7 +10,7 @@ sequence:
   - Maple Falls, Washington
   - Glacier, Washington
   - Mount Baker
-type: fragment
+type: sequence
 tags:
   - eastbound
   - sequence

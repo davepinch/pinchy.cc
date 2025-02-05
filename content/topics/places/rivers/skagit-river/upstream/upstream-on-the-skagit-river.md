@@ -20,10 +20,9 @@ sequence:
   - Ross Lake
   - Skagit Valley Provincial Park
   - E. C. Manning Provincial Park
-type: fragment
+type: sequence
 upstream of: Skagit River
 tags:
   - upstream
-  - fragment
   - sequence
 ---

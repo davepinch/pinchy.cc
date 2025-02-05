@@ -6,7 +6,7 @@ clockwise from north:
   - Iran
   - Azerbaijan
   - Russia
-type: fragment
+type: sequence
 tags:
   - Caspian Sea
 ---

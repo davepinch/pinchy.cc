@@ -10,7 +10,7 @@ sequence:
   - Steelhead County Park
   - Monroe, Washington
   - Snohomish River
-type: fragment
+type: sequence
 tags:
   - downstream
   - sequence

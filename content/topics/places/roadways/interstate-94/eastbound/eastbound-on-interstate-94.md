@@ -10,7 +10,8 @@ sequence:
   - Illinois
   - Indiana
   - Michigan
-type: fragment
+type: sequence
 tags:
   - eastbound
+  - sequence
 ---

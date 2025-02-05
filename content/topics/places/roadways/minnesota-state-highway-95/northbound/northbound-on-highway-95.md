@@ -15,7 +15,7 @@ sequence:
   - Marine on St. Croix, Minnesota
   - William O'Brien State Park
   - Taylors Falls, Minnesota
-type: fragment
+type: sequence
 tags:
   - northbound
   - sequence

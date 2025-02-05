@@ -15,7 +15,7 @@ sequence:
   - Woodbury, Minnesota
   - Cottage Grove, Minnesota
 southbound of: Minnesota State Highway 95
-type: fragment
+type: sequence
 tags:
   - southbound
   - sequence

@@ -9,7 +9,7 @@ sequence:
   - Minnesota
   - North Dakota
   - Montana
-type: fragment
+type: sequence
 westbound of: Interstate 94
 tags:
   - westbound

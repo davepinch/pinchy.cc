@@ -1,6 +1,6 @@
 ---
 title: "clockwise around the Baltic Sea"
-type: fragment
+type: sequence
 tags:
   - Baltic Sea
 ---

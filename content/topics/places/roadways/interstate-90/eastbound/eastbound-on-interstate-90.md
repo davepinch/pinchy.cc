@@ -46,8 +46,8 @@ sequence:
   - New York
   - Massachusetts
   - Boston
-type: fragment
+type: sequence
 tags:
   - eastbound
-  - fragment
+  - sequence
 ---

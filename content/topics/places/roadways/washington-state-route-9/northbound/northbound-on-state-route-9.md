@@ -10,7 +10,7 @@ sequence:
   - Acme, Washington
   - Van Zandt, Washington
   - Deming, Washington
-type: fragment
+type: sequence
 tags:
   - northbound
   - sequence

@@ -22,9 +22,8 @@ sequence:
   - Mount Vernon, Washington
   - Fir Island
   - Skagit Bay
-type: fragment
+type: sequence
 tags:
   - downstream
-  - fragment
   - sequence
 ---

@@ -21,7 +21,7 @@ sequence:
   - Peshatin, Washington
   - Dryden, Washington
   - Cashmere, Washington
-type: fragment
+type: sequence
 tags:
   - eastbound
   - sequence

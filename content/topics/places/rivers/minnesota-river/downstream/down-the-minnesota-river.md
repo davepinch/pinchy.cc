@@ -5,4 +5,5 @@ source of the river: Big Stone Lake
 type: sequence
 tags:
   - downstream
+  - sequence
 ---
