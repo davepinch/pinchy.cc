@@ -4,6 +4,7 @@ king james version: >-
   For in much wisdom is much grief: and he that increaseth knowledge increaseth sorrow.
 new international version: >-
   For with much wisdom comes much sorrow; the more knowledge, the more grief.
+verse of: Ecclesiastes 1
 tags:
-  - Ecclesiastes
+  - verse of the Bible
 ---

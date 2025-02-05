@@ -5,8 +5,7 @@ king james version: >-
   I the Preacher was king over Israel in Jerusalem.
 new international version: >-
   I, the Teacher, was king over Israel in Jerusalem.
+verse of: Ecclesiastes 1
 tags:
-  - Ecclesiastes
-  - Israel
-  - Jerusalem
+  - verse of the Bible
 ---

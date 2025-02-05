@@ -5,7 +5,7 @@ king james version: >-
   I communed with mine own heart, saying, Lo, I am come to great estate, and have gotten more wisdom than all they that have been before me in Jerusalem: yea, my heart had great experience of wisdom and knowledge.
 new international version: >-
   I said to myself, “Look, I have increased in wisdom more than anyone who has ruled over Jerusalem before me; I have experienced much of wisdom and knowledge.”
+verse of: Ecclesiastes 1
 tags:
-  - Ecclesiastes
-  - Jerusalem
+  - verse of the Bible
 ---
