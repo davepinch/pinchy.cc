@@ -8,6 +8,5 @@ quote: >-
   The sun also ariseth, and the sun goeth down, and hasteth to his place where he arose.
 type: quote
 tags:
-  - verse of the Bible
   - quote
 ---

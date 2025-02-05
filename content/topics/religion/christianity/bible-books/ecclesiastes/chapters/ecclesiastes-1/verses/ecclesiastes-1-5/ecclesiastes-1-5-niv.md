@@ -8,6 +8,5 @@ quote: >-
   The sun rises and the sun sets, and hurries back to where it rises.
 type: quote
 tags:
-  - verse of the Bible
   - quote
 ---
