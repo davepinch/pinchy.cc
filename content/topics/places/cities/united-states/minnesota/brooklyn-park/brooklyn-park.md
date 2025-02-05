@@ -1,11 +1,14 @@
 ---
 title: "Brooklyn Park, Minnesota"
-borders:
-  - Brooklyn Center, Minnesota
+adjacent cities (clockwise from north):
+  - Champlin, Minnesota
   - Coon Rapids, Minnesota
   - Fridley, Minnesota
-  - Mississippi River
-  - incomplete list
+  - Brooklyn Center, Minnesota
+  - Crystal, Minnesota
+  - New Hope, Minnesota
+  - Maple Grove, Minnesota
+  - Osseo, Minnesota
 city of:
   - Hennepin County, Minnesota
   - Interstate 94
