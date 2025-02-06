@@ -8,6 +8,7 @@ new international version: >-
   “I will send my messenger ahead of you,
   who will prepare your way”—
 reference of: "Malachi 3:1"
+verse of: Mark 1
 tags:
-  - Gospel of Mark
+  - verse of the Bible
 ---

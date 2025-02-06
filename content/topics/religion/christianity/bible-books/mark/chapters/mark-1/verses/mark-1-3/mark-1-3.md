@@ -8,7 +8,8 @@ new international version: >-
   ‘Prepare the way for the Lord,
   make straight paths for him.’”
 reference of: "Isaiah 40:3"
+verse of: Mark 1
 tags:
-  - Gospel of Mark
+  - verse of the Bible
   - wilderness
 ---

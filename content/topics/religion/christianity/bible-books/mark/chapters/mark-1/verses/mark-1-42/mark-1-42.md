@@ -4,6 +4,7 @@ title: "Mark 1:42"
 ➡️: "Mark 1:43"
 king james version: "And as soon as he had spoken, immediately the leprosy departed from him, and he was cleansed."
 new international version: "Immediately the leprosy left him and he was cleansed."
+verse of: Mark 1
 tags:
-  - Gospel of Mark
+  - verse of the Bible
 ---
