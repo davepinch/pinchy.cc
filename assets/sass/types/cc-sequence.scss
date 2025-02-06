@@ -8,14 +8,15 @@
     color: black;
 }
 
-/* Left quotation mark */
+/* Left quotation mark \00AB */
 .cc-sequence-card .cc-title::before,
 .cc-sequence-heading .cc-title::before,
 .cc-sequence-inline .cc-title::before,
 .cc-sequence-masthead .cc-title::before,
 .cc-sequence-tag .cc-title::before {
-    content: '\00AB';
-    color: teal; 
+    content: '\00BB';
+    padding-right: 6pt;
+    color: #1C76B8; 
 }
 
 /* Right quotation mark */
@@ -25,7 +26,8 @@
 .cc-sequence-masthead .cc-title::after,
 .cc-sequence-tag .cc-title::after {
     content: '\00BB';
-    color: teal; 
+    color: #1C76B8;
+    padding-left: 6pt;
 }
 
 .cc-sequence-masthead {
