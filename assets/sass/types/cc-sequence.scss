@@ -8,13 +8,13 @@
     color: black;
 }
 
-/* Left quotation mark \00AB */
+/* Left quotation mark */
 .cc-sequence-card .cc-title::before,
 .cc-sequence-heading .cc-title::before,
 .cc-sequence-inline .cc-title::before,
 .cc-sequence-masthead .cc-title::before,
 .cc-sequence-tag .cc-title::before {
-    content: '\00BB';
+    /*content: '\00AB'; */
     padding-right: 6pt;
     color: #1C76B8; 
 }
