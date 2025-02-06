@@ -1,6 +1,8 @@
 ---
 title: "7-Eleven"
-convenience store chain of: United States
+company of: United States
+wikidata: "https://www.wikidata.org/wiki/Q259340"
 tags:
+  - company
   - convenience store chain
 ---

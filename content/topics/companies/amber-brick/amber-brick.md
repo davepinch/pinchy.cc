@@ -1,7 +1,8 @@
 ---
 title: "Amber Brick"
-tags:
+former company of:
   - Bellingham, Washington
   - cannabis
+tags:
   - company
 ---
