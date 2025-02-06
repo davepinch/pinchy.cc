@@ -1,7 +1,6 @@
 ---
 title: "I am procrastinating the fragments"
 fragment of: procrastination
-next of: hello world
 sequence:
   - My own creation refutes me
   - I realize this is a physical thing
