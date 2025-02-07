@@ -9,7 +9,7 @@ most famous waterfall of:
 snippet of: Snoqualmie River (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Snoqualmie_River/waterfalls-1-2/
+visitors of: Snoqualmie Falls
 tags:
-  - Snoqualmie Falls
   - snippet
 ---
