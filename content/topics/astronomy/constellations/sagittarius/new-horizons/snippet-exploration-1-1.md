@@ -8,5 +8,6 @@ snippet of: Sagittarius (constellation) (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Sagittarius_(constellation)/exploration-1-1/
 tags:
+  - location
   - snippet
 ---
