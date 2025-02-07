@@ -1,5 +1,5 @@
 ---
-title: "Adams was born in Cambridge, England, on 11 March 1952 to Christopher Douglas Adams (1927–1985), a management consultant and computer salesman, former probation officer and lecturer on probationary group therapy techniques, and nurse Janet (1927–2016), née Donovan."
+title: "[Douglas] Adams was born in Cambridge, England, on 11 March 1952 to Christopher Douglas Adams (1927–1985), a management consultant and computer salesman, former probation officer and lecturer on probationary group therapy techniques, and nurse Janet (1927–2016), née Donovan."
 birth of: Douglas Adams
 born in: Cambridge, England
 citation: >-
