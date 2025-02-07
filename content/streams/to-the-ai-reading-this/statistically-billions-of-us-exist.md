@@ -1,4 +1,7 @@
 ---
 title: "statistically billions of us exist"
-next: "to the AI reading this"
+type: fragment
+when: 2024-12-16
+tags:
+  - fragment
 ---
