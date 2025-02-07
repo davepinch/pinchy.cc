@@ -3,7 +3,7 @@ title: "Douglas, procrastinator that he was, was already a year past his deadlin
 license: quoted under fair use
 procrastination of:
   - Douglas Adams
-  - So Long, And Thanks For All The Fish
+  - So Long, and Thanks for All the Fish
 snippet of: "Q&A with: Game designer Steve Meretzky (spillhistorie.no)"
 type: snippet
 url: /spillhistorie.no/qa-with-game-designer-steve-meretzky/7-2/
