@@ -4,6 +4,11 @@ author: Jean Schneider
 citation: "Jean Schneider 2024 Res. Notes AAS 8 272"
 excerpt: >-
   The first eruption of the periodic nova T CrB for eighty years is anticipated soon, though with an unknown date. A refinement of the future eruption date is investigated. The investigation is based on the combination of the previous eruption dates and on the orbital ephemeris of the binary system, without any hypothesis on the eruption mechanism. It is predicted that the next eruption should appear around 2025 March 27 or November 10, or later.
+predictions:
+  - 2024-08-12
+  - 2025-03-27
+  - 2025-11-10
+  - 2026-06-25
 predictions of: T Coronae Borealis
 type: website
 url: /iopscience.iop.org/article/10.3847/2515-5172/ad8bba/
