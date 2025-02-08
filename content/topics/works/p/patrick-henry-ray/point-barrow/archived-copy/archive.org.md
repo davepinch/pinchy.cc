@@ -6,7 +6,7 @@ excerpt: >-
 license: public domain
 type: website
 url: /archive.org/details/reportofinterna00inte/
-website: "https://archive.org/details/reportofinterna00inte/page/n7/mode/2up"
+website: "https://archive.org/details/reportofinterna00inte/"
 tags:
   - website
   - Internet Archive
