@@ -1,5 +1,6 @@
 ---
 title: "Airport Webcam | Paine Field, WA (painefield.com)"
+be present: you coexist right now
 excerpt: >-
   Paine Field Camera - North facing. This page will not refresh automatically. To manually refresh this image, please press the F5 key on your keyboard
 license: not specified
