@@ -3,6 +3,8 @@ title: "Scratchpad"
 draft: true
 ---
 
+The Time Magazine cover is porn for liberals.
+Only liberals think "President Elon" bothers Trump. 
 
 ---
 The boomers will be harvested.
