@@ -1,7 +1,7 @@
 ---
 title: "Report of the International Polar Expedition to Point Barrow, Alaska"
 expedition of:
-  - Patrick Ray Henry
+  - Patrick Henry Ray
   - Point Barrow
 tags:
   - expedition
