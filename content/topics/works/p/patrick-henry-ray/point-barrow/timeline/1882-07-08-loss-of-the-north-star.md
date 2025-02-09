@@ -3,8 +3,8 @@ title: "She [North Star vessel] remained immovable from about noon until 4 p. m.
 arrival of the North Star of: Report of the International Polar Expedition to Point Barrow, Alaska
 snippet of: Report of the International polar expedition to Point Barrow, Alaska, in response to the resolution of the [U.S.] House of representatives of December 11, 1884 (archive.org)
 type: snippet
-url: /archive.org/details/reportofinterna00inte/page/n39/mode/2up/
-website: "https://archive.org/details/reportofinterna00inte/page/n39/mode/2up"
+url: /archive.org/details/reportofinterna00inte/page/25/mode/1up/1-14/
+website: "https://archive.org/details/reportofinterna00inte/page/25/mode/1up"
 when: 1882-07-08
 tags:
   - snippet
