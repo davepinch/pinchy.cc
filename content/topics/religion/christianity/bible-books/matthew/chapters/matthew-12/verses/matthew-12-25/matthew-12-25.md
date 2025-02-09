@@ -5,7 +5,8 @@ title: "Matthew 12:25"
 see also:
   - "Mark 3:25"
   - "Luke 11:17"
+verse of: Matthew 12
 tags:
-  - Gospel of Matthew
+  - verse of the Bible
   - United we stand, divided we fall
 ---

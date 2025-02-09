@@ -6,6 +6,7 @@ bible verse of:
   - Holy Spirit
   - sin
   - blasphemy
+verse of: Matthew 12
 tags:
-  - Gospel of Matthew
+  - verse of the Bible
 ---
