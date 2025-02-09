@@ -1,12 +1,12 @@
 ---
 title: "Matthew 5:5 NIV"
+⬅️: "Matthew 5:4 NIV"
+➡️: "Matthew 5:6 NIV"
 attribution: "Matthew 5:5 NIV"
+New International Version of: "Matthew 5:5"
 quote: "Blessed are the meek, for they will inherit the earth."
-related: Gospel of Matthew (Wikipedia)
 type: quote
 tags:
-  - Gospel of Matthew
-  - Matthew 5:5
   - blessed
   - meek
   - Earth
