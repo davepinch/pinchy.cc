@@ -24,4 +24,5 @@ url: /commons.wikimedia.org/wiki/Lake_Washington_Ship_Canal_map.png/
 website: "https://commons.wikimedia.org/wiki/File:Lake_Washington_Ship_Canal_map.png"
 tags:
   - map
+  - Wikimedia Commons
 ---
