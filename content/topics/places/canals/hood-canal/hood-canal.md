@@ -5,7 +5,7 @@ borders:
   - Olympic Peninsula
   - incomplete list
 fjord of: Puget Sound
-type: fjord
+wikidata: "https://www.wikidata.org/wiki/Q1585716"
 tags:
   - fjord
 ---
