@@ -3,6 +3,8 @@ title: "It's funny how the colors of the real world only seem really real when y
 attribution: "Alex, *A Clockwork Orange* (1971)"
 colors of:
   - A Clockwork Orange (film)
+  - reality
+  - television
   - A Clockwork Orange (1971) - Art of the Title (artofthetitle.com)
 type: quote
 tags:
