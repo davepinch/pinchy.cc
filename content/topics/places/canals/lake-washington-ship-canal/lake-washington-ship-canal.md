@@ -21,6 +21,7 @@ route:
   - Salmon Bay
   - Hiram M. Chittenden Locks
   - Shilshole Bay
+wikidata: "https://www.wikidata.org/wiki/Q3500752"
 tags:
   - canal
 ---
