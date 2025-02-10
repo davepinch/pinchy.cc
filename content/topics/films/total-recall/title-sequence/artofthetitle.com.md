@@ -8,5 +8,6 @@ type: website
 url: /www.artofthetitle.com/title/total-recall/
 website: "https://www.artofthetitle.com/title/total-recall/"
 tags:
+  - Art of the Title
   - website
 ---
