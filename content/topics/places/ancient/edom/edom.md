@@ -7,6 +7,7 @@ kingdom of:
   - Iron Age
 northeast border: Moab
 northwest border: Kingdom of Judah
+wikidata: "https://www.wikidata.org/wiki/Q208475"
 tags:
   - kingdom
 ---

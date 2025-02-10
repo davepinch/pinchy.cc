@@ -9,6 +9,7 @@ bordered:
 kingdom of:
   - Southern Levant
   - Dead Sea
+wikidata: "https://www.wikidata.org/wiki/Q326304"
 tags:
   - kingdom
 ---

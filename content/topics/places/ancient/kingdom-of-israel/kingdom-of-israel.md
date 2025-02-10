@@ -8,6 +8,7 @@ bordered:
 kingdom of:
   - Southern Levant
   - Iron Age
+wikidata: "https://www.wikidata.org/wiki/Q230407"
 tags:
   - kingdom
 ---
