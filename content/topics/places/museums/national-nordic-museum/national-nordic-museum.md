@@ -14,6 +14,7 @@ regions covered:
   - Norway
   - Sápmi
   - Sweden
+wikidata: "https://www.wikidata.org/wiki/Q7050698"
 tags:
   - museum
 ---
