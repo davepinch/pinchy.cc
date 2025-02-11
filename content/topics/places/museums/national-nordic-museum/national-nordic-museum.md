@@ -3,6 +3,7 @@ title: "National Nordic Museum"
 museum of:
   - Ballard, Seattle
   - Adams, Seattle
+openstreetmap: "https://www.openstreetmap.org/way/438457488"
 regions covered:
   - Åland
   - Denmark
