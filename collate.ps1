@@ -1092,6 +1092,7 @@ function Update-WikipediaFlagAndLocation($page) {
     if ($page["tags"] -notcontains "county" -and
         $page["tags"] -notcontains "country" -and
         $page["tags"] -notcontains "city" -and
+        $page["tags"] -notcontains "neighborhood" -and
         $page["tags"] -notcontains "penninsula" -and
         $page["tags"] -notcontains "state" -and
         $page["tags"] -notcontains "province") {
