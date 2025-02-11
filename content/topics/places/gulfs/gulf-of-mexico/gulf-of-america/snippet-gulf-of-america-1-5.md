@@ -7,6 +7,9 @@ google of:
   - Gulf of America
   - Gulf of Mexico
 gulf of america of: Google
+reddit:
+  - "[Google Maps now shows the ‘Gulf of America’](https://www.reddit.com/r/technology/comments/1imkyc2/google_maps_now_shows_the_gulf_of_america/)"
+  - "[Google changes Gulf of Mexico to ‘Gulf of America' in Maps app](https://www.reddit.com/r/nottheonion/comments/1immylu/google_changes_gulf_of_mexico_to_gulf_of_america/)"
 snippet of: Gulf of Mexico (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Gulf_of_Mexico/gulf-of-america-1-5/
