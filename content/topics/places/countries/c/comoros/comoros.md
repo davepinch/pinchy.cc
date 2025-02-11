@@ -3,6 +3,7 @@ title: "Comoros"
 country of:
   - archipelago
   - island
+  - Indian Ocean
   - East Africa
   - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/535790"
