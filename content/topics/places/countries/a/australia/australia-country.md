@@ -1,6 +1,7 @@
 ---
 title: "Australia (country)"
 country of:
+  - Indian Ocean
   - Oceania
   - Pacific Ocean
   - Southern Hemisphere

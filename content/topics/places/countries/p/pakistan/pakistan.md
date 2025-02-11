@@ -12,6 +12,7 @@ borders (maritime):
 country of:
   - South Asia
   - Asia
+  - Indian Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/307573"
 wikidata: "https://www.wikidata.org/wiki/Q843"
 tags:

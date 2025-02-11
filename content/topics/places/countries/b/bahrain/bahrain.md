@@ -5,6 +5,7 @@ borders (maritime): Saudi Arabia
 country of:
   - island
   - Persian Gulf
+  - Indian Ocean
   - Middle East
   - West Asia
   - Asia

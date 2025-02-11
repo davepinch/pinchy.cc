@@ -9,6 +9,7 @@ borders:
 country of:
   - Southeast Asia
   - Asia
+  - Indian Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/50371"
 wikidata: "https://www.wikidata.org/wiki/Q836"
 tags:
