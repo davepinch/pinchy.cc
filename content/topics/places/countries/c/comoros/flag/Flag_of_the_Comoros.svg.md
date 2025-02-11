@@ -4,6 +4,7 @@ author: See file history on website
 flag of:
   - Comoros
   - five-pointed star
+  - stripes
   - triangle
   - Moon
   - SVG
