@@ -3,10 +3,10 @@ title: "In the remains of the Old Sanctuary"
 author: David Pinch
 bluesky: "https://bsky.app/profile/pinchycc.bsky.social/post/3lb44ipcfv22v"
 license: CC BY-SA 4.0
+looking down of: leaf
 photograph of:
   - Temple De Hirsch Sinai
   - looking down
-  - leaf
   - rusted
   - Capitol Hill, Seattle
 picture: content/camera-roll/2016/09/2016-09-12-in-the-remains-of-the-old-sanctuary/in-the-remains-of-the-old-sanctuary.jpg
