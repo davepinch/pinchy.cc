@@ -3,6 +3,11 @@ title: "Scratchpad"
 draft: true
 ---
 
+Trump and Musk will try to tear down institutions but no matter how hard they try, they’ll never have control over the culture. Artists and creatives will never embrace that side in full effect no matter how desperately they want to control it
+https://www.reddit.com/r/Fauxmoi/comments/1iornu0/issa_rae_announces_that_she_has_canceled_her_an/
+
+
+---
 The Time Magazine cover is porn for liberals.
 Only liberals think "President Elon" bothers Trump. 
 
