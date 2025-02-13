@@ -5,8 +5,11 @@ author:
   - "[The Emirr](https://commons.wikimedia.org/wiki/User:The_Emirr) (original)"
 license: CC BY 3.0
 location of: Queens
+north: New York City location Bronx.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/94/New_York_City_location_Queens.svg"
-south and west: New York City location Brooklyn.svg (Wikimedia Commons)
+west:
+  - New York City location Manhattan.svg (Wikimedia Commons)
+  - New York City location Brooklyn.svg (Wikimedia Commons)
 type: picture
 url: /commons.wikimedia.org/wiki/New_York_City_location_Queens.svg/
 website: "https://commons.wikimedia.org/wiki/File:New_York_City_location_Queens.svg"
