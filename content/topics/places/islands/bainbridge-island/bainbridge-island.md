@@ -1,6 +1,8 @@
 ---
 title: "Bainbridge Island"
-island of: Kitsap County, Washington
+island of:
+  - Kitsap County, Washington
+  - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/3148366"
 TODO: separate out the city and island
 visit somewhere new: Bloedel Reserve
