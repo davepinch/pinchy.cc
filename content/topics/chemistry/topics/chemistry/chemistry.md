@@ -6,12 +6,13 @@ lofty thoughts:
   - it is not possible transcribe a 4D conversation into mere language
   - i can but simplify down
   - and hope you make the connection
-see also: physics
 related:
   - astronomy
   - biology
   - physics
+see also: physics
 type: science
+wikidata: "https://www.wikidata.org/wiki/Q2329"
 tags:
   - science
   - lofty thoughts
