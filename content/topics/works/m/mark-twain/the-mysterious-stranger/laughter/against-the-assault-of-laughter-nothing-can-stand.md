@@ -6,6 +6,7 @@ citation: >-
 laughter of:
   - Mark Twain
   - The Mysterious Stranger
+  - nothing
 type: quote
 tags:
   - quote
