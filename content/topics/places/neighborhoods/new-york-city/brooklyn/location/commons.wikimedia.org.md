@@ -5,6 +5,7 @@ author:
   - "[The Emirr](https://commons.wikimedia.org/wiki/User:The_Emirr) (original)" 
 license: CC BY 3.0
 location of: Brooklyn
+north and east: New York City location Queens.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/3a/New_York_City_location_Brooklyn.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/New_York_City_location_Brooklyn.svg/
