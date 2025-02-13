@@ -1,6 +1,7 @@
 ---
 title: "Smuggling arbitrary data through an emoji (paulbutler.org)"
 abuse of: emoji
+author: Paul Butler
 excerpt: >-
   Is it really possible to encode arbitrary data in a single emoji?
 hacker news: "https://news.ycombinator.com/item?id=43023508"
