@@ -7,7 +7,9 @@ borders:
   - Musca
   - Octans
   - Volans
-constellation of: southern celestial hemisphere
+constellation of:
+  - southern celestial hemisphere
+  - chameleon
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10457"
 tags:
