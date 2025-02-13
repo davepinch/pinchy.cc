@@ -7,6 +7,7 @@ license: CC BY 3.0
 location of: The Bronx
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6c/New_York_City_location_Bronx.svg"
 south: New York City location Queens.svg (Wikimedia Commons)
+south and west: New York City location Manhattan.svg (Wikimedia Commons)
 type: picture
 url: /commons.wikimedia.org/wiki/New_York_City_location_Bronx.svg/
 website: "https://commons.wikimedia.org/wiki/File:New_York_City_location_Bronx.svg"
