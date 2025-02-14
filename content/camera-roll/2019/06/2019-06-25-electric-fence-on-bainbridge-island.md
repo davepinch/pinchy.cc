@@ -1,5 +1,5 @@
 ---
-title: "Electric fence on Bainbridge Island"
+title: "Electric fence on Bainbridge Island (Wikimedia Commons)"
 alongside of: Fort Ward to Blakely Harbor Trail
 author: David Pinch
 electric of: fence
@@ -13,5 +13,5 @@ url: /commons.wikimedia.org/wiki/Electric_fence_on_Bainbridge_Island.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Electric_fence_on_Bainbridge_Island.jpg"
 when: 2019-06-25
 tags:
-  - photograph
+  - Wikimedia Commons
 ---
