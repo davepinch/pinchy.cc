@@ -4,7 +4,7 @@ chameleon of:
   - color
   - death
 death of: chameleon
-episode of: "[Nature on PBS](https://www.youtube.com/@naturepbs)"
+episode of: "https://www.youtube.com/@naturepbs"
 excerpt: "In her last moments, this female chameleon's skin erupts with color."
 mentioned at:
   - "[First-ever scan of a dying human brain reveals life may actually 'flash before your eyes'](https://www.reddit.com/r/psychology/comments/1iopj2q/firstever_scan_of_a_dying_human_brain_reveals/)"
