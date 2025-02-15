@@ -5,6 +5,8 @@ attribution: Luigi Mangione
 message of:
   - Luigi Mangione
   - Luigi Mangione Legal Defense Information (luigimangioneinfo.com)
+reddit:
+  - "https://www.reddit.com/r/popculture/comments/1ipnkvw/luigi_mangione_releases_his_first_public/"
 type: quote
 tags:
   - quote
