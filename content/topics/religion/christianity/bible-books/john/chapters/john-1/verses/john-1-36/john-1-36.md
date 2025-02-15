@@ -7,7 +7,8 @@ King James Version: And looking upon Jesus as he walked, he saith, Behold the La
 New International Version: >-
   When he saw Jesus passing by, he said, “Look, the Lamb of God!”
 Tyndale Bible: "And he behelde Iesus as he walked by and sayde: beholde the lambe of God."
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
   - Jesus
 ---

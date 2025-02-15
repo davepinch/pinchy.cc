@@ -8,6 +8,7 @@ New International Version: >-
   He is the one who comes after me, the straps of whose sandals I am not worthy to untie.”
 Tyndale Bible: >-
   he it is that cometh after me whiche was before me whose sho latchet I am not worthy to vnlose.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

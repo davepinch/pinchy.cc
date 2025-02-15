@@ -9,6 +9,7 @@ New International Version: >-
 Tyndale Bible: >-
   He sayde: I am the voyce of a cryar in the wyldernes make strayght the waye of the Lorde as sayde the Prophete Esaias.
 🔗: "Isaiah 40:3"
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

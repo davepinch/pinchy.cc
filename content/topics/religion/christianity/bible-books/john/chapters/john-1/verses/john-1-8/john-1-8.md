@@ -5,6 +5,7 @@ title: "John 1:8"
 King James Version: "He was not that Light, but was sent to bear witness of that Light."
 New International Version: "He himself was not the light; he came only as a witness to the light."
 Tyndale Bible: "He was not that lyght: but to beare witnes of the lyght."
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

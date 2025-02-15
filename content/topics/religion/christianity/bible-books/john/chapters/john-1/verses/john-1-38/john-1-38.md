@@ -8,7 +8,8 @@ New International Version: >-
   Turning around, Jesus saw them following and asked, “What do you want?”They said, “Rabbi” (which means “Teacher”), “where are you staying?”
 Tyndale Bible: >-
   And Iesus turned about and sawe them folowe and sayde vnto them: what seke ye? They sayde vnto him: Rabbi (which is to saye by interpretacion Master) where dwellest thou?
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
   - Jesus
 ---

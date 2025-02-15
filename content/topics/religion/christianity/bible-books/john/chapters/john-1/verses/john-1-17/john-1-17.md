@@ -5,6 +5,7 @@ title: "John 1:17"
 King James Version: For the law was given by Moses, but grace and truth came by Jesus Christ.
 New International Version: For the law was given through Moses; grace and truth came through Jesus Christ.
 Tyndale Bible: For the lawe was geven by Moses but grace and truthe came by Iesus Christ.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

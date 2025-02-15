@@ -8,6 +8,7 @@ New International Version: >-
   The Word became flesh and made his dwelling among us. We have seen his glory, the glory of the one and only Son, who came from the Father, full of grace and truth.
 Tyndale Bible: >-
   And the worde was made flesshe and dwelt amonge vs and we sawe the glory of it as the glory of the only begotten sonne of ye father which worde was full of grace and verite.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

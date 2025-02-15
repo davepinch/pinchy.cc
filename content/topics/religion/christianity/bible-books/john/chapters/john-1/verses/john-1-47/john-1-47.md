@@ -8,7 +8,8 @@ New International Version: >-
   When Jesus saw Nathanael approaching, he said of him, “Here truly is an Israelite in whom there is no deceit.”
 Tyndale Bible: >-
   Iesus sawe Nathanael commynge to him and sayde of him. Beholde a ryght Israelite in who is no gyle.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
   - Jesus
 ---

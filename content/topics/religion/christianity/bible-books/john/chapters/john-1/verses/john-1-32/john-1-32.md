@@ -8,8 +8,9 @@ New International Version: >-
   Then John gave this testimony: “I saw the Spirit come down from heaven as a dove and remain on him.
 Tyndale Bible: >-
   And Iohn bare recorde sayinge: I sawe the sprete descende from heven lyke vnto a dove and abyde apon him
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
   - Holy Spirit
   - dove
 ---

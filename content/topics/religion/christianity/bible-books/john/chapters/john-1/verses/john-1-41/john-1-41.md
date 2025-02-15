@@ -8,7 +8,8 @@ New International Version: >-
   The first thing Andrew did was to find his brother Simon and tell him, “We have found the Messiah” (that is, the Christ).
 Tyndale Bible: >-
   The same founde his brother Simon fyrst and sayde vnto him: we have founde Messias which is by interpretacion annoynted:
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
   - Jesus
 ---

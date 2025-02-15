@@ -8,8 +8,9 @@ New International Version: >-
   The next day Jesus decided to leave for Galilee. Finding Philip, he said to him, “Follow me.”
 Tyndale Bible: >-
   The daye folowynge Iesus wolde goo into Galile and founde Philip and sayde vnto him folowe me.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
   - Jesus
   - Galilee
 ---

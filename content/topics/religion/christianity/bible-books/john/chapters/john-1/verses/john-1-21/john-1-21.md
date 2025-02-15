@@ -8,6 +8,7 @@ New International Version: >-
   They asked him, “Then who are you? Are you Elijah?” He said, “I am not.” “Are you the Prophet?” He answered, “No.”
 Tyndale Bible: >-
   And they axed him: what then? arte thou Helyas? And he sayde: I am not. Arte thou a Prophete? And he answered no.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

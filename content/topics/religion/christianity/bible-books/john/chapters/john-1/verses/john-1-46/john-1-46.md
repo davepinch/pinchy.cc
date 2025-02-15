@@ -8,7 +8,8 @@ New International Version: >-
   “Nazareth! Can anything good come from there?” Nathanael asked. “Come and see,” said Philip.
 Tyndale Bible: >-
   And Nathanael sayde vnto him: can ther eny good thinge come out of Nazareth? Philip sayde to him: come and se.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
   - Nazareth
 ---

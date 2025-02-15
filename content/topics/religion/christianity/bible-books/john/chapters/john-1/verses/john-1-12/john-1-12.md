@@ -8,6 +8,7 @@ New International Version: >-
   Yet to all who did receive him, to those who believed in his name, he gave the right to become children of God—
 Tyndale Bible: >-
   But as meny as receaved him to them he gave power to be the sonnes of God in yt they beleved on his name:
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

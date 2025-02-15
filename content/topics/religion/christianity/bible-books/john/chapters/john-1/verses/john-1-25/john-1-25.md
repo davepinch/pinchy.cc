@@ -8,6 +8,7 @@ New International Version: >-
   questioned him, “Why then do you baptize if you are not the Messiah, nor Elijah, nor the Prophet?”
 Tyndale Bible: >-
   And they axed him and sayde vnto him: why baptisest thou then yf thou be not Christ nor Helyas nether a Prophet?
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

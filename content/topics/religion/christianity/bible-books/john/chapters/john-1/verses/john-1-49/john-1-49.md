@@ -8,7 +8,8 @@ New International Version: >-
   Then Nathanael declared, “Rabbi, you are the Son of God; you are the king of Israel.”
 Tyndale Bible: >-
   Nathanael answered and sayde vnto him: Rabbi thou arte the sonne of God thou arte the kynge of Israel.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
   - Jesus
 ---

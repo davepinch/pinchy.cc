@@ -6,6 +6,7 @@ followed after speaking of: Jesus
 King James Version: And the two disciples heard him speak, and they followed Jesus.
 New International Version: When the two disciples heard him say this, they followed Jesus.
 Tyndale Bible: And the two disciples hearde him speake and folowed Iesus.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

@@ -8,6 +8,7 @@ New International Version: >-
   (John testified concerning him. He cried out, saying, “This is the one I spoke about when I said, ‘He who comes after me has surpassed me because he was before me.’ ”)
 Tyndale Bible: >-
   Iohn bare witnes of him and cryed sayinge: This was he of whome I spake he that cometh after me was before me because he was yer then I.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

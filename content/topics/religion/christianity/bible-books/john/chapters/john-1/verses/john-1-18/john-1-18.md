@@ -8,6 +8,7 @@ New International Version: >-
   No one has ever seen God, but the one and only Son, who is himself God and is in closest relationship with the Father, has made him known.
 Tyndale Bible: >-
   No ma hath sene God at eny tyme. The only begotte sonne which is in ye bosome of ye father he hath declared him.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

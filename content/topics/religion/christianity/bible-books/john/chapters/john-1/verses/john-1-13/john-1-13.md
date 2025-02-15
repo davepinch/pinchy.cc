@@ -8,6 +8,7 @@ New International Version: >-
   children born not of natural descent, nor of human decision or a husband’s will, but born of God.
 Tyndale Bible: >-
   which were borne not of bloude nor of the will of the flesshe nor yet of the will of man: but of God.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

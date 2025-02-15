@@ -8,6 +8,7 @@ New International Version: >-
   Jesus said, “You believe because I told you I saw you under the fig tree. You will see greater things than that.”
 Tyndale Bible: >-
   Iesus answered and sayd vnto him: Because I sayde vnto the I sawe the vnder the fygge tree thou belevest. Thou shalt se greater thinges then these.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---

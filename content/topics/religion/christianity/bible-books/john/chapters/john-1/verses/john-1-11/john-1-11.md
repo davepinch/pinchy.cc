@@ -5,6 +5,7 @@ title: "John 1:11"
 King James Version: He came unto his own, and his own received him not.
 New International Version: He came to that which was his own, but his own did not receive him.
 Tyndale Bible: He cam amonge his (awne) and his awne receaved him not.
+verse of: John 1
 tags:
-  - Gospel of John
+  - verse of the Bible
 ---
