@@ -29,6 +29,7 @@ permalinks:
   posts: /:slug/
   questions: /:filename/
   reality-checks: /:filename/
+  reddit: /:filename/
   screenshots: /:filename/
   singularities: /:filename/
   spoken: /:filename/
