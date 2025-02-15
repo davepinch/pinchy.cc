@@ -1,7 +1,9 @@
 ﻿---
 title: "Archimede bain.jpg (Wikimedia Commons)"
 author: artist unknown
-bath of: Archimedes
+bath of:
+  - Archimedes
+  - Eureka!
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c2/Archimede_bain.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Archimede_bain.jpg/536px-Archimede_bain.jpg"
