@@ -1,4 +1,4 @@
-.cc-quote-card {
+.cc-comment-card {
 
     /* Center, stacked from top to bottom */
     display: flex;
@@ -17,7 +17,7 @@
     }
 }
 
-.cc-quote-masthead {
+.cc-comment-masthead {
 
     /* Fill viewport */
     min-height: 100vh;
@@ -32,13 +32,13 @@
     font-family: Georgia, serif;
 }
 
-.cc-quote-masthead {
+.cc-comment-masthead {
     .cc-missing-quotes::before {
         content: '🗨️'; 
         font-size: 46px;
     }
 }    
 
-.cc-quote-masthead .cc-attribution {
+.cc-comment-masthead .cc-attribution {
     font-size: x-large;
 }
