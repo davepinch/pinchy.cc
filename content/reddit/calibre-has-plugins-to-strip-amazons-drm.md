@@ -8,4 +8,5 @@ website: "https://www.reddit.com/r/books/comments/1iqi07k/amazon_removing_the_ab
 when: 2025-02-15
 tags:
   - comment
+  - enshittification
 ---
