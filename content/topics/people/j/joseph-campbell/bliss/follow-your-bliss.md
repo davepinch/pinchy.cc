@@ -1,15 +1,13 @@
 ---
-title: "Computers are like Old Testament gods; lots of rules and no mercy."
+title: "Follow your bliss"
 attribution: "Joseph Campbell, *The Power of Myth* (1988)"
+bliss of: Joseph Campbell
 citation: >-
   Joseph Campbell. (2023, May 10). *Wikiquote*. Retrieved February 1, 2024 from https://en.wikiquote.org/w/index.php?title=Joseph_Campbell&oldid=3290393.
 related: Joseph Campbell (Wikipedia)
 type: quote
+yet: Ignorance is bliss #Thomas Gray, Ode
 tags:
-  - Joseph Campbell
   - quote
   - The Power of Myth
-  - computer
-  - mercy
-  - Old Testament
 ---
