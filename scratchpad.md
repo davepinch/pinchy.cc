@@ -2,16 +2,6 @@
 title: "Scratchpad"
 draft: true
 ---
-
-Dream 16 Feb 2025
-Before sleeping I saw a cluster of bright lights. #Hypnagogia
-I could feel myself becoming aware.
-The surface was more biological than before.
-I saw a shape and aimed to sharpen it.
-I pushed my awareness higher.
-I do not remember what happened next.
-
----
 Trump and Musk will try to tear down institutions but no matter how hard they try, they’ll never have control over the culture. Artists and creatives will never embrace that side in full effect no matter how desperately they want to control it
 https://www.reddit.com/r/Fauxmoi/comments/1iornu0/issa_rae_announces_that_she_has_canceled_her_an/
 
