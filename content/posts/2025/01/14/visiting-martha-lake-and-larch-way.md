@@ -10,7 +10,7 @@ sequence:
   - "Limited street parking is available in Larch Way near the Interurban Trail"
   - "A tagger location is near I5 in Larch Way"
   - "That night we watched Big Trouble in Little China."
-type: fragment
+type: title
 tags:
   - sequence
 ---
