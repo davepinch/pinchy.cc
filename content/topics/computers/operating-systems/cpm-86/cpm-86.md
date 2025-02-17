@@ -6,6 +6,7 @@ operating system of:
   - Intel 8086
   - Intel 8088
 version of: CP/M
+wikidata: "https://www.wikidata.org/wiki/Q2706791"
 tags:
   - operating system
 ---
