@@ -16,6 +16,7 @@ borders:
 capital: Saint Paul, Minnesota
 clockwise around lake superior: Ontario
 down the mississippi: Wisconsin
+reddit: "https://www.reddit.com/r/minnesota/"
 see also: Twin Cities
 state of:
   - Upper Midwest

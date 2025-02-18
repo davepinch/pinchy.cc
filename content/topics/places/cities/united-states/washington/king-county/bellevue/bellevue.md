@@ -22,6 +22,7 @@ clockwise around lake washington:
   - Beaux Arts Village is a small pocket surrounded by Bellevue on Lake Washington. Newcastle is directly south of Bellevue on the lake.
 near: Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/237868"
+reddit: "https://www.reddit.com/r/BellevueWA/"
 wikidata: "https://www.wikidata.org/entity/Q214164"
 tags:
   - city

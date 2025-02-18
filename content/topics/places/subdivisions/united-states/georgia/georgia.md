@@ -9,6 +9,7 @@ borders:
   - Tennessee
 down the atlantic coast: Florida
 not to be confused with: Georgia (country)
+reddit: "https://www.reddit.com/r/Georgia/"
 state of:
   - Southeastern United States
   - United States

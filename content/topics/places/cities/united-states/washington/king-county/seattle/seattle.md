@@ -22,6 +22,11 @@ near:
   - SeaTac, Washington
   - Tacoma, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237385"
+reddit:
+  - "https://www.reddit.com/r/Seattle/"
+  - "https://www.reddit.com/r/SeattleWA/"
+  - "https://www.reddit.com/r/AskSeattle/"
+  - "https://www.reddit.com/r/seattlebike/"
 roadways:
   - Interstate 5
   - Interstate 90

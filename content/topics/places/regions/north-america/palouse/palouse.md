@@ -1,5 +1,6 @@
 ---
 title: "Palouse"
+reddit: "https://www.reddit.com/r/Palouse/"
 region of:
   - Washington
   - Idaho

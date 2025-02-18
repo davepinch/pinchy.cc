@@ -15,6 +15,7 @@ not to be confused with:
   - Snohomish, Washington
   - Snohomish River
 openstreetmap: "https://www.openstreetmap.org/relation/1153766"
+reddit: "https://www.reddit.com/r/SnohomishCounty/"
 roadways:
   - Interstate 5
   - U.S. Route 2

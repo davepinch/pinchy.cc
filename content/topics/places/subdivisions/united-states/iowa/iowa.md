@@ -10,6 +10,7 @@ borders:
   - Wisconsin
 down the mississippi: Illinois
 highpoint: Hawkeye Point
+reddit: "https://www.reddit.com/r/Iowa/"
 state of:
   - Upper Midwest
   - Midwestern United States

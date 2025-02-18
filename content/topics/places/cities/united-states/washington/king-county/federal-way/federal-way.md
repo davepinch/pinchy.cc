@@ -10,6 +10,7 @@ borders:
   - Tacoma, Washington
 city of: King County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237350"
+reddit: "https://www.reddit.com/r/federalway/"
 wikidata: "https://www.wikidata.org/entity/Q821112"
 tags:
   - city

@@ -10,6 +10,7 @@ borders:
   - Mississippi River
 clockwise around lake superior: Minnesota
 down the mississippi: Iowa
+reddit: "https://www.reddit.com/r/wisconsin/"
 state of:
   - Upper Midwest
   - Midwestern United States

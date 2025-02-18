@@ -14,7 +14,9 @@ down the pacific coast: Mukilteo, Washington
 near:
   - Snohomish, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237659"
-reddit: "https://www.reddit.com/r/everett/"
+reddit:
+  - "https://www.reddit.com/r/everett/"
+  - "https://www.reddit.com/r/EverettWa/"
 wikidata: "https://www.wikidata.org/wiki/Q392599"
 tags:
   - city

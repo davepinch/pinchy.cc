@@ -15,6 +15,7 @@ near:
   - Sultan, Washington
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/237669"
+reddit: "https://www.reddit.com/r/MonroeWA/"
 wikidata: "https://www.wikidata.org/wiki/Q1055861"
 tags:
   - city

@@ -15,6 +15,7 @@ city of:
   - Washington State Route 522
 clockwise around lake washington: Kirkland, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237353"
+reddit: https://www.reddit.com/r/KenmoreWA/
 wikidata: "https://www.wikidata.org/entity/Q588640"
 tags:
   - city

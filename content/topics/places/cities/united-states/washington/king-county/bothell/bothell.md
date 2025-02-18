@@ -14,6 +14,7 @@ city of:
   - Washington State Route 522
 near: Cathcart, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237656"
+reddit: "https://www.reddit.com/r/bothell/"
 wikidata: "https://www.wikidata.org/entity/Q303046"
 tags:
   - city
