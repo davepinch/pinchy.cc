@@ -6,8 +6,8 @@ mural of:
   - lobster
   - narwhal
   - ocean
+painted of: alley
 photograph of:
-  - alley
   - bricks
   - building
   - dumpster
