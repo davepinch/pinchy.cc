@@ -8,6 +8,5 @@ url: /en.wikipedia.org/wiki/Earth_Abides/
 website: "https://en.wikipedia.org/wiki/Earth_Abides"
 wikipedia of: Earth Abides
 tags:
-  - Ecslesiastes 1:4 KJV
   - Wikipedia
 ---
