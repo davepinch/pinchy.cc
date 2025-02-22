@@ -7,5 +7,6 @@ product of:
 related: QBasic
 tags:
   - BASIC interpreter
+  - programming language
   - product
 ---
