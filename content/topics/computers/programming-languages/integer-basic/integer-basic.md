@@ -7,4 +7,7 @@ product of:
   - Apple I
   - Apple II
   - product
+wikidata: "https://www.wikidata.org/wiki/Q588806"
+tags:
+  - programming language
 ---
