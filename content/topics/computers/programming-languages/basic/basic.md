@@ -1,6 +1,6 @@
 ---
 title: "BASIC"
-type: programming-language
+wikidata: "https://www.wikidata.org/wiki/Q42979"
 tags:
-  - programming
+  - programming language
 ---
