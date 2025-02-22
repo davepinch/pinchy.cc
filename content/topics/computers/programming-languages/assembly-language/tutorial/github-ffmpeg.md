@@ -1,5 +1,6 @@
 ---
 title: "FFmpeg School of Assembly Language (github.com)"
+assembly language of: FFmpeg
 excerpt: >-
   Welcome to the FFmpeg School of Assembly Language. You have taken the first step on the most interesting, challenging, and rewarding journey in programming. These lessons will give you a grounding in the way assembly language is written in FFmpeg and open your eyes to what's actually going on in your computer..
 hacker news: "https://news.ycombinator.com/item?id=43140614"
