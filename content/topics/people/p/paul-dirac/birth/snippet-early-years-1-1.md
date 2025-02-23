@@ -1,6 +1,7 @@
 ---
 title: "Paul Adrien Maurice Dirac was born at his parents' home in Bristol, England, on 8 August 1902, and grew up in the Bishopston area of the city."
 birth of: Paul Dirac
+born in: England
 citation: >-
   Wikipedia contributors. (2025, February 19). Paul Dirac. In *Wikipedia, The Free Encyclopedia*. Retrieved 18:10, February 23, 2025, from https://en.wikipedia.org/w/index.php?title=Paul_Dirac&oldid=1276469151
 snippet of: Paul Dirac (Wikipedia)
