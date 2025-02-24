@@ -93,3 +93,14 @@ do {
     $index++
 
 } while ($index -lt 10)
+
+#
+# From ChatGPT:
+# -framerate 1/10: This sets the frame rate to 1 frame every 10 seconds, so each image stays for 10 seconds.
+# -i "image%d.png": Specifies the input files. The %d indicates a sequence of files named like image1.png, image2.png, etc.
+# -c:v libx264: Specifies the video codec (H.264).
+# -r 30: Sets the output video frame rate to 30 FPS (standard for smooth video).
+# -pix_fmt yuv420p: Ensures compatibility with most video players.
+# output_video.mp4: The name of the output video file.
+
+ffmpeg -framerate 1/3 -i "screenshot-%d.png" -c:v libx264 -r 30 -pix_fmt yuv420p output_video.mp4
