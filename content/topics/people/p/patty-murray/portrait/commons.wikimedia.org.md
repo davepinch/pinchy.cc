@@ -8,6 +8,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Patty_Murr
 type: picture
 url: /commons.wikimedia.org/wiki/Patty_Murray,_official_portrait,_113th_Congress.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Patty_Murray,_official_portrait,_113th_Congress.jpg"
+when: 2013-01-24
 tags:
   - Wikimedia Commons
 ---
