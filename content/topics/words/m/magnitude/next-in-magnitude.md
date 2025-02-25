@@ -1,4 +1,6 @@
 ---
 title: "next in magnitude"
-type: fragment
+type: sequence
+tags:
+  - sequence
 ---
