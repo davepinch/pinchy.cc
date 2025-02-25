@@ -4,9 +4,9 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, June 19). Ali Siddiq. In *Wikipedia, The Free Encyclopedia*. Retrieved June 25, 2024, from https://en.wikipedia.org/w/index.php?title=Ali_Siddiq&oldid=1229980838
 snippet of: Ali Siddiq (Wikipedia)
+style of: Ali Siddiq
 type: snippet
 url: /en.wikipedia.org/wiki/Ali_Siddiq/career-2/
 tags:
-  - Ali Siddiq
   - snippet
 ---
