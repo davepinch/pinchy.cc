@@ -1,11 +1,9 @@
 ---
 title: "John 14:14 NIV"
 attribution: "John 14:14 NIV"
+New International Version of: "John 14:14"
 quote: "You may ask me for anything in my name, and I will do it."
-related: Gospel of John (Wikipedia)
 type: quote
 tags:
-  - Gospel of John
-  - New International Version
   - quote
 ---

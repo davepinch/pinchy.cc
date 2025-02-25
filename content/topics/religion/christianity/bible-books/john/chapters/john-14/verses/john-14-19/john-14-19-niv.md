@@ -1,11 +1,9 @@
 ---
 title: "John 14:19 NIV"
 attribution: "John 14:19 NIV"
+New International Version of: "John 14:19"
 quote: "Before long, the world will not see me anymore, but you will see me. Because I live, you also will live."
-related: Gospel of John (Wikipedia)
 type: quote
 tags:
-  - Gospel of John
-  - New International Version
   - quote
 ---
