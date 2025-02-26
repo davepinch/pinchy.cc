@@ -3,7 +3,7 @@ title: "animal"
 KNOW YOUR GOALS: reproduction
 member of: Animalia
 opposite: plant
-type: eukaryote
+reddit: "https://www.reddit.com/r/Animal/"
 tags:
   - eukaryote
   - kingdom (biology)
