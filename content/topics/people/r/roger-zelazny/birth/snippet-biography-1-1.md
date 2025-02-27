@@ -7,6 +7,7 @@ citation: >-
 snippet of: Roger Zelazny (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Roger_Zelazny/biography-1-1/
+when: 1937-05-13
 tags:
   - birth
   - snippet
