@@ -1,7 +1,9 @@
 ---
 title: "telescope"
-see also: microscope
+see also:
+  - binoculars
+  - microscope
 wikidata: "https://www.wikidata.org/wiki/Q4213"
 tags:
-  - device
+  - optical instrument
 ---
