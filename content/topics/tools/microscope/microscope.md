@@ -1,4 +1,8 @@
 ---
 title: "microscope"
-see also: telescope
+see also:
+  - binoculars
+  - telescope
+tags:
+  - optical instrument
 ---
