@@ -1,6 +1,7 @@
 ---
 title: "Strait of Juan de Fuca"
 borders:
+  - Rosario Strait
   - British Columbia
   - Canada
   - United States
