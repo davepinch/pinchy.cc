@@ -15,7 +15,7 @@ route:
 highway of:
   - King County, Washington
   - Snohomish County, Washington
-  - Washington
+state highway of: Washington
 wikidata: "https://www.wikidata.org/wiki/Q836747"
 tags:
   - state highway
