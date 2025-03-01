@@ -18,5 +18,5 @@ highway of:
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q836747"
 tags:
-  - highway
+  - state highway
 ---

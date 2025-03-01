@@ -4,5 +4,5 @@ highway of:
   - Whatcom County, Washington
   - Washington
 tags:
-  - highway
+  - state highway
 ---

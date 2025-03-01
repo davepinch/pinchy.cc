@@ -7,5 +7,5 @@ highway of:
   - Skagit County, Washington
   - Whatcom County, Washington
 tags:
-  - highway
+  - state highway
 ---

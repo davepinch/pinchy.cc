@@ -6,5 +6,5 @@ highway of:
   - Thurston County, Washington
   - Pierce County, Washington
 tags:
-  - highway
+  - state highway
 ---

@@ -7,5 +7,5 @@ crosses:
 highway of: Washington
 near: Microsoft campus
 tags:
-  - highway
+  - state highway
 ---

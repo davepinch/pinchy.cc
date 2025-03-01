@@ -5,5 +5,5 @@ highway of:
   - Snohomish County, Washington
   - Washington
 tags:
-  - highway
+  - state highway
 ---

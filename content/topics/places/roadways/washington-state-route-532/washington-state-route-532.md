@@ -4,5 +4,5 @@ highway of:
   - Island County, Washington
   - Snohomish County, Washington
 tags:
-  - highway
+  - state highway
 ---

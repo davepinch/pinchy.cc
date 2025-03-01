@@ -12,10 +12,11 @@ eastbound route:
 highway of:
   - Whatcom County, Washington
   - Washington
+  - Mount Baker
 near: Interstate 5
 TODO: Update collate.ps1 so that if a page crosses another, it is crossed back.
 wikidata: "https://www.wikidata.org/wiki/Q836816"
 tags:
-  - Mount Baker
   - TODO
+  - state highway
 ---
