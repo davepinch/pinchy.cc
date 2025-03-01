@@ -1,6 +1,8 @@
 ---
 title: "Interstate 694"
-highway of: Minnesota
+interstate highway of:
+  - United States
+  - Minnesota
 tags:
   - interstate highway
 ---

@@ -14,7 +14,7 @@ near: # west to east
   - Grandfather Cuts Loose the Ponies
   - The Gorge Amphitheatre
   - Lock and Dam No. 7
-highway of:
+interstate highway of:
   - United States
   - Washington
   - Idaho

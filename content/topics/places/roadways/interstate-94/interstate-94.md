@@ -1,6 +1,6 @@
 ---
 title: "Interstate 94"
-highway of: United States
+interstate highway of: United States
 tags:
   - interstate highway
 ---

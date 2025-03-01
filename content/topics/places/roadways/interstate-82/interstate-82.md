@@ -1,6 +1,7 @@
 ---
 title: "Interstate 82"
 interstate highway of:
+  - United States
   - Washington
   - Oregon
   - Pacific Northwest
