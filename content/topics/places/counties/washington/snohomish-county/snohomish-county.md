@@ -16,11 +16,6 @@ not to be confused with:
   - Snohomish River
 openstreetmap: "https://www.openstreetmap.org/relation/1153766"
 reddit: "https://www.reddit.com/r/SnohomishCounty/"
-roadways:
-  - Interstate 5
-  - U.S. Route 2
-  - Washington State Route 9
-  - Washington State Route 522
 southbound on interstate 5: King County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q110403"
 tags:
