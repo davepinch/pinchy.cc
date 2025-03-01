@@ -4,5 +4,5 @@ highway of:
   - Minnesota
   - United States
 tags:
-  - highway
+  - interstate highway
 ---

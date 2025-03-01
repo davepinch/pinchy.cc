@@ -30,5 +30,5 @@ highway of:
   - New York
   - Massachusetts
 tags:
-  - highway
+  - interstate highway
 ---
