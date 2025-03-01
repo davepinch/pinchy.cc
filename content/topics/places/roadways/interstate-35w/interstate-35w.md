@@ -1,6 +1,6 @@
 ---
 title: "Interstate 35W"
-highway of:
+interstate highway of:
   - Minnesota
   - United States
 tags:
