@@ -12,7 +12,10 @@ route:
   - Snohomish River
   - Monroe, Washington
   - U.S. Route 2
-highway of: Washington
+highway of:
+  - King County, Washington
+  - Snohomish County, Washington
+  - Washington
 tags:
   - highway
 ---
