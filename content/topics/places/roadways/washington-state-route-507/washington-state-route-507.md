@@ -5,6 +5,7 @@ highway of:
   - Lewis County, Washington
   - Thurston County, Washington
   - Pierce County, Washington
+wikidata: "https://www.wikidata.org/wiki/Q836456"
 tags:
   - state highway
 ---
