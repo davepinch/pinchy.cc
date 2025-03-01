@@ -29,6 +29,7 @@ interstate highway of:
   - Pennsylvania
   - New York
   - Massachusetts
+wikidata: "https://www.wikidata.org/wiki/Q94958"
 tags:
   - interstate highway
 ---

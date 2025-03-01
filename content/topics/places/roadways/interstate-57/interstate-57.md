@@ -5,6 +5,7 @@ interstate highway of:
   - Arkansas
   - Missouri
   - Illinois
+wikidata: "https://www.wikidata.org/wiki/Q94369"
 tags:
   - interstate highway
 ---
