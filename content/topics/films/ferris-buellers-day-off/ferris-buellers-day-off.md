@@ -6,5 +6,6 @@ film of:
 wikidata: "https://www.wikidata.org/wiki/Q498906"
 work of: John Hughes
 tags:
+  - coming-of-age story
   - film
 ---
