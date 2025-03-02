@@ -7,4 +7,5 @@ source: "https://www.youtube.com/watch?v=oBH9TmeJN_M"
 type: quote
 tags:
   - shared on Hacker News
+  - quote
 ---
