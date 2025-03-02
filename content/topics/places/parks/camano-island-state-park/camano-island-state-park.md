@@ -4,6 +4,7 @@ near: Cama Beach State Park
 openstreetmap: "https://www.openstreetmap.org/way/758397016"
 park of:
   - Camano Island
+  - Saratoga Passage
   - Puget Sound
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q5024930"

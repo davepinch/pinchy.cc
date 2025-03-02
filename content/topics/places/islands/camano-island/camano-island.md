@@ -1,6 +1,7 @@
 ---
 title: "Camano Island"
 island of:
+  - Saratoga Passage
   - Possession Sound
   - Puget Sound
   - Island County, Washington
