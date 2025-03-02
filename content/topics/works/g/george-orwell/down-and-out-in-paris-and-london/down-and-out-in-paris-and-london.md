@@ -1,6 +1,8 @@
 ---
 title: "Down and Out in Paris and London"
-book of: George Orwell
+book of:
+  - George Orwell
+  - four penny coffin
 down and out of:
   - Paris
   - London
