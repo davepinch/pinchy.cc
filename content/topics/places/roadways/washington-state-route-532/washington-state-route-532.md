@@ -1,6 +1,7 @@
 ---
 title: "Washington State Route 532"
 highway of:
+  - Camano Island
   - Island County, Washington
   - Snohomish County, Washington
 state highway of: Washington
