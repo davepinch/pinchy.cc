@@ -1,5 +1,6 @@
 ---
 title: "Camano Island State Park"
+near: Cama Beach State Park
 openstreetmap: "https://www.openstreetmap.org/way/758397016"
 park of:
   - Camano Island
