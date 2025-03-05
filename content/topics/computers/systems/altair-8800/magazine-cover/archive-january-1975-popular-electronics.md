@@ -1,5 +1,6 @@
 ---
 title: "197501 Popular Electronics : Ziff-Davis Publishing Company (archive.org)"
+magazine cover of: Altair 8800
 related: "EOF looking for end YAML front matter delimiter"
 TODO: Get an image scan of the front cover of the January 1975 issue of Popular Electronics, and link to it.
 thumbnail: >-
@@ -8,7 +9,6 @@ type: website
 url: /archive.org/details/197501PopularElectronics/
 website: "https://archive.org/details/197501PopularElectronics/mode/2up"
 tags:
-  - Altair 8800
   - Popular Electronics
   - TODO
 ---
