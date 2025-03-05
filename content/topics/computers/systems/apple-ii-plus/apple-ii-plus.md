@@ -1,5 +1,5 @@
 ---
-title: "Apple II+"
+title: "Apple II Plus"
 computer of:
   - Apple II series
   - MOS Technology 6502
