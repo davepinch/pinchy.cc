@@ -1,6 +1,7 @@
 ---
 title: "Galilee"
 region of:
+  - Kingdom of Israel
   - Israel
   - Lebanon
   - Middle East
