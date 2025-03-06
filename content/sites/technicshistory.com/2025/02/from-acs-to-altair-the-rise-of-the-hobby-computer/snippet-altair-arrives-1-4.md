@@ -4,6 +4,7 @@ pitch of:
   - Altair 8800
   - Intel 8080
   - Amok Time
+  - Cover of January 1975 Popular Electronics (archive.org)
 snippet of: "From ACS to Altair: The Rise of the Hobby Computer (technichistory.com)"
 type: snippet
 url: /technicshistory.com/2025/02/22/from-acs-to-altair-the-rise-of-the-hobby-computer/altair-arrives-1-4/
