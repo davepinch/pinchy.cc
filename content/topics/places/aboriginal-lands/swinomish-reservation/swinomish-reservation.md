@@ -5,6 +5,7 @@ reservation of:
   - Fidalgo Island
   - Skagit County, Washington
   - Washington
+  - Pacific Northwest
 wikidata: "https://www.wikidata.org/wiki/Q6136674"
 tags:
   - reservation
