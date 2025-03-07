@@ -7,7 +7,7 @@ sequence:
   - Washington
   - Whatcom County, Washington
   - Blaine, Washington
-  - Drayton Habor
+  - Drayton Harbor
   - Semiahmoo Spit
   - Birch Point
   - Birch Bay
