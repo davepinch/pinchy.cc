@@ -939,6 +939,88 @@ function Update-Timelines() {
 }
 
 # ========================================================================
+# Update-TitlesToFragments
+# ========================================================================
+
+function Update-TitlesToFragmentsFor($page) {
+
+    if ($page["type"] -ne "title") {
+        return
+    }
+
+    #
+    # Keep track of titles that were checked because infinite loops exist.
+    #
+    $trackedTitles = @{}
+
+    #
+    # Keep track the last page in the chain.
+    #
+    $lastPage = $page
+
+    while ($true) {
+
+        #
+        # Check whether this title has been encountered before. If not, add.
+        #
+        $lastTitle = $lastPage["title"]
+        if ($trackedTitles.ContainsKey($lastTitle)) {
+            Debug-Page $page "infinite loop detected at title '$lastTitle'"
+            return
+        }
+        else {
+            $trackedTitles[$lastTitle] = $true
+        }
+
+        #
+        # Get the title of the next page.
+        #
+        $nextTitle = $lastPage["next"]
+        if ($null -eq $nextTitle) {
+            break
+        }
+
+        #
+        # Get the index of the next page.
+        #
+        $nextIndex = $script:lookup[$nextTitle]
+        if ($null -eq $nextIndex) {
+            Debug-Page $page "next title '$nextTitle' not found"
+            return
+        }
+
+        #
+        # Get the next page object at the index
+        #
+        $lastPage = $script:pages[$nextIndex]
+        if ($null -eq $lastPage) {
+            Debug-Page $page "next page at index '$nextIndex' is null"
+            return
+        }
+    }
+
+    #
+    # $lastPage contains the last page in the chain. If a fragment,
+    # then the title already ends with a fragment and is not changed.
+    #
+    if ($lastPage["type"] -eq "fragment") {
+        return
+    }
+
+    #
+    # Set the next page to a random fragment title.
+    #
+    $lastPage["next"] = $script:props["type"]["fragment"] | Get-Random
+}
+
+function Update-TitlesToFragments() {
+    Write-Host "Titles to fragments..."
+    foreach($page in $script:pages) {
+        Update-TitlesToFragmentsFor $page
+    }
+}
+
+# ========================================================================
 # Update-WikipediaCrossReferences
 # ========================================================================
 
@@ -1154,6 +1236,7 @@ Update-RandomFragments
 Update-ReverseTags
 Update-Sequences
 Update-Timelines
+Update-TitlesToFragments
 # Update-WikipediaCrossReferences
 Update-WikipediaFlagsAndLocations
 Update-Plurals
