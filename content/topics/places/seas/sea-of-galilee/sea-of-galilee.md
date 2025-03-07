@@ -9,7 +9,6 @@ sea of:
   - Galilee
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q126982"
-wikipedia: 
 tags:
   - lake
 ---
