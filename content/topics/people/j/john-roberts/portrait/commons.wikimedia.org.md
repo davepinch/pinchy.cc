@@ -1,6 +1,7 @@
 ﻿---
 title: "Official roberts CJ.jpg (Wikimedia Commons)"
 author: Steve Petteway
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/43/Official_roberts_CJ.jpg"
 portrait of: John Roberts
 source: "http://www.supremecourthistory.org/history-of-the-court/the-current-court/chief-justice-john-roberts-jr/"
