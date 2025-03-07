@@ -22,6 +22,7 @@ permalinks:
   camera-roll: /:slug/
   cc: /:filename/
   cues: /:filename/
+  dreams: /:filename/
   flashcards: /:filename/
   fragments: /:filename/
   generative-works: /:filename/
