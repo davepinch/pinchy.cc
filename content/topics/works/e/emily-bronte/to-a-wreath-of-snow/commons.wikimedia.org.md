@@ -11,7 +11,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/To_a_Wreath_of_Snow_-_Emily_Bronte.jpg/
 website: "https://commons.wikimedia.org/wiki/File:To_a_Wreath_of_Snow_-_Emily_Bronte.jpg"
 when: 1837-12-13
-work of: Emily Brontë
 tags:
   - Wikimedia Commons
 ---
