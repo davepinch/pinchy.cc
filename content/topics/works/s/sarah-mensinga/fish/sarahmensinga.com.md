@@ -6,6 +6,7 @@ excerpt: >-
 fish of: comics
 reddit: "https://www.reddit.com/r/PeterExplainsTheJoke/comments/1j4vc7n/can_petah_tell_me_whats_going_on/"
 type: website
+url: /www.sarahmensinga.com/fish/
 website: "https://www.sarahmensinga.com/fish"
 tags:
   - website
