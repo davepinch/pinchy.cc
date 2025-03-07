@@ -4,9 +4,10 @@ cape of:
   - Whatcom County, Washington
   - Strait of Georgia
   - Salish Sea
+down the Pacific coast: Birch Bay
 north side: Drayton Harbor
 openstreetmap: "https://www.openstreetmap.org/node/6228828620"
-south side: Birch Bay  
+south side: Birch Bay
 tags:
   - cape
   - no Wikipedia article
