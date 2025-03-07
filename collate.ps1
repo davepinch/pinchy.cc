@@ -732,10 +732,22 @@ function Update-RandomFragmentFor($page) {
         return
     }
 
+    $allTitles = $script:props["type"]["title"]
+    if (allTitles -isnot [array]) {
+        $allTitles = @($allTitles)
+    }
+
+    $allFragments = $script:props["type"]["fragment"]
+    if (allFragments -isnot [array]) {
+        $allFragments = @($allFragments)
+    }
+
+    $combinedTitlesAndFragments = $allTitles + $allFragments
+
     #
     # Select a random page where type=fragment
     #
-    $next = $script:props["type"]["fragment"] | Get-Random
+    $next = $combinedTitlesAndFragments | Get-Random
 
     $page["next"] = $next
 }
