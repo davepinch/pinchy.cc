@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2025-02-11
 type: website
 url: /en.wikipedia.org/wiki/Genesis_1:5/
-website: "https://en.wikipedia.org/wiki/Genesis_1:5"
+website: "https://en.wikipedia.org/wiki/Genesis_1-5"
 wikipedia of: Genesis 1:5
 tags:
   - Wikipedia

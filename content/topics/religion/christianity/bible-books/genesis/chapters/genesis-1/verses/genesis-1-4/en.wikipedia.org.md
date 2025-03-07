@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2025-02-11
 type: website
 url: /en.wikipedia.org/wiki/Genesis_1:4/
-website: "https://en.wikipedia.org/wiki/Genesis_1:4"
+website: "https://en.wikipedia.org/wiki/Genesis_1-4"
 wikipedia of: Genesis 1:4
 tags:
   - Wikipedia
