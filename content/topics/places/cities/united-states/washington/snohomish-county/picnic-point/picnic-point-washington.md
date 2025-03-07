@@ -12,7 +12,6 @@ borders:
 census-designated place of:
   - Snohomish County, Washington
   - Washington
-down the pacific coast: Meadowdale, Washington
 openstreetmap: "https://www.openstreetmap.org/node/681124634"
 up the pacific coast: Mukilteo, Washington
 wikidata: "https://www.wikidata.org/wiki/Q17560547"

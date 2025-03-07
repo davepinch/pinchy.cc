@@ -7,7 +7,6 @@ borders:
   - Mexico
   - Pacific Ocean
 country of: North America
-down the pacific coast: Mexico
 openstreetmap: "https://www.openstreetmap.org/relation/148838"
 up the pacific coast:
   - Canada

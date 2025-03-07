@@ -12,9 +12,6 @@ borders:
   - United States
   - Washington
   - Yukon
-down the pacific coast:
-  - Washington
-  - United States
 openstreetmap: "https://www.openstreetmap.org/relation/390867"
 province of:
   - Canada

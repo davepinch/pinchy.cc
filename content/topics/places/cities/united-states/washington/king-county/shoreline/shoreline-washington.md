@@ -20,7 +20,6 @@ city of:
   - Interstate 5
   - Washington State Route 99
   - Washington State Route 522
-down the pacific coast: Seattle
 northbound on interstate 5: Mountlake Terrace, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237358"
 reddit: "https://www.reddit.com/r/Shoreline/"

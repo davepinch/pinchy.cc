@@ -1,8 +1,6 @@
 ---
 title: "Semiahmoo Spit"
-down the Pacific coast: Birch Point
 spit of: Whatcom County, Washington
-up the Pacific coast: Drayton Harbor
 wikidata: "https://www.wikidata.org/wiki/Q7449352"
 tags:
   - spit (landform)
