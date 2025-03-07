@@ -2,9 +2,9 @@
 title: "Material in the snow"
 author: David Pinch
 license: CC BY-SA 4.0
+material of: snow
 near: Parking lot near Rattlesnake Lake
 photograph of:
-  - snow
   - moss
   - mushroom
 picture: content/camera-roll/2019/03/2019-03-02-material-in-the-snow/material-in-the-snow.jpg
