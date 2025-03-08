@@ -9,4 +9,5 @@ notes:
   - I am speaking to that thing.
   - I am speaking to the thing that is Walgreens.
 people of: Walgreens
+type: title
 ---
