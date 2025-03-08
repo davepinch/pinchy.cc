@@ -27,7 +27,8 @@ sequence:
   - Samish Bay
 # - Larrabee State Park
   - Skagit County, Washington
-# - Padilla Bay
+# - Samish River
+  - Padilla Bay
   - Fidalgo Island
   - Fidalgo Bay
   - Anacortes, Washington
