@@ -733,12 +733,12 @@ function Update-RandomFragmentFor($page) {
     }
 
     $allTitles = $script:props["type"]["title"]
-    if (allTitles -isnot [array]) {
+    if ($allTitles -isnot [array]) {
         $allTitles = @($allTitles)
     }
 
     $allFragments = $script:props["type"]["fragment"]
-    if (allFragments -isnot [array]) {
+    if ($allFragments -isnot [array]) {
         $allFragments = @($allFragments)
     }
 
