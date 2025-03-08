@@ -1,4 +1,5 @@
 ---
-title: "You think the devil gives a fuck about your terms?"
+title: "The trick of the devil"
 next: "The trick of the devil is not a flaw in the contract."
+type: title
 ---
