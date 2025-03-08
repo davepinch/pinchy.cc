@@ -976,6 +976,15 @@ function Update-TitlesToFragmentsFor($page) {
         # Check whether this title has been encountered before. If not, add.
         #
         $lastTitle = $lastPage["title"]
+        #if ($lastTitle -is [array]) {
+        #    Write-Error $lastTitle[0]
+        #    return
+        #}
+        if ($null -eq $lastTitle) {
+            Debug-Page $lastPage "title is null"
+            return
+        }
+
         if ($trackedTitles.ContainsKey($lastTitle)) {
             Debug-Page $page "infinite loop detected at title '$lastTitle'"
             return
