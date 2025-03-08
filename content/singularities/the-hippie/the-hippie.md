@@ -1,6 +1,6 @@
 ---
 title: "The Hippie"
-related: "Which singularity are you chasing?"
+singularity of: "Which singularity are you chasing?"
 tags:
   - hippie
 ---
