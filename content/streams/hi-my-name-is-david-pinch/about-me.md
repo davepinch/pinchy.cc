@@ -1,5 +1,5 @@
 ---
 title: "About Me"
-next: "Hi, my name is Dave Pinch"
+next: "Hi, my name is David Pinch"
 type: title
 ---
