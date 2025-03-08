@@ -29,6 +29,8 @@ sequence:
   - Skagit County, Washington
 # - Samish River
   - Padilla Bay
+# - Padilla Bay National Estuarine Research Reserve
+# - Bay View State Park
   - Fidalgo Island
   - Fidalgo Bay
   - Anacortes, Washington
