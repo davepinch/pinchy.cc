@@ -9,7 +9,7 @@ season of:
   - Earth
   - year
 opposite: spring
-type: season
+wikidata: "https://www.wikidata.org/wiki/Q1314"
 tags:
   - season
 ---

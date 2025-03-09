@@ -6,7 +6,7 @@ opposite: autumn
 season of:
   - Earth
   - year
-type: season
+wikidata: "https://www.wikidata.org/wiki/Q1312"
 tags:
   - season
 ---

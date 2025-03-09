@@ -8,7 +8,7 @@ season of:
   - year
   - snow
   - ice
-type: season
+wikidata: "https://www.wikidata.org/wiki/Q1311"
 tags:
   - season
 ---
