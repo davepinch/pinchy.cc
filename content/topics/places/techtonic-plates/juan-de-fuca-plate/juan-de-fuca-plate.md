@@ -10,6 +10,7 @@ subducting under: North American Plate
 tectonic plate of: North America
 wikidata: "https://www.wikidata.org/wiki/Q860385"
 tags:
+  - remnant
   - techtonic plate
   - Cascadia subduction zone
   - geology

@@ -12,5 +12,6 @@ remnant of: Farallon Plate
 tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q386615"
 tags:
+  - remnant
   - tectonic plate
 ---

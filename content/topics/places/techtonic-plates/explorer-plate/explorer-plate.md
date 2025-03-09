@@ -9,5 +9,6 @@ subducting under: North American Plate
 tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q1384554"
 tags:
+  - remnant
   - tectonic plate
 ---

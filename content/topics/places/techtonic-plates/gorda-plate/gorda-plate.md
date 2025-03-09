@@ -11,5 +11,6 @@ subducting under: North American Plate
 tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q1947556"
 tags:
+  - remnant
   - tectonic plate
 ---
