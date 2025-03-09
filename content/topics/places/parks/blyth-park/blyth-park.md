@@ -7,7 +7,7 @@ park of:
   - Sammamish River
   - Sammamish River Trail
 near:
-  - Burke Gilman Trail
+  - Burke–Gilman Trail
   - Red Brick Road Park
   - Sammamish River Trail
   - Tolt Pipeline Trail
