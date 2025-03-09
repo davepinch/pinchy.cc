@@ -6,6 +6,7 @@ author:
   - "Background photograph by [Gregory H. Revera](https://commons.wikimedia.org/wiki/User_talk:Grevera)"
 license: CC BY-SA 3.0
 location of:
+  - lunar crater
   - Langrenus
   - Mare Crisium
   - Mare Tranquillitatis
