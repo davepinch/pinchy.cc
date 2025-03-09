@@ -21,6 +21,7 @@ country of:
   - West Asia
   - Asia
   - Europe
+not to be confused with: turkey (bird)
 openstreetmap: "https://www.openstreetmap.org/relation/174737"
 wikidata: "https://www.wikidata.org/wiki/Q43"
 tags:
