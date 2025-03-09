@@ -1,8 +1,7 @@
 ---
 title: "Good People"
-type: song
+song of: Mumford & Sons
 tags:
   - song
-  - Above & Beyond
   - Louis Viutton
 ---
