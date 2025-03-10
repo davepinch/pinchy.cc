@@ -1,7 +1,6 @@
 ---
 title: "The Hunger Games (novel)"
 author: Suzanne Collins
-next in dystopia: The Hunger Games (film)
 setting: North America
 when: 2008-09-14
 wikidata: "https://www.wikidata.org/wiki/Q11678"
