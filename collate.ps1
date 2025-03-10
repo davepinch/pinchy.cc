@@ -424,10 +424,101 @@ $script:props = Get-Props $script:pages
 Write-Host "There are $($script:props.Count) distinct properties."
 
 # ========================================================================
-# Updaters
+# Update-LinkedByTag
 # ------------------------------------------------------------------------
-# An updater is a function that modifies a page object in some way.
+# Links together pages that have the same tag. The tag is defined by a
+# page with the "linked by tag" tag. For example, if a page has the title
+# "another thing that floats" and has the tag "linked by tag", then all
+# pages with the tag "another thing that floats" will be linked together.
 # ========================================================================
+
+function Update-LinkedByTag() {
+    Write-Host "Linked by tag..."
+
+    #
+    # Get all pages that have a tag of "linked by tag"
+    #
+    $titles = $script:props["tags"]["linked by tag"]
+    foreach($title in $titles) 
+    {
+        #
+        # Get the index of this title
+        #
+        $index = $script:lookup[$title]
+
+        #
+        # Get the page at this index
+        #
+        $page = $script:pages[$index]
+
+        #
+        # Get the tag to link together. If there is
+        # a property of "linked by tag", use that
+        # property value. Otherwise use the title
+        # of the page.
+        #
+        $tag = $page["linked by tag"]
+        if ($null -eq $tag) {
+            $tag = $page["title"]
+        }
+        if ($tag -is [array]) {
+            Debug-Page $page "linked by tag is an array but must be a scalar"
+            continue
+        }
+        
+        #
+        # Get the titles of pages with this tag
+        #
+        $taggedTitles = $script:props["tags"][$tag]
+        if ($null -eq $taggedTitles) {
+            Debug-Page $page "No pages tagged with '$tag'"
+            continue
+        }
+
+        #
+        # Cast to an array and check minimum length
+        #
+        if ($taggedTitles -isnot [array]) {
+            $taggedTitles = @($taggedTitles)
+        }
+        if ($taggedTitles.Count -lt 2) {
+            Debug-Page $page "Need at least 2 pages with '$tag'"
+            continue
+        }
+
+        #
+        # Loop through each item of the list and add a property with
+        # the title of the next one. The last item is linked to the first.
+        #
+        for( $i = 0; $i -lt $taggedTitles.Count; $i++) {
+
+            #
+            # Get the index of this page
+            #
+            $thisIndex = $script:lookup[$taggedTitles[$i]]
+
+            #
+            # Get this page
+            #
+            $thisPage = $script:pages[$thisIndex]
+
+            #
+            # Get the next title to point to.
+            #
+            $nextI = $i + 1
+            if ($nextI -ge $taggedTitles.Count) {
+                $nextI = 0
+            }
+            $nextTitle = $taggedTitles[$nextI]
+
+
+            #
+            # Add a property with the title of the next page
+            #
+            Add-PropertyValue $thisPage $tag $nextTitle
+        }
+    }
+}
 
 function Update-OfProperties($page, $suffix = "of") {
 
@@ -1249,6 +1340,7 @@ function Update-WikipediaFlagsAndLocations() {
 #
 # Execute updaters
 #
+Update-LinkedByTag
 Update-Ofs "of"
 Update-Ofs "in"
 Update-OnTheseDays
