@@ -1,6 +1,5 @@
 ---
 title: "boat"
-another thing that floats: lava balloon
 related:
   - anchor
   - barge
@@ -12,4 +11,5 @@ related:
 tags:
   - watercraft
   - transportation
+  - another thing that floats
 ---

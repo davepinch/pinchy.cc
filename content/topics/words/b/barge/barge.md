@@ -1,6 +1,5 @@
 ---
 title: "barge"
-another thing that floats: ice
 related:
   - boat
   - ferry
@@ -9,4 +8,5 @@ wikidata: "https://www.wikidata.org/wiki/Q16518"
 tags:
   - watercraft
   - transportation
+  - another thing that floats
 ---

@@ -1,8 +1,8 @@
 ---
 title: "lava balloon"
-another thing that floats: duck
 another type of ball: star
 tags:
+  - another thing that floats
   - bubble
   - lava
 ---
