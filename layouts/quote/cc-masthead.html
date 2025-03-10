@@ -1,8 +1,19 @@
+{{ $collated := partial "cc-collate" .Params.title }}
 {{ $quote := .Params.quote | default .Params.title }}
 {{ $marks := or (hasPrefix $quote '"') (hasPrefix $quote '“') -}}
 <header class="cc-masthead cc-quote-masthead">
   <blockquote>
+
+    {{ $next := partial "cc-get-first" $collated.next }}
+    {{ if $next }}
+      <a href="{{ $next.RelPermalink }}" class="cc-next">
+    {{ end }}
     <p class="cc-quote{{ if not $marks }} cc-missing-quotes{{end}}">{{ $quote | markdownify }}</p>
+    {{ if $next }}
+      </a>
+    {{ end }}
+
+
     {{ with .Params.attribution -}}
     <footer class="cc-attribution">
       {{ . | markdownify }}

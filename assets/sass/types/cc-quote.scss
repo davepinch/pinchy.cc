@@ -47,7 +47,16 @@
         content: '\201D';        
         font-size: 46px;
     }
-}    
+}
+
+.cc-quote-masthead a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.cc-quote-masthead a:hover {
+    text-decoration: underline;
+}
 
 .cc-quote-masthead .cc-attribution {
     font-size: x-large;
