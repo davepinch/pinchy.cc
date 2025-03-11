@@ -1,5 +1,5 @@
 ---
 title: "read-only memory"
 tags:
-  - memory
+  - computer memory
 ---
