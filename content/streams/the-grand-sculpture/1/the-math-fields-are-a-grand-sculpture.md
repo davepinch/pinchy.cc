@@ -1,6 +1,6 @@
 ---
 title: "The math fields are a grand sculpture."
-next: "It is the biggest sculpture in reality."
+next: "At first it seems to be a path of connected shapes."
 tags:
   - The Math Fields
 ---
