@@ -16,7 +16,7 @@ sequence:
   - "The Terminator"                       # 1984
   - "Brazil (film)"                        # 1985
   - "RoboCop"                              # 1987-07-17
-  - "Running Man (film)"                   # 1987-11-13
+  - "The Running Man (film)"               # 1987-11-13
   - "Akira"                                # 1988
   - "Total Recall"                         # 1990
   - "Demolition Man"                       # 1993
