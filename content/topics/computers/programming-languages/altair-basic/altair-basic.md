@@ -1,5 +1,6 @@
 ---
 title: "Altair BASIC"
+derivative of: Microsoft BASIC
 dialect of: BASIC
 product of:
   - Bill Gates

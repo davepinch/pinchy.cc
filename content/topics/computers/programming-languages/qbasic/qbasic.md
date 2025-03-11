@@ -1,5 +1,6 @@
 ---
 title: "QBasic"
+derivative of: Microsoft BASIC
 dialect of: BASIC
 product of:
   - Microsoft
