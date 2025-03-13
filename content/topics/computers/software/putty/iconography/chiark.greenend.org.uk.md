@@ -7,6 +7,7 @@ iconography of: PuTTY
 type: website
 url: /www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/
 website: "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/"
+when: 2025-03-12
 tags:
   - website
   - shared on Hacker News
