@@ -7,7 +7,7 @@ retrieved: 2025-03-12
 type: website
 url: /en.wikipedia.org/wiki/Mark-8/
 website: "https://en.wikipedia.org/wiki/Mark-8"
-wikipedia of: Mark-8
+wikipedia of: Mark-8 (computer)
 tags:
   - Wikipedia
 ---
