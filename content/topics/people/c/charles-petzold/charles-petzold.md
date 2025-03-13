@@ -6,5 +6,6 @@ wikidata: "https://www.wikidata.org/wiki/Q93023"
 tags:
   - American
   - programmer
+  - writer
   - human being
 ---
