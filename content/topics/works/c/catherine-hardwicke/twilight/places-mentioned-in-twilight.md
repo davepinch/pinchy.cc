@@ -6,9 +6,8 @@ places:
   - Jacksonville, Florida
   - La Push, Washington
   - Quileute tribal land
-  - Port Angeles
+  - Port Angeles, Washington
   - Queets River
   - incomplete list
-tags:
-  - Twilight (film)
+places of: Twilight (film)
 ---
