@@ -6,6 +6,7 @@ mentioned at: "https://news.ycombinator.com/item?id=43356314"
 TODO: "https://mathcenter.oxford.emory.edu/site/math108/"
 triangle of power of: logarithm
 type: website
+url: /mathcenter.oxford.emory.edu/site/math108/logs/
 website: "https://mathcenter.oxford.emory.edu/site/math108/logs/"
 tags:
   - website
