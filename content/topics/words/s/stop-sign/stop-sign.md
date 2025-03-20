@@ -3,7 +3,7 @@ title: "stop sign"
 related:
   - billboard
   - car
-type: sign
+wikidata: "https://www.wikidata.org/wiki/Q250429"
 tags:
   - 🛑
   - sign
