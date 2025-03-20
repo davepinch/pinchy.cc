@@ -1,6 +1,8 @@
 ---
 title: "Neville's Ladder Experiment"
-ladder experiment of: Neville Lancelot Goddard
+ladder experiment of:
+  - Law of Assumption
+  - Neville Lancelot Goddard
 retrieved: 2023-06-07
 source: "https://pastebin.com/nWzSmHvU"
 warning: "Warning: pastebin uses many tracking cookies. Install [Privacy Badger](/privacy-badger/)."
