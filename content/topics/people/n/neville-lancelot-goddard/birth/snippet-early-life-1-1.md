@@ -1,5 +1,6 @@
 ---
-title: "Neville Lancelot Goddard was born in Fontabelle, Saint Michael, Barbados, on February 19, 1905, to Joseph Nathaniel Goddard, a merchant, and Wilhelmina Goddard (née Hinkson)."
+title: "birth of Neville Lancelot Goddard (Wikipedia)"
+✂️: "Neville Lancelot Goddard was born in Fontabelle, Saint Michael, Barbados, on February 19, 1905, to Joseph Nathaniel Goddard, a merchant, and Wilhelmina Goddard (née Hinkson)."
 birth of: Neville Lancelot Goddard
 born in: Barbados
 citation: >-
@@ -7,6 +8,7 @@ citation: >-
 snippet of: Neville Lancelot Goddard (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Neville_Lancelot_Goddard/early-life-1-1/
+when: 1905-02-19
 tags:
   - snippet
 ---
