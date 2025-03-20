@@ -7,6 +7,7 @@ near:
   - Ramsey County, Minnesota
   - Woodbury, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/137848"
+smallest city by area of: Washington County, Minnesota
 surrounded by: Oakdale, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q2230523"
 tags:
