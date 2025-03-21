@@ -7,6 +7,7 @@ citation: >-
 curtis yarvin of: Peter Thiel
 snippet of: Curtis Yarvin (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Curtis_Yarvin/4-1/
 tags:
   - snippet
 ---
