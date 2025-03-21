@@ -10,6 +10,7 @@ trial of:
   - Christoph Probst
 type: snippet
 url: /en.wikipedia.org/wiki/Sophie_Scholl/arrest-and-execution-7-1/
+when: 1943-02-22
 tags:
   - execution
   - treason
