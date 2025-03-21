@@ -6,6 +6,7 @@ citation: >-
 incognito of: political party
 political party of: Ralph Waldo Emerson
 type: quote
+vexation of: thinking
 tags:
   - quote
 ---
