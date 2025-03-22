@@ -3,7 +3,7 @@ title: "Jesus Trail"
 official website: "https://jesustrail.com/"
 trail of:
   - Jesus
-  - Narareth
+  - Nazareth
   - Sea of Galilee
   - Galilee
   - Israel
