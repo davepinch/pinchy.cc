@@ -6,6 +6,7 @@ directed by: George Lucas
 influenced by:
   - Seven Samurai
   - The Hidden Fortress
+new of: hope
 wikidata: "https://www.wikidata.org/wiki/Q17738"
 tags:
   - epic
