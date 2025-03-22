@@ -15,7 +15,7 @@ plot of:
   - Marc Andreessen
   - Steve Bannon
   - Palmer Luckey
-  - David Sacks
+  - David O. Sacks
   - Brian Armstrong
   - Sam Altman
   - Mark Zuckerberg
