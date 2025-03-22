@@ -8,6 +8,7 @@ the hidden fortress of:
   - Star Wars (film)
   - George Lucas
 type: snippet
+url: /www.imdb.com/title/tt0051808/trivia/
 tags:
   - snippet
 ---
