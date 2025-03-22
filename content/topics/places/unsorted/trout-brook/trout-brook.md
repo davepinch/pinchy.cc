@@ -1,7 +1,6 @@
 ---
 title: "Trout Brook"
 brook of: Saint Paul, Minnesota
-type: place
 tags:
   - no Wikipedia article
 ---
