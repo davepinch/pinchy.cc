@@ -1,11 +1,10 @@
 ---
 title: "Monroe, Washington"
-borders:
-  - Skykomish River
 city of:
   - Snohomish County, Washington
   - U.S. Route 2
   - Washington State Route 522
+  - Skykomish River
 namesake of: James Monroe
 near:
   - Lord Hill Regional Park
