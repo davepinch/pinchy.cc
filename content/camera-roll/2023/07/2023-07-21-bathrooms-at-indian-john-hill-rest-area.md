@@ -9,7 +9,9 @@ photograph of:
   - sign
   - water
 picture: content/camera-roll/2023/07/2023-07-21-bathrooms-at-indian-john-hill-rest-area/bathrooms-at-indian-john-hill-rest-area.jpg
-rest area of: toilet
+rest area of:
+  - bathroom
+  - toilet
 thumbnail: content/camera-roll/2023/07/2023-07-21-bathrooms-at-indian-john-hill-rest-area/bathrooms-at-indian-john-hill-rest-area-thumbnail.jpg
 type: picture
 when: 2023-07-21
