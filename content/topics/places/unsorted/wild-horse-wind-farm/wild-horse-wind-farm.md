@@ -7,7 +7,7 @@ near:
 wind farm of:
   - Kittitas County, Washington
   - Interstate 90
-type: place
+wikidata: "https://www.wikidata.org/wiki/Q8000678"
 tags:
   - wind farm
 ---
