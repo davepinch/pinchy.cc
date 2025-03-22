@@ -2,6 +2,7 @@
 title: "James Monroe"
 ⬅️: James Madison
 ➡️: John Quincy Adams
+disambiguation of: Monroe
 member of: Democratic-Republican Party
 president of: United States
 type: person
