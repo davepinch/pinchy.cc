@@ -8,6 +8,7 @@ trail of:
   - Cascade Range
   - Washington
 vicinity of: Snoqualmie Pass
+wikidata: "https://www.wikidata.org/wiki/Q7548051"
 tags:
   - railray
   - tunnel

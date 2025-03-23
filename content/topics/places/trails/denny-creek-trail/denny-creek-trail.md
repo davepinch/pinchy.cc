@@ -11,6 +11,6 @@ trail of:
 vicinity of: Snoqualmie Pass
 tags:
   - trail
+  - no Wikidata record
   - no Wikipedia article
 ---
-

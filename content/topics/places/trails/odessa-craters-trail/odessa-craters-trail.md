@@ -6,4 +6,5 @@ trail of:
   - Channeled Scablands
 tags:
   - trail
+  - no Wikidata record
 ---

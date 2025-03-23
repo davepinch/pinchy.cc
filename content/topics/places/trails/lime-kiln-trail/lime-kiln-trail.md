@@ -15,4 +15,5 @@ trail of:
 tags:
   - trail
   - VISIT SOMEWHERE NEW
+  - no Wikidata record
 ---
