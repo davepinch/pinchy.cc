@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 15). Eridu. In *Wikipedia, The Free Encyclopedia*. Retrieved April 1, 2024, from https://en.wikipedia.org/w/index.php?title=Eridu&oldid=1207529232
 location of: Eridu
+southwest of: Ur
 type: snippet
 url: /en.wikipedia.org/wiki/Eridu/1-3/
 tags:
