@@ -9,6 +9,7 @@ thumbnail: content/bookmarks/privacybadger.org/banner-thumbnail.png
 type: website
 url: /privacybadger.org/
 website: "https://privacybadger.org/"
+wikidata: "https://www.wikidata.org/wiki/Q17559386"
 tags:
   - privacy
 ---
