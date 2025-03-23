@@ -8,6 +8,7 @@ license: CC BY-SA 4.0
 map of:
   - Babylon
   - Eridu
+  - Lagash
   - Larsa
   - Ur
   - Uruk
