@@ -7,6 +7,7 @@ trail of:
   - Redmond, Washington
   - Bothell, Washington
   - Woodinville, Washington
+  - Blyth Park
 wikidata: "https://www.wikidata.org/wiki/Q7409641"
 tags:
   - trail
