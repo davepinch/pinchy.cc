@@ -1,6 +1,6 @@
 ---
 title: "Hacker News"
-website: "https://news.ycombinator.com"
+api: "https://github.com/HackerNews/API"
 tags:
   - website
 ---
