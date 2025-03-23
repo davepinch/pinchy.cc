@@ -10,7 +10,7 @@ citation: >-
   Wikipedia contributors. (2025, January 6). MUL.APIN. In *Wikipedia, The Free Encyclopedia*. Retrieved 06:21, March 23, 2025, from https://en.wikipedia.org/w/index.php?title=MUL.APIN&oldid=1267780767
 snippet of: Auriga (constellation) (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Auriga_(constellation)/
+url: /en.wikipedia.org/wiki/Auriga_(constellation)/mythology-1-1/
 tags:
   - MUL.APIN
   - snippet
