@@ -3,7 +3,7 @@ title: "Eridu Context Map.jpg (Wikimedia Commons)"
 author: "https://commons.wikimedia.org/wiki/User:Gurdjieff"
 license: CC BY-SA 4.0
 map of:
-  - Erudi
+  - Eridu
   - Ur
   - Uruk
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Eridu_Context_Map.jpg"
