@@ -6,6 +6,7 @@ citation: >-
 release of: Apple IIc
 snippet of: Apple IIc (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Apple_IIc/history-1-1/
 when: 1984-04-24
 tags:
   - snippet
