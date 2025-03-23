@@ -15,5 +15,6 @@ url: /commons.wikimedia.org/wiki/PIA16204-MarsCuriosityRover-Rocknest-20120928.j
 website: "https://commons.wikimedia.org/wiki/File:PIA16204-MarsCuriosityRover-Rocknest-20120928.jpg"
 when: 2012-10-04
 tags:
+  - photograph
   - Wikimedia Commons
 ---
