@@ -1,0 +1,4 @@
+---
+title: "WE ARE IN THE WORLD MADE OF DUST"
+next: "YOU ARE THE ONE AWAKENING"
+---
