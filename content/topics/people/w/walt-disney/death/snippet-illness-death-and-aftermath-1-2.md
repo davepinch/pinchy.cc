@@ -4,6 +4,7 @@ title: "death of Walt Disney (Wikipedia)"
 citation: >-
   Wikipedia contributors. (2024, September 11). Walt Disney. In *Wikipedia, The Free Encyclopedia*. Retrieved September 17, 2024, from https://en.wikipedia.org/w/index.php?title=Walt_Disney&oldid=1245236576
 death of: Walt Disney
+license: CC BY-SA 4.0
 type: snippet
 url: /en.wikipedia.org/wiki/Walt_Disney/illness-death-and-aftermath-1-2/
 when: 1966-12-15
