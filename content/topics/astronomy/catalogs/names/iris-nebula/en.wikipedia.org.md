@@ -9,6 +9,7 @@ website: "https://en.wikipedia.org/wiki/Iris_Nebula"
 wikipedia of:
   - Iris Nebula
   - NGC 7023
+  - LBN 487
 tags:
   - Wikipedia
 ---
