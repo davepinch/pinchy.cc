@@ -7,6 +7,7 @@ hacker news: "https://news.ycombinator.com/item?id=41741333"
 type: website
 url: /profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/
 website: "https://profmattstrassler.com/2024/10/01/why-is-the-speed-of-light-so-fast-part-1/"
+why of: speed of light
 tags:
   - website
   - shared on Hacker News
