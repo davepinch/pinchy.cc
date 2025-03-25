@@ -5,6 +5,7 @@ near:
   - Rattlesnake Lake
   - Interstate 90
 ridge of:
+  - Rattlesnake Mountain
   - King County, Washington
   - Issaquah Alps
   - Cascade Range
