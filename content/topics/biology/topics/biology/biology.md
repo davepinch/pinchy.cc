@@ -6,7 +6,6 @@ related:
   - chemistry
   - paleontology
 study of: life
-type: science
 tags:
   - science
 ---

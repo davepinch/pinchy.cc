@@ -11,7 +11,6 @@ related:
   - biology
   - physics
 see also: physics
-type: science
 wikidata: "https://www.wikidata.org/wiki/Q2329"
 tags:
   - science
