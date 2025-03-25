@@ -1,3 +1,0 @@
----
-title: "cathode ray"
----

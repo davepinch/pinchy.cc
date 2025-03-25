@@ -10,6 +10,7 @@ scientists:
   - Albert Einstein
   - Isaac Newton
   - Richard Feynman
+wikidata: "https://www.wikidata.org/wiki/Q413"
 tags:
   - science
   - universe

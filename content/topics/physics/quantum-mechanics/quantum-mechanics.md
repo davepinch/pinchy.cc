@@ -1,7 +1,7 @@
 ---
 title: "quantum mechanics"
 theory of: physics
-type: science
+wikidata: "https://www.wikidata.org/wiki/Q944"
 tags:
   - theory
 ---
