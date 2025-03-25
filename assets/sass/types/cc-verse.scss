@@ -1,0 +1,51 @@
+.cc-verse-card {
+
+    /* Center, stacked from top to bottom */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    text-align: center;
+
+    /* Make it shaped like a tile */
+    min-height: 200px;
+    padding: 10px;
+    width: 280px;
+
+    /* Make it a bit fancy with a double-sided border */
+    border: 6px double silver;
+    font-family: serif;
+    margin-top: 10pt;
+
+    .cc-attribution {
+        font-size: smaller;
+        padding-top: 10px;
+    }
+}
+
+.cc-verse-masthead {
+
+    /* Fill viewport */
+    min-height: 100vh;
+    width: 100%;
+
+    /* Center, stacked from top to bottom */
+    display: flex;
+    flex-direction: column;
+    font-size: xx-large;
+    justify-content: center;
+    text-align: center;
+    font-family: Georgia, serif;
+}
+
+.cc-verse-masthead a {
+    color: inherit;
+    text-decoration: none;
+}
+
+.cc-verse-masthead a:hover {
+    text-decoration: underline;
+}
+
+.cc-verse-masthead .cc-attribution {
+    font-size: x-large;
+}
