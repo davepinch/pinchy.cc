@@ -1,9 +1,8 @@
 ---
 title: "Island in Miner's Corner"
+land of: island
 license: CC BY-SA 4.0
-photograph of:
-  - island
-  - Miner's Corner
+photograph of: Miner's Corner
 picture: content/camera-roll/2024/06/2024-06-07-island-in-miners-corner/island-in-miners-corner.jpg
 thumbnail: >-
   content/camera-roll/2024/06/2024-06-07-island-in-miners-corner/island-in-miners-corner.thumbnail.jpg
