@@ -15,5 +15,6 @@ url: /commons.wikimedia.org/wiki/Car_seat_in_Perrinville_Creek.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Car_seat_in_Perrinville_Creek.jpg"
 when: 2025-03-25
 tags:
+  - photograph
   - Wikimedia Commons
 ---

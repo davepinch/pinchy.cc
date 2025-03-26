@@ -18,5 +18,6 @@ url: /commons.wikimedia.org/wiki/Brown_Owl_Bridge_through_the_trees.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Brown_Owl_Bridge_through_the_trees.jpg"
 when: 2025-03-25
 tags:
+  - photograph
   - Wikimedia Commons
 ---

@@ -13,5 +13,6 @@ url: /commons.wikimedia.org/wiki/Looking_upstream_of_Perrinville_Creek_in_Southw
 website: "https://commons.wikimedia.org/wiki/File:Looking_upstream_of_Perrinville_Creek_in_Southwest_County_Olympic_View_Park.jpg"
 when: 2025-03-25
 tags:
+  - photograph
   - Wikimedia Commons
 ---
