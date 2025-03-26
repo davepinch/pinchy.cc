@@ -11,6 +11,7 @@ borders:
 city of:
   - Snohomish County, Washington
   - Puget Sound
+official website: "https://www.townofwoodway.com/index.php"
 openstreetmap: "https://www.openstreetmap.org/relation/237219"
 up the pacific coast: Edmonds, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1506485"
