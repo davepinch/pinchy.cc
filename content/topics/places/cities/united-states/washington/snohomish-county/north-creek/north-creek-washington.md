@@ -8,6 +8,7 @@ borders clockwise from north:
   - Bothell West, Washington
   - Martha Lake, Washington
 census-designated place of:
+  - North Creek
   - Snohomish County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/140377142"
