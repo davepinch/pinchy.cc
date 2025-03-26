@@ -16,5 +16,6 @@ TODO: Make sure Blyth Park is not marked as part of Snohomish County when automa
 tags:
   - park
   - no Wikidata record
+  - VISIT SOMEWHERE NEW
 ---
 Blyth Park is the closest park to the [Sammamish River Trail](/sammamish-river-trail/).
