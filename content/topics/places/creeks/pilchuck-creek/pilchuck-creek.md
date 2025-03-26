@@ -4,7 +4,7 @@ creek of:
   - Skagit County, Washington
   - Snohomish County, Washington
   - Cascade Range
-near: Deer Creek
+near: Deer Creek (Oso)
 not to be confused with: Pilchuck River
 tributary of: Stillaguamish River
 reported rockhounding finds:
