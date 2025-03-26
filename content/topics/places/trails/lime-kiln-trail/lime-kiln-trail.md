@@ -14,6 +14,5 @@ trail of:
   - Cascade Range
 tags:
   - trail
-  - VISIT SOMEWHERE NEW
   - no Wikidata record
 ---

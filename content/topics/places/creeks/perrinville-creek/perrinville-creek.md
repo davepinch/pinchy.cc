@@ -10,5 +10,4 @@ tags:
   - creek
   - no Wikidata record
   - no Wikipedia article
-  - VISIT SOMEWHERE NEW
 ---

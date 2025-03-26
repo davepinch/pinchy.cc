@@ -10,5 +10,4 @@ nearby erratic: Lake Stevens Erratic
 wikipedia: "https://en.wikipedia.org/wiki/Glacial_erratic_boulders_of_the_Puget_Sound_region"
 tags:
   - glacial erratic
-  - VISIT SOMEWHERE NEW
 ---
