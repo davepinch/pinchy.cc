@@ -7,4 +7,5 @@ tags:
   - trail
   - no Wikidata record
   - no Wikipedia article
+  - VISIT SOMEWHERE NEW
 ---
