@@ -5,7 +5,7 @@ excerpt: >-
 hiking of: Picnic Point Park
 type: website
 url: /www.wta.org/go-hiking/hikes/picnic-point/
-website: "hhttps://www.wta.org/go-hiking/hikes/picnic-point"
+website: "https://www.wta.org/go-hiking/hikes/picnic-point"
 tags:
   - Washington Trails Association
 ---
