@@ -4,6 +4,7 @@ author: Big Ear Radio Observatory and North American AstroPhysical Observatory (
 color copy of: Wow! signal
 description: >-
   A scan of a color copy of the original computer printout, taken several years after the 1977 arrival of the Wow! signal.
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wow_signal.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wow_signal.jpg/320px-Wow_signal.jpg"
 type: picture
