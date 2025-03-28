@@ -5,7 +5,7 @@ excerpt: >-
 hiking of: Lake Sammamish State Park
 retrieved: 2025-03-26
 type: website
-url: /www.wta.org/go-hiking/hikes/lake-sammamish-state-park
+url: /www.wta.org/go-hiking/hikes/lake-sammamish-state-park/
 website: "https://www.wta.org/go-hiking/hikes/lake-sammamish-state-park"
 tags:
   - Washington Trails Association
