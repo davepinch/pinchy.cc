@@ -1,6 +1,7 @@
 ---
 title: "North Bend, WA Weather - Webcam (northbendweather.com)"
 description: "Mount Si in the background. 4,167 feet (1,270 meters)"
+license: unknown
 picture: "https://www.northbendweather.com/webcamimage.jpg"
 type: picture
 url: /www.northbendweather.com/webcamimage.jpg/
