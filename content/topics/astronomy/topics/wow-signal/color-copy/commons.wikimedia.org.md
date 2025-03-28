@@ -2,6 +2,7 @@
 title: "Wow signal.jpg (Wikimedia Commons)"
 author: Big Ear Radio Observatory and North American AstroPhysical Observatory (NAAPO).
 color copy of: Wow! signal
+cultural reference: "https://www.reddit.com/r/WallStreetbetsELITE/comments/1jldwhg/just_checking_out_some_completely_normal_after/"
 description: >-
   A scan of a color copy of the original computer printout, taken several years after the 1977 arrival of the Wow! signal.
 license: public domain
