@@ -5,7 +5,7 @@ excerpt: >-
 hiking of: Hamlin Park
 retrieved: 2025-03-27
 type: website
-url: /www.wta.org/go-hiking/hikes/hamlin-park-shoreline
+url: /www.wta.org/go-hiking/hikes/hamlin-park-shoreline/
 website: "https://www.wta.org/go-hiking/hikes/hamlin-park-shoreline"
 tags:
   - Washington Trails Association
