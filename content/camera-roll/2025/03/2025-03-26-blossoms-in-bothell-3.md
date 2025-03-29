@@ -12,7 +12,7 @@ license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Blossoms_in_Bothell_3.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Blossoms_in_Bothell_3.jpg/330px-Blossoms_in_Bothell_3.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/Blossoms_in_Bothell_3.jpg
+url: /commons.wikimedia.org/wiki/Blossoms_in_Bothell_3.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Blossoms_in_Bothell_3.jpg"
 when: 2025-03-26
 tags:
