@@ -7,6 +7,7 @@ citation: >-
 departure to unknown lands of:
   - human being
   - Richard Francis Burton
+  - VISIT SOMEWHERE NEW
 related:
   - Richard_Francis_Burton_by_Rischgitz,_1864.jpg (Wikimedia Commons)
   - Explore - song and lyrics by Alice DiMar (spotify.com)
@@ -16,5 +17,4 @@ tags:
   - life
   - adventure
   - happiness
-  - VISIT SOMEWHERE NEW
 ---
