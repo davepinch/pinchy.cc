@@ -1,8 +1,9 @@
 ---
 title: "North Creek Park Boardwalk"
 boardwalk of:
-  - North Creek
   - North Creek County Park
+  - North Creek Trail
+  - North Creek
   - Martha Lake, Washington
   - Mill Creek, Washington
   - Snohomish County, Washington
