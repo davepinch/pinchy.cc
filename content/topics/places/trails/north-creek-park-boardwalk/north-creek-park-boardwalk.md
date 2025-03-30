@@ -6,6 +6,7 @@ boardwalk of:
   - Martha Lake, Washington
   - Mill Creek, Washington
   - Snohomish County, Washington
+openstreetmap: "https://www.openstreetmap.org/way/6129731"
 tags:
   - boardwalk
   - no Wikidata record
