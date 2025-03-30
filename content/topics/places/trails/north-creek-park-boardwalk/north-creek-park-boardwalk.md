@@ -7,6 +7,8 @@ boardwalk of:
   - Martha Lake, Washington
   - Mill Creek, Washington
   - Snohomish County, Washington
+description: >-
+  This floating boardwalk in North Creek County Park is part of the larger North Creek Trail.
 openstreetmap: "https://www.openstreetmap.org/way/6129731"
 tags:
   - boardwalk
