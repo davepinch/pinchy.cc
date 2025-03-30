@@ -6,6 +6,7 @@ borders:
   - Flag_of_Guyana.svg (Wikimedia Commons)
   - Flag_of_Trinidad_and_Tobago.svg (Wikimedia Commons)
 flag of:
+  - five-pointed star
   - Venezuela
   - horizontal
   - tricolor
