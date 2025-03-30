@@ -11,5 +11,6 @@ url: /commons.wikimedia.org/wiki/Wow!_signal_source.svg/
 website: "https://commons.wikimedia.org/wiki/File:Wow!_signal_source.svg"
 wow! signal of: sagittarius
 tags:
+  - location
   - Wikimedia Commons
 ---
