@@ -92,7 +92,7 @@ do {
     $website = NavigateToNext -html $thisContent
     $index++
 
-} while ($index -lt 10)
+} while ($index -lt 13)
 
 #
 # From ChatGPT:
