@@ -8,6 +8,7 @@ bridge of:
   - Woodway, Washington
 description: "Looking through the trees toward Brown Owl Bridge from Deer Creek Park in Woodway, Washington. It is early spring, and the greenery has not obscured the view yet."
 license: CC BY 4.0
+nearby is this western swordfern: Western swordfern in Deer Creek Park.jpg (Wikimedia Commons)
 photograph of:
   - Brown Owl Bridge
   - bridge
