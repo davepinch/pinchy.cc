@@ -8,7 +8,7 @@ description: "Upstream of an abandoned car seat laying in the bed of Perrinville
 license: CC BY 4.0
 photograph of:
   - car seat
-  - stream
+  - creek
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/65/Upstream_of_car_seat_in_Perrinville_Creek.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Upstream_of_car_seat_in_Perrinville_Creek.jpg/330px-Upstream_of_car_seat_in_Perrinville_Creek.jpg"
 type: picture
