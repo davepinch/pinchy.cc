@@ -10,7 +10,6 @@ flag of:
   - horizontal
   - tricolor
   - triband
-  - diagonal
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/06/Flag_of_Venezuela.svg"
