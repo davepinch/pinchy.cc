@@ -14,5 +14,5 @@ tags:
   - boardwalk
   - no Wikidata record
   - no Wikipedia article
-  - VISIT SOMEWHERE NEW
+  - another thing that floats
 ---
