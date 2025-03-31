@@ -9,7 +9,7 @@ side route of:
   - North Creek County Park
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Side_route_in_North_Creek_County_Park.jpg/360px-Side_route_in_North_Creek_County_Park.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/Side_route_in_North_Creek_County_Park.jpg
+url: /commons.wikimedia.org/wiki/Side_route_in_North_Creek_County_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Side_route_in_North_Creek_County_Park.jpg"
 when: 2025-03-30
 tags:
