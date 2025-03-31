@@ -15,5 +15,6 @@ url: /commons.wikimedia.org/wiki/North_Creek_from_Forest_Loop_Trail.jpg/
 website: "https://commons.wikimedia.org/wiki/File:North_Creek_from_Forest_Loop_Trail.jpg"
 when: 2025-03-30
 tags:
+  - photograph
   - Wikimedia Commons
 ---
