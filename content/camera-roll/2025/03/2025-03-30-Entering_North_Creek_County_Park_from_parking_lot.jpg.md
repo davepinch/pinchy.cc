@@ -9,7 +9,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Entering_North_Cre
 picnic shelter of: North Creek County Park
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Entering_North_Creek_County_Park_from_parking_lot.jpg/320px-Entering_North_Creek_County_Park_from_parking_lot.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Entering_North_Creek_County_Park_from_parking_lot.jpg
+url: /commons.wikimedia.org/wiki/Entering_North_Creek_County_Park_from_parking_lot.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Entering_North_Creek_County_Park_from_parking_lot.jpg"
 when: 2025-03-30
 tags:

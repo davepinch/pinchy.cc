@@ -9,7 +9,7 @@ moments later: South end of the boardwalk in North Creek County Park.jpg (Wikime
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5f/Edge_of_the_forest_in_North_Creek_County_Park.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Edge_of_the_forest_in_North_Creek_County_Park.jpg/330px-Edge_of_the_forest_in_North_Creek_County_Park.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/Edge_of_the_forest_in_North_Creek_County_Park.jpg
+url: /commons.wikimedia.org/wiki/Edge_of_the_forest_in_North_Creek_County_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Edge_of_the_forest_in_North_Creek_County_Park.jpg"
 when: 2025-03-30
 tags:
