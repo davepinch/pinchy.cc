@@ -1109,6 +1109,10 @@ function Update-TitlesToFragmentsFor($page) {
             Debug-Page $page "next page at index '$nextIndex' is null"
             return
         }
+        if ($lastPage -is [array]) {
+            Debug-Page $page "next page at index '$nextIndex' is an array"
+            return
+        }
     }
 
     #
