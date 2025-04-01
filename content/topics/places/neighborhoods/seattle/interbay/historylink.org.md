@@ -9,7 +9,6 @@ borders:
   - "Seattle Neighborhoods: Magnolia — Thumbnail History (historylink.org)"
   - "Seattle Neighborhoods: Queen Anne Hill — Thumbnail History (historylink.org)"
   - incomplete list
-clockwise around elliott bay: "Seattle Neighborhoods: Belltown-Denny Regrade — Thumbnail History (historylink.org)"
 excerpt: >-
   Once a salt marsh between two extensions of Elliott Bay, the Interbay neighborhood is home to businesses and industries representing the wide sweep of Seattle's history. A transcontinental railroad, first completed in the nineteenth century, runs next to the home of a twenty-first century biotechnology company. A food bank, a fishing fleet, and a golf course round out the wide variety of activities where once deranged hermits hid from society.
 history of: Interbay, Seattle
