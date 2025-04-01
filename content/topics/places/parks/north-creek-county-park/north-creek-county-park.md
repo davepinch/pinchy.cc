@@ -7,6 +7,7 @@ park of:
   - Martha Lake, Washington
   - Mill Creek, Washington
   - Snohomish County, Washington
+wikidata: "https://www.wikidata.org/wiki/Q133800719"
 tags:
   - park
   - no Wikidata record
