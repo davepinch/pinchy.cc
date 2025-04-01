@@ -8,6 +8,7 @@ park of:
   - Mill Creek, Washington
   - Snohomish County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q133800719"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:North_Creek_Park"
 tags:
   - park
   - no Wikidata record
