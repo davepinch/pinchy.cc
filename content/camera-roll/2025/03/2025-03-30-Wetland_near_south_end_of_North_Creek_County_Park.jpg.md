@@ -7,6 +7,7 @@ look around of: North Creek Park Boardwalk
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Wetland_near_south_end_of_North_Creek_County_Park.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Wetland_near_south_end_of_North_Creek_County_Park.jpg/320px-Wetland_near_south_end_of_North_Creek_County_Park.jpg"
 type: picture
+up the boardwalk: Layers at North Creek County Park.jpg
 url: /commons.wikimedia.org/wiki/Wetland_near_south_end_of_North_Creek_County_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Wetland_near_south_end_of_North_Creek_County_Park.jpg"
 wetland of: North Creek County Park
