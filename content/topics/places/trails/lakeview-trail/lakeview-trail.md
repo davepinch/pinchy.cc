@@ -7,7 +7,7 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/729201909 (west of I5)"
   - "https://www.openstreetmap.org/way/366393759 (crossing I5)"
   - "https://www.openstreetmap.org/way/366393760 (east of I5)"
-trail of: Mountlake Terrace
+trail of: Mountlake Terrace, Washington
 tags:
   - trail
   - VISIT SOMEWHERE NEW
