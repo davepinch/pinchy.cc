@@ -1,5 +1,6 @@
 ---
-title: "Stefanik was born in Albany, New York, on July 2, 1984, to Melanie and Kenneth Stefanik."
+title: "birth of Elise Stefanik (Wikipedia)"
+✂️: "Stefanik was born in Albany, New York, on July 2, 1984, to Melanie and Kenneth Stefanik."
 birth of: Elise Stefanik
 born in: Albany, New York
 citation: >-
