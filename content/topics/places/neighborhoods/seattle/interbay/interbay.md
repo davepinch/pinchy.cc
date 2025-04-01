@@ -9,7 +9,6 @@ borders:
   - Magnolia, Seattle
   - Queen Anne, Seattle
   - Salmon Bay
-clockwise around elliott bay: Belltown, Seattle
 neighborhood of:
   - Seattle
   - Elliott Bay

@@ -6,7 +6,6 @@ across the canal:
 borders:
   - Interbay, Seattle
   - Lake Washington Ship Canal
-clockwise around elliott bay: Interbay, Seattle
 neighborhood of:
   - Seattle
   - Elliott Bay
