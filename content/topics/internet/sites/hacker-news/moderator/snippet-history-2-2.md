@@ -6,6 +6,8 @@ citation: >-
 moderator of: Hacker News
 snippet of: Hacker News (Wikipedia)
 type: snippet
+update: >-
+  On April 2, 2025, dang announced tomhow as a moderator. See https://news.ycombinator.com/item?id=43558671
 url: /en.wikipedia.org/wiki/Hacker_News/history-2-2/
 tags:
   - snippet
