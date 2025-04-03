@@ -60,7 +60,7 @@ sequence:
   - Cama Beach State Park
   - Camano Island State Park
 # - Elgar Bay
-# - Port Susan
+  - Port Susan
 # - Livingston Bay
 # - Tulalip Bay
 # - Priest Point

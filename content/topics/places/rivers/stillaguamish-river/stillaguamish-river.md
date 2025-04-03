@@ -1,6 +1,5 @@
 ---
 title: "Stillaguamish River"
-mouth: Puget Sound
 near:
   - Granite Falls, Washington
   - Old Lime Kiln
@@ -11,6 +10,9 @@ river of:
   - Snohomish County, Washington
   - Washington
   - Cascade Range
+tributary of:
+  - Port Susan
+  - Puget Sound
 wikidata: "https://www.wikidata.org/wiki/Q2349527"
 tags:
   - river
