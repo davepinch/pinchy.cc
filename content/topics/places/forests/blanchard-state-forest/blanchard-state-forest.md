@@ -1,7 +1,7 @@
 ---
 title: "Blanchard State Forest"
 borders:
-  - Whatcom County
+  - Whatcom County, Washington
   - Samish Bay
 forest of:
   - Skagit County, Washington
