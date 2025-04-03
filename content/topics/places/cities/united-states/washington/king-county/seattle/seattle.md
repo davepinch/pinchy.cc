@@ -16,7 +16,6 @@ city of:
   - Lake Washington
   - Puget Sound
   - Interstate 90
-clockwise around lake washington: Lake Forest Park, Washington
 near:
   - Bellevue, Washington
   - SeaTac, Washington

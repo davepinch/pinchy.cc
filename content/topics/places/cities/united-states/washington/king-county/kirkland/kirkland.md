@@ -13,7 +13,6 @@ borders:
 city of:
   - King County, Washington
   - Lake Washington
-clockwise around lake washington: Yarrow Point, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237356"
 reddit: "https://www.reddit.com/r/Kirkland/"
 wikidata: "https://www.wikidata.org/entity/Q936768"

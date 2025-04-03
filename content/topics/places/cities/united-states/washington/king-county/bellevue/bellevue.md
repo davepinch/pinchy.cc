@@ -16,10 +16,6 @@ city of:
   - Interstate 90
   - Washington State Route 520
 clockwise around lake sammamish: Redmond, Washington
-clockwise around lake washington:
-  - Beaux Arts Village, Washington
-  - Newcastle, Washington
-  - Beaux Arts Village is a small pocket surrounded by Bellevue on Lake Washington. Newcastle is directly south of Bellevue on the lake.
 near: Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/237868"
 reddit: "https://www.reddit.com/r/BellevueWA/"

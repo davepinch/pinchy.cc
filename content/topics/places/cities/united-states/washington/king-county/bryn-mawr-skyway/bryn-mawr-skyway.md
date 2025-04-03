@@ -9,9 +9,6 @@ borders:
 census-designated place of:
   - King County, Washington
   - Lake Washington
-clockwise around lake washington:
-  - Rainier Beach, Seattle
-  - Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/237383"
 wikidata: "https://www.wikidata.org/entity/Q1508150"
 tags:

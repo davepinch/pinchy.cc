@@ -14,7 +14,6 @@ city of:
   - King County, Washington
   - Lake Washington
   - Washington State Route 522
-clockwise around lake washington: Kenmore, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237357"
 reddit: "https://www.reddit.com/r/lakeforestpark/"
 southwest corner: Olympic Hills, Seattle
