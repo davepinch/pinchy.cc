@@ -13,5 +13,6 @@ country of:
 openstreetmap: "https://www.openstreetmap.org/relation/192800"
 wikidata: "https://www.wikidata.org/wiki/Q115"
 tags:
+  - landlocked
   - country
 ---
