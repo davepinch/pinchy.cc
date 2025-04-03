@@ -16,11 +16,16 @@ sequence:
   - Laurelhurst, Seattle
   - Windermere, Seattle
   - Sand Point, Seattle
+  - Magnuson Park
   - Lake City, Seattle
   - Matthews Beach, Seattle
   - Cedar Park, Seattle
   - Lake Forest Park, Washington
+  - Lyon Creek Waterfront Preserve
   - Kenmore, Washington
+  - Log Boom Park
+  - Sammamish River
+  - Saint Edward State Park
   - Kirkland, Washington
   - Yarrow Point, Washington
   - Hunts Point, Washington
