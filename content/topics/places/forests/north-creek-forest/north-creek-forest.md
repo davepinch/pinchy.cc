@@ -1,7 +1,11 @@
 ---
 title: "North Creek Forest"
 county: The park is on the [King](/king-county/)/[Snohomish](/snohomish/) county line with parts of the forest above and below the line.
-forest of: North Creek
+forest of:
+  - North Creek
+  - King County, Washington
+  - Snohomish County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/way/105530865"
 park of: Bothell, Washington
 website: "https://www.friendsnorthcreekforest.org/"
