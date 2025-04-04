@@ -6,6 +6,7 @@ citation: >-
 history of:
   - Titlow Park
   - Fox Island
+license: CC BY-SA 4.0
 snippet of: Titlow Beach (Wikipedia)
 TODO: photograph remains of the ferry at Titlow Park/Beach
 type: snippet
