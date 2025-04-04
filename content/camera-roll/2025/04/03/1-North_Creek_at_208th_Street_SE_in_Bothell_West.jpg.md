@@ -8,10 +8,11 @@ license: CC BY 4.0
 north creek of: Bothell West, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/53/North_Creek_at_208th_Street_SE_in_Bothell_West.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/North_Creek_at_208th_Street_SE_in_Bothell_West.jpg/330px-North_Creek_at_208th_Street_SE_in_Bothell_West.jpg"
+type: picture
 url: /commons.wikimedia.org/wiki/North_Creek_at_208th_Street_SE_in_Bothell_West.jpg/
 vicinity of: Centennial Park
 website: "https://commons.wikimedia.org/wiki/File:North_Creek_at_208th_Street_SE_in_Bothell_West.jpg"
-type: picture
+when: 2025-04-03
 tags:
   - Wikimedia Commons
 ---
