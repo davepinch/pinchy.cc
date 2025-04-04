@@ -4,6 +4,9 @@ excerpt: >-
   Glacial erratic boulders of Snohomish County are large glacial erratic boulders of rock which were moved to Snohomish County, Washington by glacial action during previous ice ages.
 glacial erratics of: VISIT SOMEWHERE NEW
 license: CC BY-SA 4.0
+mention of:
+  - Airport Boulder
+  - Lake Stevens Erratic
 retrieved: 2025-04-03
 see also: Glacial erratic boulders of King County, Washington (Wikipedia)
 type: website
