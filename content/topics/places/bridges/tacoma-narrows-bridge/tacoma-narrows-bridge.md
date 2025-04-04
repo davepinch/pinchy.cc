@@ -1,6 +1,7 @@
 ---
 title: "Tacoma Narrows Bridge"
 bridge of:
+  - Tacoma Narrows
   - Puget Sound
   - Kitsap Peninsula
   - Tacoma, Washington
