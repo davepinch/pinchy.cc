@@ -4,6 +4,8 @@ excerpt: >-
   Glacial erratic boulders of King County are large glacial erratic boulders of rock which were moved into King County, Washington by glacial action during previous ice ages.
 glacial erratics of: VISIT SOMEWHERE NEW
 license: CC BY-SA 4.0
+mention of:
+  - Wedgwood Rock (Wikipedia)
 retrieved: 2025-04-03
 see also: Glacial erratic boulders of Snohomish County, Washington (Wikipedia)
 type: website
