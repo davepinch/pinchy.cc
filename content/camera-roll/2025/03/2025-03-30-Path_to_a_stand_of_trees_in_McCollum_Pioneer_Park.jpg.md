@@ -6,7 +6,7 @@ license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/19/Path_to_a_stand_of_trees_in_McCollum_Pioneer_Park.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Path_to_a_stand_of_trees_in_McCollum_Pioneer_Park.jpg/360px-Path_to_a_stand_of_trees_in_McCollum_Pioneer_Park.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Path_to_a_stand_of_trees_in_McCollum_Pioneer_Park.jpg
+url: /commons.wikimedia.org/wiki/Path_to_a_stand_of_trees_in_McCollum_Pioneer_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Path_to_a_stand_of_trees_in_McCollum_Pioneer_Park.jpg"
 when: 2025-03-30
 tags:
