@@ -1,6 +1,7 @@
 ---
 title: "Narrows Park"
 official website: "https://penmetparks.org/parks/narrows-park/"
+openstreetmap: "https://www.openstreetmap.org/way/30678710"
 park of:
   - Tacoma Narrows
   - Kitsap Peninsula
