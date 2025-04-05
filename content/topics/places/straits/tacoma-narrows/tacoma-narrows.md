@@ -1,5 +1,6 @@
 ---
 title: "Tacoma Narrows"
+openstreetmap: "https://www.openstreetmap.org/relation/13312640"
 strait of:
   - Puget Sound
   - Kitsap Peninsula
