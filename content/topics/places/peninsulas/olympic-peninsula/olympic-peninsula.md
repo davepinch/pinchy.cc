@@ -6,7 +6,7 @@ borders:
   - Strait of Juan de Fuca
   - Hood Canal
   - incomplete list
-pensinula of: Washington
+peninsula of: Washington
 near: Seattle
 state: Washington
 wikidata: "https://www.wikidata.org/wiki/Q780293"
