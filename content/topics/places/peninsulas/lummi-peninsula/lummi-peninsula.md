@@ -6,5 +6,6 @@ peninsula of:
 up the Pacific coast: Point Whitehorn
 tags:
   - peninsula
+  - no Wikidata record
   - no Wikipedia article
 ---
