@@ -7,7 +7,9 @@ park of:
   - Kitsap Peninsula
   - Wollochet, Washington
   - Pierce County, Washington
-vicinity of: Gig Harbor, Washington
+vicinity of:
+  - Gig Harbor, Washington
+  - Tacoma Narrows Bridge
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Narrows_Park"
 tags:
   - park
