@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, September 14). Laura Loomer. In *Wikipedia, The Free Encyclopedia*. Retrieved September 14, 2024, from https://en.wikipedia.org/w/index.php?title=Laura_Loomer&oldid=1245712529
 gavin newsom of: Laura Loomer
+license: CC BY-SA 4.0
 protest of: immigration
 snippet of: Laura Loomer (Wikipedia)
 type: snippet
