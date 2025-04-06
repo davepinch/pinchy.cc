@@ -1,8 +1,9 @@
 ---
-title: "Mark 9:47"
+title: "Matthew 18:9"
 similar to:
+  - "Mark 9:47"
   - "Matthew 5:29"
-  - "Matthew 18:9"
+verse of: Matthew 18
 tags:
   - verse of the Bible
 ---
