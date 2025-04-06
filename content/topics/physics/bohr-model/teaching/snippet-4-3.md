@@ -3,6 +3,7 @@ title: "the Bohr model is still commonly taught to introduce students to quantum
 citation: >-
   Wikipedia contributors. (2024, July 27). Bohr model. In *Wikipedia, The Free Encyclopedia*. Retrieved July 28, 2024, from https://en.wikipedia.org/w/index.php?title=Bohr_model&oldid=1236906194
 license: CC BY-SA 4.0
+related: "All models are wrong; some models are useful."
 snippet of: Bohr model (Wikipedia)
 teaching of: Bohr model
 type: snippet
