@@ -4,6 +4,7 @@ title: >-
 berlin of: Leonhard Euler
 citation: >-
   Wikipedia contributors. (2023, November 1). Leonhard Euler. In *Wikipedia, The Free Encyclopedia*. Retrieved November 8, 2023, from https://en.wikipedia.org/w/index.php?title=Leonhard_Euler&oldid=1183030259
+license: CC BY-SA 4.0
 snippet of: Leonhard Euler (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Leonhard_Euler/berlin-6-1/
