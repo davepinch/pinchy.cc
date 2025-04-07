@@ -1,5 +1,6 @@
 ﻿---
 title: "Dakota County Minnesota Incorporated and Unincorporated areas Eagan Highlighted.svg (Wikimedia Commons)"
+license: CC BY-SA 3.0
 location of:
   - Eagan, Minnesota
   - SVG
