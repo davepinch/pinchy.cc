@@ -1,8 +1,8 @@
 ---
-title: >-
-  He answered, “A wicked and adulterous generation asks for a sign! But none will be given it except the sign of the prophet Jonah.
-attribution: "Matthew 12:39 NIV"
+title: "Matthew 12:39 NIV"
 New International Version of: "Matthew 12:39"
+quote: >-
+  He answered, “A wicked and adulterous generation asks for a sign! But none will be given it except the sign of the prophet Jonah.
 type: quote
 tags:
   - quote
