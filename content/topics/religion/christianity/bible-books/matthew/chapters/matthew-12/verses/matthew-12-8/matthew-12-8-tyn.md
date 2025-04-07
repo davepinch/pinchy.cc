@@ -1,8 +1,9 @@
 ---
-title: "For ye sonne of man is lord even of ye saboth daye."
+title: "Matthew 12:8 TYN"
 attribution: "Matthew 12:8 TYN"
-Tyndale Bible of: "Matthew 12:8"
+quote: "For ye sonne of man is lord even of ye saboth daye."
 similar to: "Luke 6:5 TYN"
+Tyndale Bible of: "Matthew 12:8"
 type: quote
 tags:
   - quote
