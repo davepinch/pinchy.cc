@@ -1,5 +1,7 @@
 ---
 title: "Matthew 12:11 KJV"
+⬅️: "Matthew 12:10 KJV"
+➡️: "Matthew 12:12 KJV"
 attribution: "Matthew 12:11 KJV"
 King James Version of: "Matthew 12:11"
 quote: >-

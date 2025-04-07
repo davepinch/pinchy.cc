@@ -1,5 +1,7 @@
 ---
 title: "Matthew 12:36 KJV"
+⬅️: "Matthew 12:35 KJV"
+➡️: "Matthew 12:37 KJV"
 attribution: "Matthew 12:36 KJV"
 King James Version of: "Matthew 12:36"
 quote: >-

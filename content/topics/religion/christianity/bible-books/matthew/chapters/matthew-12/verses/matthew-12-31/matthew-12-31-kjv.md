@@ -1,5 +1,7 @@
 ---
 title: "Matthew 12:31 KJV"
+⬅️: "Matthew 12:30 KJV"
+➡️: "Matthew 12:32 KJV"
 attribution: "Matthew 12:31 KJV"
 King James Version of: "Matthew 12:31"
 quote: >-

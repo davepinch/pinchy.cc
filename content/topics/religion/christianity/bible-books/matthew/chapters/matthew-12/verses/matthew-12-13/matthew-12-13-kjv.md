@@ -1,5 +1,7 @@
 ---
 title: "Matthew 12:13 KJV"
+⬅️: "Matthew 12:12 KJV"
+➡️: "Matthew 12:14 KJV"
 attribution: "Matthew 12:13 KJV"
 King James Version of: "Matthew 12:13"
 quote: >-

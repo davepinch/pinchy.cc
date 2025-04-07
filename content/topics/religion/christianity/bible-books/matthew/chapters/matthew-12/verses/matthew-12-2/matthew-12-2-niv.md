@@ -1,5 +1,7 @@
 ---
 title: "Matthew 12:2 NIV"
+⬅️: "Matthew 12:1 NIV"
+➡️: "Matthew 12:3 NIV"
 attribution: "Matthew 12:2 NIV"
 New International Version of: "Matthew 12:2"
 quote: >-

@@ -1,5 +1,7 @@
 ---
 title: "Matthew 12:12 KJV"
+⬅️: "Matthew 12:11 KJV"
+➡️: "Matthew 12:13 KJV"
 attribution: "Matthew 12:12 KJV"
 human being of: sheep
 King James Version of: "Matthew 12:12"

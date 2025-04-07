@@ -1,5 +1,7 @@
 ---
 title: "Matthew 12:43 NIV"
+⬅️: "Matthew 12:42 NIV"
+➡️: "Matthew 12:44 NIV"
 attribution: "Matthew 12:43 NIV"
 New International Version of: "Matthew 12:43"
 quote: >-

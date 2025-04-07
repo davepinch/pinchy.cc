@@ -1,5 +1,7 @@
 ---
 title: "Matthew 12:48 KJV"
+⬅️: "Matthew 12:47 KJV"
+➡️: "Matthew 12:49 KJV"
 attribution: "Matthew 12:48 KJV"
 King James Version of: "Matthew 12:48"
 quote: >-

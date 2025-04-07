@@ -1,5 +1,7 @@
 ---
 title: "Matthew 12:15 KJV"
+⬅️: "Matthew 12:14 KJV"
+➡️: "Matthew 12:16 KJV"
 attribution: "Matthew 12:15 KJV"
 King James Version of: "Matthew 12:15"
 quote: >-
