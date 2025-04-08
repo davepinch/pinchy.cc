@@ -1,5 +1,5 @@
 ---
-attribution: "Matthew 12:44 KJV"
+title: "Matthew 12:44 KJV"
 ⬅️: "Matthew 12:43 KJV"
 ➡️: "Matthew 12:45 KJV"
 attribution: "Matthew 12:44 KJV"
