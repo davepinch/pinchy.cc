@@ -2,7 +2,7 @@
 title: "Wollochet Bay"
 bay of:
   - Puget Sound
-  - Kitsap Pensinsula
+  - Kitsap Peninsula
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/13312657"
