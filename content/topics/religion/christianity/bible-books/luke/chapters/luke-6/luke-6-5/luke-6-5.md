@@ -1,6 +1,6 @@
 ---
 title: "Luke 6:5"
-similar to: -
+similar to:
   - "Mark 2:28"
   - "Matthew 12:8"
 verse of: Luke 6
