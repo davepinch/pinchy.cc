@@ -6,7 +6,7 @@ chrysostom of: "Matthew 12:8"
 commentary of: John Chrysostom
 license: public domain
 type: snippet
-url: /en.wikipedia.org/wiki/Matthew_12:8/commentary-from-the-church-fathers-1/
+url: /en.wikipedia.org/wiki/Matthew_12_8/commentary-from-the-church-fathers-1/
 tags:
   - snippet
 ---

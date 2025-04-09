@@ -5,7 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2025-04-06
 type: website
-url: /en.wikipedia.org/wiki/Matthew_12:8/
+url: /en.wikipedia.org/wiki/Matthew_12_8/
 website: "https://en.wikipedia.org/wiki/Matthew_12:8"
 wikipedia of: "Matthew 12:8"
 tags:
