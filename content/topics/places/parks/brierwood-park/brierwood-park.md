@@ -1,6 +1,6 @@
 ---
 title: "Brierwood Park"
-near Bothell of: VISIT SOMEWHERE NEW
+quick trip from Bothell of: VISIT SOMEWHERE NEW
 openstreetmap: "https://www.openstreetmap.org/way/400928846"
 park of:
   - Brier, Washington

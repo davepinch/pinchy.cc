@@ -5,9 +5,9 @@ openstreetmap: "https://www.openstreetmap.org/way/1060931502"
 park of:
   - Martha Lake, Washington
   - Snohomish County, Washington
+quick trip from Bothell of: VISIT SOMEWHERE NEW
 tags:
   - arboretum
   - park
-  - VISIT SOMEWHERE NEW
   - no Wikidata record
 ---
