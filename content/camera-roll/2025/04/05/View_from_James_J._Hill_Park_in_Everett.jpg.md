@@ -1,6 +1,7 @@
 ---
 title: "View from James J. Hill Park in Everett.jpg (Wikimedia Commons)"
 author: David Pinch
+bridge: "https://www.openstreetmap.org/way/92458277"
 description: >-
   This is the view of the railroad tracks along James J. Hill Park in Everett, Washington. The park is very small but nice, and I found this view to be interesting. On the left side, mostly out of view, is a bridge (Broadway Avenue) that crosses the railroad tracks.
 license: CC BY 4.0
