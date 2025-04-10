@@ -14,7 +14,7 @@ map of:
   - Uruk
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/12/Hammurabi%27s_Babylonia_1.svg"
 type: picture
-url: /commons.wikimedia.org/wiki/Hammurabi%27s_Babylonia_1.svg/
+url: /commons.wikimedia.org/wiki/Hammurabis_Babylonia_1.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hammurabi%27s_Babylonia_1.svg"
 tags:
   - map
