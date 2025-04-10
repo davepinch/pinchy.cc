@@ -10,5 +10,4 @@ wikidata: "https://www.wikidata.org/wiki/Q64623477"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Scriber_Creek_Park"
 tags:
   - park
-  - VISIT SOMEWHERE NEW
 ---
