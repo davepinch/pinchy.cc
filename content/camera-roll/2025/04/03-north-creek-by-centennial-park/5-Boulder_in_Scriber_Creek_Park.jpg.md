@@ -11,7 +11,7 @@ possibly a glacial erratic of: Lynnwood, Washington
 possibly of: glacial erratic
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Boulder_in_Scriber_Creek_Park.jpg/330px-Boulder_in_Scriber_Creek_Park.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Boulder_in_Scriber_Creek_Park.jpg/
+url: /commons.wikimedia.org/wiki/Boulder_in_Scriber_Creek_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Boulder_in_Scriber_Creek_Park.jpg"
 tags:
   - Wikimedia Commons
