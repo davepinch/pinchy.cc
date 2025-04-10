@@ -6,6 +6,9 @@ description: >-
 license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/92/Two_trees_near_James_J._Hill_Park.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Two_trees_near_James_J._Hill_Park.jpg/500px-Two_trees_near_James_J._Hill_Park.jpg"
+trees on OpenStreetMap:
+  - "https://www.openstreetmap.org/node/11778619736"
+  - "https://www.openstreetmap.org/node/11778619737"
 two trees of:
   - James J. Hill Park
   - Everett, Washington
