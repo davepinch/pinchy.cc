@@ -1,6 +1,7 @@
 ---
 title: "Boulder in Scriber Creek Park.jpg (Wikimedia Commons)"
 ⬅️: Downstream as North Creek enters Centennial Park.jpg (Wikimedia Commons)
+➡️: Tangled branches in Scriber Creek Park.jpg (Wikimedia Commons)
 author: David Pinch
 boulder of: Scriber Creek Park
 description: "This boulder near the parking lot of Scriber Creek Park looks like a glacial erratic (not confirmed). Please update this description when investigated."
