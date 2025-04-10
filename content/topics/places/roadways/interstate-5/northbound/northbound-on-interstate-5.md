@@ -9,7 +9,11 @@ sequence:
   - Lynnwood, Washington
   - North Lynnwood, Washington
   - Everett, Washington
+  - Snohomish River
+  - Union Slough
+  - Steamboat Slough
   - Marysville, Washington
+  - Ebey Slough
   - Smokey Point, Washington
   - Smokey Point Rest Area Northbound
   - River Rock Tobacco & Fuel
