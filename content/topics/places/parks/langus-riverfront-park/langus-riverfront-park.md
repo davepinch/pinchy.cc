@@ -6,7 +6,6 @@ park of:
   - Everett, Washington
   - Snohomish County, Washington
   - Snohomish River
-  - Union Slough
 tags:
   - park
   - no Wikidata record
