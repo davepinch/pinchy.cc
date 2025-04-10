@@ -18,7 +18,10 @@ sequence:
   - Smokey Point Rest Area Southbound
   - Smokey Point, Washington
   - Marysville, Washington
+  - Ebey Slough
+  - Steamboat Slough
   - Everett, Washington
+  - Union Slough
   - Snohomish River
   - North Lynnwood, Washington
   - Lynnwood, Washington
