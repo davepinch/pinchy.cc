@@ -1,5 +1,6 @@
 ---
 title: "Ebey Slough"
+connected to: Steamboat Slough
 openstreetmap: "https://www.openstreetmap.org/relation/14422352"
 slough of:
   - Snohomish River
