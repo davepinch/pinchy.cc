@@ -1,5 +1,6 @@
 ---
 title: "View from James J. Hill Park in Everett.jpg (Wikimedia Commons)"
+⬅️: "Two trees near James J. Hill Park.jpg (Wikimedia Commons)"
 author: David Pinch
 bridge: "https://www.openstreetmap.org/way/92458277"
 description: >-
