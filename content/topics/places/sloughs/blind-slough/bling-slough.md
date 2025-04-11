@@ -1,5 +1,6 @@
 ---
 title: "Blind Slough"
+around Everett of: VISIT SOMEWHERE NEW
 openstreetmap: "https://www.openstreetmap.org/way/541956025"
 slough of:
   - Langus Riverfront Park
@@ -11,5 +12,4 @@ tags:
   - slough
   - no Wikidata record
   - no Wikipedia article
-  - VISIT SOMEWHERE NEW
 ---

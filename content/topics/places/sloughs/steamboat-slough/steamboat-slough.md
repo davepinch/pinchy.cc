@@ -1,5 +1,6 @@
 ---
 title: "Steamboat Slough"
+around Everett of: VISIT SOMEWHERE NEW
 connected to:
   - Ebey Slough
   - Union Slough
