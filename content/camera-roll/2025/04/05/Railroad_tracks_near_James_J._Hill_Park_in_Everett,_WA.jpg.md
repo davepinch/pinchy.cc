@@ -1,5 +1,6 @@
 ---
 title: "Railroad tracks near James J. Hill Park in Everett, WA.jpg (Wikimedia Commons)"
+⬅️: "Looking downstream on the Sammamish River from the 102nd Ave NE bridge.jpg (Wikimedia Commons)"
 ➡️: "Two trees near James J. Hill Park.jpg (Wikimedia Commons)"
 author: David Pinch
 bridge: "https://www.openstreetmap.org/way/92458277"
