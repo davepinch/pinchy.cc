@@ -1,5 +1,6 @@
 ---
 title: "Conway railway station"
+conway, washington of: BNSF Bellingham Subdivision
 photograph of:
   - building
   - railway
