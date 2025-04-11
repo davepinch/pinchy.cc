@@ -19,9 +19,12 @@ sequence:
   - Smokey Point, Washington
   - Marysville, Washington
   - Ebey Slough
+  - North Ebey Island
   - Steamboat Slough
   - Everett, Washington
+  - North Spencer Island
   - Union Slough
+  - Smith Island
   - Snohomish River
   - North Lynnwood, Washington
   - Lynnwood, Washington
