@@ -21,7 +21,7 @@ sequence:
   - Conway, Washington
   - Conway railway station #camera-roll
   - Snohomish County, Washington
-# - Stanwood, Washington
+  - Stanwood, Washington
   - Stillaguamish River
 # - Cook Slough
 # - Portage Creek
