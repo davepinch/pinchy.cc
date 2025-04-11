@@ -1,6 +1,7 @@
 ---
 title: "Three Fingers"
 mountain of:
+  - Cascade Range
   - Snohomish County, Washington
   - Washington
   - hand
