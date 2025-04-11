@@ -1,5 +1,9 @@
 ---
 title: "Ebey Waterfront Park"
+LOOK AROUND:
+  - BNSF Bellingham Subdivision
+  - North Ebey Island
+  - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/way/290487904"
 park of:
   - Ebey Slough
