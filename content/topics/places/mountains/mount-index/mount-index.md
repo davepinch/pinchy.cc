@@ -1,5 +1,6 @@
 ---
 title: "Mount Index"
+along Highway 2 of: VISIT SOMEWHERE NEW
 mountain of:
   - Cascade Range
   - King County, Washington
