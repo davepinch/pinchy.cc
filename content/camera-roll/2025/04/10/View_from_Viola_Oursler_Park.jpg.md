@@ -7,7 +7,12 @@ description: >-
 in the distance of:
   - Mount Pilchuck
   - Three Fingers
+  - Whitehorse Mountain
 license: CC BY 4.0
+prominent mountains in this picture:
+  - Mount Pilchuck is the primnent dark mountain in the center.
+  - Three Fingers is the prominent white peak about halfway to the left of Mount Pilchuck.
+  - Whitehorse Mountain the splotchy dark and light peak to the left of Three Fingers.
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5b/View_from_Viola_Oursler_Park.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/View_from_Viola_Oursler_Park.jpg/330px-View_from_Viola_Oursler_Park.jpg"
 type: picture
