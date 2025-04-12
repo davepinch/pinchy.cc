@@ -6,6 +6,7 @@ lake of:
   - Snohomish County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/16680239"
+vantage point of: Mount Index
 wikidata: "https://www.wikidata.org/wiki/Q24884203"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Serene"
 tags:

@@ -7,6 +7,7 @@ trail of:
   - Cascade Range
   - Snohomish County, Washington
   - Washington
+vantage point of: Mount Index
 tags:
   - trail
   - no Wikidata record
