@@ -3,6 +3,7 @@ title: "Baring Mountain"
 mountain of:
   - Cascade Range
   - Mount Baker–Snoqualmie National Forest
+  - Wild Sky Wilderness
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/349018479"
