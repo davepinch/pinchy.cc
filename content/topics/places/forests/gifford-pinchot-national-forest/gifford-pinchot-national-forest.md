@@ -3,6 +3,7 @@ title: "Gifford Pinchot National Forest"
 national forest of:
   - United States
   - Pacific Northwest
+  - Cascade Range
   - Washington
   - Skamania County, Washington
   - Lewis County, Washington
