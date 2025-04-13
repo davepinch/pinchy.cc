@@ -1,12 +1,12 @@
 ---
 title: "Silvertip Peak"
 mountain of:
-  - Mount Baker–Snoqualmie National Forest
-  - Henry M. Jackson Wilderness
-  - Cascade Range
   - Snohomish County, Washington
+  - Henry M. Jackson Wilderness
+  - Mount Baker–Snoqualmie National Forest
   - Washington
   - Pacific Northwest
+  - Cascade Range
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/348999601"
 wikidata: "https://www.wikidata.org/wiki/Q49074010"

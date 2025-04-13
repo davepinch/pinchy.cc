@@ -5,8 +5,8 @@ mountain of:
   - Snohomish County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Washington
-  - Cascade Range
   - Pacific Northwest
+  - Cascade Range
   - United States
 note: This page is for Bald Mountain in Snohomish County. Washington has about 15 peaks named Bald Mountain, according to https://en.wikipedia.org/wiki/Bald_Mountain_(Washington). Wikipedia does not have a page specific to this peak.
 openstreetmap: "https://www.openstreetmap.org/node/348999584"

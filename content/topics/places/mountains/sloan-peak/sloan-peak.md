@@ -1,12 +1,12 @@
 ---
 title: "Sloan Peak"
 mountain of:
-  - Cascade Range
+  - Snohomish County, Washington
   - Henry M. Jackson Wilderness
   - Mount Baker–Snoqualmie National Forest
-  - Snohomish County, Washington
   - Washington
   - Pacific Northwest
+  - Cascade Range
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/356546463"
 wikidata: "https://www.wikidata.org/wiki/Q3486736"

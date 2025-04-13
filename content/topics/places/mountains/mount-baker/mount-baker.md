@@ -1,8 +1,13 @@
 ---
 title: "Mount Baker"
 mountain of:
-  - Cascade Range
   - Whatcom County, Washington
+  - Mount Baker Wilderness
+  - Mount Baker–Snoqualmie National Forest
+  - Washington
+  - Pacific Northwest
+  - Cascade Range
+  - United States
 near:
   - Bellingham, Washington
   - Mount Shuksan

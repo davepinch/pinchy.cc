@@ -2,8 +2,12 @@
 title: "Denny Mountain"
 mountain of:
   - Alpine Lakes Wilderness
-  - Cascade Range
   - King County, Washington
+  - Mount Baker–Snoqualmie National Forest
+  - Washington
+  - Pacific Northwest
+  - Cascade Range
+  - United States
 near: Low Mountain
 openstreetmap: "https://www.openstreetmap.org/node/349018502"
 vicinity of: Snoqualmie Pass

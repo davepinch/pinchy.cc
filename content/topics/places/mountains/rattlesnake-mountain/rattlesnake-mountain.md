@@ -1,8 +1,12 @@
 ---
 title: "Rattlesnake Mountain"
 mountain of:
+  - Raging River State Forest
   - King County, Washington
   - Washington
+  - Pacific Northwest
+  - Cascade Range
+  - United States
 note: There is no Wikipedia article specific to Rattlesnake Mountain, but there is an article for Rattlesnake Ridge.
 openstreetmap:
   - "https://www.openstreetmap.org/node/4966195773 (west peak)"

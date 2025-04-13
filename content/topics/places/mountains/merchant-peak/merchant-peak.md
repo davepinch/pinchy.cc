@@ -1,11 +1,13 @@
 ---
 title: "Merchant Peak"
 mountain of:
-  - Cascade Range
   - Wild Sky Wilderness
   - Mount Baker–Snoqualmie National Forest
   - Snohomish County, Washington
   - Washington
+  - Pacific Northwest
+  - Cascade Range
+  - United States
 openstreetmap:
   - "https://www.openstreetmap.org/node/6652130505 (Northwest)"
   - "https://www.openstreetmap.org/node/348999581 (Southeast)"
