@@ -1,7 +1,7 @@
 ---
 title: "Hurricane Ridge"
 mountain of:
-  - Clallum County, Washington
+  - Clallam County, Washington
   - Olympic National Park
   - Olympic Mountains
   - Olympic Peninsula
