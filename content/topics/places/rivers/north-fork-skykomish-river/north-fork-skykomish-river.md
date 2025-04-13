@@ -3,6 +3,7 @@ title: "North Fork Skykomish River"
 openstreetmap: "https://www.openstreetmap.org/relation/14650668"
 river of:
   - Mount Baker–Snoqualmie National Forest
+  - Wild Sky Wilderness
   - Snohomish County, Washington
   - King County, Washington
 north fork of: Skykomish River
