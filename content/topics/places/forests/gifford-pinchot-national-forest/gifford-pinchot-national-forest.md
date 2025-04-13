@@ -2,6 +2,7 @@
 title: "Gifford Pinchot National Forest"
 national forest of:
   - United States
+  - United States Forest Service
   - Pacific Northwest
   - Cascade Range
   - Washington
