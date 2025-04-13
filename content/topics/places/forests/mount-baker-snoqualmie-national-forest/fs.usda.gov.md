@@ -4,6 +4,7 @@ excerpt: "Located on the west side of the Cascades between the Canadian border a
 official website of: Mount Baker–Snoqualmie National Forest
 type: website
 url: /www.fs.usda.gov/mbs/
+webpage of: United States Forest Service
 website: "https://www.fs.usda.gov/mbs"
 tags:
   - website
