@@ -2,6 +2,7 @@
 title: "Smokey Point, Washington (Wikipedia)"
 excerpt: >-
   **Smokey Point** is a community and former census-designated place in northern [Snohomish County](/en.wikipedia.org/wiki/Snohomish_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/). The area, developed as a suburban bedroom community in the late 20th century, was annexed into the nearby cities of Arlington and [Marysville](/en.wikipedia.org/wiki/Marysville,_Washington/) in the 1990s and 2000s.
+license: CC BY-SA 4.0
 retrieved: 2024-01-06
 TODO: categorize this - is this a neighborhood now?
 type: website
