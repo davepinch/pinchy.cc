@@ -12,7 +12,7 @@ vantage point of:
   - Sloan Peak
   - Mount Dickerman
   - Mount Pugh
-  - Mount Ranier
+  - Mount Rainier
   - Mount Stuart
   - Mount Adams
 tags:
