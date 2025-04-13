@@ -2,6 +2,7 @@
 title: "Gifford Pinchot National Forest"
 national forest of:
   - Washington
+  - Pacific Northwest
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/8162013"
 wikidata: "https://www.wikidata.org/wiki/Q670490"
