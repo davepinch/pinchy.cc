@@ -10,5 +10,6 @@ snippet of: Gifford Pinchot National Forest (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Gifford_Pinchot_National_Forest/geography-1-1/
 tags:
+  - location
   - snippet
 ---

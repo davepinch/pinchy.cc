@@ -10,5 +10,6 @@ snippet of: Mount Pilchuck (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Mount_Pilchuck/location-2-1/
 tags:
+  - location
   - snippet
 ---
