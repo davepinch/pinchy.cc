@@ -2,6 +2,11 @@
 title: "Scratchpad"
 draft: true
 ---
+
+4/13/25
+https://www.microsoft.com/en-us/edge/microsoft-50th-anniversary?form=MT00YS&channel=stable&version=135.0.3179.73&cs=581831490
+
+
 Trump and Musk will try to tear down institutions but no matter how hard they try, they’ll never have control over the culture. Artists and creatives will never embrace that side in full effect no matter how desperately they want to control it
 https://www.reddit.com/r/Fauxmoi/comments/1iornu0/issa_rae_announces_that_she_has_canceled_her_an/
 
