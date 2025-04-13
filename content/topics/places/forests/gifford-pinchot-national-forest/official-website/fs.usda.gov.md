@@ -5,9 +5,9 @@ excerpt: >-
 official website of: Gifford Pinchot National Forest
 retrieved: 2025-04-12
 type: website
-url: /www.fs.usda.gov/detail/giffordpinchot/
+url: /www.fs.usda.gov/giffordpinchot/
 webpage of: United States Forest Service
-website: "https://www.fs.usda.gov/detail/giffordpinchot/"
+website: "https://www.fs.usda.gov/giffordpinchot"
 tags:
   - website
 ---
