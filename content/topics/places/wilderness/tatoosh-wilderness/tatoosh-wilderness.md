@@ -4,7 +4,7 @@ borders:
   - Mount Rainier National Park
   - Mount Rainier Wilderness
 openstreetmap: "https://www.openstreetmap.org/relation/6109264"
-vicinity of: Mount Ranier
+vicinity of: Mount Rainier
 wikidata: "https://www.wikidata.org/wiki/Q3516078"
 wikipedia: "https://en.wikipedia.org/wiki/Tatoosh_Wilderness"
 wilderness area of:
