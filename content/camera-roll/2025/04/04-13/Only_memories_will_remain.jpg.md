@@ -14,6 +14,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Only_memor
 type: picture
 url: /commons.wikimedia.org/wiki/Only_memories_will_remain.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Only_memories_will_remain.jpg"
+when: 2025-04-13
 tags:
   - Wikimedia Commons
 ---

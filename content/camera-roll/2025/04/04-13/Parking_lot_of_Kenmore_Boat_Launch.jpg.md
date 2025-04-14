@@ -11,6 +11,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Parking_lo
 type: picture
 url: /commons.wikimedia.org/wiki/Parking_lot_of_Kenmore_Boat_Launch.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Parking_lot_of_Kenmore_Boat_Launch.jpg"
+when: 2025-04-13
 tags:
   - Wikimedia Commons
 ---

@@ -12,6 +12,7 @@ website: "https://commons.wikimedia.org/wiki/File:Wetland_near_Kenmore_Boat_Laun
 wetland of:
   - Kenmore Boat Launch
   - Kenmore, Washington
+when: 2025-04-13
 tags:
   - Wikimedia Commons
 ---

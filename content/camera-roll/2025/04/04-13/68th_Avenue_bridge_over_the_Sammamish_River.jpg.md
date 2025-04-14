@@ -13,6 +13,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/68th_Avenu
 type: picture
 url: /commons.wikimedia.org/wiki/68th_Avenue_bridge_over_the_Sammamish_River.jpg/
 website: "https://commons.wikimedia.org/wiki/File:68th_Avenue_bridge_over_the_Sammamish_River.jpg"
+when: 2025-04-13
 tags:
   - Wikimedia Commons
 ---

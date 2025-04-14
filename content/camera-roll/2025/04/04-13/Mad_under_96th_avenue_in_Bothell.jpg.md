@@ -17,6 +17,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Mad_under_
 type: picture
 url: /commons.wikimedia.org/wiki/Mad_under_96th_avenue_in_Bothell.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Mad_under_96th_avenue_in_Bothell.jpg"
+when: 2025-04-13
 tags:
   - Wikimedia Commons
 ---
