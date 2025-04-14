@@ -7,7 +7,6 @@ state park of:
   - Camano Island
   - Island County, Washington
   - Washington
-state park of: Washington
 wikidata: "https://www.wikidata.org/wiki/Q5024893"
 wikipedia: "https://en.wikipedia.org/wiki/Cama_Beach_State_Park"
 tags:
