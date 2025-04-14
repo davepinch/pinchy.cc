@@ -4,7 +4,7 @@ graffiti of: memory
 license: public domain
 only memories will remain of:
   - graffiti
-  - author unknown
+  - artist unknown
   - Former Wayne Golf Course
   - Sammamish River
   - Bothell, Washington
