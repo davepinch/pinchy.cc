@@ -1,12 +1,11 @@
 ---
 title: "James J. Hill Park"
 openstreetmap: "https://www.openstreetmap.org/way/541640697"
-park of:
+city park of:
   - Everett, Washington
   - Snohomish County, Washington
-  - Washington
 tags:
-  - park
+  - city park
   - no Wikidata record
   - no Wikipedia article
 ---
