@@ -11,5 +11,4 @@ wikidata: "https://www.wikidata.org/wiki/Q944329"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Rainier_National_Park"
 tags:
   - national park
-  - park
 ---
