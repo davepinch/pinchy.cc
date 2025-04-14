@@ -14,6 +14,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Railroad_tracks_near_James_J._Hill_Park_in_Everett,_WA.jpg/
 vicinity of: James J. Hill Park
 website: "https://commons.wikimedia.org/wiki/File:Railroad_tracks_near_James_J._Hill_Park_in_Everett,_WA.jpg"
+when: 2025-04-05
 tags:
   - BNSF Scenic Subdivision
   - Wikimedia Commons

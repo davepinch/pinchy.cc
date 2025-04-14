@@ -14,6 +14,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Textures_a
 type: picture
 url: /commons.wikimedia.org/wiki/Textures_at_Langus_Riverfront_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Textures_at_Langus_Riverfront_Park.jpg"
+when: 2025-04-10
 tags:
   - Wikimedia Commons
 ---

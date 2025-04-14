@@ -14,6 +14,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Tacoma_Nar
 type: picture
 url: /commons.wikimedia.org/wiki/Tacoma_Narrows_Bridge_from_Narrows_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Tacoma_Narrows_Bridge_from_Narrows_Park.jpg"
+when: 2025-04-04
 tags:
   - Wikimedia Commons
 ---

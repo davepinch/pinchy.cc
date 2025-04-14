@@ -9,6 +9,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Smith_Isla
 type: picture
 url: /commons.wikimedia.org/wiki/Smith_Island_Road_along_Langus_Riverfront_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Smith_Island_Road_along_Langus_Riverfront_Park.jpg"
+when: 2025-04-10
 tags:
   - Wikimedia Commons
 ---

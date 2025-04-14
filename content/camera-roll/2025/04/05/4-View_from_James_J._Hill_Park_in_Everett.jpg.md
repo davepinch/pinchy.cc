@@ -14,6 +14,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/77/View_from_
 type: picture
 url: /commons.wikimedia.org/wiki/View_from_James_J._Hill_Park_in_Everett.jpg/
 website: "https://commons.wikimedia.org/wiki/File:View_from_James_J._Hill_Park_in_Everett.jpg"
+when: 2025-04-05
 tags:
   - Wikimedia Commons
 ---

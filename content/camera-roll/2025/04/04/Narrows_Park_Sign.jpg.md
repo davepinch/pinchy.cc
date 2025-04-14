@@ -9,6 +9,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Narrows_Pa
 type: picture
 url: /commons.wikimedia.org/wiki/Narrows_Park_Sign.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Narrows_Park_Sign.jpg"
+when: 2025-04-04
 tags:
   - Wikimedia Commons
 ---

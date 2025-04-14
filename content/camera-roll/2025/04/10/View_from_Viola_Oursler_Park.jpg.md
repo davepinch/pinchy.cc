@@ -19,6 +19,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/View_from_Viola_Oursler_Park.jpg/
 view of: Viola Oursler Park
 website: "https://commons.wikimedia.org/wiki/File:View_from_Viola_Oursler_Park.jpg"
+when: 2025-04-10
 tags:
   - Wikimedia Commons
 ---

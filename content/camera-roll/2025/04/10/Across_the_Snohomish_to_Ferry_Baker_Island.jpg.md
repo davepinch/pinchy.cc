@@ -11,6 +11,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Across_the
 type: picture
 url: /commons.wikimedia.org/wiki/Across_the_Snohomish_to_Ferry_Baker_Island.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Across_the_Snohomish_to_Ferry_Baker_Island.jpg"
+when: 2025-04-10
 tags:
   - picture
 ---

@@ -17,6 +17,7 @@ two trees of:
 type: picture
 url: /commons.wikimedia.org/wiki/Two_trees_near_James_J._Hill_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Two_trees_near_James_J._Hill_Park.jpg"
+when: 2025-04-05
 tags:
   - Wikimedia Commons
 ---
