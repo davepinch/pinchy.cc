@@ -5,10 +5,11 @@ park of:
   - Bothell, Washington
   - King County, Washington
   - Sammamish River
-  - Sammamish River Trail
-near:
   - Burke–Gilman Trail
+near:
+  - Former Wayne Golf Course
   - Red Brick Road Park
+  - Sammamish River Park
   - Sammamish River Trail
   - Tolt Pipeline Trail
 openstreetmap: "https://www.openstreetmap.org/way/158249867"
