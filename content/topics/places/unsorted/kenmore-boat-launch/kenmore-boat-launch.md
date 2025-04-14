@@ -6,6 +6,7 @@ boat launch of:
   - Sammamish River
   - Lake Washington
 official website: "https://wdfw.wa.gov/places-to-go/water-access-sites/30250"
+openstreetmap: "https://www.openstreetmap.org/node/697303597"
 tags:
   - boat launch
 ---
