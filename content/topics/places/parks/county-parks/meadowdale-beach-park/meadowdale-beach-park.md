@@ -1,11 +1,12 @@
 ---
 title: "Meadowdale Beach Park"
-openstreetmap: "https://www.openstreetmap.org/way/231095743"
-park of:
+county park of:
+  - Snohomish County, Washington
   - Meadowdale, Washington
   - Possession Sound
   - Browns Bay
+openstreetmap: "https://www.openstreetmap.org/way/231095743"
 tags:
-  - park
+  - county park
   - no Wikidata record
 ---
