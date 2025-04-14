@@ -3,6 +3,7 @@ title: >-
   Golden Gardens has exceptional views of Puget Sound and the Olympic Mountains across the sound.
 citation: >-
   Wikipedia contributors. (2024, January 22). Golden Gardens Park. In *Wikipedia, The Free Encyclopedia*. Retrieved March 17, 2024, from https://en.wikipedia.org/w/index.php?title=Golden_Gardens_Park&oldid=1198085361
+license: CC BY-SA 4.0
 LOOK AROUND of: Golden Gardens Park
 snippet of: Golden Gardens Park (Wikipedia)
 type: snippet
