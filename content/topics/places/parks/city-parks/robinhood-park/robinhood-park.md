@@ -1,8 +1,10 @@
 ---
 title: "Robinhood Park"
+city park of:
+  - Maplewood, Minnesota
+  - Ramsey County, Minnesota
 openstreetmap: "https://www.openstreetmap.org/way/469684641"
-park of: Maplewood, Minnesota
 wikidata: "https://www.wikidata.org/wiki/Q49552238"
 tags:
-  - park
+  - city park
 ---
