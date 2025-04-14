@@ -1,7 +1,7 @@
 ---
 title: "Spire Mountain"
 mountain of:
-  - Snohomoish County, Washington
+  - Snohomish County, Washington
   - Wild Sky Wilderness
   - Mount Baker–Snoqualmie National Forest
   - Washington
