@@ -1,12 +1,13 @@
 ---
 title: "Marymoor Park"
-openstreetmap: "https://www.openstreetmap.org/relation/6641326"
-park of:
+county park of:
+  - King County, Washington
   - Redmond, Washington
   - Lake Sammamish
   - Sammamish River Trail
+openstreetmap: "https://www.openstreetmap.org/relation/6641326"
 wikidata: "https://www.wikidata.org/wiki/Q6781612"
 tags:
-  - park
+  - county park
   - music venue
 ---
