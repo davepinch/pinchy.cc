@@ -1,7 +1,10 @@
 ---
 title: "Olympic National Park"
 openstreetmap: "https://www.openstreetmap.org/relation/163769"
-park of: Olympic Peninsula
+national park of:
+  - Olympic Peninsula
+  - Washington
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q372093"
 tags:
   - national park
