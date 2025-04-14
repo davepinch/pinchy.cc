@@ -9,7 +9,7 @@ mention of:
   - Intel 8080
   - PDP-10
   - shift register
-  - Space War
+  - SpaceWar!
   - VisiCalc
 oral history of: Intel 8008
 pdf: "https://archive.computerhistory.org/resources/text/Oral_History/Intel_8008/Intel_8008_1.oral_history.2006.102657982.pdf"
