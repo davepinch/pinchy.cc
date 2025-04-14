@@ -1,15 +1,14 @@
 ---
 title: "Gas Works Park"
-borders:
-  - Lake Union
-  - incomplete list
-openstreetmap: "https://www.openstreetmap.org/relation/1047789"
-park of:
+city park of:
   - Northlake, Seattle
   - Wallingford, Seattle
   - Seattle
+  - King County, Washington
+  - Lake Union
+openstreetmap: "https://www.openstreetmap.org/relation/1047789"
 wikidata: "https://www.wikidata.org/wiki/Q5526323"
 tags:
-  - park
+  - city park
   - music venue
 ---
