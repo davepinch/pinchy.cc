@@ -1,5 +1,6 @@
 ---
 title: "Deming Homestead Eagle Park"
+official website: "https://www.whatcomcounty.us/3613/Deming-Homestead-Eagle-Park"
 openstreetmap: "https://www.openstreetmap.org/way/396943492"
 park of:
   - Deming, Washington
