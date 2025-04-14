@@ -8,6 +8,9 @@ mallard duck of:
   - Rhododendron Park
   - Sammamish River
   - Kenmore, Washington
+photograph of:
+  - duck
+  - river
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/80/Mallard_at_Rhododendron_Park_in_Kenmore%2C_WA.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Mallard_at_Rhododendron_Park_in_Kenmore%2C_WA.jpg/330px-Mallard_at_Rhododendron_Park_in_Kenmore%2C_WA.jpg"
 type: picture
