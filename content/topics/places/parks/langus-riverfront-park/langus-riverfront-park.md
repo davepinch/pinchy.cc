@@ -1,5 +1,6 @@
 ---
 title: "Langus Riverfront Park"
+official website: "https://www.everettwa.gov/facilities/facility/details/Langus-Riverfront-Park-27"
 openstreetmap: "https://www.openstreetmap.org/way/37230312"
 park of:
   - Smith Island
