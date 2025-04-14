@@ -1,7 +1,7 @@
 ---
 title: "Blyth Park"
 address: 16950 W Riverside Dr, Bothell, WA
-park of:
+city park of:
   - Bothell, Washington
   - King County, Washington
   - Sammamish River
@@ -15,6 +15,6 @@ near:
 openstreetmap: "https://www.openstreetmap.org/way/158249867"
 quick trip from Bothell of: VISIT SOMEWHERE NEW
 tags:
-  - park
+  - city park
   - no Wikidata record
 ---
