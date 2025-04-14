@@ -1,5 +1,5 @@
 ---
-title: "Mount Pilchuck Trial"
+title: "Mount Pilchuck Trail"
 openstreetmap: "https://www.openstreetmap.org/way/37583693"
 trail of:
   - Mount Pilchuck
