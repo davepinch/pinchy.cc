@@ -1,12 +1,12 @@
 ---
 title: "Centennial Park"
-openstreetmap: "https://www.openstreetmap.org/way/481523213"
-park of:
+city park of:
   - Bothell, Washington
   - Snohomish County, Washington
+openstreetmap: "https://www.openstreetmap.org/way/481523213"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Centennial_Park_(Bothell)"
 tags:
-  - park
+  - city park
   - no Wikidata record
   - no Wikipedia article
 ---
