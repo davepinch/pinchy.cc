@@ -2,6 +2,7 @@
 title: "Plymouth Pillars Park (Wikipedia)"
 excerpt: >-
   Plymouth Pillars Park is a public park in [Seattle](/en.wikipedia.org/wiki/Seattle/), in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/). The .6-acre (0.24 ha) park is located at the intersection of Boren Avenue and Pike Street, on the southwestern edge of [Capitol Hill](/en.wikipedia.org/wiki/Capitol_Hill,_Seattle/).
+license: CC BY-SA 4.0
 related:
   - Beautiful pen and marker drawing from a street flier
   - PERVBOY PORN
