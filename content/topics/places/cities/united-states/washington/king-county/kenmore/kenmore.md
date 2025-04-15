@@ -19,4 +19,3 @@ wikidata: "https://www.wikidata.org/entity/Q588640"
 tags:
   - city
 ---
-South of [Bothell](/bothell/). As of August 2023 I have not visited downtown but I have visted [Wallace Swamp Creek Park](/wallace-swamp-creek-park/).
