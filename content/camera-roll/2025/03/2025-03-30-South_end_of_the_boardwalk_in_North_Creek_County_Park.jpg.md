@@ -1,5 +1,6 @@
 ---
 title: "South end of the boardwalk in North Creek County Park.jpg (Wikimedia Commons)"
+another boardwalk: South side of boardwalk at Rhododendron Park.jpg (Wikimedia Commons)
 author: David Pinch
 description: "This is the south end of the boardwalk in North Creek County Park. The boardwalk allows visitors to explore the marshes without getting wet. It largely runs north/south with two east/west side branches."
 license: CC BY 4.0
