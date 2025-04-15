@@ -3,6 +3,8 @@ title: "Sacajawea State Park"
 openstreetmap: "https://www.openstreetmap.org/relation/5710050"
 state park of:
   - Pasco, Washington
+  - Columbia River
+  - Snake River
   - Franklin County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q7396564"
