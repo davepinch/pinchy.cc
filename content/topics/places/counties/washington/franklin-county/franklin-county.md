@@ -1,6 +1,6 @@
 ---
 title: "Franklin County, Washington"
-borders:
+adjacent counties:
   - Adams County, Washington
   - Benton County, Washington
   - Columbia County, Washington
