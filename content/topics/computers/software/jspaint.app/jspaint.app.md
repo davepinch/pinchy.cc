@@ -4,6 +4,7 @@ excerpt: "A pixel-perfect web-based MS Paint remake and more..."
 hacker news:
   - "https://news.ycombinator.com/item?id=43695701 (comments)"
   - "https://news.ycombinator.com/item?id=17275332 (2018)"
+remake of: Microsoft Paint
 source code: "https://github.com/1j01/jspaint"
 type: website
 url: /jspaint.app/
