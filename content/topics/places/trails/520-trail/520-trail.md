@@ -9,6 +9,7 @@ trail of:
   - Medina, Washington
   - Hunts Point, Washington
   - Yarrow Point, Washington
+  - Clyde Hill, Washington
   - Bellevue, Washington
   - Redmond, Washington
   - Microsoft Campus
