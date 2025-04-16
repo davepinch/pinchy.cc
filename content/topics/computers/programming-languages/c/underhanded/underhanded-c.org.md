@@ -5,7 +5,7 @@ excerpt: >-
 mentioned at: "https://news.ycombinator.com/item?id=43695701"
 retrieved: 2025-04-15
 type: website
-underhanded of: C
+underhanded of: C (programming language)
 url: /underhanded-c.org/
 website: "https://underhanded-c.org/"
 wikipedia: "https://en.wikipedia.org/wiki/Underhanded_C_Contest"
