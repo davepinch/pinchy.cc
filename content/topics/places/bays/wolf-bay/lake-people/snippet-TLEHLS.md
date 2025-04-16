@@ -1,5 +1,5 @@
 ---
-title: "TLEHLS of Wolf Bay (Wikipedia)"
+title: "lake people of Wolf Bay (Wikipedia)"
 ✂️: >-
   TLEHLS ("minnows" or "shiners") [village] was on the shores of what is now called Wolf Bay in Windermere, on Lake Washington south of SqWsEb, now called Magnuson Park.
 citation: >-
