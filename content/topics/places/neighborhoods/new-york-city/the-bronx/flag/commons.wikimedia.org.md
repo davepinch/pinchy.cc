@@ -7,7 +7,7 @@ flag of:
   - The Bronx
   - circle
   - eagle
-  - hemisphere
+  - hemisphere (geometry)
   - Latin
   - yield not to evil things
   - SVG
