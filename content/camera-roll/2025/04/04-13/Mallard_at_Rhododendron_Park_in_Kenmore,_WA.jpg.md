@@ -18,5 +18,6 @@ url: /commons.wikimedia.org/wiki/Mallard_at_Rhododendron_Park_in_Kenmore,_WA.jpg
 website: "https://commons.wikimedia.org/wiki/File:Mallard_at_Rhododendron_Park_in_Kenmore,_WA.jpg"
 when: 2025-04-13
 tags:
+  - photograph
   - Wikimedia Commons
 ---
