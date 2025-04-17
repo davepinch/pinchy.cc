@@ -13,6 +13,7 @@ author:
   - M. Roelens
 cepheus ob6 of: Delta Cephei
 citation: "R. I. Anderson et al 2015 ApJ 804 144"
+pdf: "https://iopscience.iop.org/article/10.1088/0004-637X/804/2/144/pdf"
 snippet of: "https://iopscience.iop.org/article/10.1088/0004-637X/804/2/144"
 type: snippet
 url: /iopscience.iop.org/article/10.1088/0004-637X/804/2/144/introduction-4-4/
