@@ -15,8 +15,12 @@ chart of:
   - NGC 188
   - NGC 6946
   - NGC 7023
+  - δ Cephei
   - ζ Cephei
   - SVG
+labeled with Greek Bayer designation of:
+  - Delta Cephei
+  - Zeta Cephei
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/82/Cepheus_IAU.svg"
 related: Cepheus (constellation) (Wikipedia)
