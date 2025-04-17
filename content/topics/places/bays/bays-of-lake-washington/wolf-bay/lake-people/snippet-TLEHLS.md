@@ -10,6 +10,7 @@ lake people of:
   - Lake Washington
 snippet of: "https://en.wikipedia.org/wiki/History_of_Seattle_before_white_settlement"
 type: snippet
+url: /en.wikipedia.org/wiki/History_of_Seattle_before_white_settlement/9-1/
 tags:
   - snippet
 ---
