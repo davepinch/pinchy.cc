@@ -1,5 +1,6 @@
 ---
 title: "Dwight D. Eisenhower, official photo portrait, May 29, 1959.jpg (Wikimedia Commons)"
+illustration of: Dwight D. Eisenhower (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/63/Dwight_D._Eisenhower%2C_official_photo_portrait%2C_May_29%2C_1959.jpg"
 portrait of: Dwight D. Eisenhower
