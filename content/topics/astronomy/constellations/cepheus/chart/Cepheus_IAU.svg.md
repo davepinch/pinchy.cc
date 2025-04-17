@@ -15,6 +15,7 @@ chart of:
   - NGC 188
   - NGC 6946
   - NGC 7023
+  - ζ Cephei
   - SVG
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/82/Cepheus_IAU.svg"
