@@ -6,6 +6,7 @@ bridge of:
   - University District, Seattle
 openstreetmap: "https://www.openstreetmap.org/way/370655700"
 wikidata: "https://www.wikidata.org/wiki/Q6906049"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Montlake_Bridge"
 tags:
   - bridge
 ---
