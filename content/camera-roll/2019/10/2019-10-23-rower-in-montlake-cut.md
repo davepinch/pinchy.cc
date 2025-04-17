@@ -8,13 +8,13 @@ near:
 photograph of:
   - Montlake, Seattle
   - Montlake Bridge
-  - Montlake Cut
   - water
   - rowboat
 picture: content/camera-roll/2019/10/2019-10-23-rower-in-montlake-cut/rower-in-montlake-cut.jpg
 related:
   - Montlake Cut (Wikipedia)
   - Montlake, Seattle (Wikipedia)
+rower of: Montlake Cut
 thumbnail: content/camera-roll/2019/10/2019-10-23-rower-in-montlake-cut/rower-in-montlake-cut.thumbnail.jpg
 type: picture
 when: 2019-10-23
