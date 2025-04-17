@@ -8,8 +8,10 @@ bay of:
   - Medina, Washington
   - King County, Washington
   - Washington
+openstreetmap: "https://www.openstreetmap.org/node/369027954"
 wikidata: "https://www.wikidata.org/wiki/Q49384972"
 tags:
   - bay
   - VISIT SOMEWHERE NEW
+  - no Wikipedia article
 ---
