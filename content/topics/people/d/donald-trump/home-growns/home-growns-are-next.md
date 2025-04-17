@@ -4,6 +4,7 @@ attribution: Donald Trump to Nayib Bukele
 home-growns of: Donald Trump
 request from Donald Trump of: Nayib Bukele
 source: "https://www.politico.com/news/2025/04/14/el-salvador-president-return-wrongly-deported-trump-00289234"
+timeline of: Kilmar Abrego Garcia
 type: quote
 when: 2025-04-14
 tags:
