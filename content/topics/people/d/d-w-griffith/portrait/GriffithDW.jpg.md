@@ -1,5 +1,6 @@
 ---
 title: "GriffithDW.jpg (Wikimedia Commons)"
+illustration of: D. W. Griffith (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d1/GriffithDW.jpg"
 portrait of: D. W. Griffith
