@@ -8,6 +8,7 @@ bridge of:
   - Wisconsin
 openstreetmap: "https://www.openstreetmap.org/way/707399033"
 wikidata: "https://www.wikidata.org/wiki/Q7617281"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Stillwater_Bridge_(Minnesota)"
 tags:
   - bridge
 ---

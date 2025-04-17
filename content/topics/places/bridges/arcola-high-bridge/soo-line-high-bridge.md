@@ -7,6 +7,7 @@ bridge of:
   - Wisconsin
 openstreetmap: "https://www.openstreetmap.org/way/21590910"
 wikidata: "https://www.wikidata.org/wiki/Q7562623"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Soo_Line_High_Bridge"
 tags:
   - railway
   - bridge
