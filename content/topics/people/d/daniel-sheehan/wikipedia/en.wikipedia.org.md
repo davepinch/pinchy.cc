@@ -2,6 +2,7 @@
 title: "Daniel Sheehan (attorney) (Wikipedia)"
 excerpt: >-
   **Daniel Peter Sheehan** (born April 9, 1945) is a constitutional and public interest lawyer, public speaker, political activist and educator.
+license: CC BY-SA 4.0
 retrieved: 2024-12-05
 type: website
 url: /en.wikipedia.org/wiki/Daniel_Sheehan_(attorney)/
