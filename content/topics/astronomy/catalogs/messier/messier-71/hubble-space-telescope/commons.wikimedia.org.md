@@ -9,6 +9,7 @@ license: CC BY 3.0
 messier 71 of: Hubble Space Telescope
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/68/Messier_71%2C_an_Unusual_Globular_Cluster.jpg"
 source: "http://spacetelescope.org/images/potw1018a/"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Messier_71%2C_an_Unusual_Globular_Cluster.jpg/500px-Messier_71%2C_an_Unusual_Globular_Cluster.jpg"
 type: picture
 url: /commons.wikimedia.org/wiki/Messier_71,_an_Unusual_Globular_Cluster.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Messier_71,_an_Unusual_Globular_Cluster.jpg"
