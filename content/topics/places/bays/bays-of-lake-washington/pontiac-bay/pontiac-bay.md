@@ -7,6 +7,7 @@ bay of:
   - Seattle
   - King County, Washington
   - Washington
+openstreetmap: "https://www.openstreetmap.org/node/369028606"
 wikidata: "https://www.wikidata.org/wiki/Q49388320"
 tags:
   - bay
