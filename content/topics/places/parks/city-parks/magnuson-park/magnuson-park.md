@@ -1,5 +1,6 @@
 ---
 title: "Magnuson Park"
+also known as: Warren G. Magnuson Park
 city park of:
   - Sand Point, Seattle
   - Seattle
