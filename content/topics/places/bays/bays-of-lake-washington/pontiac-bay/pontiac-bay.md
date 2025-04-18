@@ -2,7 +2,7 @@
 title: "Pontiac Bay"
 bay of:
   - Lake Washington
-  - Warren G. Magnuson Park
+  - Magnuson Park
   - Sand Point, Seattle
   - Seattle
   - King County, Washington
