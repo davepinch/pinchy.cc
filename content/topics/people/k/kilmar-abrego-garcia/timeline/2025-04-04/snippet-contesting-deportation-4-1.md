@@ -1,5 +1,5 @@
 ---
-title: "timeline of Kilmar Abrego Garcia on 2025-04-04 (Wikipedia)
+title: "timeline of Kilmar Abrego Garcia on 2025-04-04 (Wikipedia)"
 ✂️: >-
   On April 4, 2025, Judge Paula Xinis ruled that his detention [Kilmar Abrego Garcia], without any kind of judicial documentation warranting it, was illegal and that he would be irreparably harmed if he remained in El Salvador, and she ordered the government to ensure his return to the U.S. no later than April 7.
 citation: >-

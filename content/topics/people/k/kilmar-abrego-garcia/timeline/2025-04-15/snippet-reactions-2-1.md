@@ -1,5 +1,5 @@
 ---
-title: "timeline of Kilmar Abrego Garcia on 2025-04-15 (Wikipedia)
+title: "timeline of Kilmar Abrego Garcia on 2025-04-15 (Wikipedia)"
 ✂️: >-
   On April 15 [of 2025], Jennifer Vasquez Sura, Abrego Garcia's wife, pleaded for the return of her husband outside of the Maryland courthouse that was holding a status hearing on his case
 citation: >-

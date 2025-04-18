@@ -1,5 +1,5 @@
 ---
-title: "timeline of Kilmar Abrego Garcia on 2025-04-07 (Wikipedia)
+title: "timeline of Kilmar Abrego Garcia on 2025-04-07 (appeal denial) (Wikipedia)"
 ✂️: >-
   On April 7 [of 2025], an appeals court panel of the Fourth Circuit consisting of judges Stephanie Thacker, Harvie Wilkinson III, and Robert King unanimously denied the Trump administration's appeal of Xinis's order. The appellate court stated that: "[The Government] has no legal authority to snatch a person who is lawfully present in the United States off the street and remove him from the country without due process ... The Government's contention otherwise, and its argument that the federal courts are powerless to intervene, are unconscionable."
 citation: >-

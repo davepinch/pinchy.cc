@@ -1,5 +1,5 @@
 ---
-title: "timeline of Kilmar Abrego Garcia on 2025-04-05 (Wikipedia)
+title: "timeline of Kilmar Abrego Garcia on 2025-04-05 (Wikipedia)"
 ✂️: >-
   On April 5 [of 2025], the Department of Justice appealed the ruling to the United States Court of Appeals for the Fourth Circuit.
 citation: >-

@@ -1,5 +1,5 @@
 ---
-title: "timeline of Kilmar Abrego Garcia on 2025-04-07 (appeal) (Wikipedia)
+title: "timeline of Kilmar Abrego Garcia on 2025-04-07 (appeal) (Wikipedia)"
 ✂️: >-
   On April 7 [of 2025], the Trump administration appealed the Fourth Circuit's ruling via the Supreme Court's emergency docket.
 citation: >-

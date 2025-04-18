@@ -1,5 +1,5 @@
 ---
-title: "timeline of Kilmar Abrego Garcia on 2025-04-06 (Wikipedia)
+title: "timeline of Kilmar Abrego Garcia on 2025-04-06 (Wikipedia)"
 ✂️: >-
   The following day [on 6 April 2025], Judge Xinis issued a 22-page opinion reaffirming her previous ruling. The opinion stated the deportation "shocks the conscience" and was "wholly lawless."
 citation: >-

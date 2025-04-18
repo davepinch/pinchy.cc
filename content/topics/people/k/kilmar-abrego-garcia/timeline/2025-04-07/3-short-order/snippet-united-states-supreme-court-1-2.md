@@ -1,5 +1,5 @@
 ---
-title: "timeline of Kilmar Abrego Garcia on 2025-04-07 (short order) (Wikipedia)
+title: "timeline of Kilmar Abrego Garcia on 2025-04-07 (short order) (Wikipedia)"
 ✂️: >-
   The same day [7 April 2025], Chief Justice John Roberts issued a short order temporarily staying Xinis's order, allowing the Trump administration to continue keeping Abrego Garcia in the foreign prison pending immediate further review from the entire Supreme Court.
 citation: >-

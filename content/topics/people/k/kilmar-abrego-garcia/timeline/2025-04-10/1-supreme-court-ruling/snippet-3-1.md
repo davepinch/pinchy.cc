@@ -1,5 +1,5 @@
 ---
-title: "timeline of Kilmar Abrego Garcia on 2025-04-10 (SCOTUS ruling) (Wikipedia)
+title: "timeline of Kilmar Abrego Garcia on 2025-04-10 (SCOTUS ruling) (Wikipedia)"
 ✂️: >-
   On April 10, 2025, the U.S. Supreme Court unanimously found Abrego Garcia's removal to El Salvador to be illegal.
 citation: >-
