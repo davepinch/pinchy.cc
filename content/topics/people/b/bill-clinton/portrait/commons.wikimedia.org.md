@@ -1,6 +1,7 @@
 ---
 title: "Bill Clinton.jpg (Wikimedia Commons)"
 author: Bob McNeely, The White House
+illustration of: Bill Clinton (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Bill_Clinton.jpg"
 portrait of: Bill Clinton
