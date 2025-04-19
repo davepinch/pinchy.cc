@@ -1,5 +1,6 @@
 ---
 title: "region"
+plural: regions
 see also:
   - continent
   - country
