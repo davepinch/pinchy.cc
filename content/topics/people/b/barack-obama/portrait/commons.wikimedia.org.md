@@ -3,6 +3,7 @@ title: "President Barack Obama.jpg (Wikimedia Commons)"
 ⬅️: George-W-Bush.jpeg (Wikimedia Commons)
 ➡️: Donald Trump official portrait.jpg (Wikimedia Commons)
 author: Official White House Photo by Pete Souza
+illustration of: Barack Obama (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8d/President_Barack_Obama.jpg"
 portrait of: Barack Obama
