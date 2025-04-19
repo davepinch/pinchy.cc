@@ -1,6 +1,7 @@
 ---
 title: "Pach Brothers - Benjamin Harrison.jpg (Wikimedia Commons)"
 author: "Pach Brothers, restored by Adam Cuerden"
+illustration of: Benjamin Harrison (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Pach_Brothers_-_Benjamin_Harrison.jpg"
 portrait of: Benjamin Harrison
