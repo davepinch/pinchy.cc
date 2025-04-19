@@ -12,7 +12,7 @@ trail of:
   - Clyde Hill, Washington
   - Bellevue, Washington
   - Redmond, Washington
-  - Microsoft Redmond Campus
+  - Microsoft Redmond campus
 tags:
   - trail
 ---
