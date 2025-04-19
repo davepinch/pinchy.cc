@@ -2,6 +2,7 @@
 title: "Bashar al-Assad (2018-05-17) 02.jpg (Wikimedia Commons)"
 author: kremlin.ru
 description: "Picture of Syrian president Bashar al-Assad with the Syrian flag next to him"
+illustration of: Bashar al-Assad (Wikipedia)
 license: CC BY 4.0
 photograph of:
   - Bashar al-Assad
