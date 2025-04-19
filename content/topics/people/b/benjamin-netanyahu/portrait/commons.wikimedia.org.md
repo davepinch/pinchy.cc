@@ -1,6 +1,7 @@
 ---
 title: "Benjamin Netanyahu, February 2023.jpg (Wikimedia Commons)"
 author: Avi Ohayon
+illustration of: Benjamin Netanyahu (Wikipedia)
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/74/Benjamin_Netanyahu%2C_February_2023.jpg"
 portrait of: Benjamin Netanyahu
