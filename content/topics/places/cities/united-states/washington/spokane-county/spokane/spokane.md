@@ -1,6 +1,7 @@
 ---
 title: "Spokane, Washington"
 city of:
+  - BNSF Columbia River Subdivision
   - Columbia Plateau
   - Spokane County, Washington
   - Interstate 90
