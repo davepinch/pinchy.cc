@@ -1,8 +1,9 @@
 ---
 title: "Book of Isaiah"
-book of: Old Testament
+book of:
+  - Old Testament
+  - Bible
 wikidata: "https://www.wikidata.org/wiki/Q131458"
 tags:
-  - Bible
   - Book of the Bible
 ---
