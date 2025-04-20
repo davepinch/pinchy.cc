@@ -4,6 +4,7 @@ birth of: Abraham Lincoln
 born in: Kentucky
 citation: >-
   Wikipedia contributors. (2024, October 24). Abraham Lincoln. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:14, October 25, 2024, from https://en.wikipedia.org/w/index.php?title=Abraham_Lincoln&oldid=1253152994
+openstreetmap: "https://www.openstreetmap.org/relation/11132443"
 snippet of: Abraham Lincoln (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Abraham_Lincoln/early-life-1-1/
