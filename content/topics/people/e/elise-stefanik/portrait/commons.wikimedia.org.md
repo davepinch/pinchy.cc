@@ -1,6 +1,7 @@
 ---
 title: "Elise Stefanik, 115th official photo.jpg (Wikimedia Commons)"
 author: "United States House of Representatives"
+illustration of: Elise Stefanik (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Elise_Stefanik%2C_115th_official_photo.jpg/1638px-Elise_Stefanik%2C_115th_official_photo.jpg"
 portrait of: Elise Stefanik
