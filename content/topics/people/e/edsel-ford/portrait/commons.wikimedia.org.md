@@ -1,6 +1,7 @@
 ﻿---
 title: "Edsel Bryant Ford.jpg (Wikimedia Commons)"
 author: Frank Moore Studio
+illustration of: Edsel Ford (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/37/Edsel_Bryant_Ford.jpg"
 portrait of: Edsel Ford
