@@ -2,6 +2,7 @@
 title: "Triumphal entry into Jerusalem (Wikipedia)"
 excerpt: >-
   The **triumphal entry into Jerusalem** is a narrative in the four canonical Gospels describing the arrival of Jesus in Jerusalem a few days before his crucifixion. This event is celebrated each year by Christians on Palm Sunday.
+license: CC BY-SA 4.0
 retrieved: 2024-10-22
 type: website
 url: /en.wikipedia.org/wiki/Triumphal_entry_into_Jerusalem/
