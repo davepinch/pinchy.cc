@@ -1,5 +1,6 @@
 ---
 title: "2 Corinthians 9:8 KJV"
+➡️: "2 Corinthians 9:9 KJV"
 ⬅️: "2 Corinthians 9:7 KJV"
 attribution: "2 Corinthians 9:8 KJV"
 King James Version of: "2 Corinthians 9:8"

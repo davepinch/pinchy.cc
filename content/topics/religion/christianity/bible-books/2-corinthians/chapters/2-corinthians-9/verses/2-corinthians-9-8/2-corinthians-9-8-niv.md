@@ -1,5 +1,6 @@
 ---
 title: "2 Corinthians 9:8 NIV"
+➡️: "2 Corinthians 9:9 NIV"
 ⬅️: "2 Corinthians 9:7 NIV"
 attribution: "2 Corinthians 9:8 NIV"
 New International Version of: "2 Corinthians 9:8"
