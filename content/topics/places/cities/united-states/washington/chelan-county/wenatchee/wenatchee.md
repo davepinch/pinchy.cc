@@ -1,6 +1,7 @@
 ---
 title: "Wenatchee, Washington"
 city of:
+  - BNSF Columbia River Subdivision
   - BNSF Scenic Subdivision
   - Cascade Range
   - Chelan County, Washington
