@@ -1,5 +1,6 @@
 ---
 title: "Ecclesiastes 9:11 NIV"
+➡️: "Ecclesiastes 9:12 NIV"
 ⬅️: "Ecclesiastes 9:10 NIV"
 attribution: "Ecclesiastes 9:11 NIV"
 New International Version of: "Ecclesiastes 9:11"

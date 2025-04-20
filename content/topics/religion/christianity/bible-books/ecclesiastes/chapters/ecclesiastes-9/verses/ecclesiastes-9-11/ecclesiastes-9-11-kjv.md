@@ -1,5 +1,6 @@
 ---
 title: "Ecclesiastes 9:11 KJV"
+➡️: "Ecclesiastes 9:12 KJV"
 ⬅️: "Ecclesiastes 9:10 KJV"
 attribution: "Ecclesiastes 9:11 KJV"
 King James Version of: "Ecclesiastes 9:11"
