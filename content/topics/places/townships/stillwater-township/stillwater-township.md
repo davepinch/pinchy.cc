@@ -1,6 +1,6 @@
 ---
 title: "Stillwater Township"
-borders: May Township
+borders: May Township, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/15788952"
 township of:
   - Saint Croix River
