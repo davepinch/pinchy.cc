@@ -1,5 +1,5 @@
 ---
-title: "c"
+title: "Redditors are foul creatures straight from the depths of hell"
 author: u/Connect_Artichoke_83
 comment of: r/PeterExplainsTheJoke
 creatures of: hell
