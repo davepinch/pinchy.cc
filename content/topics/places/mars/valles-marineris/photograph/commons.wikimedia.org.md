@@ -16,5 +16,6 @@ url: /commons.wikimedia.org/wiki/Mars_Valles_Marineris.jpeg/
 website: "https://commons.wikimedia.org/wiki/File:Mars_Valles_Marineris.jpeg"
 when: 1980-02-22
 tags:
+  - photograph
   - Wikimedia Commons
 ---
