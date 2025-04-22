@@ -1,5 +1,6 @@
 ---
 title: "Proverbs 9:1 KJV"
+➡️: "Proverbs 9:2 KJV"
 attribution: "Proverbs 9:1 KJV"
 King James Version of: "Proverbs 9:1"
 quote: "Wisdom hath builded her house, she hath hewn out her seven pillars:"
