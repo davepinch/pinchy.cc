@@ -10,5 +10,6 @@ sententia of: Publilius Syrus
 tags:
   - Sententia
   - quote
+  - fool
 ---
 [Publilius Syrus - Wikiquote](https://en.wikiquote.org/wiki/Publilius_Syrus)
