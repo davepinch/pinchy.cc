@@ -1,5 +1,6 @@
 ---
 title: "Proverbs 9:7 NIV"
+➡️: "Proverbs 9:8 NIV"
 ⬅️: "Proverbs 9:6 NIV"
 attribution: "Proverbs 9:7 NIV"
 New International Version of: "Proverbs 9:7"
