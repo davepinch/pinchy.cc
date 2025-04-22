@@ -10,4 +10,6 @@ title: "Numbers 11:5"
   - 🧄
 🐟 of: Egypt
 verse of: Numbers 11
+tags:
+  - verse of the Bible
 ---
