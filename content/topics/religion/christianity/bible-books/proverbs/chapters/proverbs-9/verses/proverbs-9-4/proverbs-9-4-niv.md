@@ -1,5 +1,6 @@
 ---
 title: "Proverbs 9:4 NIV"
+➡️: "Proverbs 9:5 NIV"
 ⬅️: "Proverbs 9:3 NIV"
 attribution: "Proverbs 9:4 NIV"
 New International Version of: "Proverbs 9:4"
