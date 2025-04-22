@@ -7,6 +7,5 @@ New International Version of: "Proverbs 9:14"
 quote: "She sits at the door of her house, on a seat at the highest point of the city,"
 type: quote
 tags:
-  - woman
   - quote
 ---
