@@ -3,6 +3,10 @@ title: "Scratchpad"
 draft: true
 ---
 
+https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=United_States_government_group_chat_leak&id=1286648178&wpFormIdentifier=titleform
+
+
+
 4/13/25
 https://www.microsoft.com/en-us/edge/microsoft-50th-anniversary?form=MT00YS&channel=stable&version=135.0.3179.73&cs=581831490
 
