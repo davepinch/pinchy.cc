@@ -1,5 +1,6 @@
 ---
 title: "Proverbs 9:15 NIV"
+➡️: "Proverbs 9:16 NIV"
 ⬅️: "Proverbs 9:14 NIV"
 attribution: "Proverbs 9:15 NIV"
 New International Version of: "Proverbs 9:15"
