@@ -5,4 +5,5 @@ wikidata: "https://www.wikidata.org/wiki/Q450675"
 tags:
   - pope
   - human being
+  - dead at the moment
 ---
