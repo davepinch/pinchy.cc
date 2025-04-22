@@ -1,5 +1,6 @@
 ---
 title: "Proverbs 9:16 NIV"
+➡️: "Proverbs 9:17 NIV"
 ⬅️: "Proverbs 9:15 NIV"
 attribution: "Proverbs 9:16 NIV"
 New International Version of: "Proverbs 9:16"
