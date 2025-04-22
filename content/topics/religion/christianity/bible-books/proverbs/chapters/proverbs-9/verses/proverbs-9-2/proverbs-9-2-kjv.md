@@ -1,5 +1,6 @@
 ---
 title: "Proverbs 9:2 KJV"
+➡️: "Proverbs 9:3 KJV"
 ⬅️: "Proverbs 9:1 KJV"
 attribution: "Proverbs 9:2 KJV"
 King James Version of: "Proverbs 9:2"
