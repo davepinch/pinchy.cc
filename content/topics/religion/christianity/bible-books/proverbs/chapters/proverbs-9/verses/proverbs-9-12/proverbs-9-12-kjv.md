@@ -1,5 +1,6 @@
 ---
 title: "Proverbs 9:12 KJV"
+➡️: "Proverbs 9:13 KJV"
 ⬅️: "Proverbs 9:11 KJV"
 attribution: "Proverbs 9:12 KJV"
 King James Version of: "Proverbs 9:12"
