@@ -1,5 +1,6 @@
 ---
 title: "Proverbs 9:8 KJV"
+➡️: "Proverbs 9:9 KJV"
 ⬅️: "Proverbs 9:7 KJV"
 attribution: "Proverbs 9:8 KJV"
 King James Version of: "Proverbs 9:8"
