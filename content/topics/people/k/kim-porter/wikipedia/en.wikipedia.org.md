@@ -2,6 +2,7 @@
 title: "Kim Porter (Wikipedia)"
 excerpt: >-
   **Kimberly Antwinette Porter** (December 15, 1970 – November 15, 2018) was an American model and actress.
+license: CC BY-SA 4.0
 retrieved: 2024-11-26
 type: website
 url: /en.wikipedia.org/wiki/Kim_Porter/
