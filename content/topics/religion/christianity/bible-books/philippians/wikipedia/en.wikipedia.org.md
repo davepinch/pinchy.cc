@@ -7,7 +7,7 @@ retrieved: 2022-11-12
 type: website
 url: /en.wikipedia.org/wiki/Epistle_to_the_Philippians/
 website: "https://en.wikipedia.org/wiki/Epistle_to_the_Philippians"
-wikipedia of: Philippians
+wikipedia of: Epistle to the Philippians
 tags:
   - Wikipedia
 ---
