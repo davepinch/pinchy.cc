@@ -7,6 +7,7 @@ cast:
   - incomplete list
 director: David Lean
 film of:
+  - T. E. Lawrence
   - epic film
   - biographical film
   - adventure film
