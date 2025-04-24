@@ -12,6 +12,7 @@ type: pdf
 url: /www.justice.gov/ag/media/1396906/
 website: "https://www.justice.gov/ag/media/1396906"
 when: 2025-04-16
+x: "https://x.com/AGPamBondi/status/1912603713157419129"
 tags:
   - PDF
 ---
