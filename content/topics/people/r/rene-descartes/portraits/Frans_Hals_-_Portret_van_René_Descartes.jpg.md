@@ -1,5 +1,6 @@
 ---
 title: "Frans_Hals_-_Portret_van_René_Descartes.jpg (Wikimedia Commons)"
+illustration of: René Descartes (Wikipedia)
 license: public domain
 not to be confused with: Frans_Hals,_Portrait_of_René_Descartes.jpg (Wikimedia Commons)
 picture: >-
