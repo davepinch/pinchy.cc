@@ -1,6 +1,7 @@
 ---
 title: "Andrew jackson head.jpg (Wikimedia Commons)"
 author: "Ralph Eleaser Whiteside Earl"
+illustration of: Andrew Jackson (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/43/Andrew_jackson_head.jpg"
 portrait of: Andrew Jackson
