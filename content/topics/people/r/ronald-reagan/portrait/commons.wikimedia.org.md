@@ -1,6 +1,7 @@
 ---
 title: "Official Portrait of President Reagan 1981.jpg (Wikimedia Commons)"
 author: Michael Evens
+illustration of: Ronald Reagan (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/16/Official_Portrait_of_President_Reagan_1981.jpg"
 portrait of: Ronald Reagan
