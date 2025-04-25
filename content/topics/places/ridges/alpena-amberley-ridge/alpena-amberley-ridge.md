@@ -1,5 +1,6 @@
 ---
-title: "Alpena-Amberly Ridge"
+title: "Alpena-Amberley Ridge"
+note: commonly mispelled with Amberly
 ridge of:
   - Lake Huron
   - Michigan
