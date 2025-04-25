@@ -1,5 +1,6 @@
 ---
 title: "Ron DeSantis official photo.jpg (Wikimedia Commons)"
+illustration of: Ron DeSantis (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4f/Ron_DeSantis_official_photo.jpg"
 portrait of: Ron DeSantis
