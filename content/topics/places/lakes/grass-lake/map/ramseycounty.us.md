@@ -1,5 +1,6 @@
 ---
 title: "map of Grass Lake in Vadnais-Snail Lakes Regional Park (ramseycounty.us)"
+license: unknown, see https://www.ramseycounty.us/your-government/open-government
 map of:
   - Grass Lake
   - Vadnais-Snail Lakes Regional Park
