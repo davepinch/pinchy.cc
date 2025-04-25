@@ -4,6 +4,7 @@ title: >-
 age of ada: about 4 months old
 citation: >-
   Wikipedia contributors. (2024, June 17). Ada Lovelace. In *Wikipedia, The Free Encyclopedia*. Retrieved June 27, 2024, from https://en.wikipedia.org/w/index.php?title=Ada_Lovelace&oldid=1229638548
+license: CC BY-SA 4.0
 snippet of: Ada Lovelace (Wikipedia)
 next in the life of ada: Portrait of Ada Byron, later to be known as Ada Lovelace (1815-1852) (Wikimedia Commons)
 type: snippet

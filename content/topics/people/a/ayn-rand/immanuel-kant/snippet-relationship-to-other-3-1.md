@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, January 14). Ayn Rand. In *Wikipedia, The Free Encyclopedia*. Retrieved January 16, 2024, from https://en.wikipedia.org/w/index.php?title=Ayn_Rand&oldid=1195536182
 immanuel kant of: Ayn Rand
+license: CC BY-SA 4.0
 not a fan of: Immanuel Kant
 snippet of: Ayn Rand (Wikipedia)
 type: snippet

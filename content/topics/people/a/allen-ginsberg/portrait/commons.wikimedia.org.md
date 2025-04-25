@@ -1,6 +1,7 @@
 ﻿---
 title: "Allen Ginsberg 1979 - cropped.jpg (Wikimedia Commons)"
 author: "Hans van Dijk for Anefo"
+illustration of: Allen Ginsberg (Wikipedia)
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0b/Allen_Ginsberg_1979_-_cropped.jpg"
 portrait of: Allen Ginsberg
