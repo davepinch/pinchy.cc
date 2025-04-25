@@ -1,6 +1,7 @@
 ---
 title: "next biggest lake"
 sequence:
+  - Lake Baikal
   - Lake Tanganyika
   - Lake Michigan
   - Lake Huron
