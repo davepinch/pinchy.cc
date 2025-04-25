@@ -6,6 +6,7 @@ citation: >-
 death of:
   - Robert Falcon Scott
   - Antarctica
+license: CC BY-SA 4.0
 snippet of: Robert Falcon Scott (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Robert_Falcon_Scott/2-3/
