@@ -14,7 +14,6 @@ sea of:
   - Europe
   - Asia
   - Middle East
-smaller: Lake Superior
 wikidata: "https://www.wikidata.org/wiki/Q5484"
 tags:
   - sea
