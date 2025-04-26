@@ -1,4 +1,4 @@
 ---
-title: "There is no oher way but forward."
+title: "There is no other way but forward."
 next: "Which was discovered by accident."
 ---
