@@ -1,5 +1,8 @@
 ---
 title: "Mount Baker–Snoqualmie National Forest"
+borders:
+  - Skagit Bald Eagle Natural Area Preserve
+  - incomplete list
 national forest of:
   - Washington
   - United States
