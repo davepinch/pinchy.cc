@@ -5,7 +5,9 @@ title: "Mark 2:28"
 similar to:
   - "Luke 6:5"
   - "Matthew 12:8"
-verse of: "Mark 2"
+verse of:
+  - Mark 2
+  - Lord of the Sabbath
 wikidata: "https://www.wikidata.org/wiki/Q64687927"
 tags:
   - verse of the Bible
