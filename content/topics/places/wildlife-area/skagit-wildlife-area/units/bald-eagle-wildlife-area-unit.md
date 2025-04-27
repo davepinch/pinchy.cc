@@ -9,4 +9,6 @@ tags:
   - wildlife area unit
   - Discover Pass required
   - boat required
+  - no OpenStreetMap element
+  - no Wikidata record
 ---
