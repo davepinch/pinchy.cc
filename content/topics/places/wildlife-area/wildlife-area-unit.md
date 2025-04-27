@@ -5,6 +5,7 @@ subdivision of: wildlife area
 tag requires property:
   - official website
   - OpenStreetMap
+  - wikidata
   - wildlife area of
 tags:
   - protected area
