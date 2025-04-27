@@ -18,6 +18,7 @@ projection: Tangent
 rotation: -18.13684824546109 degrees
 when: 2025-04-27
 width in pixels: 1480
+x-ray source of: Leo
 tags:
   - post
 ---
