@@ -5,6 +5,8 @@ wildlife area unit of:
   - Skagit Wildlife Area
   - Skagit River
   - Sauk River
+  - Skagit County, Washington
+  - Washington
 tags:
   - wildlife area unit
   - Discover Pass required
