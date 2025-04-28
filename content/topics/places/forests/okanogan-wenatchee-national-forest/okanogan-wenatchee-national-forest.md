@@ -1,5 +1,8 @@
 ---
 title: "Okanogan–Wenatchee National Forest"
+borders:
+  - Camas Meadows Natural Area Preserve
+  - incomplete list
 national forest of:
   - Washington
   - United States
