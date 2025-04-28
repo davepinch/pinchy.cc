@@ -14,4 +14,5 @@ wildlife area unit of:
 tags:
   - wildlife area unit
   - no OpenStreetMap element
+  - Discover Pass required
 ---
