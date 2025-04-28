@@ -8,4 +8,5 @@ wildlife area unit of:
   - San Juan County, Washington
 tags:
   - wildlife area unit
+  - Discover Pass required
 ---
