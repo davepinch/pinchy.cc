@@ -27,8 +27,9 @@ sequence:
   - Samish Bay
 # - Larrabee State Park
   - Skagit County, Washington
-# - Samish River
+  - Samish River
   - Padilla Bay
+  - Samish Wildlife Area Unit
 # - Padilla Bay National Estuarine Research Reserve
 # - Bay View State Park
   - Fidalgo Island
