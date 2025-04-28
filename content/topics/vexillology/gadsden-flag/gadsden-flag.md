@@ -1,5 +1,5 @@
 ---
-title: "Gadsen flag"
+title: "Gadsden flag"
 flag of:
   - rattlesnake
   - American Revolutionary War
