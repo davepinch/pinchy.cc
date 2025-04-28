@@ -1,6 +1,5 @@
 ---
 title: "Cottonwood Island Wildlife Area Unit"
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/cottonwood-island-wildlife-area-unit"
 openstreetmap:
   - OpenStreetMap does not have an entry for this wildlife area. The following elements approximately match the map that appears on the official website.
   - "https://www.openstreetmap.org/way/478778174"
