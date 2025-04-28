@@ -10,6 +10,8 @@ openstreetmap:
 wildlife area unit of:
   - Skagit Wildlife Area
   - Skagit River
+  - North Fork Skagit River
+  - South Fork Skagit River
 tags:
   - wildlife area unit
   - no OpenStreetMap element
