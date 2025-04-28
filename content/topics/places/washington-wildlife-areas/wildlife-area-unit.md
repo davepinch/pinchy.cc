@@ -6,7 +6,7 @@ tag requires property:
   - official website
   - OpenStreetMap
   - wikidata
-  - wildlife area of
+  - wildlife area unit of
 tags:
   - protected area
   - Discover Pass required
