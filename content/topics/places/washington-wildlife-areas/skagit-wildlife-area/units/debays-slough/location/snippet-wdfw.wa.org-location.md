@@ -10,5 +10,6 @@ snippet of: Debay's Slough Wildlife Area Unit (wdfw.wa.gov)
 type: snippet
 url: /wdfw.wa.gov/places-to-go/wildlife-areas/debays-slough-wildlife-area-unit/2-1/
 tags:
+  - location
   - snippet
 ---
