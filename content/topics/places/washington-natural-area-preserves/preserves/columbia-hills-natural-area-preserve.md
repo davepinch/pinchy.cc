@@ -1,5 +1,6 @@
 ---
 title: "Columbia Hills Natural Area Preserve"
+borders: Columbia Hills Historical State Park
 natural area preserve of:
   - Klickitat County, Washington
   - Washington
