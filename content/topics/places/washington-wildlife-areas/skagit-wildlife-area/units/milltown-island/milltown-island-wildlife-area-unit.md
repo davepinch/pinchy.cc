@@ -8,4 +8,5 @@ wildlife area unit of:
   - South Fork Skagit River
 tags:
   - wildlife area unit
+  - Discover Pass required
 ---
