@@ -14,4 +14,5 @@ wildlife area unit of:
   - Debay's Slough
 tags:
   - wildlife area unit
+  - Discover Pass required
 ---
