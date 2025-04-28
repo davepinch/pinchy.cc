@@ -1,5 +1,8 @@
 ---
 title: "Kitsap Forest Natural Area Preserve"
+borders:
+  - Stavis Natural Resources Conservation Area
+  - Stavis Creek Wildlife Area
 natural area preserve of:
   - Kitsap County, Washington
   - Washington
