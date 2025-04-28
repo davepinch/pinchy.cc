@@ -1,7 +1,6 @@
 ---
 title: "Debay's Slough Wildlife Area Unit"
 around Mount Vernon of: VISIT SOMEWHERE NEW
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/debays-slough-wildlife-area-unit"
 openstreetmap: "https://www.openstreetmap.org/relation/8757211"
 vicinity of:
   - Burlington, Washington
