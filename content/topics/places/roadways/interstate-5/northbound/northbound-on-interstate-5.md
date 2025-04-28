@@ -11,7 +11,7 @@ sequence:
   - Everett, Washington
   - Snohomish River
   - Union Slough
-  - Steamboat Slough
+  - Steamboat Slough (Snohomish River)
   - Marysville, Washington
   - Ebey Slough
   - Smokey Point, Washington

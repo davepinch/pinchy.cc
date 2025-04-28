@@ -7,7 +7,7 @@ across the Union Slough:
   - North Spencer Island
   - Spencer Island
 island of:
-  - Steamboat Slough
+  - Steamboat Slough (Snohomish River)
   - Union Slough
   - Snohomish River
   - Everett, Washington

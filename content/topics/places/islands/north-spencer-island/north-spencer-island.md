@@ -2,7 +2,7 @@
 title: "North Spencer Island"
 around Everett of: VISIT SOMEWHERE NEW
 island of:
-  - Steamboat Slough
+  - Steamboat Slough (Snohomish River)
   - Union Slough
   - Snohomish County, Washington
   - Washington

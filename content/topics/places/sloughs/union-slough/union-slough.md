@@ -1,7 +1,7 @@
 ---
 title: "Union Slough"
 around Everett of: VISIT SOMEWHERE NEW
-connected to: Steamboat Slough
+connected to: Steamboat Slough (Snohomish River)
 openstreetmap: "https://www.openstreetmap.org/way/1286993784"
 slough of:
   - Snohomish River

@@ -20,7 +20,7 @@ sequence:
   - Marysville, Washington
   - Ebey Slough
   - North Ebey Island
-  - Steamboat Slough
+  - Steamboat Slough (Snohomish River)
   - Everett, Washington
   - North Spencer Island
   - Union Slough

@@ -2,7 +2,7 @@
 title: "North Ebey Island"
 island of:
   - Ebey Slough
-  - Steamboat Slough
+  - Steamboat Slough (Snohomish River)
   - Marysville, Washington
   - Everett, Washington
   - Snohomish County, Washington
