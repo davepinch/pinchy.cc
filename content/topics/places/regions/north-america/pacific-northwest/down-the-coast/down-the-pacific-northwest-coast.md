@@ -11,7 +11,7 @@ sequence:
   - Semiahmoo Spit
   - Birch Point
   - Birch Bay
-# - Birch Bay State Park
+  - Birch Bay State Park
   - Point Whitehorn
 # - Cherry Point
 # - Neptune Beach
