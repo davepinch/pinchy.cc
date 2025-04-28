@@ -12,4 +12,6 @@ wildlife area unit of:
   - Skagit County, Washington
 tags:
   - wildlife area unit
+  - Discover Pass required
+  - boat required
 ---
