@@ -4,6 +4,7 @@ title: "location of Island Wildlife Area Unit (wdfw.wa.gov)"
 location of: Island Wildlife Area Unit
 mention of:
   - Freshwater Slough
+  - Steamboat Slough (Skagit River)
   - South Fork Skagit River
   - Skagit County, Washington
 snippet of: Island Wildlife Area Unit (wdfw.wa.gov)
