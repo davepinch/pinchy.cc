@@ -10,6 +10,7 @@ mention of:
   - Skagit County, Washington
 snippet of: Fir Island Farm Reserve Wildlife Area Unit (wdfw.wa.gov)
 type: snippet
+url: /wdfw.wa.gov/places-to-go/wildlife-areas/fir-island-farm-reserve-wildlife-area-unit/2/
 tags:
   - location
   - snippet
