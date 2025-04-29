@@ -1,8 +1,8 @@
 ---
 title: "Whitcomb Flats Natural Area Preserve"
-natural area preserver of:
+natural area preserve of:
   - Grays Harbor
-  - Grays Harbor, Washington
+  - Grays Harbor County, Washington
   - Washington
 official website: "https://www.dnr.wa.gov/whitcomb-flats-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/10401060"
