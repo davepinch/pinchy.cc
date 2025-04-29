@@ -1,6 +1,7 @@
 ﻿---
 title: "Karoline Leavitt by Gage Skidmore 2 (cropped 2).jpg (Wikimedia Commons)"
 author: Gage Skidmore
+illustration of: Karoline Leavitt (Wikipedia)
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Karoline_Leavitt_by_Gage_Skidmore_2_%28cropped_2%29.jpg"
 portrait of: Karoline Leavitt
