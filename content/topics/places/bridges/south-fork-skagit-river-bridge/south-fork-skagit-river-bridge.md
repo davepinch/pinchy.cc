@@ -10,5 +10,6 @@ openstreetmap: "https://www.openstreetmap.org/way/36871477"
 road: Fir Island Road
 tags:
   - bridge
+  - no Wikidata record
   - no Wikipedia article
 ---
