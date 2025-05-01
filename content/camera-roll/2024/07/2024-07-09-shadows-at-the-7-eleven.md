@@ -1,10 +1,9 @@
 ---
 title: "Shadows at the 7-Eleven"
-description: >-
-  I was running errands and I saw these interesting shadows at a 7-Eleven.
+description: "I was running errands and I saw these interesting shadows at a 7-Eleven."
+gas station of: shadows
 license: CC BY-SA 4.0
 photograph of:
-  - shadows
   - "7-Eleven"
   - gas station
   - car
