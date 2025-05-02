@@ -8,6 +8,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Clear_cut_
 type: picture
 url: /commons.wikimedia.org/wiki/Clear_cut_restoring_in_Marckworth_State_Forest.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Clear_cut_restoring_in_Marckworth_State_Forest.jpg"
+when: 2025-04-25
 tags:
   - Wikimedia Commons
 ---

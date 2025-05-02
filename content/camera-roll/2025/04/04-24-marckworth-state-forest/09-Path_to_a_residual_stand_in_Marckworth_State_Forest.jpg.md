@@ -9,6 +9,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Path_to_a_
 type: picture
 url: /commons.wikimedia.org/wiki/Path_to_a_residual_stand_in_Marckworth_State_Forest.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Path_to_a_residual_stand_in_Marckworth_State_Forest.jpg"
+when: 2025-04-25
 tags:
    - Wikimedia Commons
 ---

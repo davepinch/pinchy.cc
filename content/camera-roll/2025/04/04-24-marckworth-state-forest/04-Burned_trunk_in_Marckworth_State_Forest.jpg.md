@@ -9,6 +9,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Burned_tru
 type: picture
 url: /commons.wikimedia.org/wiki/Burned_trunk_in_Marckworth_State_Forest.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Burned_trunk_in_Marckworth_State_Forest.jpg"
+when: 2025-04-25
 tags:
   - Wikimedia Commons
 ---
