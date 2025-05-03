@@ -1,15 +1,14 @@
 ---
-title: >-
-  The Wild Horse Wind Farm, owned by Puget Sound Energy, is located on ridge tops near Vantage.
+title: "The area around Vantage has been occupied by the Wanapum Native Americans since prehistory."
 citation: >-
   Wikipedia contributors. (2023, October 8). Vantage, Washington. In *Wikipedia, The Free Encyclopedia*. Retrieved February 26, 2024, from https://en.wikipedia.org/w/index.php?title=Vantage,_Washington&oldid=1179239156
-location of: Wild Horse Wind Farm
-property of: Puget Sound Energy
+history of: Vantage, Washington
+license: CC BY-SA 4.0
 snippet of: Vantage, Washington (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Vantage,_Washington/business-1-2/
-vicinity of: Vantage, Washington
+url: /en.wikipedia.org/wiki/Vantage,_Washington/history-1-1/
 tags:
-  - location
+  - Wanapum
+  - history
   - snippet
 ---

@@ -4,8 +4,9 @@ title: >-
 base camp of: The Gorge Amphitheatre
 citation: >-
   Wikipedia contributors. (2023, October 8). Vantage, Washington. In *Wikipedia, The Free Encyclopedia*. Retrieved February 26, 2024, from https://en.wikipedia.org/w/index.php?title=Vantage,_Washington&oldid=1179239156
-snippet of: Vantage, Washington (Wikipedia)
+license: CC BY-SA 4.0
 recreation of: Vantage, Washington
+snippet of: Vantage, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Vantage,_Washington/recreation-1-1/
 tags:
