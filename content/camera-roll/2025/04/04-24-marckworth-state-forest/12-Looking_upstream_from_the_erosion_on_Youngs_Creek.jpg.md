@@ -10,5 +10,6 @@ upstream of: Erosion along Youngs Creek in Marckworth State Forest.jpg (Wikimedi
 url: /commons.wikimedia.org/wiki/Looking_upstream_from_the_erosion_on_Youngs_Creek.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Looking_upstream_from_the_erosion_on_Youngs_Creek.jpg"
 tags:
+  - photograph
   - Wikimedia Commons
 ---
