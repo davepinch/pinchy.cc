@@ -15,5 +15,6 @@ wikidata: "https://www.wikidata.org/wiki/Q33923"
 wikipedia: "https://en.wikipedia.org/wiki/Saint_Peter"
 tags:
   - person
+  - fisherman
   - human being
 ---
