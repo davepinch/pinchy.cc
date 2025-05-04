@@ -10,6 +10,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Looking_do
 type: picture
 url: /commons.wikimedia.org/wiki/Looking_down_in_Bayside,_Everett.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Looking_down_in_Bayside,_Everett.jpg"
+when: 2025-05-01
 tags:
   - Wikimedia Commons
 ---
