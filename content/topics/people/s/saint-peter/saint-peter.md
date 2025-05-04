@@ -5,7 +5,11 @@ also known as:
   - Pope Peter
   - Simon
   - Simon Peter
-apostle of: Jesus
+apostle of:
+  - Jesus
+  - Bethsaida
+  - New Testament
+  - Bible
 brother: Andrew the Apostle
 person of:
   - New Testament
