@@ -17,4 +17,5 @@ tags:
   - person
   - fisherman
   - human being
+  - dead at the moment
 ---
