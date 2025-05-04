@@ -1,6 +1,7 @@
 ---
 title: "John the Apostle"
 apostle of: Jesus
+brother: James the Great
 person of:
   - New Testament
   - Bible
