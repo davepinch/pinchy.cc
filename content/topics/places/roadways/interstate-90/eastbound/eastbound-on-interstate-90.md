@@ -37,6 +37,7 @@ sequence:
   - Ritzville, Washington
 # Lincoln County
   - Lincoln County, Washington
+  - Sprague Lake Rest Area Eastbound
   - Sprague, Washington
 # Spokane County
   - Spokane County, Washington
