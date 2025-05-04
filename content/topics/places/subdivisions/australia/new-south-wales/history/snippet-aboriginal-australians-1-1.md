@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 7). New South Wales. In *Wikipedia, The Free Encyclopedia*. Retrieved February 13, 2024, from https://en.wikipedia.org/w/index.php?title=New_South_Wales&oldid=1204627068
 history of: New South Wales
+license: CC BY-SA 4.0
 snippet of: New South Wales (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/New_South_Wales/aboriginal-australians-1-1/
