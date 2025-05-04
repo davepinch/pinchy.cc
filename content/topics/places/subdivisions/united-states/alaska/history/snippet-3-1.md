@@ -6,6 +6,7 @@ citation: >-
 history of:
   - Alaska
   - North America
+license: CC BY-SA 4.0
 snippet of: Alaska (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Alaska/3-1/

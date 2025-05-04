@@ -4,6 +4,7 @@ arizona flag of: copper
 center star of: Flag_of_Arizona.svg (Wikimedia Commons)
 citation: >-
   Wikipedia contributors. (2024, September 28). Flag of Arizona. In *Wikipedia, The Free Encyclopedia*. Retrieved 00:56, October 9, 2024, from https://en.wikipedia.org/w/index.php?title=Flag_of_Arizona&oldid=1248268937
+license: CC BY-SA 4.0
 snippet of: "https://en.wikipedia.org/wiki/Flag_of_Arizona"
 type: snippet
 url: /en.wikipedia.org/wiki/Flag_of_Arizona/1-3/
