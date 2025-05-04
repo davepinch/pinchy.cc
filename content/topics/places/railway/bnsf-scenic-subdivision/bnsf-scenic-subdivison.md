@@ -6,7 +6,7 @@ rail line of:
   - Seattle
   - Shoreline, Washington
   - Edmonds, Washington
-  - Mukilteo
+  - Mukilteo, Washington
   - Everett, Washington
   - Bayside, Everett
   - Snohomish, Washington
