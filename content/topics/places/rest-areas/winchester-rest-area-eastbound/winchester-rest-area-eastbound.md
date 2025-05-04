@@ -2,6 +2,7 @@
 title: "Winchester Rest Area Eastbound"
 official website: "https://wsdot.wa.gov/travel/roads-bridges/rest-areas/winchester-i-90-eastbound"
 openstreetmap: "https://www.openstreetmap.org/way/394545156"
+opposite: Winchester Rest Area Westbound
 rest area of:
   - Interstate 90
   - Grant County, Washington
