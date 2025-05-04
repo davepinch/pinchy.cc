@@ -1,6 +1,7 @@
 ---
 title: "Philip the Apostle"
 apostle of:
+  - Jesus
   - Bethsaida
   - New Testament
   - Bible
