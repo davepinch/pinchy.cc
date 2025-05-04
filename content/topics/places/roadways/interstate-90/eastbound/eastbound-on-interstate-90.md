@@ -30,6 +30,7 @@ sequence:
   - Grant County, Washington
   - Grandfather Cuts Loose the Ponies
   - George, Washington
+  - Winchester Rest Area Eastbound
   - Moses Lake, Washington
 # Adams County
   - Adams County, Washington
