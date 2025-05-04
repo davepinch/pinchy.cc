@@ -1,5 +1,11 @@
 ---
 title: "Saint Peter"
+also known as:
+  - Peter the Apostle
+  - Pope Peter
+  - Simon
+  - Simon Peter
+apostle of: Jesus
 person of:
   - New Testament
   - Bible
