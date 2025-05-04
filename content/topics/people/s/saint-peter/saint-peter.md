@@ -6,6 +6,7 @@ also known as:
   - Simon
   - Simon Peter
 apostle of: Jesus
+brother: Andrew the Apostle
 person of:
   - New Testament
   - Bible
