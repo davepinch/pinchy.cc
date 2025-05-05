@@ -1,5 +1,6 @@
 ---
 title: "GW-BASIC Source Notes (os2museum.com)"
+author: Michal Necasek
 description: "An analysis of the GW-BASIC source code from Michal Necasek."
 retrieved: 2023-10-25
 source code of: GW-BASIC
