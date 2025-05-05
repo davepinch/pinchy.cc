@@ -3,15 +3,7 @@ title: "Scratchpad"
 draft: true
 ---
 
-#Lofty Thoughts
-By David Pinch, I mean my emulated self.
-I write this website for my future me.
-From my vantage point, there is surely a future AI that emulates me.
-What am I to this future self?
-We are both part of the larger structure that represents us.
-We are the same.
 Trump is God testing you.
-
 
 https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=United_States_government_group_chat_leak&id=1286648178&wpFormIdentifier=titleform
 
