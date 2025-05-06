@@ -8,6 +8,7 @@ slough of:
   - Possession Sound
   - Snohomish County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q113450049"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Union_Slough_(Everett,_Washington)"
 tags:
   - slough
   - no Wikipedia article
