@@ -1,6 +1,7 @@
 ---
 title: "Camano Island State Park"
 near: Cama Beach State Park
+official website: "https://parks.wa.gov/find-parks/state-parks/camano-island-state-park"
 openstreetmap: "https://www.openstreetmap.org/way/758397016"
 state park of:
   - Camano Island

@@ -1,6 +1,7 @@
 ---
 title: "Wallace Falls State Park"
 openstreetmap: "https://www.openstreetmap.org/relation/3721977"
+postal address: "14503 Wallace Lake Road, Gold Bar, WA 98251"
 state park of:
   - Washington
   - Snohomish County, Washington

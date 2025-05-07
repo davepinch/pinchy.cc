@@ -1,7 +1,9 @@
 ---
 title: "Cama Beach State Park"
 near: Camano Island State Park
+official website: "https://parks.wa.gov/find-parks/state-parks/cama-beach-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5967338"
+postal address: "1880 SW Camano Drive, Camano Island, WA 98282"
 state park of:
   - Saratoga Passage
   - Camano Island

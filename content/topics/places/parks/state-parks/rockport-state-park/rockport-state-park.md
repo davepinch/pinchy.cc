@@ -7,7 +7,9 @@ borders:
   - Skagit River
   - Skagit Bald Eagle Natural Area Preserve
   - Washington State Route 20
+official website: "https://parks.wa.gov/find-parks/state-parks/rockport-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3721642"
+postal address: "51905 State Route 20, Rockport, WA 98283"
 state park of:
   - Washington
   - Skagit County, Washington
