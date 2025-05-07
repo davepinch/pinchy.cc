@@ -11,6 +11,7 @@ sequence:
   - Van Zandt, Washington
   - Nooksack Indian Reservation
   - Deming, Washington
+  - Nugents Corner
   - Nooksack, Washington
   - Sumas, Washington
 type: sequence

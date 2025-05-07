@@ -4,6 +4,7 @@ opposite: "northbound on State Route 9"
 sequence:
   - Sumas, Washington
   - Nooksack, Washington
+  - Nugents Corner
   - Deming, Washington
   - Nooksack Indian Reservation
   - Van Zandt, Washington
