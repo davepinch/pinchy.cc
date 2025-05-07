@@ -4,6 +4,8 @@ eastbound of: Washington State Route 542
 sequence:
   - Bellingham, Washington
   - "I-5 at MP 254.9: Sunset Dr (wsdot.com)"
+  - Nooksack River
+  - Nugents Corner
   - Deming, Washington
   - Deming Homestead Eagle Park
   - Welcome, Washington
