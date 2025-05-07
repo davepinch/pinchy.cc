@@ -7,6 +7,7 @@ sequence:
   - Lake Stevens, Washington
   - Arlington, Washington
   - Sedro-Woolley, Washington
+  - Washington State Route 20
   - Samish River
   - Acme, Washington
   - South Fork Nooksack River

@@ -13,6 +13,7 @@ sequence:
   - Acme, Washington
   - Samish River
   - Sedro-Woolley, Washington
+  - Washington State Route 20
   - Arlington, Washington
   - Lake Stevens, Washington
   - Snohomish, Washington
