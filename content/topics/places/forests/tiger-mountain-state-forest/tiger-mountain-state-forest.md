@@ -1,5 +1,6 @@
 ---
 title: "Tiger Mountain State Forest"
+borders: West Tiger Mountain Natural Resources Conservation Area
 forest of:
   - Washington
   - King County, Washington
