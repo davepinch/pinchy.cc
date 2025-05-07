@@ -5,6 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, February 25). Minnesota River. In *Wikipedia, The Free Encyclopedia*. Retrieved June 27, 2024, from https://en.wikipedia.org/w/index.php?title=Minnesota_River&oldid=1210159889
 down the minnesota river: >-
   It [Minnesota River] joins the Mississippi at Mendota south of the Twin Cities of Minneapolis and St. Paul, near the historic Fort Snelling.
+license: CC BY-SA 4.0
 snippet of: Minnesota River (Wikipedia)
 related: Minnesotarivermap.png (Wikimedia Commons)
 type: snippet
