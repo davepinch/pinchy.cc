@@ -7,6 +7,7 @@ river of:
   - Washington
 tributary of: Skykomish River
 wikidata: "https://www.wikidata.org/wiki/Q7962883"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Wallace_River"
 tags:
   - river
   - VISIT SOMEWHERE NEW
