@@ -1,5 +1,6 @@
 ---
 title: "Wallace Falls Parking Lot Webcam (biz.parks.wa.gov)"
+license: unknown
 note:
   - Picture updates every minute but you must manually refresh.
   - There does not seem to be a page specifically about this webcam.
