@@ -6,6 +6,7 @@ sequence:
   - Snohomish, Washington
   - Lake Stevens, Washington
   - Arlington, Washington
+  - Big Lake, Washington
   - Skagit River
   - Sedro-Woolley, Washington
   - Washington State Route 20
