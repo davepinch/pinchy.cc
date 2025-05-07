@@ -15,5 +15,6 @@ url: /commons.wikimedia.org/wiki/Blind_Slough_with_Interstate_5_in_the_backgroun
 website: "https://commons.wikimedia.org/wiki/File:Blind_Slough_with_Interstate_5_in_the_background.jpg"
 when: 2025-05-05
 tags:
+  - photograph
   - Wikimedia Commons
 ---
