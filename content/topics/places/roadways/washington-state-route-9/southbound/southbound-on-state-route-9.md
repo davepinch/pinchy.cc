@@ -14,6 +14,7 @@ sequence:
   - Samish River
   - Sedro-Woolley, Washington
   - Washington State Route 20
+  - Skagit River
   - Arlington, Washington
   - Lake Stevens, Washington
   - Snohomish, Washington
