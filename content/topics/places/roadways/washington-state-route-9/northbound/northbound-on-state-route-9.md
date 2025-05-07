@@ -3,6 +3,7 @@ title: "northbound on State Route 9"
 northbound of: Washington State Route 9
 opposite: southbound on State Route 9
 sequence:
+  - Washington State Route 522
   - Snohomish, Washington
   - Lake Stevens, Washington
   - Arlington, Washington

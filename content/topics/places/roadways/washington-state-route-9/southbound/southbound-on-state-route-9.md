@@ -20,6 +20,7 @@ sequence:
   - Arlington, Washington
   - Lake Stevens, Washington
   - Snohomish, Washington
+  - Washington State Route 522
 southbound of: Washington State Route 9
 type: sequence
 tags:
