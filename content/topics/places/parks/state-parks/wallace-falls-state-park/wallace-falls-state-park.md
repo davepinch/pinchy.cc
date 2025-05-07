@@ -11,4 +11,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Wallace_Falls_State_Park
 wikipedia: "https://en.wikipedia.org/wiki/Wallace_Falls_State_Park"
 tags:
   - state park
+  - Discover Pass required
 ---
