@@ -3,6 +3,7 @@ title: "Wallace River"
 openstreetmap: "https://www.openstreetmap.org/relation/14661376"
 river of:
   - Cascade Range
+  - Mount Baker–Snoqualmie National Forest
   - Wild Sky Wilderness
   - Snohomish County, Washington
   - Washington
