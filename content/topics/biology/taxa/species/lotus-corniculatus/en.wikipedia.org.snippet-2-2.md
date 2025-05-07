@@ -4,6 +4,7 @@ title: >-
 appearance of: Lotus corniculatus
 citation: >-
   Wikipedia contributors. (2023, December 28). Lotus corniculatus. In *Wikipedia, The Free Encyclopedia*. Retrieved March 28, 2024, from https://en.wikipedia.org/w/index.php?title=Lotus_corniculatus&oldid=1192258516
+license: CC BY-SA 4.0
 snippet of: Lotus corniculatus (Wikipedia)
 related: Lotus corniculatus on Aurora
 type: snippet

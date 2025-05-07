@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, September 26). Ginkgo biloba. In *Wikipedia, The Free Encyclopedia*. Retrieved October 4, 2024, from https://en.wikipedia.org/w/index.php?title=Ginkgo_biloba&oldid=1247964362
 decline of: Ginkgo biloba
+license: CC BY-SA 4.0
 snippet of: Ginkgo biloba (Wikipedia)
 the ginkgo tree of:
   - Pliocene

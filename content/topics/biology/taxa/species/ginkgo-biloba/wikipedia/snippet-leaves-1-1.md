@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, November 16). Ginkgo biloba. In *Wikipedia, The Free Encyclopedia*. Retrieved November 17, 2023, from https://en.wikipedia.org/w/index.php?title=Ginkgo_biloba&oldid=1185351505
 leaves of: Ginkgo biloba
+license: CC BY-SA 4.0
 snippet of: Ginkgo biloba (Wikipedia)
 related: Ginkgo leaves in November
 type: snippet

@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, June 18). Reynoutria japonica. In *Wikipedia, The Free Encyclopedia*. Retrieved June 22, 2024, from https://en.wikipedia.org/w/index.php?title=Reynoutria_japonica&oldid=1229809372
 invasion of: Japanese knotweed
+license: CC BY-SA 4.0
 snippet of: Reynoutria japonica (wikipedia.org)
 type: snippet
 url: /en.wikipedia.org/wiki/Reynoutria_japonica/invasive-species-1/

@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, April 12). Rubus armeniacus. In *Wikipedia, The Free Encyclopedia*. Retrieved April 15, 2024, from https://en.wikipedia.org/w/index.php?title=Rubus_armeniacus&oldid=1218488071
 flowers of: Rubus armeniacus
+license: CC BY-SA 4.0
 snippet of: Rubus armeniacus (Wikipedia)
 related: Himalayan blackberry at Centennial Park
 type: snippet

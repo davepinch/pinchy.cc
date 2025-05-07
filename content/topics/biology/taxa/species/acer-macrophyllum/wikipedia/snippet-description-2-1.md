@@ -5,6 +5,7 @@ citation: >-
   Wikipedia contributors. (2024, February 28). Acer macrophyllum. In *Wikipedia, The Free Encyclopedia*. Retrieved March 5, 2024, from https://en.wikipedia.org/w/index.php?title=Acer_macrophyllum&oldid=1210911571
 largest leaves of: maple
 leaves of: Acer macrophyllum
+license: CC BY-SA 4.0
 snippet of: Acer macrophyllum (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Acer_macrophyllum/description-2-1/

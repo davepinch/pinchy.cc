@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, December 2). Phalaris arundinacea. In *Wikipedia, The Free Encyclopedia*. Retrieved April 3, 2024, from https://en.wikipedia.org/w/index.php?title=Phalaris_arundinacea&oldid=1187991775
 drugs of: Phalaris arundinacea
+license: CC BY-SA 4.0
 snippet of: Phalaris arundinacea (Wikipedia)
 source of: DMT
 related:

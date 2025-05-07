@@ -2,6 +2,7 @@
 title: "Clematis lasiantha (Wikipedia)"
 excerpt: >-
   ***Clematis lasiantha***, the **pipestem clematis**, is a creamy-white flowering liana vine, belonging to subgenus Clematis of the large genus *Clematis*.
+license: CC BY-SA 4.0
 related: Clematis seed pod in the backyard
 retrieved: 2023-06-17
 type: website

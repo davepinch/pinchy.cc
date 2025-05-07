@@ -8,6 +8,7 @@ common names:
   - great rhododendron
 excerpt: >-
   **Rhododendron maximum** is a species of *Rhododendron* native to the Appalachians of eastern North America, from Alabama north to coastal Nova Scotia. Its common names include **great laurel**, **great rhododendron**, **rosebay rhododendron**, **American rhododendron** and **big rhododendron**.
+license: CC BY-SA 4.0
 retrieved: 2024-07-10
 type: website
 url: /en.wikipedia.org/wiki/Rhododendron_maximum/

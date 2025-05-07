@@ -4,6 +4,7 @@ title: >-
 behavior of: Turdus migratorius
 citation: >-
   Wikipedia contributors. (2024, April 26). American robin. In *Wikipedia, The Free Encyclopedia*. Retrieved April 30, 2024, from https://en.wikipedia.org/w/index.php?title=American_robin&oldid=1220912928
+license: CC BY-SA 4.0
 snippet of: American robin (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/American_robin/diet-2-1/

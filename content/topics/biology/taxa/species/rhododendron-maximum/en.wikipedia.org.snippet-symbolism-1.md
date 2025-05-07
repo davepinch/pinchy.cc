@@ -3,6 +3,7 @@ title: >-
   Rhododendron maximum is the state flower of the U.S. state of West Virginia.
 citation: >-
   Wikipedia contributors. (2024, April 22). Rhododendron maximum. In *Wikipedia, The Free Encyclopedia*. Retrieved July 10, 2024, from https://en.wikipedia.org/w/index.php?title=Rhododendron_maximum&oldid=1220220576
+license: CC BY-SA 4.0
 snippet of: Rhododendron maximum (Wikipedia)
 state flower of:
   - West Virginia
