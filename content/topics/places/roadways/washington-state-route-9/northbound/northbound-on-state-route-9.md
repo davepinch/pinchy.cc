@@ -12,6 +12,7 @@ sequence:
   - Nooksack Indian Reservation
   - Deming, Washington
   - Nooksack, Washington
+  - Sumas, Washington
 type: sequence
 tags:
   - northbound
