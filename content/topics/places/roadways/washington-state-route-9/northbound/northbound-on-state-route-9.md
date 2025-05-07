@@ -10,6 +10,7 @@ sequence:
   - Acme, Washington
   - Van Zandt, Washington
   - Nooksack Indian Reservation
+  - North Fork Nooksack River
   - Deming, Washington
   - Nugents Corner
   - Nooksack, Washington

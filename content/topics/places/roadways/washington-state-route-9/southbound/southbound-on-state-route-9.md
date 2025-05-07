@@ -7,6 +7,7 @@ sequence:
   - Nugents Corner
   - Deming, Washington
   - Nooksack Indian Reservation
+  - North Fork Nooksack River
   - Van Zandt, Washington
   - Acme, Washington
   - Sedro-Woolley, Washington
