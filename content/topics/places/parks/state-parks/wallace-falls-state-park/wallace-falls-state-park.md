@@ -7,7 +7,7 @@ state park of:
   - Wallace River
   - North Fork Wallace River
 vantage point of:
-  - Mount Baring
+  - Baring Mountain
   - Mount Index
   - Mount Persis
   - Philadelphia Mountain
