@@ -13,6 +13,7 @@ state park of:
   - Skagit County, Washington
   - Washington State Route 20
 vicinity of: Rockport, Washington
+wikidata: "https://www.wikidata.org/wiki/Q2160759"
 tags:
   - state park
 ---
