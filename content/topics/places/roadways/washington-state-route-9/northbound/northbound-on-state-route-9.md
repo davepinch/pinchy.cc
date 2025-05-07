@@ -7,6 +7,7 @@ sequence:
   - Lake Stevens, Washington
   - Arlington, Washington
   - Sedro-Woolley, Washington
+  - Samish River
   - Acme, Washington
   - South Fork Nooksack River
   - Van Zandt, Washington
