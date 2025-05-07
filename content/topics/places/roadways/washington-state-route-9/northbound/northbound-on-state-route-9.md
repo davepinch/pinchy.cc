@@ -9,6 +9,7 @@ sequence:
   - Sedro-Woolley, Washington
   - Acme, Washington
   - Van Zandt, Washington
+  - Nooksack Indian Reservation
   - Deming, Washington
 type: sequence
 tags:
