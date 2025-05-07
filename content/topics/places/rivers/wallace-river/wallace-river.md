@@ -2,6 +2,7 @@
 title: "Wallace River"
 openstreetmap: "https://www.openstreetmap.org/relation/14661376"
 river of:
+  - Cascade Range
   - Wild Sky Wilderness
   - Snohomish County, Washington
   - Washington
