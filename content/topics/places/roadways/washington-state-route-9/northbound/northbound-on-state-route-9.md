@@ -11,6 +11,7 @@ sequence:
   - Van Zandt, Washington
   - Nooksack Indian Reservation
   - Deming, Washington
+  - Nooksack, Washington
 type: sequence
 tags:
   - northbound

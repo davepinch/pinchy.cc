@@ -2,6 +2,7 @@
 title: "southbound on State Route 9"
 opposite: "northbound on State Route 9"
 sequence:
+  - Nooksack, Washington
   - Deming, Washington
   - Nooksack Indian Reservation
   - Van Zandt, Washington
