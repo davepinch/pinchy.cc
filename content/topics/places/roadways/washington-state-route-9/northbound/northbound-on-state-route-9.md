@@ -8,6 +8,7 @@ sequence:
   - Arlington, Washington
   - Sedro-Woolley, Washington
   - Acme, Washington
+  - South Fork Nooksack River
   - Van Zandt, Washington
   - Nooksack Indian Reservation
   - North Fork Nooksack River
