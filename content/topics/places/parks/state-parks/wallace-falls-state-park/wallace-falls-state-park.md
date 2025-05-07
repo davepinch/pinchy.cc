@@ -6,6 +6,11 @@ state park of:
   - Snohomish County, Washington
   - Wallace River
   - North Fork Wallace River
+vantage point of:
+  - Mount Baring
+  - Mount Index
+  - Mount Persis
+  - Philadelphia Mountain
 vicinity of: Gold Bar, Washington
 wikidata: "https://www.wikidata.org/wiki/Q7962796"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wallace_Falls_State_Park"
