@@ -1,6 +1,7 @@
 ---
 title: "Saint Edward State Park"
 openstreetmap: "https://www.openstreetmap.org/relation/5630068"
+postal address: 14445 Juanita Drive NE, Kenmore, WA 98028
 quick trip from Bothell of: VISIT SOMEWHERE NEW
 state park of:
   - Kenmore, Washington
