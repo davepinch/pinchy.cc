@@ -8,7 +8,7 @@ bedrock of:
 coal seams of: Renton Formation
 snippet of: Squak Mountain State Park History (parks.wa.gov)
 type: snippet
-url: /parks.wa.gov/about/news-center/field-guide-blog/squak-mountain-state-park-history/history-2-1/
+url: /parks.wa.gov/about/news-center/field-guide-blog/squak-mountain-state-park-history/history-2/
 tags:
   - coal
   - peat
