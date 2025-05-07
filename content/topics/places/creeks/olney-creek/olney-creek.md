@@ -1,6 +1,7 @@
 ---
 title: "Olney Creek"
 creek of:
+  - Morning Star Natural Resources Conservation Area
   - Sultan, Washington
   - Snohomish County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/14663468"
