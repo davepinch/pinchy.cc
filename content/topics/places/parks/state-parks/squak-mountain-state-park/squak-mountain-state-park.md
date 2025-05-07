@@ -12,4 +12,5 @@ state park of:
 wikipedia: Squak Mountain (Wikipedia)
 tags:
   - state park
+  - Discover Pass required
 ---
