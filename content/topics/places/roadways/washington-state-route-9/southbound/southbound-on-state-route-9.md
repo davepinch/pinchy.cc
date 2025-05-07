@@ -16,6 +16,7 @@ sequence:
   - Washington State Route 20
   - Skagit River
   - Big Lake, Washington
+  - Stillaguamish River
   - Arlington, Washington
   - Lake Stevens, Washington
   - Snohomish, Washington
