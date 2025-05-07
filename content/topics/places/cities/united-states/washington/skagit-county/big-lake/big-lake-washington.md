@@ -1,6 +1,8 @@
 ---
 title: "Big Lake, Washington"
-census-designated place of: Skagit County, Washington
+census-designated place of:
+  - Skagit County, Washington
+  - Washington State Route 9
 openstreetmap: "https://www.openstreetmap.org/relation/237330"
 wikidata: "https://www.wikidata.org/wiki/Q1509489"
 wikipedia: "https://en.wikipedia.org/wiki/Big_Lake,_Washington"
