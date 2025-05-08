@@ -1,6 +1,7 @@
 ---
 title: "Theodore Roosevelt by the Pach Bros.jpg (Wikimedia Commons)"
 author: Pach Brothers; restored by Adam Cuerden   
+illustration of: Theodore Roosevelt (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Theodore_Roosevelt_by_the_Pach_Bros.jpg/1717px-Theodore_Roosevelt_by_the_Pach_Bros.jpg"
 portrait of: Theodore Roosevelt

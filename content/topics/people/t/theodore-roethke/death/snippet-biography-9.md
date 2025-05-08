@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, April 7). Theodore Roethke. In *Wikipedia, The Free Encyclopedia*. Retrieved April 7, 2024, from https://en.wikipedia.org/w/index.php?title=Theodore_Roethke&oldid=1217649897
 death of: Theodore Roethke
+license: CC BY-SA 4.0
 related: Bloedel Reserve (Wikipedia)
 snippet of: Theodore Roethke (Wikipedia)
 theodore roethke of:
