@@ -1,5 +1,6 @@
 ---
 title: "Deuteronomy 19:21"
+similar to: "Leviticus 24:20"
 verse of: "Deuteronomy 19"
 tags:
   - verse of the Bible
