@@ -2,6 +2,7 @@
 title: "Barbados (Wikipedia)"
 excerpt: >-
   **Barbados** (UK: /bɑːrˈbeɪdɒs/ bar-BAY-doss; US: /bɑːrˈbeɪdoʊs/ bar-BAY-dohss; locally /bɑːrˈbeɪdəs/ bar-BAY-dəss) is an island country in the Lesser Antilles of the West Indies, in the Caribbean region next to North America and north of South America, and is the most easterly of the Caribbean islands. It lies on the boundary of the South American and Caribbean plates. Its capital and largest city is Bridgetown.
+license: CC BY-SA 4.0
 retrieved: 2024-10-18
 type: website
 url: /en.wikipedia.org/wiki/Barbados/

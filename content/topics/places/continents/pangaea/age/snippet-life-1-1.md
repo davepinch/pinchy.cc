@@ -4,6 +4,7 @@ title: >-
 age of: Pangaea
 citation: >-
   Wikipedia contributors. (2024, February 4). Pangaea. In *Wikipedia, The Free Encyclopedia*. Retrieved February 5, 2024, from https://en.wikipedia.org/w/index.php?title=Pangaea&oldid=1203302789
+license: CC BY-SA 4.0
 snippet of: Pangaea (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Pangaea/life-1-1/

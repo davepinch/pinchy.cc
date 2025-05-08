@@ -2,6 +2,7 @@
 title: "Morocco (Wikipedia)"
 excerpt: >-
   **Morocco**, officially the **Kingdom of Morocco**, is a country in the Maghreb region of North Africa. It overlooks the Mediterranean Sea to the north and the Atlantic Ocean to the west, and has land borders with Algeria to the east, and the disputed territory of Western Sahara to the south. Morocco also claims the Spanish exclaves of Ceuta, Melilla and Peñón de Vélez de la Gomera, and several small Spanish-controlled islands off its coast. It has a population of approximately 37 million. Islam is both the official and predominant religion, while Arabic and Berber are the official languages. Additionally, French and the Moroccan dialect of Arabic are widely spoken. The culture of Morocco is a mix of Arab, Berber, African and European cultures. Its capital is Rabat, while its largest city is Casablanca.
+license: CC BY-SA 4.0
 retrieved: 2024-11-29
 type: website
 url: /en.wikipedia.org/wiki/Morocco/
