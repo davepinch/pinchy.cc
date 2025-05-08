@@ -1,6 +1,7 @@
 ﻿---
 title: "Queen Victoria by Bassano.jpg (Wikimedia Commons)"
 author: Alexander Bassano
+illustration of: Queen Victoria (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e3/Queen_Victoria_by_Bassano.jpg"
 portrait of: Queen Victoria
