@@ -1,6 +1,8 @@
 ---
 title: "Looking up Union Slough near the Snohomish River.jpg (Wikimedia Commons)"
 author: David Pinch
+description: >-
+  Walking along Langus Riverfront Trail near the mouth of Union Slough as it merges with Steamboat Slough and the Snohomish River.
 license: CC BY 4.0
 photograph of: Union Slough
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/80/Looking_up_Union_Slough_near_the_Snohomish_River.jpg"
