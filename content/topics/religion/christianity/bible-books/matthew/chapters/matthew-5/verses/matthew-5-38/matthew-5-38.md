@@ -4,6 +4,7 @@ title: "Matthew 5:38"
 ➡️: "Matthew 5:39"
 reference of:
   - "Deuteronomy 19:21"
+  - "Exodus 21:24"
   - "Leviticus 24:20"
 verse of: Gospel of Matthew
 wikidata: "https://www.wikidata.org/wiki/Q6789993"
