@@ -5,6 +5,7 @@ birth of: Pablo Picasso
 born in: Spain
 citation: >-
   Wikipedia contributors. (2024, March 3). Pablo Picasso. In *Wikipedia, The Free Encyclopedia*. Retrieved March 11, 2024, from https://en.wikipedia.org/w/index.php?title=Pablo_Picasso&oldid=1211675418
+license: CC BY-SA 4.0
 snippet of: Pablo Picasso (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Pablo_Picasso/early-life-1-1/
