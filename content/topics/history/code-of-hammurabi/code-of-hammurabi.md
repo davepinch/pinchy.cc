@@ -1,5 +1,6 @@
 ---
 title: "Code of Hammurabi"
+displayed in: Louvre
 inscription of: basalt
 law of:
   - Hammurabi
