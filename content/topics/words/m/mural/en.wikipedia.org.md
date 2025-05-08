@@ -2,6 +2,7 @@
 title: "Mural (Wikipedia)"
 excerpt: >-
   A **mural** is any piece of graphic artwork that is painted or applied directly to a wall, ceiling or other permanent substrate. Mural techniques include fresco, mosaic, graffiti and marouflage.
+license: CC BY-SA 4.0
 related: "Colorful mural on 23rd Ave E"
 retrieved: 2022-12-16
 type: website

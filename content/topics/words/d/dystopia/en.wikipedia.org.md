@@ -38,6 +38,7 @@ notable works:
   - Equilibrium (film) (Wikipedia)
 # 2006
   - Idiocracy (Wikipedia)
+license: CC BY-SA 4.0
 retrieved: 2024-05-26
 type: website
 url: /en.wikipedia.org/wiki/Dystopia/

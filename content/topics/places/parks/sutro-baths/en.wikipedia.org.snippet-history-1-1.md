@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, January 6). Sutro Baths. In *Wikipedia, The Free Encyclopedia*. Retrieved March 17, 2024, from https://en.wikipedia.org/w/index.php?title=Sutro_Baths&oldid=1131997262
 history of: Sutro Baths
+license: CC BY-SA 4.0
 snippet of: Sutro Baths (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Sutro_Baths/history-1-1/

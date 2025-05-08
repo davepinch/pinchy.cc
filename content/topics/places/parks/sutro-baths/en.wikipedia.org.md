@@ -2,6 +2,7 @@
 title: "Sutro Baths (Wikipedia)"
 excerpt: >-
   The **Sutro Baths** was a large, privately owned public saltwater swimming pool complex in the Lands End area of the Outer Richmond District in western [San Francisco](/en.wikipedia.org/wiki/San_Francisco/), [California](/en.wikipedia.org/wiki/California/).
+license: CC BY-SA 4.0
 related: Sutro Baths at Ocean Beach
 retrieved: 2023-06-26
 type: website

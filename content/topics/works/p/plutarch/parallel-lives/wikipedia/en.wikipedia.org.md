@@ -2,6 +2,7 @@
 title: "Parallel Lives (Wikipedia)"
 excerpt: >-
   The ***Parallel Lives*** (Greek: Βίοι Παράλληλοι, *Bíoi Parállēloi*; Latin: Vītae Parallēlae) is a series of 48 biographies of famous men written by the Greco-Roman philosopher, historian, and Apollonian priest Plutarch, probably at the beginning of the second century...
+license: CC BY-SA 4.0
 retrieved: 2024-10-31
 type: website
 url: /en.wikipedia.org/wiki/Parallel_Lives/

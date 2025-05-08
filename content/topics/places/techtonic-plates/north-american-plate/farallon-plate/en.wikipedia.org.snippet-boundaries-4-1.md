@@ -3,6 +3,7 @@ title: "On its western edge, the Farallon Plate has been subducting under the No
 citation: >-
   Wikipedia contributors. (2023, December 13). North American Plate. In *Wikipedia, The Free Encyclopedia*. Retrieved January 3, 2024, from https://en.wikipedia.org/w/index.php?title=North_American_Plate&oldid=1189699070
 farallon plate of: North American Plate
+license: CC BY-SA 4.0
 snippet of: North American Plate (Wikipedia)
 subduction of:
   - Farallon Plate

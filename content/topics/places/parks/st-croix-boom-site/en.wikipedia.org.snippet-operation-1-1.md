@@ -6,6 +6,7 @@ citation: >-
 history of:
   - St. Croix Boom Site
   - Saint Croix River
+license: CC BY-SA 4.0
 snippet of: St. Croix Boom Site (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/St._Croix_Boom_Site/operation-1-1/

@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, April 22). The Voyage of Life. In *Wikipedia, The Free Encyclopedia*. Retrieved August 10, 2024, from https://en.wikipedia.org/w/index.php?title=The_Voyage_of_Life&oldid=1220232779
 painting 3 (manhood) of: The Voyage of Life
+license: CC BY-SA 4.0
 description of: Thomas Cole, The Voyage of Life, 1842, National Gallery of Art.jpg (Wikimedia Commons)
 snippet of: The Voyage of Life (Wikipedia)
 type: snippet

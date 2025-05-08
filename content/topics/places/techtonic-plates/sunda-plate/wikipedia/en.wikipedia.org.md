@@ -2,6 +2,7 @@
 title: "Sunda Plate (Wikipedia)"
 excerpt: >-
   The **Sunda Plate** is a minor tectonic plate straddling the Equator in the Eastern Hemisphere on which the majority of Southeast Asia is located.
+license: CC BY-SA 4.0
 retrieved: 2024-06-08
 type: website
 url: /en.wikipedia.org/wiki/Sunda_Plate/

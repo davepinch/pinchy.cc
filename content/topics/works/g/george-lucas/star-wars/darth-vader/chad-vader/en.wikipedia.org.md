@@ -2,6 +2,7 @@
 title: "Chad Vader: Day Shift Manager (Wikipedia)"
 excerpt: >-
   ***Chad Vader: Day Shift Manager*** is an American fan web sitcom created by Aaron Yonda and Matt Sloan, who wrote, directed, and appeared in the series, which parodies Star Wars. The show's central character is Chad Vader, the day-shift manager at the fictional supermarket Empire Market, who clashes with his customers and employees.
+license: CC BY-SA 4.0
 related: Darth Vader (Wikipedia)
 retrieved: 2024-04-14
 type: website

@@ -2,6 +2,7 @@
 title: "The Butterfly Dream (Wikipedia)"
 excerpt: >-
   The most famous of all Zhuangzi stories—"Zhuang Zhou Dreams of Being a Butterfly"—appears at the end of the second chapter, "On the Equality of Things".
+license: CC BY-SA 4.0
 related:
   - Zhuangzi (book) (Wikipedia)
   - Dream argument (Wikipedia)

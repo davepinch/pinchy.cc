@@ -2,6 +2,7 @@
 title: "Technology (Wikipedia)"
 excerpt: >-
   **Technology** is the application of conceptual knowledge to achieve practical goals, especially in a reproducible way. The word technology can also mean the products resulting from such efforts, including both tangible tools such as utensils or machines, and intangible ones such as software. Technology plays a critical role in science, engineering, and everyday life.
+license: CC BY-SA 4.0
 retrieved: 2024-09-21
 type: website
 url: /en.wikipedia.org/wiki/Technology/
