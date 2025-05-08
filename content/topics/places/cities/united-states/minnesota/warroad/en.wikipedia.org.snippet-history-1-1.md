@@ -5,6 +5,7 @@ citation: >-
 history of:
   - Warroad, Minnesota
   - Lake of the Woods
+license: CC BY-SA 4.0
 snippet of: Warroad, Minnesota (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Warroad,_Minnesota/history-1-1/

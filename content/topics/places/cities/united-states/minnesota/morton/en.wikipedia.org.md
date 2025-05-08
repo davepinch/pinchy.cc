@@ -2,6 +2,7 @@
 title: "Morton, Minnesota (Wikipedia)"
 excerpt: >-
   **Morton** is a city in Renville County, Minnesota, United States. This city is ninety-five miles southwest of Minneapolis. It is the administrative headquarters of the Lower Sioux Indian Reservation. The population was 411 at the 2010 census.
+license: CC BY-SA 4.0
 retrieved: 2024-11-16
 type: website
 url: /en.wikipedia.org/wiki/Morton,_Minnesota/

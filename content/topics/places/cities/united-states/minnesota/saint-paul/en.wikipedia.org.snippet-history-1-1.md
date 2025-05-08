@@ -7,6 +7,7 @@ history of:
   - Hopewell Tradition
   - Indian Mounds Regional Park
   - Saint Paul, Minnesota
+license: CC BY-SA 4.0
 snippet of: Saint Paul, Minnesota (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Saint_Paul,_Minnesota/history-1-1/
