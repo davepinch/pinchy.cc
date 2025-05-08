@@ -1,5 +1,6 @@
 ---
 title: "Uros and Aymaras: Enduring the Extreme Altitudes and Climate of the Andes | SLICE l FULL DOCUMENTARY (YouTube)"
+episode of: "@SLICEDocumentary"
 excerpt: >-
   At Lake Titicaca, the highest navigable lake in the world, the descendants of the Uros Indians live on incredible floating islands. Here, 250 families make their living from this vast freshwater sea, creating an unusual world suspended between heaven and reeds.
 documentary of:
