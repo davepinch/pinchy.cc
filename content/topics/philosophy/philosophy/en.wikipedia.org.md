@@ -2,6 +2,7 @@
 title: "Philosophy (Wikipedia)"
 excerpt: >-
   **Philosophy** (*love of wisdom* in ancient Greek) is a systematic study of general and fundamental questions concerning topics like [existence](/en.wikipedia.org/wiki/Existence), reason, knowledge, value, mind, and language. It is a rational and critical inquiry that reflects on its own methods and assumptions.
+license: CC BY-SA 4.0
 retrieved: 2023-09-30
 type: website
 url: /en.wikipedia.org/wiki/Philosophy/

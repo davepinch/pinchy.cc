@@ -5,6 +5,7 @@ excerpt: >-
 related:
   - >-
     There *are* metaphysical problems, which cannot be disposed of by declaring them meaningless. For, as I have repeatedly said, they are "beyond physics" indeed and demand an act of faith. We have to accept this fact to be honest. There are two objectionable types of believers: those who believe the incredible and those who believe that "belief" must be discarded and replaced by "the scientific method."
+license: CC BY-SA 4.0
 retrieved: 2023-11-17
 type: website
 url: /en.wikipedia.org/wiki/Metaphysics/

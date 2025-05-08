@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, February 21). Ontological argument. In *Wikipedia, The Free Encyclopedia*. Retrieved March 14, 2024, from https://en.wikipedia.org/w/index.php?title=Ontological_argument&oldid=1209431684
 first of: ontological argument
+license: CC BY-SA 4.0
 ontological argument of: Proslogion
 snippet of: Ontological argument (Wikipedia)
 type: snippet
