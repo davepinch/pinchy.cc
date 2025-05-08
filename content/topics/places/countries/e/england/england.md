@@ -1,6 +1,7 @@
 ---
 title: "England"
 country of:
+  - Great Britain
   - United Kingdom
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/58447"
