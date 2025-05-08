@@ -6,6 +6,11 @@ trail of:
   - Union Slough
   - Everett, Washington
   - Langus Riverfront Park
+vantage point of:
+  - Union Slough
+  - Steamboat Slough (Snohomish River)
+  - Snohomish River
+  - Spencer Island
 tags:
   - trail
 ---
