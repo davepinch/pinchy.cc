@@ -4,6 +4,7 @@ birth of: Warren G. Harding
 born in: Ohio
 citation: >-
   Wikipedia contributors. (2024, October 24). Warren G. Harding. In *Wikipedia, The Free Encyclopedia*. Retrieved 01:07, October 25, 2024, from https://en.wikipedia.org/w/index.php?title=Warren_G._Harding&oldid=1253050661
+license: CC BY-SA 4.0
 snippet of: Warren G. Harding (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Warren_G._Harding/early-life-and-career-1-1/

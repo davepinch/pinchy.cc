@@ -5,6 +5,7 @@ around the time of: "That's good. Go on, read some more."
 citation: >-
   Wikipedia contributors. (2024, October 24). Warren G. Harding. In *Wikipedia, The Free Encyclopedia*. Retrieved 01:07, October 25, 2024, from https://en.wikipedia.org/w/index.php?title=Warren_G._Harding&oldid=1253050661
 death of: Warren G. Harding
+license: CC BY-SA 4.0
 snippet of: Warren G. Harding (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Warren_G._Harding/death-and-funeral-1-10/

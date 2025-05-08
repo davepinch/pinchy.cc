@@ -1,6 +1,7 @@
 ---
 title: "Warren G Harding-Harris & Ewing.jpg (Wikimedia Commons)"
 author: "Harris & Ewing"
+illustration of: Warren G. Harding (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c4/Warren_G_Harding-Harris_%26_Ewing.jpg"
 portrait of: Warren G. Harding
