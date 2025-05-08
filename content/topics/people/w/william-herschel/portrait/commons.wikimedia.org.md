@@ -1,6 +1,7 @@
 ---
 title: "William Herschel01.jpg (Wikimedia Commons)"
 author: Lemuel Francis Abbott
+illustration of: William Herschel (Wikipedia)
 license: public domain
 photograph of: painting
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/36/William_Herschel01.jpg"
