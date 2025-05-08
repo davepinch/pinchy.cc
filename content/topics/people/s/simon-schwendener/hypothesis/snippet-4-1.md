@@ -8,6 +8,7 @@ formed from:
 hypothesis of:
   - Simon Schwendener
   - lichen
+license: CC BY-SA 4.0
 type: snippet
 url: /en.wikipedia.org/wiki/Simon_Schwendener/4-1/
 tags:
