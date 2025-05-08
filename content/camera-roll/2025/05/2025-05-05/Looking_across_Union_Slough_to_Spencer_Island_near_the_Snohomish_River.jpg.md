@@ -11,6 +11,7 @@ looking across of:
   - Spencer Island
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/28/Looking_across_Union_Slough_to_Spencer_Island_near_the_Snohomish_River.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Looking_across_Union_Slough_to_Spencer_Island_near_the_Snohomish_River.jpg/330px-Looking_across_Union_Slough_to_Spencer_Island_near_the_Snohomish_River.jpg"
+type: picture
 url: /commons.wikimedia.org/wiki/Looking_across_Union_Slough_to_Spencer_Island_near_the_Snohomish_River.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Looking_across_Union_Slough_to_Spencer_Island_near_the_Snohomish_River.jpg"
 when: 2025-05-05
