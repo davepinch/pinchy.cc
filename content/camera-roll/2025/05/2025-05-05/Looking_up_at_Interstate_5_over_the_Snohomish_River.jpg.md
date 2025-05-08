@@ -15,6 +15,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Looking_up_at_Interstate_5_over_the_Snohomish_River.jpg/
 vicinity of: Langus Riverfront Park
 website: "https://commons.wikimedia.org/wiki/File:Looking_up_at_Interstate_5_over_the_Snohomish_River.jpg"
+when: 2025-05-05
 tags:
   - Wikimedia Commons
 ---

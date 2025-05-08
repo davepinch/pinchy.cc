@@ -12,6 +12,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Dead_tree_
 type: picture
 url: /commons.wikimedia.org/wiki/Dead_tree_along_Langus_Riverfront_Trail.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Dead_tree_along_Langus_Riverfront_Trail.jpg"
+when: 2025-05-05
 tags:
   - Wikimedia Commons
 ---

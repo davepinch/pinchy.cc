@@ -10,6 +10,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Shoreline_
 type: picture
 url: /commons.wikimedia.org/wiki/Shoreline_near_the_boat_launch_at_Langus_Riverfront_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Shoreline_near_the_boat_launch_at_Langus_Riverfront_Park.jpg"
+when: 2025-05-05
 tags:
   - Wikimedia Commons
 ---

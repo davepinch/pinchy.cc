@@ -9,7 +9,7 @@ union slough of: Langus Riverfront Trail
 type: picture
 url: /commons.wikimedia.org/wiki/Looking_up_Union_Slough_near_the_Snohomish_River.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Looking_up_Union_Slough_near_the_Snohomish_River.jpg"
-when: 2026-05-05
+when: 2025-05-05
 tags:
   - photograph
   - Wikimedia Commons

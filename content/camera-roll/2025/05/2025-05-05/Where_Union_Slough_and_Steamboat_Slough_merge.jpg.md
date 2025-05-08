@@ -11,6 +11,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Where_Unio
 type: picture
 url: /commons.wikimedia.org/wiki/Where_Union_Slough_and_Steamboat_Slough_merge.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Where_Union_Slough_and_Steamboat_Slough_merge.jpg"
+when: 2025-05-05
 tags:
   - Wikimedia Commons
 ---
