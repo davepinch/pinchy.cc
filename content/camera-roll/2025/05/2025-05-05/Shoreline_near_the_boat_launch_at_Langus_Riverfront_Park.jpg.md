@@ -1,6 +1,8 @@
 ---
 title: "Shoreline near the boat launch at Langus Riverfront Park.jpg (Wikimedia Commons)"
 author: David Pinch
+description: >-
+  Standing upstream of the boat launch at Langus Riverfront Park, looking at the shoreline of the Snohomish River. A log and a string of buoys are stuck on the shore. It is a sunny day, lighting up a gradient of blues and grays on the river.
 license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Shoreline_near_the_boat_launch_at_Langus_Riverfront_Park.jpg"
 shoreline near boat launch of:
