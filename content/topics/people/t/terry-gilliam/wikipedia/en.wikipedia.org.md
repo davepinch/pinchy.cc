@@ -2,6 +2,7 @@
 title: "Terry Gilliam (Wikipedia)"
 excerpt: >-
   **Terry Gilliam** (/ˈɡɪliəm/; born 22 November 1940) is an American-born British filmmaker, comedian, animator, actor and former member of the Monty Python comedy troupe.
+license: CC BY-SA 4.0
 retrieved: 2023-04-12
 type: website
 url: /en.wikipedia.org/wiki/Terry_Gilliam/
