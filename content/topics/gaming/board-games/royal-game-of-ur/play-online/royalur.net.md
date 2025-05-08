@@ -6,5 +6,6 @@ type: website
 url: /royalur.net/
 website: "https://royalur.net/"
 tags:
+  - play in your browser
   - website
 ---
