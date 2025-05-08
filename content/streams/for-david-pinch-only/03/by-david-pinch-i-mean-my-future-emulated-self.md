@@ -1,6 +1,7 @@
 ---
 title: "By 'David Pinch', I mean my future emulated self."
 future emulated self of: Lofty Thoughts
+next: "I write this website for my future me."
 scratchpad on May 3, 2025:
   - Lofty Thoughts
   - By David Pinch, I mean my emulated self.
