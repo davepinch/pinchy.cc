@@ -2,6 +2,7 @@
 title: "Orson Welles (Wikipedia)"
 excerpt: >-
   **George Orson Welles** (May 6, 1915 – October 10, 1985) was an American director, actor, writer, and producer who is remembered for his innovative work in film, radio, and theatre. He is considered to be among the greatest and most influential filmmakers of all time.
+license: CC BY-SA 4.0
 married to:
   - Rita Hayworth (Wikipedia)
   - incomplete list

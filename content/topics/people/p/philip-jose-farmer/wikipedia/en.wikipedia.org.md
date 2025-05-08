@@ -3,6 +3,7 @@ title: "Philip José Farmer (Wikipedia)"
 dedicated in part to him: Stranger in a Strange Land (Wikipedia)
 excerpt: >-
   **Philip José Farmer** (January 26, 1918 – February 25, 2009) was an American author known for his science fiction and fantasy novels and short stories.
+license: CC BY-SA 4.0
 retrieved: 2024-02-29
 type: website
 url: /en.wikipedia.org/wiki/Philip_José_Farmer/
