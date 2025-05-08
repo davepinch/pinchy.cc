@@ -12,6 +12,8 @@ scotch broom of:
   - fence
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scotch_broom_through_the_fence.jpg/330px-Scotch_broom_through_the_fence.jpg"
 type: picture
+url: /commons.wikimedia.org/wiki/Scotch_broom_through_the_fence.jpg/
+website: "https://commons.wikimedia.org/wiki/File:Scotch_broom_through_the_fence.jpg"
 when: 2025-05-05
 tags:
   - Wikimedia Commons
