@@ -2,6 +2,7 @@
 title: "Elementary algebra (Wikipedia)"
 excerpt: >-
   **Elementary algebra**, also known as **college algebra**, encompasses the basic concepts of [algebra](/en.wikipedia.org/wiki/Algebra/). It is often contrasted with [arithmetic](/en.wikipedia.org/wiki/Arithmetic/): arithmetic deals with specified numbers, whilst algebra introduces variables (quantities without fixed values).
+license: CC BY-SA 4.0
 retrieved: 2024-07-09
 type: website
 url: /en.wikipedia.org/wiki/Elementary_algebra/

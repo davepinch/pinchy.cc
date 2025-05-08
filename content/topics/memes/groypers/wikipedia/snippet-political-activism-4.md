@@ -6,6 +6,7 @@ citation: >-
 laura loomer of:
   - Nick Fuentes
   - Groypers
+license: CC BY-SA 4.0
 snippet of: Groypers (Wikipedia)
 support of: Laura Loomer
 type: snippet

@@ -2,6 +2,7 @@
 title: "Commutative property (Wikipedia)"
 excerpt: >-
   In mathematics, a binary operation is **commutative** if changing the order of the operands does not change the result.
+license: CC BY-SA 4.0
 retrieved: 2024-03-06
 type: website
 url: /en.wikipedia.org/wiki/Commutative_property/

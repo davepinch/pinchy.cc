@@ -2,6 +2,7 @@
 title: "Triangle (Wikipedia)"
 excerpt: >-
   A **triangle** is a [polygon](/en.wikipedia.org/wiki/Polygon/) with three edges and three vertices. It is one of the basic shapes in [geometry](/en.wikipedia.org/wiki/Geometry/). A triangle with vertices A, B, and C is denoted △ABC.
+license: CC BY-SA 4.0
 related:
   - Big Brother Watching
   - Regular_polygon_3_annotated.svg (Wikimedia Commons)

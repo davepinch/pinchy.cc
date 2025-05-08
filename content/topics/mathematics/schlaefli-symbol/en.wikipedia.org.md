@@ -2,6 +2,7 @@
 title: "Schläfli symbol (Wikipedia)"
 excerpt: >-
   In geometry, the Schläfli symbol is a notation of the form {p,q,r,...} that defines regular polytopes and tessellations.
+license: CC BY-SA 4.0
 retrieved: 2024-09-27
 type: website
 #

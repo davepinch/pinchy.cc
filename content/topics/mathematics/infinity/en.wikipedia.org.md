@@ -2,6 +2,7 @@
 title: "Infinity (Wikipedia)"
 excerpt: >-
   **Infinity** is something which is boundless, endless, or larger than any [natural number](/en.wikipedia.org/wiki/Natural_number). It is often denoted by the infinity symbol ∞.
+license: CC BY-SA 4.0
 retrieved: 2023-10-31
 type: website
 url: /en.wikipedia.org/wiki/Infinity/

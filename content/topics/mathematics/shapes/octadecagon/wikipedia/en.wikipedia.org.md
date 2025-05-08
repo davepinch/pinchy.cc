@@ -2,6 +2,7 @@
 title: "Octadecagon (Wikipedia)"
 excerpt: >-
   In [geometry](/en.wikipedia.org/wiki/Geometry/), an octadecagon (or octakaidecagon) or 18-gon is an eighteen-sided [polygon](/en.wikipedia.org/wiki/Polygon/).
+license: CC BY-SA 4.0
 related: Regular_polygon_18_annotated.svg (Wikimedia Commons)
 retrieved: 2024-06-28
 type: website
