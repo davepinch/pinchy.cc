@@ -6,6 +6,7 @@ citation: >-
 gulf of america of:
   - Gulf of Mexico
   - Donald Trump
+license: CC BY-SA 4.0
 snippet of: Gulf of Mexico (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Gulf_of_Mexico/gulf-of-america-1-1/
