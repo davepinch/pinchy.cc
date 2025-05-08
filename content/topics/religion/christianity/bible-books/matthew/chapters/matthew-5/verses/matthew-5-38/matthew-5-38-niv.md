@@ -5,6 +5,8 @@ title: "Matthew 5:38 NIV"
 attribution: "Matthew 5:38 NIV"
 New International Version of: "Matthew 5:38"
 quote: "“You have heard that it was said, ‘Eye for eye, and tooth for tooth.’"
+reference of:
+  - "Deuteronomy 19:21 NIV"
 type: quote
 tags:
   - quote
