@@ -6,6 +6,7 @@ description: >-
   There is some question to what degree the cities of Nineveh, Tuttul, and Assur were under Babylonian authority. While in his introduction to his code of laws, Hammurabi claims lordship over these cities, Roaf does not include any of these in his map, upon which this map is based, and Chevalas states that "Assur and Nineveh were held for a very few years" (p. 155). Therefore, I have not included them as under Hammurabi's control in 1750 BC.
 license: CC BY-SA 4.0
 map of:
+  - Hammurabi
   - Babylon
   - Eridu
   - Lagash
