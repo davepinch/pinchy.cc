@@ -1,6 +1,7 @@
 ---
 title: "10.12.12TerryPratchettByLuigiNovi1.jpg (Wikimedia Commons)"
 author: Luigi Novi
+illustration of: Terry Pratchett (Wikipedia)
 license: "Creative Commons Attribution 3.0 Unported"
 photograph of: Terry Pratchett
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/10.12.12TerryPratchettByLuigiNovi1.jpg"
