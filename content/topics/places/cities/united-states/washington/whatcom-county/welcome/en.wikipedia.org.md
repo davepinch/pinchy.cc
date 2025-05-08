@@ -2,6 +2,7 @@
 title: "Welcome, Washington (Wikipedia)"
 excerpt: >-
   **Welcome** is an unincorporated community in [Whatcom County](/en.wikipedia.org/wiki/Whatcom_County,_Washington/), in the U.S. state of [Washington](/en.wikipedia.org/wiki/Washington_(state)/).
+license: CC BY-SA 4.0
 retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Welcome,_Washington/

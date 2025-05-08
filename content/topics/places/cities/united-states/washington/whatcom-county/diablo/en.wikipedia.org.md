@@ -2,6 +2,7 @@
 title: "Diablo, Washington (Wikipedia)"
 excerpt: >-
   **Diablo** is an unincorporated community in Whatcom County, Washington, United States. The community, which is located on the Skagit River near the Diablo Dam, was established as a company town by Seattle City Light.
+license: CC BY-SA 4.0
 retrieved: 2024-11-23
 type: website
 url: /en.wikipedia.org/wiki/Diablo,_Washington/
