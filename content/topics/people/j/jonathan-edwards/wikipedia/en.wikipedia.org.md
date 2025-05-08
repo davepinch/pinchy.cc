@@ -2,6 +2,7 @@
 title: "Jonathan Edwards (theologian) (Wikipedia)"
 excerpt: >-
   **Jonathan Edwards** (October 5, 1703 – March 22, 1758) was an American revivalist preacher, philosopher, and Congregationalist theologian.
+license: CC BY-SA 4.0
 retrieved: 2024-11-26
 type: website
 url: /en.wikipedia.org/wiki/Jonathan_Edwards_(theologian)/
