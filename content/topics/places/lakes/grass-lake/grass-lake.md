@@ -11,4 +11,5 @@ vicinity of: KMSP Tower
 tags:
   - lake
   - no Wikipedia article
+  - no Wikidata record
 ---
