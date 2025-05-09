@@ -2,6 +2,7 @@
 title: "Messier 93 (Wikipedia)"
 excerpt: >-
   **Messier 93** or **M93**, also known as **NGC 2447** or the **Critter Cluster**, is an open cluster in the modestly southern constellation Puppis, the imagined poop deck of the legendary Argo.
+license: CC BY-SA 4.0
 retrieved: 2024-11-02
 type: website
 url: /en.wikipedia.org/wiki/Messier_93/

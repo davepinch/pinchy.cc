@@ -2,6 +2,7 @@
 title: "Messier 92 (Wikipedia)"
 excerpt: >-
   **Messier 92** (also known as **M92**, **M 92**, or **NGC 6341**) is a globular cluster of stars in the northern constellation of Hercules.
+license: CC BY-SA 4.0
 retrieved: 2024-11-03
 type: website
 url: /en.wikipedia.org/wiki/Messier_92/

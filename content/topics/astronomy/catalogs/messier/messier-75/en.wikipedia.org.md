@@ -2,6 +2,7 @@
 title: "Messier 75 (Wikipedia)"
 excerpt: >-
   **Messier 75** or **M75**, also known as **NGC 6864**, is a giant globular cluster of stars in the southern constellation Sagittarius. It was discovered by Pierre Méchain in 1780 and included in Charles Messier's catalog of comet-like objects that same year.
+license: CC BY-SA 4.0
 retrieved: 2024-11-23
 type: website
 url: /en.wikipedia.org/wiki/Messier_75/

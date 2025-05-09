@@ -2,6 +2,7 @@
 title: "Messier 85 (Wikipedia)"
 excerpt: >-
   **Messier 85** (also known as **M85** or **NGC 4382** or **PGC 40515** or **ISD 0135852**) is a lenticular galaxy, or elliptical galaxy for other authors, in the Coma Berenices constellation. It is 60 million light-years away, and has a diameter of about 36.99 kiloparsecs (120,600 light-years) across.
+license: CC BY-SA 4.0
 retrieved: 2024-11-20
 type: website
 url: /en.wikipedia.org/wiki/Messier_85/

@@ -2,6 +2,7 @@
 title: "Double star (Wikipedia)"
 excerpt: >-
   In observational astronomy, a **double star** or **visual double** is a pair of stars that appear close to each other as viewed from Earth, especially with the aid of optical telescopes.
+license: CC BY-SA 4.0
 retrieved: 2024-07-01
 type: website
 url: /en.wikipedia.org/wiki/Double_star/

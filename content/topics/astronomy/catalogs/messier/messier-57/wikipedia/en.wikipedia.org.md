@@ -2,6 +2,7 @@
 title: "Ring Nebula (Wikipedia)"
 excerpt: >-
   The **Ring Nebula** (also catalogued as **Messier 57**, **M57** and **NGC 6720**) is a planetary nebula in the northern constellation of [Lyra](/en.wikipedia.org/wiki/Lyra/). Such a nebula is formed when a star, during the last stages of its evolution before becoming a white dwarf, expels a vast luminous envelope of ionized gas into the surrounding interstellar space.
+license: CC BY-SA 4.0
 retrieved: 2024-07-17
 type: website
 url: /en.wikipedia.org/wiki/Ring_Nebula/
