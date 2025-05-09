@@ -1,0 +1,13 @@
+---
+title: "Pascal Reference Manual for the Lisa (PDF) (pascal.hansotten.com)"
+excerpt: >-
+  This manual is intended for Pascal programmers. It describes an implementation of Pascal for the Lisa computer. The computer and code generator translate Pascal source text to MC68000 object code. 
+pascal reference manual of:
+  - Apple Lisa
+  - Apple Lisa Pascal Sources - Pascal for small machines (pascal.hansotten.com)
+pdf: "http://pascal.hansotten.com/uploads/lisa/Pascal_Reference_Manual_1983.pdf"
+type: pdf
+url: /pascal.hansotten.com/uploads/lisa/Pascal_Reference_Manual_1983.pdf/
+tags:
+  - PDF
+---
