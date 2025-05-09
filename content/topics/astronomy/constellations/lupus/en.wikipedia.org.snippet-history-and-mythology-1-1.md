@@ -6,6 +6,7 @@ arbitrary of: animal
 asterism of: Lupus
 citation: >-
   Wikipedia contributors. (2023, October 24). Lupus (constellation). In *Wikipedia, The Free Encyclopedia*. Retrieved March 22, 2024, from https://en.wikipedia.org/w/index.php?title=Lupus_(constellation)&oldid=1181668529
+license: CC BY-SA 4.0
 on behalf of: Centaurus
 type: snippet
 url: /en.wikipedia.org/wiki/Lupus_(constellation)/1-1/

@@ -2,6 +2,7 @@
 title: "Planetary nebula (Wikipedia)"
 excerpt: >-
   A **planetary nebula** is a type of emission nebula consisting of an expanding, glowing shell of ionized gas ejected from red giant stars late in their lives.
+license: CC BY-SA 4.0
 retrieved: 2024-07-17
 type: website
 url: /en.wikipedia.org/wiki/Planetary_nebula/

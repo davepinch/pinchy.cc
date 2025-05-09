@@ -2,6 +2,7 @@
 title: "United States Attorney General (Wikipedia)"
 excerpt: >-
   The **United States attorney general** (**AG**) is the head of the United States Department of Justice (DOJ) and is the chief law enforcement officer of the federal government of the United States. The attorney general serves as the principal advisor to the president of the United States on all legal matters. The attorney general is a statutory member of the Cabinet of the United States.
+license: CC BY-SA 4.0
 retrieved: 2024-11-18
 type: website
 url: /en.wikipedia.org/wiki/United_States_Attorney_General/

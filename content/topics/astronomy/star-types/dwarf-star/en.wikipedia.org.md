@@ -2,6 +2,7 @@
 title: "Dwarf star (Wikipedia)"
 excerpt: >-
   A **dwarf star** is a star of relatively small size and low luminosity. Most main sequence stars are dwarf stars. The meaning of the word "dwarf" was later extended to some star-sized objects that are not stars, and compact stellar remnants that are no longer stars.
+license: CC BY-SA 4.0
 retrieved: 2024-12-06
 type: website
 url: /en.wikipedia.org/wiki/Dwarf_star/

@@ -5,6 +5,7 @@ excerpt: >-
 chart:
   - Serpens_Caput_IAU.svg (Wikimedia Commons)
   - Serpens_Cauda_IAU.svg (Wikimedia Commons)
+license: CC BY-SA 4.0
 retrieved: 2023-10-07
 type: website
 url: /en.wikipedia.org/wiki/Serpens/

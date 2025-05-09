@@ -2,6 +2,7 @@
 title: "Delta Ursae Majoris (Wikipedia)"
 excerpt: >-
   **Delta Ursae Majoris** (**δ Ursae Majoris**, abbreviated **Delta UMa**, **δ UMa**), formally named **Megrez** /ˈmiːɡrɛz/, is a star in the northern constellation of [Ursa Major](/en.wikipedia.org/wiki/Ursa_Major/). With an apparent magnitude of +3.3, it is the dimmest of the seven stars in the [Big Dipper](/en.wikipedia.org/wiki/Big_Dipper/) asterism. Parallax measurements yield a distance estimate of 80.5 light-years (24.7 parsecs) from the [Sun](/en.wikipedia.org/wiki/Sun/).
+license: CC BY-SA 4.0
 magnitude: 3.3
 retrieved: 2023-09-30
 TODO: fix magnitude (float) display

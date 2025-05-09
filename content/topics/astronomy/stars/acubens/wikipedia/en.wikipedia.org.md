@@ -2,6 +2,7 @@
 title: "Acubens (Wikipedia)"
 excerpt: >-
   **Acubens** /ˈækjuːbɛnz/, Bayer designation **Alpha Cancri** (**α Cancri**, abbreviated **Alpha Cnc**, **α Cnc**), is a star system in the constellation of [Cancer](/en.wikipedia.org/wiki/Cancer_(constellation)/).
+license: CC BY-SA 4.0
 retrieved: 2024-07-24
 type: website
 url: /en.wikipedia.org/wiki/Acubens/

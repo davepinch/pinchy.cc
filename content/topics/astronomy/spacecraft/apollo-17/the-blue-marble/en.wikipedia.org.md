@@ -2,6 +2,7 @@
 title: "The Blue Marble (Wikipedia)"
 excerpt: >-
   ***The Blue Marble*** is a photograph of Earth taken on December 7, 1972, from a distance of around 29,400 kilometers (18,300 miles) from the planet's surface.
+license: CC BY-SA 4.0
 related: The Earth seen from Apollo 17 (Wikimedia Commons)
 retrieved: 2024-04-22
 type: website
