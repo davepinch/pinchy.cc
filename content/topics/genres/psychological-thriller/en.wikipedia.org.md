@@ -2,6 +2,7 @@
 title: "Psychological thriller (Wikipedia)"
 excerpt: >-
   **Psychological thriller** is a genre combining the thriller and psychological fiction genres. It is commonly used to describe literature or films that deal with psychological narratives in a thriller or thrilling setting.
+license: CC BY-SA 4.0
 retrieved: 2024-09-21
 type: website
 url: /en.wikipedia.org/wiki/Psychological_thriller/

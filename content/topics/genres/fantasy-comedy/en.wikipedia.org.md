@@ -2,6 +2,7 @@
 title: "Fantasy comedy (Wikipedia)"
 excerpt: >-
   **Fantasy comedy** or **comic fantasy** is a subgenre of fantasy that is primarily humorous in intent and tone. Typically set in imaginary worlds, fantasy comedy often involves puns on, and parodies of, other works of fantasy.
+license: CC BY-SA 4.0
 retrieved: 2024-09-21
 type: website
 url: /en.wikipedia.org/wiki/Fantasy_comedy/

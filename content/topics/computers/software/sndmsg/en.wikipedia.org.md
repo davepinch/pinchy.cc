@@ -2,6 +2,7 @@
 title: "SNDMSG (Wikipedia)"
 excerpt: >-
   **SNDMSG** was an early electronic mail program, chiefly notable because it was used to send what is considered the first networked email.
+license: CC BY-SA 4.0
 related:
   - History of email (Wikipedia)
 retrieved: 2024-05-20

@@ -2,6 +2,7 @@
 title: >-
   Pratchett says Mort would have thought she [Ysabell] looked Pre-Raphaelite when he first encountered her, if he had only ever heard the word.
 description of: Ysabell
+license: CC BY-SA 4.0
 snippet of: Ysabell, Duchess of Sto Helit (Wikipedia)
 TODO: investigate Pre-Raphaelite
 type: snippet

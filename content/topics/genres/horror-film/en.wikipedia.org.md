@@ -2,6 +2,7 @@
 title: "Horror film (Wikipedia)"
 excerpt: >-
   **Horror** is a film genre that seeks to elicit fear or disgust in its audience for entertainment purposes.
+license: CC BY-SA 4.0
 retrieved: 2024-08-30
 type: website
 url: /en.wikipedia.org/wiki/Horror_film/

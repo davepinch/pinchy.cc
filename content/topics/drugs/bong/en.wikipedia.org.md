@@ -2,6 +2,7 @@
 title: "Bong (Wikipedia)"
 excerpt: >-
   A **bong** (also known as a **water pipe**) is a filtration device generally used for smoking cannabis, tobacco, or other herbal substances.
+license: CC BY-SA 4.0
 retrieved: 2024-07-02
 type: website
 url: /en.wikipedia.org/wiki/Bong/

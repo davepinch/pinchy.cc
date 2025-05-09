@@ -2,6 +2,7 @@
 title: "Fantasy (Wikipedia)"
 excerpt: >-
   **Fantasy** is a genre of speculative fiction which involves themes of the supernatural, magic, and imaginary worlds and creatures.
+license: CC BY-SA 4.0
 retrieved: 2024-09-21
 type: website
 url: /en.wikipedia.org/wiki/Fantasy/

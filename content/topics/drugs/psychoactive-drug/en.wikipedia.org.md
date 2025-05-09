@@ -9,6 +9,7 @@ related:
   - Psilocybin (Wikipedia)
   - Psychedelic drug (Wikipedia)
   - Nervous system (Wikipedia)
+license: CC BY-SA 4.0
 retrieved: 2023-06-04
 type: website
 url: /en.wikipedia.org/wiki/Psychoactive_drug/

@@ -4,6 +4,7 @@ title: >-
 appearance of: copper
 citation: >-
   Wikipedia contributors. (2024, February 15). Copper. In *Wikipedia, The Free Encyclopedia*. Retrieved March 11, 2024, from https://en.wikipedia.org/w/index.php?title=Copper&oldid=1207755892
+license: CC BY-SA 4.0
 snippet of: Copper (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Copper/physical-3-2/

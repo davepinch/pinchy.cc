@@ -2,6 +2,7 @@
 title: "Sulfur (Wikipedia)"
 excerpt: >-
   **Sulfur** (also spelled **sulphur** in British English) is a [chemical element](/en.wikipedia.org/wiki/Chemical_element/); it has symbol **S** and atomic number 16. It is abundant, multivalent and nonmetallic. Under normal conditions, sulfur atoms form cyclic octatomic molecules with the chemical formula S8. Elemental sulfur is a bright yellow, crystalline solid at room temperature.
+license: CC BY-SA 4.0
 retrieved: 2024-07-22
 symbol: S
 type: website

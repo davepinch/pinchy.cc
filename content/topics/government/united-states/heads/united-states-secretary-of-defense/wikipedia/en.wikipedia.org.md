@@ -2,6 +2,7 @@
 title: "United States Secretary of Defense (Wikipedia)"
 excerpt: >-
   The **United States Secretary of Defense** (**SecDef**) is the head of the United States Department of Defense (DoD), the executive department of the U.S. Armed Forces, and is a high-ranking member of the federal cabinet. The SecDef's position of command and authority over the military is second only to that of the president of the United States, who is the commander-in-chief. This position corresponds to what is generally known as a defense minister in many other countries. The president appoints the SecDef with the advice and consent of the Senate, and is by custom a member of the Cabinet and by law a member of the National Security Council.
+license: CC BY-SA 4.0
 retrieved: 2024-11-21
 type: website
 url: /en.wikipedia.org/wiki/United_States_Secretary_of_Defense/

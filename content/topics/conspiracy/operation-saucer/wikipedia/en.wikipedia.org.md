@@ -2,6 +2,7 @@
 title: "Operação Prato (Wikipedia)"
 excerpt: >-
   **Operation Saucer** (Portuguese: *Operação Prato*; literally, *Operation Plate*) was an investigation carried out between 1977 and 1978 by the Brazilian Air Force following alleged UFO sightings in the city of Colares. The investigation was closed after finding no unusual phenomena.
+license: CC BY-SA 4.0
 retrieved: 2024-12-02
 type: website
 url: /en.wikipedia.org/wiki/Operacao_Prato/
