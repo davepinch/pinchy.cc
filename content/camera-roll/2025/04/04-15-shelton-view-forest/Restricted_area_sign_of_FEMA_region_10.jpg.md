@@ -10,6 +10,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Restricted_area_sign_of_FEMA_region_10.jpg/
 vicinity of: Shelton View Forest
 website: "https://commons.wikimedia.org/wiki/File:Restricted_area_sign_of_FEMA_region_10.jpg"
+when: 2025-04-15
 tags:
   - Wikimedia Commons
 ---
