@@ -1,9 +1,3 @@
-
-#
-# TODO: start with the home page, and then follow links to archive.
-#
-$pinchyUrl = "https://pinchy.cc/"
-
 # wayback() - Gets the status of a page from the Wayback Machine.
 #
 # The API returns a JSON response with information about the closest archived snapshot.
@@ -125,14 +119,23 @@ function submit($url) {
     curl.exe --show-error --silent -X GET https://web.archive.org/save/$url
 }
 
+#
+# Main script execution starts here.
+#
+
+#
+# TODO: start with the home page, and then follow links to archive.
+#
+$pinchyUrl = "https://pinchy.cc/"
+
+#
+# Get the links from the page to enquee them.
+#
 $links = fetchLinks($pinchyUrl)
 $links | ForEach-Object {
     Write-Host "Found link: $_"
 }
 
-#
-# Main script execution starts here.
-#
 #$response = check($pinchyUrl)
 #if ($response.archived_snapshots.closest) {
 #    $url = $responseObject.archived_snapshots.closest.url
