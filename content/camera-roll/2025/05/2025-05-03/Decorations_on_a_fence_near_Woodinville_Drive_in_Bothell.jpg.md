@@ -10,6 +10,7 @@ description: >-
 license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1c/Decorations_on_a_fence_near_Woodinville_Drive_in_Bothell.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Decorations_on_a_fence_near_Woodinville_Drive_in_Bothell.jpg/330px-Decorations_on_a_fence_near_Woodinville_Drive_in_Bothell.jpg"
+type: picture
 url: /commons.wikimedia.org/wiki/Decorations_on_a_fence_near_Woodinville_Drive_in_Bothell.jpg/
 vicinity of:
   - Sammamish River
