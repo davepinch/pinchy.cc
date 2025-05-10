@@ -15,6 +15,7 @@ vicinity of:
   - Sammamish River
   - 102nd Avenue Northeast Bridge
 website: "https://commons.wikimedia.org/wiki/File:Decorations_on_a_fence_near_Woodinville_Drive_in_Bothell.jpg"
+when: 2025-05-03
 tags:
   - Wikimedia Commons
 ---
