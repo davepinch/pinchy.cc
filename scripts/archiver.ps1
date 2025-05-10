@@ -62,7 +62,7 @@ function FetchHTML([string]$url) {
     return $NormalHTML
 }
 
-function fetchLinks($url) {
+function links($url) {
 
     $html = FetchHTML($url)
     if ($null -eq $html) {
@@ -131,7 +131,7 @@ $pinchyUrl = "https://pinchy.cc/"
 #
 # Get the links from the page to enquee them.
 #
-$links = fetchLinks($pinchyUrl)
+$links = links($pinchyUrl)
 $links | ForEach-Object {
     Write-Host "Found link: $_"
 }
