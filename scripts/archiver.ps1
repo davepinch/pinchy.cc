@@ -24,7 +24,9 @@ function wayback($url) {
     #
     # The API endpoint is https://archive.org/wayback/available?url=<url>
 
-    $response = curl.exe --show-error --silent -X GET https://archive.org/wayback/available?url=$url
+    $requestUrl = "https://archive.org/wayback/available?url=$url"
+    Write-Host "Requesting: $requestUrl"
+    $response = curl.exe --show-error --silent -X GET $requestUrl
 
     if ($null -eq $response) {
         return $null
