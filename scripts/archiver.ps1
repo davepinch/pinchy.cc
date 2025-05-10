@@ -4,12 +4,25 @@
 #
 $pinchyUrl = "https://pinchy.cc/"
 
+# wayback() - Gets the status of a page from the Wayback Machine.
 #
-# check() - Checks if the URL has been archived in the Wayback Machine.
+# The API returns a JSON response with information about the closest archived snapshot.
+# The response will look something like this:
 #
-function check($url) {
+# {
+#    "archived_snapshots": {
+#        "closest": {
+#            "available": true,
+#            "url": "http://web.archive.org/web/20130919044612/http://example.com/",
+#            "timestamp": "20130919044612",
+#            "status": "200"
+#        }
+#    }
+# }
+#
+# The JSON response is parsed into a PowerShell object using ConvertFrom-Json.
+function wayback($url) {
 
-    #
     # The curl.exe utility will be used to make the HTTP request to the Wayback Machine API.
     # It is OK to use the version of curl.exe that is installed by default on Windows 10+.
     # Note that PowerShell defines an unrelated alias called "curl" which is not the same
@@ -19,20 +32,11 @@ function check($url) {
 
     $response = curl.exe --show-error --silent -X GET https://archive.org/wayback/available?url=$url
 
-    # The API returns a JSON response with information about the closest archived snapshot.
-    # The response will look something like this:
-    #
-    # {
-    #    "archived_snapshots": {
-    #        "closest": {
-    #            "available": true,
-    #            "url": "http://web.archive.org/web/20130919044612/http://example.com/",
-    #            "timestamp": "20130919044612",
-    #            "status": "200"
-    #        }
-    #    }
-    # }
-    #
+    if ($null -eq $null) {
+        Write-Error "Failed to fetch data from Wayback Machine API."
+        return $null
+    }
+
     return $response | ConvertFrom-Json
 }
 
@@ -103,7 +107,7 @@ function poll($url) {
         $attempt++
 
         Write-Host "Checking archive status (attempt $attempt)..."
-        $response = check($url)
+        $response = wayback($url)
 
         if ($response.archived_snapshots.closest) {
             $snapshotUrl = $response.archived_snapshots.closest.url
