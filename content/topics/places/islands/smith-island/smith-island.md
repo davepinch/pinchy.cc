@@ -14,8 +14,8 @@ island of:
   - Snohomish County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/1302641091"
+wikidata: "https://www.wikidata.org/wiki/Q134433299"
 tags:
   - island
-  - no Wikidata record
   - no Wikipedia article
 ---
