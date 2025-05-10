@@ -26,8 +26,7 @@ function wayback($url) {
 
     $response = curl.exe --show-error --silent -X GET https://archive.org/wayback/available?url=$url
 
-    if ($null -eq $null) {
-        Write-Error "Failed to fetch data from Wayback Machine API."
+    if ($null -eq $response) {
         return $null
     }
 
@@ -128,28 +127,74 @@ function submit($url) {
 # Main script execution starts here.
 #
 
-#
-# TODO: start with the home page, and then follow links to archive.
-#
-$pinchyUrl = "https://pinchy.cc/"
-
-#
-# Get the links from the page to enquee them.
-#
-$links = links($pinchyUrl)
-$links | ForEach-Object {
-    Write-Host "Found link: $_"
+$queue = @{}
+function dequeue() {
+    #
+    # Find the first key with a value of false.
+    # This is the first URL that has not been archived yet.
+    $key = $queue.Keys | Where-Object { $queue[$_] -eq $false } | Select-Object -First 1
+    if ($key) {
+        $queue[$key] = $true
+        return $key
+    } else {
+        return $null
+    }
+}
+function enqueue($url) {
+    if (-not $queue.ContainsKey($url)) {
+        $queue[$url] = $false
+        return $true
+    }
+    else {
+        return $false
+    }
 }
 
-#$response = check($pinchyUrl)
-#if ($response.archived_snapshots.closest) {
-#    $url = $responseObject.archived_snapshots.closest.url
-#    Write-Host "Closest archived snapshot URL: $url"
-#} else {
-#
-#    Write-Host "No archived snapshots found."
-#    Write-Host "Attempting to archive the URL..."
-#
-#    submit($pinchyUrl)
-#    poll($pinchyUrl)
-#}
+function walk() {
+
+    $url = dequeue
+    if ($url) {
+
+        #
+        # Get the status of the page from the Wayback Machine API.
+        #
+        Write-Host "wayback($url)"
+        $response = wayback($url)
+
+        if ($response.archived_snapshots.closest) {
+            $snapshotUrl = $response.archived_snapshots.closest.url
+            Write-Host "Page archived! Snapshot URL: $snapshotUrl"
+        } else {
+            #Write-Host "No archived snapshots found."
+            #Write-Host "Attempting to archive the URL..."
+            #submit($url)
+            #poll($url)
+        }
+
+        #
+        # Get the links from the page to enquee them.
+        #
+        $links = links($url)
+        $links | ForEach-Object {
+            $enqueued = enqueue($_)
+            if ($enqueued) {
+                Write-Host "Enqueued: $_"
+            } else {
+                Write-Host "Already in queue: $_"
+            }
+        }
+
+        return $true
+    } else {
+        Write-Host "No URLs in queue."
+        return $false
+    }
+
+}
+
+enqueue("https://pinchy.cc/")
+while(walk) {
+    # Do nothing, just wait for the next URL to be processed.
+    Write-Host "Waiting for next URL..."
+    Start-Sleep -Seconds 10
+}
