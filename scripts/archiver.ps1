@@ -2,7 +2,7 @@
 #
 # TODO: start with the home page, and then follow links to archive.
 #
-$pinchyUrl = "https://pinchy.cc/discourse-on-the-method/4/5/2/"
+$pinchyUrl = "https://pinchy.cc/"
 
 #
 # check() - Checks if the URL has been archived in the Wayback Machine.
@@ -34,6 +34,58 @@ function check($url) {
     # }
     #
     return $response | ConvertFrom-Json
+}
+
+function FetchHTML([string]$url) {
+
+    #
+    # Fetch the content from the URL.
+    #
+    try {
+        #
+        # Note: Invoke-WebRequest is used with -UseBasicParsing
+        # to avoid a hang that occurs randomly. For more info, see:
+        # https://stackoverflow.com/questions/56187543/invoke-webrequest-freezes-hangs
+        #
+        $response = Invoke-WebRequest -Uri $url -UseBasicParsing
+    } catch {
+        Write-Error "Failed to download content from $url. Error: $_"
+        return
+    }
+
+    #
+    # Manually parse the HTML using the StackOverflow solution.
+    #
+    # https://stackoverflow.com/questions/56187543/invoke-webrequest-freezes-hangs
+    #
+    $NormalHTML = New-Object -Com "HTMLFile"
+    $NormalHTML.IHTMLDocument2_write($response.RawContent)
+
+    return $NormalHTML
+}
+
+function fetchLinks($url) {
+
+    $html = FetchHTML($url)
+    if ($null -eq $html) {
+        Write-Error "Failed to fetch HTML from $url."
+        return @()
+    }
+
+    $links = @()
+    foreach ($link in $html.links) {
+        #
+        # Check if the link is a valid URL and not an empty string.
+        # Also, check if the link is not "about:/", which is a placeholder.
+        # This is a workaround for the issue where IE prefixes about: in front
+        # of a relative URL.
+        #
+        if ($link.href -and $link.href -ne "about:/") {
+            $links += $link.href
+        }
+    }
+
+    return $links
 }
 
 #
@@ -69,18 +121,23 @@ function submit($url) {
     curl.exe --show-error --silent -X GET https://web.archive.org/save/$url
 }
 
+$links = fetchLinks($pinchyUrl)
+$links | ForEach-Object {
+    Write-Host "Found link: $_"
+}
+
 #
 # Main script execution starts here.
 #
-$response = check($pinchyUrl)
-if ($response.archived_snapshots.closest) {
-    $url = $responseObject.archived_snapshots.closest.url
-    Write-Host "Closest archived snapshot URL: $url"
-} else {
-
-    Write-Host "No archived snapshots found."
-    Write-Host "Attempting to archive the URL..."
-
-    submit($pinchyUrl)
-    poll($pinchyUrl)
-}
+#$response = check($pinchyUrl)
+#if ($response.archived_snapshots.closest) {
+#    $url = $responseObject.archived_snapshots.closest.url
+#    Write-Host "Closest archived snapshot URL: $url"
+#} else {
+#
+#    Write-Host "No archived snapshots found."
+#    Write-Host "Attempting to archive the URL..."
+#
+#    submit($pinchyUrl)
+#    poll($pinchyUrl)
+#}
