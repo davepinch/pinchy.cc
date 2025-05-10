@@ -63,6 +63,14 @@ function FetchHTML([string]$url) {
 
 function links($url) {
 
+    # 
+    # Do not generate links if the page is not in https://pinchy.cc.
+    #
+    if ($url -notmatch "^https://pinchy\.cc") {
+        Write-Host "NOLINKS: $url"
+        return @()
+    }
+
     $html = FetchHTML($url)
     if ($null -eq $html) {
         Write-Error "Failed to fetch HTML from $url."
@@ -150,6 +158,16 @@ function enqueue($url) {
     }
 }
 
+function remaining() {
+    $remaining = 0
+    foreach ($key in $queue.Keys) {
+        if ($queue[$key] -eq $false) {
+            $remaining += 1
+        }
+    }
+    return $remaining
+}
+
 function walk() {
 
     $url = dequeue
@@ -162,11 +180,10 @@ function walk() {
         $response = wayback($url)
 
         if ($response.archived_snapshots.closest) {
-            $snapshotUrl = $response.archived_snapshots.closest.url
-            Write-Host "Page archived! Snapshot URL: $snapshotUrl"
+            Write-Host "Already archived: $url"
         } else {
             #Write-Host "No archived snapshots found."
-            #Write-Host "Attempting to archive the URL..."
+            Write-Host "Attempting to archive the URL..."
             #submit($url)
             #poll($url)
         }
@@ -196,5 +213,9 @@ enqueue("https://pinchy.cc/")
 while(walk) {
     # Do nothing, just wait for the next URL to be processed.
     Write-Host "Waiting for next URL..."
-    Start-Sleep -Seconds 10
+    Write-Host "Queue: $($queue.Count)"
+    Write-Host "Remaining: $(remaining)"
+    Write-Host
+
+    Start-Sleep -Seconds 5
 }
