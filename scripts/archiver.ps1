@@ -74,13 +74,18 @@ function links($url) {
     foreach ($link in $html.links) {
         #
         # Check if the link is a valid URL and not an empty string.
-        # Also, check if the link is not "about:/", which is a placeholder.
-        # This is a workaround for the issue where IE prefixes about: in front
-        # of a relative URL.
-        #
-        if ($link.href -and $link.href -ne "about:/") {
-            $links += $link.href
+        if (($null -eq $link.href) -or ($link.href -eq "")) {
+            continue
         }
+
+        # IE returns relative links as "about:page".
+        # Skip these for now.
+        if ($link.href -and $link.href -notmatch "^http") {
+            Write-Host "SKIP: $($link.href)"
+            continue
+        }
+
+        $links += $link.href
     }
 
     return $links
