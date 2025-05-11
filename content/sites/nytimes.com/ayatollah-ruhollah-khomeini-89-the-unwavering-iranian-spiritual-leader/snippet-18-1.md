@@ -5,6 +5,7 @@ title: "release of hostages in Ruhollah Khomeini obituary (nytimes.com)"
 inauguration of: Ronald Reagan
 snippet of: Ayatollah Ruhollah Khomeini, 89, the Unwavering Iranian Spiritual Leader (nytimes.com)
 timeline of:
+  - Iranian Revolution
   - Ruhollah Khomeini
   - Ronald Reagan
 type: snippet
