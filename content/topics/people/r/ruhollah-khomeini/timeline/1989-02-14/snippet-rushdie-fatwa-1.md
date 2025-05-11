@@ -7,6 +7,7 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: Ruhollah Khomeini (Wikipedia)
 timeline of:
+  - The Fatwa Against Salman Rushdie
   - Ruhollah Khomeini
   - Salman Rushdie
 type: snippet
