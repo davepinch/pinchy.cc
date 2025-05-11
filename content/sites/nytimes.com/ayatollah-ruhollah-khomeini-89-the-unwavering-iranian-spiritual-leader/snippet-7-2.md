@@ -5,7 +5,6 @@ title: "Salman Rushdie of Ruhollah Khomeini (nytimes.com)"
 call for killing of: Salman Rushdie
 salman rushdie of: Ruhollah Khomeini
 snippet of: Ayatollah Ruhollah Khomeini, 89, the Unwavering Iranian Spiritual Leader (nytimes.com)
-timeline of: Ruhollah Khomeini
 type: snippet
 url: /www.nytimes.com/1989/06/04/obituaries/ayatollah-ruhollah-khomeini-89-the-unwavering-iranian-spiritual-leader.html/7-2/
 tags:
