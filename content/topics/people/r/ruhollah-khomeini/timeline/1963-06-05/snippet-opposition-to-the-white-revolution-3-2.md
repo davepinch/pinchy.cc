@@ -7,6 +7,7 @@ citation: >-
 snippet of: Ruhollah Khomeini (Wikipedia)
 timeline of:
   - Ruhollah Khomeini
+  - Mohammad Reza Pahlavi
   - Iranian Revolution
 type: snippet
 url: /en.wikipedia.org/wiki/Ruhollah_Khomeini/opposition-to-the-white-revolution-3-2/

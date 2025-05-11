@@ -8,8 +8,8 @@ license: CC BY-SA 4.0
 snippet of: Ruhollah Khomeini (Wikipedia)
 timeline of:
   - Ruhollah Khomeini
+  - Mohammad Reza Pahlavi
   - Iranian Revolution
-  - Iran
 type: snippet
 url: /en.wikipedia.org/wiki/Ruhollah_Khomeini/opposition-to-capitulation-1-1/
 when: 1964-10-26
