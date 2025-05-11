@@ -200,6 +200,7 @@ function walk() {
             if ($enqueued) {
                 Write-Host "Enqueued: $_"
             } else {
+                [console]::beep(100, 100)
                 Write-Host "Already in queue: $_"
             }
         }
