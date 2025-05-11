@@ -183,6 +183,7 @@ function walk() {
 
         if ($response.archived_snapshots.closest) {
             Write-Host "Already archived: $url"
+            [console]::beep(100, 500)
         } else {
             #Write-Host "No archived snapshots found."
             Write-Host "Attempting to archive the URL..."
@@ -211,7 +212,7 @@ function walk() {
 
 }
 
-enqueue("https://pinchy.cc/")
+enqueue("https://pinchy.cc/index.html")
 while(walk) {
     # Do nothing, just wait for the next URL to be processed.
     Write-Host "Waiting for next URL..."
