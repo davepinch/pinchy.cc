@@ -1,7 +1,6 @@
 ---
 title: "geology"
 ASCEND: Earth Science
-occuptation: geologist
 related:
   - chemistry
   - geography
