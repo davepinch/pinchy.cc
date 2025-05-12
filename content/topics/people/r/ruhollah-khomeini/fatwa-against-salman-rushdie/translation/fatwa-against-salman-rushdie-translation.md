@@ -10,6 +10,6 @@ type: quote
 when: 1989-02-14
 tags:
   - translated
-  - snippet
+  - quote
   - TODO
 ---
