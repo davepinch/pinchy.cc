@@ -1,6 +1,7 @@
 ﻿---
 title: "Portret van Julien Offray de la Mettrie, RP-P-1910-6682.jpg (Wikimedia Commons)"
 author: Rijksmuseum
+license: CC0 1.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/11/Portret_van_Julien_Offray_de_la_Mettrie%2C_RP-P-1910-6682.jpg"
 portrait of: Julien Offray de La Mettrie
 source: "http://hdl.handle.net/10934/RM0001.COLLECT.182309"
