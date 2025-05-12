@@ -1,6 +1,6 @@
 ---
 title: "poet"
-occuptation of: poetry
+occupation of: poetry
 plural: poets
 wikidata: "https://www.wikidata.org/wiki/Q49757"
 tags:
