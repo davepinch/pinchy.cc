@@ -5,6 +5,7 @@ description: >-
   This spear of stars and dust, imaged in visible and infrared light with the Advanced Camera for Surveys, is a zoomed-in view of one side of Caldwell 38. The galaxy’s core lies toward the lower right, beyond the edge of this image.
 hubble space telescope of: NGC 4565
 illustration of: NGC 4565 (Wikipedia)
+license: CC BY 2.0
 ngc 4565 of: Hubble Space Telescope
 note: Caldwell 38 is also known as NGC 4565.
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8e/Caldwell_38.jpg"
