@@ -7,4 +7,5 @@ tags:
   - French
   - physician
   - philosopher
+  - human being
 ---
