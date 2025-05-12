@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, April 19). Julien Offray de La Mettrie. In *Wikipedia, The Free Encyclopedia*. Retrieved November 8, 2023, from https://en.wikipedia.org/w/index.php?title=Julien_Offray_de_La_Mettrie&oldid=1150712220
 hedonism of: Julien Offray de La Mettrie
+license: CC BY-SA 4.0
 snippet of: Julien Offray de La Mettrie (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Julien_Offray_de_La_Mettrie/journey-to-prussia/
