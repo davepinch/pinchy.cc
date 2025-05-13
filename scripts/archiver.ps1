@@ -62,6 +62,7 @@ function FetchHTML([string]$url) {
     return $NormalHTML
 }
 
+# links() - Returns an array of links from the specified page.
 function links($url) {
 
     # 
@@ -99,40 +100,30 @@ function links($url) {
 }
 
 #
-# poll() - Polls the Wayback Machine API to check if the URL has been archived.
-#
-function poll($url) {
-
-    $maxAttempts = 6
-    $delaySeconds = 10
-    $attempt = 0
-    $archived = $false
-
-    while (-not $archived -and $attempt -lt $maxAttempts) {
-        Start-Sleep -Seconds $delaySeconds
-        $attempt++
-
-        Write-Host "Checking archive status (attempt $attempt)..."
-        $response = wayback($url)
-
-        if ($response.archived_snapshots.closest) {
-            $snapshotUrl = $response.archived_snapshots.closest.url
-            Write-Host "Page archived! Snapshot URL: $snapshotUrl"
-            $archived = $true
-        }
-    }    
-}
-
-#
-# submit() - Submits a URL to the Wayback Machine for archiving.
+# save() - Submits a URL to the Wayback Machine for archiving.
 #
 function save($url) {
     
+    # Docs: https://archive.org/details/spn-2-public-api-page-docs-2023-01-22/page/2/mode/2up
+    # Note: when specifying a value, anything other than "1" or "on" will be treated as false.
     #
-    # url - The URL to archive.
-    # capture_all - Capture all resources (images, CSS, etc.) on the page.
-    # capture_screenshot - Capture a screenshot of the page.
-    # capture_outlinks - Capture all outlinks on the page.
+    # url
+    #   The URL to archive.
+    #
+    # capture_all
+    #   Capture a web page with errors (HTTP status=4xx or 5xx). By default SPN2 (Save Page Now)
+    #   captures only status=200 URLs.
+    #
+    # capture_outlinks
+    #   Capture web page outlinks automatically. This also applies to PDF, JSON, RSS and MRSS feeds.
+    #
+    # capture_screenshot
+    #   Capture full page screenshot in PNG format. This is also stored in the Wayback Machine
+    #   as a different capture.
+    #
+    # skip_first_archive
+    #   Skip checking if a capture is a first if you don’t need this information.
+    #   This will make captures run faster.
     #
     curl.exe -X POST "https://web.archive.org/save/" `
       -d "url=$url" `
@@ -140,7 +131,6 @@ function save($url) {
       -d "capture_screenshot=0" `
       -d "capture_outlinks=0" `
       -d "skip_first_archive=1"
-
 }
 
 #
