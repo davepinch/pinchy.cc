@@ -5,7 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2025-01-30
 type: website
-url: /en.wikipedia.org/wiki/Carina%E2%80%93Sagittarius_Arm/
+url: /en.wikipedia.org/wiki/Carina-Sagittarius_Arm/
 website: "https://en.wikipedia.org/wiki/Carina%E2%80%93Sagittarius_Arm"
 wikipedia of: Carina-Sagittarius Arm
 tags:
