@@ -2,6 +2,7 @@
 title: "Ship Canal Bridge"
 bridge of:
   - Seattle
+  - King County, Washington
   - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/way/370670292"
 wikidata: "https://www.wikidata.org/wiki/Q7497931"

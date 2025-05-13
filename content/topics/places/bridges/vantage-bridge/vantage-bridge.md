@@ -3,6 +3,8 @@ title: "Vantage Bridge"
 bridge of:
   - Columbia River
   - Interstate 90
+  - Grant County, Washington
+  - Kittitas County, Washington
   - Washington
 near:
   - Grandfather Cuts Loose the Ponies

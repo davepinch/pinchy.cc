@@ -3,6 +3,8 @@ title: "Ballard Bridge"
 bridge of:
   - Salmon Bay
   - Lake Washington Ship Canal
+  - Seattle
+  - King County, Washington
 connects:
   - Ballard, Seattle
   - Interbay, Seattle
