@@ -25,7 +25,6 @@ function wayback($url) {
     # The API endpoint is https://archive.org/wayback/available?url=<url>
 
     $requestUrl = "https://archive.org/wayback/available?url=$url"
-    Write-Host "Requesting: $requestUrl"
     $response = curl.exe --show-error --silent -X GET $requestUrl
 
     if ($null -eq $response) {
@@ -69,7 +68,6 @@ function links($url) {
     # Do not generate links if the page is not in https://pinchy.cc.
     #
     if ($url -notmatch "^https://pinchy\.cc") {
-        Write-Host "NOLINKS: $url"
         return @()
     }
 
@@ -128,9 +126,21 @@ function poll($url) {
 #
 # submit() - Submits a URL to the Wayback Machine for archiving.
 #
-function submit($url) {
-    Write-Host "Submitting URL for archiving..."
-    curl.exe --show-error --silent -X GET https://web.archive.org/save/$url
+function save($url) {
+    
+    #
+    # url - The URL to archive.
+    # capture_all - Capture all resources (images, CSS, etc.) on the page.
+    # capture_screenshot - Capture a screenshot of the page.
+    # capture_outlinks - Capture all outlinks on the page.
+    #
+    curl.exe -X POST "https://web.archive.org/save/" `
+      -d "url=$url" `
+      -d "capture_all=0" `
+      -d "capture_screenshot=0" `
+      -d "capture_outlinks=0" `
+      -d "skip_first_archive=1"
+
 }
 
 #
@@ -183,12 +193,11 @@ function walk() {
 
         if ($response.archived_snapshots.closest) {
             Write-Host "Already archived: $url"
-            [console]::beep(100, 500)
+            [console]::beep(100, 50)
         } else {
-            #Write-Host "No archived snapshots found."
-            Write-Host "Attempting to archive the URL..."
-            #submit($url)
-            #poll($url)
+            Write-Host "save($url)"
+            save($url)
+            [console]::beep(400, 30)
         }
 
         #
@@ -198,16 +207,16 @@ function walk() {
         $links | ForEach-Object {
             $enqueued = enqueue($_)
             if ($enqueued) {
+                [console]::beep(200, 50)
                 Write-Host "Enqueued: $_"
             } else {
-                [console]::beep(100, 100)
                 Write-Host "Already in queue: $_"
             }
         }
 
         return $true
     } else {
-        Write-Host "No URLs in queue."
+        Write-Host "No URLs in queue!"
         return $false
     }
 
@@ -215,9 +224,9 @@ function walk() {
 
 enqueue("https://pinchy.cc/index.html")
 while(walk) {
-    # Do nothing, just wait for the next URL to be processed.
+
     Write-Host "Waiting for next URL..."
-    Write-Host "Queue: $($queue.Count)"
+    Write-Host "Total: $($queue.Count)"
     Write-Host "Remaining: $(remaining)"
     Write-Host
 
