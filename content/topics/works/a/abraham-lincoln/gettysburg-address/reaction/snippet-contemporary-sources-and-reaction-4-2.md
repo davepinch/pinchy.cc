@@ -4,8 +4,8 @@ title: >-
 attribution: "*Chicago Times* reacting to the Gettysburg Address"
 citation: >-
   Wikipedia contributors. (2024, July 24). Gettysburg Address. In *Wikipedia, The Free Encyclopedia*. Retrieved July 27, 2024, from https://en.wikipedia.org/w/index.php?title=Gettysburg_Address&oldid=1236462443
-type: quote
 reaction of: Gettysburg Address
+type: quote
 tags:
   - quote
   - the media was putrid back then too
