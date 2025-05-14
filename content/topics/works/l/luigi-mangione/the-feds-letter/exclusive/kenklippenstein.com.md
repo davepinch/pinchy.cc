@@ -6,6 +6,7 @@ exclusive of: The Feds Letter
 type: website
 url: /www.kenklippenstein.com/p/luigis-manifesto/
 website: "https://www.kenklippenstein.com/p/luigis-manifesto"
+when: 2024-12-10
 tags:
   - website
 ---
