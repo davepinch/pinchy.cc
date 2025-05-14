@@ -11,7 +11,6 @@ picture: >-
   https://upload.wikimedia.org/wikipedia/commons/archive/1/10/20221118144934%21Lincolnatgettysburg.jpg
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lincolnatgettysburg.jpg/589px-Lincolnatgettysburg.jpg
-related: Rare photo of Lincoln at Gettysburg (archives.gov)
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Lincolnatgettysburg.jpg"
 tags:
