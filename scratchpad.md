@@ -3,6 +3,20 @@ title: "Scratchpad"
 draft: true
 ---
 
+5/17/25:
+#Lofty Thoughts
+You cannot judge others but you can call out evil.
+You can point out when evil exists.
+If the evil doesn't go away, then that means Satan made a choice.
+You can capture that evil for God to aim.
+For when you grasp upon evil, God is with you.
+When you make the choice, God decides.
+"God Damn!" said Satan.
+Your power is to root out evil.
+Find evil and vanquish it.
+For this you have the power of God.
+
+---
 Trump is God testing you.
 
 https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=United_States_government_group_chat_leak&id=1286648178&wpFormIdentifier=titleform
