@@ -1,4 +1,22 @@
 # wayback() - Gets the status of a page from the Wayback Machine.
+
+#
+# Get your S3 details at https://archive.org/account/s3.php.
+# DO NOT SHARE YOUR S3 DETAILS WITH ANYONE.
+#
+$s3access = ""
+$s3secret = ""
+
+# Abort the script if the S3 details are not set.
+# TODO: save the S3 details in a .gitignore location so they can be
+# used by the script without checking into Git.
+if ($s3access -eq "" -or $s3secret -eq "") {
+    Write-Host "S3 details not set. Aborting."
+    Write-Host "Please set \$s3access and \$s3secret in the script."
+    Write-Host "You can get your S3 details at https://archive.org/account/s3.php."
+    exit
+}
+
 #
 # The API returns a JSON response with information about the closest archived snapshot.
 # The response will look something like this:
@@ -66,7 +84,7 @@ function FetchHTML([string]$url) {
 function links($url) {
 
     # 
-    # Do not generate links if the page is not in https://pinchy.cc.
+    # Do not generate links for pages outside of https://pinchy.cc.
     #
     if ($url -notmatch "^https://pinchy\.cc") {
         return @()
@@ -93,6 +111,30 @@ function links($url) {
             continue
         }
 
+        if ($url -match "^https://en.wikipedia.org") {
+            #
+            # No need to do extra work for Wikipedia links
+            #
+            Write-Host "SKIP: $($link.href)"
+            continue
+        }
+
+        if ($url -match "^https://www.wikidata.org") {
+            # 
+            # Same with Wikidata links
+            #
+            Write-Host "SKIP: $($link.href)"
+            continue
+        }
+
+        if ($url -match "^https://www.openstreetmap.org") {
+            #
+            # Not sure whether OpenStreetMap link archival is useful.
+            #
+            Write-Host "SKIP: $($link.href)"
+            continue
+        }
+        
         $links += $link.href
     }
 
@@ -125,12 +167,19 @@ function save($url) {
     #   Skip checking if a capture is a first if you don’t need this information.
     #   This will make captures run faster.
     #
-    curl.exe -X POST "https://web.archive.org/save/" `
+    $response = curl.exe -X POST `
+      -H "Accept: application/json" `
+      -H "Authorization: LOW $($s3access):$($s3secret)" `
+      "https://web.archive.org/save/" `
       -d "url=$url" `
       -d "capture_all=0" `
       -d "capture_screenshot=0" `
       -d "capture_outlinks=0" `
-      -d "skip_first_archive=1"
+      -d "if_ not_archived_within=30d"
+
+    Write-Host $response
+    # {"url":"https://pinchy.cc/proverbs-9-10-kjv/","job_id":"spn2-7505958a4ce9103db9b27172114b3120196230c8"}
+    # "Accept: application/json"
 }
 
 #
