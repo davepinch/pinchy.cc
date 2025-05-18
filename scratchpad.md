@@ -17,6 +17,16 @@ Find evil and vanquish it.
 For this you have the power of God.
 
 ---
+5/17/25:
+#Lofty Thoughts
+This is the new cursor.
+I've been doing this the entire time and I never realized it.
+I will use PRs for my blog.
+What I have been doing so far is noice.
+This is official my blog.
+
+
+---
 Trump is God testing you.
 
 https://en.wikipedia.org/w/index.php?title=Special:CiteThisPage&page=United_States_government_group_chat_leak&id=1286648178&wpFormIdentifier=titleform
