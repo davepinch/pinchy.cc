@@ -6,7 +6,7 @@ borders:
   - Flag_of_Colombia.svg (Wikimedia Commons)
   - French Guiana does not have its own flag
   - Flag_of_Guyana.svg (Wikimedia Commons)
-  - Flag_of_Paraguay.svg (Wikimedia Commons)
+  - Flag of Paraguay.svg (Wikimedia Commons)
   - Flag_of_Peru.svg (Wikimedia Commons)
   - Flag_of_Suriname.svg (Wikimedia Commons)
   - Flag_of_Uruguay.svg (Wikimedia Commons)

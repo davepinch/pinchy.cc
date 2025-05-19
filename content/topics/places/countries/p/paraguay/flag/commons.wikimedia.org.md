@@ -1,5 +1,5 @@
 ---
-title: "Flag_of_Paraguay.svg (Wikimedia Commons)"
+title: "Flag of Paraguay.svg (Wikimedia Commons)"
 borders:
   - Flag_of_Argentina.svg (Wikimedia Commons)
   - Flag_of_Bolivia.svg (Wikimedia Commons)

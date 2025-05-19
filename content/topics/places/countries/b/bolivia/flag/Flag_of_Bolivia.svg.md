@@ -4,7 +4,7 @@ borders:
   - Flag_of_Argentina.svg (Wikimedia Commons)
   - Flag_of_Brazil.svg (Wikimedia Commons)
   - Flag_of_Chile.svg (Wikimedia Commons)
-  - Flag_of_Paraguay.svg (Wikimedia Commons)
+  - Flag of Paraguay.svg (Wikimedia Commons)
   - Flag_of_Peru.svg (Wikimedia Commons)
 flag of:
   - Bolivia
