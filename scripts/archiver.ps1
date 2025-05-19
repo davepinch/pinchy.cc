@@ -119,6 +119,14 @@ function links($url) {
             continue
         }
 
+        if ($url -match "^https://www.bing.com/maps") {
+            #
+            # Bing Maps has problems archiving (May 2025, re-check in future).
+            #
+            Write-Host "SKIP: $($link.href)"
+            continue            
+        }
+
         if ($url -match "^https://www.wikidata.org") {
             # 
             # Same with Wikidata links
