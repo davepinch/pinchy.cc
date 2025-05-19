@@ -1,6 +1,7 @@
 ---
 title: "Erosion along Youngs Creek in Marckworth State Forest.jpg (Wikimedia Commons)"
 author: David Pinch
+creek of: eroded
 erosion of:
   - Youngs Creek
   - Marckworth State Forest
