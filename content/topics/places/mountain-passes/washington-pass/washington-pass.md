@@ -5,6 +5,7 @@ mountain pass of:
   - Cascade Range
   - Washington
 near: Hinkhouse Peak
+openstreetmap: "https://www.openstreetmap.org/node/50310535"
 tags:
   - mountain pass
 ---
