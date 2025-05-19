@@ -5,7 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2025-01-06
 type: website
-url: /en.wikipedia.org/wiki/Coeur_d%27Alene,_Idaho/
+url: /en.wikipedia.org/wiki/Coeur_d-Alene,_Idaho/
 website: "https://en.wikipedia.org/wiki/Coeur_d%27Alene,_Idaho"
 wikipedia of: "Coeur d'Alene, Idaho"
 tags:
