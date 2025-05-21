@@ -80,6 +80,99 @@ function Import-CommonsPicture {
     $lines | Out-File -FilePath $outputPath -Encoding utf8
 }
 
+function Import-VisibleEarth {
+
+    param (
+        [string]$url
+    )
+
+    #
+    # Fetch the content from the URL.
+    #
+    try {
+        #
+        # Note: Invoke-WebRequest is used with -UseBasicParsing
+        # to avoid a hang that occurs randomly. For more info, see:
+        # https://stackoverflow.com/questions/56187543/invoke-webrequest-freezes-hangs
+        #
+        $response = Invoke-WebRequest -Uri $url -UseBasicParsing
+    } catch {
+        Write-Error "Failed to download content from $url. Error: $_"
+        return
+    }
+
+    #
+    # Manually parse the HTML using the StackOverflow solution.
+    #
+    $parsed = ConvertTo-NormalHTML -HTML $response 
+
+    #
+    # Create an array to hold the front matter
+    #
+    $lines = @()
+
+    #
+    # --- (start of front matter)
+    #
+    $lines += "---"
+
+    #
+    # title: "..." (must be enclosed in quotes)
+    #
+    $title = $parsed.title
+    $lines += "title: `"$title (visibleearth.nasa.gov)`""
+
+    #
+    # license: public domain
+    #
+    $lines += "license: public domain"
+    
+    #
+    # retrieved: yyyy-MM-dd
+    #
+    $lines += "retrieved: " + (Get-Date -format "yyyy-MM-dd")
+
+    #
+    # type: picture
+    #
+    $lines += "type: picture"
+
+    #
+    # url:
+    #
+    $lines += "url: /" + ($url -replace "https?://", "" )+ "/"
+
+    #
+    # website:
+    #
+    $lines += "website: `"$url`""
+    
+    #
+    # tags:
+    #
+    $lines += "tags:"
+    $lines += "  - satellite imagery"
+
+    #
+    # --- (end of front matter)
+    #
+    $lines += "---"
+
+    #
+    # Write the content to a file
+    #
+
+    #
+    # The website has the format https://visibleearth.nasa.gov/images/12345/image-name
+    # where 12345 is a number and image-name is the name of the image.
+    # We need to extract the image name from the URL.
+    #
+    $slug = $url -replace "https?://www.visibleearth\.nasa\.gov/images/\d+/", ""
+    $slug = $slug + ".md"
+    $lines | Out-File -FilePath $slug -Encoding utf8
+
+}
+
 function Import-Wikipedia {
 
     param (
@@ -172,4 +265,5 @@ function Import-Wikipedia {
 }
 
 Export-ModuleMember -Function Import-CommonsPicture
+Export-ModuleMember -Function Import-VisibleEarth
 Export-ModuleMember -Function Import-Wikipedia
