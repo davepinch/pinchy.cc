@@ -1,22 +1,14 @@
-# wayback() - Gets the status of a page from the Wayback Machine.
-
 #
-# Get your S3 details at https://archive.org/account/s3.php.
-# DO NOT SHARE YOUR S3 DETAILS WITH ANYONE.
+# Abort the script if details are not set.
 #
-$s3access = ""
-$s3secret = ""
-
-# Abort the script if the S3 details are not set.
-# TODO: save the S3 details in a .gitignore location so they can be
-# used by the script without checking into Git.
-if ($s3access -eq "" -or $s3secret -eq "") {
+if ( ($null -eq $s3access) -or ($null -eq $s3secret) ) {
     Write-Host "S3 details not set. Aborting."
-    Write-Host "Please set \$s3access and \$s3secret in the script."
+    Write-Host "Please set `$s3access and `$s3secret before running the script."
     Write-Host "You can get your S3 details at https://archive.org/account/s3.php."
     exit
 }
 
+# wayback() - Gets the status of a page from the Wayback Machine.
 #
 # The API returns a JSON response with information about the closest archived snapshot.
 # The response will look something like this:
@@ -31,12 +23,10 @@ if ($s3access -eq "" -or $s3secret -eq "") {
 #        }
 #    }
 # }
-#
-# The JSON response is parsed into a PowerShell object using ConvertFrom-Json.
 function wayback($url) {
 
     # The curl.exe utility will be used to make the HTTP request to the Wayback Machine API.
-    # It is OK to use the version of curl.exe that is installed by default on Windows 10+.
+    # It is safe to use the special version of curl.exe that is installed by default on Windows 10+.
     # Note that PowerShell defines an unrelated alias called "curl" which is not the same
     # as the executable. To avoid conflict, the full name "curl.exe" is used instead of "curl".
     #
@@ -70,7 +60,7 @@ function FetchHTML([string]$url) {
     }
 
     #
-    # Manually parse the HTML using the StackOverflow solution.
+    # Manually parse the HTML using the StackOverflow solution mentioned above.
     #
     # https://stackoverflow.com/questions/56187543/invoke-webrequest-freezes-hangs
     #
@@ -80,7 +70,8 @@ function FetchHTML([string]$url) {
     return $NormalHTML
 }
 
-# links() - Returns an array of links from the specified page.
+# links() - Returns an array of links from the specified page, excluding
+# certain links that are not needed for archiving, e.g., archive.org links.
 function links($url) {
 
     # 
@@ -111,15 +102,15 @@ function links($url) {
             continue
         }
 
-        if ($url -match "^https://en.wikipedia.org") {
+        if ($link.href -match "^https://archive\.org") {
             #
-            # No need to do extra work for Wikipedia links
+            # Obviously archived links do not need to be archived again.
             #
             Write-Host "SKIP: $($link.href)"
             continue
         }
 
-        if ($url -match "^https://www.bing.com/maps") {
+        if ($link.href -match "^https://www\.bing\.com/maps") {
             #
             # Bing Maps has problems archiving (May 2025, re-check in future).
             #
@@ -127,7 +118,15 @@ function links($url) {
             continue            
         }
 
-        if ($url -match "^https://www.wikidata.org") {
+        if ($link.href -match "^https://en\.wikipedia\.org") {
+            #
+            # No need to do extra work for Wikipedia links, they are heavily archived.
+            #
+            Write-Host "SKIP: $($link.href)"
+            continue
+        }
+
+        if ($link.href -match "^https://www\.wikidata\.org") {
             # 
             # Same with Wikidata links
             #
@@ -135,7 +134,7 @@ function links($url) {
             continue
         }
 
-        if ($url -match "^https://www.openstreetmap.org") {
+        if ($link.href -match "^https://www\.openstreetmap\.org") {
             #
             # Not sure whether OpenStreetMap link archival is useful.
             #
@@ -183,7 +182,7 @@ function save($url) {
       -d "capture_all=0" `
       -d "capture_screenshot=0" `
       -d "capture_outlinks=0" `
-      -d "if_ not_archived_within=30d"
+      -d "if_not_archived_within=30d"
 
     Write-Host $response
     # {"url":"https://pinchy.cc/proverbs-9-10-kjv/","job_id":"spn2-7505958a4ce9103db9b27172114b3120196230c8"}
@@ -269,7 +268,7 @@ function walk() {
 
 }
 
-enqueue("https://pinchy.cc/index.html")
+$seed = enqueue("https://pinchy.cc/index.html")
 while(walk) {
 
     Write-Host "Waiting for next URL..."
@@ -279,3 +278,5 @@ while(walk) {
 
     Start-Sleep -Seconds 5
 }
+
+Write-Host "All done!"
