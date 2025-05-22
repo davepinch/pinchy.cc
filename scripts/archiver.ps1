@@ -131,6 +131,14 @@ function links($url) {
             continue            
         }
 
+        if ($link.href -match "^https://commons\.wikimedia\.org") {
+            #
+            # No need to do extra work for Wikimedia links.
+            #
+            Write-Host "SKIP: $($link.href)"
+            continue
+        }
+
         if ($link.href -match "^https://en\.wikipedia\.org") {
             #
             # No need to do extra work for Wikipedia links, they are heavily archived.
