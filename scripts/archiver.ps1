@@ -8,6 +8,19 @@ if ( ($null -eq $s3access) -or ($null -eq $s3secret) ) {
     exit
 }
 
+# alertSaved() - Beeps to indicate that a URL has been saved.
+function alertSaved() {
+    [console]::beep(400, 30)
+}
+
+function alertAlreadySaved() {
+    [console]::beep(100, 50)
+}
+
+function alertQueued() {
+    [console]::beep(200, 50)
+}
+
 # wayback() - Gets the status of a page from the Wayback Machine.
 #
 # The API returns a JSON response with information about the closest archived snapshot.
@@ -174,6 +187,9 @@ function save($url) {
     #   Skip checking if a capture is a first if you don’t need this information.
     #   This will make captures run faster.
     #
+    # if_not_archived_within
+    #   If the URL has not been archived within the specified time period, archive it.
+    #   If the page is not archived, job_id in the JSON response will be null.
     $response = curl.exe -X POST `
       -H "Accept: application/json" `
       -H "Authorization: LOW $($s3access):$($s3secret)" `
@@ -187,6 +203,8 @@ function save($url) {
     Write-Host $response
     # {"url":"https://pinchy.cc/proverbs-9-10-kjv/","job_id":"spn2-7505958a4ce9103db9b27172114b3120196230c8"}
     # "Accept: application/json"
+
+    return $response | ConvertFrom-Json
 }
 
 #
@@ -234,18 +252,19 @@ function walk() {
         #
         # Get the status of the page from the Wayback Machine API.
         #
-        Write-Host "wayback($url)"
-        $response = wayback($url)
+        #Write-Host "wayback($url)"
+        #$response = wayback($url)
 
-        if ($response.archived_snapshots.closest) {
+        Write-Host "save($url)"
+        $response = save($url)
+
+        if ($null -eq $response.job_id) {
             Write-Host "Already archived: $url"
-            [console]::beep(100, 50)
+            alertAlreadySaved
         } else {
-            Write-Host "save($url)"
-            save($url)
-            [console]::beep(400, 30)
+            alertSaved
         }
-
+        
         #
         # Get the links from the page to enquee them.
         #
@@ -253,8 +272,8 @@ function walk() {
         $links | ForEach-Object {
             $enqueued = enqueue($_)
             if ($enqueued) {
-                [console]::beep(200, 50)
                 Write-Host "Enqueued: $_"
+                alertQueued
             } else {
                 Write-Host "Already in queue: $_"
             }
