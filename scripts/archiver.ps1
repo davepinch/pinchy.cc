@@ -163,6 +163,15 @@ function links($url) {
             continue
         }
         
+        if ($link.href -match "^https://x\.com") {
+
+            # We\u2019re currently facing some limitations when it comes to archiving this site.
+            # We apologize for any inconvenience this might cause and appreciate your understanding.
+            # Please email us at \"info@archive.org\" if you would like to discuss this more.
+            write-host "SKIP: $($link.href)"
+            continue
+        }
+        
         $links += $link.href
     }
 
