@@ -155,6 +155,14 @@ function links($url) {
             continue
         }
 
+        if ($link.href -match "^https://en\.wikiquote\.org") {
+            # 
+            # Same with Wikiquote links
+            #
+            Write-Host "SKIP: $($link.href)"
+            continue
+        }
+
         if ($link.href -match "^https://www\.openstreetmap\.org") {
             #
             # Not sure whether OpenStreetMap link archival is useful.
@@ -171,7 +179,7 @@ function links($url) {
             write-host "SKIP: $($link.href)"
             continue
         }
-        
+
         $links += $link.href
     }
 
