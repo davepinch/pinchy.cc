@@ -16,6 +16,7 @@ chart of:
   - SVG
 excerpt: >-
   Shows bounds of small northern constellation. Joined dots part of "hunting dogs". Alpha in south-centre and faint beta considerably mid-west; often both being body of one of two dogs.
+labeled as M51 of: Whirlpool Galaxy
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Canes_Venatici_IAU.svg"
 related:
