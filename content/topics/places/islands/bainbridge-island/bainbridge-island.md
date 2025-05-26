@@ -1,8 +1,9 @@
 ---
 title: "Bainbridge Island"
 island of:
-  - Kitsap County, Washington
   - Puget Sound
+  - Kitsap County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/3148366"
 reddit:
   - "https://www.reddit.com/r/BainbridgeIsland/"
