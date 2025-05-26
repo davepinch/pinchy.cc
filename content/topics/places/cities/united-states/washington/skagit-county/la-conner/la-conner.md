@@ -1,6 +1,8 @@
 ---
 title: "La Conner, Washington"
-town of: Skagit County, Washington
+town of:
+  - Swinomish Channel
+  - Skagit County, Washington
 near: Conway, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237861"
 vicinity of: Swinomish Reservation
