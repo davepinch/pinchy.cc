@@ -8,7 +8,10 @@ borders:
   - Lakeland South, Washington
   - Milton, Washington
   - Tacoma, Washington
-city of: King County, Washington
+city of:
+  - King County, Washington
+  - East Passage
+  - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/237350"
 reddit: "https://www.reddit.com/r/federalway/"
 wikidata: "https://www.wikidata.org/entity/Q821112"
