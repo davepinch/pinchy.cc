@@ -1,8 +1,10 @@
 ---
 title: "Guemes Island"
-island of:
+borders:
   - Bellingham Channel
   - Guemes Channel
+  - Padilla Bay
+island of:
   - Padilla Bay
   - Skagit County, Washington
   - Washington
