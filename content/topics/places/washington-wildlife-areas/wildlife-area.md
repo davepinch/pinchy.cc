@@ -1,11 +1,13 @@
 ---
 title: "wildlife area"
-managed by: Washington Department of Fish & Wildlife"
 tag requires property:
   - official website
   - wildlife area of
+type of protected area of:
+  - Washington Department of Fish & Wildlife
+  - Washington
 wikidata: "https://www.wikidata.org/wiki/Q104905143"
 tags:
-  - protected area
+  - type of protected area
   - Discover Pass required
 ---

@@ -7,7 +7,10 @@ tag requires property:
   - OpenStreetMap
   - wikidata
   - wildlife area unit of
+type of protected area of:
+  - Washington Department of Fish & Wildlife
+  - Washington
 tags:
-  - protected area
+  - type of protected area
   - Discover Pass required
 ---

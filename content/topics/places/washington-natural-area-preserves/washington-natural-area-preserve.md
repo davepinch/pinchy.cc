@@ -1,7 +1,10 @@
 ---
 title: "Washington Natural Area Preserve"
-protected area of: Washington
+official website: "https://www.dnr.wa.gov/managed-lands/natural-areas/natural-area-preserves"
+type of protected area of:
+  - Washington Department of Natural Resources
+  - Washington
 wikidata: "https://www.wikidata.org/wiki/Q104907523"
 tags:
-  - protected area
+  - type of protected area
 ---
