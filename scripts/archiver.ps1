@@ -115,7 +115,7 @@ function links($url) {
             continue
         }
 
-        if ($link.href -match "^https://archive\.org") {
+        if ($link.href -match "^https://(web\.)?archive\.org") {
             #
             # Obviously archived links do not need to be archived again.
             #
