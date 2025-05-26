@@ -1,5 +1,8 @@
 ---
 title: "Rosario Strait"
+borders:
+  - Sinclair Island
+  - incomplete list
 connects:
   - Strait of Georgia
   - Strait of Juan de Fuca

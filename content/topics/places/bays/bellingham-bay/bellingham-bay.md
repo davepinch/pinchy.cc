@@ -4,7 +4,10 @@ bay of:
   - Bellingham, Washington
   - Salish Sea
   - Washington
-borders: Samish Bay
+borders:
+  - Samish Bay
+  - Sinclair Island
+  - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/13317307"
 mouth of: Nooksack River
 wikidata: "https://www.wikidata.org/entity/Q2879598"
