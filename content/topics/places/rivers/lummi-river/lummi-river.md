@@ -1,6 +1,7 @@
 ---
 title: "Lummi River"
 openstreetmap: "https://www.openstreetmap.org/way/549377256"
+original channel of: Nooksack River
 river of:
   - Whatcom County, Washington
   - Washington
