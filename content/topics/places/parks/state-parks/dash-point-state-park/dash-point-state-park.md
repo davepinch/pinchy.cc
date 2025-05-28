@@ -1,6 +1,8 @@
 ---
 title: "Dash Point State Park"
+official website: "https://parks.wa.gov/find-parks/state-parks/dash-point-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740585"
+postal address: "5700 SW Dash Point Road, Federal Way, WA 98023"
 state park of:
   - Washington
   - King County, Washington
