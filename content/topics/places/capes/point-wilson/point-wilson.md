@@ -8,7 +8,7 @@ cape of:
   - Jefferson County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/6525186654"
-vicinity of: Port Townsend
+vicinity of: Port Townsend, Washington
 wikidata: "https://www.wikidata.org/wiki/Q7208192"
 wikipedia: "https://en.wikipedia.org/wiki/Point_Wilson"
 tags:
