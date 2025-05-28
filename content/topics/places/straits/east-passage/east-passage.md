@@ -7,7 +7,9 @@ strait of:
   - Pierce County, Washington
   - Washington
 TODO: identify cities along the main shoreline that border the East Passage.
+wikidata: "https://www.wikidata.org/wiki/Q49111176"
 tags:
   - strait
+  - no Wikipedia article
   - TODO
 ---
