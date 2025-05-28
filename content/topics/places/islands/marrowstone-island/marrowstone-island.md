@@ -1,7 +1,7 @@
 ---
 title: "Marrowstone Island"
 island of:
-  - Admirality Inlet
+  - Admiralty Inlet
   - Jefferson County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/5574899"
