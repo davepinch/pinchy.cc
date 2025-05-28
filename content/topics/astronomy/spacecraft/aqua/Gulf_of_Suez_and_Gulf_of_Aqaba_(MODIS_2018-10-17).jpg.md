@@ -9,7 +9,7 @@ modis of:
   - Sinai Peninsula
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a8/Gulf_of_Suez_and_Gulf_of_Aqaba_%28MODIS_2018-10-17%29.jpg"
 satellite imagery of:
-  - Aqua (spacecraft)
+  - Aqua (satellite)
   - MODIS
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Gulf_of_Suez_and_Gulf_of_Aqaba_%28MODIS_2018-10-17%29.jpg/320px-Gulf_of_Suez_and_Gulf_of_Aqaba_%28MODIS_2018-10-17%29.jpg"
 type: picture
