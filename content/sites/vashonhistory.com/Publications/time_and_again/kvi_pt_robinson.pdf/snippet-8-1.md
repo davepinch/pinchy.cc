@@ -1,5 +1,5 @@
 ---
-title: "drift cells of Point Heyer (vashonhistory.com)"
+title: "drift cells of Point Heyer (1 of 2) (vashonhistory.com)"
 ✂️: "Point Heyer is the convergence zone for two drift cells, one running south from Vashon Landing to the point, the other running along Ellisport from the west."
 author: Bruce Haulman
 drift cells of: Point Heyer

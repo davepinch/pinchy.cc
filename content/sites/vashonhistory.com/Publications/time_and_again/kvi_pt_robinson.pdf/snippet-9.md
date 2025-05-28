@@ -1,5 +1,5 @@
 ---
-title: "drift cells of Point Heyer (vashonhistory.com)"
+title: "drift cells of Point Heyer (2 of 2) (vashonhistory.com)"
 ✂️: "The primary Point Heyer Drift Cell is 2.5 miles long and runs from Vashon Landing to Point Heyer (KVI)."
 author: Bruce Haulman
 drift cells of: Point Heyer
