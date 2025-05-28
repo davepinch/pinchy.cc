@@ -1,7 +1,7 @@
 ---
 title: "Jensen Point Park"
 city park of:
-  - Vashon Island, Washington
+  - Vashon, Washington
   - King County, Washington
   - Vashon Island
   - Jensen Point

@@ -6,7 +6,7 @@ borders:
   - Dockton Natural Area
 county park of:
   - King County, Washington
-  - Vashon Island, Washington
+  - Vashon, Washington
   - Vashon Island
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/way/674346283"

@@ -4,7 +4,7 @@ island of:
   - Colvos Passage
   - East Passage
   - Puget Sound
-  - Vashon Island, Washington
+  - Vashon, Washington
   - King County, Washington
   - Washington
 note: This is the island that contains the census-designated place (CDP) of the same name.
