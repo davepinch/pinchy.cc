@@ -10,4 +10,5 @@ vicinity of: Bellingham, Washington
 wikidata: "https://www.wikidata.org/wiki/Q49383966"
 tags:
   - bay
+  - no Wikipedia article
 ---
