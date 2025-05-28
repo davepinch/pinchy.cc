@@ -17,7 +17,7 @@ sequence:
 # - Neptune Beach
 # - Sandy Point
   - Lummi Indian Reservation
-# - Lummi Bay
+  - Lummi Bay
   - Lummi Peninsula
   - Bellingham Bay
   - Nooksack River Delta
