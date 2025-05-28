@@ -8,6 +8,7 @@ timeline of: UnitedHealthcare
 type: website
 url: /www.courthousenews.com/unitedhealth-sued-over-plummeting-share-price-in-the-wake-of-ceos-murder/
 website: "https://www.courthousenews.com/unitedhealth-sued-over-plummeting-share-price-in-the-wake-of-ceos-murder/"
+when: 2025-05-07
 tags:
   - website
 ---
