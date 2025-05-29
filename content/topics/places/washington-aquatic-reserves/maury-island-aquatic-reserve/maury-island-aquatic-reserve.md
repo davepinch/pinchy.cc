@@ -5,7 +5,7 @@ aquatic reserve of:
   - Washington
   - Puget Sound
   - Maury Island
-  - Vashon Island, Washington
+  - Vashon, Washington
   - King County, Washington
 borders:
   - Point Robinson
