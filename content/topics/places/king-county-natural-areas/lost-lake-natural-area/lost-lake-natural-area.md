@@ -4,7 +4,7 @@ king county natural area of:
   - King County, Washington
   - Vashon, Washington
   - Vashon Island
-  - Quartermaster Habor
+  - Quartermaster Harbor
 note: The Lost Lake Natural Area has three disconnected parsels, all bordering Quartermaster Harbor.
 openstreetmap: "https://www.openstreetmap.org/relation/9786068"
 tags:
