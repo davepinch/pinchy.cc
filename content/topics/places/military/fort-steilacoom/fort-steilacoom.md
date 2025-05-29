@@ -2,7 +2,7 @@
 title: "Fort Steilacoom"
 military fort of:
   - United States Army
-  - Lakeland, Washington
+  - Lakewood, Washington
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/?mlat=47.179&mlon=-122.564"
