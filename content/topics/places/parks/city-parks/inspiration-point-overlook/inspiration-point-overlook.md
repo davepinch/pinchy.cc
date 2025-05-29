@@ -10,7 +10,7 @@ overlook of:
   - Vashon Island
 postal address: "26400 Vashon Hwy. SW, Vashon, WA"
 vantage point of:
-  - Quartermaster Habor
+  - Quartermaster Harbor
   - East Passage
   - Mount Rainier
 tags:
