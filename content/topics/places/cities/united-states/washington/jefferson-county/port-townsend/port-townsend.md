@@ -1,6 +1,8 @@
 ---
 title: "Port Townsend, Washington"
 city of:
+  - Quimper Peninsula
+  - Olympic Peninsula
   - Jefferson County, Washington
   - Washington
   - Admiralty Inlet
