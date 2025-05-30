@@ -1,5 +1,5 @@
 ---
-title: "Richard Landsdale"
+title: "Richard Lansdale"
 person of:
   - Whidbey Island
   - Island County, Washington
