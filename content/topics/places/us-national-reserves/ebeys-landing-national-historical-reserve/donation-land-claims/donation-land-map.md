@@ -1,5 +1,5 @@
 ---
-title: "Donation Land Claims 1850-1855"
+title: "Donation Land Claims 1850-1855 (squarespace-cdn.com)"
 excerpt: >-
   Ebey's Landing National Historical Reserve 1997 Ammendment to the Central Whidbey Island Historic District Nomination (1973)
 land claim of:
