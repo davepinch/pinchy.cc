@@ -3,6 +3,10 @@ title: "Scratchpad"
 draft: true
 ---
 
+https://www2.sos.wa.gov/legacy/maps/maps_detail.aspx?m=56
+
+
+
 5/17/25:
 #Lofty Thoughts
 You cannot judge others but you can call out evil.
