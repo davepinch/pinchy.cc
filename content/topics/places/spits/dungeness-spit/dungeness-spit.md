@@ -4,7 +4,7 @@ spit of:
   - Dungeness Bay
   - Strait of Juan de Fuca
   - Olympic Peninsula
-  - Clalam County, Washington
+  - Clallam County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/5575052"
 wikidata: "https://www.wikidata.org/wiki/Q5315115"
