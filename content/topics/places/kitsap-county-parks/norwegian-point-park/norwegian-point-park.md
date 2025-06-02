@@ -4,7 +4,7 @@ county park of:
   - Norwegian Point
   - Kitsap County, Washington
   - Washington
-  - Kitsap Pensinsula
+  - Kitsap Peninsula
 official website: "https://www.kitsap.gov/parks/Pages/NorwegianPointPark.aspx"
 openstreetmap: "https://www.openstreetmap.org/relation/3797535"
 postal address: "NE Twin Spits Road, Hansville WA 98340"
