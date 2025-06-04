@@ -1,7 +1,7 @@
 ---
 title: "Sequim Bay"
 bay of:
-  - Strait of Juan de Fuco
+  - Strait of Juan de Fuca
   - Olympic Peninsula
   - Clallam County, Washington
   - Washington
