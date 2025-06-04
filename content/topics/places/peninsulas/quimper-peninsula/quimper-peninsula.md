@@ -5,7 +5,7 @@ peninsula of:
   - Olympic Peninsula
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q7272056"
-wikidata: "https://en.wikipedia.org/wiki/Quimper_Peninsula"
+wikipedia: "https://en.wikipedia.org/wiki/Quimper_Peninsula"
 tags:
   - peninsula
 ---
