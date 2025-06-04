@@ -2,6 +2,7 @@
 title: "Fort Steilacoom, Vol. 35, No. 1, Spring 2018 (PDF) (historicfortsteilacoom.org)"
 article of:
   - August Valentine Kautz
+  - Kitty Kautz
   - Fannie Markbreit Kautz
   - Days Island
 excerpt: >-
