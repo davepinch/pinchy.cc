@@ -1,5 +1,5 @@
 ---
-title: "history of Me-Schal village (eatonvilletorainier.com)"
+title: "The Me-Schal or Upper Mountain Nisqually of Eatonville (eatonvilletorainier.com)"
 author: >-
   Abbi Wonacott, Educator, Researcher, and Author of “Where the Mashel Meets the Nisqually” and “Firm Foundation: The Formation of Eatonville, Wa.”
 excerpt: >-
