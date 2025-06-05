@@ -9,6 +9,8 @@ openstreetmap: "https://www.openstreetmap.org/way/25100857"
 vicinity of:
   - Fort Steilacoom
   - Fort Steilacoom Park
+wikidata: "https://www.wikidata.org/wiki/Q49303758"
 tags:
   - lake
+  - no Wikipedia article
 ---
