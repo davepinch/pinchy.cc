@@ -1,5 +1,6 @@
 ---
 title: "William Alloway Slaughter"
+findagrave.com: "https://www.findagrave.com/memorial/3542169/william_alloway-slaughter"
 type: person
 wikidata:
   - "https://www.wikidata.org/wiki/Q94641635"
