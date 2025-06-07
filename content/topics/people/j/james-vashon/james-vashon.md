@@ -1,5 +1,6 @@
 ---
 title: "James Vashon"
+friend of: George Vancouver
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q74098"
 wikipedia: "https://en.wikipedia.org/wiki/James_Vashon"
