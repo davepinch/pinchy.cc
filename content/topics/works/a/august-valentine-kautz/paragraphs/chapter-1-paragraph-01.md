@@ -16,6 +16,8 @@ mention of:
 origin of: Fort Steilacoom
 page: 4
 paragraph: 1
+see also:
+  - arrival of Bennett Hill at Fort Steilacoom (historylink.org)
 snippet of: Nothing Worthy of Note Transpired Today (archive.org)
 type: snippet
 url: /nothing-worthy-of-note-transpired-today/1/01/
