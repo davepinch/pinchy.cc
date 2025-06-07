@@ -7,6 +7,7 @@ borders:
 island of:
   - British Columbia
   - Pacific Ocean
+namesake of: George Vancouver
 near: Explorer Plate
 openstreetmap: "https://www.openstreetmap.org/relation/2249770"
 wikidata: "https://www.wikidata.org/wiki/Q170479"

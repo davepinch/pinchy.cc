@@ -3,6 +3,7 @@ title: "Vancouver, British Columbia"
 city of:
   - British Columbia
   - Canada
+namesake of: George Vancouver
 not to be confused with: Vancouver, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1852574"
 reddit: "https://www.reddit.com/r/vancouver/"
