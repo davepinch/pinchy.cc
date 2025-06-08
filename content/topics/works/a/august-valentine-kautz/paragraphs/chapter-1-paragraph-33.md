@@ -17,10 +17,12 @@ note: King George is the nickname of S'Hai-ak. Duke of York is the nickname of C
 page: 14
 paragraph: 32
 snippet of: Nothing Worthy of Note Transpired Today (archive.org)
+TODO: Who is the sea captain?
 type: snippet
 url: /nothing-worthy-of-note-transpired-today/1/33/
 website: "https://archive.org/details/nothing-worthy-of-note-transpired-today-the-northwest-journals-of-august-v.-kautz/page/n41/mode/2up"
 when: 1853-05-26
 tags:
   - snippet
+  - TODO
 ---
