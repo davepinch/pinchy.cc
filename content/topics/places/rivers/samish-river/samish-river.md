@@ -6,7 +6,9 @@ river of:
   - Whatcom County, Washington
   - Skagit County, Washington
   - Washington
-tributary of: Samish Bay
+tributary of:
+  - Alice Bay
+  - Samish Bay
 wikidata: "https://www.wikidata.org/wiki/Q2217202"
 wikipedia: "https://en.wikipedia.org/wiki/Samish_River"
 tags:
