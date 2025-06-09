@@ -8,7 +8,7 @@ author: August Valentine Kautz
 chapter: 1
 feud of:
   - August Valentine Kautz
-  - DeLancy Floyd-Jones
+  - DeLancey Floyd-Jones
   - William Alloway Slaughter
 mention of:
   - Olympia, Washington

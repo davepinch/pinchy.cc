@@ -7,7 +7,7 @@ title: "Nothing Worthy of Note Transpired Today, chapter 1, paragraph 7"
 author: August Valentine Kautz
 chapter: 1
 paragraph: 7
-peculiarities of: DeLancy Floyd-Jones
+peculiarities of: DeLancey Floyd-Jones
 snippet of: Nothing Worthy of Note Transpired Today (archive.org)
 type: snippet
 url: /nothing-worthy-of-note-transpired-today/1/07/
