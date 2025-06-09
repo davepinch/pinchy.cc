@@ -13,5 +13,6 @@ terranes of: San Juan Islands
 type: snippet
 url: /samishisland.net/about-samish-island/@7-1/
 tags:
+  - location
   - snippet
 ---
