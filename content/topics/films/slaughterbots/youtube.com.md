@@ -8,6 +8,7 @@ in the wild: "https://www.reddit.com/r/worldnews/comments/1l0mdwj/russian_bomber
 type: youtube
 url: /youtu.be/9fa9lVwHHqg/
 website: "https://www.youtube.com/watch?v=9fa9lVwHHqg"
+youtube-id: 9fa9lVwHHqg
 tags:
   - YouTube video
 ---
