@@ -1,6 +1,5 @@
 ---
 title: "Chetzemoka"
-nickname: Duke of York
 person of:
   - Klallam People
   - Washington
