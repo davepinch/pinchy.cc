@@ -1,6 +1,7 @@
 ---
 title: "Lake Samish"
 lake of: Whatcom County, Washington
+namesake of: Samish People
 near:
   - Chuckanut Mountains
   - Interstate 5
