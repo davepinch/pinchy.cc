@@ -12,7 +12,7 @@ mention of:
   - S'Hai-ak
   - Chetzemoka
   - Alfred Plummer
-  - Francis Pettygrew
+  - Francis Pettygrove
 note: King George is the nickname of S'Hai-ak. Duke of York is the nickname of Chetzemoka.
 page: 14
 paragraph: 32
