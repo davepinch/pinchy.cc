@@ -1,5 +1,5 @@
 ---
-title: "Nanaimo Formation of Samish Island (samishisland.net)"
+title: "location of Samish Island (samishisland.net)"
 ✂️: "The [Samish] island is located on the estuary of the Samish River which enters Samish Bay and Alice Bay on the southeast side of the island."
 author: Samish Island Community Center
 estuary of: Samish River
