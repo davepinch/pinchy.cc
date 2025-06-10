@@ -5,7 +5,7 @@ state park of:
   - Washington
   - Island County, Washington
   - Whidbey Island
-wikidata: "https://www.wikidata.org/wiki/Q261208"
+wikidata: "https://www.wikidata.org/wiki/Q2695767"
 wikipedia: "https://en.wikipedia.org/wiki/Fort_Casey_State_Park"
 tags:
   - state park
