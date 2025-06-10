@@ -4,7 +4,7 @@ tag requires property:
   - official website
   - wildlife area of
 type of protected area of:
-  - Washington Department of Fish & Wildlife
+  - Washington Department of Fish and Wildlife
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q104905143"
 tags:
