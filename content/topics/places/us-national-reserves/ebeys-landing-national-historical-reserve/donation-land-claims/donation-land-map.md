@@ -15,7 +15,7 @@ map of:
   - Snakelum Point
   - Ebey Landing
   - Fort Casey
-  - Keystone Ferry
+  - Keystone Ferry Terminal
   - Admiralty Head
 picture: "https://images.squarespace-cdn.com/content/v1/5ec6d03ed67853200eed8fad/1603820964267-7I9U19J6GT2EFWBT4INP/donation+land+map002.jpg?format=2500w"
 type: picture
