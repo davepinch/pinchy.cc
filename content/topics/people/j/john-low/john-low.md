@@ -1,6 +1,6 @@
 ---
 title: "John Low"
-person of: New York Ali
+person of: New York Alki
 type: person
 tags:
   - human being
