@@ -9,7 +9,7 @@ chapter: 1
 mention of:
   - Camano Island
   - Sla-hai
-  - Kikealis
+  - Kikiallus People
   - Skagit River
   - Fort Steilacoom
   - Whidbey Island
