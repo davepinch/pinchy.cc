@@ -1,7 +1,7 @@
 ---
 title: "Alfred Plummer"
 middle initial: A
-person of: Port Townsent
+person of: Port Townsend, Washington
 type: person
 tags:
   - human being

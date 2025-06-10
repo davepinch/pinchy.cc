@@ -1,6 +1,6 @@
 ---
 title: "Benjamin Ross"
-person of: Port Townsend
+person of: Port Townsend, Washington
 type: person
 tags:
   - pioneer
