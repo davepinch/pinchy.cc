@@ -4,6 +4,7 @@ person of:
   - Klallam People
   - Port Townsend, Washington
   - Washington
+son of: Lach-Ka-Nam
 type: person
 tags:
   - chief of Klallam
