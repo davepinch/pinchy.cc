@@ -17,7 +17,7 @@ sequence:
   - Tramp Harbor
   - Crow Beach
   - Ellis Creek Natural Area
-  - Tramp Dock
+  - Tramp Harbor Dock
   - Maury Island
   - Point Robinson Park
   - Point Robinson
