@@ -1,7 +1,7 @@
 ---
 title: "Admiralty Inlet Natural Area Preserve"
 natural area preserve of:
-  - Ebey's Landing National Historic Reserve
+  - Ebey's Landing National Historical Reserve
   - Whidbey Island
   - Admiralty Inlet
   - Island County, Washington
