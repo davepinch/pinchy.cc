@@ -2,7 +2,7 @@
 title: "Scratchpad"
 draft: true
 ---
-
+https://archive.org/details/earlyhistoryoffe00sieg/mode/2up
 https://www2.sos.wa.gov/legacy/maps/maps_detail.aspx?m=56
 
 
