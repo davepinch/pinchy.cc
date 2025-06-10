@@ -1,6 +1,6 @@
 ---
 title: "Charles Bachelder"
-person of: Port Townsend
+person of: Port Townsend, Washington
 type: person
 tags:
   - human being
