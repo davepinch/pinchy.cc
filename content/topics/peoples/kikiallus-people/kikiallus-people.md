@@ -1,5 +1,5 @@
 ---
-title: "Kikiallus people"
+title: "Kikiallus People"
 people of:
   - Camano Island
   - South Fork Skagit River
