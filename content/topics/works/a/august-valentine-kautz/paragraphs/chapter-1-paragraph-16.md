@@ -9,7 +9,7 @@ chapter: 1
 curtained into a suburb of: Tacoma, Washington
 fine site of: Steilacoom, Washington
 mention of:
-  - President Pierce
+  - Franklin Pierce
   - Isaac Stevens
 paragraph: 16
 removal of:
