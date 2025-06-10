@@ -1,5 +1,6 @@
 ---
 title: "Sequim Bay"
+also known as: Washington Harbor
 bay of:
   - Strait of Juan de Fuca
   - Olympic Peninsula
