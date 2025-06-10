@@ -10,7 +10,7 @@ mention of:
   - Russell Peabody
   - Lake Whatcom
   - Bellingham Bay
-  - Clallam People
+  - Klallam People
   - Lummi River
 page: 25
 paragraph: 66
