@@ -1,6 +1,8 @@
 ---
 title: "Diary of Colonel and Mrs. I. N. Ebey (archive.org)"
-diary of: Isaac Ebey
+diary of:
+  - Isaac Ebey
+  - Rebecca Ebey
 editor: Victor J. Farrar
 excerpt: >-
   The Ebey Diary is concluded with this installment. Its publication began in this Quarterly in the issue for July, 1916.
