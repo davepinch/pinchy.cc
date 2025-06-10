@@ -11,6 +11,7 @@ mention of:
   - Lach-Ka-Nam
   - Chetzemoka
   - James Balch
+  - Goliah
 note:
   - Duke of York is the nickname of Chetzemoka.
   - Lord Jim refers to James Balch
