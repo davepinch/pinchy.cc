@@ -4,7 +4,7 @@ excerpt: >-
   Ebey's Landing National Historical Reserve 1997 Ammendment to the Central Whidbey Island Historic District Nomination (1973)
 land claim of:
   - Isaac Ebey
-  - Landsdale
+  - Richard Lansdale
 license: unknown
 map of:
   - Blowers Bluff
