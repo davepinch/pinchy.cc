@@ -9,11 +9,12 @@ chapter: 1
 mention of:
   - New York Alki
   - Judah Church
-  - Sla-kai
+  - Sla-hai
   - Port Townsend, Washington
   - Dungeness, Washington
   - Whidbey Island
   - Deception Pass
+note: Elsewhere the alleged killer is spelled Sla-hai.
 page: 18
 paragraph: 47
 snippet of: Nothing Worthy of Note Transpired Today (archive.org)

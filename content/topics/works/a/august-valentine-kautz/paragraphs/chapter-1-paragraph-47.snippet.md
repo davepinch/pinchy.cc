@@ -2,7 +2,8 @@
 title: "alleged killer of Judah Church (archive.org)"
 ✂️: >-
   the Indians had told him [Hancock] that one Sla-kai, a Skagit Indian, had killed [Judah] Church.
-accusation of: Sla-kai
+accusation of: Sla-hai
+note: Elsehwere Kautz uses the spelling Sla-hai.
 snippet of: Nothing Worthy of Note Transpired Today, chapter 1, paragraph 47
 TODO: Identify this Hancock from Port Townsend
 type: snippet
