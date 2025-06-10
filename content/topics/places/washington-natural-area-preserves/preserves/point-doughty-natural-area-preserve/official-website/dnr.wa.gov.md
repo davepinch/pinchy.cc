@@ -5,7 +5,7 @@ excerpt: >-
 official website of: Point Doughty Natural Area Preserve
 type: website
 url: /www.dnr.wa.gov/PointDoughty/
-website of: Washington State Department of Natural Resources
+website of: Washington Department of Natural Resources
 website: "https://www.dnr.wa.gov/PointDoughty"
 tags:
   - website
