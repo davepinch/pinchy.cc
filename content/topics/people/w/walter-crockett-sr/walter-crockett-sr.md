@@ -4,7 +4,7 @@ person of:
   - Coupeville, Washington
   - Island County, Washington
   - Whidbey Island
-  - Sunnyside Cematary
+  - Sunnyside Cemetery
 type: person
 tags:
   - human being
