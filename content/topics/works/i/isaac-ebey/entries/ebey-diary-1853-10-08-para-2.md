@@ -12,4 +12,4 @@ when: 1853-09-29
 tags:
   - death
   - snippet
----  
+---
