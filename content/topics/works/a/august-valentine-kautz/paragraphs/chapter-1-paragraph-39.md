@@ -8,7 +8,7 @@ author: August Valentine Kautz
 chapter: 1
 mention of:
   - Judah Church
-  - Kikiallus people
+  - Kikiallus People
   - Isaac Ebey
   - Port Townsend, Washington
   - Whidbey Island
