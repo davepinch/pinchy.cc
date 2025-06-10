@@ -11,7 +11,7 @@ mention of:
   - Chicago
   - William Alloway Slaughter
 paragraph: 8
-personality of: DeLancy Floyd-Jones
+personality of: DeLancey Floyd-Jones
 snippet of: Nothing Worthy of Note Transpired Today (archive.org)
 type: snippet
 url: /nothing-worthy-of-note-transpired-today/1/08/
