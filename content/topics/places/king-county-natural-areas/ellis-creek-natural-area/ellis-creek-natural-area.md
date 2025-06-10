@@ -2,7 +2,7 @@
 title: "Ellis Creek Natural Area"
 king county natural area of:
   - Vashon Island
-  - Tramp Habor
+  - Tramp Harbor
   - East Passage
   - Puget Sound
   - Vashon, Washington
