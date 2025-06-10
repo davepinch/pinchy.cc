@@ -1,4 +1,4 @@
 ---
 title: "Skagit Head"
-old name of: Skatchet Head
+old name of: Scatchet Head
 ---
