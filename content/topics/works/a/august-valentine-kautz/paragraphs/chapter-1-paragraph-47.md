@@ -11,7 +11,7 @@ mention of:
   - Judah Church
   - Sla-kai
   - Port Townsend, Washington
-  - Dungeness
+  - Dungeness, Washington
   - Whidbey Island
   - Deception Pass
 page: 18
