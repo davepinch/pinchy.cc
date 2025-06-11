@@ -1,5 +1,6 @@
 ---
-title: "Jefferson was sworn in as president by Chief Justice John Marshall at the new Capitol in Washington, D.C., on March 4, 1801."
+title: "inauguration of Thomas Jefferson (Wikipedia)"
+✂️: "Jefferson was sworn in as president by Chief Justice John Marshall at the new Capitol in Washington, D.C., on March 4, 1801."
 citation: >-
   Wikipedia contributors. (2024, October 24). Thomas Jefferson. In *Wikipedia, The Free Encyclopedia*. Retrieved 21:22, October 24, 2024, from https://en.wikipedia.org/w/index.php?title=Thomas_Jefferson&oldid=1253205861
 inauguration of: Thomas Jefferson
