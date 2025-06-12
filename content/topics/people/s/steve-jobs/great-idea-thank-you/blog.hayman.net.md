@@ -1,5 +1,5 @@
 ---
-title: "From: Steve Jobs. Great idea, thank you."
+title: "From: Steve Jobs. Great idea, thank you. (blog.hayman.net)"
 excerpt: >-
   Now that I’ve been retired for a couple of days, I think I can finally tell this story of how I was – very briefly – steve@next.com
 great idea, thank you of: Steve Jobs
