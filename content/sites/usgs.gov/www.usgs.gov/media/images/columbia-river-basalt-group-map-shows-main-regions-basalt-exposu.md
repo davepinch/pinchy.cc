@@ -1,6 +1,6 @@
 ---
 title: "Columbia River Basalt Group map shows main regions of basalt exposure in Washington, Oregon, Idaho and Nevada, USA. (usgs.gov)"
-Columbia River Basalt Group of:
+columbia river basalt group of:
   - Blue Mountains
   - California
   - Cascade Range
