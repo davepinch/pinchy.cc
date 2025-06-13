@@ -5,4 +5,6 @@ see also: Attainder (Wikipedia)
 tags:
   - Article III of the United States Constitution
 url: /united-states-constitution/article-3/section-3/para-2/line-1/
+tags:
+  - treason
 ---

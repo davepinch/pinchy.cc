@@ -6,4 +6,5 @@ next: >-
 url: /united-states-constitution/article-3/section-3/para-1/line-2/
 tags:
   - Article III of the United States Constitution
+  - treason
 ---
