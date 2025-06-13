@@ -6,7 +6,7 @@ citation: >-
 results of: "Monroe Probe: L.A. Reopens Inquiry Into Actress' 'Suicide' (cia.gov)"
 snippet of: https://en.wikipedia.org/wiki/Death_of_Marilyn_Monroe
 type: snippet
-url: /en.wikipedia.org/wiki/Death_of_Marilyn_Monroe/4-2/
+url: /en.wikipedia.org/wiki/Death_of_Marilyn_Monroe/@4-2/
 tags:
   - snippet
 ---
