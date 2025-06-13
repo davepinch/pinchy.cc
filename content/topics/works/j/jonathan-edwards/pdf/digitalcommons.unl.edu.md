@@ -5,7 +5,7 @@ excerpt: >-
 pdf of:
   - Sinners in the Hands of an Angry God
   - Sinners in the Hands of an Angry God (Wikipedia)
-  - Sinners in the Hands of an Angry God (Wikisource)
+pdf (different edition) of: Sinners in the Hands of an Angry God (Wikisource)
 pdf: "https://digitalcommons.unl.edu/cgi/viewcontent.cgi?article=1053&context=etas"
 quotation (page 3) of: "Deuteronomy 32:35 KJV"
 type: pdf
