@@ -1,6 +1,7 @@
 ---
 title: "Malta"
 country of:
+  - Commonwealth of Nations
   - island
   - Europe
   - Mediterranean Sea

@@ -10,6 +10,7 @@ borders:
   - Namibia
   - Zimbabwe
 country of:
+  - Commonwealth of Nations
   - Africa
   - Atlantic Ocean
   - Indian Ocean

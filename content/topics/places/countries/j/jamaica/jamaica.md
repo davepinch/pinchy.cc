@@ -1,6 +1,7 @@
 ---
 title: "Jamaica"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Caribbean

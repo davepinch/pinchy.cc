@@ -1,6 +1,7 @@
 ---
 title: "Saint Kitts and Nevis"
 country of:
+  - Commonwealth of Nations
   - island
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/536899"

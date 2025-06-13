@@ -12,6 +12,7 @@ borders:
   - Zimbabwe
 clockwise around lake tanganyika: Democratic Republic of the Congo
 country of:
+  - Commonwealth of Nations
   - East Africa
   - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/195271"

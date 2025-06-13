@@ -1,6 +1,7 @@
 ---
 title: "The Bahamas"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Caribbean

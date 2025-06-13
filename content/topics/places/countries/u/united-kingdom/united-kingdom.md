@@ -1,6 +1,7 @@
 ---
 title: "United Kingdom"
 country of:
+  - Commonwealth of Nations
   - Northwestern Europe
   - Europe
   - island

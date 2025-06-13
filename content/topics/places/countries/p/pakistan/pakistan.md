@@ -10,6 +10,7 @@ borders:
 borders (maritime):
   - Oman
 country of:
+  - Commonwealth of Nations
   - South Asia
   - Asia
   - Indian Ocean

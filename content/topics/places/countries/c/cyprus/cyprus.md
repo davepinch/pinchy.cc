@@ -1,6 +1,7 @@
 ---
 title: "Cyprus"
 country of:
+  - Commonwealth of Nations
   - island
   - Mediterranean Sea
   - Middle East

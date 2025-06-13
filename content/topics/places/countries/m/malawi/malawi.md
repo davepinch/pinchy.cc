@@ -5,6 +5,7 @@ borders:
   - Tanzania
   - Zambia
 country of:
+  - Commonwealth of Nations
   - East Africa
   - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/195290"

@@ -1,6 +1,7 @@
 ---
 title: "Dominica"
 country of:
+  - Commonwealth of Nations
   - island
   - Caribbean
   - Caribbean Sea

@@ -1,6 +1,7 @@
 ---
 title: "Vanuatu"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Pacific Ocean

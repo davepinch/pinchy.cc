@@ -1,6 +1,7 @@
 ---
 title: "Samoa"
 country of:
+  - Commonwealth of Nations
   - island
   - Polynesia
   - Oceania

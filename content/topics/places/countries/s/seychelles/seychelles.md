@@ -1,6 +1,7 @@
 ---
 title: "Seychelles"
 country of:
+  - Commonwealth of Nations
   - island
   - Indian Ocean
   - East Africa

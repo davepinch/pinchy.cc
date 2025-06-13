@@ -1,6 +1,7 @@
 ---
 title: "Nauru"
 country of:
+  - Commonwealth of Nations
   - island
   - Oceania
   - Pacific Ocean

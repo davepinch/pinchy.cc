@@ -1,6 +1,7 @@
 ---
 title: "Saint Lucia"
 country of:
+  - Commonwealth of Nations
   - island
   - Caribbean
   - Caribbean Sea

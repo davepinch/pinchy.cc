@@ -1,6 +1,7 @@
 ---
 title: "Kiribati"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Micronesia

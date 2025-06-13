@@ -1,6 +1,7 @@
 ---
 title: "Tuvalu"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Oceania

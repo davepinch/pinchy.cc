@@ -1,6 +1,7 @@
 ---
 title: "Saint Vincent and the Grenadines"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Caribbean

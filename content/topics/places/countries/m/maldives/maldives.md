@@ -1,6 +1,7 @@
 ---
 title: "Maldives"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Indian Ocean

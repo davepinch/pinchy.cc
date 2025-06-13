@@ -1,6 +1,7 @@
 ---
 title: "Malaysia"
 country of:
+  - Commonwealth of Nations
   - Southeast Asia
   - Asia
   - Indian Ocean

@@ -1,6 +1,7 @@
 ---
 title: "Papua New Guinea"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - New Guinea

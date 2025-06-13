@@ -5,7 +5,9 @@ borders:
   - Namibia
   - Zambia
   - Zimbabwe
-country of: Africa
+country of:
+  - Commonwealth of Nations
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/1889339"
 wikidata: "https://www.wikidata.org/wiki/Q963"
 tags:

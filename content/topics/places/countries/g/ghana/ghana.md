@@ -6,7 +6,9 @@ borders:
   - Gulf of Guinea
   - Ivory Coast
   - Togo
-country of: Africa
+country of:
+  - Commonwealth of Nations
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192781"
 wikidata: "https://www.wikidata.org/wiki/Q117"
 tags:

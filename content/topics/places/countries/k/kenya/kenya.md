@@ -8,6 +8,7 @@ borders:
   - Tanzania
   - Uganda
 country of:
+  - Commonwealth of Nations
   - East Africa
   - Africa
   - Indian Ocean

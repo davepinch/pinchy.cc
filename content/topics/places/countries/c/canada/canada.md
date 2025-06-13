@@ -3,7 +3,9 @@ title: "Canada"
 borders:
   - Detroit
   - incomplete list
-country of: North America
+country of:
+  - Commonwealth of Nations
+  - North America
 down the atlantic coast:
   - United States
   - Maine

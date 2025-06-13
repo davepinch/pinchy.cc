@@ -5,7 +5,9 @@ borders:
   - Brazil
   - Suriname
   - Venezuela
-country of: South America
+country of:
+  - Commonwealth of Nations
+  - South America
 openstreetmap: "https://www.openstreetmap.org/relation/287083"
 wikidata: "https://www.wikidata.org/wiki/Q734"
 tags:

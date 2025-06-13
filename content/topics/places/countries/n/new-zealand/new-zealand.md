@@ -1,6 +1,7 @@
 ---
 title: "New Zealand"
 country of:
+  - Commonwealth of Nations
   - island
   - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/556706"

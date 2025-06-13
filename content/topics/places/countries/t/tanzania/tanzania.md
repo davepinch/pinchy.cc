@@ -13,6 +13,7 @@ borders:
   - Zambia
 clockwise around lake tanganyika: Zambia
 country of:
+  - Commonwealth of Nations
   - East Africa
   - Africa
   - Indian Ocean

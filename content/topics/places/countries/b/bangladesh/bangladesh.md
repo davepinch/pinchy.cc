@@ -4,6 +4,7 @@ borders:
   - India
   - incomplete list
 country of:
+  - Commonwealth of Nations
   - South Asia
   - Asia
   - Indian Ocean

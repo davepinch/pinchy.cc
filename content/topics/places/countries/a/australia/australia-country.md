@@ -1,6 +1,7 @@
 ---
 title: "Australia (country)"
 country of:
+  - Commonwealth of Nations
   - Indian Ocean
   - Oceania
   - Pacific Ocean

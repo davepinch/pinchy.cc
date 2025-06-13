@@ -1,6 +1,7 @@
 ---
 title: "Grenada"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Caribbean

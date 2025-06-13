@@ -1,6 +1,7 @@
 ---
 title: "Solomon Islands"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Oceania

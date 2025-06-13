@@ -6,6 +6,7 @@ borders:
   - Tanzania
   - Uganda
 country of:
+  - Commonwealth of Nations
   - East Africa
   - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/171496"

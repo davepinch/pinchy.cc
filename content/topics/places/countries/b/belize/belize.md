@@ -7,6 +7,7 @@ borders:
 borders (maritime):
   - Honduras
 country of:
+  - Commonwealth of Nations
   - Central America
   - Caribbean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/287827"

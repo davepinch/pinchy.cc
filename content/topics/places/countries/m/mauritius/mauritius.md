@@ -1,6 +1,7 @@
 ---
 title: "Mauritius"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Indian Ocean

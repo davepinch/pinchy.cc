@@ -1,6 +1,7 @@
 ---
 title: "Singapore"
 country of:
+  - Commonwealth of Nations
   - island
   - Southeast Asia
 openstreetmap: "https://www.openstreetmap.org/relation/536780"

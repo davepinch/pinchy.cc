@@ -1,6 +1,7 @@
 ---
 title: "Antigua and Barbuda"
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Caribbean Sea

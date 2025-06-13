@@ -1,6 +1,7 @@
 ---
 title: "Brunei"
 country of:
+  - Commonwealth of Nations
   - island
   - Southeast Asia
 openstreetmap: "https://www.openstreetmap.org/relation/2103120"

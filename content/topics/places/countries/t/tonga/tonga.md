@@ -1,6 +1,7 @@
 ---
 title: "Tonga"
 country of:
+  - Commonwealth of Nations
   - island
   - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/2186665"

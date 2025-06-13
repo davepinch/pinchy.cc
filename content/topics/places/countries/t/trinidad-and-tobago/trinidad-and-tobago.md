@@ -5,6 +5,7 @@ borders:
   - Grenada
   - Venezuela
 country of:
+  - Commonwealth of Nations
   - archipelago
   - island
   - Caribbean

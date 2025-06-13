@@ -1,6 +1,7 @@
 ---
 title: "Sri Lanka"
 country of:
+  - Commonwealth of Nations
   - island
   - South Asia
   - Indian Ocean
