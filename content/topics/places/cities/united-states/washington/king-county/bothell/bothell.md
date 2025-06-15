@@ -15,6 +15,7 @@ city of:
 near: Cathcart, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237656"
 reddit: "https://www.reddit.com/r/bothell/"
+suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q303046"
 tags:
   - city
