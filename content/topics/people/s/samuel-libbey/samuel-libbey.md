@@ -1,5 +1,5 @@
 ---
-title: "Samuel Libby"
+title: "Samuel Libbey"
 brother-in-law of: Benjamin Barstow
 person of:
   - Coveland, Washington
