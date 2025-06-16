@@ -10,6 +10,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Flag_of_Guinea.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Guinea.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Guinea"
 tags:
   - flag
   - Wikimedia Commons
