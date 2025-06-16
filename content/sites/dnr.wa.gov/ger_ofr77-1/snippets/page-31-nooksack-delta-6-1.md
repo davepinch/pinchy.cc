@@ -4,10 +4,10 @@ title: >-
 figure 18: "Alveoli weathering on Chuckanut Formation (Mustoe 1971) (figure 18)"
 snippet of: Coastal Processes of the Whatcom County Mainland (dnr.wa.gov)
 southernmost shoreline of: Whatcom County, Washington
-TODO: "https://nwgeology.wordpress.com/the-fieldtrips/the-chuckanut-formation/honeycomb-weathering-in-sandstone-of-the-chuckanut-formation/"
+TODO of: Honeycomb weathering in sandstone of the Chuckanut Formation (nwgeology.wordpress.com)
 type: snippet
 url: /www.dnr.wa.gov/Publications/ger_ofr77-1_coastal_processes_whatcom_co.pdf/nooksack-delta-6-1/
 tags:
-   - snippet
-   - TODO
+  - honeycomb weathering
+  - snippet
 ---
