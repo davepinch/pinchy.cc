@@ -7,6 +7,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/0/01/Flag_of_Guinea-Bis
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Guinea-Bissau.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Guinea-Bissau.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Guinea-Bissau"
 tags:
   - flag
   - Wikimedia Commons
