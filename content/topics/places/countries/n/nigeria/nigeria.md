@@ -8,6 +8,7 @@ borders:
   - Niger
 country of:
   - Commonwealth of Nations
+  - West Africa
   - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192787"
 wikidata: "https://www.wikidata.org/wiki/Q1033"

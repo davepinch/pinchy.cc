@@ -7,7 +7,9 @@ borders:
   - Gulf of Guinea
   - Mali
   - incomplete list
-country of: Africa
+country of:
+  - West Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192779"
 wikidata: "https://www.wikidata.org/wiki/Q1008"
 tags:

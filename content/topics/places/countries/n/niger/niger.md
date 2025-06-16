@@ -8,7 +8,9 @@ borders:
   - Libya
   - Mali
   - Nigeria
-country of: Africa
+country of:
+  - West Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192786"
 wikidata: "https://www.wikidata.org/wiki/Q1032"
 tags:

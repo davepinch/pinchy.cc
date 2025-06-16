@@ -7,7 +7,9 @@ borders:
   - Senegal
   - Western Sahara
   - incomplete list
-country of: Africa
+country of:
+  - West Africa
+  - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192763"
 wikidata: "https://www.wikidata.org/wiki/Q1025"
 tags:
