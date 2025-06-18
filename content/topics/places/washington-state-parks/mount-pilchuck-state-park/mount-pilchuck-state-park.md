@@ -1,5 +1,6 @@
 ---
 title: "Mount Pilchuck State Park"
+not to be confused with: Pilchuck Park
 official website: "https://parks.wa.gov/find-parks/state-parks/mount-pilchuck-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/9166982"
 postal address: "Granite Falls, WA 98252"
