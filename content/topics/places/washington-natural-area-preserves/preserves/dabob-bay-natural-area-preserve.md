@@ -2,6 +2,7 @@
 title: "Dabob Bay Natural Area Preserve"
 borders: Tarboo Wildlife Area Unit
 natural area preserve of:
+  - Dabob Bay
   - Jefferson County, Washington
   - Washington
 official website: "https://www.dnr.wa.gov/dabob-bay-natural-area-preserve"
