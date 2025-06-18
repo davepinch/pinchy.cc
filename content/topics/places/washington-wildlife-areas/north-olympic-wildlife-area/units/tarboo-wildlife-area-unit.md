@@ -1,6 +1,6 @@
 ---
 title: "Tarboo Wildlife Area Unit"
-borders: Dabob Bay Natural Area
+borders: Dabob Bay Natural Area Preserve
 official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/tarboo-wildlife-area-unit"
 openstreetmap: "https://www.openstreetmap.org/relation/10558608"
 wildlife area unit of:
