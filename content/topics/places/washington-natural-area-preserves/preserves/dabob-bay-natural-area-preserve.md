@@ -1,5 +1,5 @@
 ---
-title: "Dabob Bay Natural Area"
+title: "Dabob Bay Natural Area Preserve"
 natural area preserve of:
   - Jefferson County, Washington
   - Washington
