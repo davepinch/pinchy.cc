@@ -6,7 +6,7 @@ photograph of:
   - billboard
   - sticker
 picture: content/camera-roll/2016/09/2016-09-03-the-end-is-here/20160903_235514818_iOS.jpg
-related: "R.I.P., you, eventually :-("
+related: R.I.P. You Eventually.jpg (Wikimedia Commons)
 sticker of: man
 thumbnail: content/camera-roll/2016/09/2016-09-03-the-end-is-here/20160903_235514818_iOS-thumbnail.jpg
 type: picture
