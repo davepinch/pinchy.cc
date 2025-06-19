@@ -12,5 +12,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/The_star_cluster_Messier_18_and_its_surroundings.jpg/
 website: "https://commons.wikimedia.org/wiki/File:The_star_cluster_Messier_18_and_its_surroundings.jpg"
 tags:
+  - photograph
   - Wikimedia Commons
 ---
