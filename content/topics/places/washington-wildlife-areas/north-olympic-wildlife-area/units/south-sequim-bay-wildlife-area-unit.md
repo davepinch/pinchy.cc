@@ -8,7 +8,7 @@ wildlife area unit of:
   - North Olympic Wildlife Area
   - Sequim Bay
   - Clallam County, Washington
-  - Olmpic Peninsula
+  - Olympic Peninsula
   - Washington
   - U.S. Route 101
 tags:
