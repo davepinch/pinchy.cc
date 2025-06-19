@@ -1,6 +1,6 @@
 ---
 title: "Amazonia Examiner"
-another expression toward Amazon: GET THE FUCK OUT OF OUR NEIGHBORHOOD AMAZON
+another expression toward Amazon: Graffiti sticker on a sign telling Amazon to get out of the neighborhood.jpg (Wikimedia Commons)
 photograph of:
   - Amazon
   - Jeff Bezos
