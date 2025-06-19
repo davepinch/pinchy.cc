@@ -1,6 +1,7 @@
 ---
 title: "Looking up in the lobby of U.S. Bank Centre.jpg (Wikimedia Commons)"
 author: David Pinch
+license: CC BY 4.0
 photograph of:
   - US Bank Centre
   - looking up
@@ -17,6 +18,7 @@ url: /inside-u.s.-bank-centre/
 website: "https://commons.wikimedia.org/wiki/File:Looking_up_in_the_lobby_of_U.S._Bank_Centre.jpg"
 when: 2015-04-18
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---
