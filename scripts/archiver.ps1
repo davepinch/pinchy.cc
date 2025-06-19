@@ -300,7 +300,7 @@ function walk() {
                 Write-Host "Enqueued: $_"
                 alertQueued
             } else {
-                Write-Host "Already in queue: $_"
+                #Write-Host "Already in queue: $_"
             }
         }
 
