@@ -4,7 +4,7 @@ official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/elwha-wildlif
 openstreetmap: "https://www.openstreetmap.org/relation/10555504"
 wikidata: "https://www.wikidata.org/wiki/Q113372056"
 wildlife area unit of:
-  - North Olympic Wildlife Area Unit
+  - North Olympic Wildlife Area
   - Clallam County, Washington
   - Olympic Peninsula
   - Washington
