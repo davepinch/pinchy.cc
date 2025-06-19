@@ -7,7 +7,7 @@ retrieved: 2025-06-17
 type: website
 url: /en.wikipedia.org/wiki/Stephen_Miller_(advisor)/
 website: "https://en.wikipedia.org/wiki/Stephen_Miller_(advisor)"
-wikipedia of: Stephen Miller (advisor)
+wikipedia of: Stephen Miller
 tags:
   - Wikipedia
 ---
