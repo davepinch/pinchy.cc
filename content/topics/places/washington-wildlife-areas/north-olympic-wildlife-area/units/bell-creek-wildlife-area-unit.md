@@ -10,7 +10,7 @@ wildlife area unit of:
   - North Olympic Wildlife Area
   - Sequim, Washington
   - Clallam County, Washington
-  - Olympic Pensinsula
+  - Olympic Peninsula
   - Washington
 tags:
   - wildlife area unit
