@@ -18,6 +18,7 @@ vantage point of: Deception Pass Bridge
 website: "https://commons.wikimedia.org/wiki/File:Looking_east_from_the_Deception_Pass_Bridge_as_a_boat_drives_by.jpg"
 when: 2019-06-07
 tags:
+  - photograph
   - Deception Pass looking east
   - Wikimedia Commons
 ---
