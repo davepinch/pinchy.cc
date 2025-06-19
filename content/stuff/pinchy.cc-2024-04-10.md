@@ -10,7 +10,7 @@ related:
   - Snoqualmie Pass
   - DID YOU KNOW? ALL PROFITS FROM THIS ATM BENEFIT OUR SOUP KITCHEN
   - Even if smog were a risk to human life, we must remember that life in nature, without technology, is wholesale death
-  - U.S. Bank Centre Looking Up
+  - Looking up in the lobby of U.S. Bank Centre.jpg (Wikimedia Commons)
   - Bow Hill - I-5 northbound (wsdot.wa.gov)
   - Hood Canal is spanned by the Hood Canal Bridge, the third longest floating bridge in the world at 6,521 feet (1,988 m).
   - Grittingly we waited.
