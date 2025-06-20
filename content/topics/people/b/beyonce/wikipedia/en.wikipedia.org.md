@@ -5,7 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2024-10-04
 type: website
-url: /en.wikipedia.org/wiki/Beyoncé/
+url: /en.wikipedia.org/wiki/Beyonce/
 website: "https://en.wikipedia.org/wiki/Beyonc%C3%A9"
 wikipedia of: Beyoncé
 tags:
