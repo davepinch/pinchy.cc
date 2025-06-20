@@ -9,7 +9,10 @@ near:
   - Henry M. Jackson Federal Building
   - Exchange Building
 openstreetmap: "https://www.openstreetmap.org/way/139320258"
-skyscraper of: Seattle
+skyscraper of:
+  - Seattle
+  - King County, Washington
+  - Washington
 wikidata: "https://www.wikidata.org/wiki/Q2688624"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wells%20Fargo%20Center%20(Seattle,%20Washington)"
 tags:

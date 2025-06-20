@@ -8,6 +8,7 @@ skyscraper of:
   - King County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q12050823"
+wikipedia: "https://en.wikipedia.org/wiki/Safeco_Plaza"
 tags:
   - skyscraper
 ---
