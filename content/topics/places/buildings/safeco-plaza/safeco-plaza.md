@@ -1,5 +1,7 @@
 ---
 title: "Safeco Plaza"
+near:
+  - Docusign Tower
 openstreetmap: "https://www.openstreetmap.org/way/139320255"
 skyscraper of:
   - Seattle
