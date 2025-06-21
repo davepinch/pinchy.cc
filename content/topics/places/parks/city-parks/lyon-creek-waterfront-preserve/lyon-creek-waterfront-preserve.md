@@ -1,6 +1,7 @@
 ---
 title: "Lyon Creek Waterfront Preserve"
 city park of:
+  - Lyon Creek
   - Lake Forest Park, Washington
   - King County, Washington
   - Lake Washington
