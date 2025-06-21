@@ -215,7 +215,7 @@ function save($url) {
     # if_not_archived_within
     #   If the URL has not been archived within the specified time period, archive it.
     #   If the page is not archived, job_id in the JSON response will be null.
-    $response = curl.exe -X POST `
+    $response = curl.exe --show-error --silent -X POST `
       -H "Accept: application/json" `
       -H "Authorization: LOW $($s3access):$($s3secret)" `
       "https://web.archive.org/save/" `
