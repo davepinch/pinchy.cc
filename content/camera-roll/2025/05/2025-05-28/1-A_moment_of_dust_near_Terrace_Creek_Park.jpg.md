@@ -11,6 +11,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/A_moment_o
 type: picture
 url: /commons.wikimedia.org/wiki/A_moment_of_dust_near_Terrace_Creek_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:A_moment_of_dust_near_Terrace_Creek_Park.jpg"
+when: 2025-05-28
 tags:
   - Wikimedia Commons
 ---
