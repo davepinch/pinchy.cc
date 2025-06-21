@@ -315,7 +315,7 @@ function walk() {
 $seed = enqueue("https://pinchy.cc/index.html")
 while(walk) {
 
-    Write-Host "Waiting for next URL..."
+    # Write-Host "Waiting for next URL..."
     Write-Host "Total: $($queue.Count)"
     Write-Host "Remaining: $(remaining)"
     Write-Host
