@@ -7,6 +7,7 @@ borders:
 natural resources conservation area of:
   - Hood Canal
   - Kitsap County, Washington
+  - Washington Department of Natural Resources
   - Washington
 note: The Washington website uses Resources in plural; the Wikidata entry uses Resource in singular.
 official website: "https://www.dnr.wa.gov/stavis-natural-resources-conservation-area"
