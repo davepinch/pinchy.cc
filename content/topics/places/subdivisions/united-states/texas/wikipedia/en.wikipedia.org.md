@@ -1,9 +1,9 @@
 ---
 title: "Texas (Wikipedia)"
 excerpt: >-
-  **Texas** (/ˈtɛksəs/, also locally /ˈtɛksɪz/; Spanish: *Texas*, *Tejas*) is a state in the South Central region of the [United States](/en.wikipedia.org/wiki/United_States/). At 268,596 square miles (695,660 km2), and with more than 30 million residents in 2023, it is the second-largest U.S. state by both area (after [Alaska](/en.wikipedia.org/wiki/Alaska)/) and population (after [California](/en.wikipedia.org/wiki/California)/). Texas shares borders with the states of [Louisiana](/en.wikipedia.org/wiki/Louisiana/) to the east, [Arkansas](/en.wikipedia.org/wiki/Arkansas/) to the northeast, [Oklahoma](/en.wikipedia.org/wiki/Oklahoma/) to the north, [New Mexico](/en.wikipedia.org/wiki/New_Mexico/) to the west, and the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest; and has a coastline with the [Gulf of Mexico](/en.wikipedia.org/wiki/Gulf_of_Mexico/) to the southeast.
+  **Texas** (/ˈtɛksəs/ *TEK-səss*, locally also /ˈtɛksɪz/ *TEK-siz*; Spanish: *Texas* or *Tejas*) is the most populous state in the South Central region of the United States. It borders Louisiana to the east, Arkansas to the northeast, Oklahoma to the north, New Mexico to the west, and has an international border with the Mexican states of Chihuahua, Coahuila, Nuevo León, and Tamaulipas to the south and southwest. Texas has a coastline on the Gulf of Mexico to the southeast. Covering 268,596 square miles (695,660 km2) and with over 31 million residents as of 2024, it is the second-largest state by area and population. Texas is nicknamed the ***Lone Star State*** for its former status as the independent Republic of Texas.
 license: CC BY-SA 4.0
-retrieved: 2023-07-02
+retrieved: 2025-06-22
 type: website
 url: /en.wikipedia.org/wiki/Texas/
 website: "https://en.wikipedia.org/wiki/Texas"
