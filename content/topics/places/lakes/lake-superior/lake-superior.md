@@ -1,7 +1,7 @@
 ---
 title: "Lake Superior"
 borders:
-  - Duluth
+  - Duluth, Minnesota
   - Michigan
   - Minnesota
   - Ontario
