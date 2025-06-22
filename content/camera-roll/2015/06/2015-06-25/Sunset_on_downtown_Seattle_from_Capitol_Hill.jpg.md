@@ -18,7 +18,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/c/c7/Sunset_on_downtown
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Sunset_on_downtown_Seattle_from_Capitol_Hill.jpg/330px-Sunset_on_downtown_Seattle_from_Capitol_Hill.jpg"
 license: CC BY 4.0
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
-type: 
+type: picture
 url: /sunrise-on-downtown-seattle/
 website: "https://commons.wikimedia.org/wiki/File:Sunset_on_downtown_Seattle_from_Capitol_Hill.jpg"
 when: 2015-06-25
