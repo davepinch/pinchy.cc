@@ -5,7 +5,7 @@ description: "When walking south through the winding Terrace Creek Park in Mount
 license: CC BY 4.0
 open field of:
   - Terrace Creek Park
-  - Mountlake Terrace
+  - Mountlake Terrace, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/10/Open_field_at_Terrace_Creek_Park.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Open_field_at_Terrace_Creek_Park.jpg/330px-Open_field_at_Terrace_Creek_Park.jpg"
 type: picture
