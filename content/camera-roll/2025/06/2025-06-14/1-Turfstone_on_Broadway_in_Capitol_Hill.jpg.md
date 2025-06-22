@@ -10,7 +10,7 @@ turfstone of:
   - grass
   - concrete
 type: picture
-url: /commons.wikimedia.org/wiki/File:Turfstone_on_Broadway_in_Capitol_Hill.jpg/
+url: /commons.wikimedia.org/wiki/Turfstone_on_Broadway_in_Capitol_Hill.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Turfstone_on_Broadway_in_Capitol_Hill.jpg"
 when: 2025-06-14
 tags:

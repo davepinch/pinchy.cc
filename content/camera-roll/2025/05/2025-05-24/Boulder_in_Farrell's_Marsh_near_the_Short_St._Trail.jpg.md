@@ -7,7 +7,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Boulder_in_Farrell
 possibly of: glacial erratic
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Boulder_in_Farrell%27s_Marsh_near_the_Short_St._Trail.jpg/330px-Boulder_in_Farrell%27s_Marsh_near_the_Short_St._Trail.jpg"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Boulder_in_Farrell's_Marsh_near_the_Short_St._Trail.jpg/
+url: /commons.wikimedia.org/wiki/Boulder_in_Farrell's_Marsh_near_the_Short_St._Trail.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Boulder_in_Farrell%27s_Marsh_near_the_Short_St._Trail.jpg"
 tags:
   - Wikimedia Commons
