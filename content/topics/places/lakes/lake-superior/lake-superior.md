@@ -6,7 +6,7 @@ borders:
   - Minnesota
   - Ontario
   - Wisconsin
-empties into: Lake Hurson
+empties into: Lake Huron
 lake of:
   - Canada
   - United States
