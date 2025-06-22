@@ -1,9 +1,9 @@
 ---
 title: "Universe (Wikipedia)"
 excerpt: >-
-  The **universe** is all of space and time and their contents, including planets, stars, galaxies, and all other forms of matter and energy. The [Big Bang](/en.wikipedia.org/wiki/Big_Bang) theory is the prevailing cosmological description of the development of the universe. According to this theory, space and time emerged together 13.787±0.020 billion years ago, and the universe has been expanding ever since the Big Bang. While the spatial size of the entire universe is unknown, it is possible to measure the size of the [observable universe](/en.wikipedia.org/wiki/Observable_universe), which is approximately 93 billion light-years in diameter at the present day.
+  The **universe** is all of space and time and their contents. It comprises all of existence, any fundamental interaction, physical process and physical constant, and therefore all forms of matter and energy, and the structures they form, from sub-atomic particles to entire galactic filaments. Since the early 20th century, the field of cosmology establishes that space and time emerged together at the Big Bang 13.787±0.020 billion years ago and that the universe has been expanding since then. The portion of the universe that can be seen by humans is approximately 93 billion light-years in diameter at present, but the total size of the universe is not known.
 license: CC BY-SA 4.0
-retrieved: 2023-04-09
+retrieved: 2025-06-22
 type: website
 url: /en.wikipedia.org/wiki/Universe/
 website: "https://en.wikipedia.org/wiki/Universe"
@@ -11,4 +11,3 @@ wikipedia of: universe
 tags:
   - Wikipedia
 ---
-
