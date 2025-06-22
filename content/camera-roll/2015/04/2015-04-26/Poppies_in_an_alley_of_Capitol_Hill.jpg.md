@@ -18,6 +18,7 @@ type: picture
 url: /poppies-in-the-alley/
 website: "https://commons.wikimedia.org/wiki/File:Poppies_in_an_alley_of_Capitol_Hill.jpg"
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---
