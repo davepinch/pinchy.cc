@@ -15,5 +15,6 @@ url: /bouncer-at-comet-tavern/
 website: "https://commons.wikimedia.org/wiki/File:The_door_at_Comet_Tavern.jpg"
 when: 2015-06-12
 tags:
+  - photograph
   - Wikimedia Commons
 ---
