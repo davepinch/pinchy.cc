@@ -284,7 +284,8 @@ function walk() {
         $response = save($url)
 
         if ($null -eq $response.job_id) {
-            Write-Host "Already archived: $url"
+            # Write-Host "Already archived: $url"
+            Write-Host $response.message
             alertAlreadySaved
         } else {
             alertSaved
