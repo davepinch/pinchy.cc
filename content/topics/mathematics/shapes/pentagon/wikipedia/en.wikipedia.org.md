@@ -1,12 +1,12 @@
 ---
 title: "Pentagon (Wikipedia)"
 excerpt: >-
-  In [geometry](/en.wikipedia.org/wiki/Geometry/), a pentagon (from the Greek πέντε pente meaning five and γωνία gonia meaning angle) is any five-sided [polygon](/en.wikipedia.org/wiki/Polygon/) or 5-gon. The sum of the internal angles in a simple pentagon is 540°.
+  In geometry, a **pentagon** (from Greek πέντε (*pente*) 'five' and γωνία (*gonia*) 'angle') is any five-sided polygon or 5-gon. The sum of the internal angles in a simple pentagon is 540°.
 license: CC BY-SA 4.0
 related:
   - Regular_polygon_5_annotated.svg (Wikimedia Commons)
   - Moss pentagon
-retrieved: 2023-10-31
+retrieved: 2025-06-22
 type: website
 url: /en.wikipedia.org/wiki/Pentagon/
 website: "https://en.wikipedia.org/wiki/Pentagon"
