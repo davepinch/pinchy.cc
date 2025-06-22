@@ -2,6 +2,7 @@
 title: "Niawiakum River Natural Area Preserve"
 natural area preserve of:
   - Pacific County, Washington
+  - Washington Department of Natural Resources
   - Washington
 near:
   - Bone River Natural Area Preserve

@@ -2,6 +2,7 @@
 title: "Ink Blot Natural Area Preserve"
 natural area preserve of:
   - Mason County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/ink-blot-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14473044"

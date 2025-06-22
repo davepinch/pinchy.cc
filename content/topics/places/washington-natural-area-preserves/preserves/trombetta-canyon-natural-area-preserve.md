@@ -2,6 +2,7 @@
 title: "Trombetta Canyon Natural Area Preserve"
 natural area preserve of:
   - Stevens County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/TrombettaCanyon"
 openstreetmap: "https://www.openstreetmap.org/relation/14512488"

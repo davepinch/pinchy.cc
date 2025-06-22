@@ -2,6 +2,7 @@
 title: "Pinecroft Natural Area Preserve"
 natural area preserve of:
   - Spokane County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/pinecroft-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14500725"

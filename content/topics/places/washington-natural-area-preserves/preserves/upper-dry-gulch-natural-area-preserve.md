@@ -2,6 +2,7 @@
 title: "Upper Dry Gulch Natural Area Preserve"
 natural area preserve of:
   - Chelan County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/upper-dry-gulch-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14009275"

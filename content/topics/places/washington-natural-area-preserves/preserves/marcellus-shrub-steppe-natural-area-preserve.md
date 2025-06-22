@@ -2,6 +2,7 @@
 title: "Marcellus Shrub Steppe Natural Area Preserve"
 natural area preserve of:
   - Adams County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/marcellus-shrub-steppe-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14473028"

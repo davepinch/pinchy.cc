@@ -5,8 +5,9 @@ borders:
   - Mount Baker–Snoqualmie National Forest
   - Rockport State Park
 natural area preserve of:
-  - Washington
   - Skagit County, Washington
+  - Washington Department of Natural Resources
+  - Washington
 official website: "https://www.dnr.wa.gov/skagit-bald-eagle-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/10426823"
 vicinity of:

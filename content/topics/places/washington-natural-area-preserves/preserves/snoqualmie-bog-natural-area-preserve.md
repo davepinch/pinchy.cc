@@ -4,6 +4,7 @@ natural area preserve of:
   - Snoqualmie Tree Farm
   - North Fork Snoqualmie River
   - King County, Washington
+  - Washington Department of Natural Resources
   - Washington
   - Cascade Range
 official website: "https://www.dnr.wa.gov/snoqualmie-bog-natural-area-preserve"

@@ -1,7 +1,8 @@
 ---
 title: "Gunpowder Island Natural Area Preserve"
 natural area preserve of:
-  - Pacific County, Washington
+  - Pacific County, 
+  - Washington Department of Natural Resources
   - Washington
 near:
   - Bone River Natural Area Preserve

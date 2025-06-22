@@ -3,6 +3,7 @@ title: "Point Doughty Natural Area Preserve"
 natural area preserve of:
   - Orcas Island
   - San Juan County, Washington
+  - Washington Department of Natural Resources
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/14497887"
 wikidata: "https://www.wikidata.org/wiki/Q113608190"

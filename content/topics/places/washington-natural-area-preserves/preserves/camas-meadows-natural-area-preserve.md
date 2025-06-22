@@ -5,6 +5,7 @@ borders:
   - incomplete list
 natural area preserve of:
   - Chelan County, Washington
+  - Washington Department of Natural Resources
   - Washington
   - Cascade Range
 official website: "https://www.dnr.wa.gov/CamasMeadows"

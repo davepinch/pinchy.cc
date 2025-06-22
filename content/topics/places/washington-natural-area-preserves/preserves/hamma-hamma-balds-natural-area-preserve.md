@@ -1,7 +1,8 @@
 ---
 title: "Hamma Hamma Balds Natural Area Preserve"
 natural area preserve of:
-  - Mason County, Washington
+  - Mason County, 
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/hamma-hamma-balds-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14487486"

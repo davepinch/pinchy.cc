@@ -2,6 +2,7 @@
 title: "Charley Creek Natural Area Preserve"
 natural area preserve of:
   - King County, Washington
+  - Washington Department of Natural Resources
   - Washington
   - Cascade Range
 official website: "https://www.dnr.wa.gov/charley-creek-natural-area-preserve"

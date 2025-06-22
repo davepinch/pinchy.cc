@@ -2,6 +2,7 @@
 title: "Barker Mountain Natural Area Preserve"
 natural area preserve of:
   - Okanogan County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/barker-mountain-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14496493"

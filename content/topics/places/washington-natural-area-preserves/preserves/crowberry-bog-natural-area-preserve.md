@@ -3,6 +3,7 @@ title: "Crowberry Bog Natural Area Preserve"
 natural area preserve of:
   - Jefferson County, Washington
   - Olympic Peninsula
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/CrowberryBog"
 openstreetmap: "https://www.openstreetmap.org/relation/14477124"

@@ -2,6 +2,7 @@
 title: "Schumacher Creek Natural Area Preserve"
 natural area preserve of:
   - Mason County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/schumacher-creek-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/10336513"

@@ -2,6 +2,7 @@
 title: "Washougal Oaks Natural Area Preserve"
 natural area preserve of:
   - Clark County, Washington
+  - Washington Department of Natural Resources
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/14474624"
 vicinity of: Columbia River

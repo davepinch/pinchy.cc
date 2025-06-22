@@ -5,6 +5,7 @@ natural area preserve of:
   - Whidbey Island
   - Admiralty Inlet
   - Island County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/admiralty-inlet-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14475101"

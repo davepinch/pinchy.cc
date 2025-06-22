@@ -3,6 +3,7 @@ title: "Kings Lake Bog Natural Area Preserve"
 natural area preserve of:
   - Snoqualmie Tree Farm
   - King County, Washington
+  - Washington Department of Natural Resources
   - Washington
   - Cascade Range
 official website: "https://www.dnr.wa.gov/kings-lake-bog-natural-area-preserve"

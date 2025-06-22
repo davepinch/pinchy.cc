@@ -2,6 +2,7 @@
 title: "Carlisle Bog Natural Area Preserve"
 natural area preserve of:
   - Grays Harbor County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/carlisle-bog-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14474752"

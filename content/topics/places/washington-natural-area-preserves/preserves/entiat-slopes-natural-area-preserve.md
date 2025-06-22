@@ -3,6 +3,7 @@ title: "Entiat Slopes Natural Area Preserve"
 borders: Okanogan–Wenatchee National Forest
 natural area preserve of:
   - Chelan County, Washington
+  - Washington Department of Natural Resources
   - Washington
   - Cascade Range
 official website: "https://www.dnr.wa.gov/entiat-slopes-natural-area-preserve"

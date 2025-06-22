@@ -3,6 +3,7 @@ title: "Kennedy Creek Natural Area Preserve"
 natural area preserve of:
   - Thurston County, Washington
   - Mason County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/KennedyCreek"
 openstreetmap: "https://www.openstreetmap.org/relation/9757831"

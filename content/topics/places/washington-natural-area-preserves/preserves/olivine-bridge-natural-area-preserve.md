@@ -6,6 +6,7 @@ borders:
 natural area preserve of:
   - South Fork Nooksack River
   - Skagit County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/olivine-bridge-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14498286"

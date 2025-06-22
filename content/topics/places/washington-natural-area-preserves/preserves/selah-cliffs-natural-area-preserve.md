@@ -2,6 +2,7 @@
 title: "Selah Cliffs Natural Area Preserve"
 natural area preserve of:
   - Yakima County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/SelahCliffs"
 openstreetmap: "https://www.openstreetmap.org/relation/14514712"

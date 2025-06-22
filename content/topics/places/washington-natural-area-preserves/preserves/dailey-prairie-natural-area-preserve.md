@@ -2,6 +2,7 @@
 title: "Dailey Prairie Natural Area Preserve"
 natural area preserve of:
   - Whatcom County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/dailey-prairie-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14514533"

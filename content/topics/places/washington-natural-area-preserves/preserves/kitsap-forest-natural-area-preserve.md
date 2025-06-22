@@ -5,6 +5,7 @@ borders:
   - Stavis Creek Wildlife Area
 natural area preserve of:
   - Kitsap County, Washington
+  - Washington Department of Natural Resources
   - Washington
 near: Guillemot Cove Nature Reserve
 official website: "https://www.dnr.wa.gov/kitsap-forest-natural-area-preserve"

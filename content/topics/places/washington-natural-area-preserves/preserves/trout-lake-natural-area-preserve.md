@@ -5,6 +5,7 @@ borders:
   - Skamania County, Washington
 natural area preserve of:
   - Klickitat County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/TroutLake"
 openstreetmap: "https://www.openstreetmap.org/relation/14484259"

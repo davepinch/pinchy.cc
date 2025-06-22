@@ -2,6 +2,7 @@
 title: "Willapa Divide Natural Area Preserve"
 natural area preserve of:
   - Pacific County, Washington
+  - Washington Department of Natural Resources
   - Washington
 official website: "https://www.dnr.wa.gov/willapa-divide-natural-area-preserve"
 openstreetmap: "https://www.openstreetmap.org/relation/14496566"
