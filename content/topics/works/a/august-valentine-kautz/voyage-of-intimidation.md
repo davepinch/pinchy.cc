@@ -1,5 +1,5 @@
 ---
-title: "Voyage of Intimidation"
+title: "voyage of intimidation"
 note: This is the order of places observed by August Valentine Kautz in May-June 1853 as described in *Nothing Worthy of Note Transpirted Today*.
 sequence:
 #paragraph 21 (23 May)
