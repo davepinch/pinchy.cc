@@ -1,5 +1,6 @@
 ---
 title: "strait"
+plural: straits
 tag requires property:
   - strait of
   - OpenStreetMap
