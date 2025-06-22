@@ -20,7 +20,7 @@ borders:
   - North Bismarck Plate
   - Niuafo'ou Plate
   - North American Plate
-  - Okhotsk microplate
+  - Okhotsk Microplate
   - Philippine Sea Plate
   - Rivera Plate
   - Solomon Sea Plate

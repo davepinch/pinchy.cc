@@ -3,7 +3,7 @@ title: "Eurasian Plate"
 borders:
   - Aegean Sea Plate
   - African Plate
-  - Amurian microplate
+  - Amurian Microplate
   - Anatolian Sub-Plate
   - Arabian Plate
   - Burma Plate

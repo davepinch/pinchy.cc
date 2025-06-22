@@ -2,7 +2,7 @@
 title: "Amurian Microplate"
 borders:
   - Eurasian Plate
-  - Okhotsk microplate
+  - Okhotsk Microplate
   - Okinawa Plate
   - Philippine Sea Plate
   - Yangtze Plate

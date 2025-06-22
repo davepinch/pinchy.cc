@@ -1,7 +1,7 @@
 ---
 title: "Okhotsk Microplate"
 borders:
-  - Amurian microplate
+  - Amurian Microplate
   - Eurasian Plate
   - North American Plate
   - Pacific Plate

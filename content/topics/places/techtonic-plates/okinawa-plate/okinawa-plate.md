@@ -1,7 +1,7 @@
 ---
 title: "Okinawa Plate"
 borders:
-  - Amurian microplate
+  - Amurian Microplate
   - Philippine Sea Plate
   - Yangtze Plate
 tectonic plate of: Pacific Ocean

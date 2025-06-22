@@ -1,11 +1,11 @@
 ---
 title: "Philippine Sea Plate"
 borders:
-  - Amurian microplate
+  - Amurian Microplate
   - Bird's Head Plate
   - Caroline Plate
   - Mariana Plate
-  - Okhotsk microplate
+  - Okhotsk Microplate
   - Okinawa Plate
   - Pacific Plate
   - Sunda Plate

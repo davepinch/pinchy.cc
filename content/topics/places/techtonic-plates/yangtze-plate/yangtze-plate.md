@@ -1,7 +1,7 @@
 ---
 title: "Yangtze Plate"
 borders:
-  - Amurian microplate
+  - Amurian Microplate
   - Eurasian Plate
   - Okinawa Plate
   - Philippine Sea Plate

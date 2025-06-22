@@ -8,7 +8,7 @@ borders:
   - Explorer Plate
   - Gorda Plate
   - Juan de Fuca Plate
-  - Okhotsk microplate
+  - Okhotsk Microplate
   - Pacific Plate
   - Rivera Plate
   - South American Plate
