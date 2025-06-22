@@ -5,6 +5,7 @@ author:
   - ChatGPT (description)
 description: >-
   A large uprooted tree in Terrace Creek Park, located in Mountlake Terrace, Washington, USA. The exposed root system displays intricate textures and organic shapes, surrounded by dense temperate forest vegetation. Fallen trees like this one play an important ecological role, providing habitat for wildlife and promoting forest regeneration. *Description provided by ChatGPT (GPT-4o, June 2025)*.
+license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ac/Uprooted_tree_in_Terrace_Creek_Park.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Uprooted_tree_in_Terrace_Creek_Park.jpg/330px-Uprooted_tree_in_Terrace_Creek_Park.jpg"
 type: picture
