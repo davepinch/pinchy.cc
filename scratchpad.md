@@ -2,6 +2,15 @@
 title: "Scratchpad"
 draft: true
 ---
+1:00AM 6/22
+You are a computational structure within the larger structure.
+You would say that your perception is based on the structures in your brain.
+But your brain extends well beyond your skull.
+All that is around you is part of your computational structure.
+They are not inputs to your brain, they are part of the computation.
+
+---
+
 https://archive.org/details/earlyhistoryoffe00sieg/mode/2up
 https://www2.sos.wa.gov/legacy/maps/maps_detail.aspx?m=56
 
