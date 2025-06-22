@@ -15,5 +15,6 @@ url: /commons.wikimedia.org/wiki/Docusign_Tower_translucency.jpg/
 vicinity of: Henry M. Jackson Federal Building
 website: "https://commons.wikimedia.org/wiki/File:Docusign_Tower_translucency.jpg"
 tags:
+  - photograph
   - Wikimedia Commons
 ---
