@@ -4,10 +4,10 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, March 15). Albert Einstein. In *Wikipedia, The Free Encyclopedia*. Retrieved March 18, 2024, from https://en.wikipedia.org/w/index.php?title=Albert_Einstein&oldid=1213911009
 eulogy of: Albert Einstein
-lector of: J. Robert Oppenheimer
+lecture of: J. Robert Oppenheimer
 snippet of: Albert Einstein (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Albert_Einstein/death-4-1/
+url: /en.wikipedia.org/wiki/Albert_Einstein/@death-4-1/
 when: 1965-12-13
 tags:
   - snippet
