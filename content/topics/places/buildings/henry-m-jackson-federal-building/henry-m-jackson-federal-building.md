@@ -1,5 +1,6 @@
 ---
 title: "Henry M. Jackson Federal Building"
+height: 148 meters (486 feet)
 near:
   - 1000 Second Avenue
   - Docusign Tower
