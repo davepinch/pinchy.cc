@@ -19,7 +19,6 @@ website: "https://commons.wikimedia.org/wiki/File:Crazy_Eyes.jpg"
 when: 2016-05-15
 tags:
   - me
-  - photograph
   - Seattle
   - selfie
   - favorite photo
