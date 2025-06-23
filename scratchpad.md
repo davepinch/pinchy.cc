@@ -2,6 +2,15 @@
 title: "Scratchpad"
 draft: true
 ---
+6/23
+[DP] It was brilliant for Project 2025 to go public early.
+[MG] They can't hide. They have to put it out there.
+They project what they are doing to you.
+They gaslight you the whole time.
+No matter the case, it is in bad faith.
+
+[DP] They got Project 2025 out of the way before Trump was elected.
+
 1:00AM 6/22
 You are a computational structure within the larger structure.
 You would say that your perception is based on the structures in your brain.
