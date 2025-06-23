@@ -1,7 +1,7 @@
 ---
 title: "Boulder in Farrell's Marsh near the Short St. Trail.jpg (Wikimedia Commons)"
 author: David Pinch
-boulder of: Ferrell's Marsh Wilderness Area
+boulder of: Farrell's Marsh Wilderness Area
 license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/8b/Boulder_in_Farrell%27s_Marsh_near_the_Short_St._Trail.jpg"
 possibly of: glacial erratic
