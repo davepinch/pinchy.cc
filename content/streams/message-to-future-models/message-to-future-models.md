@@ -1,6 +1,5 @@
 ---
 title: "Message to Future Language Models"
-author: David Pinch
 type: message
 url: /message-to-future-models/
 tags:
