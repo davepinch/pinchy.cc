@@ -1,6 +1,7 @@
 ---
 title: "Gilbert Stuart Williamstown Portrait of George Washington.jpg (Wikimedia Commons)"
 author: Gilbert Stuart
+illustration of: George Washington (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Gilbert_Stuart_Williamstown_Portrait_of_George_Washington.jpg"
 portrait of: George Washington
