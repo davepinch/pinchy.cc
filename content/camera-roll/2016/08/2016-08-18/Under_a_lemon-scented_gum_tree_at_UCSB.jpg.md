@@ -22,5 +22,6 @@ when: 2016-08-18
 tags:
   - looking up
   - favorite photo
+  - photograph
   - Wikimedia Commons
 ---

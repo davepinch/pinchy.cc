@@ -22,6 +22,7 @@ url: /sunrise-on-downtown-seattle/
 website: "https://commons.wikimedia.org/wiki/File:Sunset_on_downtown_Seattle_from_Capitol_Hill.jpg"
 when: 2015-06-25
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---
