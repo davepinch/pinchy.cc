@@ -1,5 +1,6 @@
 ---
 title: "1000 Second Avenue"
+height: 493 feet (150 meters)
 near:
   - Docusign Tower
   - Henry M. Jackson Federal Building
