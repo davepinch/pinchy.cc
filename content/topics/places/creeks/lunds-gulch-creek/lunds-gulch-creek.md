@@ -12,7 +12,7 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/511823209 (upstream of 52nd Ave)"
 tributary of:
   - Browns Bay
-  - Puget 
+  - Puget Sound
 url: /lunds-gulch-creek/
 tags:
   - creek
