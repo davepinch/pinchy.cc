@@ -6,6 +6,7 @@ citation: >-
 closure of: Strait of Hormuz
 license: CC BY-SA 4.0
 snippet of: Strait of Hormuz (Wikipedia)
+timeline of: Iran–Israel war
 type: snippet
 url: /en.wikipedia.org/wiki/Strait_of_Hormuz/@3-1/
 when: 2025-06-22
