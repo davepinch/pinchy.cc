@@ -18,6 +18,7 @@ note:
   - Norwegian Point is about a mile west of Point No Point. This is a possible candidate for the location of his camp, which he describes as a "mile beyond" Point No Point. Since he is coming from the east, "beyond" likely means heading west.
 page: 12
 paragraph: 28
+possible reference of: Norwegian Point
 snippet of: Nothing Worthy of Note Transpired Today (archive.org)
 type: snippet
 url: /nothing-worthy-of-note-transpired-today/1/28/
