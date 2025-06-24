@@ -5,8 +5,8 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2025-06-24
 type: website
-url: /en.wikipedia.org/wiki/Euler%27s_formula/
-website: "https://en.wikipedia.org/wiki/Euler%27s_formula"
+url: /en.wikipedia.org/wiki/Euler's_formula/
+website: "https://en.wikipedia.org/wiki/Euler's_formula"
 wikipedia of: Euler's Formula
 tags:
   - Wikipedia
