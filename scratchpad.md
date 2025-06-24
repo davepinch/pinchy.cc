@@ -2,6 +2,44 @@
 title: "Scratchpad"
 draft: true
 ---
+scratching from yesterday, 6/22:
+
+The world folds around itself in ways unexpected.
+You may think a door connects to rooms next to each other,
+but in reality the physical position of the doors can be
+quite distance. The two rooms can even be rotated about
+each other. If you stepped back and saw the physical space,
+you would see a compact network of things. When you are inside
+a space, you see that space relative to its connectings spaces.
+
+---
+They walked to a room where a man was tied. The man was struggling but nothing else was in the room. The man seemed to fighting his imagination. This is not the case. The man was not imagining for what he experienced was real. But in this room was only his body. They flipped a switch and the man dropped.
+
+The man immediaately remembered. His memory now came from this level. What he experienced was real, but those things were in other rooms.
+
+It is often hard to return from the Knots. The Knots was a colloquial way to refer of referring to the world. Often it was very hard in the Knots. The memory remains, for that is the room.
+
+They stepped into the hall.
+
+A million doorways each way, including up and down. 
+Fortunately, the rooms were not in any known order.
+Suppose they had they been ordered by small increments.
+That is, each neighboring room is a small change from the other.
+In such a hall, you could walk a million doors and still not sense the change.
+Their goal was to find the pattern.
+To see if the doors are ordered in some manner.
+So far they have not detected any pattern.
+The memories appear to be arbitrary in every direction.
+
+Sometimes they find rooms connected together.
+That is, outside the door, the halls are connected.
+Statistically, this is an illusion.
+There is never actually a connection.
+
+They stopped at a door. This was the next one to check. To tease out order, they had a pattern for selecting the doors. They had done this for so long, they did not have to discuss the order. The man stepped into the room. He was the one to go next. 
+
+
+
 6/23
 [DP] It was brilliant for Project 2025 to go public early.
 [MG] They can't hide. They have to put it out there.
