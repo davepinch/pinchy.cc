@@ -1,7 +1,7 @@
 ---
 title: "3 minute parking outside Bobby Morris Playfield.jpg (Wikimedia Commons)"
 3 minute parking of:
-  - Capitol Hill, Washington
+  - Capitol Hill, Seattle
   - Cal Anderson Park
   - graffiti
 author: David Pinch
