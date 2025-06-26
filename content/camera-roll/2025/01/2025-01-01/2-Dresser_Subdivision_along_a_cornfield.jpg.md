@@ -10,6 +10,7 @@ photograph of: railway
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Dresser_Subdivision_along_a_cornfield.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Dresser_Subdivision_along_a_cornfield.jpg/330px-Dresser_Subdivision_along_a_cornfield.jpg"
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
+type: picture
 #url: /commons.wikimedia.org/wiki/Dresser_Subdivision_along_a_cornfield.jpg/
 url: /dresser-subdivision-along-a-cornfield/
 website: "https://commons.wikimedia.org/wiki/File:Dresser_Subdivision_along_a_cornfield.jpg"
