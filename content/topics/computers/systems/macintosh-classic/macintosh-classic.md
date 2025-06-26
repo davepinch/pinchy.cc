@@ -1,6 +1,8 @@
 ---
 title: "Macintosh Classic"
-computer of: Motorola 68000
+computer of:
+  - Compact Macintosh
+  - Motorola 68000
 successor of:
   - Macintosh Plus
   - Macintosh SE

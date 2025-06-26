@@ -1,6 +1,7 @@
 ---
 title: "Macintosh SE"
 computer of:
+  - Compact Macintosh
   - Motorola 68000
 successor of:
   - Macintosh Plus

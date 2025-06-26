@@ -1,6 +1,7 @@
 ---
 title: "Macintosh SE/30"
 computer of:
+  - Compact Macintosh
   - Motorola 68030
 successor of: Macintosh SE
 wikidata: "https://www.wikidata.org/wiki/Q2142726"

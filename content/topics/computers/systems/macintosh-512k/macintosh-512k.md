@@ -1,6 +1,7 @@
 ---
 title: "Macintosh 512K"
 computer of:
+  - Compact Macintosh
   - Motorola 68000
 successor of: Macintosh 128K
 wikidata: "https://www.wikidata.org/wiki/Q654114"
