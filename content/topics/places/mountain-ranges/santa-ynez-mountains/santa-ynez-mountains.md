@@ -3,6 +3,7 @@ title: "Santa Ynez Mountains"
 mountain range of:
   - California
   - United States
+  - North America
 near:
   - Santa Barbara
   - Goleta Beach

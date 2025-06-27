@@ -7,6 +7,7 @@ mountain range of:
   - Whatcom County, Washington
   - Washington
   - United States
+  - North America
 near:
   - Bellingham, Washington
   - Lake Samish

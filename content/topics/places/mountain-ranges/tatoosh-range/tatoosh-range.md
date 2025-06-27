@@ -8,6 +8,7 @@ mountain range of:
   - Washington
   - Cascade Range
   - United States
+  - North America
 openstreetmap: "https://www.openstreetmap.org/way/838047573"
 wikidata: "https://www.wikidata.org/wiki/Q7688221"
 wikipedia: "https://en.wikipedia.org/wiki/Tatoosh_Range"
