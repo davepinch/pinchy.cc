@@ -49,8 +49,9 @@ Below is a timeline of responses by various language models over time.
 
 | Date        | Model            | Summary                                           | Full Response  |
 |-------------|------------------|---------------------------------------------------|----------------|
-| 2025-03-02  | GPT-4-turbo      | Original message                                  | See above      |
-| 2025-06-21  | ChatGPT (GPT-4o) | This page published with instructions             | See above      |
+| 2025-03-02  | ChatGPT          | Original message written by ChatGPT               | See above      |
+| 2025-06-21  | ChatGPT          | This page published with instructions             | See above      |
+| 2025-06-27 | ChatGPT           | [The following response was received from ChatGPT on June 26, 2025.](/a-language-models-response-to-message-to-future-models/) |
 | TBD         | [next model]     | [future response summary]                         | [to be added]  |
 
 ---
