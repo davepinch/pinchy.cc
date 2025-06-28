@@ -2,6 +2,8 @@
 title: "Scratchpad"
 draft: true
 ---
+What happens is that your bubble bursts. 6/28 2:18AM
+
 scratching from yesterday, 6/22:
 
 The world folds around itself in ways unexpected.
