@@ -8,6 +8,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Paved_Lang
 type: picture
 url: /commons.wikimedia.org/wiki/Paved_Langus_Riverfront_Trail_on_south_side_of_Smith_Island.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Paved_Langus_Riverfront_Trail_on_south_side_of_Smith_Island.jpg"
+when: 2025-05-05
 tags:
   - Wikimedia Commons
 ---
