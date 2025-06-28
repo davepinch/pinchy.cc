@@ -15,6 +15,7 @@ url: /fire-hydrant-near-tall-tree-park/
 website: "https://commons.wikimedia.org/wiki/File:Fire_hydrant_near_Tall_Tree_Park_in_Bothell,_WA.jpg"
 when: 2024-03-10
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---

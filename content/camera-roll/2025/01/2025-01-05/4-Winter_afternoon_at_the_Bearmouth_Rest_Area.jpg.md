@@ -13,6 +13,7 @@ website: "https://commons.wikimedia.org/wiki/File:Winter_afternoon_at_the_Bearmo
 when: 2025-01-05
 winter afternoon of: Bearmouth Rest Area Westbound
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---

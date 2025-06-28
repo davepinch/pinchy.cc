@@ -15,6 +15,7 @@ when: 2025-01-05
 winter of: train
 winter train of: Livingston, Montana
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---

@@ -13,6 +13,7 @@ vicinity of: Alexandria, Minnesota
 website: "https://commons.wikimedia.org/wiki/File:Burgen_Lake_Rest_Area_outside_Alexandria,_Minnesota_in_January_2025.jpg"
 when: 2025-01-04
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---
