@@ -6,6 +6,8 @@ description: >-
 license: CC BY 4.0
 photograph by: David Pinch
 photograph of: forest
+picture: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Brush_in_the_forest_north_of_Martha_Lake_Airport_Park.jpg"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Brush_in_the_forest_north_of_Martha_Lake_Airport_Park.jpg/330px-Brush_in_the_forest_north_of_Martha_Lake_Airport_Park.jpg"
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
 type: picture
 url: /brush-in-the-forest-north-of-martha-lake-airport-park/
