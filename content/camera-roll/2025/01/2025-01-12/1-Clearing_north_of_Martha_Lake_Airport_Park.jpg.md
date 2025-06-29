@@ -12,6 +12,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Clearing_n
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
 type: picture
 url: /clearing-north-of-martha-lake-airport-park/
+website: "https://commons.wikimedia.org/wiki/File:Clearing_north_of_Martha_Lake_Airport_Park.jpg"
 when: 2025-01-12
 tags:
   - photograph
