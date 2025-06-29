@@ -5,6 +5,8 @@ beach of:
   - Narrows Park
   - Wollochet, Washington
   - Kitsap Peninsula
+description: >-
+  On the sandy beach of Narrows Park on the Kitsap Peninsula looking northward toward the Tacoma Narrows Bridge. The body of water is the Tacoma Narrows, a strait of Puget Sound.
 license: CC BY 4.0
 narrows park of:
   - Tacoma Narrows

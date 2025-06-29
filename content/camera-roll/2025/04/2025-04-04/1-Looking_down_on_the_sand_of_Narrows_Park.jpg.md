@@ -8,6 +8,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/9/9e/Looking_down_on_th
 sand of:
   - Narrows Park
   - Tacoma Narrows
+  - Kitsap Peninsula
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Looking_down_on_the_sand_of_Narrows_Park.jpg/500px-Looking_down_on_the_sand_of_Narrows_Park.jpg"
 type: picture
 url: /commons.wikimedia.org/wiki/Looking_down_on_the_sand_of_Narrows_Park.jpg/
