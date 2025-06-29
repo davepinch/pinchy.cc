@@ -9,6 +9,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/South_side
 type: picture
 url: /commons.wikimedia.org/wiki/South_side_of_boardwalk_at_Rhododendron_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:South_side_of_boardwalk_at_Rhododendron_Park.jpg"
+when: 2025-04-13
 tags:
   - Wikimedia Commons
 ---
