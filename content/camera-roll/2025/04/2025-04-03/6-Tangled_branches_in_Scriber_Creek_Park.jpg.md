@@ -10,6 +10,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tangled_br
 type: picture
 url: /commons.wikimedia.org/wiki/Tangled_branches_in_Scriber_Creek_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Tangled_branches_in_Scriber_Creek_Park.jpg"
+when: 2025-04-03
 tags:
   - Wikimedia Commons
 ---

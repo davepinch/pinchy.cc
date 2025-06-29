@@ -13,6 +13,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Boulder_in
 type: picture
 url: /commons.wikimedia.org/wiki/Boulder_in_Scriber_Creek_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Boulder_in_Scriber_Creek_Park.jpg"
+when: 2025-04-03
 tags:
   - Wikimedia Commons
 ---

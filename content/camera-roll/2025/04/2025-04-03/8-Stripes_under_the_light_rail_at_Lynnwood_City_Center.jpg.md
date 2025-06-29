@@ -11,6 +11,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Stripes_under_the_light_rail_at_Lynnwood_City_Center.jpg/
 vicinity of: Scriber Creek Trail
 website: "https://commons.wikimedia.org/wiki/File:Stripes_under_the_light_rail_at_Lynnwood_City_Center.jpg"
+when: 2025-04-03
 tags:
   - Wikimedia Commons
 ---
