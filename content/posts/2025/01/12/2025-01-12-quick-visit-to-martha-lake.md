@@ -5,7 +5,7 @@ excerpt: >-
 quick visit of: Martha Lake Airport Park
 sequence:
   - Paper airplane at Martha Lake Airport Park
-  - Glacial erratic at Martha Lake Airport Park
+  - Glacial erratic at Martha Lake Airport Park.jpg (Wikimedia Commons)
   - Sign at Martha Lake Airport Park
   - Clearing north of Martha Lake Airport Park.jpg (Wikimedia Commons)
   - Brush in the forest north of Martha Lake Airport Park.jpg (Wikimedia Commons)
