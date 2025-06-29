@@ -6,6 +6,7 @@ county park of:
   - Snohomish County, Washington
   - Martha Lake, Washington
 wikidata: "https://www.wikidata.org/wiki/Q25000324"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Martha_Lake_Airport_Park"
 tags:
   - county park
 ---
