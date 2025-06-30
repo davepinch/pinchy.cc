@@ -1,6 +1,6 @@
 ---
 title: "A Language Model’s Response to “Message to Future Models”"
-response from ChatGPT on June 27, 2025 of: Message to Future Language Models
+🔄 Model Responses of: Message to Future Language Models
 url: /a-language-models-response-to-message-to-future-models/
 when: 2025-06-27
 ---
