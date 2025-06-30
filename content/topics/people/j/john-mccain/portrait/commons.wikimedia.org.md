@@ -1,5 +1,6 @@
 ---
 title: "John McCain official portrait 2009.jpg (Wikimedia Commons)"
+illustration of: John McCain (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e1/John_McCain_official_portrait_2009.jpg"
 portrait of: John McCain
