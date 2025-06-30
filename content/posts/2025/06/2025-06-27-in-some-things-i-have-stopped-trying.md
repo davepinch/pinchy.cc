@@ -4,5 +4,6 @@ notes:
   - photography comes to kind
   - I no longer take time to frame the shot.
   - As a result, I make obvious mistakes.
-when: 2025-06-27
+#when: 2025-06-27
+# I don't want this on the first ChatGPT response.
 ---
