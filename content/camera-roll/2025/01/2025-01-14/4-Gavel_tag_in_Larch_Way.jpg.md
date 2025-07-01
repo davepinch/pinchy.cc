@@ -12,6 +12,7 @@ TODO: When redirects are implemented, change to a standard URL for Wikimedia-hos
 type: picture
 url: /gavel-in-larch-way/
 website: "https://commons.wikimedia.org/wiki/File:Gavel_tag_in_Larch_Way.jpg"
+when: 2025-01-14
 tags:
   - photograph
   - Wikimedia Commons
