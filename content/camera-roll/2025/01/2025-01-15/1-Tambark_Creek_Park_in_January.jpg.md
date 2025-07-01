@@ -1,5 +1,7 @@
 ---
 title: "Tambark Creek Park in January.jpg (Wikimedia Commons)"
+description: >-
+  A January view of Tambark Creek in the park of the same name. There is some green around the edge of the creek, but most the surroundings are leafless trees and brushes. Tambark Creek is located in the Puget Lowlands, which often does not have snow this time of year.
 license: CC BY 4.0
 photograph by: David Pinch
 photograph of:
