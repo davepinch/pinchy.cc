@@ -6,6 +6,8 @@ dock of:
   - Martha Lake Park
 license: CC BY 4.0
 photograph by: David Pinch
+picture: "https://upload.wikimedia.org/wikipedia/commons/5/50/Crow_on_a_dock_of_Martha_Lake_Park.jpg"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Crow_on_a_dock_of_Martha_Lake_Park.jpg/330px-Crow_on_a_dock_of_Martha_Lake_Park.jpg"
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
 type: picture
 url: /crow-on-a-dock-of-martha-lake-park/
