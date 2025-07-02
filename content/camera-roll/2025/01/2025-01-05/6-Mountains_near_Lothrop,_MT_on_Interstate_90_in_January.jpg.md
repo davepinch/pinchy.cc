@@ -21,6 +21,7 @@ type: picture
 url: /mountains-near-alberton-on-interstate-90-in-january/
 website: "https://commons.wikimedia.org/wiki/File:Mountains_near_Lothrop,_MT_on_Interstate_90_in_January.jpg"
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---
