@@ -16,6 +16,7 @@ url: /sign-at-martha-lake-airport-park/
 website: "https://commons.wikimedia.org/wiki/File:Sign_at_Martha_Lake_Airport_Park.jpg"
 when: 2025-01-12
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---
