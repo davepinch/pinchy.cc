@@ -12,7 +12,7 @@ photograph of:
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/72/Mountains_near_Lothrop%2C_MT_on_Interstate_90_in_January.jpg"
 snowy afternoon of:
   - Lothrop, Montana
-  - Bitterfoot Range
+  - Bitterroot Range
   - Rocky Mountains
   - Interstate 90
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Mountains_near_Lothrop%2C_MT_on_Interstate_90_in_January.jpg/330px-Mountains_near_Lothrop%2C_MT_on_Interstate_90_in_January.jpg"
