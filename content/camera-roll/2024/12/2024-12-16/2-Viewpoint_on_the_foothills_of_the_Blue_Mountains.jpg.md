@@ -18,6 +18,7 @@ url: /viewpoint-on-the-foothills-of-the-blue-mountains/
 viewpoint of: Interstate 84
 website: "https://commons.wikimedia.org/wiki/File:Viewpoint_on_the_foothills_of_the_Blue_Mountains.jpg"
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---
