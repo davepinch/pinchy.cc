@@ -1,5 +1,6 @@
 ---
 title: "Wetland before building The Farm at Mill Creek, 1 of 2.jpg (Wikimedia Commons)"
+➡️: Wetland before building The Farm at Mill Creek, 2 of 2.jpg (Wikimedia Commons)
 description: >-
   *The Farm at Mill Creek* is a project in Mill Creek, Washington to develop a site for commercial and residential use. I came across this land and took a picture before construction. The picture shows mostly grasses along with patches of different vegetation. There are several logs from fallen trees, along with a cut tree trunk. The top of a drain is visible. The sky is cloudy as nighttime is coming.
 license: CC BY 4.0
