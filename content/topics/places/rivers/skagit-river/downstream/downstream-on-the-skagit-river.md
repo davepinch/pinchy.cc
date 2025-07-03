@@ -11,6 +11,7 @@ sequence:
   - Diablo Dam
   - Diablo, Washington
   - Gorge Lake
+  - Gorge Dam
   - Newhalem, Washington
   - Marblemount, Washington
   - Rockport, Washington
