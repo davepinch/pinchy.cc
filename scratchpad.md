@@ -2,6 +2,68 @@
 title: "Scratchpad"
 draft: true
 ---
+
+Each page, a link to its source.
+
+---
+
+Microsoft layoffs is a signal of the failure of management.
+A company needs to lay people off if they lose money.
+Microsoft is not in that position.
+They decided they could make more money without those people.
+But AI is supposed to be supercharging people?
+Microsoft couldn't use AI with those people.
+Microsoft couldn't have made money with those people?
+---
+Everyone will have supercharged capabilities.
+For $20 a month, you get your AI coder. For $20 a month, you get your super salesperson.
+What distinguishes one company from another? The people.
+This is something that could be said about any time.
+The difference is that knowledge is not a factor that distinguishes a company.
+The poorly run small companies you see today will not compete ten years from now.
+---
+
+Road trip:
+Day 1: Bothell to Okanogan
+  - ~ 4.5 hours driving
+  - Darrington, Washington
+  - Newhalem, Washington
+  - Ladder Creek Falls Trail
+  - Ladder Creek Falls
+  - Ladder Creek
+  - Diablo Lake
+  - Washington Pass
+  - Okanogan, Washington
+
+Day 2: Okanogan to Clarkston
+  - ~ 5 hours driving
+  - Okanogan, Washington
+  - Omak, Washington
+  - Grand Coulee, Washington
+  - Sun Lakes-Dry Falls State Park
+  - Davenport, Washington
+  - Sprague, Washington
+  - Clarkston, Washington
+
+Day 3: Clarkston to Missoula
+  - ~ 4 hours 5 minutes total driving
+  - Clarkston, Washington
+  - Lewiston, Idaho
+  - Lolo, Montana
+  - Missoula, Montana
+
+Day 4: Missoula to Billings
+  - ~ 4 hours 43 minutes total driving
+  - Missoula, Montana
+  - Butte, Montana
+  - Berkeley Pit Viewing Stand
+  - Bozeman, Montana
+  - Livingston, Montana
+  - Billings, Montana
+
+  
+---
+
 What happens is that your bubble bursts. 6/28 2:18AM
 
 scratching from yesterday, 6/22:
