@@ -17,7 +17,7 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/314941678 (open space in Mountlake Terrace)"
   - "https://www.openstreetmap.org/way/314941658 (confluence with McKinnon Creek)"
   - "https://www.openstreetmap.org/way/314941656 (Whispering Willow Park)"
-  - "https://www.openstreetmap.org/way/317419790 (south at Lake Washington)"
+  - "https://www.openstreetmap.org/way/317419790 (mouth at Lake Washington)"
 tributary of: Lake Washington
 tags:
   - creek
