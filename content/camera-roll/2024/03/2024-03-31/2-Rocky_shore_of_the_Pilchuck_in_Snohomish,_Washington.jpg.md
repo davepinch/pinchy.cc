@@ -11,6 +11,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Rocky_shor
 type: picture
 url: /commons.wikimedia.org/wiki/Rocky_shore_of_the_Pilchuck_in_Snohomish,_Washington.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Rocky_shore_of_the_Pilchuck_in_Snohomish,_Washington.jpg"
+when: 2024-03-31
 tags:
   - Wikimedia Commons
 ---
