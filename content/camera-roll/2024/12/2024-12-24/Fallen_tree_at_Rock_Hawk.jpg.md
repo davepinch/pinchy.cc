@@ -15,6 +15,7 @@ vicinity of: Little Family Cemetery
 website: "https://commons.wikimedia.org/wiki/File:Fallen_tree_at_Rock_Hawk.jpg"
 when: 2024-12-25
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---
