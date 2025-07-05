@@ -424,6 +424,43 @@ $script:props = Get-Props $script:pages
 Write-Host "There are $($script:props.Count) distinct properties."
 
 # ========================================================================
+# Update-GitHub
+# ------------------------------------------------------------------------
+# Adds a property to each page with the GitHub URL of the page.
+# ========================================================================
+
+function Update-GitHub() {
+
+    Write-Host "$(Get-EmojiGlobe) GitHub links..."
+
+    #
+    # Get the base URL for the GitHub repository
+    # TODO: determine automatically. 
+    #
+    $baseUrl = "https://github.com/davepinch/pinchy.cc/blob/master/"
+    #
+    # Loop through each page and add the GitHub URL
+    #
+    foreach($page in $script:pages) {
+
+        #
+        # The "::path" property contains the local path to the file
+        # relative to the root of the repository. This path can be
+        # appended to the base URL after changing "\" to "/".
+        #
+        if (-not $page.ContainsKey("::path")) {
+            Debug-Page $page "No path property"
+            continue
+        }
+
+        $path = $page["::path"]
+        $path = $path -replace '\\', '/'
+        $url = $baseUrl + $path
+        Add-PropertyValue $page "path on GitHub" $url
+    }
+}
+
+# ========================================================================
 # Update-LinkedByTag
 # ------------------------------------------------------------------------
 # Links together pages that have the same tag. The tag is defined by a
@@ -1344,6 +1381,7 @@ function Update-WikipediaFlagsAndLocations() {
 #
 # Execute updaters
 #
+Update-GitHub
 Update-LinkedByTag
 Update-Ofs "of"
 Update-Ofs "in"
