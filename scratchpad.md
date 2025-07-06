@@ -3,10 +3,6 @@ title: "Scratchpad"
 draft: true
 ---
 
-Each page, a link to its source.
-
----
-
 Microsoft layoffs is a signal of the failure of management.
 A company needs to lay people off if they lose money.
 Microsoft is not in that position.
