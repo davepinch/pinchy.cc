@@ -1,5 +1,6 @@
 ---
 title: "Graffiti along the Interurban Trail in Larch Way, Washington.jpg (Wikimedia Commons)"
+another INSITE tag: INSITE along the Pilchuck River.jpg (Wikimedia Commons)
 fence of: graffiti
 graffiti of:
   - Larch Way, Washington
@@ -16,4 +17,5 @@ when: 2025-01-14
 tags:
   - Wikimedia Commons
   - TODO
+  - INSITE
 ---
