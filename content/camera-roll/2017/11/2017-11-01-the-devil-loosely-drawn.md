@@ -1,5 +1,7 @@
 ---
 title: "The devil loosely drawn"
+# If you rename this picture, be sure update the page below, which points to this page.
+another devil loosely drawn: Graffiti of a head with horns in Pilchuck Park.jpg (Wikimedia Commons)
 photograph of:
   - spray paint
   - graffiti
