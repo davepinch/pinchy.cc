@@ -16,6 +16,7 @@ photograph of:
   - tree
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mattress_near_the_Skykomish.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mattress_near_the_Skykomish.jpg/330px-Mattress_near_the_Skykomish.jpg"
+TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
 type: picture
 url: /matress-near-the-skykomish/
 website: "https://commons.wikimedia.org/wiki/File:Mattress_near_the_Skykomish.jpg"
