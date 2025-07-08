@@ -19,6 +19,7 @@ TODO:
 type: picture
 url: /looking-out-at-picnic-point-park/
 website: "https://commons.wikimedia.org/wiki/File:Looking_out_at_Picnic_Point_Park.jpg"
+when: 2024-06-08
 tags:
   - Wikimedia Commons
   - TODO
