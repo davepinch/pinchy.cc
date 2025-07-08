@@ -16,6 +16,7 @@ TODO: When redirects are implemented, change to a standard URL for Wikimedia-hos
 type: picture
 url: /looking-out-into-the-icy-saint-croix/
 website: "https://commons.wikimedia.org/wiki/File:Looking_out_into_the_icy_Saint_Croix_at_the_Boom_Site_Landing.jpg"
+when: 2024-12-27
 tags:
   - photograph
   - Wikimedia Commons
