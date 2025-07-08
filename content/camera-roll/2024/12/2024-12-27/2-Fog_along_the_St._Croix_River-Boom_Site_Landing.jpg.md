@@ -14,6 +14,7 @@ photograph of:
   - tree
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c5/Fog_along_the_St._Croix_River-Boom_Site_Landing.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Fog_along_the_St._Croix_River-Boom_Site_Landing.jpg/330px-Fog_along_the_St._Croix_River-Boom_Site_Landing.jpg"
+TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
 type: picture
 url: /fog-along-the-st.-croix-river-boom-site-landing/
 website: "https://commons.wikimedia.org/wiki/File:Fog_along_the_St._Croix_River-Boom_Site_Landing.jpg"
