@@ -12,5 +12,6 @@ type: picture
 url: /commons.wikimedia.org/wiki/Arrow_at_Pilchuck_Park.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Arrow_at_Pilchuck_Park.jpg"
 tags:
+  - photograph
   - Wikimedia Commons
 ---

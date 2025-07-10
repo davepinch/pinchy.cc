@@ -22,6 +22,7 @@ url: /matress-near-the-skykomish/
 website: "https://commons.wikimedia.org/wiki/File:Mattress_near_the_Skykomish.jpg"
 when: 2024-06-22
 tags:
+  - photograph
   - Wikimedia Commons
   - TODO
 ---

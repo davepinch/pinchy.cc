@@ -14,5 +14,6 @@ vicinity of: Miner's Corner
 website: "https://commons.wikimedia.org/wiki/File:Wood_pylons_near_Miner's_Corner.jpg"
 when: 2024-06-07
 tags:
+  - photograph
   - Wikimedia Commons
 ---
