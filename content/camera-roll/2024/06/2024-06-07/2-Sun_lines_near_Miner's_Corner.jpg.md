@@ -1,6 +1,7 @@
 ---
 title: "Sun lines near Miner's Corner.jpg (Wikimedia Commons)"
 description: "Shadows of the sun on the sidewalk across the street from Miner's Corner, a park in Snohomish County, Washington."
+license: CC BY 4.0
 photograph by: David Pinch
 photograph of:
   - shadow

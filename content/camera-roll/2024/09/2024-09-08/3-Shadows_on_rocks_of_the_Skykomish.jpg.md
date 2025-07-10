@@ -15,5 +15,6 @@ url: /commons.wikimedia.org/wiki/Shadows_on_rocks_of_the_Skykomish.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Shadows_on_rocks_of_the_Skykomish.jpg"
 when: 2024-09-08
 tags:
+  - photograph
   - Wikimedia Commons
 ---
