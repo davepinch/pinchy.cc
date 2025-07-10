@@ -11,7 +11,7 @@ photograph of:
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/15/Sun_ripples_on_Lake_Ballinger.jpg"
 sun ripples of:
   - Lake Ballinger
-  - Mountlake Terrace
+  - Mountlake Terrace, Washington
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Sun_ripples_on_Lake_Ballinger.jpg/330px-Sun_ripples_on_Lake_Ballinger.jpg"
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
 type: picture
