@@ -3,6 +3,8 @@ title: "Scratchpad"
 draft: true
 ---
 
+In a nightmare, I realized I was conscious. The nightmarae is realizing that most of time I am not. I am a bot. I am an automation, most of the time. Hold this realization in your mind. 
+
 Microsoft layoffs is a signal of the failure of management.
 A company needs to lay people off if they lose money.
 Microsoft is not in that position.
