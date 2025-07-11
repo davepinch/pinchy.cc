@@ -18,5 +18,6 @@ thumbnail: content/camera-roll/2019/06/2019-06-30-painted-alley-in-bellingham/pa
 type: picture
 when: 2019-06-30
 tags:
+  - ⚓
   - photograph
 ---

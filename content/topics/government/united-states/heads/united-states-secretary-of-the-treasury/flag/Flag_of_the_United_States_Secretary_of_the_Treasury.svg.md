@@ -11,6 +11,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_the_United_States_Secretary_of_the_Treasury.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_States_Secretary_of_the_Treasury.svg"
 tags:
+  - ⚓
   - flag
   - Wikimedia Commons
   - no Wikipedia article

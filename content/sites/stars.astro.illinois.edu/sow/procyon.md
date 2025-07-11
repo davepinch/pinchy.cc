@@ -8,6 +8,7 @@ type: website
 url: /stars.astro.illinois.edu/sow/procyon.html/
 website: "http://stars.astro.illinois.edu/sow/procyon.html"
 tags:
+  - ⚓
   - STARS by Jim Kaler
   - website
 ---
