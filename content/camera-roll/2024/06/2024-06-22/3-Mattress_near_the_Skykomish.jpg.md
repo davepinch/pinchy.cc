@@ -12,7 +12,7 @@ photograph by: David Pinch
 photograph of:
   - forest
   - garbage
-  - mattress
+  - matress
   - tree
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Mattress_near_the_Skykomish.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mattress_near_the_Skykomish.jpg/330px-Mattress_near_the_Skykomish.jpg"
