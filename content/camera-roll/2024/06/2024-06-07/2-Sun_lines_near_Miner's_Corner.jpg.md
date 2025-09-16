@@ -4,7 +4,7 @@ description: "Shadows of the sun on the sidewalk across the street from Miner's 
 license: CC BY 4.0
 photograph by: David Pinch
 photograph of:
-  - shadow
+  - shadows
   - sidewalk
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5b/Sun_lines_near_Miner%27s_Corner.jpg"
 shadow of: fence
