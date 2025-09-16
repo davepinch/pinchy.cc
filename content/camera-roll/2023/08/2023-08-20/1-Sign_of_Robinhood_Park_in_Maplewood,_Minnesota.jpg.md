@@ -16,6 +16,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Sign_of_Ro
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
 type: picture
 url: /robinhood-park-sign/
+website: "https://commons.wikimedia.org/wiki/File:Sign_of_Robinhood_Park_in_Maplewood,_Minnesota.jpg"
 when: 2023-08-20
 tags:
   - photograph
