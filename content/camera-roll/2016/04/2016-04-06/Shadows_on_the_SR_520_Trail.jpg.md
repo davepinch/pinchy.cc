@@ -4,6 +4,7 @@ asphalt of: looking down
 at the moment: These shadows caught my eye one day while walking along the SR 520. At the time I would sneak to this location to smoke, as there is a connection to the Microsoft campus.
 caption: "Black asphalt with shadows from nearby trees"
 description: "Looking at the black asphalt of the SR 520 Trail alongside the Microsoft Redmond campus. Nearby trees are casting shadows. They have no leaves but many angles."
+license: CC BY 4.0
 photograph by: David Pinch
 photograph of:
   - photograph
