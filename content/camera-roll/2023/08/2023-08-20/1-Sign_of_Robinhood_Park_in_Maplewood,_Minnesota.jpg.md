@@ -3,6 +3,7 @@ title: "Sign of Robinhood Park in Maplewood, Minnesota.jpg (Wikimedia Commons)"
 city park of: Maplewood, Minnesota
 description: >-
   The wooden sign of Robinhood Park in Maplewood, Minnesota. I don't think this is the same sign from the 1980s, when I was a kid who played often at this park. I wish there was a photo from back then. Hence why I take this photo: so that a kid from today may eventually go back and see the sign of this park when they were a kid. The sign has two wooden posts painted dark brown. The main sign is an irregular quadrilateral, painted in a tan color, with a wooden and dark brown plaque that says ROBINHOOD.
+license: CC BY 4.0
 photograph by: David Pinch
 photograph of:
   - city park
