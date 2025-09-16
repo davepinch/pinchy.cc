@@ -8,7 +8,7 @@ photograph of: fire hydrant
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/3d/Fire_hydrant_near_Madison%2C_Georgia.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Fire_hydrant_near_Madison%2C_Georgia.jpg/330px-Fire_hydrant_near_Madison%2C_Georgia.jpg"
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
-type: 
+type: picture
 url: /fire-hydrant-near-madison/
 website: "https://commons.wikimedia.org/wiki/File:Fire_hydrant_near_Madison,_Georgia.jpg"
 tags:
