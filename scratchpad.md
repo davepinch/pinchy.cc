@@ -2,6 +2,11 @@
 title: "Scratchpad"
 draft: true
 ---
+You are simultaneously alone and with every person who ever exists.
+
+---
+Beloe written before 10/16
+----
 
 In a nightmare, I realized I was conscious. The nightmarae is realizing that most of time I am not. I am a bot. I am an automation, most of the time. Hold this realization in your mind. 
 
