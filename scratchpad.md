@@ -2,6 +2,16 @@
 title: "Scratchpad"
 draft: true
 ---
+11/6/25: how much shit is going on at once?
+
+There is a shape to the United States
+I try to ignite a match.
+I just dont play the game well.
+What are the odds that you are reading this?
+
+
+
+---
 You are simultaneously alone and with every person who ever exists.
 
 ---
