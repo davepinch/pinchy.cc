@@ -1,5 +1,6 @@
 ---
 title: "Learn Turbo Pascal - a video series originally released on VHS (youtube.com)"
+episode of: "https://www.youtube.com/@AndyHewco"
 excerpt: >-
   Everything you might possibly want to know about programming in Turbo Pascal. Originally released on VHS, (c) Borland International.
 hacker news: "https://news.ycombinator.com/item?id=45548457"
