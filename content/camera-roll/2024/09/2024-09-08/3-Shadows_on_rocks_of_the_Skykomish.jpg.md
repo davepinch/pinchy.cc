@@ -5,7 +5,7 @@ license: CC BY 4.0
 photograph by: David Pinch
 photograph of:
   - rocks
-  - shadow
+  - shadows
   - sunlight
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/16/Shadows_on_rocks_of_the_Skykomish.jpg"
 shadows of: Skykomish River
