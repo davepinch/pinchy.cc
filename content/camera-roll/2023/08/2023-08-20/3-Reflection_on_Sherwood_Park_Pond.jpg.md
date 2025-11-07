@@ -7,7 +7,7 @@ photograph of:
   - leaves
   - pond
   - reflection
-  - riplle
+  - ripple
   - trees
   - water
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bd/Reflection_on_Sherwood_Park_Pond.jpg"
