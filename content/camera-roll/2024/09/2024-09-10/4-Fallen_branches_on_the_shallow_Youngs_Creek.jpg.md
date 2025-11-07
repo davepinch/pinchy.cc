@@ -4,7 +4,6 @@ fallen branches of: Youngs Creek
 license: CC BY 4.0
 photograph of:
   - creek
-  - creek
   - wood
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1d/Fallen_branches_on_the_shallow_Youngs_Creek.jpg"
 reflection of: Marckworth State Forest
