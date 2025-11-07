@@ -8,7 +8,7 @@ photograph of:
   - spray paint
   - street
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/36/Red_dot_in_the_International_District.jpg"
-red dot of: International District, Seattle
+red dot of: Chinatown–International District, Seattle
 spray paint of: circle
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Red_dot_in_the_International_District.jpg/500px-Red_dot_in_the_International_District.jpg"
 type: picture
