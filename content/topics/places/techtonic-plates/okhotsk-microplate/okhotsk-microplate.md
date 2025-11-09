@@ -1,5 +1,6 @@
 ---
 title: "Okhotsk Microplate"
+another microplate: Amurian Microplate
 borders:
   - Amurian Microplate
   - Eurasian Plate

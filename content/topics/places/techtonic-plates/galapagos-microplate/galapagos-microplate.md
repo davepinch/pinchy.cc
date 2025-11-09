@@ -1,5 +1,6 @@
 ---
 title: "Galápagos Microplate"
+another microplate: Okhotsk Microplate
 borders:
   - Cocos Plate
   - Nazca Plate

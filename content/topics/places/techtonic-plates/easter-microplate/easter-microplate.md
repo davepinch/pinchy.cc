@@ -1,5 +1,6 @@
 ---
 title: "Easter Microplate"
+another microplate: Galápagos Microplate
 borders:
   - Nazca Plate
   - Pacific Plate

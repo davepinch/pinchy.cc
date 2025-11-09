@@ -1,5 +1,6 @@
 ---
 title: "Amurian Microplate"
+another microplate: Easter Microplate
 borders:
   - Eurasian Plate
   - Okhotsk Microplate
