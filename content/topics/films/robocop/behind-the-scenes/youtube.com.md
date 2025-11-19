@@ -9,10 +9,13 @@ mention of:
   - Metropolis
   - Paul Verhoeven
   - The Terminator
+  - United States
+TODO: review and collect other quotes in this video
 type: youtube
 url: /youtu.be/A_WSnCO-SdQ/
 website: "https://www.youtube.com/watch?v=A_WSnCO-SdQ"
 youtube-id: "A_WSnCO-SdQ"
 tags:
   - YouTube video
+  - TODO
 ---
