@@ -1,7 +1,7 @@
 ---
 title: "Painted feather in First Hill"
 description: A beautifully painted feather on a concrete wall
-moment of: First Hill, Seattle
+feather of: First Hill, Seattle
 near:
   - Down the alley
   - Pareidolia in the alley
