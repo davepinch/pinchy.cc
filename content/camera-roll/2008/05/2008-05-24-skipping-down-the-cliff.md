@@ -5,7 +5,9 @@ caption: An insecure position on the cliff.
 cliff of: sandstone
 license: CC BY-SA 4.0
 picture: content/camera-roll/2008/05/2008-05-24-skipping-down-the-cliff/recon-2-083.jpg
-skipping down the cliff of: Bruce Vento Nature Sanctuary
+skipping down the cliff of:
+  - Bruce Vento Nature Sanctuary
+  - moment
 thumbnail: content/camera-roll/2008/05/2008-05-24-skipping-down-the-cliff/recon-2-083-thumbnail.jpg
 type: picture
 when: 2008-05-24
