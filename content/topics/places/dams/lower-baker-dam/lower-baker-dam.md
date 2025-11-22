@@ -1,5 +1,5 @@
 ---
-tittle: "Lower Baker Damn"
+title: "Lower Baker Dam"
 dam of:
   - Baker River
   - Skagit County, Washington
