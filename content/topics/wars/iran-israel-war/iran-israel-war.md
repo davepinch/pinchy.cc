@@ -7,5 +7,4 @@ war of:
 wikidata: "https://www.wikidata.org/wiki/Q134900605"
 tags:
   - war
-  - footer
 ---
