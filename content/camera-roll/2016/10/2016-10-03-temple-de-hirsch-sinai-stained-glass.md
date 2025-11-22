@@ -1,11 +1,11 @@
 ---
 title: "Temple De Hirsch Sinai stained glass"
-moment of: Temple De Hirsch Sinai
 photograph of: glass
 picture: content/camera-roll/2016/10/2016-10-03-temple-de-hirsch-sinai-stained-glass/2016-10-03-temple-de-hirsch-sinai-stained-glass.jpg
 related:
   - In the remains of the Old Sanctuary
   - Temple De Hirsch Sinai (Wikipedia)
+stained glass of: Temple De Hirsch Sinai
 thumbnail: content/camera-roll/2016/10/2016-10-03-temple-de-hirsch-sinai-stained-glass/2016-10-03-temple-de-hirsch-sinai-stained-glass-thumbnail.jpg
 type: picture
 when: 2016-10-03
