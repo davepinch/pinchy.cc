@@ -1,5 +1,6 @@
 ---
 title: "Under the blossoms (2 of 2)"
+blossoms of: Seattle
 photograph of:
   - spring
   - flower

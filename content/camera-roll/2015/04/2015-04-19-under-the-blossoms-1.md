@@ -1,7 +1,8 @@
 ---
 title: "Under the blossoms (1 of 2)"
-blossoms of: looking up
-moment of: Seattle
+blossoms of:
+  - looking up
+  - Seattle
 photograph of:
   - spring
   - flower
