@@ -13,6 +13,7 @@ mention of:
   - Claude Shannon
 type: youtube
 url: /youtu.be/KZeIEiBrT_w/
+website: "https://youtu.be/KZeIEiBrT_w"
 youtube-id: KZeIEiBrT_w
 tags:
   - YouTube video
