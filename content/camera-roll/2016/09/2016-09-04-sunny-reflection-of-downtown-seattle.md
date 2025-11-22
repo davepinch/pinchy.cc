@@ -18,5 +18,6 @@ type: picture
 when: 2016-09-04
 tags:
   - photograph
+  - moment
 ---
 The [Bulllit Center](/bullitt-center/) is across the street.

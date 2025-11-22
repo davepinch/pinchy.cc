@@ -14,4 +14,5 @@ type: picture
 when: 2008-05-04
 tags:
   - photograph
+  - moment
 ---

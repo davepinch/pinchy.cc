@@ -21,4 +21,5 @@ type: picture
 when: 2016-09-04
 tags:
   - photograph
+  - moment
 ---

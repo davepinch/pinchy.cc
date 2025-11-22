@@ -13,5 +13,6 @@ when: 2008-05-25
 tags:
   - Recon 2
   - photograph
+  - moment
 ---
 This outfall was across the [lake](/lake-phalen/) from the [first outfall](/inside-first-drain-at-lake-phalen/) we examined.

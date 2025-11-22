@@ -13,6 +13,7 @@ type: picture
 when: 2008-05-04
 tags:
   - photograph
+  - moment
   - 🐄
 ---
 We were on a side mission to find a brown cow and brown chicken. We found the cow but not the chicken.

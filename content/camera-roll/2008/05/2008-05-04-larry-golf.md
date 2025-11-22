@@ -17,5 +17,6 @@ type: picture
 when: 2008-05-04
 tags:
   - photograph
+  - moment
 ---
 We stopped at a park on the drive back and played a game of golf. Larry looked so cool. He is one of the most interesting people I know.
