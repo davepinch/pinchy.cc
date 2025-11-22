@@ -1,8 +1,8 @@
 ---
 title: "Exploring Henderson Books (2 of 2)"
+exploration of: Henderson Books
 photograph of:
   - bookshop
-  - Henderson Books
   - Bellingham, Washington
 picture: content/camera-roll/2018/02/2018-02-01-exploring-henderson-books-2/20180201_214507838_iOS.jpg
 related:
