@@ -1,0 +1,4 @@
+---
+title: "queen"
+plural: queens
+---
