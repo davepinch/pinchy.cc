@@ -11,6 +11,7 @@ late authorship of:
 license: CC BY-SA 4.0
 snippet of: Epistle of James (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Epistle_of_James/@anointing-of-the-sick-3/
 tags:
   - snippet
 ---
