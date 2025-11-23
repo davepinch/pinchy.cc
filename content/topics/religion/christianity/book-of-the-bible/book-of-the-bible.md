@@ -1,5 +1,4 @@
 ---
 title: "Book of the Bible"
-related:
-  - Bible
+book of: Bible
 ---
