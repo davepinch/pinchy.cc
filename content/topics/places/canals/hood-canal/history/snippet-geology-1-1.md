@@ -10,7 +10,7 @@ history of:
   - Pleistocene
   - Cordilleran Ice Sheet
 license: CC BY-SA 4.0
-related: Puget_lobe_of_the_Cordilleran_ice_sheet.jpg (wikimedia.org)
+related: Puget lobe of the Cordilleran ice sheet.jpg (Wikimedia Commons)
 snippet of: Hood Canal (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Hood_Canal/geology-1-1/

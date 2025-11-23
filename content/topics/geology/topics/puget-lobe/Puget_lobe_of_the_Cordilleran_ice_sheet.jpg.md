@@ -1,5 +1,5 @@
 ---
-title: "Puget_lobe_of_the_Cordilleran_ice_sheet.jpg (wikimedia.org)"
+title: "Puget lobe of the Cordilleran ice sheet.jpg (Wikimedia Commons)"
 license: public domain
 map of: Puget Lobe
 picture: >-
@@ -26,6 +26,7 @@ puget lobe of:
   - North Bend, Washington
   - Olympia, Washington
   - Olympic Mountains
+  - Olympic Peninsula
   - Port Angeles, Washington
   - Seattle
   - Shelton, Washington
@@ -39,6 +40,7 @@ source: "https://pubs.usgs.gov/sir/2017/5022/a/sir20175022a.pdf"
 thumbnail: >-
   https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Puget_lobe_of_the_Cordilleran_ice_sheet.jpg/426px-Puget_lobe_of_the_Cordilleran_ice_sheet.jpg
 type: picture
+url: /commons.wikimedia.org/wiki/Puget_lobe_of_the_Cordilleran_ice_sheet.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Puget_lobe_of_the_Cordilleran_ice_sheet.jpg"
 tags:
   - Cordilleran Ice Sheet
