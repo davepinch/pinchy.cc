@@ -6,6 +6,7 @@ beach of:
   - Vashon Island
   - Vashon, Washington
   - King County, Washington
+  - crow
 openstreetmap: "https://www.openstreetmap.org/node/5057339426"
 tags:
   - beach
