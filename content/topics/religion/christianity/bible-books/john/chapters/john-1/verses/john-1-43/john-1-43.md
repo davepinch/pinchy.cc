@@ -5,6 +5,7 @@ title: "John 1:43"
 verse of:
   - John 1
   - Galilee
+  - Philip the Apostle
 tags:
   - verse of the Bible
   - Jesus
