@@ -5,7 +5,9 @@ author:
   - "Vector: ARK"
 city flag of: SVG
 description: Flag of the city of Bern, canton of Bern, and former Bern District, Switzerland
-flag of: Bern
+flag of:
+  - Bern
+  - bear
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/75/CHE_Bern_BE_Flag.svg"
 type: picture
