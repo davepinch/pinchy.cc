@@ -1,5 +1,6 @@
 ---
 title: "Billy Frank Jr. Nisqually National Wildlife Refuge"
+borders: Nisqually Wildlife Area Unit
 national wildlife refuge of:
   - United States
   - Washington
