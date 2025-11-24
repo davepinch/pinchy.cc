@@ -1,5 +1,6 @@
 ---
 title: "Centralia, Washington"
+borders: Chehalis, Washington
 city of:
   - Lewis County, Washington
   - Chehalis River
