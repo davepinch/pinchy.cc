@@ -13,5 +13,6 @@ wikidata: "https://www.wikidata.org/wiki/Q6922750"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Pilchuck_State_Park"
 tags:
   - state park
+  - Discover Pass required
   - VISIT SOMEWHERE NEW
 ---

@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q5226557"
 wikipedia: "https://en.wikipedia.org/wiki/Dash_Point_State_Park"
 tags:
   - state park
+  - Discover Pass required
 ---

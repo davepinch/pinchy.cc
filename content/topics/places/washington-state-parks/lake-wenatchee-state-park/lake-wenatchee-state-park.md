@@ -12,4 +12,5 @@ state park of:
 wikidata: "https://www.wikidata.org/wiki/Q3825815"
 tags:
   - state park
+  - Discover Pass required
 ---

@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7605408"
 wikipedia: "https://en.wikipedia.org/wiki/Steamboat_Rock_State_Park"
 tags:
   - state park
+  - Discover Pass required
 ---

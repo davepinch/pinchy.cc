@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7396564"
 wikipedia: "https://en.wikipedia.org/wiki/Sacajawea_State_Park"
 tags:
   - state park
+  - Discover Pass required
 ---

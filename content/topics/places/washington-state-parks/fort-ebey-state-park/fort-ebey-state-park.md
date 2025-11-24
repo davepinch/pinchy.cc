@@ -12,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Fort_Ebey_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Fort_Ebey_State_Park"
 tags:
   - state park
+  - Discover Pass required
 ---

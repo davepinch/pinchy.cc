@@ -14,5 +14,6 @@ state park of:
 wikidata: "https://www.wikidata.org/wiki/Q1438519"
 wikipedia: "https://en.wikipedia.org/wiki/Fort_Flagler_State_Park"
 tags:
-  - Washington
+  - state park
+  - Discover Pass required
 ---

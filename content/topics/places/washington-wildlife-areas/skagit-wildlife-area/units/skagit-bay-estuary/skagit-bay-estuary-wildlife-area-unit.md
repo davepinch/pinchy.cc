@@ -16,4 +16,5 @@ wildlife area unit of:
   - Washington
 tags:
   - wildlife area unit
+  - Discover Pass required
 ---

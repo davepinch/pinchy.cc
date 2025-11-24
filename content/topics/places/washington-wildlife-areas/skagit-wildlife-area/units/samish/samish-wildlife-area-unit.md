@@ -9,4 +9,5 @@ wildlife area unit of:
   - Padilla Bay
 tags:
   - wildlife area unit
+  - Discover Pass required
 ---

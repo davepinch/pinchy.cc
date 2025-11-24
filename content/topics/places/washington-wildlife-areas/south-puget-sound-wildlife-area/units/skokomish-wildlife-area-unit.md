@@ -6,4 +6,5 @@ wikidata: "https://www.wikidata.org/wiki/Q104560812"
 wildlife area unit of: South Puget Sound Wildlife Area
 tags:
   - wildlife area unit
+  - Discover Pass required
 ---

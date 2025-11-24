@@ -19,4 +19,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2160759"
 wikipedia: "https://en.wikipedia.org/wiki/Rockport_State_Park_(Washington)"
 tags:
   - state park
+  - Discover Pass required
 ---

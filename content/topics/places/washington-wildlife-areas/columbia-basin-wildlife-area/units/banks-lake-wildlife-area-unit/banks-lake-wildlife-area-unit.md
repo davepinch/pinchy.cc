@@ -7,4 +7,5 @@ official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/banks-lake-wi
 openstreetmap: "https://www.openstreetmap.org/relation/10676256"
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---

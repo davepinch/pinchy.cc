@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q4915637"
 wikipedia: "https://en.wikipedia.org/wiki/Birch_Bay_State_Park"
 tags:
   - state park
+  - Discover Pass required
 ---

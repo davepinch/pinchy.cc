@@ -13,4 +13,5 @@ website: "https://parks.wa.gov/find-parks/state-parks/deception-pass-state-park"
 wikidata: "https://www.wikidata.org/wiki/Q20751446"
 tags:
   - state park
+  - Discover Pass required
 ---

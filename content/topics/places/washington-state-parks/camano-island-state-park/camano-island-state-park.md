@@ -13,5 +13,6 @@ wikidata: "https://www.wikidata.org/wiki/Q5024930"
 wikipedia: "https://en.wikipedia.org/wiki/Camano_Island_State_Park"
 tags:
   - state park
+  - Discover Pass required
   - VISIT SOMEWHERE NEW
 ---

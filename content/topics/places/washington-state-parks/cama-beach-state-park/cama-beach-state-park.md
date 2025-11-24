@@ -13,5 +13,6 @@ wikidata: "https://www.wikidata.org/wiki/Q5024893"
 wikipedia: "https://en.wikipedia.org/wiki/Cama_Beach_State_Park"
 tags:
   - state park
+  - Discover Pass required
   - VISIT SOMEWHERE NEW
 ---
