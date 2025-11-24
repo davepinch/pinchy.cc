@@ -5,6 +5,7 @@ borders:
   - Mediterranean Sea
 city of:
   - Gaza Strip
+  - Palestinian Territories
   - Mediterranean Sea
 clockwise around the mediterranean: Egypt
 openstreetmap: "https://www.openstreetmap.org/node/504266619"
