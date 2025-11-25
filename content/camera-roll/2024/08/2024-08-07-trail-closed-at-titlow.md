@@ -1,6 +1,6 @@
 ---
 title: "Trail closed at Titlow (Wikimedia Commons)"
-license: CC BY-SA 4.0
+license: CC0 1.0
 photograph of: sign
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2d/Trail_closed_at_Titlow.jpg"
 sign of:
