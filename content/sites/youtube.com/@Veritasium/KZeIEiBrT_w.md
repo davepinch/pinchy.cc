@@ -7,7 +7,7 @@ mention of:
   - John von Neumann
   - Ulam
   - Monte Carlo method
-  - Manhatten project
+  - Manhattan Project
   - Yahoo
   - Google
   - Claude Shannon
