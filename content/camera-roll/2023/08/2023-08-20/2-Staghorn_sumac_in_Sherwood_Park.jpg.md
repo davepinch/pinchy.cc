@@ -9,7 +9,7 @@ photograph of:
   - leaves
   - Maplewood, Minnesota
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Staghorn_sumac_in_Sherwood_Park.jpg"
-plants of: Sherwood Forest
+plants of: Sherwood Park
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Staghorn_sumac_in_Sherwood_Park.jpg/500px-Staghorn_sumac_in_Sherwood_Park.jpg"
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
 type: picture
