@@ -4,6 +4,7 @@ official website: "https://parks.wa.gov/find-parks/state-parks/rainbow-falls-sta
 openstreetmap: "https://www.openstreetmap.org/relation/3740395"
 state park of:
   - Washington
+  - Lewis County, Washington
   - Chehalis River
 wikidata: "https://www.wikidata.org/wiki/Q2127910"
 wikipedia: "https://en.wikipedia.org/wiki/Rainbow_Falls_State_Park"
