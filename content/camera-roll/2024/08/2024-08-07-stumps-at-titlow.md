@@ -1,14 +1,19 @@
 ---
-title: "Stumps at Titlow"
+title: "Stumps at Titlow (Wikimedia Commons)"
+author: David Pinch
 license: CC BY-SA 4.0
 photograph of:
-  - Titlow Park
   - trees
   - stump
-picture: content/camera-roll/2024/08/2024-08-07-stumps-at-titlow/stumps-at-titlow.jpg
-thumbnail: content/camera-roll/2024/08/2024-08-07-stumps-at-titlow/stumps-at-titlow.300x.jpg
+picture: "https://upload.wikimedia.org/wikipedia/commons/0/0f/Stumps_at_Titlow.jpg"
+stumps of: Titlow Park
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Stumps_at_Titlow.jpg/330px-Stumps_at_Titlow.jpg"
+TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
 type: picture
+url: /stumps-at-titlow/
+website: "https://commons.wikimedia.org/wiki/File:Stumps_at_Titlow.jpg"
 when: 2024-08-07
 tags:
   - photograph
+  - TODO
 ---
