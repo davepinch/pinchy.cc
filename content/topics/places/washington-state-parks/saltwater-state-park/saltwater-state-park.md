@@ -9,7 +9,7 @@ state park of:
   - Des Moines, Washington
   - East Passage
 vicinity of: Interstate 5
-wikidata: "https://www.wikidata.org/wiki/Q163325"
+wikidata: "https://www.wikidata.org/wiki/Q7406226"
 wikipedia: "https://en.wikipedia.org/wiki/Saltwater_State_Park"
 tags:
   - state park
