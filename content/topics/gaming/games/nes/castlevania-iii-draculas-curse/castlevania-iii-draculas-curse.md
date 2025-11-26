@@ -1,6 +1,7 @@
 ---
 title: "Castlevania III: Dracula's Curse"
 sequel of: "Castlevania II: Simon's Quest"
+url: /castlevania-iii-draculas-curse/
 video game of:
   - Konomi
   - NES
