@@ -9,6 +9,5 @@ snippet of: Jesse Owens (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Jesse_Owens/@early-life-and-education-1-2/
 tags:
-  - birth
   - snippet
 ---
