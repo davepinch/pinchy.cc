@@ -7,7 +7,7 @@ exposed rocks of:
   - Paleozoic
   - Cenozoic
 exposed time of: Interstate Park
-snippet: Interstate Park (Wikipedia)
+snippet of: Interstate Park (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Interstate_Park/geology-1-1/
 tags:
