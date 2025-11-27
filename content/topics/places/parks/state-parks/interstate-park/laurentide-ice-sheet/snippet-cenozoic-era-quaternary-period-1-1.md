@@ -1,5 +1,6 @@
 ---
-title: "The presence of older glacial deposits south of the Interstate Park demonstrates that the Laurentide Ice Sheet repeated glaciated it and surrounding areas over the Pleistocene Epoch."
+title: "Laurentide Ice Sheet of Interstate Park (Wikipedia)"
+✂️: "The presence of older glacial deposits south of the Interstate Park demonstrates that the Laurentide Ice Sheet repeated glaciated it and surrounding areas over the Pleistocene Epoch."
 citation: >-
   Wikipedia contributors. (2025, January 5). Interstate Park. In *Wikipedia, The Free Encyclopedia*. Retrieved 17:37, February 28, 2025, from https://en.wikipedia.org/w/index.php?title=Interstate_Park&oldid=1267623150
 interstate park of: Laurentide Ice Sheet
