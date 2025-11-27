@@ -5,7 +5,7 @@ citation: "The Castle. (2025, July 13). *Wikiquote*. Retrieved November 26, 2025
 home of: house
 house of: The Castle
 type: quote
-url: /dad-reckons-fishing-is-10-percent-brains/
+url: /its-not-a-house-its-a-home/
 tags:
   - quote
 ---
