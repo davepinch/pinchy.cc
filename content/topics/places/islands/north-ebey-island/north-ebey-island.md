@@ -6,6 +6,7 @@ island of:
   - Marysville, Washington
   - Everett, Washington
   - Snohomish County, Washington
+  - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/18853012"
 tags:
   - island
