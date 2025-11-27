@@ -4,7 +4,9 @@ borders:
   - Australian Plate
   - Pacific Plate
   - Tonga Plate
-tectonic plate of: Pacific Ocean
+tectonic plate of:
+  - Pacific Ocean
+  - New Zealand
 wikidata: "https://www.wikidata.org/wiki/Q1345056"
 tags:
   - tectonic plate
