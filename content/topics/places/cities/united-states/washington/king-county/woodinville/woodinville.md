@@ -1,8 +1,11 @@
 ---
 title: "Woodinville, Washington"
 borders:
+  - Bothell, Washington
+  - Cottage Lake, Washington
   - Kirkland, Washington
-  - incomplete list
+  - Maltby, Washington
+  - Snohomish County, Washington
 city of:
   - King County, Washington
   - Washington State Route 9
