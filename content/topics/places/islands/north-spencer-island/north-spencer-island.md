@@ -6,6 +6,7 @@ island of:
   - Union Slough
   - Snohomish County, Washington
   - Washington
+  - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/way/1302781070"
 tags:
   - island

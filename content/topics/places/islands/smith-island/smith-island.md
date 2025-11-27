@@ -13,6 +13,7 @@ island of:
   - Everett, Washington
   - Snohomish County, Washington
   - Washington
+  - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/way/1302641091"
 wikidata: "https://www.wikidata.org/wiki/Q134433299"
 tags:
