@@ -15,4 +15,5 @@ when: 1925-12-05
 tags:
   - Wikimedia Commons
   - Seattle Municipal Archive
+  - photograph
 ---

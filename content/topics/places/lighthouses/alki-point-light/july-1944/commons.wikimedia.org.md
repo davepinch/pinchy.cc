@@ -15,4 +15,5 @@ url: /commons.wikimedia.org/wiki/Alki_Point_Lighthouse,_July_1944_-_NARA_-_29818
 website: "https://commons.wikimedia.org/wiki/File:Alki_Point_Lighthouse,_July_1944_-_NARA_-_298181.jpg"
 tags:
   - Wikimedia Commons
+  - photograph
 ---

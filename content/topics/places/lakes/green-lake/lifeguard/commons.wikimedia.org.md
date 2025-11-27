@@ -20,4 +20,5 @@ when: 1930-07-15
 tags:
   - Wikimedia Commons
   - Seattle Municipal Archive
+  - photograph
 ---
