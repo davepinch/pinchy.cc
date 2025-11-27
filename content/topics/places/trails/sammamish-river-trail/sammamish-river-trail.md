@@ -2,6 +2,7 @@
 title: "Sammamish River Trail"
 alongside: Sammamish River
 openstreetmap: "https://www.openstreetmap.org/relation/14071104"
+TODO: identify all streams crossed by the Sammamish River Trail
 trail of:
   - Marymoor Park
   - Redmond, Washington
@@ -11,4 +12,5 @@ trail of:
 wikidata: "https://www.wikidata.org/wiki/Q7409641"
 tags:
   - trail
+  - TODO
 ---
