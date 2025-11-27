@@ -38,7 +38,7 @@ The Wikipedia article doesn't say much about the geology of the region. Try the 
 * Updated [Vashon Glaciation](/vashon-glaciation/)
 * Updated [Vashon Glaciation (Wikipedia)](/en.wikipedia.org/wiki/Vashon_Glaciation)
 
-The Vashon content doesn't have much geology, backing up to the Georgia Depression, which mentions "[The majority of soils in the [Georgia] depression are formed from glacial till, glacial outwash, and Lacustrine deposits.](/en.wikipedia.org/wiki/Georgia_Depression-snippet-geology-1-2)".
+The Vashon content doesn't have much geology, so I backed up to the Georgia Depression, which mentions [soils of Georgia Depression (Wikipedia)](/en.wikipedia.org/wiki/Georgia_Depression/geology-1-2/)
 
 * Added [till](/till/)
 * Added [Till (Wikipedia)](/en.wikipedia.org/wiki/Till)
