@@ -1,7 +1,6 @@
 ---
 title: "Epic of Gilgamesh"
+epic poem of: Mesopotamia
 tags:
-  - Mesopotamia
   - epic poem
 ---
-
