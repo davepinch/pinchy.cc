@@ -2,6 +2,7 @@
 title: "Rainbow Falls State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/rainbow-falls-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740395"
+postal address: 633 Leudinghaus Road, Chehalis, WA 98532
 state park of:
   - Washington
   - Lewis County, Washington
