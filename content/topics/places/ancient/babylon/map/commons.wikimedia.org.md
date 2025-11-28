@@ -13,6 +13,8 @@ map of:
   - Larsa
   - Ur
   - Uruk
+  - Tigris
+  - Euphrates
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/12/Hammurabi%27s_Babylonia_1.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Hammurabis_Babylonia_1.svg/
