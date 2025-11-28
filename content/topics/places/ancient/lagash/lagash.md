@@ -4,6 +4,8 @@ city-state of:
   - Mesopotamia
   - Sumer
   - Iraq
+  - Euphrates
+  - Tigris
 southwest:
   - Larsa
   - Ur
