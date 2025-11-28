@@ -3,6 +3,7 @@ title: "Lake Ballinger"
 borders:
   - Mountlake Terrace, Washington
   - Edmonds, Washington
+  - Ballinger Park
 lake of: Snohomish County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/147281"
 tributary of: McAleer Creek
