@@ -17,4 +17,5 @@ when: 1949-02-23
 tags:
   - Wikimedia Commons
   - landslide
+  - photograph
 ---
