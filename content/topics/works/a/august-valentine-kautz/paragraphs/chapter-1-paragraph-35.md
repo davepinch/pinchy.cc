@@ -9,7 +9,7 @@ chapter: 1
 mention of:
   - Strait of Juan de Fuca
   - Benjamin Ross
-note: He likely means Strait of Juan de Fuco, which north of Port Townsend past Point Wilson. He mentions returning via Point Wilson in the next paragraph. Regarding Mr. Ross, Benjamin Ross is a possible candidate because he was in the vicinity at the time.
+note: He likely means Strait of Juan de Fuca, which north of Port Townsend past Point Wilson. He mentions returning via Point Wilson in the next paragraph. Regarding Mr. Ross, Benjamin Ross is a possible candidate because he was in the vicinity at the time.
 page: 15
 paragraph: 35
 snippet of: Nothing Worthy of Note Transpired Today (archive.org)

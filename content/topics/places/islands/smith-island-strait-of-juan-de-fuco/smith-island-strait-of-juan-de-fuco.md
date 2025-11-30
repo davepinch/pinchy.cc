@@ -1,8 +1,8 @@
 ---
-title: "Smith Island (Strait of Juan de Fuco)"
+title: "Smith Island (Strait of Juan de Fuca)"
 disambiguation of: Smith Island
 island of:
-  - Strait of Juan de Fuco
+  - Strait of Juan de Fuca
   - San Juan Islands National Wildlife Refuge
   - Island County, Washington
   - Washington

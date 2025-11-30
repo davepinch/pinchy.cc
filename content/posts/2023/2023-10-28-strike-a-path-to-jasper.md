@@ -23,10 +23,10 @@ I have some history with Port Angeles.
 * Added [Port Angeles](/port-angeles/)
 * Added [Port Angeles (Wikipedia)](/en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca)
 
-Port Angeles borders the Strait of Juan de Fuco, which is a reflection of the geological history of the region. In hindsight perhaps the Olympic mountains would have gotten closer to Jasper, but decision made:
+Port Angeles borders the Strait of Juan de Fuca, which is a reflection of the geological history of the region. In hindsight perhaps the Olympic mountains would have gotten closer to Jasper, but decision made:
 
-* Added [Straight of Juan de Fuco](/strait-of-juan-de-fuca/)
-* Added [Straight of Juan de Fuco (Wikipedia)](/en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca)
+* Added [Straight of Juan de Fuca](/strait-of-juan-de-fuca/)
+* Added [Straight of Juan de Fuca (Wikipedia)](/en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca)
 * Archived the [Wikipedia article](https://web.archive.org/web/20231029005549/https://en.wikipedia.org/wiki/Strait_of_Juan_de_Fuca).
 
 The Wikipedia article doesn't say much about the geology of the region. Try the Salish Sea.
