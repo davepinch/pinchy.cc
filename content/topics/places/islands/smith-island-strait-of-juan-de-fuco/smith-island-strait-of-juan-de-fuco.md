@@ -1,5 +1,6 @@
 ---
 title: "Smith Island (Strait of Juan de Fuca)"
+connected to: Minor Island
 disambiguation of: Smith Island
 island of:
   - Strait of Juan de Fuca
