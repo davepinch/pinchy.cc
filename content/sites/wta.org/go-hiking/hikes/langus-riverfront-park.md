@@ -5,7 +5,7 @@ excerpt: >-
 hiking of:
   - Langus Riverfront Park
   - Langus Riverfront Trail
-  - Smith Island
+  - Smith Island (Snohomish River)
 retrieved: 2025-03-26
 type: website
 url: /www.wta.org/go-hiking/hikes/langus-riverfront-park/

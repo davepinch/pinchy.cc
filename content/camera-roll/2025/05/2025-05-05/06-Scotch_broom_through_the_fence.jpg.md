@@ -8,7 +8,7 @@ license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Scotch_broom_through_the_fence.jpg"
 scotch broom of:
   - Langus Riverfront Trail
-  - Smith Island
+  - Smith Island (Snohomish River)
   - fence
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Scotch_broom_through_the_fence.jpg/330px-Scotch_broom_through_the_fence.jpg"
 type: picture

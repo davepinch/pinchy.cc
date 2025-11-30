@@ -3,7 +3,7 @@ title: "Dead tree along Langus Riverfront Trail.jpg (Wikimedia Commons)"
 author: David Pinch
 dead tree of:
   - Langus Riverfront Trail
-  - Smith Island
+  - Smith Island (Snohomish River)
 description: >-
   A dead tree along Langus Riverfront Trail on Smith Island near Everett, Washington. This part of the trail runs along the Snohomish River and the Everett Water Pollution Control Facility.
 license: CC BY 4.0

@@ -4,7 +4,7 @@ author: David Pinch
 grassy shoreline of:
   - Snohomish River
   - Langus Riverfront Park
-  - Smith Island
+  - Smith Island (Snohomish River)
 grassy of: shoreline
 license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/ca/Grassy_shoreline_of_Langus_Riverfront_Park.jpg"

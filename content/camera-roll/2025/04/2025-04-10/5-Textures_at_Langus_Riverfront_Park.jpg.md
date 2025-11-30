@@ -9,7 +9,7 @@ textures of:
   - Langus Riverfront Park
   - Langus Riverfront Trail
   - Snohomish River
-  - Smith Island
+  - Smith Island (Snohomish River)
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Textures_at_Langus_Riverfront_Park.jpg/500px-Textures_at_Langus_Riverfront_Park.jpg"
 type: picture
 url: /commons.wikimedia.org/wiki/Textures_at_Langus_Riverfront_Park.jpg/

@@ -1,7 +1,7 @@
 ---
 title: "Langus Riverfront Trail"
 trail of:
-  - Smith Island
+  - Smith Island (Snohomish River)
   - Snohomish River
   - Union Slough
   - Everett, Washington

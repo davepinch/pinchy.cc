@@ -1,7 +1,7 @@
 ---
 title: "Langus Riverfront Park"
 city park of:
-  - Smith Island
+  - Smith Island (Snohomish River)
   - Everett, Washington
   - Snohomish County, Washington
   - Snohomish River

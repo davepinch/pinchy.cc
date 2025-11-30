@@ -32,7 +32,7 @@ sequence:
   - Steamboat Slough (Snohomish River)
   - North Spencer Island
   - Union Slough
-  - Smith Island
+  - Smith Island (Snohomish River)
   - Snohomish River
   - Everett, Washington
 southbound of: BNSF Bellingham Subdivision

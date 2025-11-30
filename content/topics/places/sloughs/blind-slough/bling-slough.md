@@ -4,7 +4,7 @@ around Everett of: VISIT SOMEWHERE NEW
 openstreetmap: "https://www.openstreetmap.org/way/541956025"
 slough of:
   - Langus Riverfront Park
-  - Smith Island
+  - Smith Island (Snohomish River)
   - Everett, Washington
   - Snohomish County, Washington
   - Washington

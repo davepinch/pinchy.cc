@@ -6,7 +6,7 @@ description: >-
 license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/Shoreline_of_the_Snohomish_on_south_Smith_Island.jpg"
 shoreline of:
-  - Smith Island
+  - Smith Island (Snohomish River)
   - Snohomish River
   - Langus Riverfront Trail
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Shoreline_of_the_Snohomish_on_south_Smith_Island.jpg/330px-Shoreline_of_the_Snohomish_on_south_Smith_Island.jpg"

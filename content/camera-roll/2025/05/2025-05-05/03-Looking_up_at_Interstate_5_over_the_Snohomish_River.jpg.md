@@ -6,7 +6,7 @@ description: >-
 license: CC BY 4.0
 looking up of:
   - Langus Riverfront Trail
-  - Smith Island
+  - Smith Island (Snohomish River)
   - Snohomish River
   - Interstate 5
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/28/Looking_up_at_Interstate_5_over_the_Snohomish_River.jpg"

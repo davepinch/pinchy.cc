@@ -3,8 +3,8 @@ title: "Blind Slough with Interstate 5 in the background.jpg (Wikimedia Commons)
 author: David Pinch
 description: >-
   Standing on the edge of Blind Slough in the Langus Riverfront Park, looking east toward Interstate 5. A red semi-trailer truck is driving by. The sky is blue and reflecting on the slough.
-slough of: Smith Island
-smith island of: Interstate 5
+slough of: Smith Island (Snohomish River)
+smith island (snohomish river) of: Interstate 5
 license: CC BY 4.0
 photograph of: Blind Slough
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Blind_Slough_with_Interstate_5_in_the_background.jpg"

@@ -1,5 +1,6 @@
 ---
 title: "Smith Island (Strait of Juan de Fuco)"
+disambiguation of: Smith Island
 island of:
   - Strait of Juan de Fuco
   - San Juan Islands National Wildlife Refuge

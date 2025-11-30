@@ -24,7 +24,7 @@ sequence:
   - Everett, Washington
   - North Spencer Island
   - Union Slough
-  - Smith Island
+  - Smith Island (Snohomish River)
   - Snohomish River
   - North Lynnwood, Washington
   - Lynnwood, Washington
