@@ -6,7 +6,9 @@ state park of:
   - Island County, Washington
   - Whidbey Island
   - Skagit Bay
-vicinity of: Dugualla Bay
+vicinity of:
+  - Dugualla Bay
+  - Oak Harbor, Washington
 tags:
   - state park
   - Discover Pass required
