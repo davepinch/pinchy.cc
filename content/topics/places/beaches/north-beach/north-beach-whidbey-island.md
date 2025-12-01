@@ -7,6 +7,7 @@ beach of:
 LOOK AROUND:
   - Deception Pass
   - Deception Pass Bridge
+mapcarta: "https://mapcarta.com/23955488"
 openstreetmap: "https://www.openstreetmap.org/way/367284616"
 wikidata: "https://www.wikidata.org/wiki/Q49322286"
 tags:
