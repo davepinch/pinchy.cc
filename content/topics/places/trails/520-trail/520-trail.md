@@ -13,6 +13,7 @@ trail of:
   - Bellevue, Washington
   - Redmond, Washington
   - Microsoft Redmond campus
+  - King County, Washington
 tags:
   - trail
 ---
