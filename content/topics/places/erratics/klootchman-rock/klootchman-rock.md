@@ -10,6 +10,7 @@ vicinity of:
   - Penn Cove
 wikidata: "https://www.wikidata.org/wiki/Q49618228"
 tags:
+  - metamorphic
   - glacial erratic
   - no Wikipedia article
 ---
