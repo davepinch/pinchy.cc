@@ -6,6 +6,7 @@ glacial erratic of:
   - Admiralty Inlet
   - Island County, Washington
   - Washington
+mapcarta: "https://mapcarta.com/N12486029297"
 openstreetmap: "https://www.openstreetmap.org/?mlat=48.0661&mlon=-122.6055&zoom=15&layers=M"
 tags:
   - glacial erratic
