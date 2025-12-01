@@ -2,11 +2,6 @@
 title: "Grasser's Lagoon"
 bay of:
   - Penn Cove
-  - Whidbey Island
-  - Island County, Washington
-  - Washington
-lagoon of:
-  - Penn Cove
   - Grasser's Lagoon Park
   - Whidbey Island
   - Island County, Washington
