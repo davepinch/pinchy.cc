@@ -5,6 +5,7 @@ boat launch of:
   - Whidbey Island
   - Island County, Washington
 mapcarta: "https://mapcarta.com/W785512556"
+may also be known as: Penn Cove Water Access
 openstreetmap: "https://www.openstreetmap.org/way/785512556"
 tags:
   - boat launch
