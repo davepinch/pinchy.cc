@@ -1,6 +1,9 @@
 ---
 title: "Portage Bay"
-bay of: Lake Washington Ship Canal
+bay of:
+  - Lake Washington Ship Canal
+  - King County, Washington
+  - Washington
 borders:
   - Montlake, Seattle
   - Portage Bay, Seattle

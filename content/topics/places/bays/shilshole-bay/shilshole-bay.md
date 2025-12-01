@@ -2,6 +2,7 @@
 title: "Shilshole Bay"
 bay of:
   - Puget Sound
+  - King County, Washington
   - Washington
 borders:
   - Ballard, Seattle

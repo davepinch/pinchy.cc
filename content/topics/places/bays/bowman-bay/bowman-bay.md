@@ -3,6 +3,8 @@ title: "Bowman Bay"
 bay of:
   - Fidalgo Island
   - Deception Pass State Park
+  - Skagit County, Washington
+  - Washington
 near:
   - Rosario Beach
   - Sharpe Cove

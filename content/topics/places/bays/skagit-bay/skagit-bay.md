@@ -3,6 +3,9 @@ title: "Skagit Bay"
 also considered a: strait
 bay of:
   - Puget Sound
+  - Island County, Washington
+  - Skagit County, Washington
+  - Snohomish County, Washington
   - Washington
 mouth of: Skagit River
 openstreetmap: "https://www.openstreetmap.org/relation/13317056"

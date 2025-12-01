@@ -1,8 +1,9 @@
 ---
 title: "Grays Harbor"
 bay of:
-  - Washington
   - Pacific Ocean
+  - Grays Harbor County, Washington
+  - Washington
 north of:
   - Columbia River
   - Pacific County, Washington

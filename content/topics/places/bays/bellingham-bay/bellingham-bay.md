@@ -1,8 +1,9 @@
 ---
 title: "Bellingham Bay"
 bay of:
-  - Bellingham, Washington
   - Salish Sea
+  - Bellingham, Washington
+  - Whatcom County, Washington
   - Washington
 borders:
   - Samish Bay

@@ -3,6 +3,8 @@ title: "Sharpe Cove"
 bay of:
   - Fidalgo Island
   - Deception Pass State Park
+  - Skagit County, Washington
+  - Washington
 near:
   - Bowman Bay
   - Rosario Beach
