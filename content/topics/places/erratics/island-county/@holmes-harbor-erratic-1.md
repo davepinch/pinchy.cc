@@ -11,4 +11,5 @@ url: /en.wikipedia.org/wiki/Glacial_erratic_boulders_of_Island_County,_Washingto
 wikipedia of: Holmes Harbor erratic
 tags:
   - snippet
+  - Wikipedia
 ---
