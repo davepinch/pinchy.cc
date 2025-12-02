@@ -1,0 +1,84 @@
+---
+title: "clockwise around Whidbey Island"
+clockwise of: Whidbey Island
+description: >-
+  This list contains places on or very near the coastline of Widbey Island in Washington State. The list is clockwise starting from the Washington State Route 20 bridge on the north side of the island. Locations are identified through OpenStreetMap, MapCarta, the [Island County park map](https://experience.arcgis.com/experience/b25232e494f640ddb2cbf6fb801b5c78) and other sources.
+sequence:
+  - Washington State Route 20
+  - Cornet Bay
+  - Hoypus Point
+  - Ala Spit County Park
+  - Skagit Bay
+  - Dugualla Bay
+  - Dugualla State Park
+  - Saratoga Passage
+  - Cresent Harbor
+  - Oak Harbor
+  - Oak Harbor, Washington
+  - Klootchman Rock
+  - Ebey's Landing National Historic Reserve
+  - Penn Cove
+  - Monroe Landing
+  - Grasser's Lagoon Park
+  - Grasser's Lagoon
+  - Kennedy's Lagoon
+  - Mueller Park Beach Access
+  - Coupeville, Washington
+  - Harrington Lagoon
+  - Race Lagoon
+  - DeDuck Harbor
+  - North Bluff
+  - Pratt's Bluff
+  - Holmes Harbor
+  - Merkeek Gardens
+  - Honeymoon Bay
+  - Freeland, Washington
+  - Freeland Park
+  - Holmes Harbor erratic
+  - Baby Island
+  - Saratoga Woods County Park
+  - Putney Woods County Park
+  - Langely, Washington
+  - Possession Sound
+  - Clinton, Washington
+  - Possession Beach Waterfront Park
+  - Possession Point State Park
+  - Cultus Bay
+  - Useless Bay
+  - Maxwelton Park
+  - Deer Lagoon Preserve
+  - Deer Lagoon
+  - Double Bluff County Park
+  - Double Bluff Beach
+  - Chuckanut erratic
+  - Double Bluff
+  - Mutiny Bay
+  - Frank D. Robinson Beach County Park
+  - Bush Point
+  - South Whidbey State Park
+# - Smuggler's Cove
+  - Footprint Rock
+  - Driftwood Park
+  - Fort Casey State Park
+  - Crockett Lake
+  - Keystone Harbor
+  - Coupeville Ferry Terminal
+  - Admiralty Inlet Natural Area Preserve
+  - Ebey's Landing State Park
+  - Pratt Preserve
+  - Perego's Lake
+  - Fort Ebey State Park
+  - Beach View Farm Trail
+  - Joseph Whidbey State Park
+  - Deception Pass State Park
+  - Cranberry Lake
+  - North Beach (Whidbey Island)
+  - Little North Beach
+  - Mac's Cove
+  - Washington State Route 20
+TODO: Continue adding items to this list.
+tags:
+  - clockwise
+  - sequence
+  - TODO
+---
