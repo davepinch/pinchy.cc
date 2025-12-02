@@ -1,6 +1,8 @@
 ---
 title: "Chuckanut erratic"
 glacial erratic of:
+  - sandstone
+  - Chuckanut Formation
   - Double Bluff
   - Double Bluff County Park
   - Useless Bay
