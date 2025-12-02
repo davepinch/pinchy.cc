@@ -2,6 +2,7 @@
 title: "Big Rock"
 also known as: Rock of Ages
 glacial erratic of:
+  - greenschist
   - Coupeville, Washington
   - Whidbey Island
   - Island County, Washington
