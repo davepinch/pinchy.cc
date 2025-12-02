@@ -3,8 +3,8 @@ title: "Chuckanut erratic"
 glacial erratic of:
   - Double Bluff
   - Double Bluff County Park
-  - Whidbey Island
   - Useless Bay
+  - Whidbey Island
   - Island County, Washington
   - Washington
 mapcarta: "https://mapcarta.com/N12486034337"

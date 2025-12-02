@@ -2,8 +2,8 @@
 title: "Footprint Rock"
 glacial erratic of:
   - Smuggler's Cove
-  - Whidbey Island
   - Admiralty Inlet
+  - Whidbey Island
   - Island County, Washington
   - Washington
 mapcarta: "https://mapcarta.com/N12486029297"
