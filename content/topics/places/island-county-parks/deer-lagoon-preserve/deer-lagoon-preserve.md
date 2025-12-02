@@ -5,6 +5,7 @@ county park of:
   - Deer Lagoon
   - Useless Bay
   - Whidbey Island
+mapcarta: "https://mapcarta.com/W704181925"
 openstreetmap: "https://www.openstreetmap.org/way/704181925"
 tags:
   - county park

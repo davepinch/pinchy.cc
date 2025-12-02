@@ -1,5 +1,6 @@
 ---
 title: "Dugualla State Park"
+mapcarta: "https://mapcarta.com/W256652291"
 openstreetmap: "https://www.openstreetmap.org/way/256652291"
 state park of:
   - Washington

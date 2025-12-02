@@ -7,6 +7,7 @@ lake of:
   - Whidbey Island
   - Island County, Washington
   - Washington
+mapcarta: "https://mapcarta.com/23928568"
 openstreetmap: "https://www.openstreetmap.org/way/148498717"
 vicinity of:
   - Admiralty Bay

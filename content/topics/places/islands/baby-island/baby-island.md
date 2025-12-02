@@ -4,6 +4,7 @@ island of:
   - Saratoga Passage
   - Island County, Washington
   - Washington
+mapcarta: "https://mapcarta.com/23917804"
 openstreetmap: "https://www.openstreetmap.org/way/180185174"
 vicinity of:
   - Holmes Harbor

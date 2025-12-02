@@ -4,6 +4,7 @@ island of:
   - Deception Pass
   - Island County, Washington
   - Washington
+mapcarta: "https://mapcarta.com/23970362"
 openstreetmap: "https://www.openstreetmap.org/way/5109911"
 vicinity of:
   - Cornet Bay

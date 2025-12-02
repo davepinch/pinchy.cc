@@ -5,6 +5,7 @@ glacial erratic of:
   - Whidbey Island
   - Island County, Washington
   - Washington
+mapcarta: "https://mapcarta.com/N12486035959"
 openstreetmap: "https://www.openstreetmap.org/?mlat=48.081111&mlon=-122.516944&zoom=15&layers=M"
 vicinity of:
   - Baby Island
