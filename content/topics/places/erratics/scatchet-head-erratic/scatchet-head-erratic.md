@@ -1,5 +1,5 @@
 ---
-title: "Scatchet Head Erratic"
+title: "Scatchet Head erratic"
 glacial erratic of:
   - Whidbey Island
   - Island County, Washington
