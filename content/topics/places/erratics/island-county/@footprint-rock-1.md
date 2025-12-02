@@ -11,5 +11,4 @@ url: /en.wikipedia.org/wiki/Glacial_erratic_boulders_of_Island_County,_Washingto
 wikipedia of: Footprint Rock
 tags:
   - snippet
-  - Wikipedia
 ---
