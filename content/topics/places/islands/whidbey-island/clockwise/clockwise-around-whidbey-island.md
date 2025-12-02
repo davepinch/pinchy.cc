@@ -38,7 +38,7 @@ sequence:
   - Baby Island
   - Saratoga Woods County Park
   - Putney Woods County Park
-  - Langely, Washington
+  - Langley, Washington
   - Possession Sound
   - Clinton, Washington
   - Possession Beach Waterfront Park
@@ -65,7 +65,7 @@ sequence:
   - Coupeville Ferry Terminal
   - Admiralty Inlet Natural Area Preserve
   - Ebey's Landing State Park
-  - Pratt Preserve
+  - Robert Y. Pratt Preserve
   - Perego's Lake
   - Fort Ebey State Park
   - Beach View Farm Trail
