@@ -16,7 +16,7 @@ sequence:
   - Oak Harbor
   - Oak Harbor, Washington
   - Klootchman Rock
-  - Ebey's Landing National Historic Reserve
+  - Ebey's Landing National Historical Reserve
   - Penn Cove
   - Monroe Landing
   - Grasser's Lagoon Park
