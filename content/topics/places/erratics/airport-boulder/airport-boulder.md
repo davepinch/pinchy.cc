@@ -1,6 +1,7 @@
 ---
 title: "Airport Boulder"
 glacial erratic of:
+  - greenschist
   - Martha Lake Airport Park
   - Martha Lake, Washington
   - Snohomish County, Washington
