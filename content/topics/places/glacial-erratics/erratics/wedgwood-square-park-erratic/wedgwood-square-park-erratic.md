@@ -1,8 +1,8 @@
 ---
-title: "Wedgewood Square Park erratic"
+title: "Wedgwood Square Park erratic"
 glacial erratic of:
-  - Wedgewood Square
-  - Wedgewood, Seattle
+  - Wedgwood Square
+  - Wedgwood, Seattle
   - Seattle
   - King County, Washington
   - Washington
