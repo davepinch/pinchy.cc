@@ -1,6 +1,7 @@
 ---
 title: "Big Rock (Coupeville, Washington)"
 also known as: Rock of Ages
+disambiguation of: Big Rock
 glacial erratic of:
   - greenschist
   - Coupeville, Washington
