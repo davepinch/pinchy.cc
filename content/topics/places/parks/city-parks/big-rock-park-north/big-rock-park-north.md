@@ -4,6 +4,7 @@ city park of:
   - Sammamish, Washington
   - King County, Washington
 disambiguation of: Big Rock
+not to be confused with: Big Rock Park
 official website: "https://www.sammamish.us/our-community/recreation/parks-trails/big-rock-park/"
 openstreetmap: "https://www.openstreetmap.org/way/391516544"
 tags:
