@@ -5,6 +5,7 @@ national wildlife refuge of:
   - Strait of Juan de Fuca
   - Jefferson County, Washington
   - Washington
+  - United States
 official website: "https://www.fws.gov/refuge/protection-island"
 openstreetmap: "https://www.openstreetmap.org/relation/6130632"
 wikidata: "https://www.wikidata.org/wiki/Q7251328"
