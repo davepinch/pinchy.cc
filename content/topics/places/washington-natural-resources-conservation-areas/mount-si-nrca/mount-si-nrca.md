@@ -1,5 +1,8 @@
 ---
 title: "Mount Si Natural Resources Conservation Area"
+borders:
+  - Middle Fork Snoqualmie Natural Resources Conservation Area
+  - incomplete list
 natural resources conservation area of:
   - Mount Si
   - King County, Washington

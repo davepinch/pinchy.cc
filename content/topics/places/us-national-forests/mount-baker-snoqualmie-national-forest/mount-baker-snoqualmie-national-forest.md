@@ -1,6 +1,7 @@
 ---
 title: "Mount Baker–Snoqualmie National Forest"
 borders:
+  - Middle Fork Snoqualmie Natural Resources Conservation Area
   - Olivine Bridge Natural Area Preserve
   - Skagit Bald Eagle Natural Area Preserve
   - incomplete list
