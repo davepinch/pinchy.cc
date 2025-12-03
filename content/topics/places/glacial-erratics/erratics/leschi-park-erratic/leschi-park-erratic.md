@@ -1,6 +1,7 @@
 ---
 title: "Leschi Park erratic"
 glacial erratic of:
+  - sandstone
   - Leschi Park
   - Leschi, Seattle
   - Seattle
