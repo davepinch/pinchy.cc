@@ -5,6 +5,7 @@ city park of:
   - Seattle
   - King County, Washington
   - Lake Washington
+namesake of: Chief Leschi
 official website: "https://www.seattle.gov/parks/allparks/leschi-park"
 openstreetmap: "https://www.openstreetmap.org/relation/2518718"
 wikidata: "https://www.wikidata.org/wiki/Q6530305"
