@@ -7,6 +7,7 @@ license: CC BY-SA 4.0
 retrieved: 2025-11-30
 see also:
   - Glacial erratic boulders of King County, Washington (Wikipedia)
+  - Glacial erratic boulders of Kitsap County, Washington (Wikipedia)
   - Glacial erratic boulders of Snohomish County, Washington (Wikipedia)
 type: website
 url: /en.wikipedia.org/wiki/Glacial_erratic_boulders_of_Island_County,_Washington/
