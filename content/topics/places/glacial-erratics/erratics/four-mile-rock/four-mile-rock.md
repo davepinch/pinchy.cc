@@ -1,6 +1,7 @@
 ---
 title: "Four Mile Rock"
 glacial erratic of:
+  - granite
   - Puget Sound
   - Magnolia, Seattle
   - Seattle
