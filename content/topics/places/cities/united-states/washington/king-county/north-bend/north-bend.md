@@ -6,6 +6,7 @@ city of:
   - Washington
   - Cascade Range
   - Interstate 90
+  - South Fork Snoqualmie River
 openstreetmap: "https://www.openstreetmap.org/relation/237364"
 wikidata: "https://www.wikidata.org/entity/Q301889"
 tags:
