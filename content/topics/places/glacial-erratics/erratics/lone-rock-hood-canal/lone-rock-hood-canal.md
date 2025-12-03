@@ -1,5 +1,6 @@
 ---
 title: "Lone Rock (Hood Canal)"
+disambiguation of: Lone Rock
 glacial erratic of:
   - Hood Canal
   - Lone Rock, Washington
