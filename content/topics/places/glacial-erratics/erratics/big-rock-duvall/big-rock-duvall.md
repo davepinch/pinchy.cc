@@ -2,6 +2,7 @@
 title: "Big Rock (Duvall, Washington)"
 disambiguation of: Big Rock
 glacial erratic of:
+  - Big Rock Park
   - Duvall, Washington
   - King County, Washington
   - Washington
