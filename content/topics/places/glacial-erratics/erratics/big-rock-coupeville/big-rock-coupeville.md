@@ -1,5 +1,5 @@
 ---
-title: "Big Rock"
+title: "Big Rock (Coupeville, Washington)"
 also known as: Rock of Ages
 glacial erratic of:
   - greenschist
