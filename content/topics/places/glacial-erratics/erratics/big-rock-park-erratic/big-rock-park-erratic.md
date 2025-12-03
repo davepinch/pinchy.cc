@@ -1,15 +1,15 @@
 ---
-title: "Big Rock (Duvall, Washington)"
+title: "Big Rock Park erratic"
 disambiguation of: Big Rock
 glacial erratic of:
-  - Big Rock Park
-  - Duvall, Washington
+  - Big Rock Park North
+  - Sammamish, Washington
   - King County, Washington
   - Washington
 not to be confused with:
   - Big Rock (Coupeville, Washington)
-  - Big Rock Park erratic
-openstreetmap: "https://www.openstreetmap.org/node/7317206825"
+  - Big Rock (Duvall, Washington)
+openstreetmap: "https://www.openstreetmap.org/?mlat=47.6&mlon=-122.0469&zoom=15"
 tags:
   - glacial erratic
   - no Wikidata record

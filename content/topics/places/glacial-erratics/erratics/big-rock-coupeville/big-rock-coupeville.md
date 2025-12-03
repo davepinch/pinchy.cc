@@ -8,6 +8,9 @@ glacial erratic of:
   - Whidbey Island
   - Island County, Washington
   - Washington
+not to be confused with:
+  - Big Rock (Duvall, Washington)
+  - Big Rock Park erratic
 openstreetmap: "https://www.openstreetmap.org/?mlat=48.210556&mlon=-122.687222&zoom=17"
 tags:
   - glacial erratic
