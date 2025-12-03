@@ -1381,7 +1381,7 @@ function Update-WikipediaFlagsAndLocations() {
 #
 # Execute updaters
 #
-Update-GitHub
+# Update-GitHub
 Update-LinkedByTag
 Update-Ofs "of"
 Update-Ofs "in"
