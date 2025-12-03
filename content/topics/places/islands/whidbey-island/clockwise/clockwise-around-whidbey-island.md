@@ -77,6 +77,7 @@ sequence:
   - Mac's Cove
   - Washington State Route 20
 TODO: Continue adding items to this list.
+type: sequence
 tags:
   - clockwise
   - sequence
