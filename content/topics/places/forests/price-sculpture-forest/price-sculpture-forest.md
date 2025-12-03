@@ -1,7 +1,7 @@
 ---
 title: "Price Sculpture Forest"
 forest of:
-  - Coupleville, Washington
+  - Coupeville, Washington
   - Whidbey Island
 mapcarta: "https://mapcarta.com/W1267543551"
 official website: "https://sculptureforest.org/"
