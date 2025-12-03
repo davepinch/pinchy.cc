@@ -9,5 +9,6 @@ snippet of: Glacial erratic boulders of Snohomish County, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Glacial_erratic_boulders_of_Snohomish_County,_Washington/@everett-boulder-1-1/
 tags:
+  - location
   - snippet
 ---

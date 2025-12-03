@@ -8,5 +8,6 @@ snippet of: "Glacial erratic boulders of Island County, Washington (Wikipedia)"
 type: snippet
 url: /en.wikipedia.org/wiki/Glacial_erratic_boulders_of_Island_County,_Washington/@scatchett-head-erratics-1/
 tags:
+  - location
   - snippet
 ---

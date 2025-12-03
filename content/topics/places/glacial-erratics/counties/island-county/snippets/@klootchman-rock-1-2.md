@@ -14,5 +14,6 @@ topped of: grass
 type: snippet
 url: /en.wikipedia.org/wiki/Glacial_erratic_boulders_of_Island_County,_Washington/@klootchman-rock-1-2/
 tags:
+  - location
   - snippet
 ---

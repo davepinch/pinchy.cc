@@ -10,5 +10,6 @@ snippet of: "Glacial erratic boulders of Island County, Washington (Wikipedia)"
 type: snippet
 url: /en.wikipedia.org/wiki/Glacial_erratic_boulders_of_Island_County,_Washington/@holmes-harbor-erratic-1/
 tags:
+  - location
   - snippet
 ---
