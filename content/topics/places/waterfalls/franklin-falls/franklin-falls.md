@@ -1,8 +1,10 @@
 ---
 title: "Franklin Falls"
-near: Interstate 90
+downstream of: Fall Into The Wall
 openstreetmap: "https://www.openstreetmap.org/node/2946355873"
-vicinity of: Snoqualmie Pass
+vicinity of:
+  - Interstate 90
+  - Snoqualmie Pass
 waterfall of:
   - Snoqualmie River
   - Washington
