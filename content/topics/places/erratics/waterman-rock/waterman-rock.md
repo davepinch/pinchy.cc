@@ -8,7 +8,7 @@ glacial erratic of:
   - Island County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/312157510"
-vicinity of: Langely, Washington
+vicinity of: Langley, Washington
 wikidata: "https://www.wikidata.org/wiki/Q56311585"
 tags:
   - glacial erratic
