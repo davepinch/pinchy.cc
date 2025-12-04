@@ -7,6 +7,7 @@ state park of:
   - Snohomish County, Washington
   - Wallace River
   - North Fork Wallace River
+  - Cascade Range
 vantage point of:
   - Baring Mountain
   - Mount Index

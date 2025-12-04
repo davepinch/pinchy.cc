@@ -9,6 +9,7 @@ postal address: "21430 SE May Valley Road, Issaquah, WA 98029"
 state park of:
   - King County, Washington
   - Washington
+  - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q49564994"
 wikipedia: Squak Mountain (Wikipedia)
 tags:
