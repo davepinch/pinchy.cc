@@ -6,6 +6,7 @@ borders:
   - Mount Baker–Snoqualmie National Forest
   - Palouse to Cascades State Park
 official website: "https://parks.wa.gov/find-parks/state-parks/olallie-state-park"
+openstreetmap: "https://www.openstreetmap.org/relation/5970526"
 postal address: "51350 SE Homestead Valley Road, North Bend, WA 98045"
 state park of:
   - Washington
