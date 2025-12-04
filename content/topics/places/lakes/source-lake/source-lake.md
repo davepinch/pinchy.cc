@@ -3,7 +3,7 @@ title: "Source Lake"
 headwaters of: South Fork Snoqualmie River
 lake of:
   - Alpine Lakes Wilderness
-  - Mount Baker-Snoqualmie National Forest
+  - Mount Baker–Snoqualmie National Forest
   - Cascade Range
   - King County, Washington
   - Washington
