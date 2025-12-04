@@ -27,7 +27,7 @@ sequence:
   - Change Creek
   - Upper Twin Falls
   - Middle Twin Falls
-  - Lower Twin
+  - Lower Twin Falls
   - Boxley Creek
   - North Bend, Washington
   - Ribary Creek
