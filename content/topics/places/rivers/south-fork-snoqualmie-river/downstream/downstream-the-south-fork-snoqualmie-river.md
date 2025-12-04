@@ -3,6 +3,7 @@ title: "downstream the South Fork Snoqualmie River"
 downstream of: South Fork Snoqualmie River
 sequence:
   - Source Lake
+  - Source Lake Falls
   - Commonwealth Creek
   - Fall Into The Wall
   - Franklin Falls
