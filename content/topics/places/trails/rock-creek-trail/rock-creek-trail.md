@@ -5,6 +5,7 @@ connects to:
   - Snow Lake Trail
   - Middle Fork Trail
 openstreetmap: "https://www.openstreetmap.org/way/122089383"
+TODO: Follow Middle Creek Trail
 trail of:
   - Cascade Range
   - Washington
@@ -15,4 +16,5 @@ tags:
   - trail
   - no Wikidata record
   - no Wikipedia article
+  - TODO
 ---
