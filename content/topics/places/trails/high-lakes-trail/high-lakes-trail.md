@@ -1,6 +1,8 @@
 ---
 title: "High Lakes Trail"
-connects to: Snow Lake Trail
+connects to:
+  - Rock Creek Trail
+  - Snow Lake Trail
 trail of:
   - Cascade Range
   - Washington
