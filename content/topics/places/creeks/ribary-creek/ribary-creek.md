@@ -20,7 +20,7 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/757986351 (mouth)"
 tributary of: South Fork Snoqualmie River
 tags:
-  - waterfall
+  - creek
   - no Wikidata record
   - no Wikipedia article
 ---
