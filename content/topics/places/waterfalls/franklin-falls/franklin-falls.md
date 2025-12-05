@@ -6,7 +6,8 @@ vicinity of:
   - Interstate 90
   - Snoqualmie Pass
 waterfall of:
-  - Snoqualmie River
+  - South Fork Snoqualmie River
+  - Mount Baker–Snoqualmie National Forest
   - King County, Washington
   - Washington
   - Cascade Range
