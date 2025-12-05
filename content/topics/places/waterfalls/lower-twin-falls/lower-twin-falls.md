@@ -3,6 +3,7 @@ title: "Lower Twin Falls"
 description: Lower Twin Falls is the lower downstream tier of Twin Falls. It is often considered a separate waterfall.
 waterfall of:
   - Twin Falls
+  - Olallie State Park
   - South Fork Snoqualmie River
   - King County, Washington
   - Washington
