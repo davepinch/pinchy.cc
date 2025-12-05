@@ -1,6 +1,7 @@
 ---
 title: "Deming Glacier"
 glacier of:
+  - Mount Baker
   - Cascade Range
   - Washington
   - Whatcom County
