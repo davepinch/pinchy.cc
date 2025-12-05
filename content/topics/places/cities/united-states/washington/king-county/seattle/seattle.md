@@ -4,6 +4,7 @@ ascend:
   - Columbia Center
   - Space Needle
 borders:
+  - Boulevard Park, Washington
   - Burien, Washington
   - Lake Forest Park, Washington
   - Lake Washington
