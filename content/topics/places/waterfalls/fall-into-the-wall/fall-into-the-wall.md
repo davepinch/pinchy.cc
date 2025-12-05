@@ -4,6 +4,7 @@ openstreetmap: "https://www.openstreetmap.org/node/288730422"
 vicinity of: Interstate 90
 waterfall of:
   - South Fork Snoqualmie River
+  - Mount Baker–Snoqualmie National Forest
   - King County, Washington
   - Washington
   - Cascade Range
