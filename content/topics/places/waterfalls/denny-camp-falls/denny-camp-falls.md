@@ -5,6 +5,7 @@ openstreetmap: "https://www.openstreetmap.org/node/2404325752"
 vicinity of: Snoqualmie Pass
 waterfall of:
   - South Fork Snoqualmie River
+  - Mount Baker–Snoqualmie National Forest
   - King County, Washington
   - Washington
   - Cascade Range
