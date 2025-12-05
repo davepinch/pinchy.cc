@@ -11,6 +11,7 @@ trail of:
   - Whatcom County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Mount Baker Wilderness
+  - Hildebrand Creek
 vicinity of:
   - Mount Baker
   - South Fork Nooksack River
