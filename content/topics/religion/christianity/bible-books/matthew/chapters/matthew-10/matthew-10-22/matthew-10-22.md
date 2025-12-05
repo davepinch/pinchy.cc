@@ -1,6 +1,7 @@
 ---
 title: "Matthew 10:22"
 cross-reference:
+  - "1 John 3:13"
   - "John 7:7"
   - "John 15:18"
   - "Mark 13:13"

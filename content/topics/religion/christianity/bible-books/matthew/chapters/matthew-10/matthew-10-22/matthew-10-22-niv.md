@@ -2,6 +2,7 @@
 title: "Matthew 10:22 NIV"
 attribution: "Matthew 10:22 NIV"
 cross-reference:
+  - "1 John 3:13 NIV"
   - "John 7:7 NIV"
   - "John 15:18 NIV"
   - "Mark 13:13 NIV"
