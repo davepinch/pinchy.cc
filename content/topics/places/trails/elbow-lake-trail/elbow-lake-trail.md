@@ -12,6 +12,7 @@ trail of:
   - Mount Baker–Snoqualmie National Forest
   - Mount Baker Wilderness
   - Hildebrand Creek
+  - Elbow Lake
 vicinity of:
   - Mount Baker
   - South Fork Nooksack River
