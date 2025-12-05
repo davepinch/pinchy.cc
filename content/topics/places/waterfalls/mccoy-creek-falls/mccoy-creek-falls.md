@@ -5,6 +5,7 @@ waterfall of:
   - McCoy Creek
   - Snohomish County, Washington
   - Washington
+  - Cascade Range
 tags:
   - waterfall
   - no Wikidata record
