@@ -4,7 +4,7 @@ glacier of:
   - Mount Baker
   - Cascade Range
   - Washington
-  - Whatcom County
+  - Whatcom County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Mount Baker Wilderness
 openstreetmap: "https://www.openstreetmap.org/relation/4733048"
