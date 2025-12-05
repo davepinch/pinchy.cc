@@ -13,6 +13,7 @@ trail of:
   - Mount Baker National Recreation Area
   - Ridley Creek
   - Middle Fork Nooksack River
+vicinity of: Mount Baker
 tags:
   - trail
 ---

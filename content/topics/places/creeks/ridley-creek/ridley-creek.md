@@ -9,6 +9,7 @@ creek of:
   - Mount Baker Wilderness
 openstreetmap: "https://www.openstreetmap.org/way/183374022"
 tributary of: Middle Fork Nooksack River
+vicinity of: Mount Baker
 tags:
   - creek
   - no Wikidata record
