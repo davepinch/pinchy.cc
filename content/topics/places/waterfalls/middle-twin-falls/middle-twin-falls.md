@@ -4,6 +4,7 @@ description: Middle Twin Falls is the middle tier of Twin Falls. It is often con
 waterfall of:
   - Twin Falls
   - South Fork Snoqualmie River
+  - Olallie State Park
   - King County, Washington
   - Washington
   - Cascade Range
