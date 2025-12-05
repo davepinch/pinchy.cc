@@ -7,6 +7,7 @@ northwest waterfall survey of:
   - Upper Twin Falls
   - Middle Twin Falls
   - Lower Twin Falls
+retrieved: 2025-12-04
 type: website
 url: /www.waterfallsnorthwest.com/waterfall/Twin-Falls-4707/
 website: "https://www.waterfallsnorthwest.com/waterfall/Twin-Falls-4707"
