@@ -4,6 +4,7 @@ attribution: "Matthew 10:22 KJV"
 cross-reference:
   - "John 7:7 KJV"
   - "John 15:18 KJV"
+  - "Mark 13:13 KJV"
 King James Version of: "Matthew 10:22"
 quote: "And ye shall be hated of all *men* for my name's sake: but he that endureth to the end shall be saved."
 type: quote
