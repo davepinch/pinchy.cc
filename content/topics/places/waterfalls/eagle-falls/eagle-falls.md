@@ -7,6 +7,7 @@ waterfall of:
   - Skykomish River
   - Snohomish County, Washington
   - Washington
+  - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q38002"
 tags:
   - waterfall

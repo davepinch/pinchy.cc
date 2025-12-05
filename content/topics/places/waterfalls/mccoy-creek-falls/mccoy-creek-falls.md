@@ -4,6 +4,7 @@ openstreetmap: "https://www.openstreetmap.org/node/356549160"
 waterfall of:
   - McCoy Creek
   - Snohomish County, Washington
+  - Washington
 tags:
   - waterfall
   - no Wikidata record

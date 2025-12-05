@@ -5,6 +5,7 @@ waterfall of:
   - Snoqualmie River
   - King County, Washington
   - Washington
+  - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q7548048"
 tags:
   - waterfall
