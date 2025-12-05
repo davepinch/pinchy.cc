@@ -9,4 +9,5 @@ url: /www.waterfallsnorthwest.com/waterfall/Denny-Camp-Falls-4567/
 website: "https://www.waterfallsnorthwest.com/waterfall/Denny-Camp-Falls-4567"
 tags:
   - website
+  - Northwest Waterfall Survey
 ---
