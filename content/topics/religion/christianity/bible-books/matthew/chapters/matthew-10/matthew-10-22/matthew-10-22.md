@@ -4,6 +4,7 @@ cross-reference:
   - "1 John 3:13"
   - "John 7:7"
   - "John 15:18"
+  - "Luke 6:22"
   - "Mark 13:13"
 verse of: Matthew 10
 wikidata: "https://www.wikidata.org/wiki/Q64687069"
