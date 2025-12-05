@@ -7,6 +7,6 @@ type: website
 url: /www.waterfallsnorthwest.com/waterfall/Snowshoe-Falls-4699/
 website: "https://www.waterfallsnorthwest.com/waterfall/Snowshoe-Falls-4699"
 tags:
-  - Waterfalls
+  - website
   - Northwest Waterfall Survey
 ---

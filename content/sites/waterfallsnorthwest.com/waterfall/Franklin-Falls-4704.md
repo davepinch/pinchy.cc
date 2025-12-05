@@ -8,6 +8,6 @@ type: website
 url: /www.waterfallsnorthwest.com/waterfall/Franklin-Falls-4704/
 website: "https://www.waterfallsnorthwest.com/waterfall/Franklin-Falls-4704"
 tags:
-  - Northwest Waterfall Survey
   - website
+  - Northwest Waterfall Survey
 ---

@@ -8,6 +8,6 @@ type: website
 url: /www.waterfallsnorthwest.com/waterfall/Racehorse-Falls-3261/
 website: "https://www.waterfallsnorthwest.com/waterfall/Racehorse-Falls-3261"
 tags:
-  - Northwest Waterfall Survey
   - website
+  - Northwest Waterfall Survey
 ---

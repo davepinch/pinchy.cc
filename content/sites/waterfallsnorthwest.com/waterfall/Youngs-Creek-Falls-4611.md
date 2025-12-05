@@ -9,6 +9,6 @@ type: website
 url: /www.waterfallsnorthwest.com/waterfall/Youngs-Creek-Falls-4611/
 website: "https://www.waterfallsnorthwest.com/waterfall/Youngs-Creek-Falls-4611"
 tags:
-  - Northwest Waterfall Survey
   - website
+  - Northwest Waterfall Survey
 ---
