@@ -4,6 +4,7 @@ title: >-
 attribution: "Agent Smith, *The Matrix*"
 citation: >-
   The Matrix (film). (2024, December 16). *Wikiquote*. Retrieved 19:27, January 23, 2025 from https://en.wikiquote.org/w/index.php?title=The_Matrix_(film)&oldid=3634203.
+not of: mammal
 revelation of: The Matrix
 type: quote
 tags:
