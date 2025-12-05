@@ -1,5 +1,6 @@
 ---
 title: "Mark 13:13 KJV"
+⬅️: "Mark 13:12 KJV"
 attribution: "Mark 13:13 KJV"
 cross-reference:
   - "John 7:7 KJV"

@@ -1,5 +1,6 @@
 ---
 title: "Mark 13:11 KJV"
+➡️: "Mark 13:12 KJV"
 attribution: "Mark 13:11 KJV"
 King James Version of: "Mark 13:11"
 quote: >-

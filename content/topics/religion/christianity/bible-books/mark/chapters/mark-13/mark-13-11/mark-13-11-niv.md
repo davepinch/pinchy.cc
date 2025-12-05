@@ -1,5 +1,6 @@
 ---
 title: "Mark 13:11 NIV"
+➡️: "Mark 13:12 NIV"
 attribution: "Mark 13:11 NIV"
 New International Version of: "Mark 13:11"
 quote: >-

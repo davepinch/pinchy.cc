@@ -1,5 +1,6 @@
 ---
 title: "Mark 13:13 NIV"
+⬅️: "Mark 13:12 NIV"
 attribution: "Mark 13:13 NIV"
 cross-reference:
   - "John 7:7 NIV"
