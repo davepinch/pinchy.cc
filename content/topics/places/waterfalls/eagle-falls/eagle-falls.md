@@ -5,6 +5,7 @@ vicinity of: Index, Washington
 waterfall of:
   - South Fork Skykomish River
   - Skykomish River
+  - Mount Baker–Snoqualmie National Forest
   - Snohomish County, Washington
   - Washington
   - Cascade Range
