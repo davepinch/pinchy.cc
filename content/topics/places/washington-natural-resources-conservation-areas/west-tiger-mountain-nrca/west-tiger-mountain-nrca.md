@@ -8,5 +8,5 @@ natural resources conservation area of:
 openstreetmap: "https://www.openstreetmap.org/relation/10384758"
 wikidata: "https://www.wikidata.org/wiki/Q113989689"
 tags:
-  - Washington Natural Resources Conservation Area
+  - Natural Resources Conservation Area
 ---

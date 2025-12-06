@@ -14,6 +14,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/2219448"
 vicinity of: North Bend, Washington
 wikidata: "https://www.wikidata.org/wiki/Q113951237"
 tags:
-  - Washington Natural Resources Conservation Area
+  - Natural Resources Conservation Area
   - no Wikipedia article
 ---

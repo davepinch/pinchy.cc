@@ -14,5 +14,5 @@ official website: "https://www.dnr.wa.gov/stavis-natural-resources-conservation-
 openstreetmap: "https://www.openstreetmap.org/relation/10345154"
 wikidata: "https://www.wikidata.org/wiki/Q114239999"
 tags:
-  - Washington Natural Resources Conservation Area
+  - Natural Resources Conservation Area
 ---
