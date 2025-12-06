@@ -8,9 +8,7 @@ retrieved: 2023-06-29
 type: website
 url: /en.wikipedia.org/wiki/Hypochaeris_glabra/
 website: "https://en.wikipedia.org/wiki/Hypochaeris_glabra"
-wikipedia of:
-  - Hypochaeris glabra
-  - smooth cat's ear
+wikipedia of: Hypochaeris glabra
 tags:
   - Wikipedia
 ---
