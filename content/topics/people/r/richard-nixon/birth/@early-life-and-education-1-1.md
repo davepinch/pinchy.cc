@@ -1,5 +1,6 @@
 ---
-title: "Richard Milhous Nixon was born on January 9, 1913, in what was then the township precinct of Yorba Linda, California, in a house built by his father, on his family's lemon ranch."
+title: "birth of Richard Nixon (Wikipedia)"
+✂️: "Richard Milhous Nixon was born on January 9, 1913, in what was then the township precinct of Yorba Linda, California, in a house built by his father, on his family's lemon ranch."
 birth of: Richard Nixon
 born in: California
 citation: >-
