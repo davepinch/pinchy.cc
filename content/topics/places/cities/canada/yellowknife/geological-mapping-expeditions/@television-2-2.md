@@ -4,6 +4,8 @@ title: "Mars of Yellowknife (Wikipedia)"
 citation: >-
   Wikipedia contributors. (2025, November 26). Yellowknife. In *Wikipedia, The Free Encyclopedia*. Retrieved 03:10, December 6, 2025, from https://en.wikipedia.org/w/index.php?title=Yellowknife&oldid=1324217123
 geological mapping expeditions of: Yellowknife
+license: CC BY-SA 4.0
+reason of: Mars of Yellowknife (Wikipedia)
 researching the oldest rocks of:
   - geology
   - rock
