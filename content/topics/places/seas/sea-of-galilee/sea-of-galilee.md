@@ -1,5 +1,6 @@
 ---
 title: "Sea of Galilee"
+informally of: sea
 lake of:
   - Israel
   - Middle East
