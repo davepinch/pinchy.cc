@@ -1,5 +1,5 @@
 ---
-title: "Before calling asleep I saw a cluster of bright lights."
+title: "Before falling asleep I saw a cluster of bright lights."
 example of: hypnagogia
 latest dream of: hello world
 next: "I could feel myself becoming aware."
