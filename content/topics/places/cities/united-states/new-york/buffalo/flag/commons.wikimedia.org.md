@@ -3,6 +3,7 @@ title: "Flag of Buffalo, New York.svg (Wikimedia Commons)"
 author: Dyfsunctional
 city flag of:
   - Buffalo, New York
+  - Lake Erie
   - cloud
   - clouds
   - electricity
