@@ -4,6 +4,7 @@ author: Dyfsunctional
 city flag of:
   - Buffalo, New York
   - five-pointed star
+  - lighthouse
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Buffalo%2C_New_York.svg"
