@@ -5,7 +5,9 @@ illustration of:
   - La Conner, Washington
   - La Conner, Washington (Wikipedia)
   - Swinomish Channel
+  - Sullivan Slough
 license: public domain
+note: La Conner is located on the Swinomish Channel with Sullivan Slough in the background.
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/La_Conner%2C_Washington%2C_circa_1889.png"
 source: "History of the Pacific Northwest: Oregon and Washington. 2. Portland: North Pacific History Company. 1889. p. 210"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/La_Conner%2C_Washington%2C_circa_1889.png/330px-La_Conner%2C_Washington%2C_circa_1889.png"
