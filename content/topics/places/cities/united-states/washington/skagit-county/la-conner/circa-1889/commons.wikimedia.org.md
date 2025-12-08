@@ -4,6 +4,7 @@ description: "A view of La Conner, circa 1889, shortly before Washington became 
 illustration of:
   - La Conner, Washington
   - La Conner, Washington (Wikipedia)
+  - Swinomish Channel
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/La_Conner%2C_Washington%2C_circa_1889.png"
 source: "History of the Pacific Northwest: Oregon and Washington. 2. Portland: North Pacific History Company. 1889. p. 210"
