@@ -10,6 +10,8 @@ borders (maritime):
   - Flag_of_Oman.svg (Wikimedia Commons)
 flag of:
   - Pakistan
+  - five-pointed star
+  - Moon
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/32/Flag_of_Pakistan.svg"
