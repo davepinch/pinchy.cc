@@ -3,6 +3,8 @@ title: "Flag of Buffalo, New York.svg (Wikimedia Commons)"
 author: Dyfsunctional
 city flag of:
   - Buffalo, New York
+  - cloud
+  - clouds
   - electricity
   - five-pointed star
   - lighthouse
