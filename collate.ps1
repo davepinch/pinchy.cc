@@ -1850,25 +1850,27 @@ if (-not (Test-Path -Path $dataPath)) {
 #$script:lookup | ConvertTo-Json -Depth 100 | Set-Content -Path "$rootPath\data\lookup.json" -Encoding UTF8
 #$script:props  | ConvertTo-Json -Depth 100 | Set-Content -Path "$rootPath\data\props.json"  -Encoding UTF8
 
+# Hugo does not support BOM in UTF-8 files, so we have to write
+# the files without BOM.
 $json = $script:pages | ConvertTo-Json -Depth 100
 [System.IO.File]::WriteAllText(
     "$rootPath\data\pages.json",
     $json,
-    (New-Object System.Text.UTF8Encoding $true)  # $true => emit BOM
+    (New-Object System.Text.UTF8Encoding $false)  # $true => emit BOM
 )
 
 $json = $script:lookup | ConvertTo-Json -Depth 100
 [System.IO.File]::WriteAllText(
     "$rootPath\data\lookup.json",
     $json,
-    (New-Object System.Text.UTF8Encoding $true)  # $true => emit BOM
+    (New-Object System.Text.UTF8Encoding $false)  # $true => emit BOM
 )
 
 $json = $script:props | ConvertTo-Json -Depth 100
 [System.IO.File]::WriteAllText(
     "$rootPath\data\props.json",
     $json,
-    (New-Object System.Text.UTF8Encoding $true)  # $true => emit BOM
+    (New-Object System.Text.UTF8Encoding $false)  # $true => emit BOM
 )
 
 # ========================================================================
