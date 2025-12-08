@@ -9,6 +9,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/6/66/Flag_of_Buffalo%2C
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Buffalo,_New_York.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Buffalo,_New_York.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Buffalo,_New_York"
 tags:
   - city flag
   - Wikimedia Commons
