@@ -1,3 +1,9 @@
+# Ensure PowerShell uses UTF-8 for output
+[Console]::OutputEncoding = [System.Text.UTF8Encoding]::new($false)
+
+# Optional: Set input encoding for scripts
+$OutputEncoding = [System.Text.UTF8Encoding]::new($false)
+
 # =======================================================================
 # Add-PropertyValue
 # -----------------------------------------------------------------------
@@ -166,7 +172,7 @@ function Get-FrontMatter($file) {
     #
     # Get the contents of the file as a string array
     #
-    $content = Get-Content -Path $file.FullName
+    $content = Get-Content -Path $file.FullName -Encoding UTF8
     
     #
     # Make sure the file isn't empty
@@ -238,6 +244,11 @@ function Get-FrontMatter($file) {
     if ($path -like "content\*") {
         $yaml."::content" = $path.Substring(8) -replace '\\', '/'
     }
+
+    #if ($path.Contains("circumpunct")) {
+    #    Write-Host "**********************************"
+    #    Write-Host $yaml."::content"
+    #}
 
     return $yaml
 }
@@ -1835,9 +1846,30 @@ if (-not (Test-Path -Path $dataPath)) {
 # Save the results
 # ========================================================================
 
-$script:pages  | ConvertTo-Json | Set-Content -Path "$rootPath\data\pages.json"
-$script:lookup | ConvertTo-Json | Set-Content -Path "$rootPath\data\lookup.json"
-$script:props  | ConvertTo-Json | Set-Content -Path "$rootPath\data\props.json"
+#$script:pages  | ConvertTo-Json -Depth 100 | Set-Content -Path "$rootPath\data\pages.json"  -Encoding UTF8
+#$script:lookup | ConvertTo-Json -Depth 100 | Set-Content -Path "$rootPath\data\lookup.json" -Encoding UTF8
+#$script:props  | ConvertTo-Json -Depth 100 | Set-Content -Path "$rootPath\data\props.json"  -Encoding UTF8
+
+$json = $script:pages | ConvertTo-Json -Depth 100
+[System.IO.File]::WriteAllText(
+    "$rootPath\data\pages.json",
+    $json,
+    (New-Object System.Text.UTF8Encoding $true)  # $true => emit BOM
+)
+
+$json = $script:lookup | ConvertTo-Json -Depth 100
+[System.IO.File]::WriteAllText(
+    "$rootPath\data\lookup.json",
+    $json,
+    (New-Object System.Text.UTF8Encoding $true)  # $true => emit BOM
+)
+
+$json = $script:props | ConvertTo-Json -Depth 100
+[System.IO.File]::WriteAllText(
+    "$rootPath\data\props.json",
+    $json,
+    (New-Object System.Text.UTF8Encoding $true)  # $true => emit BOM
+)
 
 # ========================================================================
 # Summarize results
