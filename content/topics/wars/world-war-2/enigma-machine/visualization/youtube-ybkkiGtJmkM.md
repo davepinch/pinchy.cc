@@ -7,7 +7,7 @@ recommendation of: "Frode Weierud's CryptoCellar | The Enigma Collection (crypto
 retrieved: 2024-04-25
 type: youtube
 url: /youtube.com/embed/ybkkiGtJmkM/
-visualization of: Enigma Machine
+visualization of: Enigma machine
 website: "https://www.youtube.com/watch?v=ybkkiGtJmkM"
 youtube-id: ybkkiGtJmkM
 tags:
