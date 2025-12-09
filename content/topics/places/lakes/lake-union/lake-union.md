@@ -12,6 +12,8 @@ cruise westbound on the canal: Fremont Cut
 lake of:
   - Lake Washington Ship Canal
   - Seattle
+  - King County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/2793813"
 wikidata: "https://www.wikidata.org/wiki/Q1993203"
 tags:

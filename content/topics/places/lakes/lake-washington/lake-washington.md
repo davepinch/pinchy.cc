@@ -4,7 +4,9 @@ crossed by:
   - Interstate 90
   - Washington State Route 520
 cruise westbound on the canal: Union Bay
-lake of: King County, Washington
+lake of:
+  - King County, Washington
+  - Washington
 near: Washington State Route 522
 neighborhoods:
   - Cedar Park, Seattle

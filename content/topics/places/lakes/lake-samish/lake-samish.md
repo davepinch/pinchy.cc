@@ -1,6 +1,8 @@
 ---
 title: "Lake Samish"
-lake of: Whatcom County, Washington
+lake of:
+  - Whatcom County, Washington
+  - Washington
 namesake of: Samish People
 near:
   - Chuckanut Mountains

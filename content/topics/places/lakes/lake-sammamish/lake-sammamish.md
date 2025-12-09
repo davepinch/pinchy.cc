@@ -1,13 +1,14 @@
 ---
 title: "Lake Sammamish"
-borders:
+drained by: Sammamish River
+lake of:
+  - Washington
+  - King County, Washington
   - Bellevue, Washington
   - Issaquah, Washington
-  - Marymoor Park
   - Redmond, Washington
   - Sammamish, Washington
-drained by: Sammamish River
-lake of: King County, Washington
+  - Marymoor Park
 not to be confused with: Lake Samish
 openstreetmap: "https://www.openstreetmap.org/relation/1784497"
 reddit: "https://www.reddit.com/r/LakeSammamish/"

@@ -1,6 +1,7 @@
 ---
 title: "Lake Phalen"
 lake of:
+  - Minnesota
   - Maplewood, Minnesota
   - Saint Paul, Minnesota
 openstreetmap: "https://www.openstreetmap.org/way/44650690"
