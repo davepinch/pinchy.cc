@@ -3,8 +3,8 @@ title: "Caldwell 52 (50192159538).jpg (Wikimedia Commons)"
 credit: "NASA, ESA, and C. Sarazin (University of Virginia); Processing: Gladys Kober (NASA/Catholic University of America)"
 excerpt: >-
   Located in the constellation Virgo, Caldwell 52 is the first Caldwell object (numerically) that resides in the southern celestial hemisphere (south of the celestial equator). This elliptical galaxy is visible from both the Northern and Southern hemispheres, appearing highest in the spring for northern observers and in autumn for southern observers. It lies roughly 40 million light-years from Earth and has an apparent magnitude of 10.9. The galaxy’s core can be spotted with a small telescope in a suburban sky. From a darker location, the galaxy appears as an elongated patch of fuzz.
+hubble space telescope of: NGC 4697
 license: CC BY 2.0
-photograph of: NGC 4697
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f5/Caldwell_52_%2850192159538%29.jpg"
 source: "https://www.flickr.com/photos/nasahubble/50192159538/"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Caldwell_52_%2850192159538%29.jpg/320px-Caldwell_52_%2850192159538%29.jpg"
@@ -13,6 +13,6 @@ url: /commons.wikimedia.org/wiki/Caldwell_52_(50192159538).jpg/
 website: "https://commons.wikimedia.org/wiki/File:Caldwell_52_(50192159538).jpg"
 when: 2020-05-21
 tags:
-  - photograph
   - Wikimedia Commons
+  - Hubble Space Telescope
 ---
