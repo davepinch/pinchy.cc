@@ -58,6 +58,7 @@ sequence:
   - I-90 Mississippi River Bridge
   - Mississippi River
   - Wisconsin
+  - La Crosse, Wisconsin
   - Illinois
   - Chicago
   - Indiana
