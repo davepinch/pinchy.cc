@@ -2,6 +2,7 @@
 title: "Missoula, Montana"
 city of:
   - Montana
+  - Clark Fork River
   - Interstate 90
 openstreetmap: "https://www.openstreetmap.org/relation/142429"
 vicinity of: Lolo National Forest
