@@ -4,7 +4,10 @@ author:
   - Daniel Baránek
   - TheCuriousGnome
 license: CC BY 3.0
-map of: Galilee
+map of:
+  - Galilee
+  - Sea of Galilee
+  - Nazareth
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Lower_Galilee_map.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Lower_Galilee_map.svg/
