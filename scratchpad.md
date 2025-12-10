@@ -1,6 +1,12 @@
 ---
 title: "Scratchpad"
 draft: true
+
+---
+12/9
+- I could see the aura around him.
+- I could consciously see it. An aspect of my experience.
+
 ---
 11/6/25: how much shit is going on at once?
 
