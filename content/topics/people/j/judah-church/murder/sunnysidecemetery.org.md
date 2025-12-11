@@ -10,6 +10,7 @@ url: /www.sunnysidecemetery.org/data/p1850.html/2-2/
 vicinity of:
   - Oak Harbor
   - Oak Harbor, Washington
+when: 1853-05-22
 tags:
   - snippet
 ---
