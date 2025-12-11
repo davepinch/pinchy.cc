@@ -1,0 +1,13 @@
+{{ $verse := .Params.verse | default .Params.title }}
+<article class="cc-card cc-verse-card">
+    {{ if .Params.attribution -}}
+    <q class="cc-verse">{{ $verse | markdownify }}</q>
+    <a class="cc-url" href="{{ .Permalink }}">
+        <span class="cc-attribution">{{ .Params.attribution | markdownify }}</span>
+    </a>
+    {{ else -}}
+    <a class="cc-url" href="{{ .Permalink }}">
+        <q class="cc-verse">{{ $verse | markdownify }}</q>
+    </a>
+    {{ end }}
+</article>
