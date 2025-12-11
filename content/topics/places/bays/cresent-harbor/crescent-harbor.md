@@ -1,5 +1,5 @@
 ---
-title: "Cresent Harbor"
+title: "Crescent Harbor"
 bay of:
   - Saratoga Passage
   - Whidbey Island

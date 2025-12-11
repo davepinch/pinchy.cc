@@ -12,7 +12,7 @@ sequence:
   - Dugualla Bay
   - Dugualla State Park
   - Saratoga Passage
-  - Cresent Harbor
+  - Crescent Harbor
   - Oak Harbor
   - Oak Harbor, Washington
   - Klootchman Rock
