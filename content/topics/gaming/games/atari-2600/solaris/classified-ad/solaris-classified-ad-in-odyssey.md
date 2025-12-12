@@ -3,8 +3,10 @@ title: "Has anyone found Solaris? If so, contact: Jeremey Hansen, 4 Jesse Ct., S
 classified ad of:
   - Odyssey Magazine
   - Solaris (video game)
-note: This was a classified ad in the December 1988 issue of ODYSSEY magazine. 
+snippet of: classified ad in the December 1988 issue of ODYSSEY magazine. 
+type: snippet
 when: 1988-12-01
 tags:
   - classified ad
+  - snippet
 ---
