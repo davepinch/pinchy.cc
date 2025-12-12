@@ -1,5 +1,4 @@
 {{ $collated := partial "cc-collate" .Params.title }}
-{{ $verse := .Params.verse | default .Params.title }}
 <header class="cc-masthead cc-verse-masthead">
   <blockquote>
 
@@ -7,16 +6,13 @@
     {{ if $next }}
       <a href="{{ $next.RelPermalink }}" class="cc-next">
     {{ end }}
-    <p class="cc-verse">{{ $verse | markdownify }}</p>
+    <p class="cc-verse">{{ .Params.verse | markdownify }}</p>
     {{ if $next }}
       </a>
     {{ end }}
-
-
-    {{ with .Params.attribution -}}
     <footer class="cc-attribution">
-      {{ . | markdownify }}
+      {{ .Params.title }}
     </footer>
-    {{- end }}
+
   </blockquote>
 </header>

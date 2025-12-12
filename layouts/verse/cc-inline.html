@@ -1,13 +1,6 @@
-{{ $verse := .Params.verse | default .Params.title -}}
 <span class="cc-inline cc-verse-inline">
-    {{ if .Params.attribution -}}
-    <q class="cc-verse">{{ $verse | markdownify }}</q>
+    <q class="cc-verse">{{ .Params.verse | markdownify }}</q>
     <a class="cc-url" href="{{ .Permalink }}">
-        <span class="cc-attribution">{{ .Params.attribution | markdownify }}</span>
+        <span class="cc-attribution">{{ .Params.title }}</span>
     </a>
-    {{ else -}}
-    <a class="cc-url" href="{{ .Permalink }}">
-        <q class="cc-verse">{{ $verse | markdownify }}</q>
-    </a>
-    {{ end }}
 </span>
