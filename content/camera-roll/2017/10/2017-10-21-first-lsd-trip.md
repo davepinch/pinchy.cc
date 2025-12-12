@@ -1,6 +1,9 @@
 ---
 title: "First LSD trip"
+description: >-
+  This picture is facing roughly northeast from the south side of the Skykomish River in the Big Bend residential area. The two ridges shown are on either side of Lake Isabel. The edge of the Mount Baker–Snoqualmie National Forest is along the ridges.
 first trip of: LSD
+in the distance of: Mount Baker–Snoqualmie National Forest
 photograph of:
   - autumn
   - forest
@@ -12,6 +15,7 @@ tripping of:
   - Skykomish River
   - Gold Bar, Washington
 type: picture
+vicinity of: Lake Isabel
 when: 2017-10-21
 tags:
   - photograph
