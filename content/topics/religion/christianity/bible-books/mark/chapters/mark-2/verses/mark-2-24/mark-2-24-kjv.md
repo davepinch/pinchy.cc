@@ -2,10 +2,9 @@
 title: "Mark 2:24 KJV"
 ⬅️: "Mark 2:23 KJV"
 ➡️: "Mark 2:25 KJV"
-attribution: "Mark 2:24 KJV"
 King James Version of: "Mark 2:24"
-quote: "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?"
-type: quote
+verse: "And the Pharisees said unto him, Behold, why do they on the sabbath day that which is not lawful?"
+type: verse
 tags:
-  - quote
+  - verse
 ---

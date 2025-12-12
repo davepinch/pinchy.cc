@@ -2,11 +2,10 @@
 title: "Ecclesiastes 1:11 NIV"
 ⬅️: "Ecclesiastes 1:10 NIV"
 ➡️: "Ecclesiastes 1:12 NIV"
-attribution: "Ecclesiastes 1:11 NIV"
 New International Version of: "Ecclesiastes 1:11"
-quote: >-
+verse: >-
   No one remembers the former generations, and even those yet to come will not be remembered by those who follow them.
-type: quote
+type: verse
 tags:
-  - quote
+  - verse
 ---

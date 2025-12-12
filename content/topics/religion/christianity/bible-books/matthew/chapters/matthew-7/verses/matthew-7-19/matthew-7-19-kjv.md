@@ -1,8 +1,8 @@
 ---
-title: "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire."
-attribution: "Matthew 7:19 KJV"
+title: "Matthew 7:19 KJV"
 King James Version of: "Matthew 7:19"
-type: quote
+type: verse
+verse: "Every tree that bringeth not forth good fruit is hewn down, and cast into the fire."
 tags:
-  - quote
+  - verse
 ---

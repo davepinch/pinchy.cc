@@ -1,10 +1,9 @@
 ---
 title: "Leviticus 14:1 KJV"
 ➡️: "Leviticus 14:2 KJV"
-attribution: "Leviticus 14:1 KJV"
 King James Version of: "Leviticus 14:1"
-quote: "And the Lord spake unto Moses, saying,"
-type: quote
+verse: "And the Lord spake unto Moses, saying,"
+type: verse
 tags:
-  - quote
+  - verse
 ---

@@ -1,10 +1,9 @@
 ---
 title: "2 Corinthians 9:15 NIV"
-attribution: "2 Corinthians 9:15 NIV"
 New International Version of: "2 Corinthians 9:15"
-quote: "TThanks be to God for his indescribable gift!"
-type: quote
+verse: "TThanks be to God for his indescribable gift!"
+type: verse
 tags:
   - God
-  - quote
+  - verse
 ---

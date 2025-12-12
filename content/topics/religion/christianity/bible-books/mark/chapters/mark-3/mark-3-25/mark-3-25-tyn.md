@@ -1,10 +1,9 @@
 ---
 title: "Mark 3:25 TYN"
-attribution: "Mark 3:25 TYN"
 Tyndale Bible of: "Mark 3:25"
-quote: "Or yf a housse be devided agaynste it silfe that housse cannot continue:"
-type: quote
+verse: "Or yf a housse be devided agaynste it silfe that housse cannot continue:"
+type: verse
 tags:
-  - quote
+  - verse
   - verse of the Tyndale Bible
 ---

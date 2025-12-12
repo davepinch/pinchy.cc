@@ -1,8 +1,8 @@
 ---
-title: "For he taught them as one having authority, and not as the scribes."
-attribution: "Matthew 7:29 KJV"
+title: "Matthew 7:29 KJV"
+verse: "For he taught them as one having authority, and not as the scribes."
 King James Version of: "Matthew 7:29"
-type: quote
+type: verse
 tags:
-  - quote
+  - verse
 ---

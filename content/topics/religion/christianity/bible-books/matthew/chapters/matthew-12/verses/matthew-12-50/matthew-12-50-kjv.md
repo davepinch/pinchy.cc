@@ -1,11 +1,10 @@
 ---
 title: "Matthew 12:50 KJV"
 ⬅️: "Matthew 12:49 KJV"
-attribution: "Matthew 12:50 KJV"
 King James Version of: "Matthew 12:50"
-quote: >-
+verse: >-
   For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.
-type: quote
+type: verse
 tags:
-  - quote
+  - verse
 ---
