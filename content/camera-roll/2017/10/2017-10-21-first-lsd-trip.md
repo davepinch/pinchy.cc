@@ -5,11 +5,12 @@ photograph of:
   - autumn
   - forest
   - river
-  - Skykomish River
-  - Gold Bar, Washington
 picture: content/camera-roll/2017/10/2017-10-21-first-lsd-trip/20171021_183616907_iOS.jpg
 related: Skykomish River (Wikipedia)
 thumbnail: content/camera-roll/2017/10/2017-10-21-first-lsd-trip/20171021_183616907_iOS-thumbnail.jpg
+tripping of:
+  - Skykomish River
+  - Gold Bar, Washington
 type: picture
 when: 2017-10-21
 tags:
