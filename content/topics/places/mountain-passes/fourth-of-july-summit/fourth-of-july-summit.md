@@ -3,6 +3,7 @@ title: "Fourth of July Summit"
 mountain pass of:
   - Idaho
   - Interstate 90
+  - Idaho Panhandle National Forests
   - Coeur d'Alene Mountains
   - Bitterroot Range
   - Rocky Mountains
