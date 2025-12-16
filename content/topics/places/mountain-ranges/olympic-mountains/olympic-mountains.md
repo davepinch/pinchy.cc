@@ -4,6 +4,8 @@ mountain range of:
   - Olympic National Park
   - Olympic Peninsula
   - Washington
+  - Pacific Northwest
+  - Western United States
   - United States
   - North America
 mostly contained in: Olympic National Park

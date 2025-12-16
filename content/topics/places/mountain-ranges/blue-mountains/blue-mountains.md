@@ -4,6 +4,7 @@ mountain range of:
   - Oregon
   - Washington
   - Pacific Northwest
+  - Western United States
   - United States
   - North America
 wikidata: "https://www.wikidata.org/wiki/Q885809"

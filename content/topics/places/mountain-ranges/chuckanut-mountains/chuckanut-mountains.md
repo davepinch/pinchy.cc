@@ -6,6 +6,8 @@ mountain range of:
   - Skagit County, Washington
   - Whatcom County, Washington
   - Washington
+  - Pacific Northwest
+  - Western United States
   - United States
   - North America
 near:

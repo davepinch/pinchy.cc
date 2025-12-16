@@ -5,6 +5,8 @@ mountain range of:
   - Rocky Mountains
   - Idaho
   - Montana
+  - Western United States
+  - States
 wikidata: "https://www.wikidata.org/wiki/Q5140849"
 wikipedia: "https://en.wikipedia.org/wiki/Coeur_d'Alene_Mountains"
 tags:

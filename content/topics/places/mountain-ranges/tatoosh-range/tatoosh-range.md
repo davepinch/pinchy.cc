@@ -7,6 +7,8 @@ mountain range of:
   - Tatoosh Wilderness
   - Washington
   - Cascade Range
+  - Pacific Northwest
+  - Western United States
   - United States
   - North America
 openstreetmap: "https://www.openstreetmap.org/way/838047573"
