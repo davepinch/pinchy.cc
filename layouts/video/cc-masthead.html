@@ -1,0 +1,12 @@
+<header class="cc-masthead cc-video-masthead">
+    <h1 class="cc-title">{{ .Params.title | markdownify }}</h1>
+    {{ $video := resources.Get .Params.video -}}
+    {{ if $video -}}
+    <video class="cc-video">
+        <source
+            src="{{ $video.RelPermalink }}"
+            type="{{ $video.MediaType.Type }}/{{ $video.MediaType.SubType }}">
+      {{ .Params.title }}
+    </video>
+    {{ end }}
+</header>

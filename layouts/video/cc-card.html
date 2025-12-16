@@ -1,0 +1,11 @@
+<article class="cc-card cc-video-card">
+    {{ $video := resources.Get .Params.video -}}
+    {{ if $video -}}
+    <video class="cc-video">
+        <source
+            src="{{ $video.RelPermalink }}"
+            type="{{ $video.MediaType.Type }}/{{ $video.MediaType.SubType }}">
+      {{ .Params.title }}
+    </video>
+    {{ end }}
+</article>
