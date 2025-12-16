@@ -45,6 +45,9 @@ sequence:
   - Spokane, Washington
 # Idaho
   - Idaho
+  - Spokane River
+  - Post Falls, Idaho
+  - Huetter Rest Area Eastbound
   - Coeur d'Alene, Idaho
   - Montana
   - Missoula, Montana
