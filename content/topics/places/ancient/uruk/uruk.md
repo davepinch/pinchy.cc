@@ -1,13 +1,14 @@
 ---
 title: "Uruk"
 east: Larsa
-city-state of:
+ancient city of:
   - Sumer
   - Mesopotamia
+  - Euphrates
 southeast:
   - Eridu
   - Ur
 wikidata: "https://www.wikidata.org/wiki/Q168518"
 tags:
-  - city-state
+  - ancient city
 ---
