@@ -6,7 +6,7 @@ mountain range of:
   - Idaho
   - Montana
   - Western United States
-  - States
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q5140849"
 wikipedia: "https://en.wikipedia.org/wiki/Coeur_d'Alene_Mountains"
 tags:
