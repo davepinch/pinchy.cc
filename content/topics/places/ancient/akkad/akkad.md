@@ -1,6 +1,7 @@
 ---
 title: "Akkad"
 ancient city of:
+  - Sargon of Akkad
   - Akkadian Empire
   - Mesopotamia
   - Iraq
