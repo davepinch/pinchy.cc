@@ -1,6 +1,7 @@
 ---
 title: "clockwise around Woodinville"
 clockwise of: Woodinville, Washington
+next: Maltby, Washington
 sequence:
   - Maltby, Washington
   - Cottage Lake, Washington
