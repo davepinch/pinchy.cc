@@ -1,6 +1,7 @@
 ---
 title: "Greenland"
 borders:
+  - Baffin Bay
   - Labrador Sea
   - incomplete list
 borders (maritime):
