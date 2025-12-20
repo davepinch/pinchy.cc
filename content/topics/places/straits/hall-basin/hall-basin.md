@@ -1,5 +1,6 @@
 ---
 title: "Hall Basin"
+connected in the north to: Robeson Channel
 openstreetmap: "https://www.openstreetmap.org/relation/13828091"
 strait of:
   - Nares Strait

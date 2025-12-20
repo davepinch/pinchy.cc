@@ -10,6 +10,7 @@ borders:
   - Lincoln Sea
   - Melville Bay
   - Nares Strait
+  - Robeson Channel
   - incomplete list
 borders (maritime):
   - Newfoundland and Labrador
