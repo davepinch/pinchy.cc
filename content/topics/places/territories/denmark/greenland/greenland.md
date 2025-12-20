@@ -4,6 +4,7 @@ borders:
   - Baffin Bay
   - Kain Basin
   - Labrador Sea
+  - Nares Strait
   - incomplete list
 borders (maritime):
   - Newfoundland and Labrador
