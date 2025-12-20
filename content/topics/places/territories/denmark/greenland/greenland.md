@@ -4,6 +4,7 @@ borders:
   - Baffin Bay
   - Denmark Strait
   - Greenland Sea
+  - Hall Basin
   - Kain Basin
   - Labrador Sea
   - Lincoln Sea
