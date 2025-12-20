@@ -2,6 +2,7 @@
 title: "Greenland"
 borders:
   - Baffin Bay
+  - Greenland Sea
   - Kain Basin
   - Labrador Sea
   - Lincoln Sea
