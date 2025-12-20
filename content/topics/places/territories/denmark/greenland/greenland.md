@@ -6,6 +6,7 @@ borders:
   - Kain Basin
   - Labrador Sea
   - Lincoln Sea
+  - Melville Bay
   - Nares Strait
   - incomplete list
 borders (maritime):
