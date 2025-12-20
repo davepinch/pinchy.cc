@@ -2,6 +2,7 @@
 title: "Greenland"
 borders:
   - Baffin Bay
+  - Denmark Strait
   - Greenland Sea
   - Kain Basin
   - Labrador Sea
