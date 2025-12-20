@@ -1,5 +1,7 @@
 ---
 title: "Kennedy Channel"
+connected on the north to: Hall Basin
+connected on the south to: Kain Basin
 strait of:
   - Nares Strait
   - Canada
