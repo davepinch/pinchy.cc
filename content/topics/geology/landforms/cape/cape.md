@@ -1,7 +1,7 @@
 ---
 title: "cape"
 tag requires property:
-  - peninsula of
+  - cape of
   - OpenStreetMap
   - Wikidata
   - Wikipedia
