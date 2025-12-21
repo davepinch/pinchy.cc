@@ -1,5 +1,8 @@
 ---
 title: "fjord"
+see also:
+  - bay
+  - sound
 tag requires property:
   - fjord of
   - OpenStreetMap
