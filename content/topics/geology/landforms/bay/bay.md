@@ -1,6 +1,7 @@
 ---
 title: "bay"
 plural: bays
+see also: fjord
 tag requires property:
   - bay of
   - OpenStreetMap
