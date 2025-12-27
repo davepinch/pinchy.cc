@@ -1,6 +1,7 @@
 ---
 title: "Lincoln Sea"
 namesake of: Robert Todd Lincoln
+openstreetmap: "https://www.openstreetmap.org/relation/13828096"
 sea of:
   - Arctic Ocean
   - Canada
