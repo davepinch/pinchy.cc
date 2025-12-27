@@ -5,6 +5,7 @@ fjord of:
   - Arctic Ocean
   - Lincoln Sea
 openstreetmap: "https://www.openstreetmap.org/relation/13828129"
+wikidata: "https://www.wikidata.org/wiki/Q24826177"
 wikipedia: "https://en.wikipedia.org/wiki/Sands_Fjord"
 tags:
   - fjord
