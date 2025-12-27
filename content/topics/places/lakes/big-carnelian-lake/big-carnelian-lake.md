@@ -9,4 +9,5 @@ parking: "https://www.openstreetmap.org/way/1163992537"
 wikidata: "https://www.wikidata.org/wiki/Q17122471"
 tags:
   - lake
+  - no Wikipedia article
 ---
