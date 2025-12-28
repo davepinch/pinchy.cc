@@ -5,4 +5,6 @@ died on: 2006-10-26
 tags:
   - human being
   - dead at the moment
+  - no Wikidata record
+  - no Wikipedia article
 ---
