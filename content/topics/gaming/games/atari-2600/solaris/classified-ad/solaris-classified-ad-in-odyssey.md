@@ -5,6 +5,7 @@ classified ad of:
   - Solaris (video game)
 snippet of: classified ad in the December 1988 issue of ODYSSEY magazine. 
 type: snippet
+url: /has-anyone-found-solaris/
 when: 1988-12-01
 tags:
   - classified ad
