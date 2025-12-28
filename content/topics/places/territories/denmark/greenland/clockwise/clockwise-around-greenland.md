@@ -17,7 +17,7 @@ sequence:
   - Freja Fjord
   - Citronen Fjord
 # [end of Frederick E. Hyde Fjord]
-  - Cape John Flager
+  - Cape John Flagler
   - Independence Fjord
   - Hagen Fjord
 # east
