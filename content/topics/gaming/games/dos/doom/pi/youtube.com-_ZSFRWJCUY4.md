@@ -6,6 +6,7 @@ excerpt: >-
 doom of: pi
 pi of: Doom
 type: youtube
+url: /youtu.be/_ZSFRWJCUY4/
 website: "https://www.youtube.com/watch?v=_ZSFRWJCUY4"
 youtube-id: "_ZSFRWJCUY4"
 tags:
