@@ -3,5 +3,6 @@ title: "If you want to know what you think of yourself, then ask yourself what y
 attribution: "Jane Roberts, *The Early Sessions: Book 8*"
 type: quote
 tags:
+  - you
   - quote
 ---
