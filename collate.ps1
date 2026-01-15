@@ -1777,11 +1777,15 @@ function Test-WikipediaImproperUse() {
             #
             if ($page["type"] -eq "picture") {
                 #
-                # Unless it is a flag (SPECIAL CASE TO BE REFACTORED OUT)
+                # Normalize tags to an array for safety
                 #
-                if ($page["tags"] -contains "flag") {
+                $tags = @($page["tags"]) | Where-Object { $_ }  # remove null/empty
+                
+                # Unless it is tagged with "flag" or "city flag".
+                if ($tags -contains "flag" -or $tags -contains "city flag") {
                     continue
                 }
+
                 Debug-Page $page "Do not use wikipedia property with pictures"
             }
         }
