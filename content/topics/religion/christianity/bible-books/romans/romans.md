@@ -1,8 +1,4 @@
 ---
 title: "Romans"
-book of:
-  - New Testament
-  - Bible
-tags:
-  - Book of the Bible
+short name of: Epistle of the Romans
 ---
