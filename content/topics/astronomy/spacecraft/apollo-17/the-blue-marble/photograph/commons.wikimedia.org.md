@@ -4,6 +4,11 @@ license: public domain
 photograph of:
   - The Blue Marble
   - Earth
+  - Africa
+  - Antarctica
+  - Madagascar
+  - Middle East
+  - Pacific Ocean
   - Apollo 17
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth_seen_from_Apollo_17.jpg
