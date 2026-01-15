@@ -1,4 +1,4 @@
 ---
 title: "Romans"
-short name of: Epistle of the Romans
+short name of: Epistle to the Romans
 ---
