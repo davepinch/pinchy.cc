@@ -6,6 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2022-11-26
 type: website
 url: /en.wikipedia.org/wiki/Jane_Roberts/
+website: "https://en.wikipedia.org/wiki/Jane_Roberts"
 wikipedia of: Jane Roberts
 tags:
   - Wikipedia
