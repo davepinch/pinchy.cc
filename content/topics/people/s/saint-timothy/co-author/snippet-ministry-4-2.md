@@ -7,7 +7,7 @@ co-author of:
   - Saint Timothy
   - "2 Corinthians"
   - Philippians
-  - Colossians
+  - Epistle to the Colossians
   - "1 Thessalonians"
   - "2 Thessalonians"
   - Philemon
