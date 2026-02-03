@@ -5,9 +5,9 @@ title: "Venus"
 planet of:
   - Sun
   - Solar System
-type: planet
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q313"
 tags:
   - planet
-  - astronomy
 ---

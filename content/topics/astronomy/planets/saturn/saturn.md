@@ -5,7 +5,8 @@ title: "Saturn"
 planet of:
   - Sun
   - Solar System
-type: planet
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q193"
 tags:
   - planet

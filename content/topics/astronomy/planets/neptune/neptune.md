@@ -5,7 +5,8 @@ title: "Neptune"
 planet of:
   - Sun
   - Solar System
-type: planet
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q332"
 tags:
   - planet

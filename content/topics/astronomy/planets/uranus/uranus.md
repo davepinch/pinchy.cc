@@ -5,7 +5,8 @@ title: "Uranus"
 planet of:
   - Sun
   - Solar System
-type: planet
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q324"
 tags:
   - planet

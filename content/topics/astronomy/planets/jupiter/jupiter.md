@@ -5,7 +5,8 @@ title: "Jupiter"
 planet of:
   - Sun
   - Solar System
-type: planet
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q319"
 tags:
   - planet
