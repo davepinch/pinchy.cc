@@ -4,6 +4,8 @@ star of:
   - Ursa Major
   - Ursa Major Moving Group
   - Big Dipper
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q13099"
 tags:
   - star

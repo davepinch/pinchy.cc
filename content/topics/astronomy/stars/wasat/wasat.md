@@ -1,7 +1,10 @@
 ---
 title: "Wasat"
 bayer designation: "Delta Geminorum"
-star of: Gemini
+star of:
+  - Gemini
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q505787"
 wikipedia: "https://en.wikipedia.org/wiki/Delta_Geminorum"
 tags:

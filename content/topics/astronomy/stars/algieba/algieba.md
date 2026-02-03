@@ -1,6 +1,9 @@
 ---
 title: "Algieba"
-star of: Leo
+star of:
+  - Leo
+  - Milky Way
+  - astronomy
 TODO: see if one of the Wikidata records is a dupe
 type: star
 wikidata:

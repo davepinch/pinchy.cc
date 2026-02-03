@@ -4,6 +4,8 @@ apparent magnitude: 2.23
 star of:
   - Orion
   - Orion's Belt
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q680341"
 tags:
   - star

@@ -1,7 +1,10 @@
 ---
 title: "Meissa"
 apparent magnitude: 3.33
-star of: Orion
+star of:
+  - Orion
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q14219"
 tags:
   - star system

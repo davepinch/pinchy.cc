@@ -5,6 +5,8 @@ star of:
   - Ursa Major
   - Ursa Major Moving Group
   - Big Dipper
+  - Milky Way
+  - astronomy
 next in brightness: Alnitak
 wikidata: "https://www.wikidata.org/wiki/Q13091"
 tags:

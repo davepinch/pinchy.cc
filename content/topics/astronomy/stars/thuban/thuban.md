@@ -1,8 +1,9 @@
 ---
 title: "Thuban"
-star of: Draco
-type: star
+star of:
+  - Draco
+  - Milky Way
+  - astronomy
 tags:
   - binary star
-  - astronomy
 ---

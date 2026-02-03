@@ -1,6 +1,9 @@
 ---
 title: "Alfirk"
-star of: Cepheus
+star of:
+  - Cepheus
+  - Milky Way
+  - astronomy
 wikidata:
   - "https://www.wikidata.org/wiki/Q67622053"
   - "https://www.wikidata.org/wiki/Q13264"

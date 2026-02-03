@@ -8,9 +8,10 @@ star of:
   - Alpha Centauri
   - Centaurus
   - G-Cloud
+  - Milky Way
+  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q14266"
 tags:
   - star
   - red dwarf
-  - astronomy
 ---
