@@ -6,6 +6,7 @@ borders:
   - incomplete list
 national forest of:
   - Washington
+  - Cascade Range
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/1447414"
 wikidata: "https://www.wikidata.org/wiki/Q3079103"

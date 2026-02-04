@@ -6,11 +6,14 @@ borders:
   - Skagit Bald Eagle Natural Area Preserve
   - incomplete list
 national forest of:
-  - Washington
   - United States
   - United States Forest Service
+  - Cascade Range
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1399218"
+TODO: which counties contain the Mount Baker National Forest?
 wikidata: "https://www.wikidata.org/wiki/Q3079176"
 tags:
   - forest
+  - TODO
 ---
