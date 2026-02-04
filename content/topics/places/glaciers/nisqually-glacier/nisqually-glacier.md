@@ -4,6 +4,7 @@ glacier of:
   - Mount Rainier
   - Pierce County, Washington
   - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/5535823"
 source of: Nisqually River
 wikidata: "https://www.wikidata.org/wiki/Q11831608"
