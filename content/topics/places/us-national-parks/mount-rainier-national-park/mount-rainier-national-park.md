@@ -3,6 +3,7 @@ title: "Mount Rainier National Park"
 national park of:
   - National Park Service
   - United States
+  - Cascade Range
   - Washington
   - Pierce County, Washington
   - Lewis County, Washington
