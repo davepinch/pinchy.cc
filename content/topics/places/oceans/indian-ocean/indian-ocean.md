@@ -1,6 +1,8 @@
 ---
 title: "Indian Ocean"
-ocean of: Earth
+ocean of:
+  - Earth
+  - World Ocean
 parts:
   - Arabian Sea
   - Bab-el-Mandeb
