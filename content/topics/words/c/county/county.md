@@ -3,6 +3,7 @@ title: "county"
 subdivision-of: state
 tag requires property:
   - county of
+  - official website
   - OpenStreetMap
   - Wikidata
   - Wikipedia
