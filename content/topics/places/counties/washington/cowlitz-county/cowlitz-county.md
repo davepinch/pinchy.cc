@@ -8,6 +8,7 @@ borders:
   - Wahkiakum County, Washington
 county of: Washington
 northbound on interstate 5: Lewis County
+official website: "https://www.co.cowlitz.wa.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153326"
 southbound on interstate 5: Clark County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q156276"
