@@ -35,6 +35,7 @@ sequence:
 # Adams County
   - Adams County, Washington
   - Schrag Rest Area Eastbound
+  - Paha Creek
   - Ritzville, Washington
 # Lincoln County
   - Lincoln County, Washington
