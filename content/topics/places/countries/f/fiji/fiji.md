@@ -5,6 +5,7 @@ country of:
   - island
   - Oceania
   - Pacific Ocean
+  - Commonwealth of Nations
 near: Balmoral Reef Plate
 openstreetmap: "https://www.openstreetmap.org/relation/571747"
 wikidata: "https://www.wikidata.org/wiki/Q712"

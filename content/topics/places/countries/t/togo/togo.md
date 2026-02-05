@@ -7,6 +7,7 @@ borders:
   - Gulf of Guinea
   - incomplete list
 country of:
+  - Commonwealth of Nations
   - West Africa
   - Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192782"

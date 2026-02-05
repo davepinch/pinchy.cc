@@ -1,6 +1,7 @@
 ---
 title: "Barbados"
 country of:
+  - Commonwealth of Nations
   - island
   - Caribbean
   - North America

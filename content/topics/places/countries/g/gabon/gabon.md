@@ -6,7 +6,9 @@ borders:
   - Equatorial Guinea
   - Gulf of Guinea
   - Republic of the Congo
-country of: Africa
+country of:
+  - Africa
+  - Commonwealth of Nations
 openstreetmap: "https://www.openstreetmap.org/relation/192793"
 wikidata: "https://www.wikidata.org/wiki/Q1000"
 tags:
