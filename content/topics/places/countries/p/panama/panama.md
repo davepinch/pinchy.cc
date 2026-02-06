@@ -9,6 +9,9 @@ borders:
 country of:
   - Central America
   - North America
+  - Caribbean Sea
+  - Atlantic Ocean
+  - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/287668"
 wikidata: "https://www.wikidata.org/wiki/Q804"
 tags:

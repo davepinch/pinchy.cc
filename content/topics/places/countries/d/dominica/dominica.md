@@ -5,6 +5,7 @@ country of:
   - island
   - Caribbean
   - Caribbean Sea
+  - Atlantic Ocean
   - North America
 not to be confused with: Dominican Republic
 openstreetmap: "https://www.openstreetmap.org/relation/307823"

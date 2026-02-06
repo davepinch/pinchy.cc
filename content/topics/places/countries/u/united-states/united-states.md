@@ -6,7 +6,11 @@ borders:
   - Gulf of Mexico
   - Mexico
   - Pacific Ocean
-country of: North America
+country of:
+  - North America
+  - Gulf of Mexico
+  - Atlantic Ocean
+  - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/148838"
 up the pacific coast:
   - Canada

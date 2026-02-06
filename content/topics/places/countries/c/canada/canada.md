@@ -1,11 +1,9 @@
 ---
 title: "Canada"
-borders:
-  - Detroit
-  - incomplete list
 country of:
   - Commonwealth of Nations
   - North America
+  - Atlantic Ocean
 down the atlantic coast:
   - United States
   - Maine

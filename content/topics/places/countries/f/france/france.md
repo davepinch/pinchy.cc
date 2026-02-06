@@ -22,6 +22,7 @@ country of:
   - Northwestern Europe
   - Europe
   - Mediterranean Sea
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/2202162"
 wikidata: "https://www.wikidata.org/wiki/Q142"
 tags:

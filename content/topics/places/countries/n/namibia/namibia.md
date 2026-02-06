@@ -9,6 +9,7 @@ borders:
 country of:
   - Commonwealth of Nations
   - Africa
+  - Atlantic Ocean
 near: Zimbabwe
 openstreetmap: "https://www.openstreetmap.org/relation/195266"
 wikidata: "https://www.wikidata.org/wiki/Q1030"

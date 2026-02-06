@@ -9,6 +9,8 @@ borders:
 country of:
   - Africa
   - Commonwealth of Nations
+  - Gulf of Guinea
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/192793"
 wikidata: "https://www.wikidata.org/wiki/Q1000"
 tags:

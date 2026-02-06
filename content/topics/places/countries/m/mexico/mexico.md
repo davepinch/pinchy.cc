@@ -10,7 +10,11 @@ borders:
   - Pacific Ocean
   - United States
   - incomplete list
-country of: North America
+country of:
+  - North America
+  - Caribbean Sea
+  - Atlantic Ocean
+  - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/114686"
 up the pacific coast:
   - United States

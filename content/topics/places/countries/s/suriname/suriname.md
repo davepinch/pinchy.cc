@@ -5,7 +5,9 @@ borders:
   - Brazil
   - French Guiana
   - Guyana
-country of: South America
+country of:
+  - South America
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/287082"
 wikidata: "https://www.wikidata.org/wiki/Q730"
 tags:

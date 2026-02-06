@@ -9,6 +9,7 @@ borders (maritime):
   - Belize
 country of:
   - Central America
+  - Atlantic Ocean
   - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/287670"
 wikidata: "https://www.wikidata.org/wiki/Q783"

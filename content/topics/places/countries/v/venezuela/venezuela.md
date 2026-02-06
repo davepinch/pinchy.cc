@@ -7,7 +7,10 @@ borders:
   - Colombia
   - Guyana
   - Trinidad and Tobago
-country of: South America
+country of:
+  - South America
+  - Caribbean Sea
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/272644"
 wikidata: "https://www.wikidata.org/wiki/Q717"
 tags:

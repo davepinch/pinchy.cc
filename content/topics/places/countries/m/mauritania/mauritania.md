@@ -10,6 +10,7 @@ borders:
 country of:
   - West Africa
   - Africa
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/192763"
 wikidata: "https://www.wikidata.org/wiki/Q1025"
 tags:

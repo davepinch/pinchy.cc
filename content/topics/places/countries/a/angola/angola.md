@@ -6,7 +6,9 @@ borders:
   - Namibia
   - Republic of the Congo
   - Zambia
-country of: Africa
+country of:
+  - Africa
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/195267"
 wikidata: "https://www.wikidata.org/wiki/Q916"
 tags:

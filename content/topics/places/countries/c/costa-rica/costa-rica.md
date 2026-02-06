@@ -10,6 +10,7 @@ borders (maritime):
 country of:
   - Central America
   - Caribbean Sea
+  - Atlantic Ocean
   - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/287667"
 wikidata: "https://www.wikidata.org/wiki/Q800"

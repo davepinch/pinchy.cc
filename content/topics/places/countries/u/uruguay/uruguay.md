@@ -5,7 +5,9 @@ borders:
   - Atlantic Ocean
   - Brazil
   - Río de la Plata
-country of: South America
+country of:
+  - South America
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/287072"
 wikidata: "https://www.wikidata.org/wiki/Q77"
 tags:

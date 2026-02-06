@@ -26,6 +26,9 @@ clockwise around the caspian sea: Kazakhstan
 country of:
   - Europe
   - Asia
+  - Black Sea
+  - Baltic Sea
+  - Atlantic Ocean
 near: Alaska
 openstreetmap: "https://www.openstreetmap.org/relation/60189"
 people:

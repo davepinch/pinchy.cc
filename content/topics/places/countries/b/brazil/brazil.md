@@ -12,7 +12,9 @@ borders:
   - Suriname
   - Uruguay
   - Venezuela
-country of: South America
+country of:
+  - South America
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/59470"
 wikidata: "https://www.wikidata.org/wiki/Q155"
 tags:

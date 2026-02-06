@@ -9,6 +9,8 @@ borders:
 country of:
   - West Africa
   - Africa
+  - Gulf of Guinea
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/192784"
 wikidata: "https://www.wikidata.org/wiki/Q962"
 tags:

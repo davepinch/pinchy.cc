@@ -8,7 +8,9 @@ borders:
   - Central African Republic
   - Democratic Republic of the Congo
   - Gabon
-country of: Africa
+country of:
+  - Africa
+  - Atlantic Ocean
 not to be confused with: Democratic Republic of the Congo
 openstreetmap: "https://www.openstreetmap.org/relation/192794"
 wikidata: "https://www.wikidata.org/wiki/Q971"

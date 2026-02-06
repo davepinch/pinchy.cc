@@ -12,6 +12,8 @@ borders:
 country of:
   - Commonwealth of Nations
   - Africa
+  - Gulf of Guinea
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/192830"
 wikidata: "https://www.wikidata.org/wiki/Q1009"
 tags:

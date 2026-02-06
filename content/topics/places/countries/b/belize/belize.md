@@ -10,6 +10,7 @@ country of:
   - Commonwealth of Nations
   - Central America
   - Caribbean Sea
+  - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/287827"
 wikidata: "https://www.wikidata.org/wiki/Q242"
 tags:

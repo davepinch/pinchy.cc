@@ -9,7 +9,11 @@ borders:
   - Panama
   - Peru
   - Venezuela
-country of: South America
+country of:
+  - South America
+  - Caribbean Sea
+  - Atlantic Ocean
+  - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/120027"
 wikidata: "https://www.wikidata.org/wiki/Q739"
 tags:
