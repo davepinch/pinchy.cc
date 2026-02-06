@@ -1,5 +1,6 @@
 ---
 title: "Genesis 2:14"
+⬅️: "Genesis 2:13"
 mention of:
   - Tigris
   - Euphrates
