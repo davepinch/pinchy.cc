@@ -9,6 +9,7 @@ adjacent counties:
   - Whitman County, Washington
 county of: Washington
 namesake of: Benjamin Franklin
+official website: "https://www.franklincountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150531"
 wikidata: "https://www.wikidata.org/wiki/Q118716"
 tags:

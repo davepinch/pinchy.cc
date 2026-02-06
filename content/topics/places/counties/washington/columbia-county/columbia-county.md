@@ -8,6 +8,7 @@ borders:
   - Whitman County, Washington
 county of: Washington
 created from: Walla Walla County, Washington
+official website: "https://columbiaco.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150530"
 wikidata: "https://www.wikidata.org/wiki/Q156253"
 tags:

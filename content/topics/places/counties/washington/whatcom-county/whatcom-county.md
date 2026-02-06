@@ -11,6 +11,7 @@ county of:
   - Cascade Range
 county seat: Bellingham, Washington
 northbound on interstate 5: Canada
+official website: "https://www.whatcomcounty.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153762"
 southbound on interstate 5: Skagit County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q156623"

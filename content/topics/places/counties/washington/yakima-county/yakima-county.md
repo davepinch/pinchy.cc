@@ -11,6 +11,7 @@ borders:
 county of:
   - Washington
   - Cascade Range
+official website: "https://www.yakimacounty.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153323"
 wikidata: "https://www.wikidata.org/wiki/Q156629"
 tags:

@@ -8,6 +8,7 @@ borders:
   - Snohomish County, Washington
 county of: Washington
 created from: Thurston County, Washington
+official website: "https://www.islandcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1165268"
 wikidata: "https://www.wikidata.org/wiki/Q493243"
 tags:

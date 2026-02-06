@@ -8,6 +8,7 @@ borders:
   - Pierce County, Washington
   - Snohomish County, Washington
 county of: Washington
+official website: "https://www.kitsap.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153661"
 reddit: "https://www.reddit.com/r/Kitsap/"
 wikidata: "https://www.wikidata.org/wiki/Q484159"

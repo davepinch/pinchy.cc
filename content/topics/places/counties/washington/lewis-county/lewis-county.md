@@ -11,6 +11,7 @@ borders:
   - Yakima County, Washington
 county of: Washington
 northbound on interstate 5: Thurston County, Washington
+official website: "https://lewiscountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153327"
 reddit: "https://www.reddit.com/r/LewisCounty/"
 southbound on interstate 5: Cowlitz County, Washington

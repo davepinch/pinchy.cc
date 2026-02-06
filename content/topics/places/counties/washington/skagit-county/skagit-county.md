@@ -13,6 +13,7 @@ county of:
   - Cascade Range
 county seat: Mount Vernon, Washington
 northbound on interstate 5: Whatcom County, Washington
+official website: "https://www.skagitcounty.net/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153763"
 roadways:
   - Interstate 5

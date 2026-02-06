@@ -12,6 +12,7 @@ county of:
   - Washington
   - Cascade Range
 eastbound on interstate 90: Grant County, Washington
+official website: "https://www.co.kittitas.wa.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153345"
 westbound on interstate 90: King County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q111540"

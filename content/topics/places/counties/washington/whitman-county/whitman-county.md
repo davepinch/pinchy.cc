@@ -10,6 +10,7 @@ borders:
   - Lincoln County, Washington
   - Spokane County, Washington
 county of: Washington
+official website: "https://www.whitmancounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150529"
 wikidata: "https://www.wikidata.org/wiki/Q484153"
 tags:

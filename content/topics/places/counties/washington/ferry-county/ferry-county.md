@@ -6,6 +6,7 @@ borders:
   - Okanogan County, Washington
   - Stevens County, Washington
 county of: Washington
+official website: "https://www.ferry-county.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153067"
 wikidata: "https://www.wikidata.org/wiki/Q493228"
 tags:

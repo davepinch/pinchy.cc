@@ -11,6 +11,7 @@ borders:
   - Yakima County, Washington
 county of: Washington
 eastbound on interstate 90: Adams County
+official website: "https://www.grantcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153147"
 westbound on interstate 90: Kittitas County
 wikidata: "https://www.wikidata.org/wiki/Q281681"
