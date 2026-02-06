@@ -1,6 +1,7 @@
 ---
 title: "Genesis 2:10"
 ➡️: "Genesis 2:11"
+⬅️: "Genesis 2:9"
 verse of:
   - Genesis 2
   - river
