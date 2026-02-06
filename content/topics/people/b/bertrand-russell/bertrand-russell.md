@@ -7,6 +7,7 @@ REPROGRAM YOURSELF: >-
   Some part of life – perhaps the most important part – must be left to the spontaneous action of individual impulse, for where all is system there will be mental and spiritual death.
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q33760"
+wikiquote: "https://en.wikiquote.org/wiki/Bertrand_Russell"
 tags:
   - British
   - mathematician
