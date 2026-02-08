@@ -1,9 +1,5 @@
 ---
 title: "Gulf of Mexico"
-countries:
-  - Mexico
-  - United States
-  - incomplete list
 gulf of:
   - Atlantic Ocean
   - North America

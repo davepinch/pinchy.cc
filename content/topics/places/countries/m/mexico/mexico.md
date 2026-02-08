@@ -13,6 +13,7 @@ borders:
 country of:
   - North America
   - Caribbean Sea
+  - Gulf of Mexico
   - Atlantic Ocean
   - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/114686"
