@@ -4,7 +4,9 @@ attribution: Madonna
 citation: >-
   Wikipedia contributors. (2024, September 13). Cockroach. In *Wikipedia, The Free Encyclopedia*. Retrieved 10:35, October 18, 2024, from https://en.wikipedia.org/w/index.php?title=Cockroach&oldid=1245577746
 cockroach of: Madonna
-survivor of: cockroach
+survivor of:
+  - cockroach
+  - hardiness of cockroaches (Wikipedia)
 type: quote
 url: /en.wikipedia.org/wiki/Cockroach/cultural-depictions-6-2/
 tags:
