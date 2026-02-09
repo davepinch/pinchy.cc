@@ -10,6 +10,7 @@ license: CC BY-SA 4.0
 snippet of: Burma Plate (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Burma_Plate/recent-tectonic-activity-1/
+when: 2004-12-26
 tags:
   - earthquake
   - snippet
