@@ -8,7 +8,6 @@ license: CC BY-SA 4.0
 mul.apin of:
   - Epsilon Sagittarii
   - bark
-rotation of: Epsilon Sagittarii
 snippet of: Epsilon Sagittarii (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Epsilon_Sagittarii/
