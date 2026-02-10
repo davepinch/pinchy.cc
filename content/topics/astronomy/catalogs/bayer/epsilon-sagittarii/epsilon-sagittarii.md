@@ -6,5 +6,6 @@ star of:
   - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q14034"
 tags:
+  - binary star
   - star
 ---
