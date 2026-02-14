@@ -2,6 +2,7 @@
 title: "Index, Washington"
 city of:
   - Snohomish County, Washington
+  - Washington
   - Skykomish River
 near: Mount Persis
 openstreetmap: "https://www.openstreetmap.org/relation/237661"

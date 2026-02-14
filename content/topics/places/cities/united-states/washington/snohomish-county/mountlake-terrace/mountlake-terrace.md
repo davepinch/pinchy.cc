@@ -9,6 +9,7 @@ borders:
   - incomplete list
 city of:
   - Snohomish County, Washington
+  - Washington
   - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/237670"
 reddit: "https://www.reddit.com/r/mountlaketerrace/"

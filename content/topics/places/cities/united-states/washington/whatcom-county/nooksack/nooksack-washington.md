@@ -2,6 +2,7 @@
 title: "Nooksack, Washington"
 city of:
   - Whatcom County, Washington
+  - Washington
   - Sumas River
   - Washington State Route 9
 openstreetmap: "https://www.openstreetmap.org/relation/237433"

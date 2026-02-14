@@ -14,6 +14,7 @@ borders:
   - South Beacon Hill, Seattle
 city of:
   - King County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237384"
 reddit: "https://www.reddit.com/r/Tukwila/"
 wikidata: "https://www.wikidata.org/entity/Q1510339"

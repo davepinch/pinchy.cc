@@ -2,6 +2,7 @@
 title: "Maltby, Washington"
 census-designated place of:
   - Snohomish County, Washington
+  - Washington
   - Washington State Route 9
   - Washington State Route 522
 openstreetmap: "https://www.openstreetmap.org/relation/237474"

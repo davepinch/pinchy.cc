@@ -1,8 +1,9 @@
 ---
 title: "Quincy, Washington"
 city of:
-  - BNSF Columbia River Subdivision
   - Grant County, Washington
+  - Washington
+  - BNSF Columbia River Subdivision
   - Interstate 90
 near:
   - Columbia River

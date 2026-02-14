@@ -2,6 +2,7 @@
 title: "Arlington, Washington"
 city of:
   - Snohomish County, Washington
+  - Washington
   - Interstate 5
   - Washington State Route 9
 near: Oso, Washington

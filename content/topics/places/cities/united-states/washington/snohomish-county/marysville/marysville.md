@@ -2,6 +2,7 @@
 title: "Marysville, Washington"
 city of:
   - Snohomish County, Washington
+  - Washington
   - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/237663"
 reddit: "https://www.reddit.com/r/Marysville/"

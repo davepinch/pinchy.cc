@@ -6,6 +6,7 @@ borders:
   - incomplete list
 city of:
   - Snohomish County, Washington
+  - Washington
   - Snohomish River
   - Interstate 5
   - U.S. Route 2

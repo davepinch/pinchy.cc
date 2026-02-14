@@ -1,9 +1,9 @@
 ---
 title: "Ellensburg, Washington"
 city of:
-  - Columbia Plateau
   - Kittitas County, Washington
   - Washington
+  - Columbia Plateau
   - Interstate 90
 eastbound on interstate 82: Manastash Ridge
 near: Wild Horse Wind Farm

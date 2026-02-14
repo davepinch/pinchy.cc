@@ -10,6 +10,7 @@ borders:
   - incomplete list
 city of:
   - Pierce County, Washington
+  - Washington
 near:
   - SeaTac, Washington
   - Seattle

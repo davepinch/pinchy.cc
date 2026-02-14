@@ -8,6 +8,7 @@ borders:
   - Snohomish County, Washington
 city of:
   - King County, Washington
+  - Washington
   - Washington State Route 9
   - Washington State Route 522
 near: Interstate 405

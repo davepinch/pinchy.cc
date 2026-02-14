@@ -14,6 +14,7 @@ borders:
   - incomplete list
 city of:
   - King County, Washington
+  - Washington
   - Lake Washington
   - Puget Sound
   - Interstate 90

@@ -8,6 +8,7 @@ borders:
   - Tukwila, Washington
 census-designated place of:
   - King County, Washington
+  - Washington
   - Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237383"
 wikidata: "https://www.wikidata.org/entity/Q1508150"

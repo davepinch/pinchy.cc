@@ -12,6 +12,7 @@ borders:
   - incomplete list
 city of:
   - King County, Washington
+  - Washington
   - Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237356"
 reddit: "https://www.reddit.com/r/Kirkland/"

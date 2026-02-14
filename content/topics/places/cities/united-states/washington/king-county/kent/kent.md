@@ -6,7 +6,9 @@ borders:
   - Lakeland North, Washington
   - SeaTac, Washington
   - incomplete list
-city of: King County, Washington
+city of:
+  - King County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237875"
 reddit:
   - "https://www.reddit.com/r/KentWA/"

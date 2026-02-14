@@ -10,6 +10,7 @@ borders:
 city of:
   - King County, Washington
   - Snohomish County, Washington
+  - Washington
   - Interstate 405
   - Washington State Route 522
 near: Cathcart, Washington

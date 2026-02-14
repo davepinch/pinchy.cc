@@ -1,6 +1,8 @@
 ---
 title: "Enumclaw, Washington"
-city of: King County, Washington
+city of:
+  - King County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237873"
 reddit: "https://www.reddit.com/r/Enumclaw/"
 vicinity of: Mount Rainier

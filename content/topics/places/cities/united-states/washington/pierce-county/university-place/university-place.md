@@ -8,6 +8,7 @@ borders:
   - incomplete list
 city of:
   - Pierce County, Washington
+  - Washington
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/237268"
 reddit: "https://www.reddit.com/r/UniversityPlace/"

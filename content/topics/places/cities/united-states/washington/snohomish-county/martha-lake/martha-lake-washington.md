@@ -7,7 +7,9 @@ borders:
   - Larch Way, Washington
   - Mill Creek, Washington
   - North Creek, Washington
-census-designated place of: Snohomish County, Washington
+census-designated place of:
+  - Snohomish County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237488"
 wikidata: "https://www.wikidata.org/wiki/Q588153"
 tags:

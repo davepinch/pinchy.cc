@@ -2,6 +2,7 @@
 title: "Montesano, Washington"
 city of:
   - Grays Harbor County, Washington
+  - Washington
   - Chehalis River
 county seat of: Grays Harbor County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/238013"

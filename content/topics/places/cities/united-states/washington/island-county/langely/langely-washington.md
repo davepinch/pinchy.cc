@@ -2,6 +2,7 @@
 title: "Langley, Washington"
 city of:
   - Island County, Washington
+  - Washington
   - Whidbey Island
   - Saratoga Passage
 openstreetmap: "https://www.openstreetmap.org/relation/238085"

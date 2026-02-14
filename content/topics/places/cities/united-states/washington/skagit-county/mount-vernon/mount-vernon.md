@@ -5,6 +5,7 @@ borders:
   - Skagit River
 city of:
   - Skagit County, Washington
+  - Washington
   - Skagit River
   - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/126284"

@@ -2,6 +2,7 @@
 title: "Vancouver, Washington"
 city of:
   - Clark County, Washington
+  - Washington
   - Columbia River
 namesake of: George Vancouver
 not to be confused with: "Vancouver, British Columbia"

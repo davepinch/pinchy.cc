@@ -2,10 +2,10 @@
 title: "Bellingham, Washington"
 city of:
   - Whatcom County, Washington
-  - Mount Baker Highway
   - Washington
-  - Pacific Northwest
   - Interstate 5
+  - Mount Baker Highway
+  - Pacific Northwest
   - Washington State Route 542
 county: Whatcom County, Washington
 near:

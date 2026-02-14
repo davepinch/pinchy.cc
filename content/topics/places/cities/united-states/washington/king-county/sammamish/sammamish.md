@@ -7,6 +7,7 @@ borders:
   - incomplete list
 city of:
   - King County, Washington
+  - Washington
 clockwise around lake sammamish: Issaquah, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237379"
 reddit: "https://www.reddit.com/r/sammamish/"

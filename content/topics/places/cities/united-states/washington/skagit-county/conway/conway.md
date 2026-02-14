@@ -5,6 +5,7 @@ borders:
   - Skagit River
 census-designated place of:
   - Skagit County, Washington
+  - Washington
   - Interstate 5
 near: La Conner, Washington
 openstreetmap: "https://www.openstreetmap.org/node/412161417"

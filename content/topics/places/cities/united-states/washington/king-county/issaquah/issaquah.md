@@ -7,6 +7,7 @@ borders:
   - Squak Mountain State Park
 city of:
   - King County, Washington
+  - Washington
   - Interstate 90
 clockwise around lake sammamish: Bellevue, Washington
 near: Squak Mountain

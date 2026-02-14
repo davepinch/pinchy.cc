@@ -2,9 +2,10 @@
 title: "Monroe, Washington"
 city of:
   - Snohomish County, Washington
+  - Washington
+  - Skykomish River
   - U.S. Route 2
   - Washington State Route 522
-  - Skykomish River
 disambiguation of: Monroe
 namesake of: James Monroe
 near:

@@ -1,6 +1,8 @@
 ---
 title: "Eatonville, Washington"
-city of: Pierce County, Washington
+city of:
+  - Pierce County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237681"
 vicinity of: Tacoma, Washington
 wikidata: "https://www.wikidata.org/entity/Q1515430"

@@ -7,6 +7,7 @@ borders:
   - incomplete list
 city of:
   - King County, Washington
+  - Washington
   - Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237877"
 reddit:

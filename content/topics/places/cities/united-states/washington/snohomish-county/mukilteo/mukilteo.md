@@ -8,6 +8,7 @@ borders:
   - unincorporated [Snohomish County](/snohomish-county/)
 city of:
   - Snohomish County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237245"
 reddit: "https://www.reddit.com/r/Mukilteo/"
 up the pacific coast: Everett, Washington

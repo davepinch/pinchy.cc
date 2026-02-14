@@ -2,6 +2,7 @@
 title: "Bremerton, Washington"
 city of:
   - Kitsap County, Washington
+  - Washington
   - Kitsap Peninsula
 openstreetmap: "https://www.openstreetmap.org/relation/5371116"
 reddit: "https://www.reddit.com/r/Bremerton/"

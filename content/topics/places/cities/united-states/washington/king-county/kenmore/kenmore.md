@@ -10,6 +10,7 @@ borders:
   - Snohomish County, Washington
 city of:
   - King County, Washington
+  - Washington
   - Lake Washington
   - Sammamish River
   - Washington State Route 522

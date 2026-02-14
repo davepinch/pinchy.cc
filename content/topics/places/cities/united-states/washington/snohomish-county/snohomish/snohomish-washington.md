@@ -2,6 +2,7 @@
 title: "Snohomish, Washington"
 city of:
   - Snohomish County, Washington
+  - Washington
   - Pilchuck River
   - Snohomish River
   - U.S. Route 2

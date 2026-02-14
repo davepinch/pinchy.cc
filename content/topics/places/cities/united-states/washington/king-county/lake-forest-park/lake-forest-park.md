@@ -12,6 +12,7 @@ borders:
   - Snohomish County, Washington
 city of:
   - King County, Washington
+  - Washington
   - Lake Washington
   - Washington State Route 522
 openstreetmap: "https://www.openstreetmap.org/relation/237357"

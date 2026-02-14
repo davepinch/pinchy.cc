@@ -2,6 +2,7 @@
 title: "Oso, Washington"
 census-designated place of:
   - Snohomish County, Washington
+  - Washington
   - Stillaguamish River
 near:
   - Arlington, Washington

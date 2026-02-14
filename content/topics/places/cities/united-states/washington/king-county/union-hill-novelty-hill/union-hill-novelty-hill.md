@@ -6,7 +6,9 @@ borders:
   - Cottage Lake, Washington
   - Redmond, Washington
   - Sammamish, Washington
-census-designated place of: King County, Washington
+census-designated place of:
+  - King County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237544"
 wikidata: "https://www.wikidata.org/wiki/Q1514861"
 tags:

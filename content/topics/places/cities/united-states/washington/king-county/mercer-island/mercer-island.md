@@ -3,6 +3,7 @@ title: "Mercer Island, Washington"
 city of:
   - Mercer Island
   - King County, Washington
+  - Washington
   - Interstate 90
   - Lake Washington
 note: This is the city that resides on the island of the same name.

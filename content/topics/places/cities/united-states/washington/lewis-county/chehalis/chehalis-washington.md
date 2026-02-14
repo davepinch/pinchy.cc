@@ -3,6 +3,7 @@ title: "Chehalis, Washington"
 borders: Centralia, Washington
 city of:
   - Lewis County, Washington
+  - Washington
   - Chehalis River
 county seat of: Lewis County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237445"

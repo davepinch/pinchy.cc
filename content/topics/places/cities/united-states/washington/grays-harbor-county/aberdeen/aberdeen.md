@@ -1,8 +1,9 @@
 ---
 title: "Aberdeen, Washington"
 city of:
-  - Grays Harbor
   - Grays Harbor County, Washington
+  - Washington
+  - Grays Harbor
   - Chehalis River
 nicknames:
   - Gateway to the Olympic Peninsula

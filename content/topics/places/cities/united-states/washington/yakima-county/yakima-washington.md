@@ -2,6 +2,7 @@
 title: "Yakima, Washington"
 city of:
   - Yakima County, Washington
+  - Washington
   - Columbia Plateau
 openstreetmap: "https://www.openstreetmap.org/relation/237752"
 wikidata: "https://www.wikidata.org/wiki/Q499203"

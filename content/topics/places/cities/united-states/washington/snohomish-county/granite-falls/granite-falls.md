@@ -2,6 +2,7 @@
 title: "Granite Falls, Washington"
 city of:
   - Snohomish County, Washington
+  - Washington
 near:
   - Old Lime Kiln
   - Old Robe Trail

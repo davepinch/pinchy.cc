@@ -2,6 +2,7 @@
 title: "Pullman, Washington"
 city of:
   - Whitman County, Washington
+  - Washington
   - Columbia Plateau
 openstreetmap: "https://www.openstreetmap.org/relation/237725"
 wikidata: "https://www.wikidata.org/wiki/Q983540"

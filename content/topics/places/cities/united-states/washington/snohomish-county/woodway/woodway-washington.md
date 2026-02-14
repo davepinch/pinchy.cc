@@ -10,6 +10,7 @@ borders:
   - Shoreline, Washington
 city of:
   - Snohomish County, Washington
+  - Washington
   - Puget Sound
 official website: "https://www.townofwoodway.com/index.php"
 openstreetmap: "https://www.openstreetmap.org/relation/237219"

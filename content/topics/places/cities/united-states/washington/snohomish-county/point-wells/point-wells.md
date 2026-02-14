@@ -5,7 +5,9 @@ borders:
   - Puget Sound
   - Shoreline, Washington
   - Woodway, Washington
-unincorporated area of: Snohomish County, Washington
+unincorporated area of:
+  - Snohomish County, Washington
+  - Washington
 up the Pacific coast: Woodway, Washington
 tags:
   - unincorporated area

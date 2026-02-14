@@ -14,6 +14,7 @@ borders:
   - White Center, Washington
 city of:
   - King County, Washington
+  - Washington
   - East Passage
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/237342"

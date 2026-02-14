@@ -5,7 +5,8 @@ across the sound:
   - Normandy Park, Washington
   - incomplete list
 census-designated place of:
-  - King County, Washington  
+  - King County, Washington
+  - Washington
   - Vashon Island
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/237632"

@@ -6,6 +6,7 @@ borders:
 openstreetmap: "https://www.openstreetmap.org/relation/237332"
 town of:
   - King County, Washington
+  - Washington
   - Lake Washington
 wikidata: "https://www.wikidata.org/entity/Q1507898"
 tags:

@@ -10,6 +10,7 @@ borders:
   - SeaTac, Washington
 city of:
   - King County, Washington
+  - Washington
   - East Passage
   - Puget Sound
 official website: "https://www.desmoineswa.gov/"

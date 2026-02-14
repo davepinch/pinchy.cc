@@ -8,6 +8,7 @@ borders:
   - North Lynnwood, Washington
 city of:
   - Snohomish County, Washington
+  - Washington
   - Interstate 5
   - Washington State Route 99
 openstreetmap: "https://www.openstreetmap.org/relation/237662"

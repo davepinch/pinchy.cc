@@ -1,6 +1,8 @@
 ---
 title: "Maple Valley, Washington"
-city of: King County, Washington
+city of:
+  - King County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237876"
 reddit: "https://www.reddit.com/r/MapleValleyWA/"
 wikidata: "https://www.wikidata.org/entity/Q988204"

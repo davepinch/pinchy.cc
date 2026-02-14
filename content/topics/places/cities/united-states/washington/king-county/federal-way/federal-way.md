@@ -10,6 +10,7 @@ borders:
   - Tacoma, Washington
 city of:
   - King County, Washington
+  - Washington
   - East Passage
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/237350"

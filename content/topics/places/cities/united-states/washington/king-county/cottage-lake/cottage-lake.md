@@ -7,7 +7,9 @@ borders:
   - Union Hill-Novelty Hill, Washington
   - Woodinville, Washington
   - incomplete list
-census-designated place of: King County, Washington
+census-designated place of:
+  - King County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237545"
 vicinity of: Duvall, Washington
 wikidata: "https://www.wikidata.org/entity/Q1502643"

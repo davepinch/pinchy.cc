@@ -2,6 +2,7 @@
 title: "George, Washington"
 city of:
   - Grant County, Washington
+  - Washington
   - Interstate 90
 namesake of: George Washington
 near:

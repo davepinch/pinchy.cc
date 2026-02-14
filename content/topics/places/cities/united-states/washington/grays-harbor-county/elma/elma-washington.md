@@ -1,6 +1,8 @@
 ---
 title: "Elma, Washington"
-city of: Grays Harbor County, Washington
+city of:
+  - Grays Harbor County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/238015"
 vicinity of: Chehalis River
 wikidata: "https://www.wikidata.org/entity/Q610930"

@@ -7,6 +7,7 @@ borders:
   - Lake Washington
 city of:
   - King County, Washington
+  - Washington
   - Lake Washington
   - Washington State Route 520
 openstreetmap: "https://www.openstreetmap.org/relation/237359"
