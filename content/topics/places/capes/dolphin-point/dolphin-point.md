@@ -6,6 +6,7 @@ cape of:
   - Puget Sound
   - Vashon, Washington
   - King County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/?mlat=47.502778&mlon=-122.451389"
 wikidata: "https://www.wikidata.org/wiki/Q49895117"
 tags:

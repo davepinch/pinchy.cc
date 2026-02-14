@@ -4,6 +4,8 @@ cape of:
   - Vashon Island
   - Quartermaster Harbor
   - Puget Sound
+  - King County, Washington
+  - Washington
 note: OpenStreetMap does not have an entry for Jensen Point. The links below are for surrounding areas.
 openstreetmap:
   - "https://www.openstreetmap.org/way/469758824 (beach)"
