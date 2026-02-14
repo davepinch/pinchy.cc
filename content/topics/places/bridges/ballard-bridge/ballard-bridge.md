@@ -5,6 +5,7 @@ bridge of:
   - Lake Washington Ship Canal
   - Seattle
   - King County, Washington
+  - Washington
 connects:
   - Ballard, Seattle
   - Interbay, Seattle

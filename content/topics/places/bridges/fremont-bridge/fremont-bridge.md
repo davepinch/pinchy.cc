@@ -5,6 +5,7 @@ bridge of:
   - Queen Anne, Seattle
   - Seattle
   - King County, Washington
+  - Washington
 near: Waiting for the Interurban
 openstreetmap: "https://www.openstreetmap.org/way/311996795"
 wikidata: "https://www.wikidata.org/wiki/Q5501558"

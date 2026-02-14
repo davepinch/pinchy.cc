@@ -4,6 +4,7 @@ bridge of:
   - Sultan River
   - River Park
   - Sultan, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/way/847782222"
 tags:
   - bridge

@@ -7,6 +7,7 @@ bridge of:
   - Kitsap Peninsula
   - Tacoma, Washington
   - Pierce County, Washington
+  - Washington
 near: Titlow Park
 openstreetmap:
   - "https://www.openstreetmap.org/way/12228251 (eastbound)"
