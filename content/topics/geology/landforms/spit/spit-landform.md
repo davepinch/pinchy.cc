@@ -1,5 +1,6 @@
 ---
 title: "spit (landform)"
+plural: spits
 tag requires property:
   - OpenStreetMap
   - spit of
