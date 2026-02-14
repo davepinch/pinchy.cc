@@ -10,7 +10,10 @@ borders:
   - Sunset Hill, Seattle
   - West Woodland, Seattle
   - incomplete list
-canal of: Seattle
+canal of:
+  - Seattle
+  - King County, Washington
+  - Washington
 route:
   - Lake Washington
   - Union Bay
