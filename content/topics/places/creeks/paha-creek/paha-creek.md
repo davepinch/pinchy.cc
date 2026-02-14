@@ -1,7 +1,7 @@
 ---
 title: "Paha Creek"
 creek of:
-  - Ritsville, Washington
+  - Ritzville, Washington
   - Adams County, Washington
   - Washington
 openstreetmap:
