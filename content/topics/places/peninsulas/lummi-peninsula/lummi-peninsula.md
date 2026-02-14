@@ -2,6 +2,7 @@
 title: "Lummi Peninsula"
 peninsula of:
   - Whatcom County, Washington
+  - Washington
   - Bellingham Bay
 up the Pacific coast: Point Whitehorn
 tags:
