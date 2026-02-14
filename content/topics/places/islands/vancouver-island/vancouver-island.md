@@ -6,6 +6,7 @@ borders:
   - incomplete list
 island of:
   - British Columbia
+  - Pacific Northwest
   - Pacific Ocean
 namesake of: George Vancouver
 near: Explorer Plate

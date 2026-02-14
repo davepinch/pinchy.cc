@@ -1,6 +1,8 @@
 ---
 title: "Lummi Island"
-island of: Whatcom County, Washington
+island of:
+  - Whatcom County, Washington
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/4661469"
 vicinity of:
   - Portage Island
