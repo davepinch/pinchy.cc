@@ -4,10 +4,9 @@ borders:
   - Snohomish County, Washington
   - Whidbey Island
   - incomplete list
-connects to:
+sound of:
   - Puget Sound
-  - incomplete list
-sound of: Puget Sound
+  - Washington
 wikidata: "https://www.wikidata.org/wiki/Q10937274"
 tags:
   - sound (landform)
