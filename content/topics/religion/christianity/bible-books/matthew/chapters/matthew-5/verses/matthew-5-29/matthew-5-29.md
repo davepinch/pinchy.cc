@@ -5,7 +5,7 @@ title: "Matthew 5:29"
 similar to:
   - "Mark 9:47"
   - "Matthew 18:9"
-verse of: Gospel of Matthew
+verse of: Matthew 5
 wikidata: "https://www.wikidata.org/wiki/Q6789984"
 wikipedia: "https://en.wikipedia.org/wiki/Matthew_5:29"
 tags:
