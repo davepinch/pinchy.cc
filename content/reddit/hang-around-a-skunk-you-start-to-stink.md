@@ -1,6 +1,6 @@
 ---
 title: "Hang around a skunk you start to stink"
-author: "buggerssss"
+author: u/buggerssss
 comment of: r/MadeMeSmile
 hang around of: skunk
 type: comment

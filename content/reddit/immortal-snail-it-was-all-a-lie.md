@@ -1,6 +1,6 @@
 ---
 title: "Immortal snail, it was all a lie."
-author: r/The_Unintelligence
+author: u/The_Unintelligence
 comment of: r/PeterExplainsTheJoke
 lie of: snail
 type: comment

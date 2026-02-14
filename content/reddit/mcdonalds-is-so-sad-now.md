@@ -1,6 +1,6 @@
 ---
 title: "Mcdonald’s is SO sad now"
-author: "u/catpunch_"
+author: u/catpunch_
 comment of: r/mildlyinteresting
 sad of: "McDonald's"
 type: comment

@@ -1,6 +1,6 @@
 ---
 title: "It's been a while since we had an apocalyptic prediction."
-author: "jlbradl"
+author: u/jlbradl
 comment of: r/TikTokCringe
 type: comment
 url: /www.reddit.com/r/TikTokCringe/comments/1i9nhnk/most_endoftheworld_predictions_can_be_laughed_off/

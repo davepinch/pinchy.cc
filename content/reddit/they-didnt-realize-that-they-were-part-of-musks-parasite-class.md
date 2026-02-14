@@ -1,6 +1,6 @@
 ---
 title: "They didn’t realize that they were part of Musk’s parasite class."
-author: Prudent_Shake_8149
+author: u/Prudent_Shake_8149
 caller is untrue:
   - "https://www.reuters.com/fact-check/insulin-cap-medicare-unaffected-by-trump-order-prescription-drug-costs-2025-01-28/"
 comment of: r/facepalm

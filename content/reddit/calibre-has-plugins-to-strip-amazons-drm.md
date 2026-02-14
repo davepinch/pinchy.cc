@@ -1,6 +1,6 @@
 ---
 title: "Calibre has plugins to strip Amazon's DRM."
-author: Bad_Candy_Apple
+author: u/Bad_Candy_Apple
 comment of: r/books
 drm of: Amazon
 type: comment

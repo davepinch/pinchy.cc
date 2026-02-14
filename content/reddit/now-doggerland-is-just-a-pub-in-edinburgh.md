@@ -1,6 +1,6 @@
 ---
 title: "Now Doggerland is just a pub in Edinburgh"
-author: Minibeebs
+author: u/Minibeebs
 comment of: r/Damnthatsinteresting
 doggerland of: Edinburgh
 pub of: Doggerland

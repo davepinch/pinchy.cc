@@ -1,6 +1,6 @@
 ---
 title: "Big congrats to Russia on winning the Cold War."
-author: Protato900
+author: u/Protato900
 comment of: r/worldnews
 type: comment
 url: /www.reddit.com/r/worldnews/comments/1j2xnft/trump_halts_ukraine_aid/

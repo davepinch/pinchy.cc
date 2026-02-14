@@ -1,6 +1,6 @@
 ---
 title: "I would have cut the rocking horses head off and put it on his steps"
-author: "Reasonable-Roof-1475"
+author: u/Reasonable-Roof-1475
 comment of: r/pettyrevenge
 reference of: The Godfather
 type: comment
