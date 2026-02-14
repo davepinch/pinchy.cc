@@ -1,3 +1,4 @@
 ---
 title: "people"
+plural: peoples
 ---
