@@ -8,7 +8,7 @@ opposite: Custer Rest Area Northbound
 rest area of:
   - Interstate 5
   - Custer, Washington
-type: rest-area
+  - Washington
 tags:
   - rest area
 ---

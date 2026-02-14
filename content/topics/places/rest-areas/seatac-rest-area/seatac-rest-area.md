@@ -7,6 +7,8 @@ rest area of:
   - Interstate 5
   - Federal Way, Washington
   - SeaTac, Washington
+  - King County, Washington
+  - Washington
 tags:
   - rest area
   - no Wikidata record
