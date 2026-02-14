@@ -2,7 +2,9 @@
 title: "Messier 2"
 ⬅️: Messier 1
 ➡️: Messier 3
-globular cluster of: Aquarius
+globular cluster of:
+  - Aquarius
+  - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q11099"
 tags:
   - globular cluster

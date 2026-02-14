@@ -2,7 +2,9 @@
 title: "Messier 55"
 ⬅️: Messier 54
 ➡️: Messier 56
-globular cluster of: Sagittarius
+globular cluster of:
+  - Sagittarius
+  - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13965"
 tags:
   - globular cluster

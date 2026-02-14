@@ -2,7 +2,9 @@
 title: "Messier 27"
 ⬅️: Messier 26
 ➡️: Messier 28
-open cluster of: Scutum
+open cluster of:
+  - Scutum
+  - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13628"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_27"
 tags:

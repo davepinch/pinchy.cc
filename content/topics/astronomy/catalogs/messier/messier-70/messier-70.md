@@ -2,7 +2,9 @@
 title: "Messier 70"
 ⬅️: Messier 69
 ➡️: Messier 71
-globular cluster of: Sagittarius
+globular cluster of:
+  - Sagittarius
+  - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q14004"
 tags:
   - globular cluster

@@ -1,6 +1,8 @@
 ---
 title: "Crab Nebula"
-nebula of: Taurus
+nebula of:
+  - Taurus
+  - Milky Way
 tags:
   - nebula
 ---

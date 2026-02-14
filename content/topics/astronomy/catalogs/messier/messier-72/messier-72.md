@@ -2,7 +2,9 @@
 title: "Messier 72"
 ⬅️: Messier 71
 ➡️: Messier 73
-globular cluster of: Aquarius
+globular cluster of:
+  - Aquarius
+  - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q14008"
 tags:
   - globular cluster

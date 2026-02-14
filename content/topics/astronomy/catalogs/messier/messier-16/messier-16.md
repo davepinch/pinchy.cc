@@ -2,7 +2,9 @@
 title: "Messier 16"
 ⬅️: Messier 15
 ➡️: Messier 17
-open cluster of: Serpens
+open cluster of:
+  - Serpens
+  - Milky Way
 other names:
   - Eagle Nebula
   - NGC 6611

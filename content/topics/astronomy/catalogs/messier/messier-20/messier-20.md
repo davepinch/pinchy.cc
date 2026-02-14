@@ -2,7 +2,10 @@
 title: "Messier 20"
 ⬅️: Messier 19
 ➡️: Messier 21
-nebula of: Sagittarius
+nebula of:
+  - Sagittarius
+  - Scutum–Centaurus Arm
+  - Milky Way
 other names:
   - Trifid Nebula
   - NGC 6514

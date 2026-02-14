@@ -5,6 +5,7 @@ title: "Messier 5"
 globular cluster of:
   - Serpens
   - Serpens Caput
+  - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q11217"
 tags:
   - globular cluster

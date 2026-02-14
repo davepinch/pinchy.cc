@@ -2,7 +2,9 @@
 title: "Messier 11"
 ⬅️: Messier 10
 ➡️: Messier 12
-open cluster of: Scutum
+open cluster of:
+  - Scutum
+  - Milky Way
 other names:
   - NGC 6705
   - Wild Duck Cluster

@@ -2,7 +2,9 @@
 title: "Messier 17"
 ⬅️: Messier 16
 ➡️: Messier 18
-nebula of: Sagittarius
+nebula of:
+  - Sagittarius
+  - Milky Way
 other names:
   - Checkmark Nebula
   - Horseshoe Nebula

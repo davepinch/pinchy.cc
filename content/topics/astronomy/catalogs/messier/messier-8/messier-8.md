@@ -2,7 +2,9 @@
 title: "Messier 8"
 ⬅️: Messier 7
 ➡️: Messier 9
-nebula of: Sagittarius
+nebula of:
+  - Sagittarius
+  - Milky Way
 other names:
   - Lagoon Nebula
   - NGC 6523
