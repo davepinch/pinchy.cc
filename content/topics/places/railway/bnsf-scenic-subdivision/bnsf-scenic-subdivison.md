@@ -2,7 +2,7 @@
 title: "BNSF Scenic Subdivision"
 connects to: BNSF Bellingham Subdivision
 openstreetmap: "https://www.openstreetmap.org/relation/7371315"
-rail line of:
+railway of:
   - Seattle
   - Shoreline, Washington
   - Edmonds, Washington

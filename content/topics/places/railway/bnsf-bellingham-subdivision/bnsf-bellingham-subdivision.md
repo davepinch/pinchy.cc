@@ -1,7 +1,7 @@
 ---
 title: "BNSF Bellingham Subdivision"
 connects to: BNSF Scenic Subdivision
-railway line of:
+railway of:
   - Blaine, Washington
   - Ferndale, Washington
   - Bellingham, Washington
