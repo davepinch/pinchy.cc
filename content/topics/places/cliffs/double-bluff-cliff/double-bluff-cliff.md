@@ -4,6 +4,7 @@ cliff of:
   - Admiralty Inlet
   - Whidbey Island
   - Island County, Washington
+  - Washington
 not to be confused with:
   - Double Bluff Beach
   - Double Bluff County Park
