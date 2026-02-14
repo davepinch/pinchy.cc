@@ -21,5 +21,4 @@ up the pacific coast:
   - Canada
 tags:
   - state
-  - Puget Sound
 ---
