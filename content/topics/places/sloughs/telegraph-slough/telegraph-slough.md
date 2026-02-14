@@ -6,6 +6,7 @@ openstreetmap:
 slough of:
   - Padilla Bay
   - Skagit County, Washington
+  - Washington
 wikidata: "https://www.wikidata.org/wiki/Q113484401"
 tags:
   - slough

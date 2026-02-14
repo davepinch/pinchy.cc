@@ -7,6 +7,7 @@ slough of:
   - Skagit River
   - Fir Island
   - Skagit County, Washington
+  - Washington
 wikidata: "https://www.wikidata.org/wiki/Q113470745"
 tags:
   - slough

@@ -7,6 +7,7 @@ openstreetmap:
 slough of:
   - Skagit River
   - Skagit County, Washington
+  - Washington
 vicinity of: La Conner, Washington
 tags:
   - slough
