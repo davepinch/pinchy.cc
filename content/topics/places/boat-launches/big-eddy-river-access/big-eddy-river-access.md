@@ -1,12 +1,12 @@
 ---
 title: "Big Eddy River Access"
-openstreetmap: "https://www.openstreetmap.org/way/64253126"
-park of:
+boat launch of:
   - Skykomish River
   - Snohomish County, Washington
   - Washington
+openstreetmap: "https://www.openstreetmap.org/way/64253126"
 tags:
-  - park
+  - boat launch
   - no Wikidata record
   - no Wikipedia article
 ---
