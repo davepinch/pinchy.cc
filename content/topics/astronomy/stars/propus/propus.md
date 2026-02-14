@@ -1,11 +1,6 @@
 ---
 title: "Propus"
-star of:
-  - Gemini
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q505752"
+proper name of: Eta Geminorum
 tags:
-  - triple star system
-  - star
+  - proper name
 ---

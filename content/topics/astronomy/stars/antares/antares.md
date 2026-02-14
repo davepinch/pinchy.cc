@@ -7,5 +7,6 @@ star of:
   - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q12166"
 tags:
+  - proper name
   - star
 ---

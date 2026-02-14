@@ -7,9 +7,7 @@ retrieved: 2024-11-06
 type: website
 url: /en.wikipedia.org/wiki/Theta_Scorpii/
 website: "https://en.wikipedia.org/wiki/Theta_Scorpii"
-wikipedia of:
-  - Theta Scorpii
-  - Sargas
+wikipedia of: Theta Scorpii
 tags:
   - Wikipedia
 ---

@@ -7,6 +7,7 @@ star of:
   - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q14219"
 tags:
+  - proper name
   - star system
   - star
 ---

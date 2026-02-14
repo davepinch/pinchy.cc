@@ -7,7 +7,7 @@ retrieved: 2024-07-17
 type: website
 url: /en.wikipedia.org/wiki/Epsilon_Geminorum/
 website: "https://en.wikipedia.org/wiki/Epsilon_Geminorum"
-wikipedia of: Mebsuta
+wikipedia of: Epsilon Geminorum
 tags:
   - Wikipedia
 ---

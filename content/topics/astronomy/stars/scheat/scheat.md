@@ -1,4 +1,6 @@
 ---
 title: "Scheat"
-formal name of: Beta Pegasi
+proper name of: Beta Pegasi
+tags:
+  - proper name
 ---

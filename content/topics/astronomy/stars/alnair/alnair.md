@@ -1,13 +1,7 @@
 ---
 title: "Alnair"
-apparent magnitude: 1.74
 next in brightness: Alnilam
-star of:
-  - Grus
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q854042"
+proper name of: Alpha Gruis
 tags:
-  - B-type main-sequence star
-  - star
+  - proper name
 ---

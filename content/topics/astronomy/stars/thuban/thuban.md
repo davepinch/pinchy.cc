@@ -3,7 +3,7 @@ title: "Thuban"
 star of:
   - Draco
   - Milky Way
-  - astronomy
 tags:
+  - proper name
   - binary star
 ---

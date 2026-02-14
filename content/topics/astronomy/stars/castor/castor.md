@@ -7,6 +7,7 @@ star of:
   - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q13029"
 tags:
+  - proper name
   - multiple star system
   - star
 ---

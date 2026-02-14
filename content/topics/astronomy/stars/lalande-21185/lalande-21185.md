@@ -7,7 +7,6 @@ other designations:
 star of:
   - Ursa Major
   - Milky Way
-  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q683605"
 tags:
   - star

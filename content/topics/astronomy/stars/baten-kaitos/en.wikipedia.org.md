@@ -7,9 +7,7 @@ retrieved: 2024-11-30
 type: website
 url: /en.wikipedia.org/wiki/Zeta_Ceti/
 website: "https://en.wikipedia.org/wiki/Zeta_Ceti"
-wikipedia of:
-  - Baten Kaitos
-  - Zeta Ceti
+wikipedia of: Zeta Ceti
 tags:
   - Wikipedia
 ---

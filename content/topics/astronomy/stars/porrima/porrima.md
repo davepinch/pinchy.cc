@@ -1,11 +1,6 @@
 ---
 title: "Porrima"
-star of:
-  - Virgo
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q66477101"
-wikipedia: "https://en.wikipedia.org/wiki/Gamma_Virginis"
+proper name of: Gamma Virginis
 tags:
-  - star
+  - proper name
 ---

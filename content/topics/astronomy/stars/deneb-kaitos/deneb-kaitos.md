@@ -1,4 +1,8 @@
 ---
 title: "Deneb Kaitos"
-traditional name of: Diphda
+traditional name of:
+  - Beta Ceti
+  - Diphda
+tags:
+  - traditional name
 ---

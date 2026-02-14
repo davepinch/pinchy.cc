@@ -1,11 +1,6 @@
 ---
 title: "Adhafera"
-star of:
-  - Leo
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q14207"
+proper name of: Zeta Leonis
 tags:
-  - giant star
-  - star
+  - proper name
 ---

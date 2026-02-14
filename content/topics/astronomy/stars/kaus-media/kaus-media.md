@@ -3,12 +3,7 @@ title: "Kaus Media"
 partners:
   - Kaus Australis
   - Kaus Borealis
-star of:
-  - Sagittarius
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q14038"
-wikipedia: "https://en.wikipedia.org/wiki/Delta_Sagittarii"
+proper name of: Delta Sagittarii
 tags:
-  - star
+  - proper name
 ---

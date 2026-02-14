@@ -7,9 +7,7 @@ retrieved: 2024-10-15
 type: website
 url: /en.wikipedia.org/wiki/Beta_Ophiuchi/
 website: "https://en.wikipedia.org/wiki/Beta_Ophiuchi"
-wikipedia of:
-  - Beta Ophiuchi
-  - Cebalrai
+wikipedia of: Beta Ophiuchi
 tags:
   - Wikipedia
 ---

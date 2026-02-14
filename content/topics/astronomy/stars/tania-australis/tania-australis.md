@@ -1,11 +1,6 @@
 ---
 title: "Tania Australis"
-star of:
-  - Ursa Major
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q66477363"
+proper name of: Mu Ursae Majoris
 tags:
-  - binary star
-  - star
+  - proper name
 ---

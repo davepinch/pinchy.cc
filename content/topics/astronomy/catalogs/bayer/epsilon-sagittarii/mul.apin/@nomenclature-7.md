@@ -10,7 +10,7 @@ mul.apin of:
   - bark
 snippet of: Epsilon Sagittarii (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Epsilon_Sagittarii/
+url: /en.wikipedia.org/wiki/Epsilon_Sagittarii/@nomenclature-7/
 tags:
   - snippet
 ---

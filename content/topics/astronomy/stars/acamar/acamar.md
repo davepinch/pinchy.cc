@@ -1,4 +1,6 @@
 ---
 title: "Acamar"
-formal name of: Theta Eridani
+proper name of: Theta Eridani
+tags:
+  - proper name
 ---

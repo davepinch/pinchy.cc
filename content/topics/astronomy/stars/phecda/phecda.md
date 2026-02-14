@@ -5,9 +5,9 @@ star of:
   - Ursa Major Moving Group
   - Big Dipper
   - Milky Way
-  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q13099"
 tags:
+  - proper name
   - star
   - astrometric binary
 ---

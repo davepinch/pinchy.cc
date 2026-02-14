@@ -5,9 +5,9 @@ next north star: Errai
 star of:
   - Ursa Minor
   - Milky Way
-  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q12980"
 tags:
+  - proper name
   - alpha
   - star
   - triple star system

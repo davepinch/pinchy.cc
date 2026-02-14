@@ -1,10 +1,6 @@
 ---
 title: "Alhena"
-star of:
-  - Gemini
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q14238"
+proper name of: Gamma Geminorum
 tags:
-  - star
+  - proper name
 ---

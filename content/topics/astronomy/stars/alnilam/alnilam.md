@@ -6,9 +6,9 @@ star of:
   - Orion
   - Orion's Belt
   - Milky Way
-  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q13070"
 tags:
+  - proper name
   - blue supergiant
   - star
 ---

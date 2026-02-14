@@ -1,10 +1,6 @@
 ---
 title: "Algenib"
-star of:
-  - Pegasus
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q954716"
+proper name of: Gamma Pegasi
 tags:
-  - star
+  - proper name
 ---

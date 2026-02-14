@@ -1,10 +1,6 @@
 ---
 title: "Cebalrai"
-star of:
-  - Ophiuchus
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q1052228"
+proper name of: Beta Ophiuchi
 tags:
-  - star
+  - proper name
 ---

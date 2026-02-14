@@ -1,8 +1,10 @@
 ---
 title: "Epsilon Eridani"
-proper name: Ran
-star of: Eridanus
+star of:
+  - Eridanus
+  - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q194394"
 tags:
   - star
+  - Latinized Bayer designation
 ---

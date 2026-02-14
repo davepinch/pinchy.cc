@@ -1,10 +1,6 @@
 ---
 title: "Tiaki"
-star of:
-  - Grus
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q14244"
+proper name of: Beta Gruis
 tags:
-  - star
+  - proper name
 ---

@@ -6,5 +6,6 @@ star of:
   - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q13213"
 tags:
+  - proper name
   - star
 ---

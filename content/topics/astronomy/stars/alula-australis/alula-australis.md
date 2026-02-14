@@ -1,11 +1,6 @@
 ---
 title: "Alula Australis"
-star of:
-  - Ursa Major
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q66531057"
-wikipedia: "https://en.wikipedia.org/wiki/Xi_Ursae_Majoris"
+proper name of: Xi Ursae Majoris
 tags:
-  - star
+  - proper name
 ---

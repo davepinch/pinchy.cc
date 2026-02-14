@@ -1,10 +1,6 @@
 ---
 title: "Mirfak"
-star of:
-  - Perseus
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q13790"
+proper name of: Alpha Persei
 tags:
-  - star
+  - proper name
 ---

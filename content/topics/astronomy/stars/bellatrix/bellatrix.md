@@ -8,6 +8,7 @@ star of:
   - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q13066"
 tags:
+  - proper name
   - blue giant
   - star
 ---

@@ -9,5 +9,6 @@ star of:
   - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q2090157"
 tags:
+  - proper name
   - star
 ---

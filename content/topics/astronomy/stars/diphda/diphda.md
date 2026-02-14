@@ -1,10 +1,8 @@
 ---
 title: "Diphda"
-star of:
-  - Cetus
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q13170"
+proper name of:
+  - Beta Ceti
+  - Deneb Kaitos
 tags:
-  - star
+  - proper name
 ---

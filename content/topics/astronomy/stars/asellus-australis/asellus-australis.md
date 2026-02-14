@@ -1,11 +1,6 @@
 ---
 title: "Asellus Australis"
-star of:
-  - Cancer
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q15706"
-wikipedia: "https://en.wikipedia.org/wiki/Delta_Cancri"
+proper name of: Delta Cancri
 tags:
-  - star
+  - proper name
 ---

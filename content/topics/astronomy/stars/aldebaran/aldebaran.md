@@ -12,5 +12,5 @@ wikidata:
 tags:
   - alpha
   - red giant
-  - star
+  - proper name
 ---

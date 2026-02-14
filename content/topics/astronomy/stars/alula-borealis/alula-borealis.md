@@ -1,13 +1,6 @@
 ---
 title: "Alula Borealis"
-star of:
-  - Ursa Major
-  - Milky Way
-  - astronomy
-wikidata:
-  - "https://www.wikidata.org/wiki/Q66476690"
-  - "https://www.wikidata.org/wiki/Q1434418"
-wikipedia: "https://en.wikipedia.org/wiki/Nu_Ursae_Majoris"
+proper name of: Nu Ursae Majoris
 tags:
-  - star
+  - proper name
 ---

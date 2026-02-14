@@ -7,6 +7,7 @@ star of:
   - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q14028"
 tags:
+  - proper name
   - star
   - supergiant
 ---

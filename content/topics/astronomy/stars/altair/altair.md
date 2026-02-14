@@ -6,9 +6,9 @@ star of:
   - Summer Triangle
   - G-Cloud
   - Milky Way
-  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q12975"
 tags:
+  - proper name
   - alpha
   - A-type main-sequence star
   - star

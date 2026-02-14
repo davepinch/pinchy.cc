@@ -1,11 +1,6 @@
 ---
 title: "Vindemiatrix"
-star of:
-  - Virgo
-  - Milky Way
-  - astronomy
-wikidata: "https://www.wikidata.org/wiki/Q14198"
+proper name of: Epsilon Virginis
 tags:
-  - giant star
-  - star
+  - proper name
 ---

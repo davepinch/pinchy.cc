@@ -8,7 +8,7 @@ license: CC BY-SA 4.0
 rotation of: Epsilon Sagittarii
 snippet of: Epsilon Sagittarii (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Epsilon_Sagittarii/
+url: /en.wikipedia.org/wiki/Epsilon_Sagittarii/@stellar-system-2-1/
 tags:
   - snippet
 ---

@@ -4,4 +4,6 @@ also known as:
   - Er Rai
   - Alrai
 proper name of: Gamma Cephei
+tags:
+  - proper name
 ---

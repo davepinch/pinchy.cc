@@ -5,8 +5,8 @@ star of:
   - Orion
   - Orion's Belt
   - Milky Way
-  - astronomy
 wikidata: "https://www.wikidata.org/wiki/Q680341"
 tags:
+  - proper name
   - star
 ---

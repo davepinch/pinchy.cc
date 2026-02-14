@@ -5,4 +5,5 @@ TODO: Look at Beta Pictoris and send me a description or picture. An exoplanet o
 wikidata: "https://www.wikidata.org/wiki/Q582547"
 tags:
   - star
+  - Latinized Bayer designation
 ---
