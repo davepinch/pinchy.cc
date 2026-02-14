@@ -3,7 +3,6 @@ title: "Carnation, Washington"
 city of:
   - King County, Washington
   - Washington
-  - Washington
   - Snoqualmie River
 openstreetmap: "https://www.openstreetmap.org/relation/237871"
 wikidata: "https://www.wikidata.org/wiki/Q1191413"
