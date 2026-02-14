@@ -4,6 +4,7 @@ landform alongside of:
   - lake
   - ocean
   - river
+plural: beaches
 see also:
   - coast
 tag requires property:
