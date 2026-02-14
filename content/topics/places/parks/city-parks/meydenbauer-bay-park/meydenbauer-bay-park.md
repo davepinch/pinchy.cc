@@ -5,7 +5,6 @@ city park of:
   - Lake Washington
   - Bellevue, Washington
   - King County, Washington
-  - Washington
 formerly known as: Meydenbauer Beach Park
 openstreetmap: "https://www.openstreetmap.org/way/57883263"
 wikidata: "https://www.wikidata.org/wiki/Q6826387"
