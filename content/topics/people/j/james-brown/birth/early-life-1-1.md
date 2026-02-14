@@ -1,5 +1,5 @@
 ---
-title: "Brown was born on May 3, 1933, in Barnwell, South Carolina, to 16-year-old Susie (née Behling; 1917–2004) and 21-year-old Joseph Gardner Brown (1912–1993) in a small wooden shack."
+title: "[James] Brown was born on May 3, 1933, in Barnwell, South Carolina, to 16-year-old Susie (née Behling; 1917–2004) and 21-year-old Joseph Gardner Brown (1912–1993) in a small wooden shack."
 birth of: James Brown
 born in: South Carolina
 citation: >-
