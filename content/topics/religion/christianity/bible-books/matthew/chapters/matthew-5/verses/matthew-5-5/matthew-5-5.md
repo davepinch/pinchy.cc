@@ -1,5 +1,5 @@
 ---
-title: "Matthew 5:56"
+title: "Matthew 5:5"
 ⬅️: "Matthew 5:4"
 ➡️: "Matthew 5:5"
 verse of: Matthew 5
