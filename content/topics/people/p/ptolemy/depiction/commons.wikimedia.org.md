@@ -6,6 +6,7 @@ author:
 depiction of: Ptolemy
 description: "Ptolemy with an armillary sphere model, by Joos van Ghent and Pedro Berruguete, 1476. Louvre, Paris"
 illustration of: Ptolemy (Wikipedia)
+license: public domain
 painting of: Louvre
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Ptolemy_1476_with_armillary_sphere_model.jpg/330px-Ptolemy_1476_with_armillary_sphere_model.jpg"
