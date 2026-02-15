@@ -1,6 +1,5 @@
 ---
 title: "Cristina Balan"
-type: person
 whistleblower of:
   - Tesla
   - Elon Musk

@@ -1,6 +1,5 @@
 ---
 title: "Alice DiMar"
-type: person
 website: "https://alicedimar.com/"
 tags:
   - electronic music

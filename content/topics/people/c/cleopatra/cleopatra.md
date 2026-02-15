@@ -2,8 +2,8 @@
 title: "Cleopatra"
 final queen of: Ptolemaic Kingdom
 resident of: Alexandria
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q635"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cleopatra"
 tags:
   - queen
   - human being

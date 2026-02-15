@@ -1,6 +1,5 @@
 ---
 title: "Franco Vianello"
-type: person
 tags:
   - sculptor
   - human being

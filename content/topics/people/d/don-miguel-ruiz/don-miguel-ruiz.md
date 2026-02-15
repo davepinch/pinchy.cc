@@ -1,7 +1,7 @@
 ---
 title: "Don Miguel Ruiz"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q116177"
+wikiquote: "https://en.wikiquote.org/wiki/Miguel_%C3%81ngel_Ruiz"
 tags:
   - Mexican
   - philosopher

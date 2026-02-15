@@ -1,8 +1,9 @@
 ---
 title: "George Vancouver"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q205485"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:George_Vancouver"
 wikipedia: "https://en.wikipedia.org/wiki/George_Vancouver"
+wikisource: "https://en.wikisource.org/wiki/Author:George_Vancouver"
 tags:
   - British
   - explorer

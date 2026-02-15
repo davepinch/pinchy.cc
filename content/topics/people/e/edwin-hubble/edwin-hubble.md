@@ -1,7 +1,8 @@
 ---
 title: "Edwin Hubble"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q43027"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Edwin_Hubble"
+wikiquote: "https://en.wikiquote.org/wiki/Edwin_Hubble"
 tags:
   - American
   - astronomer

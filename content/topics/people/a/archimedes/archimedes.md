@@ -1,8 +1,9 @@
 ---
 title: "Archimedes"
 enumerated: Archimedean solid
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q8739"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Archimedes"
+wikiquote: "https://en.wikiquote.org/wiki/Archimedes"
 tags:
   - mathematician
   - astronomer

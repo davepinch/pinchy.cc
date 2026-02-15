@@ -1,7 +1,8 @@
 ---
 title: "Aleister Crowley"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q172684"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Aleister_Crowley"
+wikiquote: "https://en.wikiquote.org/wiki/Aleister_Crowley"
 tags:
   - English
   - occultist

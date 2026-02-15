@@ -1,7 +1,7 @@
 ---
 title: "Abraham Robinson"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q330567"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Abraham_Robinson"
 tags:
   - mathematician
   - human being

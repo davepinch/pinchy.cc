@@ -5,8 +5,8 @@ notable films:
   - Lawrence of Arabia
   - Doctor Zhivago
   - A Passage to India
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q55260"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:David_Lean"
 tags:
   - director
   - human being

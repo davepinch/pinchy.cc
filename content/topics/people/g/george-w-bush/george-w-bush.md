@@ -5,8 +5,10 @@ title: "George W. Bush"
 member of: Republican Party
 not to be confused with: George H. W. Bush
 president of: United States
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q207"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:George_W._Bush"
+wikiquote: "https://en.wikiquote.org/wiki/George_W._Bush"
+wikisource: "https://en.wikisource.org/wiki/Author:George_Walker_Bush"
 tags:
   - president of the United States
   - human being

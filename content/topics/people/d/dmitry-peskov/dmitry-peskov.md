@@ -1,8 +1,9 @@
 ---
 title: "Dmitry Peskov"
 press secretary of: Vladimir Putin
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q4359688"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Dmitry_Peskov"
+wikiquote: "https://en.wikiquote.org/wiki/Dmitry_Peskov"
 tags:
   - human being
 ---

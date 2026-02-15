@@ -1,10 +1,8 @@
 ---
 title: "Akira Kurosawa"
-notable films:
-  - Seven Samurai
-  - The Hidden Fortress
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q8006"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Akira_Kurosawa"
+wikiquote: "https://en.wikiquote.org/wiki/Akira_Kurosawa"
 tags:
   - filmmaker
   - director

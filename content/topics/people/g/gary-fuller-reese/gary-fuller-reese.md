@@ -1,6 +1,5 @@
 ---
 title: "Gary Fuller Reese"
-type: person
 tags:
   - historian
   - human being

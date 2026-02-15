@@ -1,8 +1,9 @@
 ---
 title: "Chuck Norris"
 student of: Bruce Lee
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q2673"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Chuck_Norris"
+wikiquote: "https://en.wikiquote.org/wiki/Chuck_Norris"
 tags:
   - American
   - actor

@@ -1,7 +1,9 @@
 ---
 title: "Arthur C. Clarke"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q47087"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Arthur_C._Clarke"
+wikiquote: "https://en.wikiquote.org/wiki/Arthur_C._Clarke"
+wikisource: "https://en.wikisource.org/wiki/Author:Arthur_Charles_Clarke"
 tags:
   - inventor
   - explorer

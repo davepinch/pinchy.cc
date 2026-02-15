@@ -2,8 +2,8 @@
 title: "Alexander Shulgin"
 born on: 1925-06-17
 died on: 2014-06-02
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q506336"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Alexander_Shulgin"
 tags:
   - American
   - human being

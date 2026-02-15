@@ -2,7 +2,6 @@
 title: "Alice Jarman"
 niece of:  S'Hai-ak
 person of: Port Townsend, Washington
-type: person
 wife of: William Jarman
 tags:
   - pioneer

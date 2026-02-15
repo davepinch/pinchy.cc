@@ -1,8 +1,8 @@
 ---
 title: "Cassie Ventura"
 discovered by: Sean Combs
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q72832"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cassie_Ventura"
 tags:
   - singer
   - dancer

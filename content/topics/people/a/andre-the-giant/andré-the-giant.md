@@ -1,10 +1,9 @@
 ---
 title: "André the Giant"
 also died in paris: Émile Zola
-favorite role:
-  - The Princess Bride
-type: person
+favorite role: The Princess Bride
 wikidata: "https://www.wikidata.org/wiki/Q44368"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:André_the_Giant"
 tags:
   - actor
   - wrester

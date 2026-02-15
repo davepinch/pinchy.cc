@@ -1,7 +1,6 @@
 ---
 title: "Edmond Starling"
 person of: Fort Steilacoom
-type: person
 tags:
   - Indian agent
   - human being
