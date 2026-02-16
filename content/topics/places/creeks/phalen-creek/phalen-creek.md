@@ -5,6 +5,7 @@ creek of:
   - Saint Paul, Minnesota
   - Ramsey County, Minnesota
   - Minnesota
+namesake of: Edward Phelan
 openstreetmap: "https://www.openstreetmap.org/relation/19761242"
 tributary of: Mississippi River
 tags:

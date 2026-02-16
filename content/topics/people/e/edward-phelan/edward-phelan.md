@@ -1,0 +1,12 @@
+---
+title: "Edward Phelan"
+also spelled as: Edward Phalen
+early settler of:
+  - Saint Paul, Minnesota
+  - Minnesota
+wikidata: "https://www.wikidata.org/wiki/Q5344843"
+tags:
+  - American
+  - human being
+  - dead at the moment
+---
