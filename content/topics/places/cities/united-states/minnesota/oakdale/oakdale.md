@@ -11,10 +11,12 @@ borders:
   - Woodbury, Minnesota
 city of:
   - Washington County, Minnesota
+  - Minnesota
   - Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/137850"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q986185"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Oakdale,_Minnesota"
 tags:
   - city
   - suburb

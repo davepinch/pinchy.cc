@@ -12,11 +12,13 @@ borders:
 city of:
   - Ramsey County, Minnesota
   - Washington County, Minnesota
+  - Minnesota
 clockwise around white bear lake: White Bear Township
 named after the lake: White Bear Lake
 openstreetmap: "https://www.openstreetmap.org/relation/137417"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q1986513"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:White_Bear_Lake,_Minnesota"
 tags:
   - city
   - suburb

@@ -5,7 +5,9 @@ borders:
   - Mahtomedi, Minnesota
   - White Bear Lake
   - White Bear Township
-city of: Washington County, Minnesota
+city of:
+  - Washington County, Minnesota
+  - Minnesota
 clockwise around white bear lake: Mahtomedi, Minnesota
 suburb of: Saint Paul, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136805"

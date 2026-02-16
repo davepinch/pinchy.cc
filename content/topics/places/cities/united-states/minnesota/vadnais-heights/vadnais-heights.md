@@ -8,10 +8,13 @@ borders:
   - Shoreview, Minnesota
   - White Bear Lake, Minnesota
   - White Bear Township
-city of: Ramsey County, Minnesota
+city of:
+  - Ramsey County, Minnesota
+  - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136607"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q1992815"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Vadnais_Heights,_Minnesota"
 tags:
   - city
   - suburb

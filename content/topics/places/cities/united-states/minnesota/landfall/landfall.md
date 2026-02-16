@@ -1,6 +1,8 @@
 ---
 title: "Landfall, Minnesota"
-city of: Washington County, Minnesota
+city of:
+  - Washington County, Minnesota
+  - Minnesota
 near:
   - Interstate 94
   - Maplewood, Minnesota

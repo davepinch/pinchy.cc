@@ -11,9 +11,12 @@ borders:
   - Mounds View, Minnesota
   - New Brighton, Minnesota
   - Spring Lake Park, Minnesota
-city of: Anoka County, Minnesota
+city of:
+  - Anoka County, Minnesota
+  - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136671"
 wikidata: "https://www.wikidata.org/entity/Q985235"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Fridley,_Minnesota"
 tags:
   - city
 ---

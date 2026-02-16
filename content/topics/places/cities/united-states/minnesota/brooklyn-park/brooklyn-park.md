@@ -11,11 +11,13 @@ adjacent cities (clockwise from north):
   - Osseo, Minnesota
 city of:
   - Hennepin County, Minnesota
+  - Minnesota
   - Interstate 94
   - Mississippi River
 openstreetmap: "https://www.openstreetmap.org/relation/136686"
 suburb of: Minneapolis, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q864128"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Brooklyn_Park,_Minnesota"
 tags:
   - city
   - suburb

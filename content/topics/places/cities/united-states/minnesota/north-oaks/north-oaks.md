@@ -5,7 +5,9 @@ borders:
   - Shoreview, Minnesota
   - Vadnais Heights, Minnesota
   - White Bear Township
-city of: Ramsey County, Minnesota
+city of:
+  - Ramsey County, Minnesota
+  - Minnesota
 official website: "https://www.northoaksmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136619"
 suburb of: Saint Paul, Minnesota

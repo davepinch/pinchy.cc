@@ -4,13 +4,16 @@ borders:
   - Maplewood, Minnesota
   - Oakdale, Minnesota
   - Washington County, Minnesota
-city of: Ramsey County, Minnesota
+city of:
+  - Ramsey County, Minnesota
+  - Minnesota
 dave: >-
   At some point I walked home from [North High School](/north-high-school/). I don't remember the exact route but I do remember walking by John Glenn school on the way back.
 official website: "https://www.northstpaul.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136618"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q1932960"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:North_St._Paul,_Minnesota"
 tags:
   - city
   - suburb

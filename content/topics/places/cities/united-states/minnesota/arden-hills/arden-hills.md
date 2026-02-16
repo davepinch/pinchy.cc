@@ -6,10 +6,13 @@ borders clockwise from north:
   - New Brighton, Minnesota
   - Interstate 35W (Minnesota)
   - Mounds View, Minnesota
-city of: Ramsey County, Minnesota
+city of:
+  - Ramsey County, Minnesota
+  - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136614"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q519815"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Arden_Hills,_Minnesota"
 tags:
   - city
   - suburb

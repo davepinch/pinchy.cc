@@ -8,7 +8,9 @@ borders:
   - Saint Paul, Minnesota
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/15804725"
-unorganized territory of: Hennepin County, Minnesota
+unorganized territory of:
+  - Hennepin County, Minnesota
+  - Minnesota
 tags:
   - unincorporated area
 ---

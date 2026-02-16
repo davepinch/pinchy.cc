@@ -8,11 +8,14 @@ borders:
   - Mounds View, Minnesota
   - Roseville, Minnesota
   - Saint Anthony Village, Minnesota
-city of: Ramsey County, Minnesota
+city of:
+  - Ramsey County, Minnesota
+  - Minnesota
 official website: "https://www.newbrightonmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136625"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q1986542"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:New_Brighton,_Minnesota"
 tags:
   - city
   - suburb

@@ -12,10 +12,13 @@ borders:
   - Saint Paul, Minnesota
   - Saint Anthony Village, Minnesota
   - Shoreview, Minnesota
-city of: Ramsey County, Minnesota
+city of:
+  - Ramsey County, Minnesota
+  - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136616"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q983979"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Roseville,_Minnesota"
 tags:
   - city
   - suburb

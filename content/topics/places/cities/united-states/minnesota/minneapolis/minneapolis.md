@@ -10,10 +10,12 @@ borders:
   - incomplete list
 city of:
   - Hennepin County, Minnesota
+  - Minnesota
   - Twin Cities
   - Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/136712"
 wikidata: "https://www.wikidata.org/entity/Q36091"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Minneapolis"
 tags:
   - city
 ---

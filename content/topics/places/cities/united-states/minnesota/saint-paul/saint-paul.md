@@ -16,10 +16,12 @@ borders:
   - West St. Paul, Minnesota
 city of:
   - Ramsey County, Minnesota
+  - Minnesota
   - Twin Cities
   - Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/136612"
 wikidata: "https://www.wikidata.org/entity/Q28848"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Saint_Paul,_Minnesota"
 tags:
   - city
 ---

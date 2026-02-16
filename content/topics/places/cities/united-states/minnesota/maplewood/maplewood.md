@@ -12,10 +12,12 @@ borders:
   - White Bear Lake, Minnesota
 city of:
   - Ramsey County, Minnesota
+  - Minnesota
   - Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/136631"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q990856"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Maplewood,_Minnesota"
 tags:
   - city
   - suburb
