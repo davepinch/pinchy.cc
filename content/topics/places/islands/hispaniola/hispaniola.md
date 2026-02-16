@@ -6,6 +6,7 @@ island of:
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/3478916"
 wikidata: "https://www.wikidata.org/wiki/Q25277"
+wikimedia: "https://commons.wikimedia.org/wiki/Hispaniola"
 tags:
   - island
 ---
