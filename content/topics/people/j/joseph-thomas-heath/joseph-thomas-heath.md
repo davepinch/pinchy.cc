@@ -1,6 +1,5 @@
 ---
 title: "Joseph Thomas Heath"
-type: person
 tags:
   - farmer
   - human being

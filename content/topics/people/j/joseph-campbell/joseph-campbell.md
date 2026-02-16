@@ -1,7 +1,8 @@
 ---
 title: "Joseph Campbell"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q295516"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Joseph_Campbell"
+wikiquote: "https://en.wikiquote.org/wiki/Joseph_Campbell"
 tags:
   - American
   - professor

@@ -1,7 +1,8 @@
 ---
 title: "John Cage"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q180727"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:John_Cage"
+wikiquote: "https://en.wikiquote.org/wiki/John_Cage"
 tags:
   - avant-garde
   - composer
