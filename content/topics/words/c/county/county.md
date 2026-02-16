@@ -6,6 +6,7 @@ tag requires property:
   - official website
   - OpenStreetMap
   - Wikidata
+  - Wikimedia
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q28575"
 tags:
