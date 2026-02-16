@@ -6,6 +6,7 @@ early settler of:
   - Minnesota
 wikidata: "https://www.wikidata.org/wiki/Q5344843"
 tags:
+  - Irish
   - American
   - human being
   - dead at the moment
