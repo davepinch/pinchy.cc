@@ -1,0 +1,13 @@
+---
+title: "Edward Phelan (Wikipedia)"
+excerpt: >-
+  **Edward Phelan**, also **Phalen** or **Felyn** (c.1811–1850), was an early settler of Saint Paul, Minnesota. Phelan was born in approximately 1811 in Derry, Ireland and later became, along with John Hays and William Evans, one of the first settlers of Saint Paul. Phelan was later accused of Hays' murder, the first ever in Saint Paul, but was acquitted. He was indicted for perjury a year later but fled to California before he could be prosecuted. Phelan was killed by his companions in what they describe as self-defense before he could reach California. Many locations in Saint Paul, Minnesota are named after Phelan as a result of his early land claims. Phelan's name was spelled variously and as a result most locations are named Phalen and not Phelan.
+license: CC BY-SA 4.0
+retrieved: 2026-02-15
+type: website
+url: /en.wikipedia.org/wiki/Edward_Phelan/
+website: "https://en.wikipedia.org/wiki/Edward_Phelan"
+wikipedia of: Edward Phelan
+tags:
+  - Wikipedia
+---
