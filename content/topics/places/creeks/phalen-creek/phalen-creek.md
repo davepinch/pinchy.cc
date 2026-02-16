@@ -6,6 +6,7 @@ creek of:
   - Ramsey County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/19761242"
+tributary of: Mississippi River
 tags:
   - creek
   - no Wikidata record
