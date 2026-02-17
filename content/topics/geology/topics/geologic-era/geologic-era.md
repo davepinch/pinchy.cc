@@ -4,6 +4,7 @@ plural: geologic eras
 tag requires property:
   - geologic era of
   - Wikidata
+  - Wikimedia
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q630830"
 ---
