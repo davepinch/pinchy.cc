@@ -2,7 +2,9 @@
 title: "oxygen of Mesoarchean (Wikipedia)"
 ✂️: "Cyanobacteria produced oxygen gas, but oxygen did not begin to accumulate in the atmosphere until later in the Archean."
 license: CC BY-SA 4.0
-mesoarchean of: oxygen
+mesoarchean of:
+  - oxygen
+  - Cyanobacteriota
 oxygen of:
   - Mesoarchean
   - Archean
