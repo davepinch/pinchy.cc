@@ -1,5 +1,5 @@
 ---
-title: "birth of Edward Phelan (Wikipedia)"
+title: "appearance of Edward Phelan (Wikipedia)"
 ✂️: >-
   A military report described him [Edward Phelan] as having, "gray eyes, brown hair, fair complexion and was six feet two and one-half inches high". (1.89 m)
 appearance of: Edward Phelan
