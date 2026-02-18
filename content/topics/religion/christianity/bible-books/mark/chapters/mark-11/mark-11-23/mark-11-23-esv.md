@@ -1,0 +1,12 @@
+---
+title: "Mark 11:23 ESV"
+➡️: "Mark 11:24 ESV"
+cross-reference:
+  - "Matthew 17:20 ESV"
+English Standard Version of: "Mark 11:23"
+verse: >-
+  Truly, I say to you, whoever says to this mountain, ‘Be taken up and thrown into the sea,’ and does not doubt in his heart, but believes that what he says will come to pass, it will be done for him.
+type: verse
+tags:
+  - verse
+---
