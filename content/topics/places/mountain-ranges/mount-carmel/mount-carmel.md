@@ -10,7 +10,6 @@ place of:
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q185318"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Carmel"
-wikipedia: "https://en.wikipedia.org/wiki/Mount_Carmel"
 tags:
   - hill chain
 ---
