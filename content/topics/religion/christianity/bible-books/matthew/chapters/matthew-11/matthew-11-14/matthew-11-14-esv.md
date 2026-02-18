@@ -1,6 +1,7 @@
 ---
 title: "Matthew 11:14 ESV"
 cross-reference:
+  - "Luke 1:17 ESV"
   - "Malachi 4:5 ESV"
 English Standard Version of: "Matthew 11:14"
 type: verse

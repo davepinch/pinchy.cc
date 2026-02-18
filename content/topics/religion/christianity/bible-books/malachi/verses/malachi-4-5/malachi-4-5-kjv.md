@@ -1,6 +1,7 @@
 ---
 title: "Malachi 4:5 KJV"
 cross-reference:
+  - "Luke 1:17 KJV"
   - "Matthew 11:14 KJV"
 King James Version of: "Malachi 4:5"
 type: verse

@@ -1,6 +1,7 @@
 ---
 title: "Matthew 11:14"
 cross-reference:
+  - "Luke 1:17"
   - "Malachi 4:5"
 verse of:
   - Matthew 11
