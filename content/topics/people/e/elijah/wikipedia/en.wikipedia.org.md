@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-02-18
 type: website
+url: /en.wikipedia.org/wiki/Elijah/
 website: "https://en.wikipedia.org/wiki/Elijah"
 wikipedia of: Elijah
 tags:
