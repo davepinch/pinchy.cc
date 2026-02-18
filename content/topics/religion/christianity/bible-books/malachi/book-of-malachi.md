@@ -6,5 +6,5 @@ book of:
 last book of: Old Testament
 wikidata: "https://www.wikidata.org/wiki/Q51675"
 tags:
-  - Book of the Bible
+  - book of the Bible
 ---

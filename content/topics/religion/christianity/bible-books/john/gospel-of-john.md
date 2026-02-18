@@ -5,5 +5,5 @@ book of:
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q36766"
 tags:
-  - Book of the Bible
+  - book of the Bible
 ---

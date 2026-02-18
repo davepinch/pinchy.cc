@@ -5,5 +5,5 @@ book of:
   - Bible
 next in the old testament: Ecclesiastes
 tags:
-  - Book of the Bible
+  - book of the Bible
 ---

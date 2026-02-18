@@ -6,5 +6,5 @@ book of:
 wikidata: "https://www.wikidata.org/wiki/Q1975029"
 wikipedia: "https://en.wikipedia.org/wiki/1_Samuel"
 tags:
-  - Book of the Bible
+  - book of the Bible
 ---

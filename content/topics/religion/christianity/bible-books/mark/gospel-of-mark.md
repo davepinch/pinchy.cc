@@ -5,5 +5,5 @@ book of:
   - Bible
 next: "Mark 1:1"
 tags:
-  - Book of the Bible
+  - book of the Bible
 ---

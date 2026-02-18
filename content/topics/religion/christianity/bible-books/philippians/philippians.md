@@ -6,6 +6,5 @@ book of:
 letter of: Paul the Apostle
 wikidata: "https://www.wikidata.org/wiki/Q51613"
 tags:
-  - Book of the Bible
-  - Bible
+  - book of the Bible
 ---

@@ -4,5 +4,5 @@ book of:
   - New Testament
   - Bible
 tags:
-  - Book of the Bible
+  - book of the Bible
 ---

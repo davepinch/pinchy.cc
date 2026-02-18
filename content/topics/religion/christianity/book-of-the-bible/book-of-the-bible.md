@@ -1,5 +1,5 @@
 ---
-title: "Book of the Bible"
+title: "book of the Bible"
 book of: Bible
 tag requires property:
   - book of

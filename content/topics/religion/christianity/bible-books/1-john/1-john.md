@@ -8,5 +8,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:First_Epistle_of_John"
 wikiquote: "https://en.wikiquote.org/wiki/First_Epistle_of_John"
 wikisource: "https://en.wikisource.org/wiki/1_John"
 tags:
-  - Book of the Bible
+  - book of the Bible
 ---
