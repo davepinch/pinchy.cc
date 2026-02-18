@@ -7,6 +7,7 @@ person of:
 wikidata: "https://www.wikidata.org/wiki/Q133507"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Elijah_(Biblical_figure)"
 wikipedia: "https://en.wikipedia.org/wiki/Elijah"
+wikiquote: "https://en.wikiquote.org/wiki/Elijah"
 wikisource: "https://en.wikisource.org/wiki/Author:Elijah"
 tags:
   - Biblical prophet
