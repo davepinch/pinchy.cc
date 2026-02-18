@@ -4,6 +4,7 @@ plural: geologic periods
 tag requires property:
   - geologic period of
   - Wikidata
+  - Wikimedia
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q392928"
 ---
