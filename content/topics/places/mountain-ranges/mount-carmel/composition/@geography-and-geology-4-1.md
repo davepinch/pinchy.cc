@@ -8,7 +8,6 @@ formation of:
   - limestone
   - flint
 license: CC BY-SA 4.0
-size of: Mount Carmel
 snippet of: Mount Carmel (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Mount_Carmel/@geography-and-geology-4-1/
