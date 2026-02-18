@@ -13,6 +13,7 @@ county of: Washington
 official website: "https://www.okanogancounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153069"
 wikidata: "https://www.wikidata.org/wiki/Q483958"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Okanogan_County,_Washington"
 tags:
   - county
 ---

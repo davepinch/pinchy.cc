@@ -16,6 +16,7 @@ official website: "https://www.co.kittitas.wa.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153345"
 westbound on interstate 90: King County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q111540"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Kittitas_County,_Washington"
 tags:
   - county
 ---

@@ -9,6 +9,7 @@ county of: Washington
 official website: "https://douglascountywa.net/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153555"
 wikidata: "https://www.wikidata.org/wiki/Q156220"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Douglas_County,_Washington"
 tags:
   - county
 ---

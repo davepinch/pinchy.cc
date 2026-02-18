@@ -12,6 +12,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/1153325"
 reddit: "https://www.reddit.com/r/clarkcountywa/"
 southbound on interstate 5: Oregon
 wikidata: "https://www.wikidata.org/wiki/Q156287"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Clark_County,_Washington"
 tags:
   - county
 ---

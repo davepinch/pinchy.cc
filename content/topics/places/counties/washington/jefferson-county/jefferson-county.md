@@ -15,6 +15,7 @@ namesake of: Thomas Jefferson
 official website: "https://www.co.jefferson.wa.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153701"
 wikidata: "https://www.wikidata.org/wiki/Q384737"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Jefferson_County,_Washington"
 tags:
   - county
 ---

@@ -18,6 +18,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/1153766"
 reddit: "https://www.reddit.com/r/SnohomishCounty/"
 southbound on interstate 5: King County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q110403"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Snohomish_County,_Washington"
 tags:
   - county
 ---

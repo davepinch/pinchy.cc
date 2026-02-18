@@ -13,6 +13,7 @@ westernmost county of:
   - Washington
   - contiguous United States
 wikidata: "https://www.wikidata.org/wiki/Q156306"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Clallam_County,_Washington"
 tags:
   - county
 ---

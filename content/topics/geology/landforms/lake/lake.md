@@ -11,6 +11,7 @@ tag requires property:
   - Wikidata
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q23397"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lakes"
 tags:
   - water
   - landform

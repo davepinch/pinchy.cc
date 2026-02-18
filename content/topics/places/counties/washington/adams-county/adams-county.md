@@ -11,6 +11,7 @@ official website: "https://www.co.adams.wa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153148"
 westbound on interstate 90: Grant County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q156273"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Adams_County,_Washington"
 tags:
   - county
 ---

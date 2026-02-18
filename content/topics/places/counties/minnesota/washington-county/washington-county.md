@@ -8,6 +8,7 @@ county seat: Stillwater, Minnesota
 official website: "https://www.washingtoncountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795861"
 wikidata: "https://www.wikidata.org/wiki/Q485408"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_County,_Minnesota"
 tags:
   - county
 ---

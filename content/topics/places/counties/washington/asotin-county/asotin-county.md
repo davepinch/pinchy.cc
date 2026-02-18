@@ -9,6 +9,7 @@ county of: Washington
 official website: "https://www.asotincountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150372"
 wikidata: "https://www.wikidata.org/wiki/Q156295"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Asotin_County,_Washington"
 tags:
   - county
 ---

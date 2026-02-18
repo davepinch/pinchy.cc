@@ -11,6 +11,7 @@ county of: Washington
 official website: "https://www.bentoncountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1152564"
 wikidata: "https://www.wikidata.org/wiki/Q156216"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Benton_County,_Washington"
 tags:
   - county
 ---

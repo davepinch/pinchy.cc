@@ -4,6 +4,7 @@ title: "Cisuralian"
 geologic epoch of: Permian
 ⬅ previous subperiod: Pennsylvanian
 wikidata: "https://www.wikidata.org/wiki/Q642169"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cisuralian"
 tags:
   - geologic epoch
 ---

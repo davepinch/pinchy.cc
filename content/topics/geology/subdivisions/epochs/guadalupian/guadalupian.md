@@ -4,6 +4,7 @@ title: "Guadalupian"
 ➡️: Lopingian
 geologic epoch of: Permian
 wikidata: "https://www.wikidata.org/wiki/Q1077376"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Guadalupian"
 tags:
   - geologic epoch
 ---

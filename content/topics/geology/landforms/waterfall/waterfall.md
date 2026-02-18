@@ -11,6 +11,7 @@ tag requires property:
   - Wikidata
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q34038"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Waterfalls"
 tags:
   - fluvial landform
   - landform

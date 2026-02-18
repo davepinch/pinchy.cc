@@ -13,6 +13,7 @@ county of: Washington
 official website: "https://www.whitmancounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150529"
 wikidata: "https://www.wikidata.org/wiki/Q484153"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Whitman_County,_Washington"
 tags:
   - county
 ---

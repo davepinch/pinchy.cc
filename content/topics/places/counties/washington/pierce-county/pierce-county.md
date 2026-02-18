@@ -18,6 +18,7 @@ official website: "https://www.piercecountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153347"
 southbound on interstate 5: Thurston County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q156459"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Pierce_County,_Washington"
 tags:
   - county
 ---

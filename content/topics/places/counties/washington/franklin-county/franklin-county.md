@@ -12,6 +12,7 @@ namesake of: Benjamin Franklin
 official website: "https://www.franklincountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150531"
 wikidata: "https://www.wikidata.org/wiki/Q118716"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Franklin_County,_Washington"
 tags:
   - county
 ---

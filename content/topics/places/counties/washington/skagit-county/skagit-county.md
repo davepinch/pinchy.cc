@@ -21,6 +21,7 @@ roadways:
   - Washington State Route 20
 southbound on interstate 5: Snohomish County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q113892"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Skagit_County,_Washington"
 tags:
   - county
 ---

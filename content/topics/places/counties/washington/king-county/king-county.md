@@ -19,6 +19,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/1153346"
 southbound on interstate 5: Pierce County, Washington
 westbound on interstate 90: Seattle
 wikidata: "https://www.wikidata.org/wiki/Q108861"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:King_County,_Washington"
 tags:
   - county
 ---
