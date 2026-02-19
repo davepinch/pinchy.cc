@@ -1,7 +1,9 @@
 ---
 title: "Saint Timothy"
 companion of: Paul the Apostle
-type: person
+person of:
+  - New Testamant
+  - Bible
 wikidata: "https://www.wikidata.org/wiki/Q212647"
 tags:
   - Christian
