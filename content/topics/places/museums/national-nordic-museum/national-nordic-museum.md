@@ -1,5 +1,16 @@
 ---
 title: "National Nordic Museum"
+learn about Nordic culture in:
+  - Åland
+  - Denmark
+  - Estonia
+  - Faroe Islands
+  - Finland
+  - Greenland
+  - Iceland
+  - Norway
+  - Sápmi
+  - Sweden
 museum of:
   - Ballard, Seattle
   - Adams, Seattle

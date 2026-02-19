@@ -11,7 +11,6 @@ country of:
   - Europe
   - Baltic Sea
   - Atlantic Ocean
-learn about nordic culture: National Nordic Museum
 openstreetmap: "https://www.openstreetmap.org/relation/52822"
 wikidata: "https://www.wikidata.org/wiki/Q34"
 tags:

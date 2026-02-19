@@ -10,7 +10,6 @@ country of:
   - Northern Europe
   - Europe
   - Atlantic Ocean
-learn about nordic culture: National Nordic Museum
 openstreetmap: "https://www.openstreetmap.org/relation/2978650"
 wikidata: "https://www.wikidata.org/wiki/Q20"
 tags:
