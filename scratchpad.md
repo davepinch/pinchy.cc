@@ -1,6 +1,10 @@
 ---
 title: "Scratchpad"
 draft: true
+---
+
+2/18
+https://en.wikipedia.org/wiki/James_Sligo_Jameson
 
 ---
 12/9
