@@ -1,6 +1,6 @@
 ---
 title: "potassium iodide"
-compound of:
+chemical compound of:
   - potassium
   - iodine
 tags:
