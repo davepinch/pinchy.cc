@@ -1,10 +1,13 @@
 ---
 title: "sodium hydroxide"
-compound of:
+chemical compound of:
   - sodium
   - hydrogen
   - oxygen
+wikidata: "https://www.wikidata.org/wiki/Q102769"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sodium_hydroxide"
+wikipedia: "https://en.wikipedia.org/wiki/Sodium_hydroxide"
 tags:
   - ionic compound
-  - chemistry
+  - chemical compound
 ---
