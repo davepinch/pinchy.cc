@@ -1,6 +1,6 @@
 ---
 title: "water"
-compound of:
+chemical compound of:
   - hydrogen
   - oxygen
 tags:
