@@ -9,6 +9,8 @@ season of:
   - snow
   - ice
 wikidata: "https://www.wikidata.org/wiki/Q1311"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Winter"
+wikiquote: "https://en.wikiquote.org/wiki/Winter"
 tags:
   - season
 ---
