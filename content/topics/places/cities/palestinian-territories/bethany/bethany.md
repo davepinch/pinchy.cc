@@ -2,7 +2,7 @@
 title: "Bethany"
 city of:
   - West Bank
-  - Palestinian Territories
+  - Palestinian territories
   - New Testament
   - Bible
   - Christianity
