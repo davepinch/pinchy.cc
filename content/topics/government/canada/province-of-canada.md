@@ -6,6 +6,7 @@ tag requires property:
   - OpenStreetMap
   - province of
   - Wikidata
+  - Wikimedia
   - Wikipedia
 type of administrative division of: Canada
 wikidata: "https://www.wikidata.org/wiki/Q11828004"
