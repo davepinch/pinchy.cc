@@ -13,6 +13,7 @@ borders:
 openstreetmap: "https://www.openstreetmap.org/relation/390841"
 province of: Canada
 wikidata: "https://www.wikidata.org/wiki/Q1948"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Manitoba"
 tags:
   - province of Canada
 ---

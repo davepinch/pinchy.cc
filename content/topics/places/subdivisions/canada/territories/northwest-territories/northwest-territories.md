@@ -9,6 +9,7 @@ borders:
   - Yukon
 southeast corner: Manitoba
 territory of: Canada
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Northwest_Territories"
 tags:
   - province
 ---

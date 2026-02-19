@@ -21,6 +21,7 @@ up the coast:
   - Alberta
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1973"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:British_Columbia"
 tags:
   - province of Canada
 ---
