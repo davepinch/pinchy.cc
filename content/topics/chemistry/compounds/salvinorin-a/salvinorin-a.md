@@ -10,4 +10,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Salvinorin_A"
 tags:
   - dissociative
   - drug
+  - chemical compound
 ---
