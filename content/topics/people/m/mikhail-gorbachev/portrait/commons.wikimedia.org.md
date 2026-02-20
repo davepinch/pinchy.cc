@@ -1,6 +1,7 @@
 ﻿---
 title: "RIAN archive 850809 General Secretary of the CPSU CC M. Gorbachev.jpg (Wikimedia Commons)"
 author: Vladimir Vyatkin / Владимир Вяткин
+illustration of: Mikhail Gorbachev (Wikipedia)
 license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/91/RIAN_archive_850809_General_Secretary_of_the_CPSU_CC_M._Gorbachev.jpg"
 portrait of: Mikhail Gorbachev
