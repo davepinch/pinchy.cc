@@ -7,6 +7,7 @@ spit of:
   - Washington
   - Strait of Juan de Fuca
 wikidata: "https://www.wikidata.org/wiki/Q5338765"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ediz_Hook"
 tags:
   - spit (landform)
 ---
