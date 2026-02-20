@@ -9,5 +9,6 @@ star of:
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q683605"
 tags:
+  - red dwarf
   - star
 ---
