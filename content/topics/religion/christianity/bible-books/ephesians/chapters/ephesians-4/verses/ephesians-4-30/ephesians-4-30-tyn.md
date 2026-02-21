@@ -1,8 +1,9 @@
 ---
 title: "Ephesians 4:30 TYN"
+➡️: "Ephesians 4:31 TYN"
+⬅️: "Ephesians 4:29 TYN"
 Tyndale Bible of: "Ephesians 4:30"
-verse: >-
-  And greve not the holy sprete of God by whome ye are sealed vnto the daye of redempcion.
+verse: "And greve not the holy sprete of God by whome ye are sealed vnto the daye of redempcion."
 type: verse
 tags:
   - verse
