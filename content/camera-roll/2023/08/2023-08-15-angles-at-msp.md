@@ -1,5 +1,6 @@
 ---
 title: "Angles at MSP"
+airport of: looking up
 license: CC BY-SA 4.0
 photograph of:
   - Minneapolis–Saint Paul International Airport
@@ -13,5 +14,4 @@ type: picture
 when: 2023-08-15
 tags:
   - photograph
-  - looking up
 ---
