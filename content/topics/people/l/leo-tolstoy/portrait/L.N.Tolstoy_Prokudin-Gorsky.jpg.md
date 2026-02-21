@@ -1,6 +1,5 @@
 ---
 title: "L.N.Tolstoy Prokudin-Gorsky.jpg (Wikimedia Commons)"
-author: Sergei Prokudin-Gorskii
 caption: "Leo Tolstoy in Yasnaya Polyana, 1908, the first color photo portrait in Russia"
 illustration of: Leo Tolstoy (Wikipedia)
 license: public domain
@@ -13,6 +12,7 @@ type: picture
 url: /commons.wikimedia.org/wiki/L.N.Tolstoy_Prokudin-Gorsky.jpg/
 website: "https://commons.wikimedia.org/wiki/File:L.N.Tolstoy_Prokudin-Gorsky.jpg"
 when: 1908-05-23
+work of: Sergey Prokudin-Gorsky
 tags:
   - photograph
 ---
