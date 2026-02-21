@@ -19,6 +19,7 @@ city of:
   - Minnesota
   - Twin Cities
   - Interstate 94
+namesake of: Paul the Apostle
 openstreetmap: "https://www.openstreetmap.org/relation/136612"
 wikidata: "https://www.wikidata.org/entity/Q28848"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Saint_Paul,_Minnesota"
