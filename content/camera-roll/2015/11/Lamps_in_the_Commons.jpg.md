@@ -12,6 +12,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/b/b9/Lamps_in_the_Commo
 related: Microsoft campus (Wikipedia)
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Lamps_in_the_Commons.jpg/330px-Lamps_in_the_Commons.jpg"
 TODO: When redirects are implemented, change to a standard URL for Wikimedia-hosted pictures.
+type: picture
 url: /lamps-in-the-commons/
 website: "https://commons.wikimedia.org/wiki/File:Lamps_in_the_Commons.jpg"
 when: 2015-11-11
