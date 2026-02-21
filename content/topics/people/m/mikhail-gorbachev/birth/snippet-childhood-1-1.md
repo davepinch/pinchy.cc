@@ -1,5 +1,6 @@
 ---
-title: "Gorbachev was born on 2 March 1931 in the village of Privolnoye, then in the North Caucasus Krai of the Russian Soviet Federative Socialist Republic, Soviet Union."
+title: "birth of Mikhail Gorbachev (Wikipedia)"
+✂️: "Gorbachev was born on 2 March 1931 in the village of Privolnoye, then in the North Caucasus Krai of the Russian Soviet Federative Socialist Republic, Soviet Union."
 birth of: Mikhail Gorbachev
 born in:
   - Soviet Union
