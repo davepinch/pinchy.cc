@@ -4,6 +4,7 @@ borders: Yerba Buena Gardens
 building of: San Francisco
 openstreetmap: "https://www.openstreetmap.org/way/32963425"
 wikidata: "https://www.wikidata.org/wiki/Q7590915"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:St._Patrick%27s_Catholic_Church_(San_Francisco)"
 tags:
   - church
   - building

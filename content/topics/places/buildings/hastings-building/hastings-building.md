@@ -1,6 +1,8 @@
 ---
 title: "Hastings Building"
-building of: Port Townsend, Washington
+building of:
+  - Port Townsend, Washington
+  - Jefferson County, Washington
 official website: "https://www.hastingsestate.com/hastingsestate.com/Hastings_Building.html"
 openstreetmap: "https://www.openstreetmap.org/way/236424773"
 wikidata: "https://www.wikidata.org/wiki/Q63286184"

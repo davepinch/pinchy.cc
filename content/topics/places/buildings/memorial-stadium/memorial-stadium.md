@@ -5,6 +5,7 @@ building of:
   - Seattle Center
   - Seattle
 wikidata: "https://www.wikidata.org/wiki/Q6588210"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:High_School_Memorial_Stadium_(Seattle)"
 wikipedia: "https://en.wikipedia.org/wiki/Memorial_Stadium_(Seattle)"
 tags:
   - stadium

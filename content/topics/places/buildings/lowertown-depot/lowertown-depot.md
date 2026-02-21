@@ -11,5 +11,6 @@ tags:
   - building
   - urban exploration
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

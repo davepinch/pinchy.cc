@@ -1,4 +1,4 @@
 ---
 title: "Washington State Convention Center"
-building of: Seattle
+alternate name of: Seattle Convention Center
 ---

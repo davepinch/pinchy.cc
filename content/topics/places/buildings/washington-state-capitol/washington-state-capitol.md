@@ -4,6 +4,7 @@ building of: Olympia, Washington
 capitol building of: Washington
 openstreetmap: "https://www.openstreetmap.org/way/31494476"
 wikidata: "https://www.wikidata.org/wiki/Q2620186"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_State_Capitol"
 tags:
   - building
 ---

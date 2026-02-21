@@ -6,6 +6,7 @@ nuclear reactor of:
   - Manhattan Project
 openstreetmap: "https://www.openstreetmap.org/way/113926179"
 wikidata: "https://www.wikidata.org/wiki/Q2472490"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Hanford_B_Reactor"
 tags:
   - nuclear reactor
 ---

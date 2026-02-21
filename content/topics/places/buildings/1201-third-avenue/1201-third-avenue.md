@@ -8,6 +8,7 @@ skyscraper of:
   - King County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q2301069"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:1201_Third_Avenue_Tower"
 tags:
   - skyscraper
 ---

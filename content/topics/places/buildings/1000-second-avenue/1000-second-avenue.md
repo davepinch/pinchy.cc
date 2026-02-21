@@ -10,6 +10,7 @@ skyscraper of:
   - King County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q780751"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:1000_Second_Avenue"
 wikipedia: "https://en.wikipedia.org/wiki/1000_Second_Avenue"
 tags:
   - skyscraper

@@ -11,6 +11,7 @@ skyscraper of:
   - King County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q3132927"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Henry_M._Jackson_Federal_Building"
 wikipedia: "https://en.wikipedia.org/wiki/Henry_M._Jackson_Federal_Building"
 tags:
   - skyscraper

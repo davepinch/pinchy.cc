@@ -5,6 +5,7 @@ building of:
   - Capitol Hill, Seattle
 openstreetmap: "https://www.openstreetmap.org/way/264999617"
 wikidata: "https://www.wikidata.org/wiki/Q4996957"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bullitt_Center"
 tags:
   - building
 ---

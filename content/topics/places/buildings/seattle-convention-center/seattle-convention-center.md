@@ -9,6 +9,7 @@ official website: "https://seattleconventioncenter.com/"
 openstreetmap: https://www.openstreetmap.org/way/13866261
 openstreetmap (Summit building): https://www.openstreetmap.org/way/891389327
 wikidata: "https://www.wikidata.org/wiki/Q7972232"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Seattle_Convention_Center"
 tags:
   - building
 ---

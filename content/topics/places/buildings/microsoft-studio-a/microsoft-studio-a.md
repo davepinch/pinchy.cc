@@ -8,5 +8,6 @@ openstreetmap: "https://www.openstreetmap.org/way/135576078"
 tags:
   - building
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---
