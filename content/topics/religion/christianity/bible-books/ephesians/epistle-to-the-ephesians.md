@@ -1,7 +1,7 @@
 ---
 title: "Epistle to the Ephesians"
 book of:
-  - Pauline epistle
+  - Pauline epistles
   - New Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q408673"
