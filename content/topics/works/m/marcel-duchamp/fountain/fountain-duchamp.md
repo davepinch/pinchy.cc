@@ -6,5 +6,6 @@ art of:
 not to be confused with: fountain
 sculpture of: Marcel Duchamp
 tags:
+  - avant-garde
   - sculpture
 ---
