@@ -4,10 +4,10 @@ title: >-
 attribution: "Editorial in the 2nd edition of *The Blind Man*"
 citation: >-
   Wikipedia contributors. (2024, May 2). Fountain (Duchamp). In *Wikipedia, The Free Encyclopedia*. Retrieved May 7, 2024, from https://en.wikipedia.org/w/index.php?title=Fountain_(Duchamp)&oldid=1221884150
+editorial: Fountain (Duchamp)
 related: Marcel Duchamp, 1917, Fountain, photograph by Alfred Stieglitz.jpg (Wikimedia Commons)
 type: quote
 tags:
-  - Fountain (Duchamp)
   - The Blind Man
   - fountain
   - quote
