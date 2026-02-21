@@ -1,6 +1,7 @@
 ---
 title: "Epistle to the Romans"
 book of:
+  - Pauline epistles
   - New Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q48203"

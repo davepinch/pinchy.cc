@@ -1,6 +1,7 @@
 ---
 title: "2 Thessalonians"
 book of:
+  - Pauline epistles
   - New Testamant
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q131107"

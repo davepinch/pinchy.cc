@@ -1,6 +1,7 @@
 ---
 title: "Epistle to the Philippians"
 book of:
+  - Pauline epistles
   - New Testament
   - Bible
 letter of: Paul the Apostle

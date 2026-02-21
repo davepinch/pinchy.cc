@@ -1,6 +1,7 @@
 ---
 title: "Epistle to the Galatians"
 book of:
+  - Pauline epistles
   - New Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q128620"

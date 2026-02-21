@@ -1,6 +1,7 @@
 ---
 title: "First Epistle to Timothy"
 book of:
+  - Pauline epistles
   - New Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q131180"

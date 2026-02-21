@@ -1,6 +1,7 @@
 ---
 title: "Epistle to the Hebrews"
 book of:
+  - Pauline epistles
   - New Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q128608"

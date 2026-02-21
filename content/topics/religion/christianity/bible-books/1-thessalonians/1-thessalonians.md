@@ -1,6 +1,7 @@
 ---
 title: "1 Thessalonians"
 book of:
+  - Pauline epistles
   - New Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q131115"
