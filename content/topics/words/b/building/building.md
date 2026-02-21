@@ -8,5 +8,6 @@ tag requires property:
   - building of
   - OpenStreetMap
   - Wikidata
+  - Wikimedia
   - Wikipedia
 ---
