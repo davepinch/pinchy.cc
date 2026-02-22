@@ -6,7 +6,7 @@ citation: >-
 co-author of:
   - Saint Timothy
   - "2 Corinthians"
-  - Philippians
+  - Epistle to the Philippians
   - Epistle to the Colossians
   - "1 Thessalonians"
   - "2 Thessalonians"
