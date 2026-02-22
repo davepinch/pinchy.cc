@@ -15,6 +15,7 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/969197373"
   - "https://www.openstreetmap.org/way/969197372"
 wikidata: "https://www.wikidata.org/wiki/Q7440537"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Seal_Rocks"
 tags:
   - rock
   - island
