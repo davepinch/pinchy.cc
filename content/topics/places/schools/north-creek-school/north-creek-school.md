@@ -7,6 +7,7 @@ building of:
 openstreetmap: "https://www.openstreetmap.org/way/651812831"
 school of: North Creek
 wikidata: "https://www.wikidata.org/wiki/Q7054970"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:North_Creek_Schoolhouse"
 tags:
   - building
 ---
