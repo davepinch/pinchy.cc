@@ -5,6 +5,7 @@ mountain of:
   - Olympic National Park
   - Olympic Peninsula
   - Washington
+openstreetmap: "https://www.openstreetmap.org/node/348997372"
 vantage point of: Strait of Juan de Fuco
 vicinity of: Port Angeles, Washington
 wikidata: "https://www.wikidata.org/wiki/Q6919406"
