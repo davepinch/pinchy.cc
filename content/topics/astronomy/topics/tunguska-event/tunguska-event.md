@@ -1,5 +1,5 @@
 ---
-title: "Tunguska Event"
+title: "Tunguska event"
 air burst of:
   - meteor
   - Russia
