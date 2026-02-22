@@ -10,7 +10,5 @@ type: snippet
 url: /en.wikipedia.org/wiki/Jasper/types-1-1/
 tags:
   - opaque
-  - rock
-  - mineral
   - snippet
 ---
