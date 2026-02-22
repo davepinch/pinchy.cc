@@ -5,7 +5,7 @@ ridge of:
   - Olympic Peninsula
   - Olympic National Park
   - Washington
-vantage point of: Strait of Juan de Fuco
+vantage point of: Strait of Juan de Fuca
 vicinity of: Port Angeles, Washington
 wikidata: "https://www.wikidata.org/wiki/Q6419591"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Klahhane_Ridge"
