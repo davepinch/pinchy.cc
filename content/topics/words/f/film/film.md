@@ -4,4 +4,5 @@ plural: films
 tag requires property:
   - Wikidata
   - Wikipedia
+  - Wikiquote
 ---
