@@ -10,8 +10,5 @@ strike a path to jasper: rock
 type: snippet
 url: /en.wikipedia.org/wiki/Bedrock/definition-1-3/
 tags:
-  - bedrock
-  - rock
-  - soil
   - snippet
 ---
