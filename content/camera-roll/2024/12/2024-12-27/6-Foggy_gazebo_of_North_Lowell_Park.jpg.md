@@ -7,7 +7,7 @@ photograph of:
   - fog
   - gazebo
   - ice
-  - footprints
+  - footprint
   - river
   - snow
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Foggy_gazebo_of_North_Lowell_Park.jpg"
