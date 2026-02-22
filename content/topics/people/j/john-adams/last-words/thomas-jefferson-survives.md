@@ -8,5 +8,6 @@ last words of: John Adams
 type: quote
 when: 1826-07-04
 tags:
+  - last words
   - quote
 ---

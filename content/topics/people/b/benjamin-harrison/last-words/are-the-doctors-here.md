@@ -5,5 +5,6 @@ last words of: Benjamin Harrison
 type: quote
 when: 1901-03-13
 tags:
+  - last words
   - quote
 ---

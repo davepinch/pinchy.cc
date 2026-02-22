@@ -7,6 +7,7 @@ last words of: Hans Hermann von Katte
 type: quote
 when: 1730-11-06
 tags:
+  - last words
   - death
   - execution
   - Frederick the Great

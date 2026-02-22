@@ -7,6 +7,7 @@ Greek: Καὶ σύ, τέκνον
 last words of: Julius Caesar
 type: quote
 tags:
+  - last words
   - quote
 ---
 > Reported as Caesar's last words, spoken to Marcus Junius Brutus, as recorded in Divus Iulius by Suetonius, paragraph 82; this gave rise to William Shakespeare's famous adaptation in Julius Caesar: "Et tu, Brute? — Then fall, Caesar!"

@@ -12,5 +12,6 @@ related: >-
 type: quote
 when: 1971-01-09
 tags:
+  - last words
   - quote
 ---
