@@ -8,6 +8,6 @@ tags:
   - singer
   - musician
   - songwriter
-  - assassinated
   - human being
+  - dead at the moment
 ---
