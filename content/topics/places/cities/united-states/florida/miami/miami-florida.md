@@ -2,6 +2,7 @@
 title: "Miami, Florida"
 city of: Florida
 official website: "https://www.miami.gov"
+openstreetmap: "https://www.openstreetmap.org/relation/1216769"
 wikidata: "https://www.wikidata.org/wiki/Q8652"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Miami,_Florida"
 wikipedia: "https://en.wikipedia.org/wiki/Miami"
