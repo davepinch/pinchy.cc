@@ -10,7 +10,7 @@ co-author of:
   - Epistle to the Colossians
   - "1 Thessalonians"
   - "2 Thessalonians"
-  - Philemon
+  - Epistle to Philemon
 snippet of: Saint Timothy (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Saint_Timothy/ministry-4-2/
