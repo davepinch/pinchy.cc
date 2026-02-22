@@ -2,7 +2,7 @@
 title: "2 Thessalonians"
 book of:
   - Pauline epistles
-  - New Testamant
+  - New Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q131107"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Second_Epistle_to_the_Thessalonians"
