@@ -5,5 +5,6 @@ opposite: aphanite
 wikidata: "https://www.wikidata.org/wiki/Q2754959"
 tags:
   - igneous rock
-  - geology
+  - rock
+  - no Wikimedia category
 ---

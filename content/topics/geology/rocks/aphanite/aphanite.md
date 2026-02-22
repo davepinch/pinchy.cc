@@ -1,7 +1,10 @@
 ---
 title: "aphanite"
-strike a path to jasper: Aphanite (Wikipedia)
 opposite: phanerite
+strike a path to jasper: Aphanite (Wikipedia)
+wikidata: "https://www.wikidata.org/wiki/Q618416"
 tags:
-- geology
+  - igneous rock
+  - rock
+  - no Wikimedia category
 ---

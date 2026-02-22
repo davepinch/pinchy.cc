@@ -6,6 +6,7 @@ tag requires property:
   - Wikidata
   - Wikimedia
   - Wikipedia
+wikidata: "https://www.wikidata.org/wiki/Q8063"
 tags:
   - geology
 ---
