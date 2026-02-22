@@ -8,7 +8,7 @@ death of: Bob Marley
 died in: Miami, Florida
 snippet of: Bob Marley (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Bob_Marley/
+url: /en.wikipedia.org/wiki/Bob_Marley/@death-1-1/
 when: 1981-05-11
 tags:
   - snippet
