@@ -8,5 +8,6 @@ type: quote
 url: /on-your-way-up-take-me-up/
 when: 1981-05-11
 tags:
+  - last words
   - quote
 ---
