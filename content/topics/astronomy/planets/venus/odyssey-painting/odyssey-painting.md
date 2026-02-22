@@ -7,7 +7,7 @@ painting in Odyssey magazine of:
   - Venus
   - Stillwater, Minnesota
 picture: content/topics/astronomy/planets/venus/odyssey-painting/odyssey-painting-venus-microfilm.jpg
-type: pictue
+type: picture
 when: 2025-11-05
 tags:
   - artist unknown
