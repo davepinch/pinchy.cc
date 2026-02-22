@@ -1,7 +1,9 @@
 ---
 title: "Wikipedia"
 non-existence tag: no Wikipedia article
-see also: Wikidata
+see also:
+  - Wikidata
+  - Wikimedia
 tag requires property:
   - excerpt
   - license
