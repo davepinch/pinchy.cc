@@ -3,6 +3,11 @@ title: "Scratchpad"
 draft: true
 ---
 
+2/22/26
+https://milk.com/wall-o-shame/security_clearance.html
+Also on Hacker News 
+
+
 2/18
 https://en.wikipedia.org/wiki/James_Sligo_Jameson
 
