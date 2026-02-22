@@ -8,6 +8,7 @@ ridge of:
   - Washington
 westbound on Interstate 82: Vanderbilt Gap
 wikidata: "https://www.wikidata.org/wiki/Q6747041"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Manastash_Ridge"
 wsdot weather: "https://wsdot.com/travel/real-time/mountainpasses/manastash-ridge"
 tags:
   - ridge
