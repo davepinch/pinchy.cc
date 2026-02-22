@@ -14,4 +14,5 @@ wikipedia: "https://en.wikipedia.org/wiki/1984_(advertisement)"
 tags:
   - advertisement
   - film
+  - no Wikiquote page
 ---
