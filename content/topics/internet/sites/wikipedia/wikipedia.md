@@ -4,6 +4,7 @@ non-existence tag: no Wikipedia article
 see also:
   - Wikidata
   - Wikimedia
+  - Wikiquote
 tag requires property:
   - excerpt
   - license

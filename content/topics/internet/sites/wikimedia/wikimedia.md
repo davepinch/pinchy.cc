@@ -5,4 +5,5 @@ note: This entry refers to Wikimedia Commons
 see also:
   - Wikidata
   - Wikipedia
+  - Wikiquote
 ---
