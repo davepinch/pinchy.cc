@@ -7,6 +7,7 @@ film of:
   - drama
 released: 1984-10-10
 wikidata: "https://www.wikidata.org/wiki/Q208424"
+wikiquote: "https://en.wikiquote.org/wiki/Nineteen_Eighty-Four_(film)"
 tags:
   - film
 ---

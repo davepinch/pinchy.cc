@@ -4,4 +4,5 @@ film of: western film
 wikidata: "https://www.wikidata.org/wiki/Q470329"
 tags:
   - film
+  - no Wikiquote page
 ---

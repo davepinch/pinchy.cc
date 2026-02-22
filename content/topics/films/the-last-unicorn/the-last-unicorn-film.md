@@ -9,6 +9,7 @@ film of:
   - unicorn
 wikidata: "https://www.wikidata.org/wiki/Q176198"
 wikipedia: "https://en.wikipedia.org/wiki/The_Last_Unicorn_(film)"
+wikiquote: "https://en.wikiquote.org/wiki/The_Last_Unicorn_(film)"
 tags:
   - film
 ---

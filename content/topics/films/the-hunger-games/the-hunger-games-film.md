@@ -7,6 +7,7 @@ film of:
   - action film
 when: 2012-03-12
 wikidata: "https://www.wikidata.org/wiki/Q212965"
+wikiquote: "https://en.wikiquote.org/wiki/The_Hunger_Games_(film)"
 tags:
   - film
 ---

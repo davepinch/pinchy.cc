@@ -8,6 +8,7 @@ film of:
   - military fiction
 sequel of: Alien (film)
 wikidata: "https://www.wikidata.org/wiki/Q104814"
+wikiquote: "https://en.wikiquote.org/wiki/Aliens_(film)"
 tags:
   - film
 ---

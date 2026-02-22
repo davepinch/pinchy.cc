@@ -19,6 +19,7 @@ on location of:
   - Pennsylvania
 wikidata: "https://www.wikidata.org/wiki/Q201674"
 wikipedia: "https://en.wikipedia.org/wiki/The_Deer_Hunter"
+wikiquote: "https://en.wikiquote.org/wiki/The_Deer_Hunter"
 tags:
   - film
 ---

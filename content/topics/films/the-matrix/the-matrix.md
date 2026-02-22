@@ -9,6 +9,7 @@ in the wild: "https://www.reddit.com/r/shittymoviedetails/comments/1p6vr6q/in_th
 robot of: squid
 when: 1999-03-24
 wikidata: "https://www.wikidata.org/wiki/Q83495"
+wikiquote: "https://en.wikiquote.org/wiki/The_Matrix_(film)"
 tags:
   - WAKE UP
   - film

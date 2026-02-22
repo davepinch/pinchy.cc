@@ -7,6 +7,7 @@ film of:
   - drama
 on the poster: Rita Hayworth
 wikidata: "https://www.wikidata.org/wiki/Q172241"
+wikiquote: "https://en.wikiquote.org/wiki/The_Shawshank_Redemption"
 tags:
   - movie
 ---

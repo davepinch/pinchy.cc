@@ -6,6 +6,7 @@ film of:
   - psychological thriller
 jump around the multiverse: Coherence (film)
 wikidata: "https://www.wikidata.org/wiki/Q426828"
+wikiquote: "https://en.wikiquote.org/wiki/Donnie_Darko"
 tags:
   - film
   - multiverse

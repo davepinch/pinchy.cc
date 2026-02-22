@@ -7,6 +7,7 @@ film of:
   - action film
 when: 1997-05-07
 wikidata: "https://www.wikidata.org/wiki/Q106506"
+wikiquote: "https://en.wikiquote.org/wiki/The_Fifth_Element"
 tags:
   - film
 ---

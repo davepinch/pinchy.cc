@@ -6,6 +6,7 @@ film of:
   - comedy film
 released: 2006-09-01
 wikidata: "https://www.wikidata.org/wiki/Q1347609"
+wikiquote: "https://en.wikiquote.org/wiki/Idiocracy"
 tags:
   - dystopian
   - film

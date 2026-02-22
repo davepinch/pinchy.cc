@@ -9,6 +9,7 @@ on location of:
   - Mexico
   - Thailand
 wikidata: "https://www.wikidata.org/wiki/Q319783"
+wikiquote: "https://en.wikiquote.org/wiki/Rambo:_First_Blood_Part_II"
 tags:
   - film
 ---

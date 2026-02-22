@@ -6,6 +6,7 @@ film of:
   - action film
   - nuclear warfare
 wikidata: "https://www.wikidata.org/wiki/Q170564"
+wikiquote: "https://en.wikiquote.org/wiki/Terminator_2:_Judgment_Day"
 tags:
   - film
 ---

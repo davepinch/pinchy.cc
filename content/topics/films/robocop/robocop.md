@@ -9,6 +9,7 @@ film of:
 setting: Detroit
 when: 1987-07-17
 wikidata: "https://www.wikidata.org/wiki/Q372514"
+wikiquote: "https://en.wikiquote.org/wiki/RoboCop"
 tags:
   - American
   - film

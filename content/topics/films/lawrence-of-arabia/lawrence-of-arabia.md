@@ -14,6 +14,7 @@ film of:
   - drama
 suggestion of: notice the richness of detail
 wikidata: "https://www.wikidata.org/wiki/Q228186"
+wikiquote: "https://en.wikiquote.org/wiki/Lawrence_of_Arabia_(film)"
 tags:
   - film
 ---

@@ -9,6 +9,7 @@ film of:
   - dystopian fiction
 released: 1982-06-25
 wikidata: "https://www.wikidata.org/wiki/Q184843"
+wikiquote: "https://en.wikiquote.org/wiki/Blade_Runner"
 tags:
   - dystopian
   - film

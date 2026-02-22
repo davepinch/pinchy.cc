@@ -6,6 +6,7 @@ film of:
   - thriller film
 wikidata: "https://www.wikidata.org/wiki/Q60691083"
 wikipedia: "https://en.wikipedia.org/wiki/Snowpiercer"
+wikiquote: "https://en.wikiquote.org/wiki/Snowpiercer"
 tags:
   - film
 ---
