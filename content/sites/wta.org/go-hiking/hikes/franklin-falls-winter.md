@@ -4,6 +4,7 @@ excerpt: >-
   The falls flow year-round, and the icicle formations clinging to the surrounding rock face are absolutely spectacular — well worth the trip.
 hiking of:
   - Franklin Falls
+  - Denny Camp Falls
   - Franklin Falls Trail
   - South Fork Snoqualmie River
   - winter
