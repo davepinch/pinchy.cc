@@ -3,6 +3,7 @@ title: "Calhoun died at the Old Brick Capitol boarding house in Washington, D.C.
 citation: >-
   Wikipedia contributors. (2024, November 3). John C. Calhoun. In *Wikipedia, The Free Encyclopedia*. Retrieved 02:25, November 15, 2024, from https://en.wikipedia.org/w/index.php?title=John_C._Calhoun&oldid=1255187759
 death of: John C. Calhoun
+died in: District of Columbia
 snippet of: John C. Calhoun (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/John_C._Calhoun/death-and-burial-1-1/
