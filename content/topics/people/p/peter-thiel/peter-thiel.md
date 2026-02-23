@@ -1,6 +1,7 @@
 ---
 title: "Peter Thiel"
 influenced by: Curtis Yarvin
+member of: Republican Party
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q705525"
 tags:
