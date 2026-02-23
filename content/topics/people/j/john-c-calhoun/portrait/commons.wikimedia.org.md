@@ -2,6 +2,7 @@
 title: "John C Calhoun by Mathew Brady, 1849 (Wikimedia Commons)"
 illustration of: John C. Calhoun (Wikipedia)
 license: public domain
+john c. calhoun of: Mathew Brady
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/2/2e/John_C_Calhoun_by_Mathew_Brady%2C_1849.jpg
 portrait of: John C. Calhoun
