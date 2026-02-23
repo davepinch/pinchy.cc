@@ -1,5 +1,7 @@
 ---
 title: "Matthew 7:24 NIV"
+➡️: "Matthew 7:25 NIV"
+⬅️: "Matthew 7:23 NIV"
 house of: rock
 New International Version of: "Matthew 7:24"
 type: verse

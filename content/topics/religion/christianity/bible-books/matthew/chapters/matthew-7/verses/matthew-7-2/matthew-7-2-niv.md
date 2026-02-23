@@ -1,5 +1,7 @@
 ---
 title: "Matthew 7:2 NIV"
+➡️: "Matthew 7:3 NIV"
+⬅️: "Matthew 7:1 NIV"
 New International Version of: "Matthew 7:2"
 type: verse
 verse: "For in the same way you judge others, you will be judged, and with the measure you use, it will be measured to you."

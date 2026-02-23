@@ -1,5 +1,7 @@
 ---
 title: "Matthew 7:10 NIV"
+➡️: "Matthew 7:11 NIV"
+⬅️: "Matthew 7:9 NIV"
 gift of:
   - fish
   - snake

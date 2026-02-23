@@ -1,5 +1,7 @@
 ---
 title: "Matthew 7:28 NIV"
+➡️: "Matthew 7:29 NIV"
+⬅️: "Matthew 7:27 NIV"
 amazed at his teaching of: Jesus
 New International Version of: "Matthew 7:28"
 type: verse

@@ -1,5 +1,7 @@
 ---
 title: "Matthew 7:26 NIV"
+➡️: "Matthew 7:27 NIV"
+⬅️: "Matthew 7:25 NIV"
 house of: sand
 New International Version of: "Matthew 7:26"
 type: verse

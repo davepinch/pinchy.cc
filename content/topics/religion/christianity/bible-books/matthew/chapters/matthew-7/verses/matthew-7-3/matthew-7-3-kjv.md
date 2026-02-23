@@ -1,5 +1,7 @@
 ---
 title: "Matthew 7:3 KJV"
+➡️: "Matthew 7:4 KJV"
+⬅️: "Matthew 7:2 KJV"
 mote of: eye
 King James Version of: "Matthew 7:3"
 type: verse

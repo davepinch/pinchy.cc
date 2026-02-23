@@ -1,5 +1,7 @@
 ---
 title: "Matthew 7:6 KJV"
+➡️: "Matthew 7:7 KJV"
+⬅️: "Matthew 7:5 KJV"
 King James Version of: "Matthew 7:6"
 type: verse
 verse: "Give not that which is holy unto the dogs, neither cast ye your pearls before swine, lest they trample them under their feet, and turn again and rend you."
