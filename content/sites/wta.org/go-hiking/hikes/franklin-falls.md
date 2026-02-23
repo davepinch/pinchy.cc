@@ -5,6 +5,7 @@ excerpt: >-
 hiking of:
   - Franklin Falls
   - Franklin Falls Trail
+  - South Fork Snoqualmie River
 retrieved: 2024-08-23
 type: website
 url: /www.wta.org/go-hiking/hikes/franklin-falls/
