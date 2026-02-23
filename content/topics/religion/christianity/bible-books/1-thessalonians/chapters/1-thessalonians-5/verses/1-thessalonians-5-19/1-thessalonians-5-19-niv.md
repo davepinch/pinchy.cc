@@ -3,6 +3,7 @@ title: "1 Thessalonians 5:19 NIV"
 ➡️: "1 Thessalonians 5:20 NIV"
 ⬅️: "1 Thessalonians 5:18 NIV"
 cross-reference:
+  - "Acts 7:51 NIV"
   - "Ephesians 4:30 NIV"
 New International Version of: "1 Thessalonians 5:19"
 verse: "Do not quench the Spirit."
