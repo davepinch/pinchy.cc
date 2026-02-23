@@ -1,6 +1,7 @@
 ---
 title: "James Polk restored.jpg (Wikimedia Commons)"
 author: Matthew Brady
+james polk of: Mathew Brady
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f8/James_Polk_restored.jpg"
 portrait of: James K. Polk

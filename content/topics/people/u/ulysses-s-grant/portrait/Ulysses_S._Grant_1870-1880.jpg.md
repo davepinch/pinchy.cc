@@ -7,6 +7,7 @@ portrait of: Ulysses S. Grant
 source: "https://hdl.loc.gov/loc.pnp/cwpbh.03890"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Ulysses_S._Grant_1870-1880.jpg/358px-Ulysses_S._Grant_1870-1880.jpg"
 type: picture
+ulysses s. grant of: Mathew Brady
 url: /en.wikipedia.org/wiki/Ulysses_S._Grant_1870-1880.jpg/
 website: "https://en.wikipedia.org/wiki/File:Ulysses_S._Grant_1870-1880.jpg"
 tags:

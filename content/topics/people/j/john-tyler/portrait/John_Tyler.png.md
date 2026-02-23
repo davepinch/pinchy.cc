@@ -1,6 +1,7 @@
 ---
 title: "John Tyler.png (Wikipedia)"
 author: Mathew Brady
+john tyler of: Mathew Brady
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/56/John_Tyler.png"
 portrait of: John Tyler

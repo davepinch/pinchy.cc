@@ -1,5 +1,6 @@
 ---
 title: "Andrew Johnson photo portrait head and shoulders, c1870-1880-Edit1.jpg (Wikimedia Commons)"
+andrew johnson of: Mathew Brady
 author: Matthew Brady
 illustration of: Andrew Johnson (Wikipedia)
 license: public domain

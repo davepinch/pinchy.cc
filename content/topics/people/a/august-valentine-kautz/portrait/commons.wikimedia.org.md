@@ -1,6 +1,7 @@
 ﻿---
 title: "August Kautz - Brady-Handy.jpg (Wikimedia Commons)"
-author: Matthew Benjamin Brady
+august kautz of: Mathew Brady
+author: Matthew Brady
 illustration of: August Kautz (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/35/August_Kautz_-_Brady-Handy.jpg"
