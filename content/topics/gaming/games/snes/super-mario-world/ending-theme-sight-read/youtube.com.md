@@ -1,6 +1,8 @@
 ---
 title: "Super Mario World Ending Theme sight-read by Tom Brier (YouTube)"
-ending theme sight-read of: Super Mario World
+ending theme sight-read of:
+  - Super Mario World
+  - piano
 episode of: "https://www.youtube.com/@Keeper1st"
 excerpt: "The most requested tune people have asked for is this one. Finally I got around to finishing a first-draft piano score..."
 type: youtube
