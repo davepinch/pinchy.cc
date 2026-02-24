@@ -321,7 +321,7 @@ while(walk) {
     Write-Host "Remaining: $(remaining)"
     Write-Host
 
-    Start-Sleep -Seconds 5
+    Start-Sleep -Seconds 10
 }
 
 Write-Host "All done!"
