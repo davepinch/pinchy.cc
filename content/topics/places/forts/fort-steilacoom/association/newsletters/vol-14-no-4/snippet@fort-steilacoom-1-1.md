@@ -2,7 +2,8 @@
 title: "first mention of Kitty Kautz (historicfortsteilacoom.org)"
 ✂️: "Kitty [Kautz] is first mentioned in the diary [of August Valentine Kautz] on June 1, 1857, when the couple have a difference of opinion."
 author: Carol Neufeld
-first mention of:
+diary: Nothing Worthy of Note Transpired Today
+first mention of Kitty of:
   - Kitty Kautz
   - August Valentine Kautz
 snippet of: Fort Steilacoom, Vol. XIV, No. 4, Winter 1997 (historicfortsteilacoom.org)
