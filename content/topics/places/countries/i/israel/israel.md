@@ -20,10 +20,15 @@ country of:
   - West Asia
   - Asia
   - Mediterranean Sea
+not to be confused with:
+  - United Kingdom of Israel
+  - Kingdom of Israel
 openstreetmap: "https://www.openstreetmap.org/relation/1473946"
 present-day of:
   - Edom
   - Kingdom of Judah
+  - Kingdom of Israel
+  - United Kingdom of Israel
 wikidata: "https://www.wikidata.org/wiki/Q801"
 tags:
   - Israeli
