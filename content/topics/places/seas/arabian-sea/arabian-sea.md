@@ -14,6 +14,7 @@ sea of:
   - Indian Ocean
   - Middle East
 wikidata: "https://www.wikidata.org/wiki/Q58705"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Arabian_Sea"
 tags:
   - sea
 ---

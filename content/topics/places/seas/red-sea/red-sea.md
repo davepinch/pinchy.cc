@@ -32,6 +32,7 @@ sea of:
   - Indian Ocean
   - Middle East
 wikidata: "https://www.wikidata.org/wiki/Q23406"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Red_Sea"
 tags:
   - sea
 ---

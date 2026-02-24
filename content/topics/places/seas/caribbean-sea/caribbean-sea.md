@@ -10,6 +10,7 @@ sea of:
   - Atlantic Ocean
 type: sea
 wikidata: "https://www.wikidata.org/wiki/Q1247"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Caribbean_Sea"
 tags:
   - sea
 ---

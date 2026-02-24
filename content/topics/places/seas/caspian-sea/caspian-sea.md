@@ -15,6 +15,8 @@ sea of:
   - Asia
   - Middle East
 wikidata: "https://www.wikidata.org/wiki/Q5484"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Caspian_Sea"
+wikiquote: "https://en.wikiquote.org/wiki/Caspian_Sea"
 tags:
   - sea
 ---
