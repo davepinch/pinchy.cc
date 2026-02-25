@@ -3,6 +3,9 @@ title: "Scratchpad"
 draft: true
 ---
 
+2/24/26
+https://tylervigen.com/the-mystery-of-the-bloomfield-bridge
+
 2/22/26
 https://milk.com/wall-o-shame/security_clearance.html
 Also on Hacker News 
