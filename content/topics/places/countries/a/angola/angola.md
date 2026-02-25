@@ -11,6 +11,8 @@ country of:
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/195267"
 wikidata: "https://www.wikidata.org/wiki/Q916"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Angola"
+wikivoyage: "https://en.wikivoyage.org/wiki/Angola"
 tags:
   - country
 ---

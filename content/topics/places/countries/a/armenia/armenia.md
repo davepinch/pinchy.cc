@@ -11,6 +11,8 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/364066"
 wikidata: "https://www.wikidata.org/wiki/Q399"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Armenia"
+wikivoyage: "https://en.wikivoyage.org/wiki/Armenia"
 tags:
   - landlocked
   - country
