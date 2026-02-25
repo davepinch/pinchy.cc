@@ -1,5 +1,6 @@
 ---
 title: "A small crystal of creation"
+next: "Down here is a small crystal of creation."
 unedited first draft:
   - A small crystal of creation
   - Down here is a small crystal of creation.
@@ -37,10 +38,6 @@ unedited first draft:
   - The caldron shook.
   - The surface boiling over.
   - Duck, said God, and God harder than ever.
-side note:
-  - When you get closer to God, you become more Godlike.
-  - You shed the sin that is not yours, until what remains is strictly you.
-  - You are a crystal, unique.
 type: title
 when: 2025-12-25
 tags:
