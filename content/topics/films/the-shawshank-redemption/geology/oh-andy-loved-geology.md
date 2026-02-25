@@ -3,7 +3,9 @@ title: "Oh, Andy loved geology. I imagine it appealed to his meticulous nature. 
 attribution: "Ellis Boyd, *The Shawshank Redemption*"
 citation: >-
   The Shawshank Redemption. (2025, January 19). *Wikiquote*. Retrieved 18:57, January 23, 2025 from https://en.wikiquote.org/w/index.php?title=The_Shawshank_Redemption&oldid=3651692.
-geology of: The Shawshank Redemption
+geology of:
+  - The Shawshank Redemption
+  - prison
 pressure and time of: geology
 type: quote
 tags:

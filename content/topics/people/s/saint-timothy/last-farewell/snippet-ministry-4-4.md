@@ -6,6 +6,7 @@ citation: >-
 last farewell of:
   - Paul the Apostle
   - Saint Timothy
+  - prison
 snippet of: Saint Timothy (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Saint_Timothy/ministry-4-4/
