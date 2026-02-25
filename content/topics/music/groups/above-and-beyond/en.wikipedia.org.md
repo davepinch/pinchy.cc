@@ -5,8 +5,8 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2023-07-12
 type: website
-url: /en.wikipedia.org/wiki/Above_&_Beyond_(band)/
-website: "https://en.wikipedia.org/wiki/Above_&_Beyond_(band)"
+url: /en.wikipedia.org/wiki/Above_%26_Beyond_(band)/
+website: "https://en.wikipedia.org/wiki/Above_%26_Beyond_(band)"
 wikipedia of: Above & Beyond
 tags:
   - Wikipedia
