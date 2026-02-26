@@ -1,5 +1,6 @@
 ---
 title: "Mount Dickerman"
+also known as: Dickerman Mountain
 mountain of:
   - Snohomish County, Washington
   - Mount Baker–Snoqualmie National Forest
