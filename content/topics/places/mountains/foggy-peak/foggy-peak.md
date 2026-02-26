@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49029873"
 wikipedia: "https://en.wikipedia.org/wiki/Foggy_Peak"
 tags:
   - mountain
+  - no Wikimedia category
 ---

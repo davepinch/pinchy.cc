@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q5176039"
 wikipedia: "https://en.wikipedia.org/wiki/Cougar_Mountain"
 tags:
   - mountain
+  - no Wikimedia category
 ---

@@ -5,6 +5,7 @@ in the wild: "https://www.reddit.com/r/geography/comments/1pookk6/is_there_a_pla
 openstreetmap: "https://www.openstreetmap.org/node/358642191"
 vicinity of: Denver, Colorado
 wikidata: "https://www.wikidata.org/wiki/Q1587215"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Sunflower"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Sunflower"
 tags:
   - highest point

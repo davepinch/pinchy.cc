@@ -10,6 +10,7 @@ mountain of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/1744903493"
 wikidata: "https://www.wikidata.org/wiki/Q194057"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Rainier"
 tags:
   - mountain
   - volcano

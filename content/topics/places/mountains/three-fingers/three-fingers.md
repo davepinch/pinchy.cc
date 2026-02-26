@@ -11,6 +11,7 @@ mountain of:
   - hand
 openstreetmap: "https://www.openstreetmap.org/node/356546760"
 wikidata: "https://www.wikidata.org/wiki/Q24602993"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Three_Fingers"
 tags:
   - mountain
 ---

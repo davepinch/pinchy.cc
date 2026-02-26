@@ -10,6 +10,7 @@ mountain of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/348974307"
 wikidata: "https://www.wikidata.org/wiki/Q1493735"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Stuart,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Stuart"
 tags:
   - mountain

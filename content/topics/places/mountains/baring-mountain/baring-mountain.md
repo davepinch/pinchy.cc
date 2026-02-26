@@ -13,6 +13,7 @@ vicinity of:
   - Skykomish River
   - U.S. Route 2
 wikidata: "https://www.wikidata.org/wiki/Q1950371"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Baring_Mountain"
 wikipedia: "https://en.wikipedia.org/wiki/Baring_Mountain"
 tags:
   - mountain

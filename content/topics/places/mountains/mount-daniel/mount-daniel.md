@@ -12,6 +12,7 @@ mountain of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/7705568033"
 wikidata: "https://www.wikidata.org/wiki/Q476822"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Daniel"
 tags:
   - mountain
 ---

@@ -15,6 +15,7 @@ near:
 not to be confused with: Mount Baker, Seattle
 openstreetmap: "https://www.openstreetmap.org/node/268503104"
 wikidata: "https://www.wikidata.org/wiki/Q594387"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Baker"
 tags:
   - andesite
   - mountain

@@ -13,6 +13,7 @@ made of: Shuksan Greenschist
 near: Mount Baker
 openstreetmap: "https://www.openstreetmap.org/node/349028214"
 wikidata: "https://www.wikidata.org/wiki/Q1788022"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Shuksan"
 tags:
   - massif
   - mountain

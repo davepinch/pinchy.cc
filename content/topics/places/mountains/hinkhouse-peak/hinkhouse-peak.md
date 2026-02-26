@@ -10,6 +10,7 @@ mountain of:
 openstreetmap: "https://www.openstreetmap.org/node/356550199"
 vicinity of: "Washington Pass"
 wikidata: "https://www.wikidata.org/wiki/Q49036567"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Hinkhouse_Peak"
 tags:
   - mountain
 ---

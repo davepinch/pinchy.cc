@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49012301"
 wikipedia: "https://en.wikipedia.org/wiki/Big_Bear_Mountain"
 tags:
   - mountain
+  - no Wikimedia category
 ---

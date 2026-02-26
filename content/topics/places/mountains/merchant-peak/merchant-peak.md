@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49049228"
 wikipedia: "https://en.wikipedia.org/wiki/Merchant_Peak"
 tags:
   - mountain
+  - no Wikimedia category
 ---

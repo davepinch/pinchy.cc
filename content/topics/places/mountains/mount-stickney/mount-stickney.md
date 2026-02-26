@@ -13,6 +13,7 @@ TODO: There is another Mount Stickney in Wikidata but it is not qualified with a
 wikidata: "https://www.wikidata.org/wiki/Q49054691"
 tags:
   - mountain
+  - no Wikimedia category
   - no Wikipedia article
   - TODO
 ---

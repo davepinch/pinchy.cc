@@ -11,6 +11,7 @@ mountain of:
 openstreetmap: "https://www.openstreetmap.org/node/356545298"
 vicinity of: U.S. Route 2
 wikidata: "https://www.wikidata.org/wiki/Q6921414"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Index"
 tags:
   - mountain
 ---

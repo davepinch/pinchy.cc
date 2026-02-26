@@ -13,6 +13,7 @@ openstreetmap:
   - "https://www.openstreetmap.org/node/349018338 (middle peak)"
   - "https://www.openstreetmap.org/node/549500101 (east peak)"
 wikidata: "https://www.wikidata.org/wiki/Q7296017"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Rattlesnake_Mountain_(King_County,_Washington)"
 tags:
   - mountain
   - no Wikipedia article

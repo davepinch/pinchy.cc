@@ -11,6 +11,7 @@ state park of:
   - Washington
   - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q49564994"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Squak_Mountain_State_Park"
 wikipedia: Squak Mountain (Wikipedia)
 tags:
   - state park

@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49074010"
 wikipedia: "https://en.wikipedia.org/wiki/Silvertip_Peak"
 tags:
   - mountain
+  - no Wikimedia category
 ---

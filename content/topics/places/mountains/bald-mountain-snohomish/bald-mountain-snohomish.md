@@ -14,5 +14,6 @@ usgs map: Silverton
 wikidata: "https://www.wikidata.org/wiki/Q49010233"
 tags:
   - mountain
+  - no Wikimedia category
   - no Wikipedia article
 ---

@@ -10,6 +10,7 @@ mountain of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/356546463"
 wikidata: "https://www.wikidata.org/wiki/Q3486736"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sloan_Peak"
 wikipedia: "https://en.wikipedia.org/wiki/Sloan_Peak"
 tags:
   - mountain

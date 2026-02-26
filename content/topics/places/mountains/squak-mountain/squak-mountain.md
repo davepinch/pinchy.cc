@@ -23,5 +23,6 @@ TODO: look into Cougar/Squak Corridor
 wikidata: "https://www.wikidata.org/wiki/Q7581914"
 tags:
   - mountain
+  - no Wikimedia category
   - TODO
 ---

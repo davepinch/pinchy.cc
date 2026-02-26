@@ -10,6 +10,7 @@ mountain of:
 near: Index, Washington
 openstreetmap: "https://www.openstreetmap.org/node/348999606"
 wikidata: "https://www.wikidata.org/wiki/Q49054004"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Persis"
 tags:
   - volcano
   - mountain

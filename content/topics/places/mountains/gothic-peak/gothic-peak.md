@@ -9,6 +9,7 @@ mountain of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/356545069"
 wikidata: "https://www.wikidata.org/wiki/Q49032478"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Gothic_Peak_(Washington)"
 wikipedia: "https://en.wikipedia.org/wiki/Gothic_Peak_(Washington)"
 tags:
   - mountain

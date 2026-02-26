@@ -13,6 +13,7 @@ mountain of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/357100300"
 wikidata: "https://www.wikidata.org/wiki/Q83497"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Rushmore"
 tags:
   - mountain
 ---

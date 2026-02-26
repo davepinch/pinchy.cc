@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49044119"
 wikipedia: "https://en.wikipedia.org/wiki/Liberty_Mountain_%28Washington%29"
 tags:
   - mountain
+  - no Wikimedia category
 ---

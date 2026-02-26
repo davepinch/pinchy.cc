@@ -10,6 +10,7 @@ mountain of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/356545020"
 wikidata: "https://www.wikidata.org/wiki/Q1529000"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Glacier_Peak"
 wikipedia: "https://en.wikipedia.org/wiki/Glacier_Peak"
 tags:
   - mountain

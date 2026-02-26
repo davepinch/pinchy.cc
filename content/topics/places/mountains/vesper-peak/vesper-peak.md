@@ -9,6 +9,7 @@ mountain of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/356546878"
 wikidata: "https://www.wikidata.org/wiki/Q7923287"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Vesper_Peak"
 tags:
   - mountain
 ---

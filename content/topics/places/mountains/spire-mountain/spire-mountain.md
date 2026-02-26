@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49076413"
 wikipedia: "https://en.wikipedia.org/wiki/Spire_Mountain"
 tags:
   - mountain
+  - no Wikimedia category
 ---

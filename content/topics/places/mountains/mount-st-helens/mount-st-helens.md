@@ -10,6 +10,7 @@ mountain of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/356546327"
 wikidata: "https://www.wikidata.org/wiki/Q4675"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_St._Helens"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_St._Helens"
 tags:
   - mountain

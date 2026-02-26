@@ -10,5 +10,6 @@ openstreetmap: "https://www.openstreetmap.org/node/356542159"
 wikidata: "https://www.wikidata.org/wiki/Q49037709"
 tags:
   - mountain
+  - no Wikimedia category
   - no Wikipedia article
 ---

@@ -12,6 +12,7 @@ near: Low Mountain
 openstreetmap: "https://www.openstreetmap.org/node/349018502"
 vicinity of: Snoqualmie Pass
 wikidata: "https://www.wikidata.org/wiki/Q5259212"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Denny_Mountain"
 tags:
   - mountain
 ---
