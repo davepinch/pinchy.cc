@@ -8,7 +8,7 @@ signature of:
   - Baruch Spinoza (Wikipedia)
   - SVG
 type: picture
-url: /commons.wikimedia.org/wiki/Spinoza%27s_signature_(1664).svg/
+url: /commons.wikimedia.org/wiki/Spinozas_signature_(1664).svg/
 website: "https://commons.wikimedia.org/wiki/File:Spinoza%27s_signature_(1664).svg"
 tags:
   - Wikimedia Commons
