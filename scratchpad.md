@@ -3,6 +3,21 @@ title: "Scratchpad"
 draft: true
 ---
 
+2/26
+Collective consciousness 
+We hear of the collective consciousness.
+But would there not be groups of consciousness ahead of the universal consciousness?
+Each group a body of its own.
+As one rises, groups may reach out to inspect, integrate, or perhaps destroy.
+Within a group, one shares a degree of sensory input.
+One can see whatever another can see.
+The individual merely a sensory stream.
+Such a stream can be transformed, shared, recorded.
+
+They could be viewing you as a glass on the table or a painting on the wall
+
+---
+
 2/24/26
 https://tylervigen.com/the-mystery-of-the-bloomfield-bridge
 
