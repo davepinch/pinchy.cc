@@ -1,4 +1,4 @@
----
+zubenel---
 title: "Acamar (stars.astro.illinois.edu)"
 author: Jim Kaler
 excerpt: >-
