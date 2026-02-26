@@ -7,6 +7,7 @@ tag requires property:
   - mountain of
   - OpenStreetMap
   - Wikidata
+  - Wikimedia
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q8502"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mountains"
