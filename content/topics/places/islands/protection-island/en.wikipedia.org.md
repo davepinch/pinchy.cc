@@ -5,8 +5,8 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2025-05-26
 type: website
-url: /en.wikipedia.org/wiki/Protection_Island_%28Washington%29/
-website: "https://en.wikipedia.org/wiki/Protection_Island_%28Washington%29"
+url: /en.wikipedia.org/wiki/Protection_Island_(Washington)/
+website: "https://en.wikipedia.org/wiki/Protection_Island_(Washington)"
 wikipedia of: Protection Island
 tags:
   - Wikipedia
