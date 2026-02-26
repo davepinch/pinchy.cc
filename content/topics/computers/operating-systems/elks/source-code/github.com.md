@@ -10,6 +10,7 @@ url: /github.com/ghaerr/elks/
 website: "https://github.com/ghaerr/elks"
 tags:
   - website
+  - source code
   - GitHub repo
   - shared on Hacker News
 ---
