@@ -4,6 +4,7 @@ title: "James 5:12"
 ⬅️: "James 5:11"
 cross-reference:
   - "Exodus 20:7"
+  - "Leviticus 19:12"
   - "Matthew 5:34"
 verse of: James 5
 tags:

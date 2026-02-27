@@ -5,6 +5,7 @@ title: "Matthew 5:34 NIV"
 cross-reference:
   - "Exodus 20:7 NIV"
   - "James 5:12 NIV"
+  - "Leviticus 19:12 NIV"
 New International Version of: "Matthew 5:34"
 verse: "But I tell you, do not swear an oath at all: either by heaven, for it is God’s throne;"
 type: verse

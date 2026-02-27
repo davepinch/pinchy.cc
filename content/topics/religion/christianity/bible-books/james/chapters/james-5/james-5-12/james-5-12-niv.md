@@ -4,6 +4,7 @@ title: "James 5:12 NIV"
 ⬅️: "James 5:11 NIV"
 cross-reference:
   - "Exodus 20:7 NIV"
+  - "Leviticus 19:12 NIV"
   - "Matthew 5:34 NIV"
 New International Version of: "James 5:12"
 type: verse
