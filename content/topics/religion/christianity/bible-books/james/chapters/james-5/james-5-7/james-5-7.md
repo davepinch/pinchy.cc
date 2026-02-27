@@ -6,6 +6,7 @@ verse of:
   - James 5
   - autumn
   - spring
+  - rain
 tags:
   - verse of the Bible
 ---
