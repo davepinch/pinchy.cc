@@ -1,7 +1,9 @@
 ---
 title: "James 5:20"
 ⬅️: "James 5:19"
-verse of: James 5
+verse of:
+  - James 5
+  - death
 tags:
   - verse of the Bible
 ---
