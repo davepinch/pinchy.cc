@@ -1,5 +1,6 @@
 ---
 title: "Oak Hill Cemetery"
+also known as: Youngstown Township Cemetery
 cemetery of: Youngstown, Ohio
 openstreetmap: "https://www.openstreetmap.org/way/324500128"
 wikidata: "https://www.wikidata.org/wiki/Q70386535"
