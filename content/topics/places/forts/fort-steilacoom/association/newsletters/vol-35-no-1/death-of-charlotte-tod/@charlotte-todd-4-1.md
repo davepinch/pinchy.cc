@@ -6,7 +6,7 @@ snippet of: "Fort Steilacoom, Vol. 35, No. 1, Spring 2018 (PDF) (historicfortste
 timeline of: August Valentine Kautz
 type: snippet
 url: /historicfortsteilacoom.org/wp-content/uploads/2019/03/V35N1_Spring2018.pdf/@charlotte-todd-4-1/
-when: 1868-06-02
+when: 1868-06-03
 tags:
   - snippet
 ---
