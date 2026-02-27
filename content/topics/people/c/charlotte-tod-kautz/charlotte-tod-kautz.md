@@ -1,5 +1,7 @@
 ---
-title: "Charlotte Todd Kautz"
+title: "Charlotte Tod Kautz"
+also spelled as: Charlotte Todd Kautz
+daugher of: David Tod
 2nd wife of: August Valentine Kautz
 tags:
   - human being
