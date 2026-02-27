@@ -4,6 +4,7 @@ chemical structure of:
   - psilocin
   - SVG
 excerpt: "2D structure of psilocin (4-HO-DMT). Created with BKChem and Extensible SVG Optimiser"
+illustration of: Psilocin (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/92/Psilocin.svg"
 related: Psilocin (Wikipedia)
