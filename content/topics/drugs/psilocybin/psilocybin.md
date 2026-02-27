@@ -1,10 +1,10 @@
 ---
 title: "psilocybin"
+prodrug of: psilocin
 see also:
   - DMT
   - LSD
   - mescaline
-  - psilocin
 tags:
   - Schedule I
   - psychedelic drug
