@@ -4,6 +4,7 @@ chemical structure of:
   - psilocybin
   - SVG
 excerpt: "Chemical structure of w:psilocybin (the Wikimedia file is spelled wrong)"
+illustration of: Psilocybin (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/97/Psilocybin%2C_Kekul%C3%A9%2C_skeletal_formula_of_canonical_psilocybin.svg"
 see also:
