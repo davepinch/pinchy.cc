@@ -1,4 +1,4 @@
-.wikidata-section {
+.cc-wikidata-section {
 
     /* Treat element as a container */
     position: relative;
@@ -7,7 +7,7 @@
     padding-left: 32px;
 }
 
-.wikidata-section::before {
+.cc-wikidata-section::before {
 
     /* Vertically center */
     left: 0;
