@@ -9,6 +9,7 @@ mountain range of:
   - United States
   - North America
 mostly contained in: Olympic National Park
+openstreetmap: "https://www.openstreetmap.org/relation/10868707"
 wikidata: "https://www.wikidata.org/wiki/Q255079"
 tags:
   - mountain range
