@@ -7,6 +7,7 @@ excerpt: >-
 mention of:
   - Interstate 90
   - Snoqualmie Pass
+  - Washington Trails Association
 type: website
 url: /www.seattletimes.com/seattle-news/searchers-find-body-of-man-believed-to-be-missing-denny-creek-hiker/
 vicinity of: Granite Mountain
