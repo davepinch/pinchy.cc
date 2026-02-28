@@ -4,6 +4,7 @@ mountain of:
   - Olympic Mountains
   - Olympic National Park
   - Olympic Peninsula
+  - Clallam County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/348997372"
 vantage point of: Strait of Juan de Fuca
