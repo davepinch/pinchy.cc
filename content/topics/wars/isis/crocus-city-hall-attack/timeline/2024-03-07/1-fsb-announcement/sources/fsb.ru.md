@@ -7,7 +7,7 @@ excerpt: >-
   Translated with Edge: THE FSB OF RUSSIA PREVENTED A TERRORIST ACT AGAINST ONE OF THE JEWISH RELIGIOUS INSTITUTIONS IN MOSCOW
 timeline of: Crocus City Hall attack
 type: website
-url: /www.fsb.ru/fsb/press/message/single.htm!id=10439934@fsbMessage.html
+url: /www.fsb.ru/fsb/press/message/single.htm!id=10439934@fsbMessage.html/
 website: "http://www.fsb.ru/fsb/press/message/single.htm!id=10439934@fsbMessage.html"
 when: 2024-03-07
 tags:
