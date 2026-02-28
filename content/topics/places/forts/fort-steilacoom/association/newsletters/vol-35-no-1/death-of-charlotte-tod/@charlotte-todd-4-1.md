@@ -1,7 +1,7 @@
 ---
 title: "death of Charlotte Tod (historicfortsteilacoom.org)"
 ✂️: "On June 2 [of 1868], Charlotte called for her husband and made a beautiful prayer about 5 p.m. ending with “Oh Father, Father, come!” She lapsed into a coma and died the next day at 8 p.m"
-death of: Charlotte Tod 
+death of: Charlotte Tod Kautz
 snippet of: "Fort Steilacoom, Vol. 35, No. 1, Spring 2018 (PDF) (historicfortsteilacoom.org)"
 timeline of: August Valentine Kautz
 type: snippet
