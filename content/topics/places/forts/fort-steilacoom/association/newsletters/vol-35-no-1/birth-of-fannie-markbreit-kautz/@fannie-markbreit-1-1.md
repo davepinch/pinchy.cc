@@ -1,7 +1,7 @@
 ---
-title: "birth of Fannie Markbriet Kautz (historicfortsteilacoom.org)"
+title: "birth of Fannie Markbreit Kautz (historicfortsteilacoom.org)"
 ✂️: "Fannie Markbreit was born in Baden-Baden, Germany in 1849, having the same national origin as August V. Kautz, but 21 years younger than him."
-birth of: Fannie Markbriet Kautz
+birth of: Fannie Markbreit Kautz
 born in: Germany
 snippet of: "Fort Steilacoom, Vol. 35, No. 1, Spring 2018 (PDF) (historicfortsteilacoom.org)"
 type: snippet
