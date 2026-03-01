@@ -1,6 +1,7 @@
 ---
 title: "interstate highway"
 interstate of: highway
+plural: interstate highways
 tag requires property:
   - interstate highway of
   - Wikidata
