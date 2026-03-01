@@ -1,0 +1,4 @@
+---
+title: "agency"
+plural: agencies
+---
