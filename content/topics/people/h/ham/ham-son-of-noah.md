@@ -7,8 +7,9 @@ person of:
   - Bible
 url: /ham-son-of-noah/
 wikidata: "https://www.wikidata.org/wiki/Q229702"
-wikiquote: "https://en.wikiquote.org/wiki/Ham_(Genesis)"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ham_(son_of_Noah)"
+wikipedia: "https://en.wikipedia.org/wiki/Ham_(Genesis)"
+wikiquote: "https://en.wikiquote.org/wiki/Ham_(Genesis)"
 wikisource: "https://en.wikisource.org/wiki/Author:Ham"
 tags:
   - male
