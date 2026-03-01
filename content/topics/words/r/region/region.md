@@ -10,7 +10,6 @@ tag requires property:
   - Wikidata
   - Wikimedia
   - Wikipedia
-  - Wikivoyage
 tags:
   - geography
 ---
