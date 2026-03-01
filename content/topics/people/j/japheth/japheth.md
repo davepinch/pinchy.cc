@@ -1,7 +1,7 @@
 ---
 title: "Japheth"
 person of:
-  - Genesis
+  - Book of Genesis
   - Old Testament
   - Bible
 son of: Noah

@@ -2,7 +2,7 @@
 title: "Ham (son of Noah)"
 son of: Noah
 person of:
-  - Genesis
+  - Book of Genesis
   - Old Testament
   - Bible
 url: /ham-son-of-noah/

@@ -1,7 +1,7 @@
 ---
 title: "Noah"
 person of:
-  - Genesis
+  - Book of Genesis
   - Old Testament
   - Bible
   - Quran
