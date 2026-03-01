@@ -2,7 +2,6 @@
 title: "Anthony Burgess"
 wikidata: "https://www.wikidata.org/wiki/Q217619"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Anthony_Burgess"
-wikipedia: "https://en.wikipedia.org/wiki/Anthony_Burgess"
 wikiquote: "https://en.wikiquote.org/wiki/Anthony_Burgess"
 tags:
   - writer
