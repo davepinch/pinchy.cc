@@ -6,6 +6,7 @@ death of: Steve Biko
 snippet of: Steve Biko (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Steve_Biko/death-3-4/
+when: 1977-09-12
 tags:
   - death
   - snippet
