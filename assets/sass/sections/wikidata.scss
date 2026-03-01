@@ -9,6 +9,9 @@
 
 .cc-wikidata-section::before {
 
+    /* Required for ::before to render */
+    content: "";
+
     /* Vertically center */
     left: 0;
     top: 50%;
