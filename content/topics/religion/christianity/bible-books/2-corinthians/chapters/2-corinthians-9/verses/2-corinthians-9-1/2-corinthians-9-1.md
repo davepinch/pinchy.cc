@@ -1,6 +1,6 @@
 ---
-title: "2 Corinthians 9:15"
-⬅️: "2 Corinthians 9:14"
+title: "2 Corinthians 9:1"
+➡️: "2 Corinthians 9:2"
 verse of: "2 Corinthians 9"
 tags:
   - verse of the Bible
