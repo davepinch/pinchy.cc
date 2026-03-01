@@ -1,26 +1,29 @@
-.cc-wikidata-section {
+.cc-wikidata-section .cc-heading .cc-title {
 
     /* Treat element as a container */
     position: relative;
 
     /* Ensure space for the image */
     padding-left: 32px;
-}
 
-.cc-wikidata-section::before {
+    ::before {
 
-    /* Required for ::before to render */
-    content: "";
+        /* Required for ::before to render */
+        content: "";
 
-    /* Vertically center */
-    left: 0;
-    top: 50%;
-    transform: translateY(-50%);
+        display:inline-block;
+        position: absolute;
 
-    height: 32px;
-    width: 32px;
+        /* Vertically center */
+        left: 0;
+        top: 50%;
+        transform: translateY(-50%);
+
+        height: 32px;
+        width: 32px;
     
-    background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg');
-    background-size: contain;
-    background-repeat: no-repeat;
+        background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg');
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
 }
