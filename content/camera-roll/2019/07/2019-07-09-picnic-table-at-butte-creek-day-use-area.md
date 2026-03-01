@@ -7,7 +7,7 @@ photograph of:
 picture: content/camera-roll/2019/07/2019-07-09-picnic-table-at-butte-creek-day-use-area/picnic-table-at-butte-creek-day-use-area.jpg
 thumbnail: content/camera-roll/2019/07/2019-07-09-picnic-table-at-butte-creek-day-use-area/picnic-table-at-butte-creek-day-use-area-thumbnail.jpg
 type: picture
-vicinity of: Raymond
+vicinity of: Raymond, Washington
 when: 2019-07-09
 tags:
   - photograph
