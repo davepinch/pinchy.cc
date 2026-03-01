@@ -24,6 +24,7 @@ sound of:
   - Washington
   - Pacific Northwest
 wikidata: "https://www.wikidata.org/wiki/Q604141"
+wikivoyage: "https://en.wikivoyage.org/wiki/Puget_Sound"
 tags:
   - sound (landform)
 ---
