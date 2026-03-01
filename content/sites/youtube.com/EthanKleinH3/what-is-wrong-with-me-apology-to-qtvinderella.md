@@ -7,6 +7,7 @@ url: /www.youtube.com/watch?v=jUgEv_B3_tI/
 website: "https://www.youtube.com/watch?v=jUgEv_B3_tI"
 when: 2023-01-31
 youtube-id: jUgEv_B3_tI
+youtuber of: apology
 tags:
   - YouTube video
 ---
