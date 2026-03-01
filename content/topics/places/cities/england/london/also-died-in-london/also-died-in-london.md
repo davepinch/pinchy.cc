@@ -1,7 +1,7 @@
 ---
-title: also died in London
-start: Isaac Newton
-type: fragment
+title: "also died in London"
+also died in: London
+type: sequence
 tags:
-  - London
+  - sequence
 ---
