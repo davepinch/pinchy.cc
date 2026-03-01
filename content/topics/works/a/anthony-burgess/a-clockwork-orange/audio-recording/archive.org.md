@@ -1,6 +1,7 @@
 ---
 title: >-
   Anthony Burgess, "A Clockwork Orange"
+audio recording of: A Clockwork Orange
 excerpt: >-
   Anthony Burgess reads from his cult classic, "A Clockwork Orange." This novel consists of a series of episodes in the life of Alex, a young tough who lives in a nightmare future of violence and sadism. Burgess created a special language he calls "Nadsat," a kind of anglo-russian fusion. Words like "stary," Russian for "old" and "horrorshow," from the Russian "khoroscho," meaning "good" pepper the descriptions Alex gives of his antisocial activities.
 license: >-
