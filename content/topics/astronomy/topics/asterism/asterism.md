@@ -9,6 +9,7 @@ tag requires property:
   - Wikidata
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q9262"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Asterisms_(astronomy)"
 tags:
   - sky
   - astronomy

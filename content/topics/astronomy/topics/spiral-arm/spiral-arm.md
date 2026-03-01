@@ -6,4 +6,5 @@ tag requires property:
   - Wikidata
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q2311038"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Spiral_arms"
 ---

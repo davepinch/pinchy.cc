@@ -9,6 +9,7 @@ tag requires property:
   - Wikidata
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q8928"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Constellations"
 tags:
   - sky
   - astronomy

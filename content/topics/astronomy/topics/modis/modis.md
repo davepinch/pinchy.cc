@@ -5,6 +5,7 @@ sensor of:
   - Aqua (satellite)
   - Terra (satellite)
 wikidata: "https://www.wikidata.org/wiki/Q676840"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Photos_by_MODIS"
 tags:
   - sensor
 ---

@@ -5,6 +5,7 @@ tag requires property:
   - Wikidata
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q3887"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Solar_eclipses"
 tags:
   - astronomy
 ---
