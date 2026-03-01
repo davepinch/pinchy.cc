@@ -4,7 +4,7 @@ attribution: >-
   Barack Obama, Remarks on death of Osama bin Laden (May 2011)
 citation: >-
   Robin Williams. (2024, March 27). *Wikiquote*. Retrieved 06:09, October 23, 2024 from https://en.wikiquote.org/w/index.php?title=Robin_Williams&oldid=3489012.
-osama in laden of: Barack Obama
+osama bin laden of: Barack Obama
 remarks on the death of: Osama bin Laden
 type: quote
 when: 2014-05-01
