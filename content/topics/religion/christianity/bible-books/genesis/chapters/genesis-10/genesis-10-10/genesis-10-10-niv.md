@@ -1,5 +1,6 @@
 ---
 title: "Genesis 10:10 NIV"
+➡️: "Genesis 10:11 NIV"
 ⬅️: "Genesis 10:9 NIV"
 New International Version of: "Genesis 10:10"
 nimrod of:
