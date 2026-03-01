@@ -1,5 +1,6 @@
 ---
 title: "I am sorry for offending you."
+in case you take offense of: apology
 url: /i-am-sorry-for-offending-you/
 ---
 {{< rawhtml >}}
