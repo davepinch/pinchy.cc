@@ -6,5 +6,6 @@ see also:
   - Wikimedia
   - Wikipedia
   - Wikiquote
+  - Wikivoyage
 website: "https://wikidata.org"
 ---

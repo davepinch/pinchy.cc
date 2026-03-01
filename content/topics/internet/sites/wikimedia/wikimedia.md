@@ -6,4 +6,5 @@ see also:
   - Wikidata
   - Wikipedia
   - Wikiquote
+  - Wikivoyage
 ---

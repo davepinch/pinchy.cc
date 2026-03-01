@@ -5,6 +5,7 @@ see also:
   - Wikidata
   - Wikimedia
   - Wikiquote
+  - Wikivoyage
 tag requires property:
   - excerpt
   - license
