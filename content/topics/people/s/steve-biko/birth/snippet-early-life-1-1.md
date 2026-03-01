@@ -7,6 +7,8 @@ citation: >-
 snippet of: Steve Biko (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Steve_Biko/early-life-1-1/
+when: 1946-12-18
 tags:
+  - birth
   - snippet
 ---
