@@ -9,6 +9,7 @@ wikisource: "https://en.wikisource.org/wiki/Author:Charles_Spencer_Chaplin"
 tags:
   - English
   - actor
+  - comedian
   - human being
   - dead at the moment
 ---

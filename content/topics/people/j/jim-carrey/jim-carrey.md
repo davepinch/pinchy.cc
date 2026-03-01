@@ -5,5 +5,6 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Jim_Carrey"
 wikiquote: "https://en.wikiquote.org/wiki/Jim_Carrey"
 tags:
   - actor
+  - comedian
   - human being
 ---

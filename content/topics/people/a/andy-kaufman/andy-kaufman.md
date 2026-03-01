@@ -11,6 +11,7 @@ tags:
   - performance artist
   - singer
   - actor
+  - comedian
   - human being
   - dead at the moment
 ---

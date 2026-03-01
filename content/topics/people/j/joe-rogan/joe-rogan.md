@@ -6,5 +6,6 @@ wikiquote: "https://en.wikiquote.org/wiki/Joe_Rogan"
 𝕏: "https://x.com/joerogan"
 tags:
   - podcaster
+  - comedian
   - human being
 ---
