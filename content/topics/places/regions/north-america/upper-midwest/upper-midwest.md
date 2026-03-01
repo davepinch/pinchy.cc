@@ -5,4 +5,5 @@ region of: Midwestern United States
 wikidata: "https://www.wikidata.org/wiki/Q2984465"
 tags:
   - region
+  - no Wikimedia category
 ---
