@@ -7,5 +7,6 @@ region of: Washington
 tags:
   - region
   - no Wikidata record
+  - no Wikimedi category
   - no Wikipedia article
 ---
