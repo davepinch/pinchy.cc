@@ -1,3 +1,4 @@
 ---
 title: "war"
+plural: wars
 ---
