@@ -1,9 +1,6 @@
 ---
 title: "Point Barrow"
-cape of:
-  - Alaska
-  - United States
-  - North America
+cape of: Alaska
 northernmost point of: United States
 openstreetmap: "https://www.openstreetmap.org/node/846344804"
 wikidata: "https://www.wikidata.org/wiki/Q1343019"
