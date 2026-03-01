@@ -12,7 +12,7 @@ type: picture
 when: 2008-05-01
 tags:
   - photograph
-  - Grandma
+  - grandma
   - James
   - driveway
   - house
