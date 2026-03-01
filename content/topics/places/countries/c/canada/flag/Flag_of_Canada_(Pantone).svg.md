@@ -17,21 +17,6 @@ flag of:
   - SVG
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d9/Flag_of_Canada_%28Pantone%29.svg"
-provinces:
-  - Flag_of_Alberta.svg (Wikimedia Commons)
-  - Flag_of_British_Columbia.svg (Wikimedia Commons)
-  - Flag_of_Manitoba.svg (Wikimedia Commons)
-  - Flag_of_New_Brunswick.svg (Wikimedia Commons)
-  - Flag_of_Newfoundland_and_Labrador.svg (Wikimedia Commons)
-  - Flag_of_Nova_Scotia.svg (Wikimedia Commons)
-  - Flag_of_Ontario.svg (Wikimedia Commons)
-  - Flag_of_Prince_Edward_Island.svg (Wikimedia Commons)
-  - Flag_of_Quebec.svg (Wikimedia Commons)
-  - Flag_of_Saskatchewan.svg (Wikimedia Commons)
-territories:
-  - Flag_of_the_Northwest_Territories.svg (Wikimedia Commons)
-  - Flag_of_Nunavut.svg (Wikimedia Commons)
-  - Flag_of_Yukon.svg (Wikimedia Commons)
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Canada_(Pantone).svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Canada_(Pantone).svg"
