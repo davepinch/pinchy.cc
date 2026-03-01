@@ -14,7 +14,10 @@ flag of:
   - triband
   - SVG
 license: public domain
-picture: "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg"
+picture: "https://upload.wikimedia.org/wikipedia/commons/5/54/Flag_of_Syria_%282025-%29.svg"
+#
+# Found broken on 3/1/2026:
+# picture: "https://upload.wikimedia.org/wikipedia/commons/5/53/Flag_of_Syria.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_Syria.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Syria.svg"
@@ -28,4 +31,3 @@ tags:
   - Wikimedia Commons
   - ⭐
 ---
-Flag of Syria
