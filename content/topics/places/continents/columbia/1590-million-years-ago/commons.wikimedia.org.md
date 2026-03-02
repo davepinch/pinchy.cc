@@ -1,6 +1,8 @@
 ---
 title: "Paleoglobe NO 1590 mya-vector-colors.svg (Wikimedia Commons)"
-1,590 million years ago of: Columbia (supercontinent)
+1,590 million years ago of:
+  - Columbia (supercontinent)
+  - Greenland
 author: Erlend Bjørtvedt (original author)  
 description: "The supercontinent Columbia 1,590 million years ago"
 illustration of: Columbia (supercontinent) (Wikipedia)
