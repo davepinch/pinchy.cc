@@ -5,6 +5,7 @@ craton of:
   - North America
   - Canada
   - United States
+  - Greenland
 wikidata: "https://www.wikidata.org/wiki/Q858071"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:North_American_Craton"
 tags:
