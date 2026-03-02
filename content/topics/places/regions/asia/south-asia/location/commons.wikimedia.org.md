@@ -1,6 +1,7 @@
 ---
 title: "South Asia (orthographic projection) without national boundaries.svg (Wikimedia)"
 author: "https://es.wikipedia.org/wiki/user:Serg!o"
+license: CC BY-SA 3.0
 location of: South Asia
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e3/South_Asia_%28orthographic_projection%29_without_national_boundaries.svg"
 region of: SVG
