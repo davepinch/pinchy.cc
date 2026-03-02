@@ -16,6 +16,7 @@ country of:
   - Indian Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/87565"
 wikidata: "https://www.wikidata.org/wiki/Q258"
+wikiquote: "https://en.wikiquote.org/wiki/South_Africa"
 tags:
   - country
 ---
