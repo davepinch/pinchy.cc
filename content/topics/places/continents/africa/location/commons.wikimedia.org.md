@@ -10,5 +10,6 @@ url: /commons.wikimedia.org/wiki/Africa_(orthographic_projection).svg/
 website: "https://commons.wikimedia.org/wiki/File:Africa_(orthographic_projection).svg"
 tags:
   - location
+  - orthographic projection
   - Wikimedia Commons
 ---
