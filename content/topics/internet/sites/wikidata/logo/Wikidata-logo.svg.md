@@ -3,7 +3,9 @@ title: "Wikidata-logo.svg (Wikimedia Commons)"
 author: "User:Planemad"
 description: "The Wikidata logo without text"
 license: public domain
-logo of: Wikidata
+logo of:
+  - Wikidata
+  - SVG
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Wikidata-logo.svg/
