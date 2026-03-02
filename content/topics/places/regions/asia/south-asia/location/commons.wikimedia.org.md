@@ -9,5 +9,6 @@ url: /commons.wikimedia.org/wiki/South_Asia_(orthographic_projection)_without_na
 website: "https://commons.wikimedia.org/wiki/File:South_Asia_(orthographic_projection)_without_national_boundaries.svg"
 tags:
   - location
+  - orthographic projection
   - Wikimedia Commons
 ---
