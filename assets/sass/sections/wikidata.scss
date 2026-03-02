@@ -4,7 +4,7 @@
     position: relative;
 
     /* Ensure space for the image */
-    padding-left: 32px;
+    padding-left: 36px;
 
 }
 
@@ -25,6 +25,7 @@
     width: 32px;
     
     background-image: url('https://upload.wikimedia.org/wikipedia/commons/f/ff/Wikidata-logo.svg');
+    background-position-y: center;
     background-size: contain;
     background-repeat: no-repeat;
 }
