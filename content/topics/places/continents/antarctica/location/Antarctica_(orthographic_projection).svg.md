@@ -1,6 +1,7 @@
 ---
 title: "Antarctica (orthographic projection).svg (Wikimedia Commons)"
 author: "[Heraldry](https://commons.wikimedia.org/wiki/User:Heraldry)"
+continent of: SVG
 license: CC BY-SA 3.0
 location of: Antarctica
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f2/Antarctica_%28orthographic_projection%29.svg"
