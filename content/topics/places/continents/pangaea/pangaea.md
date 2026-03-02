@@ -1,5 +1,6 @@
 ---
 title: "Pangaea"
+supercontinent of: Earth
 wikidata: "https://www.wikidata.org/wiki/Q4398"
 tags:
   - supercontinent
