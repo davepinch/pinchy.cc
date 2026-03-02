@@ -6,5 +6,8 @@ TODO: Create Wikipedia article for the Puget Lobe
 tags:
   - ice sheet
   - glacier
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
   - TODO
 ---
