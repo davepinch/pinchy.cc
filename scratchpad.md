@@ -3,6 +3,9 @@ title: "Scratchpad"
 draft: true
 ---
 
+3/2
+https://news.ycombinator.com/item?id=47181656
+
 2/26
 Collective consciousness 
 We hear of the collective consciousness.
