@@ -7,6 +7,7 @@ license: CC BY-SA 4.0
 point of view from 40 Eridani of:
   - Sun
   - Hercules
+related: distance of 40 Eridani (Wikipedia)
 snippet of: 40 Eridani (Wikipedia)
 sun of: 40 Eridani
 type: snippet
