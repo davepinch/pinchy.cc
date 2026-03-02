@@ -5,6 +5,7 @@ title: "Paleoglobe NO 1590 mya-vector-colors.svg (Wikimedia Commons)"
   - Greenland
   - Kalahari Craton
   - Laurentia
+  - South China Craton
 author: Erlend Bjørtvedt (original author)  
 description: "The supercontinent Columbia 1,590 million years ago"
 illustration of: Columbia (supercontinent) (Wikipedia)
