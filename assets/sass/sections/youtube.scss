@@ -1,0 +1,29 @@
+.cc-youtube-section .cc-heading .cc-title {
+
+    /* Treat element as a container */
+    position: relative;
+
+    /* Ensure space for the image */
+    padding-left: 36px;
+
+}
+
+.cc-youtube-section .cc-heading .cc-title::before {
+
+    /* Required for ::before to render */
+    content: "";
+
+    display:inline-block;
+    position: absolute;
+    left: 0;
+    top: 50%;
+    transform: translateY(-50%);
+    height: 32px;
+    width: 32px;
+    
+    // https://commons.wikimedia.org/wiki/File:YouTube_2024.svg
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/2/20/YouTube_2024.svg');
+    background-position-y: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
