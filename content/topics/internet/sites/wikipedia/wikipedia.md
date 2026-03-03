@@ -15,4 +15,6 @@ tag requires property:
   - website
   - wikipedia of
 website: "https://wikipedia.org"
+tags:
+  - encyclopedia
 ---
