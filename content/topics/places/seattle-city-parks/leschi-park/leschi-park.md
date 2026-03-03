@@ -9,6 +9,7 @@ namesake of: Chief Leschi
 official website: "https://www.seattle.gov/parks/allparks/leschi-park"
 openstreetmap: "https://www.openstreetmap.org/relation/2518718"
 wikidata: "https://www.wikidata.org/wiki/Q6530305"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Leschi_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Leschi_Park"
 tags:
   - city park

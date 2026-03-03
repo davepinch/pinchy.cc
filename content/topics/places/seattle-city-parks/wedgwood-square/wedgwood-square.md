@@ -6,6 +6,7 @@ city park of:
   - King County, Washington
 official website: "https://www.seattle.gov/parks/allparks/wedgwood-square"
 openstreetmap: "https://www.openstreetmap.org/way/419546359"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Wedgwood_Square"
 tags:
   - city park
   - no Wikidata record

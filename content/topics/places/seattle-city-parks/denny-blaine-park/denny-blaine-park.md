@@ -11,6 +11,7 @@ vantage point of:
   - Bellevue, Washington
   - Mount Rainier
 wikidata: "https://www.wikidata.org/wiki/Q5259148"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Denny_Blaine_Park"
 tags:
   - city park
   - beach

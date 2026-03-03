@@ -9,6 +9,7 @@ city park of:
   - King County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/7152576"
 wikidata: "https://www.wikidata.org/wiki/Q5501246"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Freeway_Park,_Seattle"
 tags:
   - city park
 ---

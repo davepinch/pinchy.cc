@@ -6,6 +6,7 @@ city park of:
   - King County, Washington
 openstreetmap: "https://www.openstreetmap.org/way/13800188"
 wikidata: "https://www.wikidata.org/wiki/Q7941040"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Volunteer_Park_(Seattle)"
 wikipedia: "https://en.wikipedia.org/wiki/Volunteer_Park_(Seattle)"
 tags:
   - city park
