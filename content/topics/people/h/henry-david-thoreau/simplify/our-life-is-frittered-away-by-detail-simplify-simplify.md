@@ -1,9 +1,9 @@
 ---
 title: "Our life is frittered away by detail… simplify, simplify."
-type: quote
 attribution: "Henry David Thoreau"
-related: Henry David Thoreau (Wikipedia)
+simplify of: Henry David Thoreau
 TODO: find source of this quote (not found on Wikiquote)
+type: quote
 tags:
   - Henry David Thoreau
   - quote
