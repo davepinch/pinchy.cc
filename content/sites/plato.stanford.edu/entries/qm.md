@@ -6,8 +6,8 @@ excerpt: >-
 retrieved: 2026-03-03
 stanford encyclopedia of philosophy of: quantum mechanics
 type: website
-url: /plato.stanford.edu/entries/edwards/
-website: "https://plato.stanford.edu/entries/edwards/"
+url: /plato.stanford.edu/entries/qm/
+website: "https://plato.stanford.edu/entries/qm/"
 tags:
   - Stanford Encyclopedia of Philosophy
   - website
