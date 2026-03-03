@@ -1,6 +1,7 @@
 ---
 title: "Apple Inc."
 wikidata: "https://www.wikidata.org/wiki/Q312"
+youtube: "https://www.youtube.com/@Apple"
 tags:
   - company
 ---

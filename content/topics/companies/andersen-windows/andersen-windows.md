@@ -6,6 +6,7 @@ company of:
   - United States
 manufacturer of: windows
 wikidata: "https://www.wikidata.org/wiki/Q4753960"
+youtube: "https://www.youtube.com/@andersenwindows"
 tags:
   - company
 ---

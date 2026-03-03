@@ -15,6 +15,7 @@ founded by:
 official website: "https://openai.com/"
 wikidata: "https://www.wikidata.org/wiki/Q21708200"
 𝕏: "https://x.com/OpenAI"
+youtube: "https://www.youtube.com/@OpenAI"
 tags:
   - company
 ---
