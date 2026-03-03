@@ -13,6 +13,8 @@ state of:
   - Southeastern United States
   - United States
 up the atlantic coast: Delaware
+wikidata: "https://www.wikidata.org/wiki/Q1391"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Maryland"
 tags:
   - state
 ---

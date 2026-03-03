@@ -12,6 +12,8 @@ state of:
   - Mid-Atlantic United States
   - Southeastern United States
   - United States
+wikidata: "https://www.wikidata.org/wiki/Q1371"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:West_Virginia"
 tags:
   - state
 ---

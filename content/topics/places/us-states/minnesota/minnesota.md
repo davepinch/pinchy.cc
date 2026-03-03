@@ -23,6 +23,8 @@ state of:
   - Midwestern United States
   - United States
 TODO: add list of webcams in minnesota
+wikidata: "https://www.wikidata.org/wiki/Q1527"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnesota"
 tags:
   - state
   - TODO

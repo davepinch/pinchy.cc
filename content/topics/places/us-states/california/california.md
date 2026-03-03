@@ -19,6 +19,8 @@ state of:
   - United States
   - Pacific Ocean
 up the pacific coast: Oregon
+wikidata: "https://www.wikidata.org/wiki/Q99"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:California"
 tags:
   - state
 ---

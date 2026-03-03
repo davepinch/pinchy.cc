@@ -12,6 +12,8 @@ state of:
   - Northeastern United States
   - United States
 up the atlantic coast: New Brunswick
+wikidata: "https://www.wikidata.org/wiki/Q724"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Maine"
 tags:
   - state
 ---

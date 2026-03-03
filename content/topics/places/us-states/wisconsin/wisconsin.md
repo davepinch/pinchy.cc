@@ -16,6 +16,8 @@ state of:
   - Midwestern United States
   - United States
   - Lake Michigan
+wikidata: "https://www.wikidata.org/wiki/Q1537"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Wisconsin"
 tags:
   - state
 ---

@@ -14,6 +14,8 @@ down the mississippi: Kentucky
 state of:
   - Midwestern United States
   - United States
+wikidata: "https://www.wikidata.org/wiki/Q1581"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Missouri"
 tags:
   - state
 ---

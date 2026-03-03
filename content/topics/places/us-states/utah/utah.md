@@ -13,6 +13,8 @@ state of:
   - Southwestern United States
   - Western United States
   - United States
+wikidata: "https://www.wikidata.org/wiki/Q829"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Utah"
 tags:
   - state
 ---

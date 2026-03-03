@@ -11,6 +11,8 @@ state:
   - Southeastern United States
   - United States
 up the atlantic coast: Georgia
+wikidata: "https://www.wikidata.org/wiki/Q812"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Florida"
 tags:
   - state
 ---

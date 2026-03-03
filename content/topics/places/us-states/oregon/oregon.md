@@ -15,6 +15,8 @@ state of:
   - United States
   - Pacific Ocean
 up the pacific coast: Washington
+wikidata: "https://www.wikidata.org/wiki/Q824"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Oregon"
 tags:
   - state
 ---

@@ -10,6 +10,8 @@ state of:
   - Mid-Atlantic United States
   - United States
 up the atlantic coast: New Jersey
+wikidata: "https://www.wikidata.org/wiki/Q1393"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Delaware"
 tags:
   - state
 ---

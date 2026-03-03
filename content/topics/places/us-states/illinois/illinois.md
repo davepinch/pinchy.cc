@@ -15,6 +15,8 @@ state of:
   - Midwestern United States
   - United States
   - Lake Michigan
+wikidata: "https://www.wikidata.org/wiki/Q1204"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Illinois"
 tags:
   - state
 ---

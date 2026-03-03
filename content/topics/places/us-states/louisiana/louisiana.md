@@ -14,6 +14,8 @@ state of:
   - United States
 type: state
 up the coast: Mississippi
+wikidata: "https://www.wikidata.org/wiki/Q1588"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Louisiana"
 tags:
   - state
 ---

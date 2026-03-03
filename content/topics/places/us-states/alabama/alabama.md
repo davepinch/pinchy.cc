@@ -14,6 +14,8 @@ down the coast:
 state of:
   - Southeastern United States
   - United States
+wikidata: "https://www.wikidata.org/wiki/Q173"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Alabama"
 tags:
   - state
 ---

@@ -8,6 +8,7 @@ state of:
   - United States
   - Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q782"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Hawaii"
 tags:
   - archipelago
   - state

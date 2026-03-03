@@ -11,6 +11,8 @@ state of:
   - Northeastern United States
   - United States
 up the atlantic coast: Massachusetts
+wikidata: "https://www.wikidata.org/wiki/Q1387"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Rhode%20Island"
 tags:
   - state
 ---

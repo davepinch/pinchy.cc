@@ -15,6 +15,8 @@ state of:
   - Southeastern United States
   - United States
 up the coast: Alabama
+wikidata: "https://www.wikidata.org/wiki/Q1494"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mississippi%20(state)"
 tags:
   - state
 ---

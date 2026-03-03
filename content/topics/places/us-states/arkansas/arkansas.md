@@ -9,11 +9,11 @@ borders:
   - Tennessee
   - Texas
 down the mississippi: Mississippi
-notable people:
-  - Bill Clinton
 state of:
   - Southeastern United States
   - United States
+wikidata: "https://www.wikidata.org/wiki/Q1612"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Arkansas"
 tags:
   - state
 ---

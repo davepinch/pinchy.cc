@@ -11,6 +11,8 @@ state of:
   - Northeastern United States
   - United States
 up the atlantic coast: New York
+wikidata: "https://www.wikidata.org/wiki/Q1408"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:New%20Jersey"
 tags:
   - state
 ---

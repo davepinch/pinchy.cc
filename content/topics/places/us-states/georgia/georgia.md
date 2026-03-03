@@ -14,6 +14,8 @@ state of:
   - Southeastern United States
   - United States
 up the atlantic coast: South Carolina
+wikidata: "https://www.wikidata.org/wiki/Q1428"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Georgia%20(U.S.%20state)"
 tags:
   - state
 ---

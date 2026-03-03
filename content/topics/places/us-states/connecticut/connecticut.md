@@ -12,6 +12,8 @@ state of:
   - Northeastern United States
   - United States
 up the atlantic coast: Rhode Island
+wikidata: "https://www.wikidata.org/wiki/Q779"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Connecticut"
 tags:
   - state
 ---

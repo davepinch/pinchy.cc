@@ -19,6 +19,8 @@ state of:
 up the pacific coast:
   - British Columbia
   - Canada
+wikidata: "https://www.wikidata.org/wiki/Q1223"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_(state)"
 tags:
   - state
 ---

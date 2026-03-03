@@ -17,7 +17,8 @@ state of:
   - United States
   - Lake Michigan
   - Lake Superior
-type: state
+wikidata: "https://www.wikidata.org/wiki/Q1166"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Michigan"
 tags:
   - state
 ---

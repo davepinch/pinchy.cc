@@ -13,6 +13,8 @@ state of:
   - Northeastern United States
   - United States
 up the atlantic coast: New Hampshire
+wikidata: "https://www.wikidata.org/wiki/Q771"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Massachusetts"
 tags:
   - state
 ---
