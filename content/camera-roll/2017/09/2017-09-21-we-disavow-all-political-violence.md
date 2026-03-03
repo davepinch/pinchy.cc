@@ -1,5 +1,5 @@
 ---
-title: "We disavow all political violence."
+title: "We disavow all political violence"
 photograph of: poster
 picture: content/camera-roll/2017/09/2017-09-21-we-disavow-all-political-violence/20170921_010712035_iOS.jpg
 poster of:
