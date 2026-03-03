@@ -1,7 +1,7 @@
 ---
 title: "Contra"
 video game of:
-  - Konomi
+  - Konami
   - NES
 wikidata: "https://www.wikidata.org/wiki/Q849328"
 wikipedia: "https://en.wikipedia.org/wiki/Contra_(video_game)"

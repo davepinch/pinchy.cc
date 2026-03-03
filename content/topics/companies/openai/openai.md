@@ -14,6 +14,8 @@ founded by:
   - Sam Altman
 official website: "https://openai.com/"
 wikidata: "https://www.wikidata.org/wiki/Q21708200"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:OpenAI"
+wikipedia: "https://en.wikipedia.org/wiki/OpenAI"
 𝕏: "https://x.com/OpenAI"
 youtube: "https://www.youtube.com/@OpenAI"
 tags:
