@@ -5,6 +5,5 @@ verse: "My little children, let us not love in word, neither in tongue; but in d
 type: verse
 tags:
   - verse
-  - 1 John
   - truth
 ---
