@@ -14,6 +14,7 @@ city of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237218"
 wikidata: "https://www.wikidata.org/wiki/Q1515537"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Brier,_Washington"
 tags:
   - city
 ---

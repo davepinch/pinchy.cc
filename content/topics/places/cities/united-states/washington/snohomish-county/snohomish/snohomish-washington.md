@@ -19,6 +19,7 @@ official website: "https://www.snohomishwa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/237671"
 reddit: "https://www.reddit.com/r/Snohomish/"
 wikidata: "https://www.wikidata.org/wiki/Q1505974"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Snohomish,_Washington"
 tags:
   - city
 ---

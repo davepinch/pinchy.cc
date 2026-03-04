@@ -14,6 +14,7 @@ note: >-
   Alderwood Manor "fills up" the tip where Internet 5 and Interstate 405 merge north of Seattle. 
 openstreetmap: "https://www.openstreetmap.org/relation/237465"
 wikidata: "https://www.wikidata.org/entity/Q1515783"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Alderwood_Manor,_Washington"
 tags:
   - census-designated plate
 ---

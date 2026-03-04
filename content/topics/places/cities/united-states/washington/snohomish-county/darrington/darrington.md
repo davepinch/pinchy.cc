@@ -10,6 +10,7 @@ vicinity of:
   - North Fork Stillaguamish River
   - Mount Baker–Snoqualmie National Forest
 wikidata: "https://www.wikidata.org/entity/Q1507497"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Darrington,_Washington"
 tags:
   - town
 ---

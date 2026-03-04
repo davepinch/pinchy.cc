@@ -8,6 +8,7 @@ city of:
 openstreetmap: "https://www.openstreetmap.org/relation/237438"
 roadways: Interstate 5
 wikidata: "https://www.wikidata.org/wiki/Q1502426"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ferndale,_Washington"
 tags:
   - city
 ---

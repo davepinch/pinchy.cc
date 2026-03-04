@@ -9,4 +9,5 @@ unincorporated community of:
 wikidata: "https://www.wikidata.org/wiki/Q27989101"
 tags:
   - unincorporated community
+  - no Wikimedia category
 ---

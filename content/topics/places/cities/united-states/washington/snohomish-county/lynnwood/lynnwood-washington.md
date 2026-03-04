@@ -14,6 +14,7 @@ city of:
 openstreetmap: "https://www.openstreetmap.org/relation/237662"
 reddit: "https://www.reddit.com/r/LynnwoodWA/"
 wikidata: "https://www.wikidata.org/wiki/Q852607"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lynnwood,_Washington"
 tags:
   - city
 ---

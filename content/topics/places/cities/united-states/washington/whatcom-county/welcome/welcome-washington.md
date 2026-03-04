@@ -9,5 +9,6 @@ unincorporated community of:
 wikidata: "https://www.wikidata.org/wiki/Q27989117"
 tags:
   - unincorporated community
+  - no Wikimedia category
   - Racehorse Creek
 ---

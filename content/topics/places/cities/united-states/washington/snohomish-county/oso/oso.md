@@ -9,6 +9,7 @@ near:
   - Darrington, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/238116"
 wikidata: "https://www.wikidata.org/wiki/Q1510467"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Oso,_Washington"
 tags:
   - census-designated place
 ---

@@ -7,6 +7,7 @@ city of:
 near: Mount Persis
 openstreetmap: "https://www.openstreetmap.org/relation/237661"
 wikidata: "https://www.wikidata.org/wiki/Q1507629"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Index,_Washington"
 tags:
   - city
 ---

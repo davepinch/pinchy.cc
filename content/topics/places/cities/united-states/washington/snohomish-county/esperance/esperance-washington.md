@@ -8,5 +8,6 @@ surrounded by: Edmonds
 wikidata: "https://www.wikidata.org/wiki/Q1509659"
 tags:
   - census-designated place
+  - no Wikimedia category
 ---
 Esperance is standing firm against Edmonds annexation. See https://www.seanet.com/~hgg9140/politics/esperance/index.html.

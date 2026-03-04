@@ -5,6 +5,7 @@ census-designated place of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237254"
 wikidata: "https://www.wikidata.org/wiki/Q1504952"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Startup,_Washington"
 tags:
   - census-designated place
 ---

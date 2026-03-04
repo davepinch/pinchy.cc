@@ -9,6 +9,7 @@ reddit: "https://www.reddit.com/r/Marysville/"
 roadways: Interstate 5
 vantage point of: Mount Pilchuck
 wikidata: "https://www.wikidata.org/wiki/Q970001"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Marysville,_Washington"
 tags:
   - city
 ---

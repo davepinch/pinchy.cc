@@ -11,6 +11,7 @@ census-designated place of:
 formerly known as: Paine Field-Lake Stickney
 openstreetmap: "https://www.openstreetmap.org/relation/237489"
 wikidata: "https://www.wikidata.org/wiki/Q1503863"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Stickney"
 tags:
   - census-designated place
 ---

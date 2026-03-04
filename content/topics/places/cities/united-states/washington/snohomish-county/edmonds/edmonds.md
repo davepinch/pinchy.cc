@@ -21,6 +21,7 @@ reddit: "https://www.reddit.com/r/EdmondsWashington/"
 suburb of: Seattle
 up the pacific coast: Meadowdale, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1055845"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Edmonds,_Washington"
 tags:
   - city
 ---

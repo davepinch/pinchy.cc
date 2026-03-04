@@ -16,4 +16,5 @@ wikidata: "https://www.wikidata.org/wiki/Q5970062"
 tags:
   - census-designated place
   - no OpenStreetMap element
+  - no Wikimedia category
 ---

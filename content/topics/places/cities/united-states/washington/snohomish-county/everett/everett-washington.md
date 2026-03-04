@@ -17,6 +17,7 @@ reddit:
   - "https://www.reddit.com/r/everett/"
   - "https://www.reddit.com/r/EverettWa/"
 wikidata: "https://www.wikidata.org/wiki/Q392599"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Everett,_Washington"
 tags:
   - city
 ---

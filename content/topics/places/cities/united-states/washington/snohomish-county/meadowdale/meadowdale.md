@@ -15,4 +15,5 @@ up the pacific coast: Picnic Point, Washington
 wikidata: "https://www.wikidata.org/wiki/Q5661389"
 tags:
   - census-designated place
+  - no Wikimedia category
 ---

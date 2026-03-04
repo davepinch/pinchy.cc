@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1508441"
 wikipedia: "https://en.wikipedia.org/wiki/Maltby,_Washington"
 tags:
   - census-designated place
+  - no Wikimedia category
 ---
