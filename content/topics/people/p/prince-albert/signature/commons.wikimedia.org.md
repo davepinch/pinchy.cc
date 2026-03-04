@@ -1,6 +1,7 @@
 ---
 title: "Prince Albert's signature.svg (Wikimedia Commons)"
 description: "Signature of His Royal Highness The Prince Albert, Prince Consort of the United Kingdom of Great Britain and Ireland."
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b4/Prince_Albert%27s_signature.svg"
 signature of:
   - Prince Albert
