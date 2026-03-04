@@ -8,4 +8,5 @@ wikidata: "https://www.wikidata.org/wiki/Q5925910"
 wikipedia: "https://en.wikipedia.org/wiki/Jamestown,_Washington"
 tags:
   - unincorporated community
+  - no Wikimedia category
 ---

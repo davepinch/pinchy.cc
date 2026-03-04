@@ -8,6 +8,8 @@ city of:
 official website: "https://www.cityofcashmere.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/237805"
 wikidata: "https://www.wikidata.org/entity/Q1207471"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cashmere,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Cashmere"
 tags:
   - city
 ---

@@ -7,4 +7,5 @@ unincorporated community of:
   - Wenatchee River
 tags:
   - unincorporated community
+  - no Wikimedia category
 ---

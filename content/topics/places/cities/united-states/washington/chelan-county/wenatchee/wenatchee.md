@@ -10,6 +10,8 @@ city of:
   - Wenatchee River
 openstreetmap: "https://www.openstreetmap.org/relation/237797"
 wikidata: "https://www.wikidata.org/entity/Q958596"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Wenatchee,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Wenatchee"
 tags:
   - city
 ---
