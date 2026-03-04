@@ -14,5 +14,5 @@ openstreetmap: "https://www.openstreetmap.org/relation/6057934"
 wikidata: "https://www.wikidata.org/wiki/Q6046866"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Interlaken_Park_(Seattle)"
 tags:
-  - park
+  - city park
 ---
