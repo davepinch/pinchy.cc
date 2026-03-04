@@ -8,6 +8,7 @@ mountain range of:
   - United States
   - North America
 wikidata: "https://www.wikidata.org/wiki/Q885809"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Blue_Mountains_(Pacific_Northwest)"
 wikipedia: "https://en.wikipedia.org/wiki/Blue_Mountains_(Pacific_Northwest)"
 tags:
   - mountain range

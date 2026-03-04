@@ -8,6 +8,7 @@ mountain range of:
   - United States
   - North America
 wikidata: "https://www.wikidata.org/wiki/Q879014"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bitterroot_Mountains"
 wikipedia: "https://en.wikipedia.org/wiki/Bitterroot_Range"
 tags:
   - mountain range

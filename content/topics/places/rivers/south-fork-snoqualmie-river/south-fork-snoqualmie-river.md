@@ -11,6 +11,7 @@ river of:
   - Snoqualmie, Washington
 south fork of: Snoqualmie River
 wikidata: "https://www.wikidata.org/wiki/Q114381972"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:South_Fork_Snoqualmie_River"
 tags:
   - river
 ---

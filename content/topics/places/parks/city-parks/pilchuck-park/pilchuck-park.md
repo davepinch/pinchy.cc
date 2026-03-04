@@ -9,6 +9,7 @@ note: There is no OpenStreetMap element for the park. Instead the OpenStreetMap 
 official website: "https://www.snohomishwa.gov/Facilities/Facility/Details/Pilchuck-Park-6"
 openstreetmap: "https://www.openstreetmap.org/way/240893337"
 postal address: "169 Cypress Avenue, Snohomish, WA 98290"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Pilchuck_Park"
 tags:
   - city park
   - no OpenStreetMap element

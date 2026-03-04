@@ -13,6 +13,7 @@ mountain range of:
   - North America
 openstreetmap: "https://www.openstreetmap.org/way/838047573"
 wikidata: "https://www.wikidata.org/wiki/Q7688221"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Tatoosh_Range"
 wikipedia: "https://en.wikipedia.org/wiki/Tatoosh_Range"
 tags:
   - mountain range

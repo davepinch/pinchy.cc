@@ -10,4 +10,5 @@ tributary of: Snohomish River
 wikidata: "https://www.wikidata.org/wiki/Q4362811"
 tags:
   - river
+  - no Wikimedia category
 ---

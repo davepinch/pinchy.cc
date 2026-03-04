@@ -5,6 +5,7 @@ mountain range of:
   - United States
   - North America
 wikidata: "https://www.wikidata.org/wiki/Q5463"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Rocky_Mountains"
 tags:
   - mountain range
 ---

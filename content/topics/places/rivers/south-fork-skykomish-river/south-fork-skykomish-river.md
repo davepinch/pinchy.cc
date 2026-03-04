@@ -9,4 +9,5 @@ south fork of: Skykomish River
 wikidata: "https://www.wikidata.org/wiki/Q100251473"
 tags:
   - river
+  - no Wikimedia category
 ---

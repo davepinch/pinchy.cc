@@ -6,6 +6,7 @@ mountain range of:
   - United States
   - North America
 wikidata: "https://www.wikidata.org/wiki/Q250937"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Black_Hills"
 tags:
   - mountain range
 ---

@@ -12,4 +12,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Coeur_d'Alene_Mountains"
 tags:
   - mountain range
   - no OpenStreet element
+  - no Wikimedia category
 ---

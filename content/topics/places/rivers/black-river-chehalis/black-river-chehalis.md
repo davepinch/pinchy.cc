@@ -6,6 +6,7 @@ river of: Thurston County, Washington
 tributary of: Chehalis River
 vicinity of: Olympia, Washington
 wikidata: "https://www.wikidata.org/wiki/Q11173125"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Black_River_(Thurston_County,_Washington)"
 wikipedia: "https://en.wikipedia.org/wiki/Black_River_(Chehalis_River_tributary)"
 tags:
   - river

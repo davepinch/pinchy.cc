@@ -6,6 +6,7 @@ river of:
   - Washington
 tributary of: Nisqually River
 wikidata: "https://www.wikidata.org/wiki/Q6783102"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mashel_River"
 wikipedia: "https://en.wikipedia.org/wiki/Mashel_River"
 tags:
   - river

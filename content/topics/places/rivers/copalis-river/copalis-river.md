@@ -9,4 +9,5 @@ wikidata: "https://www.wikidata.org/wiki/Q85754028"
 wikipedia: "https://en.wikipedia.org/wiki/Copalis_River"
 tags:
   - river
+  - no Wikimedia category
 ---

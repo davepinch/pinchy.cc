@@ -10,6 +10,7 @@ mountain range of:
   - United States
   - North America
 wikidata: "https://www.wikidata.org/wiki/Q4558"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cascade_Range"
 tags:
   - mountain range
 ---

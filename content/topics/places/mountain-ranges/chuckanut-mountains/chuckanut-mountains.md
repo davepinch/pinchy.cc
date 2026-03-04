@@ -14,6 +14,7 @@ near:
   - Bellingham, Washington
   - Lake Samish
 wikidata: "https://www.wikidata.org/wiki/Q5115863"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Chuckanut_Mountains"
 tags:
   - mountain range
 ---

@@ -17,4 +17,5 @@ wikidata: "https://www.wikidata.org/wiki/Q22492671"
 wikipedia: "https://en.wikipedia.org/wiki/Vedder_River"
 tags:
   - river
+  - no Wikimedia category
 ---

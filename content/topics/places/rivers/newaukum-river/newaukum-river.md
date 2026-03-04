@@ -8,4 +8,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Newaukum_River"
 tags:
   - river
   - VISIT SOMEWHERE NEW
+  - no Wikimedia category
 ---

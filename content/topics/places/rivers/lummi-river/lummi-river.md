@@ -10,4 +10,5 @@ vicinity of: Bellingham, Washington
 wikidata: "https://www.wikidata.org/wiki/Q6703364"
 tags:
   - river
+  - no Wikimedia category
 ---
