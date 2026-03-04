@@ -10,6 +10,7 @@ river of:
   - Washington
 tributary of: Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q1861254"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Yakima_River"
 tags:
   - river
 ---

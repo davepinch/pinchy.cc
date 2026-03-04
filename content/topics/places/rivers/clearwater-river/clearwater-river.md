@@ -6,6 +6,7 @@ openstreetmap:
 river of: Idaho
 tributary of: Snake River
 wikidata: "https://www.wikidata.org/wiki/Q1099574"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Clearwater_River_(Idaho)"
 tags:
   - river
 ---

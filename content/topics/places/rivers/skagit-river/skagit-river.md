@@ -12,6 +12,7 @@ river of:
   - Puget Sound
   - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q305408"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Skagit_River"
 tags:
   - river
 ---

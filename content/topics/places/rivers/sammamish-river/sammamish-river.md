@@ -11,6 +11,7 @@ river of:
   - Kenmore, Washington
 source: Lake Sammamish
 wikidata: "https://www.wikidata.org/wiki/Q7409639"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sammamish_River"
 tags:
   - river
 ---

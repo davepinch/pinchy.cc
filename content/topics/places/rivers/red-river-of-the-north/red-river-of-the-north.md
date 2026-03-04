@@ -10,6 +10,7 @@ river of:
   - Manitoba
   - Canada
 wikidata: "https://www.wikidata.org/wiki/Q156006"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Red_River_of_the_North"
 wikipedia: "https://en.wikipedia.org/wiki/Red_River_of_the_North"
 tags:
   - river

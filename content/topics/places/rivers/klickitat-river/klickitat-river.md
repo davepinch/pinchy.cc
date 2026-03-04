@@ -8,6 +8,7 @@ river of:
   - Washington
 tributary of: Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q3197856"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Klickitat_River"
 tags:
   - river
 ---

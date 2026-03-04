@@ -6,6 +6,7 @@ river of:
   - Cascade Range
 tributary of: Sauk River
 wikidata: "https://www.wikidata.org/wiki/Q7635303"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Suiattle_River"
 tags:
   - river
 ---

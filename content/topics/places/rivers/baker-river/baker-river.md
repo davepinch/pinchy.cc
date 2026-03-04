@@ -14,6 +14,7 @@ river of:
   - Whatcom County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q2880217"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Baker_River,_Washington_State"
 tags:
   - river
 ---

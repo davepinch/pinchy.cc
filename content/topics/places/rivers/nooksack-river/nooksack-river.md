@@ -9,6 +9,7 @@ river of:
   - Cascade Range
   - Whatcom County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1996433"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Nooksack_River"
 tags:
   - river
 ---

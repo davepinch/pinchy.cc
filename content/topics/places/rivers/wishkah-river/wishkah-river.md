@@ -6,6 +6,7 @@ river of:
   - Grays Harbor County, Washington
 tributary of: Chehalis River
 wikidata: "https://www.wikidata.org/wiki/Q1905805"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Wishkah_River"
 tags:
   - river
   - VISIT SOMEWHERE NEW

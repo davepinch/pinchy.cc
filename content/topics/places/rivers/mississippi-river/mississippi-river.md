@@ -17,6 +17,7 @@ river of:
   - United States
   - North America
 wikidata: "https://www.wikidata.org/wiki/Q1497"
+wikimedia: "https://commons.wikimedia.org/wiki/Mississippi_River"
 tags:
   - river
 ---

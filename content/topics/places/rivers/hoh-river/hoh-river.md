@@ -10,6 +10,7 @@ river of:
   - Washington
 tributary of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q1164631"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Hoh_River"
 wikipedia: "https://en.wikipedia.org/wiki/Hoh_River"
 tags:
   - river

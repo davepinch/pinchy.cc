@@ -14,6 +14,7 @@ tributary of:
   - Port Susan
   - Puget Sound
 wikidata: "https://www.wikidata.org/wiki/Q2349527"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Stillaguamish_River"
 tags:
   - river
 ---

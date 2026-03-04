@@ -7,6 +7,7 @@ river of:
   - Minnesota
 tributary of: Minnesota River
 wikidata: "https://www.wikidata.org/wiki/Q2566734"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Whetstone_River"
 tags:
   - river
   - tributary

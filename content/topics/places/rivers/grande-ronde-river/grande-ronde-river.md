@@ -4,6 +4,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/3352797"
 river of: Oregon
 tributary of: Snake River
 wikidata: "https://www.wikidata.org/wiki/Q3115025"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Grande_Ronde_River"
 tags:
   - river
 ---

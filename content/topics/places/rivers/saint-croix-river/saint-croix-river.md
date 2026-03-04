@@ -6,6 +6,7 @@ river of:
   - Wisconsin
 tributary of: Mississippi River
 wikidata: "https://www.wikidata.org/wiki/Q1507416"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:St._Croix_River_(Wisconsin-Minnesota)"
 tags:
   - river
 ---

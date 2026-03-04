@@ -7,6 +7,7 @@ river of:
 tributary of: Columbia River
 TODO: Learn how to generate a nice looking SVG map of the Methow River (using open source/free tools).
 wikidata: "https://www.wikidata.org/wiki/Q3307375"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Methow_River"
 tags:
   - river
   - TODO

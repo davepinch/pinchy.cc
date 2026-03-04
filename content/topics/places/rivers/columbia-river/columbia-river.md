@@ -10,6 +10,7 @@ river of:
   - Washington
   - Oregon
 wikidata: "https://www.wikidata.org/wiki/Q2251"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Columbia_River"
 tags:
   - river
 ---

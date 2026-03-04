@@ -8,6 +8,7 @@ river of:
   - Washington
 tributary of: Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q1275618"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Spokane_River"
 wikipedia: "https://en.wikipedia.org/wiki/Spokane_River"
 tags:
   - river

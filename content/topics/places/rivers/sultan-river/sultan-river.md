@@ -9,6 +9,7 @@ river of:
   - Cascade Range
 tributary of: Skykomish River
 wikidata: "https://www.wikidata.org/wiki/Q4406013"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sultan_River"
 tags:
   - river
 ---

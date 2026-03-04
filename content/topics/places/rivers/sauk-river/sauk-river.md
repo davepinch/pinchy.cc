@@ -7,6 +7,7 @@ river of:
   - Cascade Range
 tributary of: Skagit River
 wikidata: "https://www.wikidata.org/wiki/Q3474195"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sauk_River_(Washington)"
 tags:
   - river
 ---
