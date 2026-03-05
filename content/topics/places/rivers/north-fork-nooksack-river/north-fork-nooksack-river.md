@@ -14,4 +14,5 @@ tags:
   - river
   - no OpenStreetMap element
   - no Wikidata record
+  - no Wikimedia category
 ---

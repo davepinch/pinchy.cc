@@ -10,4 +10,5 @@ river of:
 wikidata: "https://www.wikidata.org/wiki/Q113560047"
 tags:
   - river
+  - no Wikimedia category
 ---

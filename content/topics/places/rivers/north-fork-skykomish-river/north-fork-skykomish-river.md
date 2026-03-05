@@ -10,4 +10,5 @@ north fork of: Skykomish River
 wikidata: "https://www.wikidata.org/wiki/Q114381034"
 tags:
   - river
+  - no Wikimedia category
 ---
