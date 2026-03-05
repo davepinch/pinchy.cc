@@ -5,10 +5,9 @@ glacial erratic of:
   - Camano Island
   - Island County, Washington
   - Washington
-openstreetmap: "https://www.openstreetmap.org/query?lat=48.12837&lon=-122.49936"
+openstreetmap: "https://www.openstreetmap.org/node/12486030460"
 tags:
   - glacial erratic
-  - no OpenStreetMap element
   - no Wikidata record
   - no Wikipedia article
 ---
