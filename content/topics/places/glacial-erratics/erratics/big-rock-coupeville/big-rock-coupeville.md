@@ -11,10 +11,9 @@ glacial erratic of:
 not to be confused with:
   - Big Rock (Duvall, Washington)
   - Big Rock Park erratic
-openstreetmap: "https://www.openstreetmap.org/?mlat=48.210556&mlon=-122.687222&zoom=17"
+openstreetmap: "https://www.openstreetmap.org/node/12465992356"
 tags:
   - glacial erratic
-  - no OpenStreetMap element
   - no Wikidata record
   - no Wikipedia article
 ---
