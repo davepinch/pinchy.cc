@@ -7,6 +7,7 @@ tag requires property:
   - Wikidata
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q94247"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Interstate_Highway_System"
 wikipedia: "https://en.wikipedia.org/wiki/Interstate_Highway_System"
 tags:
   - type of highway
