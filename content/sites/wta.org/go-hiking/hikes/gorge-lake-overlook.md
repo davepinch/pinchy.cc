@@ -6,6 +6,7 @@ hiking of:
   - Gorge Lake
   - Gorge Dam
   - Skagit River
+retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/gorge-lake-overlook/
 website: "https://www.wta.org/go-hiking/hikes/gorge-lake-overlook"

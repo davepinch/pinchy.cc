@@ -6,6 +6,7 @@ hiking of:
   - Denny Creek
   - Denny Creek Trail
 not to be confused with: Denny Mountain (wta.org)
+retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/denny-creek/
 website: "https://www.wta.org/go-hiking/hikes/denny-creek"

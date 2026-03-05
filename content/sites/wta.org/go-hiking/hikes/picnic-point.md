@@ -3,6 +3,7 @@ title: "Picnic Point (wta.org)"
 excerpt: >-
   Picnic Point Park doesn't have any established trails per se, but the scenery here is delightful, and at low tide, it is possible to hike 1.5 miles to Meadowdale Beach, or 5 miles north to Point Elliot at Mukilteo, depending on how fast you hike.
 hiking of: Picnic Point Park
+retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/picnic-point/
 website: "https://www.wta.org/go-hiking/hikes/picnic-point"

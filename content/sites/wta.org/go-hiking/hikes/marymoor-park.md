@@ -5,6 +5,7 @@ excerpt: >-
 hiking of:
   - Marymoor Park
   - Sammamish River
+retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/marymoor-park/
 website: "https://www.wta.org/go-hiking/hikes/marymoor-park"

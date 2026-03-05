@@ -5,6 +5,7 @@ excerpt: >-
 hiking of:
   - Fort Ward to Blakely Harbor Trail
   - Bainbridge Island
+retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/fort-ward-to-blakely-harbor/
 website: "https://www.wta.org/go-hiking/hikes/fort-ward-to-blakely-harbor"

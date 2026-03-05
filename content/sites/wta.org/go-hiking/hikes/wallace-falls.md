@@ -1,12 +1,13 @@
 ---
 title: "Wallace Falls State Park (wta.org)"
 excerpt: >-
-  An accessible hike for seasoned veterans and neophytes alike, Wallace Falls provides visitors with breathtaking views of the Wallace River and the surrounding falls on a relatively low difficulty, scenic 5.6 mile round-trip. Although well attended and often busy, the trail stands as a true showcase of the diversity and majestic beauty that the Central Cascades can offer to hikers who journey into the heart of this sublime mountain range.
+  Despite the foot traffic Wallace Falls sees as one of Washington’s most popular attractions, those who get out early on the trailhead will be rewarded with a serene tranquility that few other hikes in the area can offer. And unlike many trails, which sacrifice peripheral scenery on the journey for the prospect of a grand summit view, the Woody Trail is consistently gorgeous as you wind your way along the Wallace River and approach the nine dazzling falls.
 hiking of:
   - Wallace Falls State Park
   - Woody Trail
   - Wallace River
   - North Fork Wallace River
+retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/wallace-falls/
 website: "https://www.wta.org/go-hiking/hikes/wallace-falls"

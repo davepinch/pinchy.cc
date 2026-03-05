@@ -5,6 +5,7 @@ excerpt: >-
 hiking of:
   - Rattlesnake Mountain
   - Rattlesnake Ridge
+retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/rattlesnake-mountain/
 website: "https://www.wta.org/go-hiking/hikes/rattlesnake-mountain"

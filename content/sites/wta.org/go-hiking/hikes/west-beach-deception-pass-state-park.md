@@ -5,6 +5,7 @@ excerpt: >-
 hiking of:
   - West Beach (Whidbey Island)
   - Deception Pass State Park
+retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/west-beach-deception-pass-state-park/
 website: "https://www.wta.org/go-hiking/hikes/west-beach-deception-pass-state-park"
