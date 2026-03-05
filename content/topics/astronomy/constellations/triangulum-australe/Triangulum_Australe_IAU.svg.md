@@ -17,8 +17,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Triangulum_Austral
 related:
   - Triangulum Australe (Wikipedia)
   - Triangulum_IAU.svg (Wikimedia Commons)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Triangulum_Australe_IAU.svg/498px-Triangulum_Australe_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Triangulum_Australe_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Triangulum_Australe_IAU.svg"

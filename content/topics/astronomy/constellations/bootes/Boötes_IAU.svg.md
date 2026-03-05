@@ -20,8 +20,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/47/Bo%C3%B6tes_IAU.svg"
 related: Boötes (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Bo%C3%B6tes_IAU.svg/390px-Bo%C3%B6tes_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Boötes_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Boötes_IAU.svg"

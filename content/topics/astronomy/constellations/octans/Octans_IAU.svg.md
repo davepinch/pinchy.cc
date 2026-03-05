@@ -16,7 +16,6 @@ excerpt: >-
 license: CC BY 3.0
 opposite: Ursa_Minor_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/76/Octans_IAU.svg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Octans_IAU.svg/461px-Octans_IAU.svg.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Octans_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Octans_IAU.svg"

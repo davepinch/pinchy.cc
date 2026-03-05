@@ -22,8 +22,6 @@ license: CC BY 3.0
 passage through the ecliptic: Leo_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Cancer_IAU.svg"
 related: Cancer (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Cancer_IAU.svg/509px-Cancer_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Cancer_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cancer_IAU.svg"

@@ -20,8 +20,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hercules_IAU.svg"
 related: Hercules (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Hercules_IAU.svg/390px-Hercules_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Hercules_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hercules_IAU.svg"

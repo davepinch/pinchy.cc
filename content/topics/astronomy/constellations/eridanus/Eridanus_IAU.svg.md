@@ -18,8 +18,7 @@ chart of:
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6b/Eridanus_IAU.svg"
 related: Eridanus (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eridanus_IAU.svg/470px-Eridanus_IAU.svg.png
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Eridanus_IAU.svg/500px-Eridanus_IAU.svg.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Eridanus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Eridanus_IAU.svg"

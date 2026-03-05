@@ -28,8 +28,6 @@ license: CC BY 3.0
 passage through the ecliptic: Sagittarius_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/65/Ophiuchus_IAU.svg"
 related: Ophiuchus (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Ophiuchus_IAU.svg/390px-Ophiuchus_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Ophiuchus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ophiuchus_IAU.svg"

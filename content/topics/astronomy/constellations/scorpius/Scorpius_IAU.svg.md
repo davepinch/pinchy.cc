@@ -28,8 +28,6 @@ license: CC BY 3.0
 passage through the ecliptic: Ophiuchus_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/38/Scorpius_IAU.svg"
 related: Scorpius (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Scorpius_IAU.svg/388px-Scorpius_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Scorpius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Scorpius_IAU.svg"

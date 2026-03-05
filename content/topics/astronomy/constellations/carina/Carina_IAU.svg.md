@@ -23,8 +23,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9b/Carina_IAU.svg"
 related: Carina (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Carina_IAU.svg/506px-Carina_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Carina_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Carina_IAU.svg"

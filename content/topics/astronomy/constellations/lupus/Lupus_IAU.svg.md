@@ -16,8 +16,6 @@ license: CC BY 3.0
 not to be confused with: Lepus_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/94/Lupus_IAU.svg"
 related: Lupus (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Lupus_IAU.svg/509px-Lupus_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Lupus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Lupus_IAU.svg"

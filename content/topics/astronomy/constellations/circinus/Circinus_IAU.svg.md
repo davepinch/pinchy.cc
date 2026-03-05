@@ -16,7 +16,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/de/Circinus_IAU.svg"
 related: Circinus (Wikipedia)
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Circinus_IAU.svg/516px-Circinus_IAU.svg.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Circinus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Circinus_IAU.svg"

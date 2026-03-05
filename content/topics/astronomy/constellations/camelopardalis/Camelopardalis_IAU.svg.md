@@ -19,8 +19,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bf/Camelopardalis_IAU.svg"
 related: Camelopardalis (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Camelopardalis_IAU.svg/548px-Camelopardalis_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Camelopardalis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Camelopardalis_IAU.svg"

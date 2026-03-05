@@ -26,8 +26,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/3c/Cygnus_IAU.svg"
 related: Cygnus (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Cygnus_IAU.svg/390px-Cygnus_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Cygnus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Cygnus_IAU.svg"

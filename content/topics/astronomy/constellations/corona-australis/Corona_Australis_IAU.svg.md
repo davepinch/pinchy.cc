@@ -15,8 +15,6 @@ license: CC BY 3.0
 opposite: Corona_Borealis_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/03/Corona_Australis_IAU.svg"
 related: Corona Australis (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Corona_Australis_IAU.svg/520px-Corona_Australis_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Corona_Australis_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Corona_Australis_IAU.svg"

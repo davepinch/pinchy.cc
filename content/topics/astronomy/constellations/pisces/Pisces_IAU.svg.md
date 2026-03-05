@@ -19,8 +19,6 @@ passage through the ecliptic: Aries_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/21/Pisces_IAU.svg"
 related: Pisces (constellation) (Wikipedia)
 see also: Piscis_Austrinus_IAU.svg (Wikimedia Commons)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pisces_IAU.svg/548px-Pisces_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Pisces_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Pisces_IAU.svg"

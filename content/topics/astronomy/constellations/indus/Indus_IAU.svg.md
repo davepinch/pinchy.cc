@@ -14,8 +14,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/0c/Indus_IAU.svg"
 related: Indus (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Indus_IAU.svg/510px-Indus_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Indus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Indus_IAU.svg"

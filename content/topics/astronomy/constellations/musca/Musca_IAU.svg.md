@@ -17,8 +17,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/dc/Musca_IAU.svg"
 related: Musca (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Musca_IAU.svg/517px-Musca_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Musca_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Musca_IAU.svg"

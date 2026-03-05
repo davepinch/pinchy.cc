@@ -30,8 +30,6 @@ license: CC BY 3.0
 not to be confused with: Hydrus_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Hydra_IAU.svg"
 related: Hydra (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Hydra_IAU.svg/320px-Hydra_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Hydra_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Hydra_IAU.svg"

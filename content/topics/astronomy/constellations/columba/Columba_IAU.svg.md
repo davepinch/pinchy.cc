@@ -14,8 +14,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/82/Columba_IAU.svg"
 related: "Columba (constellation) (Wikipedia)"
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Columba_IAU.svg/517px-Columba_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Columba_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Columba_IAU.svg"

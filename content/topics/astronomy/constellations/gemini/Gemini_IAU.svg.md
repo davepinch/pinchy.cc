@@ -25,8 +25,6 @@ license: CC BY 3.0
 passage through the ecliptic: Cancer_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Gemini_IAU.svg"
 related: Gemini (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gemini_IAU.svg/510px-Gemini_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Gemini_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Gemini_IAU.svg"

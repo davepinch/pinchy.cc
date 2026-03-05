@@ -21,8 +21,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b6/Draco_IAU.svg"
 related: Draco (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Draco_IAU.svg/547px-Draco_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Draco_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Draco_IAU.svg"

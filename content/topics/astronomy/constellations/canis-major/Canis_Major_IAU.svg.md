@@ -19,8 +19,6 @@ license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/be/Canis_Major_IAU.svg"
 related: Canis Major (Wikipedia)
 see also: Canis_Minor_IAU.svg (Wikimedia Commons)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Canis_Major_IAU.svg/499px-Canis_Major_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Canis_Major_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Canis_Major_IAU.svg"

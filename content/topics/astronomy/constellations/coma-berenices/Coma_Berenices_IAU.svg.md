@@ -19,8 +19,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d2/Coma_Berenices_IAU.svg"
 related: Coma Berenices (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Coma_Berenices_IAU.svg/509px-Coma_Berenices_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Coma_Berenices_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Coma_Berenices_IAU.svg"

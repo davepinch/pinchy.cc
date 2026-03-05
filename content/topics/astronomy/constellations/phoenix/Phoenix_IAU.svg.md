@@ -16,8 +16,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/68/Phoenix_IAU.svg"
 related: Phoenix (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Phoenix_IAU.svg/509px-Phoenix_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Phoenix_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Phoenix_IAU.svg"

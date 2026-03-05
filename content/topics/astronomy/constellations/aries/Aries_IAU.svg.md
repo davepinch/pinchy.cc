@@ -19,8 +19,6 @@ passage through the ecliptic: Taurus_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fc/Aries_IAU.svg"
 related: Aries (constellation) (Wikipedia)
 retrieved: 2023-06-26
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Aries_IAU.svg/509px-Aries_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Aries_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aries_IAU.svg"

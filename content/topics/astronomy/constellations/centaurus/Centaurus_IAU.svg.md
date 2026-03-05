@@ -25,8 +25,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/59/Centaurus_IAU.svg"
 related: Centaurus (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Centaurus_IAU.svg/546px-Centaurus_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Centaurus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Centaurus_IAU.svg"

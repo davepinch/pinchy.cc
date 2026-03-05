@@ -20,8 +20,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c6/Monoceros_IAU.svg"
 related: Monoceros (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Monoceros_IAU.svg/509px-Monoceros_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Monoceros_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Monoceros_IAU.svg"

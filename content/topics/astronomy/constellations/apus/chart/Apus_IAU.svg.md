@@ -16,8 +16,6 @@ license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f0/Apus_IAU.svg"
 related: Apus (Wikipedia)
 retrieved: 2023-06-26
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Apus_IAU.svg/428px-Apus_IAU.svg.png
 type: picture
 url: /wikimedia/Apus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Apus_IAU.svg"

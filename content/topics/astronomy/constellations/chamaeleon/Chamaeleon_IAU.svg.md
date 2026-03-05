@@ -15,8 +15,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/58/Chamaeleon_IAU.svg"
 related: Chamaeleon (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Chamaeleon_IAU.svg/387px-Chamaeleon_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Chamaeleon_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Chamaeleon_IAU.svg"

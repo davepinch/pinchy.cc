@@ -27,8 +27,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/f/ff/Orion_IAU.svg"
 related:
   - Orion (constellation) (Wikipedia)
   - OrionProper.gif (Wikimedia Commons)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Orion_IAU.svg/387px-Orion_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Orion_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Orion_IAU.svg"

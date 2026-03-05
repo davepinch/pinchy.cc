@@ -22,8 +22,6 @@ license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/92/Auriga_IAU.svg"
 related: Auriga (constellation) (Wikipedia)
 retrieved: 2023-06-26
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Auriga_IAU.svg/510px-Auriga_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Auriga_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Auriga_IAU.svg"

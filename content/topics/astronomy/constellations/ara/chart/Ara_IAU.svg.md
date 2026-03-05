@@ -20,8 +20,6 @@ license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Ara_IAU.svg"
 related: Ara (constellation) (Wikipedia)
 retrieved: 2023-06-26
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Ara_IAU.svg/520px-Ara_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Ara_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ara_IAU.svg"

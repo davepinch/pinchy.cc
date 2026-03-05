@@ -14,8 +14,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ad/Crater_IAU.svg"
 related: Crater (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Crater_IAU.svg/521px-Crater_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Crater_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Crater_IAU.svg"

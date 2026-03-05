@@ -22,8 +22,6 @@ excerpt: >-
 license: CC BY 3.0
 passage through the ecliptic: Gemini_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e9/Taurus_IAU.svg"
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/e/e9/Taurus_IAU.svg
 type: picture
 url: /commons.wikimedia.org/wiki/Taurus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Taurus_IAU.svg"

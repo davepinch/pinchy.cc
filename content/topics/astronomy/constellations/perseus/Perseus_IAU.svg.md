@@ -24,8 +24,6 @@ excerpt: >-
 license: CC BY 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Perseus_IAU.svg"
 related: Perseus (constellation) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Perseus_IAU.svg/510px-Perseus_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Perseus_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Perseus_IAU.svg"

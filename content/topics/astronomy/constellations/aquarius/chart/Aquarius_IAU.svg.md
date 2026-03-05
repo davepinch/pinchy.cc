@@ -25,8 +25,6 @@ passage through the ecliptic: Pisces_IAU.svg (Wikimedia Commons)
 picture: "https://upload.wikimedia.org/wikipedia/commons/9/9c/Aquarius_IAU.svg"
 related: Aquarius (constellation) (Wikipedia)
 retrieved: 2023-06-26
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Aquarius_IAU.svg/546px-Aquarius_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Aquarius_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Aquarius_IAU.svg"

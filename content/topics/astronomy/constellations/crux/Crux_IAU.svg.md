@@ -16,8 +16,6 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/c/cf/Crux_IAU.svg"
 related:
   - Crux (Wikipedia)
   - Flag_of_Australia_(converted).svg (Wikimedia Commons)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Crux_IAU.svg/507px-Crux_IAU.svg.png
 type: picture
 url: /commons.wikimedia.org/wiki/Crux_IAU.svg/
 website: "https://commons.wikimedia.org/wiki/File:Crux_IAU.svg"
