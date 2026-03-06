@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/lunds-gulch-meadowdale-county-park/
 website: "https://www.wta.org/go-hiking/hikes/lunds-gulch-meadowdale-county-park"
 tags:
+  - website
   - Washington Trails Association
 ---

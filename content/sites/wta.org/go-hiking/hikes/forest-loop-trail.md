@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/forest-loop-trail/
 website: "https://www.wta.org/go-hiking/hikes/forest-loop-trail"
 tags:
+  - website
   - Washington Trails Association
 ---

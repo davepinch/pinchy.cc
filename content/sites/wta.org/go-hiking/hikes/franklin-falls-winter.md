@@ -14,6 +14,6 @@ url: /www.wta.org/go-hiking/hikes/franklin-falls-winter/
 website: "https://www.wta.org/go-hiking/hikes/franklin-falls-winter"
 winter of: Franklin Falls (wta.org)
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

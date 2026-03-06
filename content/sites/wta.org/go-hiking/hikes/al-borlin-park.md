@@ -9,4 +9,5 @@ url: /www.wta.org/go-hiking/hikes/al-borlin-park/
 website: "https://www.wta.org/go-hiking/hikes/al-borlin-park"
 tags:
   - website
+  - Washington Trails Association
 ---

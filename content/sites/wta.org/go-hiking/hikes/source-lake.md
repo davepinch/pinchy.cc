@@ -10,5 +10,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/source-lake/
 website: "https://www.wta.org/go-hiking/hikes/source-lake"
 tags:
+  - website
   - Washington Trails Association
 ---

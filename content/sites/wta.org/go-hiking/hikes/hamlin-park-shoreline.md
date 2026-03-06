@@ -8,6 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/hamlin-park-shoreline/
 website: "https://www.wta.org/go-hiking/hikes/hamlin-park-shoreline"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

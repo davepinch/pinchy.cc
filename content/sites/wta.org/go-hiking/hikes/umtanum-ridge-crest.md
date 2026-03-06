@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/umtanum-ridge-crest/
 website: "https://www.wta.org/go-hiking/hikes/umtanum-ridge-crest"
 tags:
+  - website
   - Washington Trails Association
 ---

@@ -10,5 +10,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/fort-ward-to-blakely-harbor/
 website: "https://www.wta.org/go-hiking/hikes/fort-ward-to-blakely-harbor"
 tags:
+  - website
   - Washington Trails Association
 ---

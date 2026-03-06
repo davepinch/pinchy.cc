@@ -8,6 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/north-creek-forest/
 website: "https://www.wta.org/go-hiking/hikes/north-creek-forest"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

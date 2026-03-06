@@ -9,4 +9,5 @@ url: /www.wta.org/go-hiking/hikes/brightwater-center-king-county/
 website: "https://www.wta.org/go-hiking/hikes/brightwater-center-king-county"
 tags:
   - website
+  - Washington Trails Association
 ---

@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/squak-mountain-eastside-loop/
 website: "https://www.wta.org/go-hiking/hikes/squak-mountain-eastside-loop"
 tags:
+  - website
   - Washington Trails Association
 ---

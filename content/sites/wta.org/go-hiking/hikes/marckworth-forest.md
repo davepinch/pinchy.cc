@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/marckworth-forest/
 website: "https://www.wta.org/go-hiking/hikes/marckworth-forest"
 tags:
+  - website
   - Washington Trails Association
 ---

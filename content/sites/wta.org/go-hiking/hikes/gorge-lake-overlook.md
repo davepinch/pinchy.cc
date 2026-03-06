@@ -11,6 +11,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/gorge-lake-overlook/
 website: "https://www.wta.org/go-hiking/hikes/gorge-lake-overlook"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

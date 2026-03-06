@@ -10,6 +10,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/lake-serene/
 website: "https://www.wta.org/go-hiking/hikes/lake-serene"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

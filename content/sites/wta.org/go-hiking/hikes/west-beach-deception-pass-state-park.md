@@ -10,6 +10,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/west-beach-deception-pass-state-park/
 website: "https://www.wta.org/go-hiking/hikes/west-beach-deception-pass-state-park"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

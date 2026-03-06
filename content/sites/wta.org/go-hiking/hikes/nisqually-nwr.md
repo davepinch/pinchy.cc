@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/nisqually-nwr/
 website: "https://www.wta.org/go-hiking/hikes/nisqually-nwr"
 tags:
+  - website
   - Washington Trails Association
 ---

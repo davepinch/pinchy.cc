@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/oyster-dome/
 website: "https://www.wta.org/go-hiking/hikes/oyster-dome"
 tags:
+  - website
   - Washington Trails Association
 ---

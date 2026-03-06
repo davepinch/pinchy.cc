@@ -8,6 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/magnuson-park/
 website: "https://www.wta.org/go-hiking/hikes/magnuson-park"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

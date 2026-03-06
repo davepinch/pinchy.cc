@@ -9,4 +9,5 @@ url: /www.wta.org/go-hiking/hikes/camano-island-state-park/
 website: "https://www.wta.org/go-hiking/hikes/camano-island-state-park"
 tags:
   - website
+  - Washington Trails Association
 ---

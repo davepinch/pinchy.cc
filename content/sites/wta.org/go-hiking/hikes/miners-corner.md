@@ -8,6 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/miners-corner/
 website: "https://www.wta.org/go-hiking/hikes/miners-corner"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

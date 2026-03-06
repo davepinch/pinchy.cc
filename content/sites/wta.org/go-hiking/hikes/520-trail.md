@@ -9,4 +9,5 @@ url: /www.wta.org/go-hiking/hikes/520-trail/
 website: "https://www.wta.org/go-hiking/hikes/520-trail"
 tags:
   - website
+  - Washington Trails Association
 ---

@@ -9,6 +9,6 @@ url: /www.wta.org/go-hiking/hikes/granite-mountain/
 warning: "In winter the trail up Granite Mountain crosses a large avalanche chute early in the hike. Please have experience navigating avalanche terrain and the proper equipment when hiking this trail in the winter."
 website: "https://www.wta.org/go-hiking/hikes/granite-mountain"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

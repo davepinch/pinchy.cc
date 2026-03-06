@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/southwest-county-park/
 website: "https://www.wta.org/go-hiking/hikes/southwest-county-park"
 tags:
+  - website
   - Washington Trails Association
 ---

@@ -9,4 +9,5 @@ url: /www.wta.org/go-hiking/hikes/north-trail-saint-edward-state-park/
 website: "https://www.wta.org/go-hiking/hikes/north-trail-saint-edward-state-park"
 tags:
   - website
+  - Washington Trails Association
 ---

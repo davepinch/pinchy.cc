@@ -11,5 +11,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/denny-creek/
 website: "https://www.wta.org/go-hiking/hikes/denny-creek"
 tags:
+  - website
   - Washington Trails Association
 ---

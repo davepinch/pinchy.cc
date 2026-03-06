@@ -10,6 +10,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/green-lake-1/
 website: "https://www.wta.org/go-hiking/hikes/green-lake-1"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

@@ -11,6 +11,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/langus-riverfront-park/
 website: "https://www.wta.org/go-hiking/hikes/langus-riverfront-park"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

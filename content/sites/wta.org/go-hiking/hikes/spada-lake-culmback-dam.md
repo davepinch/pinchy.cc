@@ -9,6 +9,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/spada-lake-culmback-dam/
 website: "https://www.wta.org/go-hiking/hikes/spada-lake-culmback-dam"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

@@ -8,6 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/denny-mountain/
 website: "https://www.wta.org/go-hiking/hikes/denny-mountain"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

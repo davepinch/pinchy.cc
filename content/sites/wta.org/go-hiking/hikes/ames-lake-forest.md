@@ -9,4 +9,5 @@ url: /www.wta.org/go-hiking/hikes/ames-lake-forest/
 website: "https://www.wta.org/go-hiking/hikes/ames-lake-forest"
 tags:
   - website
+  - Washington Trails Association
 ---

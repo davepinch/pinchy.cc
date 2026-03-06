@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/sammamish-river-trail/
 website: "https://www.wta.org/go-hiking/hikes/sammamish-river-trail"
 tags:
+  - website
   - Washington Trails Association
 ---

@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/ebey-waterfront-trail/
 website: "https://www.wta.org/go-hiking/hikes/ebey-waterfront-trail"
 tags:
+  - website
   - Washington Trails Association
 ---

@@ -11,6 +11,6 @@ url: /www.wta.org/go-hiking/hikes/gunn-peak/
 warning: "This area is incredibly sensitive. Pack out all human waste."
 website: "https://www.wta.org/go-hiking/hikes/gunn-peak"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

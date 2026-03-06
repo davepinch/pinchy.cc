@@ -10,5 +10,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/scriber-lake/
 website: "https://www.wta.org/go-hiking/hikes/scriber-lake"
 tags:
+  - website
   - Washington Trails Association
 ---

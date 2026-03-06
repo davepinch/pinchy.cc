@@ -11,4 +11,5 @@ url: /www.wta.org/go-hiking/hikes/blyth-park/
 website: "https://www.wta.org/go-hiking/hikes/blyth-park"
 tags:
   - website
+  - Washington Trails Association
 ---

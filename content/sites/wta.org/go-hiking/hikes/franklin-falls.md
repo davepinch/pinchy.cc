@@ -12,6 +12,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/franklin-falls/
 website: "https://www.wta.org/go-hiking/hikes/franklin-falls"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

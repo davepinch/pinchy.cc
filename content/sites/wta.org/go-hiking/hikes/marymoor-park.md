@@ -10,6 +10,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/marymoor-park/
 website: "https://www.wta.org/go-hiking/hikes/marymoor-park"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

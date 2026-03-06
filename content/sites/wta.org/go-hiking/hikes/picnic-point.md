@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/picnic-point/
 website: "https://www.wta.org/go-hiking/hikes/picnic-point"
 tags:
+  - website
   - Washington Trails Association
 ---

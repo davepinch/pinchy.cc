@@ -10,5 +10,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/rattlesnake-ledge/
 website: "https://www.wta.org/go-hiking/hikes/rattlesnake-ledge"
 tags:
+  - website
   - Washington Trails Association
 ---

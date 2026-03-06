@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/lord-hill-regional-park/
 website: "https://www.wta.org/go-hiking/hikes/lord-hill-regional-park"
 tags:
+  - website
   - Washington Trails Association
 ---

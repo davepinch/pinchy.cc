@@ -10,5 +10,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/rattlesnake-mountain/
 website: "https://www.wta.org/go-hiking/hikes/rattlesnake-mountain"
 tags:
+  - website
   - Washington Trails Association
 ---

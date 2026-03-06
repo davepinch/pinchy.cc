@@ -8,6 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/farrells-marsh-wildlife-area/
 website: "https://www.wta.org/go-hiking/hikes/farrells-marsh-wildlife-area"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/fort-ward-park/
 website: "https://www.wta.org/go-hiking/hikes/fort-ward-park"
 tags:
+  - website
   - Washington Trails Association
 ---

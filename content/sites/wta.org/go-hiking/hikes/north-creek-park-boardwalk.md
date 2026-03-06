@@ -9,4 +9,5 @@ url: /www.wta.org/go-hiking/hikes/north-creek-park-boardwalk/
 website: "https://www.wta.org/go-hiking/hikes/north-creek-park-boardwalk"
 tags:
   - website
+  - Washington Trails Association
 ---

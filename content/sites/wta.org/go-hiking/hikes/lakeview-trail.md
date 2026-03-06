@@ -8,6 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/lakeview-trail/
 website: "https://www.wta.org/go-hiking/hikes/lakeview-trail"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

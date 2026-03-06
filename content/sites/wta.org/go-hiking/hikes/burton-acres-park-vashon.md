@@ -8,4 +8,5 @@ url: /www.wta.org/go-hiking/hikes/burton-acres-park-vashon/
 website: "https://www.wta.org/go-hiking/hikes/burton-acres-park-vashon"
 tags:
   - website
+  - Washington Trails Association
 ---

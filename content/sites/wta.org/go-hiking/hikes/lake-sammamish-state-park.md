@@ -8,6 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/lake-sammamish-state-park/
 website: "https://www.wta.org/go-hiking/hikes/lake-sammamish-state-park"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---

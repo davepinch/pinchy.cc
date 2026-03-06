@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/paradise-valley-conservation-area/
 website: "https://www.wta.org/go-hiking/hikes/paradise-valley-conservation-area"
 tags:
+  - website
   - Washington Trails Association
 ---

@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/terrace-creek-park/
 website: "https://www.wta.org/go-hiking/hikes/terrace-creek-park"
 tags:
+  - website
   - Washington Trails Association
 ---

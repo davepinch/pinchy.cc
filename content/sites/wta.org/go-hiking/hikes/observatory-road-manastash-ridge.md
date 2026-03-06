@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/observatory-road-manastash-ridge/
 website: "https://www.wta.org/go-hiking/hikes/observatory-road-manastash-ridge"
 tags:
+  - website
   - Washington Trails Association
 ---

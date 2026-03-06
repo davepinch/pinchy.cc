@@ -8,5 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/low-mountain/
 website: "https://www.wta.org/go-hiking/hikes/low-mountain"
 tags:
+  - website
   - Washington Trails Association
 ---

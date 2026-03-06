@@ -12,6 +12,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/wallace-falls/
 website: "https://www.wta.org/go-hiking/hikes/wallace-falls"
 tags:
-  - Washington Trails Association
   - website
+  - Washington Trails Association
 ---
