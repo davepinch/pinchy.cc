@@ -2,6 +2,7 @@
 title: "Niels_Bohr.jpg (Wikimedia Commons)"
 colleagues:
   - Einstein_1921_by_F_Schmutzer_-_restoration.jpg (Wikimedia Commons)
+description: "Niels Bohr, physicist, circa 1922. The American Institute of Physics credits the photo to AB Lagrelius & Westphal, which is the Swedish company used by the Nobel Foundation for most photos of its book series Les Prix Nobel."
 license: public domain
 portrait of: Niels Bohr
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6d/Niels_Bohr.jpg"
@@ -14,4 +15,3 @@ tags:
   - black and white photograph
   - portrait
 ---
-Niels Bohr, physicist, circa 1922. The American Institute of Physics credits the photo to AB Lagrelius & Westphal, which is the Swedish company used by the Nobel Foundation for most photos of its book series Les Prix Nobel.
