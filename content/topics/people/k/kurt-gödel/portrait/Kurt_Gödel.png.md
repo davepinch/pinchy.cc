@@ -9,8 +9,7 @@ photograph of: Kurt Gödel
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/d/d7/Kurt_G%C3%B6del.png
 related: Kurt Gödel (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kurt_G%C3%B6del.png/350px-Kurt_G%C3%B6del.png
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Kurt_G%C3%B6del.png/500px-Kurt_G%C3%B6del.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Kurt_Gödel.png/
 website: "https://commons.wikimedia.org/wiki/File:Kurt_G%C3%B6del.png"
