@@ -4,6 +4,7 @@ colleagues:
   - Niels_Bohr.jpg (Wikimedia Commons)
 description: "Albert Einstein during a lecture in Vienna in 1921"
 good friend: Kurt_Gödel.png (Wikimedia Commons)
+lecture in: Vienna
 license: public domain
 photograph of:
   - Albert Einstein
