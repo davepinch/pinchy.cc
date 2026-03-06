@@ -1,6 +1,6 @@
 ---
 title: "birth of Tulsi Gabbard (Wikipedia)"
-✂️: "Gabbard was born on April 12, 1981 in Leloaloa, Maʻopūtasi County, on American Samoa's main island of Tutuila."
+✂️: "[Tulsi] Gabbard was born on April 12, 1981 in Leloaloa, Maʻopūtasi County, on American Samoa's main island of Tutuila."
 birth of: Tulsi Gabbard
 born in: American Samoa
 citation: >-
