@@ -1,14 +1,15 @@
 ---
 title: "Einstein_1921_by_F_Schmutzer_-_restoration.jpg (Wikimedia Commons)"
+chalkboard of:
+  - circle
+  - right angle
 colleagues:
   - Niels_Bohr.jpg (Wikimedia Commons)
 description: "Albert Einstein during a lecture in Vienna in 1921"
 good friend: Kurt_Gödel.png (Wikimedia Commons)
 lecture in: Vienna
 license: public domain
-photograph of:
-  - Albert Einstein
-  - circle
+photograph of: Albert Einstein
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Einstein_1921_by_F_Schmutzer_-_restoration.jpg/500px-Einstein_1921_by_F_Schmutzer_-_restoration.jpg"
 type: picture
