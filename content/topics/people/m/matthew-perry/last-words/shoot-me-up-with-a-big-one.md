@@ -9,6 +9,5 @@ type: quote
 when: 2023-10-28
 tags:
   - last words
-  - Wikiquote
   - quote
 ---
