@@ -6,10 +6,10 @@ borders:
   - Star Tales - Ursa Major (ianridpath.com)
 excerpt: >-
   The Polish astronomer Johannes Hevelius formed this constellation in 1687 from a scattering of faint stars beneath the tail of Ursa Major. Canes Venatici represents a pair of greyhounds held on a lead by Boötes, snapping at the heels of the Great Bear. Hevelius named the dogs Asterion (‘Starry’) and Chara (‘Dear’), identifying them as male and female respectively...
-history of:
+size ranking: 38
+star tales of:
   - Canes Venatici
   - Cor Caroli
-size ranking: 38
 type: website
 url: /www.ianridpath.com/startales/canesvenatici.html/
 website: "http://www.ianridpath.com/startales/canesvenatici.html"

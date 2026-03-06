@@ -12,8 +12,8 @@ borders:
   - Star Tales - Serpens (ianridpath.com)
 excerpt: >-
   Aquila represents an eagle, the thunderbird of the Greeks. The constellation’s name in Greek was Ἀετός, i.e. Aetos, meaning eagle. There are several explanations for the presence of this eagle in the sky. In Greek and Roman mythology, the eagle was the bird of Zeus, carrying (and retrieving) the thunderbolts which the wrathful god hurled at his enemies. But the eagle was involved in love as well as war.
-history of: Aquila
 size ranking: 22
+star tales of: Aquila
 type: website
 url: /www.ianridpath.com/startales/aquila.html/
 website: "http://www.ianridpath.com/startales/aquila.html"
