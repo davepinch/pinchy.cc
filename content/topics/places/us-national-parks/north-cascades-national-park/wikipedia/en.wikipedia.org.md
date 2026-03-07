@@ -9,5 +9,5 @@ url: /en.wikipedia.org/wiki/North_Cascades_National_Park/
 website: "https://en.wikipedia.org/wiki/North_Cascades_National_Park"
 wikipedia of: North Cascades National Park
 tags:
-  - website
+  - Wikipedia
 ---
