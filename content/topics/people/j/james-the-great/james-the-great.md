@@ -7,6 +7,7 @@ person of:
   - Bible
 son of: Zebedee
 wikidata: "https://www.wikidata.org/wiki/Q43999"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Saint_James_the_Greater"
 wikipedia: "https://en.wikipedia.org/wiki/James_the_Great"
 tags:
   - person
