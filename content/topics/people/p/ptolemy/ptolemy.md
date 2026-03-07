@@ -1,7 +1,6 @@
 ---
 title: "Ptolemy"
-resident of: Alexandria
-type: person
+person of: Alexandria
 wikidata: "https://www.wikidata.org/wiki/Q34943"
 tags:
   - Roman
