@@ -2,6 +2,7 @@
 title: "John the Apostle"
 apostle of: Jesus
 brother: James the Great
+not to be confused with: John the Baptist
 person of:
   - New Testament
   - Bible

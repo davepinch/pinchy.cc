@@ -1,5 +1,6 @@
 ---
 title: "John the Baptist"
+not to be confused with: John the Apostle
 person of:
   - New Testament
   - Bible
