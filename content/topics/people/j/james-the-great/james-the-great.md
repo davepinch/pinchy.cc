@@ -5,6 +5,7 @@ brother: John the Apostle
 person of:
   - New Testament
   - Bible
+son of: Zebedee
 wikidata: "https://www.wikidata.org/wiki/Q43999"
 wikipedia: "https://en.wikipedia.org/wiki/James_the_Great"
 tags:
