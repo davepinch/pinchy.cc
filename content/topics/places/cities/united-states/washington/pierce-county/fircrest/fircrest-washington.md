@@ -10,4 +10,5 @@ openstreetmap: "https://www.openstreetmap.org/relation/237682"
 wikidata: "https://www.wikidata.org/entity/Q1505832"
 tags:
   - city
+  - no Wikimedia category
 ---

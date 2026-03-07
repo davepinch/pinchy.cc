@@ -8,4 +8,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1502819"
 wikipedia: "https://en.wikipedia.org/wiki/Waller,_Washington"
 tags:
   - census-designated place
+  - no Wikimedia category
 ---

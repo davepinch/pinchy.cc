@@ -9,4 +9,5 @@ wikidata: "https://www.wikidata.org/wiki/Q6168166"
 wikipedia: "https://en.wikipedia.org/wiki/Wollochet%2C_Washington"
 tags:
   - census-designated place
+  - no Wikimedia category
 ---

@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q3474261"
 wikipedia: "https://en.wikipedia.org/wiki/Dash_Point,_Washington"
 tags:
   - unincorporated community
+  - no Wikimedia category
 ---

@@ -12,6 +12,7 @@ city of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237674"
 wikidata: "https://www.wikidata.org/entity/Q1516205"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Milton,_Washington"
 tags:
   - city
 ---
