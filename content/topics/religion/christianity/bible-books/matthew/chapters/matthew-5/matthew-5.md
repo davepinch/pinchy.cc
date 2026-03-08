@@ -1,5 +1,6 @@
 ---
 title: "Matthew 5"
+⬅️: Matthew 4
 chapter of: Gospel of Matthew
 wikidata: "https://www.wikidata.org/wiki/Q6789966"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Gospel_of_Matthew_-_Chapter_5"

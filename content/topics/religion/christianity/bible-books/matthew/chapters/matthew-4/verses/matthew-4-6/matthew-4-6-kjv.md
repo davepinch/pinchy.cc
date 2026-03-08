@@ -1,0 +1,10 @@
+---
+title: "Matthew 4:6 KJV"
+➡️: "Matthew 4:7 KJV"
+⬅️: "Matthew 4:5 KJV"
+King James Version of: "Matthew 4:6"
+type: verse
+verse: "And saith unto him, If thou be the Son of God, cast thyself down: for it is written, He shall give his angels charge concerning thee: and in their hands they shall bear thee up, lest at any time thou dash thy foot against a stone."
+tags:
+  - verse
+---
