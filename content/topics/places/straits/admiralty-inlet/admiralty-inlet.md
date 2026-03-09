@@ -8,6 +8,7 @@ strait of:
   - Jefferson County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q887756"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Admiralty_Inlet"
 wikipedia: "https://en.wikipedia.org/wiki/Admiralty_Inlet"
 tags:
   - strait
