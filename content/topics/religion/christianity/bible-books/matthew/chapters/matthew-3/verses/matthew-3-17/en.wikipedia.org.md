@@ -8,7 +8,7 @@ type: website
 url: /en.wikipedia.org/wiki/Matthew_3--colon--17/
 verse of: Matthew 3 (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Matthew_3:17"
-wikipedia of: "Matthew 3:17
+wikipedia of: "Matthew 3:17"
 tags:
   - Wikipedia
 ---
