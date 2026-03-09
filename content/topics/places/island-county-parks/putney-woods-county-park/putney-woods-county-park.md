@@ -1,6 +1,6 @@
 ---
 title: "Putney Woods County Park"
-country park of:
+county park of:
   - Island County, Washington
   - Whidbey Island
 mapcarta: "https://mapcarta.com/W319801380"
