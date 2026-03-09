@@ -1,5 +1,6 @@
 ---
-title: "Fort was born in Albany, New York, in 1874, of Dutch ancestry."
+title: "birth of Charles Fort (Wikipedia)"
+✂️: "[Charles] Fort was born in Albany, New York, in 1874, of Dutch ancestry."
 birth of: Charles Fort
 born in: Albany, New York
 citation: >-
