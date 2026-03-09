@@ -2,6 +2,8 @@
 title: "Mark 1:15 NIV"
 ⬅️: "Mark 1:14 NIV"
 ➡️: "Mark 1:16 NIV"
+cross-reference:
+  - "Matthew 3:2 NIV"
 New International Version of: "Mark 1:15"
 verse: "“The time has come,” he said. “The kingdom of God has come near. Repent and believe the good news!”"
 type: verse

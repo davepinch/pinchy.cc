@@ -1,6 +1,9 @@
 ---
 title: "Isaiah 40:3 NIV"
-cross-reference: "John 1:23 NIV"
+cross-reference:
+  - "John 1:23 NIV"
+  - "Matthew 3:1 NIV"
+  - "Matthew 3:3 NIV"
 New International Version of: "Isaiah 40:3"
 type: verse
 verse: >-

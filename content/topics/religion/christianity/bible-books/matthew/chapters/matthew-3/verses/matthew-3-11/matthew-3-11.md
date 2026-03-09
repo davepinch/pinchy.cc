@@ -5,7 +5,9 @@ cross-reference:
   - "John 1:30"
   - "Luke 3:16"
   - "Mark 1:7"
-verse of: Matthew 3
+verse of:
+  - Matthew 3
+  - Holy Spirit
 wikidata: "https://www.wikidata.org/wiki/Q6789923"
 tags:
   - verse of the Bible

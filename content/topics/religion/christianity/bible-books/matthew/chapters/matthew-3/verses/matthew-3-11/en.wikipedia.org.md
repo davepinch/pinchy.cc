@@ -5,7 +5,8 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-03-08
 type: website
-url: /en.wikipedia.org/wiki/Matthew_3:11/
+url: /en.wikipedia.org/wiki/Matthew_3--colon--11/
+verse of: Matthew 3 (Wikipedia)
 website: "https://en.wikipedia.org/wiki/Matthew_3:11"
 wikipedia of: "Matthew 3:11"
 tags:

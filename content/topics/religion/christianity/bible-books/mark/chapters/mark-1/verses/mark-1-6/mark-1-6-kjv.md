@@ -2,6 +2,8 @@
 title: "Mark 1:6 KJV"
 ⬅️: "Mark 1:5 KJV"
 ➡️: "Mark 1:7 KJV"
+cross-reference:
+  - "Matthew 3:4 KJV"
 King James Version of: "Mark 1:6"
 verse: "And John was clothed with camel's hair, and with a girdle of a skin about his loins; and he did eat locusts and wild honey;"
 type: verse
