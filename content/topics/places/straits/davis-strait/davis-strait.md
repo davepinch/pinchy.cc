@@ -9,6 +9,7 @@ strait of:
   - Nunavut
   - Greenland
 wikidata: "https://www.wikidata.org/wiki/Q189262"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Davis_Strait"
 wikipedia: "https://en.wikipedia.org/wiki/Davis_Strait"
 tags:
   - strait

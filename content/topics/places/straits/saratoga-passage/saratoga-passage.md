@@ -7,4 +7,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Saratoga_Passage"
 tags:
   - strait
   - VISIT SOMEWHERE NEW
+  - no Wikimedia category
 ---

@@ -10,6 +10,7 @@ TODO: identify cities along the main shoreline that border the East Passage.
 wikidata: "https://www.wikidata.org/wiki/Q49111176"
 tags:
   - strait
+  - no Wikimedia category
   - no Wikipedia article
   - TODO
 ---

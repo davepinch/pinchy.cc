@@ -10,6 +10,7 @@ strait of:
   - Red Sea
 openstreetmap: "https://www.openstreetmap.org/relation/11169730"
 wikidata: "https://www.wikidata.org/wiki/Q83318"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bab-el-Mandeb"
 tags:
   - strait
 ---

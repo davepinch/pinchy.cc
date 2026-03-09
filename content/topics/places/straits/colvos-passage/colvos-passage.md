@@ -6,6 +6,7 @@ strait of:
   - Kitsap Peninsula
   - Vashon Island
 wikidata: "https://www.wikidata.org/wiki/Q5150316"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Colvos_Passage"
 wikipedia: "https://en.wikipedia.org/wiki/Colvos_Passage"
 tags:
   - strait

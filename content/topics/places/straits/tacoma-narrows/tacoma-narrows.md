@@ -6,6 +6,7 @@ strait of:
   - Kitsap Peninsula
   - Tacoma, Washington
 wikidata: "https://www.wikidata.org/wiki/Q3267014"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Tacoma_Narrows"
 wikipedia: "https://en.wikipedia.org/wiki/Tacoma_Narrows"
 tags:
   - strait

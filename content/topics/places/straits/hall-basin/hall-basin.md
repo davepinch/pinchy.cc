@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1457158"
 wikipedia: "https://en.wikipedia.org/wiki/Hall_Basin"
 tags:
   - strait
+  - no Wikimedia category
 ---

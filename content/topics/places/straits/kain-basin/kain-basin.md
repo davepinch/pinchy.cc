@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1510928"
 wikipedia: "https://en.wikipedia.org/wiki/Kane_Basin"
 tags:
   - strait
+  - no Wikimedia category
 ---

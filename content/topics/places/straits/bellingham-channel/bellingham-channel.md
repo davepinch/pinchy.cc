@@ -16,5 +16,6 @@ strait of:
 wikidata: "https://www.wikidata.org/wiki/Q49110782"
 tags:
   - strait
+  - no Wikimedia category
   - no Wikipedia article
 ---

@@ -6,6 +6,7 @@ strait of:
   - Hudson Bay
   - Quebec
 wikidata: "https://www.wikidata.org/wiki/Q207702"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Hudson_Strait"
 tags:
   - strait
 ---

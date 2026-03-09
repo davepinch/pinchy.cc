@@ -6,6 +6,7 @@ strait of:
   - Whidbey Island
   - Deception Pass State Park
 wikidata: "https://www.wikidata.org/wiki/Q1181773"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Deception_Pass"
 tags:
   - Puget Sound
   - Strait of Juan de Fuca

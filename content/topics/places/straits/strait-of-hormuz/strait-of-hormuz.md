@@ -9,6 +9,7 @@ strait of:
   - Persian Gulf
   - Gulf of Oman
 wikidata: "https://www.wikidata.org/wiki/Q79883"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Strait_of_Hormuz"
 tags:
   - strait
 ---

@@ -14,6 +14,7 @@ strait of:
   - Pacific Ocean
 strike a path to jasper: Strait of Juan de Fuca (Wikipedia)
 wikidata: "https://www.wikidata.org/wiki/Q867627"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Strait_of_Juan_de_Fuca"
 tags:
   - strait
 ---

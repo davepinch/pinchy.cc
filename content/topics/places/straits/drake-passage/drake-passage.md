@@ -8,6 +8,7 @@ strait of:
   - South America
   - Antarctica
 wikidata: "https://www.wikidata.org/wiki/Q143650"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Drake_Passage"
 tags:
   - body of water
   - strait

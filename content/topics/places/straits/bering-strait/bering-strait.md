@@ -10,6 +10,7 @@ strait of:
   - Bering Sea
   - Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q11769"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bering_Strait"
 tags:
   - strait
 ---

@@ -8,6 +8,7 @@ strait of:
   - Skagit County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q7658762"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Swinomish_Channel"
 tags:
   - strait
 ---
