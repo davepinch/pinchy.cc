@@ -5,4 +5,5 @@ title: "John 1:50"
 verse of: John 1
 tags:
   - verse of the Bible
+  - no Wikipedia article
 ---

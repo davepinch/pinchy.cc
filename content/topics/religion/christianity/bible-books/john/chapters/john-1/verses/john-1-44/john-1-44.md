@@ -10,4 +10,5 @@ verse of:
   - Bethsaida
 tags:
   - verse of the Bible
+  - no Wikipedia article
 ---

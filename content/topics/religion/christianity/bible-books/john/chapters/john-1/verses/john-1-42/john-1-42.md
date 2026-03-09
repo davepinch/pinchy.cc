@@ -6,6 +6,7 @@ naming of: Saint Peter
 verse of:
   - John 1
   - Simon Peter
+wikipedia: "https://en.wikipedia.org/wiki/John_1:42"
 tags:
   - verse of the Bible
 ---

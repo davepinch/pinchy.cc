@@ -6,4 +6,5 @@ mention of: Pharisees
 verse of: John 1
 tags:
   - verse of the Bible
+  - no Wikipedia article
 ---

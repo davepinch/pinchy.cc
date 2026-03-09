@@ -5,6 +5,7 @@ title: "John 1:45"
 verse of:
   - John 1
   - Nazareth
+wikipedia: "https://en.wikipedia.org/wiki/John_1:45"
 tags:
   - verse of the Bible
 ---

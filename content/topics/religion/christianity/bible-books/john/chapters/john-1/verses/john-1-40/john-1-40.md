@@ -6,6 +6,7 @@ verse of:
   - John 1
   - Andrew the Apostle
   - Simon Peter
+wikipedia: "https://en.wikipedia.org/wiki/John_1:40"
 tags:
   - verse of the Bible
   - Jesus

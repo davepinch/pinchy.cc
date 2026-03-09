@@ -8,6 +8,7 @@ cross-reference:
   - "Mark 1:7"
   - "Matthew 3:11"
 verse of: John 1
+wikipedia: "https://en.wikipedia.org/wiki/John_1:30"
 tags:
   - verse of the Bible
 ---
