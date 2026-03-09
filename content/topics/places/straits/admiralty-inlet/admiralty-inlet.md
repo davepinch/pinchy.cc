@@ -6,6 +6,7 @@ strait of:
   - Whidbey Island
   - Island County, Washington
   - Jefferson County, Washington
+  - Kitsap County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q887756"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Admiralty_Inlet"
