@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1807115"
 wikipedia: "https://en.wikipedia.org/wiki/North_Hudson,_Wisconsin"
 tags:
   - city
+  - no Wikimedia category
 ---

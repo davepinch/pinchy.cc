@@ -10,6 +10,8 @@ i remember as a kid:
 openstreetmap: "https://www.openstreetmap.org/relation/251893"
 up the mississippi: Hastings, Minnesota
 wikidata: "https://www.wikidata.org/wiki/Q1120380"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Prescott,_Wisconsin"
+wikivoyage: "https://en.wikivoyage.org/wiki/Prescott_(Wisconsin)"
 tags:
   - city
 ---

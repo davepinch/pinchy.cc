@@ -6,6 +6,7 @@ dave: >-
 openstreetmap: "https://www.openstreetmap.org/relation/171085"
 suburb of: Albuquerque
 wikidata: "https://www.wikidata.org/entity/Q931463"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Tijeras,_New_Mexico"
 tags:
   - city
   - suburb
