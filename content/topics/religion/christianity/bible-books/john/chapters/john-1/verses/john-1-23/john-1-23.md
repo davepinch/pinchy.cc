@@ -6,6 +6,7 @@ cross-reference:
   - "Isaiah 40:3"
   - "Matthew 3:1"
 verse of: John 1
+wikidata: "https://www.wikidata.org/wiki/Q64700418"
 wikipedia: "https://en.wikipedia.org/wiki/John_1:23"
 tags:
   - verse of the Bible

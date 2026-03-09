@@ -8,6 +8,7 @@ cross-reference:
   - "Mark 1:7"
   - "Matthew 3:11"
 verse of: John 1
+wikidata: "https://www.wikidata.org/wiki/Q64700409"
 wikipedia: "https://en.wikipedia.org/wiki/John_1:15"
 tags:
   - verse of the Bible

@@ -7,6 +7,7 @@ verse of:
   - Jesus
   - Galilee
   - Philip the Apostle
+wikidata: "https://www.wikidata.org/wiki/Q64700441"
 wikipedia: "https://en.wikipedia.org/wiki/John_1:43"
 tags:
   - verse of the Bible

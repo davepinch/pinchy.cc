@@ -8,6 +8,7 @@ verse of:
   - Andrew the Apostle
   - Simon Peter
   - Bethsaida
+wikidata: "https://www.wikidata.org/wiki/Q64700442"
 tags:
   - verse of the Bible
   - no Wikipedia article
