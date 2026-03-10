@@ -37,6 +37,7 @@ sequence:
   - Ensuring Accountability for All Agencies § 8(d)
 website: "https://www.whitehouse.gov/presidential-actions/2025/02/ensuring-accountability-for-all-agencies/"
 when: 2025-02-18
+wikidata: "https://www.wikidata.org/wiki/Q132744740"
 tags:
   - executive order
   - sequence

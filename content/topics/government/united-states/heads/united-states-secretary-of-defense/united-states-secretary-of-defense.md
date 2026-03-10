@@ -5,6 +5,7 @@ head of: United States Department of Defense
 member of: Cabinet of the United States
 official website: "https://www.defense.gov/"
 wikidata: "https://www.wikidata.org/wiki/Q735015"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Secretaries_of_Defense_of_the_United_States"
 tags:
   - appointed
 ---
