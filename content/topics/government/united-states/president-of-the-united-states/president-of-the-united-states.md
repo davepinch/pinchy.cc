@@ -10,6 +10,10 @@ tag requires property:
   - Wikidata
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q11696"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Presidents_of_the_United_States"
+wikiquote: "https://en.wikiquote.org/wiki/President_of_the_United_States"
+wikisource: "https://en.wikisource.org/wiki/Portal:Presidents_of_the_United_States"
+wikivoyage: "https://en.wikivoyage.org/wiki/Presidents_of_the_United_States"
 tags:
   - head of state
   - commander-in-chief
