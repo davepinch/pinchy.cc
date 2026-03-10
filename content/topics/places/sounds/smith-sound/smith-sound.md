@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1164842"
 wikipedia: "https://en.wikipedia.org/wiki/Smith_Sound"
 tags:
   - strait
+  - no Wikimedia category
 ---
