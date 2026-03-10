@@ -9,5 +9,5 @@ url: /en.wikipedia.org/wiki/Zebedee/
 website: "https://en.wikipedia.org/wiki/Zebedee"
 wikipedia of: Zebedee
 tags:
-  - website
+  - Wikipedia
 ---
