@@ -5,6 +5,7 @@ description: >-
   The term 'chamber' is often used to describe bands of various sizes, from string quartets to medium-sized orchestra. But what does 'chamber music' really mean? And where did it come from? Our Chief Executive Crispin Woodhead explains. 
 episode of: "https://www.youtube.com/@oae"
 explanation of: chamber music
+orchestra of: Age of Enlightenment
 type: youtube
 url: /youtube.com/embed/h9g1c2bZSq8/
 website: "https://www.youtube.com/watch?v=h9g1c2bZSq8"
