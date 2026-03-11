@@ -3,6 +3,7 @@ title: "death of Immanuel Kant (Wikipedia)"
 ✂️: >-
   He died at Königsberg on 12 February 1804, uttering Es ist gut ("It is good") before his death.
 death of: Immanuel Kant
+death in: Kingdom of Prussia
 citation: >-
   Wikipedia contributors. (2026, March 10). Immanuel Kant. In *Wikipedia, The Free Encyclopedia*. Retrieved 07:02, March 11, 2026, from https://en.wikipedia.org/w/index.php?title=Immanuel_Kant&oldid=1342785226
 snippet of: Immanuel Kant (Wikipedia)
