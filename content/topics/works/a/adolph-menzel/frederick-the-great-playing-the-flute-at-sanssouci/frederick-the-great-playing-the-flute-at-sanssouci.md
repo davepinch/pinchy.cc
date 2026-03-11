@@ -1,10 +1,10 @@
 ---
 title: "Frederick the Great Playing the Flute at Sanssouci"
 also known as: "The Flute Concert"
-Gödel, Escher, Bach:
-  - "Introduction: A Musico-Logical Offering"
+Gödel, Escher, Bach: "Introduction: A Musico-Logical Offering"
 painting of:
   - Frederick the Great
+  - Johann Joachim Quantz
   - flute
   - concert
 wikidata: "https://www.wikidata.org/wiki/Q944909"
