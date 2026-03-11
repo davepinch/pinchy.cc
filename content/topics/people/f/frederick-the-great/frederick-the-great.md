@@ -2,6 +2,8 @@
 title: "Frederick the Great"
 gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 father: Frederick William I of Prussia
+person of:
+  - Age of Enlightenment
 spouse: Elisabeth Christine of Brunswick-Wolfenbüttel-Bevern
 wikidata: "https://www.wikidata.org/wiki/Q33550"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Frederick_II_of_Prussia"
@@ -13,6 +15,5 @@ tags:
   - King of Prussia
   - flutist
   - human being
-  - Age of Enlightenment
   - dead at the moment
 ---
