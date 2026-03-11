@@ -3,11 +3,9 @@ title: "Adolph Menzel - Flötenkonzert Friedrichs des Großen in Sanssouci - Goo
 another ruler who played a musical instrument: "Quo Vadis, Nero burning Rome.jpg (Wikimedia Commons)"
 gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 license: public domain
-picture: >-
-  https://upload.wikimedia.org/wikipedia/commons/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg
+picture: "https://upload.wikimedia.org/wikipedia/commons/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg"
 picture of: Frederick the Great Playing the Flute at Sanssouci
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg/320px-Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg/330px-Adolph_Menzel_-_Fl%C3%B6tenkonzert_Friedrichs_des_Gro%C3%9Fen_in_Sanssouci_-_Google_Art_Project.jpg"
 TODO: use Picture Of property to associate pictures with another topic. Update views.
 type: picture
 url: /commons.wikimedia.org/wiki/Adolph_Menzel_-_Flötenkonzert_Friedrichs_des_Großen_in_Sanssouci_-_Google_Art_Project.jpg/
