@@ -1,5 +1,6 @@
 ---
 title: "Immanuel Kant"
+born in: Kingdom of Prussia
 born on: 1724-04-22
 died on: 1804-02-12
 person of:
