@@ -3,6 +3,9 @@ title: "Scratchpad"
 draft: true
 ---
 
+3/11 #LoftyThoughts
+how to surf the words
+
 3/2
 https://news.ycombinator.com/item?id=47181656
 
