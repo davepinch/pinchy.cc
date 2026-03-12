@@ -1,7 +1,7 @@
 ---
 title: "Bashar al-Assad"
 born in:
-  - Damascas
+  - Damascus
   - Syria
 commander-in-chief of: Syrian Armed Forces
 president of: Syria
