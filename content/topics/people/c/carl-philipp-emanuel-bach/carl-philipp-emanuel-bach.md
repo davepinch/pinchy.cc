@@ -1,7 +1,6 @@
 ---
 title: "Carl Philipp Emanuel Bach"
 child of: Johann Sebastian Bach
-gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 instruments of: Gottfried Silbermann
 wikidata: "https://www.wikidata.org/wiki/Q76428"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Carl_Philipp_Emanuel_Bach"

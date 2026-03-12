@@ -1,7 +1,5 @@
 ---
 title: "Leonhard Euler"
-gödel, escher, bach: "Introduction: A Musico-Logical Offering"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q7604"
 tags:
   - Swiss

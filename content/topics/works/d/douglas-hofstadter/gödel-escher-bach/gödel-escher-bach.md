@@ -1,7 +1,31 @@
 ---
 title: "Gödel, Escher, Bach"
+mention of:
+  - Adolph Menzel
+  - Bartolomeo Cristofori
+  - Carl Philipp Emanuel Bach
+  - chamber music
+  - concerto
+  - flute
+  - Frederick the Great
+  - Frederick the Great Playing the Flute at Sanssouci
+  - Freiberg
+  - fugue
+  - harpsichord
+  - Italy
+  - Johann Nikolaus Forkel
+  - Johann Sebastian Bach
+  - Julien Offray de La Mettrie
+  - Kurt Gödel
+  - Leipzig
+  - Leonhard Euler
+  - obbligato
+  - music
+  - piano
+  - Potsdam
+  - The Musical Offering
+  - Voltaire
+  - Wilhelm Friedemann Bach
 tags:
   - book
-  - Kurt Gödel
-  - Johann Sebastian Bach
 ---

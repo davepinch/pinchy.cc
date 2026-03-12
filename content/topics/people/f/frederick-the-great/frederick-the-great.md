@@ -3,7 +3,6 @@ title: "Frederick the Great"
 born in:
   - Berlin
   - Kingdom of Prussia
-gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 father: Frederick William I of Prussia
 person of:
   - Age of Enlightenment
