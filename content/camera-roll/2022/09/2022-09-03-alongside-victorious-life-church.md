@@ -7,7 +7,7 @@ photograph of:
   - sidewalk
   - summer
   - sky
-  - Kansas City
+  - Kansas City, Missouri
   - Missouri
 picture: content/camera-roll/2022/09/2022-09-03-alongside-victorious-life-church/20220903_174016326_iOS.jpg
 related:

@@ -7,7 +7,7 @@ retrieved: 2023-09-30
 type: website
 url: /en.wikipedia.org/wiki/Kansas_City,_Missouri/
 website: "https://en.wikipedia.org/wiki/Kansas_City,_Missouri"
-wikipedia of: Kansas City
+wikipedia of: Kansas City, Missouri
 tags:
   - Wikipedia
 ---

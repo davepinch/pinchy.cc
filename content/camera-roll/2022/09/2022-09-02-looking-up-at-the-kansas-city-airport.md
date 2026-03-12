@@ -3,7 +3,7 @@ title: "Looking up at the Kansas City Airport"
 photograph of:
   - airport
   - Kansas City International Airport
-  - Kansas City
+  - Kansas City, Missouri
   - Missouri
 picture: content/camera-roll/2022/09/2022-09-02-looking-up-at-the-kansas-city-airport/20220902_200957167_iOS.jpg
 thumbnail: content/camera-roll/2022/09/2022-09-02-looking-up-at-the-kansas-city-airport/20220902_200957167_iOS-thumbnail.jpg

@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Kansas_City,_Missouri.svg (Wikimedia Commons)"
 flag of:
-  - Kansas City
+  - Kansas City, Missouri
   - fountain
   - SVG
 license: public domain

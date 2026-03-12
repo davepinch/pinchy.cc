@@ -1,6 +1,6 @@
 ---
 title: "Kansas City International Airport"
-airport of: Kansas City
+airport of: Kansas City, Missouri
 official website: "https://flykc.com/"
 openstreetmap: "https://www.openstreetmap.org/way/209241979"
 type: airport

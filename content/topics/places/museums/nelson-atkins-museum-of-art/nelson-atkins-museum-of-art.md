@@ -1,6 +1,6 @@
 ---
 title: "Nelson-Atkins Museum of Art"
-museum of: Kansas City
+museum of: Kansas City, Missouri
 openstreetmap: "https://www.openstreetmap.org/relation/15394221"
 wikidata: "https://www.wikidata.org/wiki/Q1976985"
 tags:

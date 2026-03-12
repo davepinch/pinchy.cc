@@ -1,5 +1,5 @@
 ---
-title: "Kansas City"
+title: "Kansas City, Missouri"
 city of: Missouri
 openstreetmap: "https://www.openstreetmap.org/relation/141008"
 wikidata: "https://www.wikidata.org/entity/Q41819"
