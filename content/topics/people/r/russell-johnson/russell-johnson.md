@@ -5,7 +5,6 @@ born in:
   - United States
 died in:
   - Bainbridge Island
-  - Bainbridge Island, Washington
   - Washington
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1387828"
