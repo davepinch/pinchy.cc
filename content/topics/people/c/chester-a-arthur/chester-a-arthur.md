@@ -2,6 +2,13 @@
 title: "Chester A. Arthur"
 ⬅️: James A. Garfield
 ➡️: Grover Cleveland
+born in:
+  - Vermont
+  - United States
+died in:
+  - New York City
+  - New York
+  - United States
 member of: Republican Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q35498"

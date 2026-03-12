@@ -1,6 +1,11 @@
 ---
 title: "George III"
-type: person
+born in:
+  - London
+  - England
+died in:
+  - Windsor Castle
+  - England
 wikidata: "https://www.wikidata.org/wiki/Q127318"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:George_III_of_the_United_Kingdom"
 wikiquote: "https://en.wikiquote.org/wiki/George_III_of_the_United_Kingdom"

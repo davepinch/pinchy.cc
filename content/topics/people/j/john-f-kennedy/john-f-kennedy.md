@@ -2,6 +2,9 @@
 title: "John F. Kennedy"
 ⬅️: Dwight D. Eisenhower
 ➡️: Lyndon B. Johnson
+born in:
+  - Massachusetts
+  - United States
 member of: Democratic Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q9696"

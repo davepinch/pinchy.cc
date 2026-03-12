@@ -2,11 +2,8 @@
 title: "birth of Pope Leo XIV (Wikipedia)"
 ✂️: >-
   Robert Prevost [Pope Leo XIV] was born in Chicago, Illinois on September 14, 1955, the son of Louis Marius Prevost and Mildred Martinez.
+birth in: Chicago
 birth of: Pope Leo XIV
-born of:
-  - Chicago
-  - Illinois
-  - United States
 citation: >-
   Wikipedia contributors. (2025, May 8). Pope Leo XIV. In *Wikipedia, The Free Encyclopedia*. Retrieved 17:32, May 8, 2025, from https://en.wikipedia.org/w/index.php?title=Pope_Leo_XIV&oldid=1289442846
 snippet of: Pope Leo XIV (Wikipedia)

@@ -2,6 +2,9 @@
 title: "Jimmy Carter"
 ⬅️: Gerald Ford
 ➡️: Ronald Reagan
+born in:
+  - Georgia
+  - United States
 member of: Democratic Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q23685"

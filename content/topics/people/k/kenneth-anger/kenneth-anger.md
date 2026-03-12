@@ -1,6 +1,11 @@
 ---
 title: "Kenneth Anger"
-type: person
+born in:
+  - California
+  - United States
+died in:
+  - California
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q505580"
 tags:
   - writer

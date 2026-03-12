@@ -2,6 +2,9 @@
 title: "George H. W. Bush"
 ⬅️: Ronald Reagan
 ➡️: Bill Clinton
+born in:
+  - Massachusetts
+  - United States
 member of: Republican Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q23505"

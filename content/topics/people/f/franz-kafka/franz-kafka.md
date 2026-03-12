@@ -1,5 +1,6 @@
 ---
 title: "Franz Kafka"
+born in: Prague
 novelist of: Prague
 wikidata: "https://www.wikidata.org/wiki/Q905"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Franz_Kafka"

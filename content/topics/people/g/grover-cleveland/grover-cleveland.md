@@ -3,7 +3,10 @@ title: "Grover Cleveland"
 ⬅️ (1st presidency): Chester A. Arthur
 ➡️ (1st presidency): Benjamin Harrison
 ⬅️ (2nd presidency): Benjamin Harrison
-➡️ (2nd presidency): William McKinley
+➡️ (2nd presidency): William 
+born in:
+  - New Jersey
+  - United States
 member of: Democratic Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q35171"

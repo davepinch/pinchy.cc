@@ -1,6 +1,8 @@
 ---
 title: "Enrico Fermi"
-type: person
+born in:
+  - Rome
+  - Italy
 wikidata: "https://www.wikidata.org/wiki/Q8753"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Enrico_Fermi"
 wikiquote: "https://en.wikiquote.org/wiki/Enrico_Fermi"

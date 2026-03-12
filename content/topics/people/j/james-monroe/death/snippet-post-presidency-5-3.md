@@ -1,6 +1,6 @@
 ---
-title: >-
-  On July 4, 1831, Monroe died at age 73 from heart failure and tuberculosis, thus becoming the third president to have died on Independence Day.
+title: "death of James Monroe (Wikipedia)"
+✂️: "On July 4, 1831, Monroe died at age 73 from heart failure and tuberculosis, thus becoming the third president to have died on Independence Day."
 citation: >-
   Wikipedia contributors. (2024, October 22). James Monroe. In Wikipedia, The Free Encyclopedia. Retrieved 21:59, October 24, 2024, from https://en.wikipedia.org/w/index.php?title=James_Monroe&oldid=1252610680
 death of: James Monroe

@@ -1,6 +1,7 @@
 ---
 title: "Edward Phelan"
 also spelled as: Edward Phalen
+born in: Ireland
 early settler of:
   - Saint Paul, Minnesota
   - Minnesota

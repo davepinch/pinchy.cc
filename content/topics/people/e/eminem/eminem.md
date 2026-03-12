@@ -1,5 +1,8 @@
 ---
 title: "Eminem"
+born in:
+  - Missouri
+  - United States
 legal name: Marshall Bruce Mathers III
 wikidata: "https://www.wikidata.org/wiki/Q5608"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Eminem"

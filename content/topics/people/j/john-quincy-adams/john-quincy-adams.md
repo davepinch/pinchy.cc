@@ -2,6 +2,12 @@
 title: "John Quincy Adams"
 ⬅️: James Monroe
 ➡️: Andrew Jackson
+born in:
+  - Massachusetts
+  - United States
+died in:
+  - District of Columbia
+  - United States
 member of: Democratic-Republican Party
 president of: United States
 eldest son of: John Adams

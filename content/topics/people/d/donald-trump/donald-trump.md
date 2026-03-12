@@ -2,6 +2,10 @@
 title: "Donald Trump"
 ⬅️: Barack Obama
 ➡️: Joe Biden
+born in:
+  - New York City
+  - New York
+  - United States
 member of: Republican Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q22686"

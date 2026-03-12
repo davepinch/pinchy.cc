@@ -1,7 +1,6 @@
 ---
 title: "Magdalena Abakanowicz"
-from: Poland
-type: person
+born in: Poland
 wikidata: "https://www.wikidata.org/wiki/Q158080"
 tags:
   - Polish

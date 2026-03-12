@@ -1,7 +1,7 @@
 ---
 title: "Pyotr Ilyich Tchaikovsky"
-from: Russia
-type: person
+born in: Russian Empire
+died in: Saint Petersburg
 wikidata: "https://www.wikidata.org/wiki/Q7315"
 tags:
   - Russian

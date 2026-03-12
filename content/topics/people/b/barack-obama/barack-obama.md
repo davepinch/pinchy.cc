@@ -2,6 +2,9 @@
 title: "Barack Obama"
 ⬅️: George W. Bush
 ➡️: Donald Trump
+born in:
+  - Hawaii
+  - United States
 member of: Democratic Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q76"

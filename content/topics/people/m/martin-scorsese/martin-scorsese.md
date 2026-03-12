@@ -1,6 +1,10 @@
 ---
 title: "Martin Scorsese"
-type: person
+born in:
+  - Queens
+  - New York City
+  - New York
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q41148"
 tags:
   - director

@@ -1,5 +1,7 @@
 ---
 title: "Fidel Castro"
+born in: Cuba
+died in: Cuba
 former leader of: Cuba
 wikidata: "https://www.wikidata.org/wiki/Q11256"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Fidel_Castro"

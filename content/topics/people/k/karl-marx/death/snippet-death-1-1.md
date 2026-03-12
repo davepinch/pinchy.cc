@@ -4,6 +4,7 @@ title: "death of Karl Marx (Wikipedia)"
 also died in London: death of William Blake (Wikipedia)
 citation: >-
   Wikipedia contributors. (2024, October 5). Karl Marx. In *Wikipedia, The Free Encyclopedia*. Retrieved 01:59, October 7, 2024, from https://en.wikipedia.org/w/index.php?title=Karl_Marx&oldid=1249592140
+death in: London
 death of: Karl Marx
 snippet of: Karl Marx (Wikipedia)
 type: snippet

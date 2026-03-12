@@ -1,7 +1,9 @@
 ---
-title: "Epstein was found dead in his cell at the Metropolitan Correctional Center (MCC) in New York City at 6:30 a.m. EDT on August 10, 2019."
+title: "death of Jeffrey Epstein (Wikipedia)"
+✂️: "Epstein was found dead in his cell at the Metropolitan Correctional Center (MCC) in New York City at 6:30 a.m. EDT on August 10, 2019."
 citation: >-
   Wikipedia contributors. (2024, September 17). Jeffrey Epstein. In *Wikipedia, The Free Encyclopedia*. Retrieved September 18, 2024, from https://en.wikipedia.org/w/index.php?title=Jeffrey_Epstein&oldid=1246150658
+death in: New York City
 death of: Jeffrey Epstein
 snippet of: Jeffrey Epstein (Wikipedia)
 type: snippet

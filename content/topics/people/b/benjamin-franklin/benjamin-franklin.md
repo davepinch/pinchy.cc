@@ -1,6 +1,12 @@
 ---
 title: "Benjamin Franklin"
-type: person
+born in:
+  - Boston
+  - Massachusetts
+died in:
+  - Philadelphia
+  - Pennsylvania
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q34969"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Benjamin_Franklin"
 wikiquote: "https://en.wikiquote.org/wiki/Benjamin_Franklin"

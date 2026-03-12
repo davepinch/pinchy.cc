@@ -1,5 +1,8 @@
 ---
 title: "Galileo Galilei"
+born in:
+  - Pisa
+  - Italy
 died on: 1642-01-08
 wikidata: "https://www.wikidata.org/wiki/Q307"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Galileo_Galilei"

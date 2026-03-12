@@ -1,5 +1,9 @@
 ---
 title: "Elise Stefanik"
+born in:
+  - Albany, New York
+  - New York
+  - United States
 member of: Republican Party
 United States Representative of: New York
 wikidata: "https://www.wikidata.org/wiki/Q18211057"

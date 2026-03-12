@@ -1,5 +1,6 @@
 ---
 title: "Joseph Thomas Heath"
+born in: England
 tags:
   - farmer
   - human being

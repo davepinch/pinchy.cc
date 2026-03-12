@@ -1,8 +1,10 @@
 ---
 title: "Niels Bohr"
+born in:
+  - Copenhagen
+  - Denmark
 colleagues:
   - Albert Einstein
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q7085"
 tags:
   - Danish

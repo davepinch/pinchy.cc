@@ -1,5 +1,6 @@
 ---
-title: "Karl Marx was born on 5 May 1818 to Heinrich Marx and Henriette Pressburg."
+title: "birth of Karl Marx (Wikipedia)"
+✂️: "Karl Marx was born on 5 May 1818 to Heinrich Marx and Henriette Pressburg."
 birth of: Karl Marx
 citation: >-
   Wikipedia contributors. (2024, October 5). Karl Marx. In *Wikipedia, The Free Encyclopedia*. Retrieved 01:59, October 7, 2024, from https://en.wikipedia.org/w/index.php?title=Karl_Marx&oldid=1249592140

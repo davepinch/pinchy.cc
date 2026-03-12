@@ -1,5 +1,11 @@
 ---
 title: "Douglas Adams"
+born in:
+  - Cambridge, England
+  - England
+died in:
+  - California
+  - United States
 born on: 1952-03-11
 died on: 2001-05-11
 wikidata: "https://www.wikidata.org/wiki/Q42"

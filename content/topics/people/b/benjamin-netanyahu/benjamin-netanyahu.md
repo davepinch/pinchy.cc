@@ -1,5 +1,8 @@
 ---
 title: "Benjamin Netanyahu"
+born in:
+  - Tel Aviv
+  - Israel
 prime minister of: Israel
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Benjamin_Netanyahu"
 wikiquote: "https://en.wikiquote.org/wiki/Benjamin_Netanyahu"

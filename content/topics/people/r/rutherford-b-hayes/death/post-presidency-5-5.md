@@ -1,5 +1,6 @@
 ---
-title: "[Rutherford B.] Hayes died of complications of a heart attack at his home on January 17, 1893, at the age of 70."
+title: "death of Rutherford B. Hayes (Wikipedia)"
+✂️: "[Rutherford B.] Hayes died of complications of a heart attack at his home on January 17, 1893, at the age of 70."
 citation: >-
   Wikipedia contributors. (2024, November 10). Rutherford B. Hayes. In *Wikipedia, The Free Encyclopedia*. Retrieved 02:24, November 12, 2024, from https://en.wikipedia.org/w/index.php?title=Rutherford_B._Hayes&oldid=1256454599
 death of: Rutherford B. Hayes

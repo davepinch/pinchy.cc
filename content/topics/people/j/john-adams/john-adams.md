@@ -2,6 +2,9 @@
 title: "John Adams"
 ⬅️: George Washington
 ➡️: Thomas Jefferson
+died in:
+  - Massachusetts
+  - United States
 member of: Federalist Party
 president of: United States
 TODO:

@@ -2,6 +2,13 @@
 title: "Benjamin Harrison"
 ⬅️: Grover Cleveland
 ➡️: Grover Cleveland
+born in:
+  - Ohio
+  - United States
+died in:
+  - Indianapolis
+  - Indiana
+  - United States
 member of: Republican Party
 president of: United States
 type: person

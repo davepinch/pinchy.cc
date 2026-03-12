@@ -1,8 +1,10 @@
 ---
 title: "Marjorie Taylor Greene"
+born in:
+  - Georgia
+  - United States
 former member of: Freedom Caucus
 member of: Republican Party
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q98380406"
 𝕏:
   - "https://x.com/RepMTG"

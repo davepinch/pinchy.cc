@@ -1,5 +1,8 @@
 ---
 title: "Bashar al-Assad"
+born in:
+  - Damascas
+  - Syria
 commander-in-chief of: Syrian Armed Forces
 president of: Syria
 wikidata: "https://www.wikidata.org/wiki/Q44329"

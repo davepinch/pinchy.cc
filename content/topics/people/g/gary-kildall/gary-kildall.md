@@ -1,5 +1,9 @@
 ---
 title: "Gary Kildall"
+born in:
+  - Seattle
+  - Washington
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q92627"
 wikiquote: "https://en.wikiquote.org/wiki/Gary_Kildall"
 tags:

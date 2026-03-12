@@ -1,5 +1,8 @@
 ---
 title: "Karoline Leavitt"
+born in:
+  - New Hampshire
+  - United States
 press secretary of: Donald Trump
 wikidata: "https://www.wikidata.org/wiki/Q100146113"
 𝕏: "https://x.com/PressSec"

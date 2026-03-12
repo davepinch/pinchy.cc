@@ -1,6 +1,8 @@
 ---
 title: "Jim Henson"
-born in: Mississippi
+born in:
+  - Mississippi
+  - United States
 born on: 1936-09-24
 died on: 1990-05-16
 wikidata: "https://www.wikidata.org/wiki/Q191037"

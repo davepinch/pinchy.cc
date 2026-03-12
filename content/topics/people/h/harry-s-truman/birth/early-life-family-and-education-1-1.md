@@ -1,9 +1,11 @@
 ---
-title: "Truman was born in Lamar, Missouri, on May 8, 1884, the oldest child of John Anderson Truman and Martha Ellen Young Truman."
+title: "birth of Harry S. Truman (Wikipedia)"
+✂️: "Truman was born in Lamar, Missouri, on May 8, 1884, the oldest child of John Anderson Truman and Martha Ellen Young Truman."
+birth in: Missouri
 birth of: Harry S. Truman
-born in: Missouri
 citation: >-
   Wikipedia contributors. (2024, November 14). Harry S. Truman. In *Wikipedia, The Free Encyclopedia*. Retrieved 03:01, November 15, 2024, from https://en.wikipedia.org/w/index.php?title=Harry_S._Truman&oldid=1257413409
+license: CC BY-SA 4.0
 snippet of: Harry S. Truman (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Harry_S._Truman/early-life-family-and-education-1-1/

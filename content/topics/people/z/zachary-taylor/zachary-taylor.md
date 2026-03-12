@@ -2,6 +2,9 @@
 title: "Zachary Taylor"
 ⬅️: James K. Polk
 ➡️: Millard Fillmore
+born in:
+  - Virginia
+  - United States
 member of: Whig Party
 president of: United States
 type: person

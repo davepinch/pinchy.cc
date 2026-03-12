@@ -1,7 +1,12 @@
 ---
 title: "Émile Zola"
 also died in paris: Samuel Beckett
-born and died in: Paris
+born in:
+  - Paris
+  - France
+died in:
+  - Paris
+  - France
 wikidata: "https://www.wikidata.org/wiki/Q504"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Émile_Zola"
 wikiquote: "https://en.wikiquote.org/wiki/Émile_Zola"

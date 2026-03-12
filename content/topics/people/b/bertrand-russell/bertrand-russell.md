@@ -1,6 +1,8 @@
 ---
 title: "Bertrand Russell"
+born in: Wales
 born on: 1872-05-18
+died in: Wales
 died on: 1970-02-02
 known for: Russell's paradox
 REPROGRAM YOURSELF: >-

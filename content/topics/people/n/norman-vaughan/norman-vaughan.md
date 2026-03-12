@@ -1,7 +1,12 @@
 ---
 title: "Norman Vaughan"
+born in:
+  - Massachusetts
+  - United States
+died in:
+  - Alaska
+  - United States
 explorer of: Antarctica
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q324795"
 tags:
   - American

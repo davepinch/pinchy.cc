@@ -2,6 +2,9 @@
 title: "Bill Clinton"
 ⬅️: George H. W. Bush
 ➡️: George W. Bush
+born in:
+  - Arkansas
+  - United States
 former governor of: Arkansas
 member of: Democratic Party
 president of: United States

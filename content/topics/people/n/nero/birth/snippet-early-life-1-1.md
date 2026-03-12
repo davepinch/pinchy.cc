@@ -1,5 +1,6 @@
 ---
-title: "Nero was born Lucius Domitius Ahenobarbus on 15 December AD 37 in Antium (modern Anzio), eight months after the death of Tiberius."
+title: "birth of Nero (Wikipedia)"
+✂️: "Nero was born Lucius Domitius Ahenobarbus on 15 December AD 37 in Antium (modern Anzio), eight months after the death of Tiberius."
 birth of: Nero
 citation: >-
   Wikipedia contributors. (2024, August 18). Nero. In *Wikipedia, The Free Encyclopedia*. Retrieved August 19, 2024, from https://en.wikipedia.org/w/index.php?title=Nero&oldid=1240885157

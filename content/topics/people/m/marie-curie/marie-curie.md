@@ -1,6 +1,6 @@
 ---
 title: "Marie Curie"
-type: person
+born in: Warsaw
 wikidata: "https://www.wikidata.org/wiki/Q7186"
 tags:
   - physicist

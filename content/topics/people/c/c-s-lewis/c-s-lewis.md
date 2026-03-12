@@ -1,5 +1,6 @@
 ---
 title: "C. S. Lewis"
+born in: Ireland
 close friends with: J. R. R. Tolkien
 wikidata: "https://www.wikidata.org/wiki/Q9204"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:C._S._Lewis"

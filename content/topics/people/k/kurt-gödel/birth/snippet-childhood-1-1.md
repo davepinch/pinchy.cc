@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "birth of Kurt Gödel (Wikipedia)"
+✂️: >-
   Gödel was born April 28, 1906, in Brünn, Austria-Hungary (now Brno, Czech Republic), into the German-speaking family of Rudolf Gödel (1874–1929), the managing director and part owner of a major textile firm, and Marianne Gödel (née Handschuh, 1879–1966).
 birth of: Kurt Gödel
 citation: >-

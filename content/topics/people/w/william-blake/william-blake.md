@@ -1,6 +1,12 @@
 ---
 title: "William Blake"
 also died in london: Winston Churchill
+born in:
+  - London
+  - England
+died in:
+  - London
+  - England
 died on: 1827-08-12
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q41513"

@@ -1,5 +1,6 @@
 ---
 title: "Johann Nikolaus Forkel"
+born in: Holy Roman Empire
 gödel, escher, bach: "Introduction: A Musico-Logical Offering"
 biographer of: Johann Sebastian Bach
 wikidata: "https://www.wikidata.org/wiki/Q57922"

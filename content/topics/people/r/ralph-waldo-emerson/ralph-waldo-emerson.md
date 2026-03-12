@@ -1,7 +1,10 @@
 ---
 title: "Ralph Waldo Emerson"
+born in:
+  - Boston
+  - Massachusetts
+  - United States
 met: John Muir
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q48226"
 tags:
   - writer

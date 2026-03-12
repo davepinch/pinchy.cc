@@ -1,5 +1,7 @@
 ---
-title: "Tchaikovsky was born on 7 May 1840 in Votkinsk, a small town in Vyatka Governorate during the Russian Empire in present-day Udmurtia near the banks of the Kama River."
+title: "birth of Pyotr Ilyich Tchaikovsky (Wikipedia)"
+✂️: "Tchaikovsky was born on 7 May 1840 in Votkinsk, a small town in Vyatka Governorate during the Russian Empire in present-day Udmurtia near the banks of the Kama River."
+birth in: Russian Empire
 birth of: Pyotr Ilyich Tchaikovsky
 citation: >-
   Wikipedia contributors. (2024, October 16). Pyotr Ilyich Tchaikovsky. In *Wikipedia, The Free Encyclopedia*. Retrieved 00:46, October 30, 2024, from https://en.wikipedia.org/w/index.php?title=Pyotr_Ilyich_Tchaikovsky&oldid=1251519787

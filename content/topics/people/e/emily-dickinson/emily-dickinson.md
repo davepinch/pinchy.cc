@@ -1,5 +1,8 @@
 ---
 title: "Emily Dickinson"
+born in:
+  - Massachusetts
+  - United States
 born on: 1830-12-10
 died on: 1886-05-15
 poet of: Massachusetts

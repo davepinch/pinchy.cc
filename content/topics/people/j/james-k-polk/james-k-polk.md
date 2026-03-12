@@ -2,6 +2,13 @@
 title: "James K. Polk"
 ⬅️: John Tyler
 ➡️: Zachary Taylor
+born in:
+  - North Carolina
+  - United States
+died in:
+  - Nashville, Tennessee
+  - Tennessee
+  - United States
 member of: Democratic Party
 president of: United States
 protege of: Andrew Jackson

@@ -1,7 +1,9 @@
 ---
-title: "On the afternoon of Friday, June 15, Polk died at his Polk Place home in Nashville, Tennessee at the age of 53."
+title: "death of James K. Polk (Wikipedia)"
+✂️: "On the afternoon of Friday, June 15, Polk died at his Polk Place home in Nashville, Tennessee at the age of 53."
 citation: >-
   Wikipedia contributors. (2024, October 26). James K. Polk. In *Wikipedia, The Free Encyclopedia*. Retrieved 22:20, October 26, 2024, from https://en.wikipedia.org/w/index.php?title=James_K._Polk&oldid=1253454712
+death in: Nashville, Tennessee
 death of: James K. Polk
 snippet of: James K. Polk (Wikipedia)
 type: snippet

@@ -1,6 +1,8 @@
 ---
 title: "Philip José Farmer"
-type: person
+born in:
+  - Indiana
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q296256"
 tags:
   - writer

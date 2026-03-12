@@ -1,5 +1,8 @@
 ---
 title: "John McCain"
+died in:
+  - Arizona
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q10390"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:John_McCain"
 wikiquote: "https://en.wikiquote.org/wiki/John_McCain"

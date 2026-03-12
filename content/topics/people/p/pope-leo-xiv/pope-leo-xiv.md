@@ -1,6 +1,9 @@
 ---
 title: "Pope Leo XIV"
-type: person
+born in:
+  - Chicago
+  - Illinois
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q6109517"
 tags:
   - pope

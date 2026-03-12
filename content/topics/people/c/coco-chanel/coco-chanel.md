@@ -1,8 +1,12 @@
 ---
 title: "Coco Chanel"
 also died in paris: Louis XVI
+born in: France
 born on: 1883-09-19
 collaborated with: Flag_of_Germany_(1935–1945).svg (Wikimedia Commons)
+died in:
+  - Paris
+  - France
 died on: 1971-01-10
 wikidata: "https://www.wikidata.org/wiki/Q45661"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Coco_Chanel"

@@ -1,5 +1,9 @@
 ---
 title: "Alexander Shulgin"
+born in:
+  - Berkeley, California
+  - California
+  - United States
 born on: 1925-06-17
 died on: 2014-06-02
 wikidata: "https://www.wikidata.org/wiki/Q506336"

@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "death of Theodore Roosevelt (Wikipedia)"
+✂️: >-
   On the night of January 5, 1919, Roosevelt suffered breathing problems. After receiving treatment from his physician, George W. Faller, he felt better and went to bed. Roosevelt's last words were either "Please put out that light, James" or "James, will you please put out the light.", said to his family servant James E. Amos. Between 4:00 and 4:15 the next morning, Roosevelt died at the age of 60 in his sleep at Sagamore Hill of a blood clot in his lungs.
 citation: >-
   Wikipedia contributors. (2024, November 14). Theodore Roosevelt. In *Wikipedia, The Free Encyclopedia*. Retrieved 23:21, November 14, 2024, from https://en.wikipedia.org/w/index.php?title=Theodore_Roosevelt&oldid=1257430251

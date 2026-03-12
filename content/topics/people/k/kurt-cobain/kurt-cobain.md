@@ -1,6 +1,9 @@
 ---
 title: "Kurt Cobain"
-type: person
+born in:
+  - Aberdeen, Washington
+  - Washington
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q8446"
 tags:
   - American

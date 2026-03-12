@@ -1,5 +1,8 @@
 ---
 title: "Leo Tolstoy"
+born in:
+  - Yasnaya Polyana
+  - Russia
 born on: 1828-09-09
 died on: 1910-11-20
 type: person

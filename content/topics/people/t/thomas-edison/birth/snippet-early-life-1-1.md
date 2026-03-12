@@ -1,7 +1,8 @@
 ---
-title: "Thomas Edison was born in 1847 in Milan, Ohio, but grew up in Port Huron, Michigan, after the family moved there in 1854."
+title: "birth of Thomas Edison (Wikipedia)"
+✂️: "Thomas Edison was born in 1847 in Milan, Ohio, but grew up in Port Huron, Michigan, after the family moved there in 1854."
+birth in: Ohio
 birth of: Thomas Edison
-born in: Ohio
 citation: >-
   Wikipedia contributors. (2024, October 11). Thomas Edison. In *Wikipedia, The Free Encyclopedia*. Retrieved 00:10, October 15, 2024, from https://en.wikipedia.org/w/index.php?title=Thomas_Edison&oldid=1250602550
 snippet of: Thomas Edison (Wikipedia)

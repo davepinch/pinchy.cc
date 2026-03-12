@@ -1,5 +1,6 @@
 ---
-title: "James Monroe was born on April 28, 1758, in his parents' house in a wooded area of Westmoreland County in the Colony of Virginia, to (Andrew) Spence Monroe and Elizabeth Jones."
+title: "birth of James Monroe (Wikipedia)"
+✂️: "James Monroe was born on April 28, 1758, in his parents' house in a wooded area of Westmoreland County in the Colony of Virginia, to (Andrew) Spence Monroe and Elizabeth Jones."
 birth of: James Monroe
 citation: >-
   Wikipedia contributors. (2024, October 22). James Monroe. In Wikipedia, The Free Encyclopedia. Retrieved 21:59, October 24, 2024, from https://en.wikipedia.org/w/index.php?title=James_Monroe&oldid=1252610680

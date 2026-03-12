@@ -2,6 +2,13 @@
 title: "Harry S. Truman"
 ⬅️: Franklin D. Roosevelt
 ➡️: Dwight D. Eisenhower
+born in:
+  - Missouri
+  - United States
+died in:
+  - Kansas City, Missouri
+  - Missouri
+  - United States
 member of: Democratic Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q11613"

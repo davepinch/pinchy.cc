@@ -1,7 +1,12 @@
 ---
 title: "Samuel Beckett"
 also died in paris: Jim Morrison
-type: person
+born in:
+  - Dublin
+  - Ireland
+died in:
+  - Paris
+  - France
 wikidata: "https://www.wikidata.org/wiki/Q37327"
 tags:
   - writer

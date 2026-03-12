@@ -1,6 +1,7 @@
 ---
 title: "Paul Dirac"
-type: person
+born in: England
+died in: Florida
 wikidata: "https://www.wikidata.org/wiki/Q47480"
 tags:
   - physicist

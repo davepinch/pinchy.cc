@@ -1,7 +1,8 @@
 ---
-title: "James Abram Garfield was born the youngest of five children on November 19, 1831, in a log cabin in Orange Township, now Moreland Hills, Ohio."
+title: "Birth of James A. Garfield (Wikipedia)"
+✂️: "James Abram Garfield was born the youngest of five children on November 19, 1831, in a log cabin in Orange Township, now Moreland Hills, Ohio."
+birth in: Ohio
 birth of: James A. Garfield
-born in: Ohio
 citation: >-
   Wikipedia contributors. (2024, November 3). James A. Garfield. In *Wikipedia, The Free Encyclopedia*. Retrieved 23:34, November 14, 2024, from https://en.wikipedia.org/w/index.php?title=James_A._Garfield&oldid=1255181094
 snippet of: James A. Garfield (Wikipedia)

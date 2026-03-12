@@ -4,6 +4,7 @@ title: "accession of George III (Wikipedia)"
 accession of: George III
 citation: >-
   Wikipedia contributors. (2025, November 26). George III. In *Wikipedia, The Free Encyclopedia*. Retrieved 01:08, November 29, 2025, from https://en.wikipedia.org/w/index.php?title=George_III&oldid=1324212710
+license: CC BY-SA 4.0
 snippet of: George III (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/George_III/@accession-and-marriage-2-1/

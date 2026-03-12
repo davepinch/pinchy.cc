@@ -11,5 +11,6 @@ type: snippet
 url: /en.wikipedia.org/wiki/Ruhollah_Khomeini/death-and-funeral-1-2/
 when: 1989-06-03
 tags:
+  - death
   - snippet
 ---

@@ -1,7 +1,10 @@
 ---
 title: "Winston Churchill"
-also died in london: Isaac Newton
-type: person
+also died in london: Anthony Burgess
+born in: England
+died in:
+  - London
+  - England
 wikidata: "https://www.wikidata.org/wiki/Q8016"
 tags:
   - British

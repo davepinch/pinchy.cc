@@ -2,6 +2,9 @@
 title: "Abraham Lincoln"
 ⬅️: James Buchanan
 ➡️: Andrew Johnson
+born in:
+  - Kentucky
+  - United States
 member of:
   - Whig Party
   - Republican Party

@@ -1,5 +1,6 @@
 ---
 title: "René Descartes"
+born in: France
 died on: 1650-02-11
 person of:
   - Age of Enlightenment

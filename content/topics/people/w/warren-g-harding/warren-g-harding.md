@@ -2,6 +2,9 @@
 title: "Warren G. Harding"
 ⬅️: Woodrow Wilson
 ➡️: Calvin Coolidge
+born in:
+  - Ohio
+  - United States
 member of: Republican Party
 president of: United States
 type: person

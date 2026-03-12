@@ -2,6 +2,12 @@
 title: "Gerald Ford"
 ⬅️: Richard Nixon
 ➡️: Jimmy Carter
+born in:
+  - Nebraska
+  - United States
+died in:
+  - California
+  - United States
 member of: Republican Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q9582"

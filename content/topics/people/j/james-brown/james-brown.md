@@ -1,5 +1,8 @@
 ---
 title: "James Brown"
+born in:
+  - South Carolina
+  - United States
 born on: 1933-05-03
 died on: 2006-12-25
 wikidata: "https://www.wikidata.org/wiki/Q5950"

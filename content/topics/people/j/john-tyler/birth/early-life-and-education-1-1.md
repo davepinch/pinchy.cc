@@ -1,5 +1,6 @@
 ---
-title: "John Tyler was born on March 29, 1790, to a prominent slave-owning Virginia family."
+title: "birth of John Tyler (Wikipedia)"
+✂️: "John Tyler was born on March 29, 1790, to a prominent slave-owning Virginia family."
 birth of: John Tyler
 citation: >-
   Wikipedia contributors. (2024, October 19). John Tyler. In *Wikipedia, The Free Encyclopedia*. Retrieved 01:36, October 25, 2024, from https://en.wikipedia.org/w/index.php?title=John_Tyler&oldid=1251995155

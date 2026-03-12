@@ -1,9 +1,11 @@
 ---
-title: "Clarke was born in Minehead, Somerset, England, and grew up in nearby Bishops Lydeard."
+title: "birth of Arthur C. Clarke (Wikipedia)"
+✂️: "Clarke was born in Minehead, Somerset, England, and grew up in nearby Bishops Lydeard."
+birth in: England
 birth of: Arthur C. Clarke
-born in: England
 citation: >-
   Wikipedia contributors. (2024, November 2). Arthur C. Clarke. In *Wikipedia, The Free Encyclopedia*. Retrieved 22:31, November 24, 2024, from https://en.wikipedia.org/w/index.php?title=Arthur_C._Clarke&oldid=1255032551
+license: CC BY-SA 4.0
 snippet of: Arthur C. Clarke (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Arthur_C._Clarke/early-years-1-1/

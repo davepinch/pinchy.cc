@@ -1,7 +1,9 @@
 ---
 title: "Karl Marx"
 also died in london: William Blake
-type: person
+died in:
+  - London
+  - England
 wikidata: "https://www.wikidata.org/wiki/Q9061"
 tags:
   - communist

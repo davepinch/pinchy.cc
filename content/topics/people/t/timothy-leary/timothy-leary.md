@@ -1,6 +1,8 @@
 ---
 title: "Timothy Leary"
-type: person
+born in:
+  - Massachusetts
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q211731"
 tags:
   - American

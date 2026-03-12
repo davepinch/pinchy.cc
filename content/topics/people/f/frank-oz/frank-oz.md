@@ -1,5 +1,6 @@
 ---
 title: "Frank Oz"
+born in: England
 born on: 1944-05-25
 collaborated with: Jim Henson
 from: United States

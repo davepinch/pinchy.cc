@@ -1,6 +1,6 @@
 ---
 title: "Kshama Sawant"
-type: person
+born in: India
 wikidata: "https://www.wikidata.org/wiki/Q6440772"
 tags:
   - politician

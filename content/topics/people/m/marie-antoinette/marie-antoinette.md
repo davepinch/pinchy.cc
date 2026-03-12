@@ -1,7 +1,6 @@
 ---
 title: "Marie Antoinette"
-also died in paris: Émile Zola
-type: person
+also died in paris: Andrei Tarkovsky
 wikidata: "https://www.wikidata.org/wiki/Q47365"
 tags:
   - queen of France

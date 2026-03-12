@@ -1,5 +1,6 @@
 ---
-title: "Susan Summerall was born on May 14, 1957, as one of three children of Pat Summerall and his wife Kathy Summerall."
+title: "birth of Susie Wiles (Wikipedia)"
+✂️: "Susan Summerall was born on May 14, 1957, as one of three children of Pat Summerall and his wife Kathy Summerall."
 birth of: Susie Wiles
 citation: >-
   Wikipedia contributors. (2024, November 12). Susie Wiles. In *Wikipedia, The Free Encyclopedia*. Retrieved 05:45, November 12, 2024, from https://en.wikipedia.org/w/index.php?title=Susie_Wiles&oldid=1256910534

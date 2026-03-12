@@ -1,6 +1,6 @@
 ---
 title: "Vincent van Gogh"
-type: person
+born in: Netherlands
 wikidata: "https://www.wikidata.org/wiki/Q5582"
 tags:
   - Dutch

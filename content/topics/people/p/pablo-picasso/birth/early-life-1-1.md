@@ -1,8 +1,8 @@
 ---
-title: >-
-  Picasso was born at 23:15 on 25 October 1881, in the city of Málaga, Andalusia, in southern Spain.
+title: "birth of Pablo Picasso (Wikipedia)"
+✂️: "Picasso was born at 23:15 on 25 October 1881, in the city of Málaga, Andalusia, in southern Spain."
+birth in: Spain
 birth of: Pablo Picasso
-born in: Spain
 citation: >-
   Wikipedia contributors. (2024, March 3). Pablo Picasso. In *Wikipedia, The Free Encyclopedia*. Retrieved March 11, 2024, from https://en.wikipedia.org/w/index.php?title=Pablo_Picasso&oldid=1211675418
 license: CC BY-SA 4.0

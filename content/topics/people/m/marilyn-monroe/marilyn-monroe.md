@@ -1,6 +1,9 @@
 ---
 title: "Marilyn Monroe"
-type: person
+born in:
+  - Los Angeles
+  - California
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q4616"
 tags:
   - human being

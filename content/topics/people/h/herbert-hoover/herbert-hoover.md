@@ -2,6 +2,13 @@
 title: "Herbert Hoover"
 ⬅️: Calvin Coolidge
 ➡️: Franklin D. Roosevelt
+born in:
+  - Iowa
+  - United States
+died in:
+  - New York City
+  - New York
+  - United States
 member of: Republican Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q35236"

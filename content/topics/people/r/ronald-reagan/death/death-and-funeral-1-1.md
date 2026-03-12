@@ -1,7 +1,9 @@
 ---
-title: "Reagan died of pneumonia, complicated by Alzheimer's, at his home in Los Angeles, on June 5, 2004."
+title: "death of Ronald Reagan (Wikipedia)"
+✂️: "Reagan died of pneumonia, complicated by Alzheimer's, at his home in Los Angeles, on June 5, 2004."
 citation: >-
   Wikipedia contributors. (2024, October 23). Ronald Reagan. In *Wikipedia, The Free Encyclopedia*. Retrieved 03:31, October 25, 2024, from https://en.wikipedia.org/w/index.php?title=Ronald_Reagan&oldid=1252820594
+death in: Los Angeles
 death of: Ronald Reagan
 snippet of: Ronald Reagan (Wikipedia)
 type: snippet

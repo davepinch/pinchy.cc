@@ -1,6 +1,9 @@
 ---
 title: "George Washington"
 ➡️: John Adams
+born in:
+  - Virginia
+  - United States
 member of: independent politician
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q23"

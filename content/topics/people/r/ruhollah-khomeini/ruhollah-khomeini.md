@@ -1,5 +1,6 @@
 ---
 title: "Ruhollah Khomeini"
+born in: Iran
 first supreme leader of: Iran
 opposition of: Mohammad Reza Pahlavi
 type: person

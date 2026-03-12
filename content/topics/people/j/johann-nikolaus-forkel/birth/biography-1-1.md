@@ -1,5 +1,7 @@
 ---
-title: "He [Johann Nikolaus Forkel] was born at Meeder in Coburg in the Holy Roman Empire on 22 February 1749."
+title: "birth of Johann Nikolaus Forkel (Wikipedia)"
+✂️: "He [Johann Nikolaus Forkel] was born at Meeder in Coburg in the Holy Roman Empire on 22 February 1749."
+birth in: Holy Roman Empire
 birth of: Johann Nikolaus Forkel
 citation: >-
   Wikipedia contributors. (2024, September 25). Johann Nikolaus Forkel. In *Wikipedia, The Free Encyclopedia*. Retrieved 02:20, November 22, 2024, from https://en.wikipedia.org/w/index.php?title=Johann_Nikolaus_Forkel&oldid=1247639180

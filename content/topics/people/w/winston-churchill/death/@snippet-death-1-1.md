@@ -4,10 +4,11 @@ title: "death of Winston Churchill (Wikipedia)"
 also died in london: death of Anthony Burgess (Wikipedia)
 citation: >-
   Wikipedia contributors. (2024, June 29). Death and state funeral of Winston Churchill. In *Wikipedia, The Free Encyclopedia*. July 2, 2024, from https://en.wikipedia.org/w/index.php?title=Death_and_state_funeral_of_Winston_Churchill&oldid=1231655677
-death of: Winston Churchill
-died in:
+death in:
   - London
   - England
+death of: Winston Churchill
+license: CC BY-SA 4.0
 snippet of: "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Winston_Churchill"
 type: snippet
 url: /en.wikipedia.org/wiki/Winston_Churchill/death-1-1/

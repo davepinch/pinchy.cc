@@ -1,5 +1,11 @@
 ---
 title: "Jonathan Edwards"
+born in:
+  - Connecticut
+  - United States
+died in:
+  - New Jersey
+  - United States
 person of:
   - Age of Enlightenment
 wikidata: "https://www.wikidata.org/wiki/Q313073"

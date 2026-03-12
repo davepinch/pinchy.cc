@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "birth of Thomas Cole (Wikipedia)"
+✂️: >-
   Born in Bolton le Moors, Lancashire, in 1801, Cole immigrated with his family to the United States in 1818, settling in Steubenville, Ohio.
 birth of: Thomas Cole
 citation: >-

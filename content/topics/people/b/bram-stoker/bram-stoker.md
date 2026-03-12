@@ -1,5 +1,11 @@
 ---
 title: "Bram Stoker"
+born in:
+  - Dublin
+  - Ireland
+died in:
+  - London
+  - England
 wikidata: "https://www.wikidata.org/wiki/Q36184"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bram_Stoker"
 wikiquote: "https://en.wikiquote.org/wiki/Bram_Stoker"

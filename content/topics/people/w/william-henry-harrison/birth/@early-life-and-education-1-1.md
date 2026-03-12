@@ -1,5 +1,6 @@
 ---
-title: "Born on February 9, 1773, at Berkeley Plantation, the home of the Harrison family of Virginia on the James River in Charles City County, he became the last United States president not born as an American citizen."
+title: "birth of William Henry Harrison (Wikipedia)"
+✂️: "Born on February 9, 1773, at Berkeley Plantation, the home of the Harrison family of Virginia on the James River in Charles City County, he became the last United States president not born as an American citizen."
 birth of: William Henry Harrison
 citation: >-
   Wikipedia contributors. (2024, October 22). William Henry Harrison. In *Wikipedia, The Free Encyclopedia*. Retrieved 00:08, October 25, 2024, from https://en.wikipedia.org/w/index.php?title=William_Henry_Harrison&oldid=1252725412

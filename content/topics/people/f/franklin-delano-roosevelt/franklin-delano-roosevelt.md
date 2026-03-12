@@ -2,6 +2,9 @@
 title: "Franklin D. Roosevelt"
 ⬅️: Herbert Hoover
 ➡️: Harry S. Truman
+born in:
+  - New York
+  - United States
 born on: 1882-01-30
 died on: 1945-04-12
 member of: Democratic Party

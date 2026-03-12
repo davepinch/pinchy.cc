@@ -5,6 +5,7 @@ title: "death of William Blake (Wikipedia)"
 also died in London: death of Winston Churchill (Wikipedia)
 citation: >-
   Wikipedia contributors. (2024, September 28). William Blake. In *Wikipedia, The Free Encyclopedia*. Retrieved 02:13, October 7, 2024, from https://en.wikipedia.org/w/index.php?title=William_Blake&oldid=1248278004
+death in: London
 death of: William Blake
 snippet of: William Blake (Wikipedia)
 type: snippet

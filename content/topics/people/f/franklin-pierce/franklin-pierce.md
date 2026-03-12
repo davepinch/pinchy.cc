@@ -2,6 +2,9 @@
 title: "Franklin Pierce"
 ⬅️: Millard Fillmore
 ➡️: James Buchanan
+born in:
+  - New Hampshire
+  - United States
 member of: Democratic Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q12312"

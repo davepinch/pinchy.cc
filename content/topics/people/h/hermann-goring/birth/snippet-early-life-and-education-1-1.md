@@ -1,5 +1,6 @@
 ---
-title: "Göring was born on 12 January 1893 at the Marienbad Sanatorium in Rosenheim, Bavaria."
+title: "birth of Hermann Göring (Wikipedia)"
+✂️: "Göring was born on 12 January 1893 at the Marienbad Sanatorium in Rosenheim, Bavaria."
 birth of: Hermann Göring
 citation: >-
   Wikipedia contributors. (2025, February 1). Hermann Göring. In *Wikipedia, The Free Encyclopedia*. Retrieved 19:12, February 5, 2025, from https://en.wikipedia.org/w/index.php?title=Hermann_G%C3%B6ring&oldid=1273187476

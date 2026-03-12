@@ -1,5 +1,7 @@
 ---
-title: "Lebedev was born in Moscow. His parents were part of the Moscow intelligentsia."
+title: "birth of Alexander Lebedev (Wikipedia)"
+✂️: "Lebedev was born in Moscow. His parents were part of the Moscow intelligentsia."
+birth in: Moscow
 birth of: Alexander Lebedev
 citation: >-
   Wikipedia contributors. (2024, February 18). Alexander Lebedev. In *Wikipedia, The Free Encyclopedia*. Retrieved May 25, 2024, from https://en.wikipedia.org/w/index.php?title=Alexander_Lebedev&oldid=1208696204

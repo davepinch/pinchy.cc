@@ -1,6 +1,11 @@
 ---
 title: "Sergio Leone"
-type: person
+born in:
+  - Rome
+  - Italy
+died in:
+  - Rome
+  - Italy
 wikidata: "https://www.wikidata.org/wiki/Q164562"
 tags:
   - Italian

@@ -1,7 +1,12 @@
 ---
 title: "Mark Twain"
+born in:
+  - Missouri
+  - United States
 born on: 1835-11-30
-died in: Connecticut
+died in:
+  - Connecticut
+  - United States
 died on: 1910-04-21
 type: person
 WAKE UP: The Mysterious Stranger

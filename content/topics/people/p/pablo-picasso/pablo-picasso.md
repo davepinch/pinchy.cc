@@ -1,6 +1,6 @@
 ---
 title: "Pablo Picasso"
-type: person
+born in: Spain
 wikidata: "https://www.wikidata.org/wiki/Q5593"
 tags:
   - Spanish

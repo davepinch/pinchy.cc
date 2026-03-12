@@ -1,5 +1,8 @@
 ---
 title: "Henry Clay"
+born in:
+  - Virginia
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q319630"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Henry_Clay"
 wikiquote: "https://en.wikiquote.org/wiki/Henry_Clay"

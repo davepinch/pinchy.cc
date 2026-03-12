@@ -1,7 +1,8 @@
 ---
-title: "Born to H. T. and Vasundhara Ramanujam into a middle-class Tamil family in the city of Poona, Maharashtra, India."
+title: "birth of Kshama Sawant (Wikipedia)"
+✂️: "Born to H. T. and Vasundhara Ramanujam into a middle-class Tamil family in the city of Poona, Maharashtra, India."
+birth in: India
 birth of: Kshama Sawant
-born in: India
 citation: >-
   Wikipedia contributors. (2025, February 19). Kshama Sawant. In *Wikipedia, The Free Encyclopedia*. Retrieved 01:47, February 27, 2025, from https://en.wikipedia.org/w/index.php?title=Kshama_Sawant&oldid=1276552350
 snippet of: Kshama Sawant (Wikipedia)

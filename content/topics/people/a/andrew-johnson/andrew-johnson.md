@@ -2,6 +2,9 @@
 title: "Andrew Johnson"
 ⬅️: Abraham Lincoln
 ➡️: Ulysses S. Grant
+born in:
+  - North Carolina
+  - United States
 member of: Democratic Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q8612"

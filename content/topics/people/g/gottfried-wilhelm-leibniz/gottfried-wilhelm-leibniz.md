@@ -1,6 +1,8 @@
 ---
 title: "Gottfried Wilhelm Leibniz"
-type: person
+born in:
+  - Leipzig
+  - Germany
 wikidata: "https://www.wikidata.org/wiki/Q9047"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Gottfried_Wilhelm_Leibniz"
 wikiquote: "https://en.wikiquote.org/wiki/Gottfried_Leibniz"

@@ -2,6 +2,9 @@
 title: "Dwight D. Eisenhower"
 ⬅️: Harry S. Truman
 ➡️: John F. Kennedy
+born in:
+  - Texas
+  - United States
 member of: Republican Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q9916"

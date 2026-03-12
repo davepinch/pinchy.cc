@@ -1,10 +1,8 @@
 ---
-title: "Jeffrey Edward Epstein was born on January 20, 1953, in the Brooklyn borough of New York City."
+title: "birth of Jeffrey Epstein (Wikipedia)"
+✂️: "Jeffrey Edward Epstein was born on January 20, 1953, in the Brooklyn borough of New York City."
+birth in: Brooklyn
 birth of: Jeffrey Epstein
-born in:
-  - Brooklyn
-  - New York City
-  - New York
 citation: >-
   Wikipedia contributors. (2024, September 17). Jeffrey Epstein. In *Wikipedia, The Free Encyclopedia*. Retrieved September 18, 2024, from https://en.wikipedia.org/w/index.php?title=Jeffrey_Epstein&oldid=1246150658
 snippet of: Jeffrey Epstein (Wikipedia)

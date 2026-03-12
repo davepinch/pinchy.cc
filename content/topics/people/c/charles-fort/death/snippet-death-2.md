@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "death of Charles Fort (Wikipedia)"
+✂️: >-
   After he collapsed on May 3, 1932, Fort was rushed to Royal Hospital. Later that same day, Fort's publisher visited him to show him the advance copies of Wild Talents. Fort died only hours afterward, probably of leukemia. He was interred in the Fort family plot in Albany, New York.
 death of: Charles Fort
 citation: >-

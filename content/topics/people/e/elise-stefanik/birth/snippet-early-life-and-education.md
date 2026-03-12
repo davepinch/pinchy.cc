@@ -1,10 +1,11 @@
 ---
 title: "birth of Elise Stefanik (Wikipedia)"
 ✂️: "Stefanik was born in Albany, New York, on July 2, 1984, to Melanie and Kenneth Stefanik."
+birth in: Albany, New York
 birth of: Elise Stefanik
-born in: Albany, New York
 citation: >-
   Wikipedia contributors. (2024, November 12). Elise Stefanik. In *Wikipedia, The Free Encyclopedia*. Retrieved 08:13, November 12, 2024, from https://en.wikipedia.org/w/index.php?title=Elise_Stefanik&oldid=1256911198
+license: CC BY-SA 4.0
 snippet of: Elise Stefanik (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Elise_Stefanik/early-life-and-education-1-1/

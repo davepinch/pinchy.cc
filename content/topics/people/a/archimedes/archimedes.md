@@ -1,5 +1,6 @@
 ---
 title: "Archimedes"
+born in: Sicily
 enumerated: Archimedean solid
 wikidata: "https://www.wikidata.org/wiki/Q8739"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Archimedes"

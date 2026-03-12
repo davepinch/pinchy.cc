@@ -1,6 +1,12 @@
 ---
 title: "Richard E. Byrd"
-type: person
+born in:
+  - Virginia
+  - United States
+died in:
+  - Boston
+  - Massachusetts
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q210268"
 tags:
   - American

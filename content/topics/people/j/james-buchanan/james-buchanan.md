@@ -2,6 +2,9 @@
 title: "James Buchanan"
 ⬅️: Franklin Pierce
 ➡️: Abraham Lincoln
+born in:
+  - Pennsylvania
+  - United States
 member of: Democratic Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q12325"

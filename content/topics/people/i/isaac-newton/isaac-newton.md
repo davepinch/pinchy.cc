@@ -1,7 +1,11 @@
 ---
 title: "Isaac Newton"
 also died in london: George Orwell
+born in: England
 born on: 1643-01-04
+died in:
+  - London
+  - England
 died on: 1727-03-31
 influenced by: Johannes Kepler
 person of:

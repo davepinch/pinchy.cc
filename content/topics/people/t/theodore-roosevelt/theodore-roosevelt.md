@@ -2,9 +2,13 @@
 title: "Theodore Roosevelt"
 ⬅️: William McKinley
 ➡️: William Howard Taft
+born in:
+  - Manhattan
+  - New York City
+  - New York
+  - United States
 member of: Republican Party
 president of: United States
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q33866"
 tags:
   - president of the United States

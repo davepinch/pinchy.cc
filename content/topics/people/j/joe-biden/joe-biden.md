@@ -1,6 +1,9 @@
 ---
 title: "Joe Biden"
 ⬅️: Donald Trump
+born in:
+  - Pennsylvania
+  - United States
 member of: Democratic Party
 president of: United States
 𝕏: "https://x.com/JoeBiden"

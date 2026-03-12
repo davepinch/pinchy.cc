@@ -1,5 +1,9 @@
 ---
 title: "Charles Fort"
+born in:
+  - Albany, New York
+  - New York
+  - United States
 wikidata: "https://www.wikidata.org/wiki/Q443325"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Charles_Fort"
 wikiquote: "https://en.wikiquote.org/wiki/Charles_Fort"

@@ -1,5 +1,6 @@
 ---
-title: "On Christmas Day 2006, [James] Brown died at approximately 1:45 a.m. EST (05:45 UTC), at age 73, from congestive heart failure, resulting from complications of pneumonia."
+title: "death of James Brown (Wikipedia)"
+✂️: "On Christmas Day 2006, [James] Brown died at approximately 1:45 a.m. EST (05:45 UTC), at age 73, from congestive heart failure, resulting from complications of pneumonia."
 citation: >-
   Wikipedia contributors. (2024, October 25). James Brown. In *Wikipedia, The Free Encyclopedia*. Retrieved 06:02, October 25, 2024, from https://en.wikipedia.org/w/index.php?title=James_Brown&oldid=1253263359
 death of: James Brown
