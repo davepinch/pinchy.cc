@@ -6,6 +6,16 @@ draft: true
 3/11 #LoftyThoughts
 how to surf the words
 
+hard reality is the one where beginners shape reality
+the man was crying because he put everyone in the freezer
+
+FACE YOUR FEAR on the home page
+
+---
+1:44
+you are blind to this fact and cannot derive it alone
+
+
 3/2
 https://news.ycombinator.com/item?id=47181656
 
