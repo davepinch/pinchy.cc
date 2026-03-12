@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_Albuquerque,_New_Mexico.svg (Wikimedia Commons)"
 flag of:
-  - Albuquerque
+  - Albuquerque, New Mexico
   - SVG
 license: public domain
 picture: >-

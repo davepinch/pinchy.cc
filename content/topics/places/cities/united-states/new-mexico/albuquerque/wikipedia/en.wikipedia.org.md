@@ -7,7 +7,7 @@ retrieved: 2023-07-05
 type: website
 url: /en.wikipedia.org/wiki/Albuquerque,_New_Mexico/
 website: "https://en.wikipedia.org/wiki/Albuquerque,_New_Mexico"
-wikipedia of: Albuquerque
+wikipedia of: Albuquerque, New Mexico
 tags:
   - Wikipedia
 ---

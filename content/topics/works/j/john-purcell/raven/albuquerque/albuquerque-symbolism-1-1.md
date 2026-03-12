@@ -8,7 +8,7 @@ related: >-
 type: snippet
 url: /nava.org/raven-volume-9-10/albuquerque-symbolism-1-1/
 tags:
-  - Albuquerque
+  - Albuquerque, New Mexico
   - Sun
   - snippet
 ---
