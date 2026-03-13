@@ -6,6 +6,7 @@ born in:
   - Washington
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q92627"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Gary_A._Kildall"
 wikiquote: "https://en.wikiquote.org/wiki/Gary_Kildall"
 tags:
   - American
