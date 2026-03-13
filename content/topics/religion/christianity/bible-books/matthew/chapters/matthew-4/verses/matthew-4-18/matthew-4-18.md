@@ -5,7 +5,7 @@ title: "Matthew 4:18"
 verse of:
   - Matthew 5
   - Sea of Galilee
-  - Saint Pater
+  - Saint Peter
   - Andrew the Apostle
 tags:
   - verse of the Bible
