@@ -8,6 +8,7 @@ waterfall of:
   - Washington
   - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q37981"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Twin_Falls_(Washington)"
 tags:
   - waterfall
   - no OpenStreetMap element

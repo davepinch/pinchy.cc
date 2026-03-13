@@ -7,6 +7,7 @@ waterfall of:
   - Washington
   - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q7548048"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Snoqualmie_Falls"
 tags:
   - waterfall
 ---

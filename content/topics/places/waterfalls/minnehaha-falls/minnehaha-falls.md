@@ -5,6 +5,7 @@ waterfall of:
   - Minneapolis, Minnesota
   - Minnesota
 wikidata: "https://www.wikidata.org/wiki/Q1401902"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnehaha_Falls,_Minneapolis"
 tags:
   - waterfall
 ---

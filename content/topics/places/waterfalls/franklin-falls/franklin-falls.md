@@ -12,6 +12,7 @@ waterfall of:
   - Washington
   - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q37421"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Franklin_Falls_(Washington)"
 tags:
   - waterfall
 ---

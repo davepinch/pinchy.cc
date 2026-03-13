@@ -8,6 +8,7 @@ waterfall of:
   - Washington
   - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q38265"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Nooksack_Falls"
 tags:
   - waterfall
 ---
