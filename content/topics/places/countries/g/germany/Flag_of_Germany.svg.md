@@ -13,6 +13,7 @@ borders:
 clockwise around the baltic sea: Flag_of_Denmark.svg (Wikimedia Commons)
 flag of:
   - Germany
+  - West Germany
   - horizontal
   - tricolor
   - triband
