@@ -3,7 +3,10 @@ title: "Zeno of Elea"
 not to be confused with: Zeno of Citium
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q132157"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Zeno_of_Elea"
 wikipedia: "https://en.wikipedia.org/wiki/Zeno_of_Elea"
+wikiquote: "https://en.wikiquote.org/wiki/Zeno_of_Elea"
+wikisource: "https://en.wikisource.org/wiki/Author:Zeno_of_Elea"
 tags:
   - Greek
   - philosopher
