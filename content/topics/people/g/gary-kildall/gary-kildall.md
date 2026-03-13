@@ -1,5 +1,6 @@
 ---
 title: "Gary Kildall"
+also known as: Gary Arlen Kildall
 born in:
   - Seattle
   - Washington
