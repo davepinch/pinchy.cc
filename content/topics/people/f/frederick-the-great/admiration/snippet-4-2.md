@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "admiration of Frederick the Great (Wikipedia)"
+✂️: >-
   Frederick remained an admired historical figure through Germany's defeat in World War I, and the Nazis glorified him as a great German leader prefiguring Adolf Hitler, who personally idolised him.
 admiration of: Frederick the Great
 citation: >-
@@ -8,6 +9,7 @@ frederick the great of:
   - Germany
   - Nazi Germany
   - Adolf Hitler
+license: CC BY-SA 4.0
 snippet of: Frederick the Great (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Frederick_the_Great/4-2/
