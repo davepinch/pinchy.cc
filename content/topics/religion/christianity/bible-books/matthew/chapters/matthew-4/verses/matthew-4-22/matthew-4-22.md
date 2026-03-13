@@ -5,7 +5,7 @@ title: "Matthew 4:22"
 verse of:
   - Matthew 5
   - James, son of Zebedee
-  - James the Greater
+  - James the Great
   - John the Apostle
   - Zebedee
 tags:

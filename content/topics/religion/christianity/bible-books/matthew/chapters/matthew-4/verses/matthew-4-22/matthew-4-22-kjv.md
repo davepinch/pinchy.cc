@@ -4,7 +4,7 @@ title: "Matthew 4:22 KJV"
 ⬅️: "Matthew 4:21 KJV"
 King James Version of: "Matthew 4:22"
 they are:
-  - James the Greater
+  - James the Great
   - John the Apostle
 they are sons of: Zebedee
 they followed: Jesus
