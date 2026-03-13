@@ -9,6 +9,9 @@ place of:
   - New Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q3766"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Damascus"
+wikiquote: "https://en.wikiquote.org/wiki/Damascus"
+wikivoyage: "https://en.wikivoyage.org/wiki/Damascus"
 tags:
   - city
 ---

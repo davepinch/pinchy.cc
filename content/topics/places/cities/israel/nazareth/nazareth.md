@@ -10,6 +10,8 @@ place of:
   - Bible
 present-day of: Kingdom of Judah
 wikidata: "https://www.wikidata.org/wiki/Q430776"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Nazareth"
+wikivoyage: "https://en.wikivoyage.org/wiki/Nazareth"
 tags:
   - city
 ---

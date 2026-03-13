@@ -8,6 +8,9 @@ not to be confused with: Vancouver, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1852574"
 reddit: "https://www.reddit.com/r/vancouver/"
 wikidata: "https://www.wikidata.org/wiki/Q24639"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Vancouver"
+wikiquote: "https://en.wikiquote.org/wiki/Vancouver"
+wikivoyage: "https://en.wikivoyage.org/wiki/Vancouver"
 tags:
   - city
 ---

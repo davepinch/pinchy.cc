@@ -7,6 +7,8 @@ clockwise around the mediterranean: Beirut
 near: Beirut
 openstreetmap: "https://www.openstreetmap.org/relation/9204616"
 wikidata: "https://www.wikidata.org/wiki/Q173532"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Byblos"
+wikivoyage: "https://en.wikivoyage.org/wiki/Byblos"
 tags:
   - city
 ---
