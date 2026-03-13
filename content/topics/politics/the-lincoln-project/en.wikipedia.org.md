@@ -1,9 +1,9 @@
 ---
 title: "The Lincoln Project (Wikipedia)"
 excerpt: >-
-  **The Lincoln Project** is a centrist American political action committee (PAC) founded in December 2019 by moderate conservatives and former Republican Party members who oppose Trumpism and 45th U.S. president Donald Trump. During the 2020 presidential election, it aimed to prevent the re-election of president Donald Trump, and to defeat incumbent Republican candidates running for re-election who had been loyalists to Trump. In April 2020, the committee endorsed Democratic presidential nominee Joe Biden. As of 2023, the committee is focused on preventing a non-consecutive re-election of Trump in the 2024 presidential election.
+  The Lincoln Project is an American political action committee (PAC) founded in December 2019 by moderate conservatives and former Republican Party members who oppose U.S. President Donald Trump and Trumpism. During the 2020 presidential election, the organization sought to prevent Trump's re-election and to defeat Republican candidates who supported him. In April 2020, they endorsed Democratic nominee Joe Biden. From 2022 to 2024, their efforts shifted to thwarting Trump's re-election bid in the 2024 presidential election, endorsing Democratic nominee Kamala Harris. Following Trump's victory, the Lincoln Project has focused on criticizing the actions of Trump's second presidency.
 license: CC BY-SA 4.0
-retrieved: 2024-03-24
+retrieved: 2026-03-13
 type: website
 url: /en.wikipedia.org/wiki/The_Lincoln_Project/
 website: "https://en.wikipedia.org/wiki/The_Lincoln_Project"
