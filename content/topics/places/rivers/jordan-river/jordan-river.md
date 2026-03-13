@@ -1,5 +1,6 @@
 ---
 title: "Jordan River"
+openstreetmap: "https://www.openstreetmap.org/relation/2246907"
 river of:
   - Jordan
   - Syria
