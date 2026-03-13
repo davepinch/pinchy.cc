@@ -8,6 +8,7 @@ diagram of:
   - plum pudding model
   - atomic number 7
   - nitrogen
+illustration of: Plum pudding model (Wikipedia)
 license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Thomson_atom_seven_electrons.svg"
 type: picture
