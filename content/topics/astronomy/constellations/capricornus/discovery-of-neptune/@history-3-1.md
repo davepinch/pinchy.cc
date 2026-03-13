@@ -10,7 +10,7 @@ discovery of Neptune of:
   - Capricornus
   - Aquarius
   - Deneb Algedi
-  - Johann Galle
+  - Johann Gottfried Galle
 type: snippet
 url: /en.wikipedia.org/wiki/Capricornus/history-3-1/
 when: 1846-09-23
