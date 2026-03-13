@@ -1,5 +1,13 @@
 {{ define "main" }}
 {{ .Content }}
+
+{{/* Write a cue */}}
+{{ $cue := partialCached "cc-get" "FACE YOUR FEAR" "FACE YOUR FEAR" }}
+{{ with $cue }}
+    {{ .Render "cc-masthead" }}
+{{ end }}
+
+{{/* Generate a random list of pages */}}
 <ul>
 {{ $pages := .Site.RegularPages -}}
 {{ $pages = $pages | shuffle | first 13 -}}
@@ -7,5 +15,6 @@
     <li>{{- .Render "cc-card" -}}</li>
 {{ end -}}
 </ul>
+
 <em>This is a random selection of 13 pages from {{ len .Site.RegularPages }} pages.</em>
 {{ end }}
