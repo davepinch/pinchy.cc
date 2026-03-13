@@ -1,5 +1,5 @@
 ---
-title: "birth of Frederick the Great (Wikipedia)"
+title: "baptism of Frederick the Great (Wikipedia)"
 ✂️: "[Frederick the Great] was baptised with the single name *Friedrich* by Benjamin Ursinus von Bär on 31 January."
 baptism of: Frederick the Great
 citation: >-
