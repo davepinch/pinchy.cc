@@ -8,6 +8,8 @@ born in:
 wikidata: "https://www.wikidata.org/wiki/Q92627"
 wikiquote: "https://en.wikiquote.org/wiki/Gary_Kildall"
 tags:
+  - American
+  - male
   - computer scientist
   - human being
   - dead at the moment
