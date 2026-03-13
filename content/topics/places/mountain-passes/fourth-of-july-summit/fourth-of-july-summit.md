@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q5476271"
 wikipedia: "https://en.wikipedia.org/wiki/Fourth_of_July_Summit"
 tags:
   - mountain pass
+  - no Wikimedia category
 ---

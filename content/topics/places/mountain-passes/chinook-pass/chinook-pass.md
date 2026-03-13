@@ -7,6 +7,7 @@ mountain pass of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/4100669834"
 wikidata: "https://www.wikidata.org/wiki/Q2963792"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Chinook_Pass"
 tags:
   - mountain pass
   - VISIT SOMEWHERE NEW
