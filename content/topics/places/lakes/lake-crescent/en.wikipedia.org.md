@@ -8,7 +8,7 @@ retrieved: 2024-01-23
 type: website
 url: /en.wikipedia.org/wiki/Lake_Crescent/
 website: "https://en.wikipedia.org/wiki/Lake_Crescent"
-wikipedia of: Lake Cresent
+wikipedia of: Lake Crescent
 tags:
   - Wikipedia
 ---
