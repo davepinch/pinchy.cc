@@ -1369,6 +1369,11 @@ function Update-WikipediaFlagAndLocation($page) {
         return
     }
 
+    if ($wikipediaPage -is [array]) {
+        Debug-Page $page "Multiple Wikipedia links (should be exactly one)"
+        return
+    }
+
     #
     # Copy the flag property over, if it exists on this page.
     #
