@@ -6,8 +6,8 @@ excerpt: >-
 retrieved: 2026-03-14
 reverse engineering of: Bendix Central Air Data Computer
 type: website
-url: /www.righto.com/2024/02/the-first-microcomputer-transfluxor.html/
-website: "https://www.righto.com/2024/02/the-first-microcomputer-transfluxor.html"
+url: /www.righto.com/2024/02/bendix-cadc-servomotor-tachometer.html/
+website: "https://www.righto.com/2024/02/bendix-cadc-servomotor-tachometer.html"
 tags:
   - Ken Shirriff's blog
   - website
