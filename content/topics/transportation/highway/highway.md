@@ -4,6 +4,7 @@ plural: highways
 tag requires property:
   - highway of
   - Wikidata
+  - Wikimedia
   - Wikipedia
 see also:
   - car

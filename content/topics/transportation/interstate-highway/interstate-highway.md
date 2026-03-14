@@ -5,6 +5,7 @@ plural: interstate highways
 tag requires property:
   - interstate highway of
   - Wikidata
+  - Wikimedia
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q94247"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Interstate_Highway_System"
