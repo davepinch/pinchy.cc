@@ -7,4 +7,5 @@ tags:
   - historic
   - empire
   - country
+  - no OpenStreetMap element
 ---
