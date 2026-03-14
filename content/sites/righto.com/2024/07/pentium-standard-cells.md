@@ -8,6 +8,7 @@ type: website
 url: /www.righto.com/2024/07/pentium-standard-cells.html/
 website: "https://www.righto.com/2024/07/pentium-standard-cells.html"
 tags:
-  - processor
+  - Ken Shirriff's blog
+  - website
   - shared on Hacker News
 ---
