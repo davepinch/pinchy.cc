@@ -2,7 +2,7 @@
 {{ .Content }}
 
 {{/* Write a cue */}}
-{{ $cue := partialCached "cc-get" "FACE YOUR FEAR" "FACE YOUR FEAR" }}
+{{ $cue := partialCached "cc-get" "FACE YOUR FAILURE" "FACE YOUR FAILURE" }}
 {{ with $cue }}
     {{ .Render "cc-masthead" }}
 {{ end }}
