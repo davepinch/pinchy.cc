@@ -5,6 +5,7 @@ lake of:
   - Clallam County, Washington
   - Washington
   - crescent
+not to be confused with: Crescent Lake
 openstreetmap: "https://www.openstreetmap.org/relation/15009108"
 vicinity of: Port Angeles, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1368080"
