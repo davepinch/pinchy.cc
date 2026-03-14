@@ -7,6 +7,7 @@ state park of:
   - Washington
   - Pacific County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1034391"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cape_Disappointment_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Cape_Disappointment_State_Park"
 tags:
   - state park

@@ -8,6 +8,7 @@ state park of:
   - King County, Washington
   - Issaquah, Washington
 wikidata: "https://www.wikidata.org/wiki/Q6477630"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Sammamish_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Sammamish_State_Park"
 tags:
   - state park

@@ -11,6 +11,7 @@ openstreetmap: "https://www.openstreetmap.org/node/369028606"
 wikidata: "https://www.wikidata.org/wiki/Q49388320"
 tags:
   - bay
+  - no Wikimedia category
   - no Wikipedia article
   - VISIT SOMEWHERE NEW
 ---

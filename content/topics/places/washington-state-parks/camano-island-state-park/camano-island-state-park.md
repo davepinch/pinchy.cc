@@ -10,6 +10,7 @@ state park of:
   - Puget Sound
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q5024930"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Camano_Island_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Camano_Island_State_Park"
 tags:
   - state park

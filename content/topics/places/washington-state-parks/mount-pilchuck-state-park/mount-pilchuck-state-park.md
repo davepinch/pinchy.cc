@@ -10,6 +10,7 @@ state park of:
   - Mount Pilchuck
   - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q6922750"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Pilchuck_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Pilchuck_State_Park"
 tags:
   - state park

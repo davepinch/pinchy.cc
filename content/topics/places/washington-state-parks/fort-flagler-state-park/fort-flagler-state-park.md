@@ -12,6 +12,7 @@ state park of:
   - Olympic Peninsula
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q1438519"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Fort_Flagler_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Fort_Flagler_State_Park"
 tags:
   - state park

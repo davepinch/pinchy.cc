@@ -10,5 +10,6 @@ wikidata: "https://www.wikidata.org/wiki/Q49380878"
 tags:
   - bay
   - VISIT SOMEWHERE NEW
+  - no Wikimedia category
   - no Wikipedia article
 ---

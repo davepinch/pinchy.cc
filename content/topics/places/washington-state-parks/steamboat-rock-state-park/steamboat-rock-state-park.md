@@ -12,6 +12,7 @@ state park of:
   - Washington
   - Grant County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q7605408"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Steamboat_Rock_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Steamboat_Rock_State_Park"
 tags:
   - state park

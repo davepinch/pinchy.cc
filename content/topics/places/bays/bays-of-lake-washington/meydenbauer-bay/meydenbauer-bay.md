@@ -10,6 +10,7 @@ bay of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/369027954"
 wikidata: "https://www.wikidata.org/wiki/Q49384972"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Meydenbauer_Bay"
 tags:
   - bay
   - VISIT SOMEWHERE NEW

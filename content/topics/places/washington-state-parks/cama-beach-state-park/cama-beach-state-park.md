@@ -10,6 +10,7 @@ state park of:
   - Island County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q5024893"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cama_Beach_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Cama_Beach_State_Park"
 tags:
   - state park

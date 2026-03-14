@@ -8,6 +8,7 @@ state park of:
   - Kittitas County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q5563141"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ginkgo_Petrified_Forest_State_Park"
 tags:
   - state park
   - Discover Pass required

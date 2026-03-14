@@ -10,6 +10,7 @@ state park of:
   - Franklin County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q7396564"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sacajawea_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Sacajawea_State_Park"
 tags:
   - state park

@@ -7,6 +7,7 @@ state park of:
   - Washington
   - Whatcom County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q4915637"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Birch_Bay_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Birch_Bay_State_Park"
 tags:
   - state park
