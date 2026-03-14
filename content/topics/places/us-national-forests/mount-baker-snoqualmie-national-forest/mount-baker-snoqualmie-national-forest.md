@@ -13,6 +13,7 @@ national forest of:
 openstreetmap: "https://www.openstreetmap.org/relation/1399218"
 TODO: which counties contain the Mount Baker National Forest?
 wikidata: "https://www.wikidata.org/wiki/Q3079176"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Baker-Snoqualmie_National_Forest"
 tags:
   - forest
   - TODO

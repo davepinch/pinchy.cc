@@ -10,6 +10,7 @@ national forest of:
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/1447414"
 wikidata: "https://www.wikidata.org/wiki/Q3079103"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Okanogan_National_Forest"
 tags:
   - forest
 ---

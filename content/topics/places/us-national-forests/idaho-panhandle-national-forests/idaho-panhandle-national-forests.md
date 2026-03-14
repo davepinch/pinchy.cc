@@ -10,6 +10,7 @@ TODO: add other mountain ranges (see Wikipedia article)
 official website: "https://www.fs.usda.gov/r01/idahopanhandle"
 openstreetmap: "https://www.openstreetmap.org/relation/4849676"
 wikidata: "https://www.wikidata.org/wiki/Q2159507"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Idaho_Panhandle_National_Forests"
 wikipedia: "https://en.wikipedia.org/wiki/Idaho_Panhandle_National_Forests"
 tags:
   - forest
