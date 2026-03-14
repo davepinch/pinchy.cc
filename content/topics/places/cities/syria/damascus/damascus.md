@@ -2,6 +2,7 @@
 title: "Damascus"
 city of:
   - Syria
+  - Decapolis
   - Roman Syria
 openstreetmap: "https://www.openstreetmap.org/node/1091272140"
 place of:
