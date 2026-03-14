@@ -2,6 +2,7 @@
 title: "Collatz conjecture"
 unsolved problem of: mathematics
 wikidata: "https://www.wikidata.org/wiki/Q837314"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Collatz_conjecture"
 wikipedia: "https://en.wikipedia.org/wiki/Collatz_conjecture"
 tags:
   - unsolved problem

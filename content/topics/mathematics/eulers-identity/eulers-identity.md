@@ -4,5 +4,8 @@ beauty of: mathematics
 identity of: Leonhard Euler
 in the wild: "https://www.reddit.com/r/mathmemes/comments/1mkwkss/eulers_identity/"
 special case of: "Euler's Formula"
+TODO: clarify relationship of Euler's Identity and Euler's Formula
 wikidata: "https://www.wikidata.org/wiki/Q204819"
+tags:
+  - TODO
 ---
