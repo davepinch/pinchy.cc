@@ -4,5 +4,6 @@ wikipedia: "https://en.wikipedia.org/wiki/List_of_ARM_processors"
 tags:
   - microprocessor
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

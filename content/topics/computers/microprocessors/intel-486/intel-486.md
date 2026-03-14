@@ -5,6 +5,7 @@ also known as:
   - Intel 80486
 successor of: Intel 386
 wikidata: "https://www.wikidata.org/wiki/Q213423"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Intel_i486"
 wikipedia: "https://en.wikipedia.org/wiki/I486"
 tags:
   - x86
