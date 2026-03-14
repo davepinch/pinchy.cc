@@ -4,5 +4,6 @@ wikipedia: "https://en.wikipedia.org/wiki/Microprocessor#Texas_Instruments_TMX_1
 tags:
   - microprocessor
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---
