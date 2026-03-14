@@ -16,6 +16,7 @@ near: Interstate 5
 TODO: Update collate.ps1 so that if a page crosses another, it is crossed back.
 state highway of: Washington
 wikidata: "https://www.wikidata.org/wiki/Q836816"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_State_Route_542"
 tags:
   - TODO
   - state highway

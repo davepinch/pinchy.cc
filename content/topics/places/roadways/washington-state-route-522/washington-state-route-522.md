@@ -17,6 +17,7 @@ highway of:
   - Snohomish County, Washington
 state highway of: Washington
 wikidata: "https://www.wikidata.org/wiki/Q836747"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_State_Route_522"
 tags:
   - state highway
 ---

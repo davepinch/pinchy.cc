@@ -30,6 +30,7 @@ interstate highway of:
   - New York
   - Massachusetts
 wikidata: "https://www.wikidata.org/wiki/Q94958"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Interstate_90"
 tags:
   - interstate highway
 ---
