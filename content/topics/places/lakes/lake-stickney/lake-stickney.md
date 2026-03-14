@@ -12,5 +12,6 @@ website: "https://snohomishcountywa.gov/5394/Stickney"
 wikidata: "https://www.wikidata.org/wiki/Q114438158"
 tags:
   - lake
+  - no Wikimedia category
   - no Wikipedia article
 ---

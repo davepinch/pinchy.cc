@@ -12,5 +12,6 @@ vicinity of:
 wikidata: "https://www.wikidata.org/wiki/Q49303758"
 tags:
   - lake
+  - no Wikimedia category
   - no Wikipedia article
 ---

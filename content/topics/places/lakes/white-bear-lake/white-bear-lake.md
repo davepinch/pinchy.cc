@@ -10,6 +10,7 @@ borders:
 lake of:
   - Ramsey County, Minnesota
   - Minnesota
+not to be confused with: White Bear Lake, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/35736"
 wikidata: "https://www.wikidata.org/wiki/Q658721"
 tags:

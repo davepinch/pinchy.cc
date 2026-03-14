@@ -9,5 +9,6 @@ openstreetmap: "https://www.openstreetmap.org/way/37021427"
 tags:
   - lake
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

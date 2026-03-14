@@ -11,5 +11,6 @@ tributary of: May Creek
 wikidata: "https://www.wikidata.org/wiki/Q49303710"
 tags:
   - lake
+  - no Wikimedia category
   - no Wikipedia article
 ---

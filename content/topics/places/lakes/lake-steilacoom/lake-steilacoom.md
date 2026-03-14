@@ -14,4 +14,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Lake_Steilacoom"
 tags:
   - reservoir
   - lake
+  - no Wikimedia category
 ---

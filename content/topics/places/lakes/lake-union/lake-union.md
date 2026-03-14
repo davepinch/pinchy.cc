@@ -16,6 +16,7 @@ lake of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/2793813"
 wikidata: "https://www.wikidata.org/wiki/Q1993203"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Union"
 tags:
   - lake
 ---

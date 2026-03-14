@@ -10,6 +10,7 @@ vicinity of:
   - Snoqualmie Pass
   - Interstate 90
 wikidata: "https://www.wikidata.org/wiki/Q1723485"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Keechelus_Lake"
 tags:
   - lake
 ---

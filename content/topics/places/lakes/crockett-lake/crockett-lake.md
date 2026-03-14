@@ -16,4 +16,5 @@ wikidata: "https://www.wikidata.org/wiki/Q28912565"
 wikipedia: "https://en.wikipedia.org/wiki/Crockett_Lake"
 tags:
   - lake
+  - no Wikimedia category
 ---

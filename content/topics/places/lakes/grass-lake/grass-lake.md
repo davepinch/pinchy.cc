@@ -10,6 +10,7 @@ twin cities of: VISIT SOMEWHERE NEW
 vicinity of: KMSP Tower
 tags:
   - lake
-  - no Wikipedia article
   - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---

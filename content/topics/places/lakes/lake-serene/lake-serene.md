@@ -8,6 +8,7 @@ lake of:
 openstreetmap: "https://www.openstreetmap.org/relation/16680239"
 vantage point of: Mount Index
 wikidata: "https://www.wikidata.org/wiki/Q24884203"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Serene"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Serene"
 tags:
   - lake

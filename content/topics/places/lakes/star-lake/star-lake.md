@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49311534"
 tags:
   - lake
   - VISIT SOMEWHERE NEW
+  - no Wikimedia category
 ---

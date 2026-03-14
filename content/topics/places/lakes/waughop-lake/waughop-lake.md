@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7334174"
 wikipedia: "https://en.wikipedia.org/wiki/Waughop_Lake"
 tags:
   - lake
+  - no Wikimedia category
 ---

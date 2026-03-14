@@ -10,7 +10,8 @@ near:
   - Oyster Dome
 not to be confused with: Lake Sammamish
 openstreetmap: "https://www.openstreetmap.org/relation/1784497"
-wikidata: "https://www.wikidata.org/wiki/Q2744334"
+wikidata: "https://www.wikidata.org/wiki/Q6477628"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Samish"
 tags:
   - lake
 ---

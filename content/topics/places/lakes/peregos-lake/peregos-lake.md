@@ -16,5 +16,6 @@ url: /peregos-lake/
 tags:
   - lake
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

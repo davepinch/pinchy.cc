@@ -8,4 +8,5 @@ wikidata: "https://www.wikidata.org/wiki/Q21197026"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Johanna_(Ramsey_County,_Minnesota)"
 tags:
   - lake
+  - no Wikimedia category
 ---

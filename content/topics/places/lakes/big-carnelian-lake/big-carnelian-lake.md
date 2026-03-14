@@ -10,6 +10,7 @@ TODO: append the state to township titles, e.g., Stillwater Township, Minnesota
 wikidata: "https://www.wikidata.org/wiki/Q17122471"
 tags:
   - lake
+  - no Wikimedia category
   - no Wikipedia article
   - TODO
 ---

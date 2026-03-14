@@ -19,6 +19,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/137417"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q1986513"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:White_Bear_Lake,_Minnesota"
+wikivoyage: "https://en.wikivoyage.org/wiki/White_Bear_Lake"
 tags:
   - city
   - suburb

@@ -25,10 +25,8 @@ neighborhoods:
   - Windermere, Seattle
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/2793848"
-rivers:
-  - Sammamish River
-  - incomplete list
 wikidata: "https://www.wikidata.org/entity/Q1323525"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Washington"
 tags:
   - lake
 ---

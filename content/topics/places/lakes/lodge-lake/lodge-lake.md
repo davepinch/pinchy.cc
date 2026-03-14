@@ -10,5 +10,6 @@ tributary of: Lodge Creek
 wikidata: "https://www.wikidata.org/wiki/Q123512326"
 tags:
   - lake
+  - no Wikimedia category
   - no Wikipedia article
 ---

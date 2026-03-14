@@ -11,5 +11,6 @@ openstreetmap: "https://www.openstreetmap.org/way/31245829"
 wikidata: "https://www.wikidata.org/wiki/Q114384903"
 tags:
   - lake
+  - no Wikimedia category
   - no Wikipedia article
 ---
