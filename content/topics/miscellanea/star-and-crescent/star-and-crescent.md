@@ -1,5 +1,5 @@
 ---
-title: "star and cresent"
+title: "star and crescent"
 symbol of:
   - star
   - crescent

@@ -3,7 +3,7 @@ title: "Flag of Malaysia.svg (Wikimedia Commons)"
 flag of:
   - Malaysia
   - stripes
-  - star and cresent
+  - star and crescent
   - star
   - Moon
   - SVG
