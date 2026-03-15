@@ -21,6 +21,8 @@ state of:
 up the pacific coast: Oregon
 wikidata: "https://www.wikidata.org/wiki/Q99"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:California"
+wikiquote: "https://en.wikiquote.org/wiki/California"
+wikivoyage: "https://en.wikivoyage.org/wiki/California"
 tags:
   - state
 ---

@@ -11,6 +11,8 @@ state of:
 up the atlantic coast: North Carolina
 wikidata: "https://www.wikidata.org/wiki/Q1456"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:South%20Carolina"
+wikiquote: "https://en.wikiquote.org/wiki/South_Carolina"
+wikivoyage: "https://en.wikivoyage.org/wiki/South_Carolina"
 tags:
   - state
 ---

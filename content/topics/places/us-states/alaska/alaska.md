@@ -17,6 +17,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q797"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Alaska"
+wikiquote: "https://en.wikiquote.org/wiki/Alaska"
+wikivoyage: "https://en.wikivoyage.org/wiki/Alaska"
 tags:
   - state
 ---

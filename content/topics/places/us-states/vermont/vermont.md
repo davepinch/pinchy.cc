@@ -13,6 +13,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q16551"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Vermont"
+wikiquote: "https://en.wikiquote.org/wiki/Vermont"
+wikivoyage: "https://en.wikivoyage.org/wiki/Vermont"
 tags:
   - landlocked
   - state

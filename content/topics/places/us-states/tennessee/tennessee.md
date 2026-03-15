@@ -16,6 +16,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1509"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Tennessee"
+wikiquote: "https://en.wikiquote.org/wiki/Tennessee"
+wikivoyage: "https://en.wikivoyage.org/wiki/Tennessee"
 tags:
   - state
 ---

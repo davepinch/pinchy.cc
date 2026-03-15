@@ -15,6 +15,7 @@ state of:
 up the atlantic coast: New Hampshire
 wikidata: "https://www.wikidata.org/wiki/Q771"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Massachusetts"
+wikivoyage: "https://en.wikivoyage.org/wiki/Massachusetts"
 tags:
   - state
 ---

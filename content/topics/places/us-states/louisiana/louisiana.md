@@ -16,6 +16,8 @@ type: state
 up the coast: Mississippi
 wikidata: "https://www.wikidata.org/wiki/Q1588"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Louisiana"
+wikiquote: "https://en.wikiquote.org/wiki/Louisiana"
+wikivoyage: "https://en.wikivoyage.org/wiki/Louisiana"
 tags:
   - state
 ---

@@ -13,6 +13,8 @@ state:
 up the atlantic coast: Georgia
 wikidata: "https://www.wikidata.org/wiki/Q812"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Florida"
+wikiquote: "https://en.wikiquote.org/wiki/Florida"
+wikivoyage: "https://en.wikivoyage.org/wiki/Florida"
 tags:
   - state
 ---

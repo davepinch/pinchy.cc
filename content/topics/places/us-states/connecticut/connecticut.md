@@ -14,6 +14,7 @@ state of:
 up the atlantic coast: Rhode Island
 wikidata: "https://www.wikidata.org/wiki/Q779"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Connecticut"
+wikivoyage: "https://en.wikivoyage.org/wiki/Connecticut"
 tags:
   - state
 ---

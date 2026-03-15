@@ -17,6 +17,8 @@ state of:
 up the coast: Alabama
 wikidata: "https://www.wikidata.org/wiki/Q1494"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mississippi%20(state)"
+wikiquote: "https://en.wikiquote.org/wiki/Mississippi"
+wikivoyage: "https://en.wikivoyage.org/wiki/Mississippi"
 tags:
   - state
 ---

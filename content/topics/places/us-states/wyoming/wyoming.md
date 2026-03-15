@@ -13,6 +13,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1214"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wyoming"
+wikiquote: "https://en.wikiquote.org/wiki/Wyoming"
+wikivoyage: "https://en.wikivoyage.org/wiki/Wyoming"
 tags:
   - state
 ---

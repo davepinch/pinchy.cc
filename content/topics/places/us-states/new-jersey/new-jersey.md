@@ -13,6 +13,8 @@ state of:
 up the atlantic coast: New York
 wikidata: "https://www.wikidata.org/wiki/Q1408"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:New%20Jersey"
+wikiquote: "https://en.wikiquote.org/wiki/New_Jersey"
+wikivoyage: "https://en.wikivoyage.org/wiki/New_Jersey"
 tags:
   - state
 ---

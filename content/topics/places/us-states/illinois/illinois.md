@@ -17,6 +17,8 @@ state of:
   - Lake Michigan
 wikidata: "https://www.wikidata.org/wiki/Q1204"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Illinois"
+wikiquote: "https://en.wikiquote.org/wiki/Illinois"
+wikivoyage: "https://en.wikivoyage.org/wiki/Illinois"
 tags:
   - state
 ---

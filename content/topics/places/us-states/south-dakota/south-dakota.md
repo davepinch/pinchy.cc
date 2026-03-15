@@ -13,6 +13,7 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1211"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:South%20Dakota"
+wikivoyage: "https://en.wikivoyage.org/wiki/South_Dakota"
 tags:
   - state
 ---

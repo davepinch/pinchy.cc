@@ -25,6 +25,8 @@ state of:
 TODO: add list of webcams in minnesota
 wikidata: "https://www.wikidata.org/wiki/Q1527"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnesota"
+wikiquote: "https://en.wikiquote.org/wiki/Minnesota"
+wikivoyage: "https://en.wikivoyage.org/wiki/Minnesota"
 tags:
   - state
   - TODO

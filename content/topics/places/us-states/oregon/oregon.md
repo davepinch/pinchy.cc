@@ -17,6 +17,8 @@ state of:
 up the pacific coast: Washington
 wikidata: "https://www.wikidata.org/wiki/Q824"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Oregon"
+wikiquote: "https://en.wikiquote.org/wiki/Oregon"
+wikivoyage: "https://en.wikivoyage.org/wiki/Oregon"
 tags:
   - state
 ---

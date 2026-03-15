@@ -19,6 +19,7 @@ state of:
 up the atlantic coast: Connecticut
 wikidata: "https://www.wikidata.org/wiki/Q1384"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:New%20York%20(state)"
+wikivoyage: "https://en.wikivoyage.org/wiki/New_York_(state)"
 tags:
   - state
 ---

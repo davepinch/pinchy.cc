@@ -14,6 +14,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1397"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ohio"
+wikiquote: "https://en.wikiquote.org/wiki/Ohio"
+wikivoyage: "https://en.wikivoyage.org/wiki/Ohio"
 tags:
   - state
 ---

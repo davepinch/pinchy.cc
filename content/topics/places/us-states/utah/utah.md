@@ -15,6 +15,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q829"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Utah"
+wikiquote: "https://en.wikiquote.org/wiki/Utah"
+wikivoyage: "https://en.wikivoyage.org/wiki/Utah"
 tags:
   - state
 ---

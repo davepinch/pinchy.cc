@@ -15,6 +15,8 @@ state of:
 up the atlantic coast: Delaware
 wikidata: "https://www.wikidata.org/wiki/Q1391"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Maryland"
+wikiquote: "https://en.wikiquote.org/wiki/Maryland"
+wikivoyage: "https://en.wikivoyage.org/wiki/Maryland"
 tags:
   - state
 ---

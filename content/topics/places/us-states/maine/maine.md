@@ -14,6 +14,8 @@ state of:
 up the atlantic coast: New Brunswick
 wikidata: "https://www.wikidata.org/wiki/Q724"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Maine"
+wikiquote: "https://en.wikiquote.org/wiki/Maine"
+wikivoyage: "https://en.wikivoyage.org/wiki/Maine"
 tags:
   - state
 ---

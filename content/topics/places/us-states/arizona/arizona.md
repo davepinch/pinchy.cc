@@ -16,6 +16,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q816"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Arizona"
+wikiquote: "https://en.wikiquote.org/wiki/Arizona"
+wikivoyage: "https://en.wikivoyage.org/wiki/Arizona"
 tags:
   - state
 ---

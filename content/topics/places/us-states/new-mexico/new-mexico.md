@@ -15,6 +15,7 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1522"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:New%20Mexico"
+wikivoyage: "https://en.wikivoyage.org/wiki/New_Mexico"
 tags:
   - state
 ---

@@ -15,6 +15,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1603"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kentucky"
+wikiquote: "https://en.wikiquote.org/wiki/Kentucky"
+wikivoyage: "https://en.wikivoyage.org/wiki/Kansas"
 tags:
   - state
 ---

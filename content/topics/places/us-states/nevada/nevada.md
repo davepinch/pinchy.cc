@@ -13,6 +13,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1227"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Nevada"
+wikiquote: "https://en.wikiquote.org/wiki/Nevada"
+wikivoyage: "https://en.wikivoyage.org/wiki/Nevada"
 tags:
   - state
 ---

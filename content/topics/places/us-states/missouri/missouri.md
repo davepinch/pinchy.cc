@@ -16,6 +16,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1581"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Missouri"
+wikiquote: "https://en.wikiquote.org/wiki/Missouri"
+wikivoyage: "https://en.wikivoyage.org/wiki/Missouri"
 tags:
   - state
 ---

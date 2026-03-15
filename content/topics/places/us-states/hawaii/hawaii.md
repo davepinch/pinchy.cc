@@ -9,6 +9,8 @@ state of:
   - Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q782"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Hawaii"
+wikiquote: "https://en.wikiquote.org/wiki/Hawaii"
+wikivoyage: "https://en.wikivoyage.org/wiki/Hawaii"
 tags:
   - archipelago
   - state

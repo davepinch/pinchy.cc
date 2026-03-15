@@ -17,6 +17,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1221"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Idaho"
+wikiquote: "https://en.wikiquote.org/wiki/Idaho"
+wikivoyage: "https://en.wikivoyage.org/wiki/Idaho"
 tags:
   - state
 ---

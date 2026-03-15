@@ -17,6 +17,8 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1546"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Iowa"
+wikiquote: "https://en.wikiquote.org/wiki/Iowa"
+wikivoyage: "https://en.wikivoyage.org/wiki/Iowa"
 tags:
   - state
 ---
