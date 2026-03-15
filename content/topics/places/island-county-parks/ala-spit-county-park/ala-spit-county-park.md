@@ -4,7 +4,7 @@ county park of:
   - Island County, Washington
   - Whidbey Island
 mapcarta: "https://mapcarta.com/W375455004"
-openstreetmap: "https://www.openstreetmap.org/way/375455004"
+openstreetmap: "https://www.openstreetmap.org/relation/20070121"
 vantage point of: Hope Island
 tags:
   - county park
