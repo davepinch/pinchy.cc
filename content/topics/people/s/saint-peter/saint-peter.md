@@ -23,6 +23,7 @@ wikiquote: "https://en.wikiquote.org/wiki/Saint_Peter"
 wikisource: "https://en.wikisource.org/wiki/Author:Peter"
 tags:
   - person
+  - apostle
   - fisherman
   - human being
   - dead at the moment
