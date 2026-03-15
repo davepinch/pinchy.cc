@@ -1,11 +1,12 @@
 {{ define "main" }}
-{{ .Content }}
 
 {{/* Write a cue */}}
 {{ $cue := partialCached "cc-get" "FACE YOUR FAILURE" "FACE YOUR FAILURE" }}
 {{ with $cue }}
     {{ .Render "cc-masthead" }}
 {{ end }}
+
+{{ .Content }}
 
 {{/* Generate a random list of pages */}}
 <ul>
