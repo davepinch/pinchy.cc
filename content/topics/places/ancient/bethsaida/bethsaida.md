@@ -8,7 +8,6 @@ place of:
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q501773"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bethsaida"
-wikipedia: "https://en.wikipedia.org/wiki/Bethsaida"
 tags:
   - place of the Bible
 ---
