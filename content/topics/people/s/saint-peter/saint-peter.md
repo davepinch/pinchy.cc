@@ -10,9 +10,9 @@ apostle of:
   - Jesus
   - New Testament
   - Bible
+  - Bethsaida
 brother: Andrew the Apostle
 person of:
-  - Bethsaida
   - New Testament
   - Bible
 type: person
