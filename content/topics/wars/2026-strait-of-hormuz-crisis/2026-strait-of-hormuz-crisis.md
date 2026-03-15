@@ -10,3 +10,4 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:2026_Strait_of_Hormuz_cr
 wikipedia: "https://en.wikipedia.org/wiki/2026_Strait_of_Hormuz_crisis"
 tags:
   - blockade
+---
