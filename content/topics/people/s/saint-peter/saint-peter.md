@@ -3,6 +3,7 @@ title: "Saint Peter"
 also known as:
   - Peter the Apostle
   - Pope Peter
+  - Simeon
   - Simon
   - Simon Peter
 apostle of:
