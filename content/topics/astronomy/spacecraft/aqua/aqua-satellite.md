@@ -1,5 +1,6 @@
 ---
 title: "Aqua (satellite)"
+spacecraft of: NASA
 stellarium: "https://stellarium-web.org/skysource/Aqua"
 wikidata: "satellite imagery"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Aqua_(satellite)"

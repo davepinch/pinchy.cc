@@ -1,6 +1,10 @@
 ---
 title: "Lunar Reconnaissance Orbiter"
-orbiting: Moon
+spacecraft of:
+  - NASA
+  - Moon
+wikidata: "https://www.wikidata.org/wiki/Q331778"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lunar_Reconnaissance_Orbiter"
 tags:
-  - space craft
+  - spacecraft
 ---
