@@ -2,6 +2,9 @@
 title: "Scratchpad"
 draft: true
 ---
+3/15:
+https://courses.washington.edu/ess210/Laboratory_files/WhidbeyComplete.pdf
+
 
 3/11 #LoftyThoughts
 how to surf the words
