@@ -8,6 +8,7 @@ schläfli symbol:
   - "tt{5}"
 sides: 20
 wikidata: "https://www.wikidata.org/wiki/Q215609"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:20-gons"
 tags:
   - polygon
 ---

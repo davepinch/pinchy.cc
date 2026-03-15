@@ -8,6 +8,7 @@ schläfli symbol:
   - "tt{3}"
 sides: 12
 wikidata: "https://www.wikidata.org/wiki/Q212074"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:12-gons"
 tags:
   - polygon
 ---

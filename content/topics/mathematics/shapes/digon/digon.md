@@ -6,6 +6,7 @@ lofty thoughts: A minusagon is a value that when added to a polygon, removes one
 schläfli symbol: "{2}"
 sides: 2
 wikidata: "https://www.wikidata.org/wiki/Q854818"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Digons"
 tags:
   - polygon
 ---

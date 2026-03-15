@@ -5,6 +5,7 @@ title: "pentadecagon"
 schläfli symbol: "{15}"
 sides: 15
 wikidata: "https://www.wikidata.org/wiki/Q845250"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:15-gons"
 tags:
   - polygon
 ---

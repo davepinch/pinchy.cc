@@ -7,6 +7,7 @@ schläfli symbol:
   - "t{7}"
 sides: 14
 wikidata: "https://www.wikidata.org/wiki/Q1058780"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:14-gons"
 tags:
   - polygon
 ---

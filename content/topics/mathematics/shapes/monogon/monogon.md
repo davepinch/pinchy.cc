@@ -7,6 +7,7 @@ schläfli symbol:
 sides: 1
 TODO: document the h{2} syntax
 wikidata: "https://www.wikidata.org/wiki/Q1070963"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Monogons"
 tags:
   - polygon
   - TODO

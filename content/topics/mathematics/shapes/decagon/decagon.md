@@ -7,6 +7,7 @@ schläfli symbol:
   - "t{5}"
 sides: 10
 wikidata: "https://www.wikidata.org/wiki/Q184625"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Decagons"
 tags:
   - polygon
   - geometry

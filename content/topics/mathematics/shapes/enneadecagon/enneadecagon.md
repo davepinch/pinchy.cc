@@ -5,6 +5,7 @@ title: "enneadecagon"
 schläfli symbol: "{19}"
 sides: 19
 wikidata: "https://www.wikidata.org/wiki/Q863989"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:19-gons"
 tags:
   - polygon
 ---
