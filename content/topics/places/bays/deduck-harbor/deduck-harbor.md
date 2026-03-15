@@ -10,5 +10,6 @@ openstreetmap: "https://www.openstreetmap.org/way/1390123846"
 tags:
   - bay
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

@@ -12,6 +12,7 @@ southeastern section of: Boundary Bay
 wikidata:
   - "https://www.wikidata.org/wiki/Q7449345 (British Columbia)"
   - "https://www.wikidata.org/wiki/Q49391592 (Whatcom County)"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Semiahmoo_Bay"
 tags:
   - bay
 ---

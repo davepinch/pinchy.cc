@@ -9,5 +9,6 @@ spit of:
 tags:
   - spit
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

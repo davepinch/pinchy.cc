@@ -7,6 +7,7 @@ bay of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/13317076"
 wikidata: "https://www.wikidata.org/wiki/Q7230636"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Port_Gardner_Bay"
 tags:
   - bay
 ---

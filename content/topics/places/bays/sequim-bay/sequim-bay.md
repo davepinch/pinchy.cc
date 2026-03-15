@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7452527"
 wikipedia: "https://en.wikipedia.org/wiki/Sequim_Bay"
 tags:
   - bay
+  - no Wikimedia category
 ---

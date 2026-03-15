@@ -9,4 +9,5 @@ wikidata: "https://www.wikidata.org/wiki/Q25000700"
 wikipedia: "https://en.wikipedia.org/wiki/Peabody_Bay"
 tags:
   - bay
+  - no Wikimedia category
 ---

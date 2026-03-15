@@ -8,5 +8,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/13316228"
 wikidata: "https://www.wikidata.org/wiki/Q49383996"
 tags:
   - bay
+  - no Wikimedia category
   - no Wikipedia article
 ---

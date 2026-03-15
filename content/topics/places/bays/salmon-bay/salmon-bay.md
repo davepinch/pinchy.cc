@@ -14,6 +14,7 @@ cruise westbound on the canal: Ballard Locks
 near: Ballard Avenue Historic District
 openstreetmap: "https://www.openstreetmap.org/way/684873177"
 wikidata: "https://www.wikidata.org/wiki/Q3470022"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Salmon_Bay"
 tags:
   - bay
 ---

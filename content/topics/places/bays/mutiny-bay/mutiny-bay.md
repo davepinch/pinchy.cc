@@ -10,4 +10,5 @@ vicinity of: Useless Bay
 wikidata: "https://www.wikidata.org/wiki/Q49385964"
 tags:
   - bay
+  - no Wikimedia category
 ---

@@ -5,4 +5,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7449352"
 tags:
   - spit (landform)
   - no OpenStreetMap element
+  - no Wikimedia category
 ---

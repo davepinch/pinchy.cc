@@ -11,5 +11,6 @@ url: /macs-cove/
 tags:
   - bay
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

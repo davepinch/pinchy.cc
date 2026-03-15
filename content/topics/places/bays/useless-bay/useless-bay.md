@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q28912560"
 wikipedia: "https://en.wikipedia.org/wiki/Useless_Bay_(Washington)"
 tags:
   - bay
+  - no Wikimedia category
 ---

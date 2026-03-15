@@ -11,4 +11,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Port_Susan"
 tags:
   - bay
   - VISIT SOMEWHERE NEW
+  - no Wikimedia category
 ---

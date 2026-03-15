@@ -14,5 +14,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/13321295"
 wikidata: "https://www.wikidata.org/wiki/Q42310415"
 tags:
   - bay
+  - no Wikimedia category
   - no Wikipedia article
 ---

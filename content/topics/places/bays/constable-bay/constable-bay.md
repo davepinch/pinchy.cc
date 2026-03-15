@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q24840712"
 wikipedia: "https://en.wikipedia.org/wiki/Constable_Bay"
 tags:
   - bay
+  - no Wikimedia category
 ---

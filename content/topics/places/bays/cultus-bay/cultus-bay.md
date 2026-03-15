@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q19979236"
 wikipedia: "https://en.wikipedia.org/wiki/Cultus_Bay"
 tags:
   - bay
+  - no Wikimedia category
 ---

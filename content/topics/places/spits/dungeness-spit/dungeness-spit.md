@@ -9,6 +9,7 @@ spit of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/5575052"
 wikidata: "https://www.wikidata.org/wiki/Q5315115"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Dungeness_Spit"
 wikipedia: "https://en.wikipedia.org/wiki/Dungeness_Spit"
 tags:
   - spit

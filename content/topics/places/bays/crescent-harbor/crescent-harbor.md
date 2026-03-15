@@ -11,5 +11,6 @@ vicinity of: Oak Harbor, Washington
 tags:
   - bay
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

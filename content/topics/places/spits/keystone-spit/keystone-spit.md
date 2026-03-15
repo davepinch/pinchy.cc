@@ -10,5 +10,6 @@ spit of:
 wikidata: "https://www.wikidata.org/wiki/Q49618176"
 tags:
   - spit
+  - no Wikimedia category
   - no Wikipedia article
 ---

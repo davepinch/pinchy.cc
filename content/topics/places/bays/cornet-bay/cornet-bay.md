@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q26972737"
 wikipedia: "https://en.wikipedia.org/wiki/Cornet_Bay"
 tags:
   - bay
+  - no Wikimedia category
 ---

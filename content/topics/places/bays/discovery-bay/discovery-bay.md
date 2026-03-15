@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49376336"
 wikipedia: "https://en.wikipedia.org/wiki/Discovery_Bay_(Washington)"
 tags:
   - bay
+  - no Wikimedia category
 ---

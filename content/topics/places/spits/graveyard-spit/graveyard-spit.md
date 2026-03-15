@@ -11,4 +11,7 @@ spit of:
 openstreetmap: "https://www.openstreetmap.org/relation/17868749"
 tags:
   - spit
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---

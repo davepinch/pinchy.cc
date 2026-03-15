@@ -11,4 +11,5 @@ vicinity of: Blaine, Washington
 wikidata: "https://www.wikidata.org/wiki/Q49373838"
 tags:
   - bay
+  - no Wikimedia category
 ---

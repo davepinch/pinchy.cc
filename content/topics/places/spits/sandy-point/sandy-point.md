@@ -9,5 +9,6 @@ spit of:
 tags:
   - spit (landform)
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

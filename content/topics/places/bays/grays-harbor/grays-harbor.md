@@ -13,6 +13,7 @@ rivers:
   - Humptulips River
   - incomplete list
 wikidata: "https://www.wikidata.org/wiki/Q1544076"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Grays_Harbor"
 tags:
   - estuarine bay
   - bay

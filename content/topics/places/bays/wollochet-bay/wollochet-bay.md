@@ -11,4 +11,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Wollochet_Bay"
 tags:
   - bay
   - VISIT SOMEWHERE NEW
+  - no Wikimedia category
 ---
