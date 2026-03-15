@@ -2,6 +2,8 @@
 title: "Matthew 5:23 TYN"
 ⬅️: "Matthew 5:22 TYN"
 ➡️: "Matthew 5:24 TYN"
+cross-reference:
+  - "Mark 11:25 TYN"
 Tyndale Bible of: "Matthew 5:23"
 verse: "Therfore whe thou offrest thy gifte at the altare and their remembrest that thy brother hath ought agaynst the:"
 type: verse
