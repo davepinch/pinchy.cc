@@ -7,6 +7,7 @@ person of:
 wikidata: "https://www.wikidata.org/wiki/Q212647"
 tags:
   - Christian
+  - apostle
   - evangelist
   - saint
   - human being
