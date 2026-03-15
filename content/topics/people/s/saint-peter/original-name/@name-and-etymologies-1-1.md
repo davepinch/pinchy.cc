@@ -7,7 +7,7 @@ citation: >-
 original name of: Saint Peter
 snippet of: Saint Peter (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Saint_Peter/name-and-etymologies-1-1/
+url: /en.wikipedia.org/wiki/Saint_Peter/@name-and-etymologies-1-1/
 tags:
   - snippet
 ---

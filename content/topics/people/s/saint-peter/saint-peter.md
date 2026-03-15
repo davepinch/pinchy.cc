@@ -8,16 +8,19 @@ also known as:
   - Simon Peter
 apostle of:
   - Jesus
-  - Bethsaida
   - New Testament
   - Bible
 brother: Andrew the Apostle
 person of:
+  - Bethsaida
   - New Testament
   - Bible
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q33923"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Saint_Peter"
 wikipedia: "https://en.wikipedia.org/wiki/Saint_Peter"
+wikiquote: "https://en.wikiquote.org/wiki/Saint_Peter"
+wikisource: "https://en.wikisource.org/wiki/Author:Peter"
 tags:
   - person
   - fisherman
