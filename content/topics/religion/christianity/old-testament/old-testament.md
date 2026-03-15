@@ -1,6 +1,7 @@
 ---
 title: "Old Testament"
 ascend: New Testament
+testament of: Bible
 tags:
-  - Bible
+  - testament of the Bible
 ---
