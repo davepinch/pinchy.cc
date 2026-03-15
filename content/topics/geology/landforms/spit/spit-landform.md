@@ -5,6 +5,7 @@ tag requires property:
   - OpenStreetMap
   - spit of
   - Wikidata
+  - Wikimedia
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q217101"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Spits"
