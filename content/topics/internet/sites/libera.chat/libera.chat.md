@@ -11,6 +11,8 @@ web clients recommended by Libera.Chat staff:
   - "[KiwiIRC](https://web.libera.chat/), a featureful user-friendly web client."
   - "[gamja](https://web.libera.chat/gamja), a lightweight compact web client."
 website: "https://libera.chat/"
+wikidata: "https://www.wikidata.org/wiki/Q106908381"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Libera_Chat"
 tags:
   - bookmark
   - IRC
