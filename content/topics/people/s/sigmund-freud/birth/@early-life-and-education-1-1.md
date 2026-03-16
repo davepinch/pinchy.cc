@@ -7,7 +7,7 @@ citation: >-
 mention of: Ashkenazi Jews
 snippet of: Sigmund Freud (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Sigmund_Freud/early-life-and-education-1-1/
+url: /en.wikipedia.org/wiki/Sigmund_Freud/@early-life-and-education-1-1/
 tags:
   - birth
   - snippet
