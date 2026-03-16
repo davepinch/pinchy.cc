@@ -31,6 +31,7 @@ present-day of:
   - United Kingdom of Israel
 wikidata: "https://www.wikidata.org/wiki/Q801"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Israel"
+wikiquote: "https://en.wikiquote.org/wiki/Israel"
 tags:
   - Israeli
   - country
