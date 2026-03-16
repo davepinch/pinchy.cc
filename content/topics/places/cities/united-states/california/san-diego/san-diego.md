@@ -1,5 +1,5 @@
 ---
-title: "San Diego"
+title: "San Diego, California"
 city of:
   - California
   - Pacific Ocean

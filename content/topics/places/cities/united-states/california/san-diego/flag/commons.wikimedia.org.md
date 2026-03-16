@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_San_Diego,_California.svg (Wikimedia Commons)"
 flag of:
-  - San Diego
+  - San Diego, California
   - horizontal
   - tricolor
   - triband

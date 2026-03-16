@@ -7,7 +7,7 @@ retrieved: 2023-07-18
 type: website
 url: /en.wikipedia.org/wiki/San_Diego/
 website: "https://en.wikipedia.org/wiki/San_Diego"
-wikipedia of: San Diego
+wikipedia of: San Diego, California
 tags:
   - Wikipedia
 ---
