@@ -2,6 +2,7 @@
 title: "Second Temple"
 temple of:
   - Kingdom of Judah
+  - Jerusalem
   - Judaism
   - Second Temple Judaism
   - Second Temple Period
