@@ -4,7 +4,7 @@ description: "Looking over large open space that was made for soccer fields. The
 license: CC0 1.0
 photograph by: David Pinch
 photograph of:
-  - soccer field
+  - park
   - grass
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e5/Looking_south_on_a_sunny_day_at_Stocker_Fields.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Looking_south_on_a_sunny_day_at_Stocker_Fields.jpg/330px-Looking_south_on_a_sunny_day_at_Stocker_Fields.jpg"
