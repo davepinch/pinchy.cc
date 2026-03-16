@@ -7,4 +7,7 @@ born in:
 url: /david-pinch/
 tags:
   - human being
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
