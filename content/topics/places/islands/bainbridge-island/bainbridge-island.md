@@ -10,7 +10,9 @@ reddit:
   - "https://www.reddit.com/r/BainbridgeIslandWA/"
 TODO: separate out the city and island
 visit somewhere new: Bloedel Reserve
-wikidata: "https://www.wikidata.org/wiki/Q803903"
+wikidata:
+  - "https://www.wikidata.org/wiki/Q49632219 (island)"
+  - "https://www.wikidata.org/wiki/Q803903 (city)"
 tags:
   - city and island
   - island

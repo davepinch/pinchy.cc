@@ -12,5 +12,6 @@ wikidata: "https://www.wikidata.org/wiki/Q49677315"
 tags:
   - former
   - island
+  - no Wikimedia category
   - no Wikipedia article
 ---

@@ -10,6 +10,7 @@ TODO: The Wikidata entry does not indicate this island is part of the Snohomish 
 wikidata: "https://www.wikidata.org/wiki/Q30744179"
 tags:
   - island
+  - no Wikimedia category
   - no Wikipedia article
   - TODO
 ---

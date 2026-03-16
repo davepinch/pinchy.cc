@@ -14,4 +14,5 @@ redirect: Vashon, Washington
 wikidata: "https://www.wikidata.org/wiki/Q12834566"
 tags:
   - island
+  - no Wikimedia category
 ---

@@ -11,5 +11,6 @@ vicinity of:
 wikidata: "https://www.wikidata.org/wiki/Q30744108"
 tags:
   - island
+  - no Wikimedia category
   - no Wikipedia article
 ---

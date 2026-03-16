@@ -6,6 +6,7 @@ unincorporated community of:
   - Washington
   - Skagit River
 wikidata: "https://www.wikidata.org/wiki/Q3474237"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Newhalem,_Washington"
 tags:
   - unincorporated community
 ---

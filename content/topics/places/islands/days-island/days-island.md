@@ -10,5 +10,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/5932686"
 wikidata: "https://www.wikidata.org/wiki/Q30744146"
 tags:
   - island
+  - no Wikimedia category
   - no Wikipedia article
 ---

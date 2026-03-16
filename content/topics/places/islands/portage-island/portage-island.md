@@ -8,4 +8,5 @@ wikidata: "https://www.wikidata.org/wiki/Q3497848"
 wikipedia: "https://en.wikipedia.org/wiki/Portage_Island"
 tags:
   - island
+  - no Wikimedia category
 ---

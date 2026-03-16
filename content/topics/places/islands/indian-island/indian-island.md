@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49642352"
 wikipedia: "https://en.wikipedia.org/wiki/Indian_Island%2C_Washington"
 tags:
   - island
+  - no Wikimedia category
 ---

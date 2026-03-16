@@ -10,6 +10,7 @@ island of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/13317331"
 wikidata: "https://www.wikidata.org/wiki/Q3458302"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Guemes_Island"
 wikipedia: "https://en.wikipedia.org/wiki/Guemes_Island"
 tags:
   - island

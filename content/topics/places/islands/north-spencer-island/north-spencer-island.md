@@ -11,5 +11,6 @@ openstreetmap: "https://www.openstreetmap.org/way/1302781070"
 tags:
   - island
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

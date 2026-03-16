@@ -6,6 +6,7 @@ town of:
   - Washington
   - Skagit River
 wikidata: "https://www.wikidata.org/wiki/Q958611"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Hamilton,_Washington"
 tags:
   - town
 ---

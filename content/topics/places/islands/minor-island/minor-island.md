@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49658862"
 wikipedia: "https://en.wikipedia.org/wiki/Minor_Island"
 tags:
   - island
+  - no Wikimedia category
 ---

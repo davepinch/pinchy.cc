@@ -11,6 +11,7 @@ near:
   - Strawberry Island
 openstreetmap: "https://www.openstreetmap.org/relation/3958301"
 wikidata: "https://www.wikidata.org/wiki/Q1411131"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Fidalgo_Island"
 tags:
   - island
 ---

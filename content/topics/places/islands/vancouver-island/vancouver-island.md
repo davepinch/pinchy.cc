@@ -12,6 +12,8 @@ namesake of: George Vancouver
 near: Explorer Plate
 openstreetmap: "https://www.openstreetmap.org/relation/2249770"
 wikidata: "https://www.wikidata.org/wiki/Q170479"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Vancouver_Island"
+wikivoyage: "https://en.wikivoyage.org/wiki/Vancouver_Island"
 tags:
   - island
 ---

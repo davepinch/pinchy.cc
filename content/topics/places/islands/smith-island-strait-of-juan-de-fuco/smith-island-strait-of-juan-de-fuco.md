@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7545190"
 wikipedia: "https://en.wikipedia.org/wiki/Smith_Island_(Washington)"
 tags:
   - island
+  - no Wikimedia category
 ---

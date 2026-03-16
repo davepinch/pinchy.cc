@@ -13,5 +13,6 @@ vicinity of:
 tags:
   - island
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

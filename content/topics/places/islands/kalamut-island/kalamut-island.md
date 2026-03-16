@@ -11,5 +11,6 @@ tags:
   - sandbar
   - island
   - no OpenStreetMap element
+  - no Wikimedia category
   - no Wikipedia article
 ---

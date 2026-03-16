@@ -12,6 +12,7 @@ vicinity of:
   - Fidalgo Island
   - Whidbey Island
 wikidata: "https://www.wikidata.org/wiki/Q7622444"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Strawberry_Island_(Deception_Pass,_Washington)"
 tags:
   - island
 ---
