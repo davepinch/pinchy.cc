@@ -1,0 +1,9 @@
+---
+title: "Tribe of Simeon"
+tribe of: Israel
+wikidata: "https://www.wikidata.org/wiki/Q1370197"
+wikipedia: "https://en.wikipedia.org/wiki/Tribe_of_Simeon"
+wikiquote: "https://en.wikiquote.org/wiki/Tribe_of_Simeon"
+tags:
+  - tribe of Israel
+---
