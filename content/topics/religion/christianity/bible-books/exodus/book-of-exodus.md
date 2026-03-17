@@ -1,6 +1,7 @@
 ---
 title: "Book of Exodus"
 book of:
+  - Torah
   - Old Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q9190"
