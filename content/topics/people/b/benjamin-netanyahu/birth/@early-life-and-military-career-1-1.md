@@ -8,7 +8,7 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: Benjamin Netanyahu (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Benjamin_Netanyahu/early-life-and-military-career-1-1/
+url: /en.wikipedia.org/wiki/Benjamin_Netanyahu/@early-life-and-military-career-1-1/
 when: 1949-10-21
 tags:
   - birth
