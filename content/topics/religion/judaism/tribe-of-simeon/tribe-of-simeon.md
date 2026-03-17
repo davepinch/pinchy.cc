@@ -1,5 +1,6 @@
 ---
 title: "Tribe of Simeon"
+founded by: Simeon (son of Jacob)
 tribe of: Israel
 wikidata: "https://www.wikidata.org/wiki/Q1370197"
 wikipedia: "https://en.wikipedia.org/wiki/Tribe_of_Simeon"
