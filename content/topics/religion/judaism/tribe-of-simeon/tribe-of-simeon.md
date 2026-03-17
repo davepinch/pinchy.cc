@@ -7,4 +7,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Tribe_of_Simeon"
 wikiquote: "https://en.wikiquote.org/wiki/Tribe_of_Simeon"
 tags:
   - tribe of Israel
+  - no Wikimedia category
 ---
