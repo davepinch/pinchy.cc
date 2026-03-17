@@ -10,4 +10,6 @@ wikisource: "https://en.wikisource.org/wiki/Author:Benjamin_Netanyahu"
 𝕏: https://x.com/netanyahu
 tags:
   - prime minister
+  - Ashkenazi Jews
+  - human being
 ---
