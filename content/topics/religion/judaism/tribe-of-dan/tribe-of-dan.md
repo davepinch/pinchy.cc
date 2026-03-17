@@ -1,7 +1,9 @@
 ---
 title: "Tribe of Dan"
 founded by: Dan (son of Jacob)
-tribe of: Israel
+tribe of:
+  - Twelve Tribes of Israel
+  - Israel
 wikidata: "https://www.wikidata.org/wiki/Q2121613"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Tribe_of_Dan"
 wikipedia: "https://en.wikipedia.org/wiki/Tribe_of_Dan"

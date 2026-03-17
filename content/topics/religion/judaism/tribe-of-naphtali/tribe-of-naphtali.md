@@ -1,7 +1,9 @@
 ---
 title: "Tribe of Naphtali"
 founded by: Naphtali
-tribe of: Israel
+tribe of:
+  - Twelve Tribes of Israel
+  - Israel
 wikidata: "https://www.wikidata.org/wiki/Q1348367"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Naphtali"
 wikipedia: "https://en.wikipedia.org/wiki/Tribe_of_Naphtali"

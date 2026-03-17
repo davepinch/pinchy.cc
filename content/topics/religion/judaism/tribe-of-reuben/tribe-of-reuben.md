@@ -1,7 +1,9 @@
 ---
 title: "Tribe of Reuben"
 founded by: Reuben
-tribe of: Israel
+tribe of:
+  - Twelve Tribes of Israel
+  - Israel
 wikidata: "https://www.wikidata.org/wiki/Q783246"
 wikipedia: "https://en.wikipedia.org/wiki/Tribe_of_Reuben"
 wikiquote: "https://en.wikiquote.org/wiki/Tribe_of_Reuben"
