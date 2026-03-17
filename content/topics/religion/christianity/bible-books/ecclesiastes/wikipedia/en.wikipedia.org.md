@@ -8,7 +8,7 @@ retrieved: 2023-09-24
 type: website
 url: /en.wikipedia.org/wiki/Ecclesiastes/
 website: "https://en.wikipedia.org/wiki/Ecclesiastes"
-wikipedia of: Ecclesiastes
+wikipedia of: Book of Ecclesiastes
 tags:
   - Wikipedia
 ---

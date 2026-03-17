@@ -1,5 +1,5 @@
 ---
-title: "Ecclesiastes"
+title: "Book of Ecclesiastes"
 book of:
   - Old Testament
   - Bible
