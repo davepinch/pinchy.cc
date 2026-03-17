@@ -1,5 +1,6 @@
 ---
 title: "Tribe of Naphtali"
+founded by: Naphtali
 tribe of: Israel
 wikidata: "https://www.wikidata.org/wiki/Q1348367"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Naphtali"
