@@ -1,6 +1,7 @@
 ---
 title: "Tribe of Ephraim"
 founded by: Ephraim
+half-tribe of: Tribe of Joseph
 tribe of:
   - Twelve Tribes of Israel
   - Israel

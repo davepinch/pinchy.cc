@@ -1,6 +1,7 @@
 ---
 title: "Tribe of Manasseh"
 founded by: Manasseh
+half-tribe of: Tribe of Joseph
 tribe of:
   - Twelve Tribes of Israel
   - Israel
