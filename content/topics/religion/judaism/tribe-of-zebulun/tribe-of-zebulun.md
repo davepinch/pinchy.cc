@@ -1,5 +1,6 @@
 ---
 title: "Tribe of Zebulun"
+founded by: Zebulun
 tribe of: Israel
 wikidata: "https://www.wikidata.org/wiki/Q2534999"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Tribe_of_Zebulun"
