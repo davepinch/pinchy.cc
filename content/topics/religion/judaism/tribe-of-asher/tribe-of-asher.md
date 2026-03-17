@@ -1,6 +1,6 @@
 ---
 title: "Tribe of Asher"
-namesake of: Asher
+founded by: Asher
 tribe of: Israel
 wikidata: "https://www.wikidata.org/wiki/Q163106"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Tribe_of_Asher"
