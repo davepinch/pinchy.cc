@@ -1,5 +1,9 @@
 ---
 title: "Gavin Newsom"
+born in:
+  - San Francisco
+  - California
+  - United States
 governor of: California
 wikidata: "https://www.wikidata.org/wiki/Q461391"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Gavin_Newsom"
