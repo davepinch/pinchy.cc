@@ -4,6 +4,7 @@ person of:
   - Book of Genesis
   - Book of Numbers
   - Book of Isaiah
+  - Torah
   - Old Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q1056931"

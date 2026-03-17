@@ -2,6 +2,7 @@
 title: "Joseph (son of Jacob)"
 person of:
   - Book of Genesis
+  - Torah
   - Old Testament
   - Bible
   - Qur'an

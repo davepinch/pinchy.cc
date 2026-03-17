@@ -3,6 +3,7 @@ title: "Issachar"
 person of:
   - Book of Genesis
   - Book of Exodus
+  - Torah
   - Old Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q651256"

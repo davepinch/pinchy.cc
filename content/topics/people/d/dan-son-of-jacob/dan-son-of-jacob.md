@@ -2,6 +2,7 @@
 title: "Dan (son of Jacob)"
 person of:
   - Book of Genesis
+  - Torah
   - Old Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q550869"

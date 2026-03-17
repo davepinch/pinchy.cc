@@ -2,7 +2,8 @@
 title: "Gad"
 person of:
   - Book of Genesis
-  - Book of Numbers
+  - Book of 
+  - Torah
   - Old Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q851749"

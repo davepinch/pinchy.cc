@@ -2,6 +2,7 @@
 title: "Zebulun"
 person of:
   - Book of Genesis
+  - Torah
   - Old Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q614575"
