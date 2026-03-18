@@ -6,6 +6,9 @@ mountain pass of:
   - Washington
 near: Hinkhouse Peak
 openstreetmap: "https://www.openstreetmap.org/node/50310535"
+vantage point of:
+  - Liberty Bell Group
+  - Liberty Bell Mountain
 wikidata: "https://www.wikidata.org/wiki/Q7972122"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_Pass_(Cascades)"
 tags:
