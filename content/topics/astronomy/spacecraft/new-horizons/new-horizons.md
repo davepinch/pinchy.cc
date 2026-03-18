@@ -3,7 +3,7 @@ title: "New Horizons"
 spacecraft of:
   - NASA
   - Pluto
-  - Kuiper Belt
+  - Kuiper belt
   - 486958 Arrokoth
 wikidata: "https://www.wikidata.org/wiki/Q48461"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:New_Horizons"
