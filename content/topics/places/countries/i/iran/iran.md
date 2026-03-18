@@ -25,6 +25,9 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/304938"
 wikidata: "https://www.wikidata.org/wiki/Q794"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Iran"
+wikiquote: "https://en.wikiquote.org/wiki/Iran"
+wikivoyage: "https://en.wikivoyage.org/wiki/Iran"
 tags:
   - Iranian
   - country
