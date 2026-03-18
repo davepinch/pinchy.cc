@@ -4,6 +4,7 @@ born in:
   - Tel Aviv
   - Israel
 prime minister of: Israel
+wikidata: "https://www.wikidata.org/wiki/Q43723"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Benjamin_Netanyahu"
 wikiquote: "https://en.wikiquote.org/wiki/Benjamin_Netanyahu"
 wikisource: "https://en.wikisource.org/wiki/Author:Benjamin_Netanyahu"
