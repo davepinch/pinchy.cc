@@ -1,6 +1,8 @@
 ---
 title: "Al-Karak"
-city of: Jordan
+city of:
+  - Jordan
+  - King's Highway
 openstreetmap: "https://www.openstreetmap.org/way/350877998"
 wikidata: "https://www.wikidata.org/wiki/Q31572"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Karak"

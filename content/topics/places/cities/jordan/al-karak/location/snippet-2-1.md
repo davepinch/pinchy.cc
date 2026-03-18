@@ -1,5 +1,6 @@
 ---
 title: "Al-Karak lies 140 kilometres (87 mi) to the south of Amman on the ancient King's Highway."
+al-karak of: "King's Highway"
 citation: >-
   Wikipedia contributors. (2024, September 17). Al-Karak. In *Wikipedia, The Free Encyclopedia*. Retrieved September 24, 2024, from https://en.wikipedia.org/w/index.php?title=Al-Karak&oldid=1246191886
 license: CC BY-SA 4.0
