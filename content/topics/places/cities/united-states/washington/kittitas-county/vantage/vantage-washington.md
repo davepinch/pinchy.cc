@@ -6,6 +6,7 @@ census-designated place of:
   - Washington
   - Columbia Plateau
   - Interstate 90
+disambiguation of: vantage
 openstreetmap: "https://www.openstreetmap.org/relation/238278"
 wikidata: "https://www.wikidata.org/entity/Q1514736"
 tags:
