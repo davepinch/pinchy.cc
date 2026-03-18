@@ -7,6 +7,7 @@ mountain of:
   - Chelan County, Washington
   - Okanogan County, Washington
   - liberty
+not to be confused with: Liberty Mountain
 openstreetmap: "https://www.openstreetmap.org/node/356545624"
 vicinity of: Washington State Route 20
 wikidata: "https://www.wikidata.org/wiki/Q6541603"

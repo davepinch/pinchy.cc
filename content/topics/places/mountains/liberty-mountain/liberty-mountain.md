@@ -9,6 +9,7 @@ mountain of:
   - Cascade Range
   - United States
   - liberty
+not to be confused with: Liberty Bell Mountain
 openstreetmap: "https://www.openstreetmap.org/node/356545628"
 wikidata: "https://www.wikidata.org/wiki/Q49044119"
 wikipedia: "https://en.wikipedia.org/wiki/Liberty_Mountain_%28Washington%29"
