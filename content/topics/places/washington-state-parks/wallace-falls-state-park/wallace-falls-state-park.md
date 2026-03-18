@@ -18,5 +18,6 @@ wikidata: "https://www.wikidata.org/wiki/Q7962796"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wallace_Falls_State_Park"
 tags:
   - state park
+  - vantage point
   - Discover Pass required
 ---

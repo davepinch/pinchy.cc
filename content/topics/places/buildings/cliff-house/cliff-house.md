@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q863464"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Cliff_House,_San_Francisco"
 tags:
   - building
+  - vantage point
 ---

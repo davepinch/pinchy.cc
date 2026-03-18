@@ -15,4 +15,5 @@ vantage point of:
   - Mount Rainier
 tags:
   - overlook
+  - vantage point
 ---

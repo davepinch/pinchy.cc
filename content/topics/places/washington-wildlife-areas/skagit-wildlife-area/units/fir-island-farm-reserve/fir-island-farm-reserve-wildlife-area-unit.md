@@ -11,5 +11,6 @@ wildlife area unit of:
   - Washington
 tags:
   - wildlife area unit
+  - vantage point
   - Discover Pass required
 ---

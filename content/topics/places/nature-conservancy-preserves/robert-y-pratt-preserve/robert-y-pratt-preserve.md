@@ -11,6 +11,7 @@ vantage point of:
 website: "https://www.nature.org/en-us/get-involved/how-to-help/places-we-protect/ebeys-landing/"
 tags:
   - preserve
+  - vantage point
   - The Nature Conservancy preserve
   - no Wikidata record
   - no Wikipedia article

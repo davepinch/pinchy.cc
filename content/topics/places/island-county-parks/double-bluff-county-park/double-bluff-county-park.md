@@ -13,6 +13,7 @@ vicinity of:
   - Freeland, Washington
 tags:
   - county park
+  - vantage point
   - no Wikidata record
   - no Wikipedia article
 ---

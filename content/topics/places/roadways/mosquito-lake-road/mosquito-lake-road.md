@@ -22,4 +22,5 @@ vantage point of:
 vicinity of: Mount Baker
 tags:
   - roadway
+  - vantage point
 ---

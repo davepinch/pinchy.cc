@@ -15,4 +15,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Denny_Blaine_Park"
 tags:
   - city park
   - beach
+  - vantage point
 ---

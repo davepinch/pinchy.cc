@@ -14,4 +14,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Angeles"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Angeles"
 tags:
   - mountain
+  - vantage point
 ---

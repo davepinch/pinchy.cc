@@ -13,4 +13,5 @@ vantage point of:
   - Spencer Island
 tags:
   - trail
+  - vantage point
 ---

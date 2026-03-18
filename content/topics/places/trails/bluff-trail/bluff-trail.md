@@ -12,6 +12,7 @@ vantage point of:
   - Admiralty Inlet
 tags:
   - trail
+  - vantage point
   - no Wikidata record
   - no Wikipedia article
 ---

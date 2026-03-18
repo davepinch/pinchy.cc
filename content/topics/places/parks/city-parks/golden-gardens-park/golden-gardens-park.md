@@ -17,4 +17,5 @@ vicinity of: Burke–Gilman Trail
 wikidata: "https://www.wikidata.org/wiki/Q5579416"
 tags:
   - city park
+  - vantage point
 ---

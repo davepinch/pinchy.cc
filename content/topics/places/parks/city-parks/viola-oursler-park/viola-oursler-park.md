@@ -31,6 +31,7 @@ vantage point of:
   - Whitehorse Mountain
 tags:
   - city park
+  - vantage point
   - no Wikidata record
   - no Wikipedia article
 ---

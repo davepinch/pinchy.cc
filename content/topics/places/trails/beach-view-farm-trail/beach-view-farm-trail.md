@@ -17,5 +17,6 @@ vantage point of:
 vicinity of: Oak Harbor, Washington
 tags:
   - trail
+  - vantage point
   - Whidbey Camano Land Trust
 ---

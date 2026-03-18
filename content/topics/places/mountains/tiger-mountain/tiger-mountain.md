@@ -14,4 +14,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Tiger_Mountain"
 wikipedia: "https://en.wikipedia.org/wiki/Tiger_Mountain_(Washington)"
 tags:
   - mountain
+  - vantage point
 ---

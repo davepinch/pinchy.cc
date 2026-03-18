@@ -10,6 +10,7 @@ trail of:
 vantage point of: Mount Index
 tags:
   - trail
+  - vantage point
   - no Wikidata record
   - no Wikipedia article
 ---

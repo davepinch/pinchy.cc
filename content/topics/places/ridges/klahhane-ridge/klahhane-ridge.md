@@ -12,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Klahhane_Ridge"
 wikipedia: "https://en.wikipedia.org/wiki/Klahhane_Ridge"
 tags:
   - ridge
+  - vantage point
 ---

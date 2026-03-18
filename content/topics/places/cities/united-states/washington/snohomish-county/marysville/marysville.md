@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q970001"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Marysville,_Washington"
 tags:
   - city
+  - vantage point
 ---

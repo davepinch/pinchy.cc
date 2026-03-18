@@ -18,4 +18,5 @@ wikidata: "https://www.wikidata.org/entity/Q1505643"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Sultan,_Washington"
 tags:
   - city
+  - vantage point
 ---

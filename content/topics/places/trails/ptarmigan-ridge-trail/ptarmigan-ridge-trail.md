@@ -4,4 +4,5 @@ trail of: Whatcom County, Washington
 vantage point of: Mount Shuksan
 tags:
   - trail
+  - vantage point
 ---

@@ -12,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Serene"
 wikipedia: "https://en.wikipedia.org/wiki/Lake_Serene"
 tags:
   - lake
+  - vantage point
 ---

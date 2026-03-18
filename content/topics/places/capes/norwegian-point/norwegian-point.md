@@ -13,5 +13,6 @@ wikidata: "https://www.wikidata.org/wiki/Q7061423"
 wikipedia: "https://en.wikipedia.org/wiki/Norwegian_Point"
 tags:
   - cape
+  - vantage point
   - no OpenStreetMap element
 ---

@@ -12,4 +12,5 @@ postal address: "10800 North Vashon Highway, Vashon, WA 98070"
 vantage point of: Point Vashon
 tags:
   - ferry terminal
+  - vantage point
 ---
