@@ -7,6 +7,7 @@ see also:
   - Wikisource
   - Wikiquote
   - Wikivoyage
+url: /wikispecies.org/
 website: "https://wikispecies.org"
 wikidata: "https://www.wikidata.org/wiki/Q13679"
 ---
