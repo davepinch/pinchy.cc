@@ -1,11 +1,11 @@
 ---
-title: "Wikisource"
+title: "Wikispecies"
 see also:
   - Wikidata
   - Wikimedia
   - Wikipedia
+  - Wikisource
   - Wikiquote
-  - Wikispecies
   - Wikivoyage
-website: "https://wikisource.org"
+website: "https://wikispecies.org"
 ---

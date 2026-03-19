@@ -6,6 +6,7 @@ see also:
   - Wikimedia
   - Wikiquote
   - Wikisource
+  - Wikispecies
   - Wikivoyage
 tag requires property:
   - excerpt

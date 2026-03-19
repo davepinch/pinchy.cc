@@ -6,6 +6,7 @@ see also:
   - Wikimedia
   - Wikipedia
   - Wikisource
+  - Wikispecies
   - Wikivoyage
 website: "https://wikiquote.org"
 ---

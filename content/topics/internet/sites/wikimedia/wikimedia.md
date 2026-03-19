@@ -7,6 +7,7 @@ see also:
   - Wikipedia
   - Wikiquote
   - Wikisource
+  - Wikispecies
   - Wikivoyage
 website: "https://commons.wikimedia.org"
 ---
