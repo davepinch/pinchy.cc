@@ -1,6 +1,6 @@
 ---
 title: "Jesus"
-type: person
+born in: Bethlehem
 wikidata: "https://www.wikidata.org/wiki/Q302"
 tags:
   - Lord of the Sabbath
