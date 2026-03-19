@@ -3,6 +3,7 @@ title: "Hebron"
 city of:
   - West Bank
   - Palestine
+openstreetmap: "https://www.openstreetmap.org/relation/3797325"
 place of:
   - Torah
   - Old Testament
