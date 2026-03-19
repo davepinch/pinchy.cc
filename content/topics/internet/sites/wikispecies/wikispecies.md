@@ -1,5 +1,6 @@
 ---
 title: "Wikispecies"
+non-existence tag: no Wikispecies page
 see also:
   - Wikidata
   - Wikimedia
