@@ -16,6 +16,7 @@ tag requires property:
   - website
   - wikipedia of
 website: "https://wikipedia.org"
+wikidata: "https://www.wikidata.org/wiki/Q52"
 tags:
   - encyclopedia
 ---

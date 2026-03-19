@@ -8,4 +8,5 @@ see also:
   - Wikiquote
   - Wikivoyage
 website: "https://wikispecies.org"
+wikidata: "https://www.wikidata.org/wiki/Q13679"
 ---

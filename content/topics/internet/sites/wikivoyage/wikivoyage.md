@@ -9,4 +9,5 @@ see also:
   - Wikispecies
   - Wikiquote
 website: "https://wikivoyage.org"
+wikidata: "https://www.wikidata.org/wiki/Q373"
 ---

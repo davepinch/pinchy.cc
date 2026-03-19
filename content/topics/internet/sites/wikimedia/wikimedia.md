@@ -10,4 +10,5 @@ see also:
   - Wikispecies
   - Wikivoyage
 website: "https://commons.wikimedia.org"
+wikidata: "https://www.wikidata.org/wiki/Q565"
 ---

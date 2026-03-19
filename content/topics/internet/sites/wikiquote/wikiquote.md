@@ -9,4 +9,5 @@ see also:
   - Wikispecies
   - Wikivoyage
 website: "https://wikiquote.org"
+wikiquote: "https://www.wikidata.org/wiki/Q369"
 ---
