@@ -4,6 +4,7 @@ bay of:
   - Salish Sea
   - Bellingham, Washington
   - Whatcom County, Washington
+  - Skagit County, Washington
   - Washington
 borders:
   - Samish Bay
