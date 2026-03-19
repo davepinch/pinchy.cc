@@ -24,6 +24,7 @@ sequence:
   - Bellingham, Washington
 # - Fairhaven, Washington
   - Chuckanut Bay
+  - Pleasant Bay
   - Samish Bay
 # - Larrabee State Park
   - Skagit County, Washington
