@@ -5,7 +5,7 @@ person of:
   - Torah
   - Old Testament
   - Bible
-  - Qur'an
+  - Quran
 wikidata: "https://www.wikidata.org/wiki/Q289957"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Jacob_(Biblical_figure)"
 wikipedia: "https://en.wikipedia.org/wiki/Jacob"

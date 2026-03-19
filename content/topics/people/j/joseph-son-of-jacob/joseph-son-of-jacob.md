@@ -5,7 +5,7 @@ person of:
   - Torah
   - Old Testament
   - Bible
-  - Qur'an
+  - Quran
 wikidata: "https://www.wikidata.org/wiki/Q145746"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Joseph_(son_of_Jacob)"
 wikipedia: "https://en.wikipedia.org/wiki/Joseph_(Genesis)"
