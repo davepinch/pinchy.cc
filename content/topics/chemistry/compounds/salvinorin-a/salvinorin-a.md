@@ -7,7 +7,6 @@ chemical compound of:
   - carbon
 wikidata: "https://www.wikidata.org/wiki/Q413512"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Salvinorin_A"
-wikipedia: "https://en.wikipedia.org/wiki/Salvinorin_A"
 tags:
   - dissociative
   - drug
