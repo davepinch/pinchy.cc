@@ -5,7 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-03-19
 type: website
-url: /en.wikipedia.org/wiki/Salvinorin_A
+url: /en.wikipedia.org/wiki/Salvinorin_A/
 website: "https://en.wikipedia.org/wiki/Salvinorin_A"
 wikipedia of: Salvinorin A
 tags:
