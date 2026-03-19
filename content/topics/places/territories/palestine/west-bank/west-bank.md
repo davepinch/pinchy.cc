@@ -7,6 +7,7 @@ borders:
 near: Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/1613659"
 occupied by: Israel
+territory of: Palestine
 tags:
   - landlocked
   - territory
