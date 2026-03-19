@@ -1,14 +1,15 @@
 ---
-title: >-
-  The bigleaf maple has the largest leaves of any maple, typically 15–30 cm (6–12 in) across with five deeply incised palmate lobes, with the largest running to 61 cm (24 in).
+title: "height of Acer macrophyllum (Wikipedia)"
+✂️: >-
+  Bigleaf maple can grow up to 48 metres (158 feet) tall, but more commonly reaches 15–20 m (50–65 ft) tall and 90–120 centimetres (35–47 inches).
 citation: >-
   Wikipedia contributors. (2024, February 28). Acer macrophyllum. In *Wikipedia, The Free Encyclopedia*. Retrieved March 5, 2024, from https://en.wikipedia.org/w/index.php?title=Acer_macrophyllum&oldid=1210911571
-largest leaves of: maple
-leaves of: Acer macrophyllum
+height of: Acer macrophyllum
 license: CC BY-SA 4.0
 snippet of: Acer macrophyllum (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Acer_macrophyllum/description-2-1/
+url: /en.wikipedia.org/wiki/Acer_macrophyllum/@description-1-1/
 tags:
+  - height
   - snippet
 ---
