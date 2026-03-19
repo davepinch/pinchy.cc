@@ -14,6 +14,7 @@ tectonic plate of:
   - Persian Gulf
   - Red Sea
 wikidata: "https://www.wikidata.org/wiki/Q331093"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Arabian_tectonic_plate"
 tags:
   - tectonic plate
 ---

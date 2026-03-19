@@ -10,4 +10,5 @@ tectonic plate of:
 wikidata: "https://www.wikidata.org/wiki/Q1345056"
 tags:
   - tectonic plate
+  - no Wikimedia category
 ---

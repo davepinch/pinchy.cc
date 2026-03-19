@@ -9,4 +9,5 @@ tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q1344938"
 tags:
   - tectonic plate
+  - no Wikimedia category
 ---

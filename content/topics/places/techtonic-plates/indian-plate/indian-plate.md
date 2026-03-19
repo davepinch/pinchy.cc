@@ -11,6 +11,7 @@ tectonic plate of:
   - Arabian Sea
   - Indian Ocean
 wikidata: "https://www.wikidata.org/wiki/Q499481"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Indian_tectonic_plate"
 tags:
   - tectonic plate
 ---

@@ -9,4 +9,5 @@ west of: Easter Island
 wikidata: "https://www.wikidata.org/wiki/Q1344950"
 tags:
   - tectonic plate
+  - no Wikimedia category
 ---

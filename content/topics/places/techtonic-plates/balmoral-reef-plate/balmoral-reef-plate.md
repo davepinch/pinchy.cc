@@ -10,4 +10,5 @@ near: Fiji
 wikidata: "https://www.wikidata.org/wiki/Q2363051"
 tags:
   - tectonic plate
+  - no Wikimedia category
 ---

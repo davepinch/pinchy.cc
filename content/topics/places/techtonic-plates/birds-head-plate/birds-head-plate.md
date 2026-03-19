@@ -11,6 +11,7 @@ borders:
   - Woodlark Plate
 tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q1200497"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bird's_Head_tectonic_plate"
 tags:
   - tectonic plate
 ---

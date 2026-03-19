@@ -26,6 +26,7 @@ tectonic plate of:
   - New Zealand
   - Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q783056"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Australian_tectonic_plate"
 tags:
   - tectonic plate
 ---

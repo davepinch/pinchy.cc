@@ -11,6 +11,7 @@ tectonic plate of:
   - Mediterranean Sea
   - Turkey
 wikidata: "https://www.wikidata.org/wiki/Q945014"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Aegean_tectonic_plate"
 tags:
   - tectonic plate
 ---

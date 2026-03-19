@@ -20,7 +20,9 @@ island of:
 openstreetmap: "https://www.openstreetmap.org/relation/2184073"
 territory of: Denmark
 wikidata: "https://www.wikidata.org/wiki/Q223"
+wikiquote: "https://en.wikiquote.org/wiki/Greenland"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Greenland"
+wikivoyage: "https://en.wikivoyage.org/wiki/Greenland"
 tags:
   - island
   - territory

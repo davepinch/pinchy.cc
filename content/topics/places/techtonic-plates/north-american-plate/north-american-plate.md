@@ -15,6 +15,7 @@ borders:
 clockwise around the african plate: Eurasian Plate
 tectonic plate of: North America
 wikidata: "https://www.wikidata.org/wiki/Q220305"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:North_American_tectonic_plate"
 tags:
   - tectonic plate
   - Earth

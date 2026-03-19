@@ -10,4 +10,5 @@ tectonic plate of: China
 wikidata: "https://www.wikidata.org/wiki/Q2323550"
 tags:
   - tectonic plate
+  - no Wikimedia category
 ---

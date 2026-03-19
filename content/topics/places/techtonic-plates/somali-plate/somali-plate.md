@@ -12,6 +12,7 @@ tectonic plate of:
   - Indian Ocean
   - Madagascar
 wikidata: "https://www.wikidata.org/wiki/Q1415528"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Somali_tectonic_plate"
 tags:
   - tectonic plate
 ---

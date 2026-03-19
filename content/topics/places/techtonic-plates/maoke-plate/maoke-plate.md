@@ -8,4 +8,5 @@ tectonic plate of: New Guinea
 wikidata: "https://www.wikidata.org/wiki/Q643183"
 tags:
   - tectonic plate
+  - no Wikimedia category
 ---

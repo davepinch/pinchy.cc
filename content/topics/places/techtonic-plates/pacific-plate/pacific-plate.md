@@ -28,6 +28,7 @@ borders:
   - Woodlark Plate
 tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q205411"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Pacific_tectonic_plate"
 tags:
   - tectonic plate
 ---

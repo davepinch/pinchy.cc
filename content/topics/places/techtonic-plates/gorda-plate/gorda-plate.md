@@ -10,6 +10,7 @@ sometimes considered part of: Juan de Fuca Plate
 subducting under: North American Plate
 tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q1947556"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Gorda_tectonic_plate"
 tags:
   - remnant
   - tectonic plate

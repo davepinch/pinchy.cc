@@ -11,4 +11,5 @@ wikidata:
   - "https://www.wikidata.org/wiki/Q2043096"
 tags:
   - tectonic plate
+  - no Wikimedia category
 ---

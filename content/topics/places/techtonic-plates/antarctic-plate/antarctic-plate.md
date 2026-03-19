@@ -15,6 +15,7 @@ tectonic plate of:
   - Antarctica
   - Southern Ocean
 wikidata: "https://www.wikidata.org/wiki/Q501705"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Antarctic_tectonic_plate"
 tags:
   - tectonic plate
 ---

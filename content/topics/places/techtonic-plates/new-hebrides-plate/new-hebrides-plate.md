@@ -7,6 +7,7 @@ borders:
   - Pacific Plate
 tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q1340601"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:New_Hebrides_tectonic_plate"
 tags:
   - tectonic plate
 ---

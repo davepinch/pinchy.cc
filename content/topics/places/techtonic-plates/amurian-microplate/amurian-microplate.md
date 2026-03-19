@@ -11,6 +11,7 @@ tectonic plate of:
   - China
   - Japan
 wikidata: "https://www.wikidata.org/wiki/Q481751"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Amurian_tectonic_plate"
 tags:
   - tectonic plate
 ---

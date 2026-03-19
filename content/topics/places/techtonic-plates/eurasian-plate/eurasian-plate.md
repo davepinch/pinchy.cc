@@ -15,6 +15,7 @@ borders:
 clockwise around the african plate: Aegean Sea Plate
 tectonic plate of: Eurasia
 wikidata: "https://www.wikidata.org/wiki/Q188521"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Eurasian_tectonic_plate"
 tags:
   - tectonic plate
 ---

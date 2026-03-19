@@ -11,6 +11,7 @@ borders:
 remnant of: Farallon Plate
 tectonic plate of: Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q386615"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cocos_tectonic_plate"
 tags:
   - remnant
   - tectonic plate
