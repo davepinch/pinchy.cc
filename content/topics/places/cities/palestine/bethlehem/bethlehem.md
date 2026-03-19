@@ -3,6 +3,7 @@ title: "Bethlehem"
 city of:
   - West Bank
   - Palestine
+openstreetmap: "https://www.openstreetmap.org/relation/6759715"
 place of:
   - Torah
   - Old Testament
