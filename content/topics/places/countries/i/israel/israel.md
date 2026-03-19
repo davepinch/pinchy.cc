@@ -8,7 +8,7 @@ borders:
   - Jordan
   - Lebanon
   - Mediterranean Sea
-  - Palestinian territories
+  - Palestine
   - Red Sea
   - Sinai Peninsula
   - Syria

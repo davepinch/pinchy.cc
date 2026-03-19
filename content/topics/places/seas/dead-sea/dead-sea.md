@@ -3,7 +3,7 @@ title: "Dead Sea"
 borders:
   - Israel
   - Jordan
-  - Palestinian territories
+  - Palestine
   - West Bank
 openstreetmap: "https://www.openstreetmap.org/relation/9351124"
 sea of:

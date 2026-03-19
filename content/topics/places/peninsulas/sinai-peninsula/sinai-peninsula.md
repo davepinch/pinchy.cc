@@ -6,7 +6,7 @@ borders:
   - Gulf of Suez
   - Israel
   - Mediterranean Sea
-  - Palestinian Territories
+  - Palestine
 clockwise around the mediterranean: Alexandria
 openstreetmap: "https://www.openstreetmap.org/relation/5632534"
 peninsula of:

@@ -2,7 +2,7 @@
 title: "Bethany"
 city of:
   - West Bank
-  - Palestinian territories
+  - Palestine
 openstreetmap: "https://www.openstreetmap.org/node/332793704"
 place of:
   - New Testament

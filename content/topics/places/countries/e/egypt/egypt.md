@@ -6,7 +6,7 @@ borders:
   - Israel
   - Libya
   - Mediterranean Sea
-  - Palestinian territories
+  - Palestine
   - Red Sea
   - Sinai Peninsula
   - Sudan
