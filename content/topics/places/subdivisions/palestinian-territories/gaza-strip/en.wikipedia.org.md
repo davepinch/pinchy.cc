@@ -1,9 +1,9 @@
 ---
 title: "Gaza Strip (Wikipedia)"
 excerpt: >-
-  The **Gaza Strip** (/ˈɡɑːzə/; Arabic: قِطَاعُ غَزَّةَ Qiṭāʿ Ġazzah [qɪˈtˤɑːʕ ˈɣaz.za]), or simply **Gaza**, is a polity and the smaller of the two [Palestinian territories](/en.wikipedia.org/wiki/Palestinian_territories/) (the other being the West Bank). On the eastern coast of the [Mediterranean Sea](/en.wikipedia.org/wiki/Mediterranean_Sea/), Gaza is bordered by [Egypt](/en.wikipedia.org/wiki/Egypt/) on the southwest and [Israel](/en.wikipedia.org/wiki/Israel/) on the east and north.
+  The **Gaza Strip**, also known simply as **Gaza**, is the smaller of the two Palestinian territories (the other being the West Bank) that make up the State of Palestine in the Southern Levant region of West Asia. Gaza is bordered by Egypt on the southwest, Israel on the east and north, and the Mediterranean Sea to the west. Its capital and largest city is Gaza City.
 license: CC BY-SA 4.0
-retrieved: 2024-05-25
+retrieved: 2026-03-19
 type: website
 url: /en.wikipedia.org/wiki/Gaza_Strip/
 website: "https://en.wikipedia.org/wiki/Gaza_Strip"
