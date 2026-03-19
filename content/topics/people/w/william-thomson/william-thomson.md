@@ -1,6 +1,8 @@
 ---
 title: "William Thomson"
-type: person
+born in:
+  - Belfast
+  - Northern Ireland
 wikidata: "https://www.wikidata.org/wiki/Q122701"
 tags:
   - scientist
