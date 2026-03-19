@@ -1,6 +1,9 @@
 ---
 title: "Himalayan blackberry"
-common name of: Rubus armeniacus
+common name of:
+  - Rubus armeniacus
+  - blackberry
+  - plant
 tags:
   - common name
 ---

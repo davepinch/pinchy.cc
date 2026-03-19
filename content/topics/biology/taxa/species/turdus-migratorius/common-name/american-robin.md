@@ -1,6 +1,8 @@
 ---
 title: "American robin"
-common name of: Turdus migratorius
+common name of:
+  - Turdus migratorius
+  - bird
 tags:
   - common name
 ---

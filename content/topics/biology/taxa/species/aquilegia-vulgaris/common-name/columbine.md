@@ -1,7 +1,7 @@
 ---
-title: "tansy"
+title: "columbine"
 common name of:
-  - Tanacetum vulgare
+  - Aquilegia vulgaris
   - plant
 tags:
   - common name

@@ -10,7 +10,7 @@ related:
   - Japanese pieris in the parking lot
   - "Its leaves are arranged alternately and are simple, obovate to oblanceolate in shape, 3 to 9 cm long, with serrated margins."
 type: snippet
-url: /en.wikipedia.org/wiki/Pieris_japonica/description-1-3/
+url: /en.wikipedia.org/wiki/Pieris_japonica/@description-1-3/
 tags:
   - snippet
 ---

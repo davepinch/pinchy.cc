@@ -9,7 +9,7 @@ snippet of: Pieris japonica (Wikipedia)
 related: >-
   They are lustrous and leathery in texture and dark green in color while new growth is a conspicuous bronze or red eventually turning green.
 type: snippet
-url: /en.wikipedia.org/wiki/Pieris_japonica/description-1-2/
+url: /en.wikipedia.org/wiki/Pieris_japonica/@description-1-2/
 tags:
   - snippet
 ---

@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "behavior of Turdus migratorius (Wikipedia)"
+✂️: >-
   It is frequently seen running across lawns picking up earthworms, and its running and stopping behavior is a distinguishing characteristic.
 behavior of: Turdus migratorius
 citation: >-
@@ -7,8 +8,7 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: American robin (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/American_robin/diet-2-1/
+url: /en.wikipedia.org/wiki/American_robin/@diet-2-1/
 tags:
-
   - snippet
 ---

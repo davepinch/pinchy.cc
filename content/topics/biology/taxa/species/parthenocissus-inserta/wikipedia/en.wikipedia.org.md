@@ -8,10 +8,7 @@ retrieved: 2024-12-04
 type: website
 url: /en.wikipedia.org/wiki/Parthenocissus_inserta/
 website: "https://en.wikipedia.org/wiki/Parthenocissus_inserta"
-wikipedia of:
-  - Parthenocissus inserta
-  - Parthenocissus vitacea
-  - woodbine
+wikipedia of: Parthenocissus inserta
 tags:
   - Wikipedia
 ---

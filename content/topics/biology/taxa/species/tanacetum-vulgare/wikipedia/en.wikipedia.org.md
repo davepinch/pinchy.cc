@@ -8,9 +8,7 @@ retrieved: 2023-07-30
 type: website
 url: /en.wikipedia.org/wiki/Tansy/
 website: "https://en.wikipedia.org/wiki/Tansy"
-wikipedia of:
-  - tansy
-  - Tanacetum vulgare
+wikipedia of: Tanacetum vulgare
 tags:
   - Wikipedia
 ---

@@ -1,6 +1,8 @@
 ---
 title: "smooth cat's ear"
-common name of: Hypochaeris glabra
+common name of:
+  - Hypochaeris glabra
+  - plant
 tags:
   - common name
 ---

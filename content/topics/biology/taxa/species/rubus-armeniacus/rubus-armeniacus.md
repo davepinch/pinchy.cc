@@ -1,10 +1,10 @@
 ---
 title: "Rubus armeniacus"
-common names:
-  - Armenian blackberry
-wikidata: "https://www.wikidata.org/wiki/Q163056"
-tags:
+species of:
   - blackberry
   - plant
+wikidata: "https://www.wikidata.org/wiki/Q163056"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Rubus_armeniacus"
+tags:
   - species
 ---

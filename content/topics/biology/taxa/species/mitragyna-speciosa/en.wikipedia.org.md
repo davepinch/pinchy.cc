@@ -7,7 +7,7 @@ retrieved: 2023-05-18
 type: website
 url: /en.wikipedia.org/wiki/Mitragyna_speciosa/
 website: "https://en.wikipedia.org/wiki/Mitragyna_speciosa"
-wikipedia of: kratom
+wikipedia of: Mitragyna speciosa
 tags:
   - Wikipedia
 ---

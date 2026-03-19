@@ -1,7 +1,7 @@
 ---
 title: "Japanese knotweed near the rocks"
 description: >-
-  Japanese knotweed is an invasive species. Once you recognize the plant, you begin seeing them everywhere. 
+  Japanese knotweed (*Reynoutria japonica*) is an invasive species. Once you recognize the plant, you begin seeing them everywhere. 
 license: CC BY-SA 4.0
 photograph of:
   - Skykomish River
