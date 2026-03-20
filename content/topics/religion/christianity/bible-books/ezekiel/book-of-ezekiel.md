@@ -1,6 +1,7 @@
 ---
 title: "Book of Ezekiel"
 book of:
+  - Nevi'im
   - Old Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q178390"
