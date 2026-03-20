@@ -1,5 +1,9 @@
 ---
 title: "Book of Ecclesiastes"
+➡️ (Ketuvim): Book of Esther
+➡️ (Old Testament): Song of Songs
+⬅️ (Ketuvim): Book of Lamentations
+⬅️ (Old Testament): Book of Proverbs
 book of:
   - Old Testament
   - Bible
