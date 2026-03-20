@@ -1,5 +1,6 @@
 ---
 title: "Book of Judges"
+➡️ (Nevi'im): Books of Samuel
 ⬅️: Book of Joshua
 book of:
   - Nevi'im
