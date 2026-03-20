@@ -1,5 +1,9 @@
 ---
 title: "Book of Ezekiel"
+➡️ (Nevi'im): Book of Hosea
+➡️ (Old Testament): Book of Daniel
+⬅️ (Nevi'im): Book of Jeremiah
+⬅️ (Old Testament): Book of Lamentations
 book of:
   - Nevi'im
   - Old Testament
