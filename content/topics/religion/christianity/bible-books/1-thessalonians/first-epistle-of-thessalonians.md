@@ -1,5 +1,5 @@
 ---
-title: "1 Thessalonians"
+title: "First Epistle to the Thessalonians"
 book of:
   - Pauline epistles
   - New Testament
