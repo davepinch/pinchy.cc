@@ -1,5 +1,6 @@
 ---
 title: "Book of Deuteronomy"
+➡️: Book of Joshua
 ⬅️: Book of Numbers
 book of:
   - Torah
