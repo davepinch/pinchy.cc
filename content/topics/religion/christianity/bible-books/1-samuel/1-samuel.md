@@ -1,5 +1,6 @@
 ---
 title: "First Book of Samuel"
+➡️: Second Book of Samuel
 book of:
   - Books of Samuel
   - Old Testament
