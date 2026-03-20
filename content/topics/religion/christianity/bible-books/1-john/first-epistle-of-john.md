@@ -1,5 +1,5 @@
 ---
-title: "1 John"
+title: "First Epistle of John"
 book of:
   - New Testament
   - Bible
