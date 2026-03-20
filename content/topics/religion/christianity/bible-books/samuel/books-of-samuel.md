@@ -1,5 +1,6 @@
 ---
 title: "Books of Samuel"
+➡️ (Nevi'im): Books of Kings
 ⬅️ (Nevi'im): Book of Judges
 book of:
   - Nevi'im
