@@ -7,7 +7,7 @@ retrieved: 2023-03-04
 type: website
 url: /en.wikipedia.org/wiki/2_Corinthians_9/
 website: "https://en.wikipedia.org/wiki/2_Corinthians_9"
-wikipedia of: "2 Corinthians"
+wikipedia of: "2 Corinthians 9"
 tags:
   - New Testament (Wikipedia)
   - Wikipedia

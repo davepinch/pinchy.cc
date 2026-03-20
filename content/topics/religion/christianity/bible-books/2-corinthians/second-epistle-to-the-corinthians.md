@@ -1,5 +1,5 @@
 ---
-title: "2 Corinthians"
+title: "Second Epistle to the Corinthians"
 book of:
   - Pauline epistles
   - New Testament
