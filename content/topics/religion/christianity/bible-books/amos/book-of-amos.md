@@ -1,5 +1,7 @@
 ---
 title: "Book of Amos"
+➡️: Book of Obadiah
+⬅️: Book of Joel
 book of:
   - Nevi'im
   - Old Testament
