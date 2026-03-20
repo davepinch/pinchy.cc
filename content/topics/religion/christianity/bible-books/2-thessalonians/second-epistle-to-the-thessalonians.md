@@ -1,5 +1,5 @@
 ---
-title: "2 Thessalonians"
+title: "Second Epistle to the Thessalonians"
 book of:
   - Pauline epistles
   - New Testament
