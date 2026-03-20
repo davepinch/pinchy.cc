@@ -1,5 +1,6 @@
 ---
 title: "First Book of Kings"
+➡️: Second Book of Kings
 book of:
   - Books of Kings
   - Old Testament
