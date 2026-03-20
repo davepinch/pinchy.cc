@@ -1,6 +1,7 @@
 ---
 title: "Belfast"
 city of: Northern Ireland
+openstreetmap: "https://www.openstreetmap.org/way/1219767831"
 wikidata: "https://www.wikidata.org/wiki/Q10686"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Belfast"
 wikipedia: "https://en.wikipedia.org/wiki/Belfast"
