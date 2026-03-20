@@ -1,5 +1,6 @@
 ---
 title: "Book of Ruth"
+⬅️ (Ketuvim): Song of Songs
 ⬅️ (Old Testament): Book of Judges
 book of:
   - Ketuvim
