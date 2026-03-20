@@ -1,5 +1,6 @@
 ---
 title: "Book of Joshua"
+➡️: Book of Judges
 book of:
   - Nevi'im
   - Old Testament
