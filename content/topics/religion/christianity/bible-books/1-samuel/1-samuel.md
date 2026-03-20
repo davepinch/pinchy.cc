@@ -1,6 +1,7 @@
 ---
-title: "1 Samuel"
+title: "First Book of Samuel"
 book of:
+  - Books of Samuel
   - Old Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q1975029"

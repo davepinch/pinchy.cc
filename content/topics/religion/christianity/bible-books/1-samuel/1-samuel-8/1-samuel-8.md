@@ -1,6 +1,6 @@
 ---
 title: "1 Samuel 8"
-chapter of: 1 Samuel
+chapter of: First Book of Samuel
 wikidata: "https://www.wikidata.org/wiki/Q12470191"
 wikipedia: "https://en.wikipedia.org/wiki/1_Samuel_8"
 tags:
