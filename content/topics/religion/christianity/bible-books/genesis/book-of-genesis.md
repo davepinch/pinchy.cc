@@ -1,5 +1,6 @@
 ---
 title: "Book of Genesis"
+➡️: Book of Exodus
 book of:
   - Torah
   - Old Testament

@@ -1,5 +1,7 @@
 ---
 title: "Book of Leviticus"
+➡️: Book of Numbers
+⬅️: Book of Exodus
 book of:
   - Torah
   - Old Testament

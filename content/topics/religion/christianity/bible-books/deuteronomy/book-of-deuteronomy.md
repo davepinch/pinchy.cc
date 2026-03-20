@@ -1,5 +1,6 @@
 ---
 title: "Book of Deuteronomy"
+⬅️: Book of Numbers
 book of:
   - Torah
   - Old Testament

@@ -1,5 +1,7 @@
 ---
 title: "Book of Exodus"
+➡️: Book of Leviticus
+⬅️: Book of Genesis
 book of:
   - Torah
   - Old Testament

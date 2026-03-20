@@ -1,5 +1,7 @@
 ---
 title: "Book of Numbers"
+➡️: Book of Deuteronomy
+⬅️: Book of Leviticus
 book of:
   - Torah
   - Old Testament
