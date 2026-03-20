@@ -1,6 +1,7 @@
 ---
 title: "Book of Judges"
 ➡️ (Nevi'im): Books of Samuel
+➡️ (Old Testament): Book of Ruth
 ⬅️: Book of Joshua
 book of:
   - Nevi'im
