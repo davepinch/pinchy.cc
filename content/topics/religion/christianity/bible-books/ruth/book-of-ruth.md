@@ -1,5 +1,7 @@
 ---
 title: "Book of Ruth"
+➡️ (Ketuvim): Book of Lamentations
+➡️ (Old Testament): First Book of Samuel
 ⬅️ (Ketuvim): Song of Songs
 ⬅️ (Old Testament): Book of Judges
 book of:
