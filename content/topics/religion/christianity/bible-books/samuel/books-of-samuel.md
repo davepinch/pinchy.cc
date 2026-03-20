@@ -2,6 +2,7 @@
 title: "Books of Samuel"
 ➡️ (Nevi'im): Books of Kings
 ⬅️ (Nevi'im): Book of Judges
+⬅️ (Old Testament): Book of Ruth
 book of:
   - Nevi'im
   - Old Testament
