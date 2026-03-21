@@ -1,5 +1,9 @@
 ---
 title: "Robert Mueller"
+born in:
+  - Manhattan
+  - New York City
+  - New York
 born on: 1944-08-07
 died on: 2026-03-20
 former director of: Federal Bureau of Investigation
