@@ -1,5 +1,5 @@
 ---
-title: "Dick's Drive In"
+title: "Dick's Drive-In"
 fast food that does not suck of:
   - Wallingford, Seattle
   - Broadway (Seattle)

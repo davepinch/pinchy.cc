@@ -3,7 +3,7 @@ title: "No Yuppies Allowed!"
 depiction of:
   - Space Needle
   - Capitol Hill, Seattle
-  - Dick's Drive In
+  - Dick's Drive-In
   - Taco Bell
   - cannabis
   - music
