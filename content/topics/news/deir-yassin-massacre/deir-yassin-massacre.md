@@ -1,6 +1,7 @@
 ---
 title: "Deir Yassin massacre"
 massacre of:
+  - 1948 Palestine war
   - Deir Yassin
   - Mandatory Palestine
 when: 1948-04-09
