@@ -1,6 +1,10 @@
 ---
 title: "Book of Malachi"
+➡️ (Old Testament): Book of Tobit
+➡️ (Tanakh): Book of Psalms
+⬅️: Book of Zechariah 
 book of:
+  - Nevi'im
   - Old Testament
   - Bible
 last book of: Old Testament
