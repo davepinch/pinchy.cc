@@ -1,6 +1,6 @@
 ---
 title: "reddit"
-url: /reddit.com/
+url: /www.reddit.com/
 website: "https://reddit.com"
 wikidata: "https://www.wikidata.org/wiki/Q1136"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Reddit"
