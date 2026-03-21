@@ -1,5 +1,9 @@
 ---
 title: "London"
+capital of:
+  - England
+  - United Kingdom
+  - British Empire
 city of: England
 openstreetmap: "https://www.openstreetmap.org/relation/65606"
 wikidata: "https://www.wikidata.org/wiki/Q84"
