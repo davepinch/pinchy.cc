@@ -5,8 +5,9 @@ excerpt: >-
 harassment of: Falafel Salam
 mention of:
   - Fatima Elezein
-  - Screenshot_21-3-2026_11585_thisiswhoyouare.substack.com.jpeg
+  - Shimi Kahn
 posting of: r/SeattleWA
+reference of: Screenshot_21-3-2026_11585_thisiswhoyouare.substack.com.jpeg
 type: website
 url: /www.reddit.com/r/SeattleWA/comments/1rwxei3/more_harassment_of_jewish_owned_business/
 website: "https://www.reddit.com/r/SeattleWA/comments/1rwxei3/more_harassment_of_jewish_owned_business/"
