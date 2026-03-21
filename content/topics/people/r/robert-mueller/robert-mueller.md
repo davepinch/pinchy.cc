@@ -6,7 +6,6 @@ former director of: Federal Bureau of Investigation
 member of: Republican Party
 wikidata: "https://www.wikidata.org/wiki/Q715156"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Robert_Swan_Mueller_III"
-wikipedia: "https://en.wikipedia.org/wiki/Robert_Mueller"
 wikiquote: "https://en.wikiquote.org/wiki/Robert_Mueller"
 wikisource: "https://en.wikisource.org/wiki/Author:Robert_Swan_Mueller"
 tags:
