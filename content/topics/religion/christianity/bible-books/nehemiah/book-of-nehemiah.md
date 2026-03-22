@@ -11,4 +11,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Book_of_Nehemiah"
 wikisource: "https://en.wikisource.org/wiki/Nehemiah_(Bible)"
 tags:
   - book of the Bible
+  - no Wikiquote page
 ---
