@@ -14,4 +14,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Books_of_Samuel"
 wikiquote: "https://en.wikiquote.org/wiki/Books_of_Samuel"
 tags:
   - book of the Bible
+  - no Wikisource page
 ---
