@@ -8,7 +8,7 @@ retrieved: 2026-03-22
 type: website
 url: /en.wikipedia.org/wiki/Cathode-ray_tube/
 website: "https://en.wikipedia.org/wiki/Cathode-ray_tube"
-wikipedia of: cathode-ray tube
+wikipedia of: cathode ray tube
 tags:
   - Wikipedia
 ---
