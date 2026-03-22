@@ -11,6 +11,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150939088"
 wikidata: "https://www.wikidata.org/wiki/Q5602737"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Green_Lake,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

@@ -10,6 +10,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/6152786234"
 wikidata: "https://www.wikidata.org/wiki/Q7284901"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Rainier_Beach,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

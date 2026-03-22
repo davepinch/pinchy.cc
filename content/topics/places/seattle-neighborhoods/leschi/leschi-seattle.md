@@ -10,6 +10,7 @@ namesake of: Chief Leschi
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/1998438951"
 wikidata: "https://www.wikidata.org/wiki/Q6530303"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Leschi,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

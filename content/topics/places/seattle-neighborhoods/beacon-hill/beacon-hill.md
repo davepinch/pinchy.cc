@@ -9,6 +9,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150975261"
 wikidata: "https://www.wikidata.org/wiki/Q4875945"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Beacon_Hill,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

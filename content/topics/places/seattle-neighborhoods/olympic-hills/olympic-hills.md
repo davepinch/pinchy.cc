@@ -8,6 +8,7 @@ borders:
   - Washington State Route 522
 neighborhood of: Lake City, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q7089083"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Olympic_Hills,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

@@ -11,6 +11,7 @@ neighborhood of:
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150935511"
 wikidata: "https://www.wikidata.org/wiki/Q967732"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Belltown,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

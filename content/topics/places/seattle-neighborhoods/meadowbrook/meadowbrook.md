@@ -9,6 +9,7 @@ borders:
   - Wedgwood, Seattle
 neighborhood of: Lake City, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q14713813"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Meadowbrook,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

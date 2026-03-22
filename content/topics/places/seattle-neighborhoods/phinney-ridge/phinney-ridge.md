@@ -11,6 +11,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150978653"
 wikidata: "https://www.wikidata.org/wiki/Q7186393"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Phinney_Ridge,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

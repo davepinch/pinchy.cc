@@ -10,6 +10,8 @@ neighborhood of:
   - Elliott Bay
   - Puget Sound
 wikidata: "https://www.wikidata.org/wiki/Q745358"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Downtown,_Seattle,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Seattle/Downtown"
 tags:
   - downtown
   - neighborhood

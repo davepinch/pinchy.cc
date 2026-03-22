@@ -11,6 +11,7 @@ namesake of: Theodore Roosevelt
 neighborhood of: Seattle
 northwest corner: Licton Springs, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q7366399"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Roosevelt,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

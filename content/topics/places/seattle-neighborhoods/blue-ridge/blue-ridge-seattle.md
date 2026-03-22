@@ -13,6 +13,7 @@ neighborhood of:
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150979529"
 wikidata: "https://www.wikidata.org/wiki/Q4929689"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Blue_Ridge,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

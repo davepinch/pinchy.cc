@@ -13,6 +13,7 @@ part of: Northgate, Seattle
 southeast corner: Maple Leaf, Seattle
 southwest corner: Greenwood, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q5642894"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Haller_Lake,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

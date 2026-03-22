@@ -13,6 +13,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150938688"
 wikidata: "https://www.wikidata.org/wiki/Q6475354"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_City,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

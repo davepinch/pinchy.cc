@@ -13,6 +13,7 @@ neighborhood of:
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150936037"
 wikidata: "https://www.wikidata.org/wiki/Q6731842"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Magnolia,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

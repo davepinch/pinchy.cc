@@ -5,10 +5,10 @@ citation: >-
   Wikipedia contributors. (2023, August 21). Belltown, Seattle. In *Wikipedia, The Free Encyclopedia*. Retrieved November 1, 2023, from https://en.wikipedia.org/w/index.php?title=Belltown,_Seattle&oldid=1171538888
 license: CC BY-SA 4.0
 snippet of: Belltown, Seattle (Wikipedia)
+tunnel of: Belltown, Seattle
 type: snippet
-url: /en.wikipedia.org/wiki/Belltown,_Seattle/geography-2-2/
+url: /en.wikipedia.org/wiki/Belltown,_Seattle/@geography-2-2/
 tags:
-  - Belltown, Seattle
   - State Route 99 tunnel
   - snippet
 ---

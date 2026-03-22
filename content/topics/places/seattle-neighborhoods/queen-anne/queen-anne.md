@@ -12,6 +12,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150946182"
 wikidata: "https://www.wikidata.org/wiki/Q3413999"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Queen_Anne,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

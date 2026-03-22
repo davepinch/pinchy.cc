@@ -17,6 +17,8 @@ neighborhood of:
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150940157"
 wikidata: "https://www.wikidata.org/wiki/Q3428047"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ballard,_Seattle,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Seattle/Ballard"
 tags:
   - neighborhood
 ---

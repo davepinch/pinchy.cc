@@ -10,6 +10,7 @@ borders:
 neighborhood of: Lake City, Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150933768"
 wikidata: "https://www.wikidata.org/wiki/Q7927502"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Victory_Heights,_Seattle"
 tags:
   - neighborhood
 ---

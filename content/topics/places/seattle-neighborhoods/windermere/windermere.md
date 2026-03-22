@@ -10,6 +10,7 @@ neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150947631"
 overlaps: Hawthorne Hills, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q8024113"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Windermere,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

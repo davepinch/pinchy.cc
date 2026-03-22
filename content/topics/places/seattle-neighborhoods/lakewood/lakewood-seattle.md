@@ -5,5 +5,6 @@ openstreetmap: "https://www.openstreetmap.org/node/150933459"
 tags:
   - neighborhood
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---

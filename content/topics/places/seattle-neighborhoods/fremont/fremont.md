@@ -14,6 +14,8 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/126314909"
 wikidata: "https://www.wikidata.org/wiki/Q3087440"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Fremont,_Seattle,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Seattle/Fremont"
 tags:
   - neighborhood
 ---

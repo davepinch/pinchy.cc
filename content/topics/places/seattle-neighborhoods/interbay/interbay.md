@@ -15,6 +15,7 @@ neighborhood of:
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150951309"
 wikidata: "https://www.wikidata.org/wiki/Q6045533"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Interbay,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

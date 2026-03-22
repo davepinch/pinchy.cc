@@ -14,6 +14,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/13915552"
 wikidata: "https://www.wikidata.org/wiki/Q7979189"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Wedgwood,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

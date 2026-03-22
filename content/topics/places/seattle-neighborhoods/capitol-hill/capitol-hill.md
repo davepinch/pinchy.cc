@@ -13,6 +13,7 @@ places:
   - Comet Tavern
   - incomplete list
 wikidata: "https://www.wikidata.org/wiki/Q1041704"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Capitol_Hill,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

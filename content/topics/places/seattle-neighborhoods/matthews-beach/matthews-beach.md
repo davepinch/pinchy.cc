@@ -9,6 +9,7 @@ borders:
   - Wedgwood, Seattle
 neighborhood of: Lake City, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q6791486"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Matthews_Beach,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

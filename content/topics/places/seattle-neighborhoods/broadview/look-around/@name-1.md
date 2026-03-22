@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 LOOK AROUND of: Broadview, Seattle
 snippet of: Broadview, Seattle (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Broadview,_Seattle/name-1/
+url: /en.wikipedia.org/wiki/Broadview,_Seattle/@name-1/
 tags:
   - snippet
   - Puget Sound

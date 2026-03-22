@@ -10,6 +10,7 @@ borders:
 neighborhood of: Northgate, Seattle
 southwest corner: Licton Springs, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q7195498"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Pinehurst,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

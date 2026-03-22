@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 location of: View Ridge, Seattle
 snippet snippet of: View Ridge, Seattle (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/View_Ridge,_Seattle/geography-2-1/
+url: /en.wikipedia.org/wiki/View_Ridge,_Seattle/@geography-2-1/
 tags:
   - location
   - snippet

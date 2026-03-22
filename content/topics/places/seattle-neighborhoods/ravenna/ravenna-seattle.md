@@ -8,6 +8,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150932456"
 wikidata: "https://www.wikidata.org/wiki/Q23193275"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ravenna,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

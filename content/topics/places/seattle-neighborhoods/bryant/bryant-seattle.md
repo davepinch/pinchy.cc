@@ -11,6 +11,7 @@ borders:
 neighborhood of: Seattle
 overlaps: Hawthorne Hills, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q4980534"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bryant,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

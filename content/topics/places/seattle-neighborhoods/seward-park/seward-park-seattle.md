@@ -9,6 +9,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/6152786240"
 wikidata: "https://www.wikidata.org/wiki/Q7458185"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Seward_Park,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

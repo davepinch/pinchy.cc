@@ -11,6 +11,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150955075"
 wikidata: "https://www.wikidata.org/wiki/Q7928753"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:View_Ridge,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

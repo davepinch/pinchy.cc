@@ -12,6 +12,7 @@ borders:
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150973716"
 wikidata: "https://www.wikidata.org/wiki/Q2341532"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Wallingford,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

@@ -12,6 +12,7 @@ borders:
 neighborhood of: Lake City, Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150962744"
 wikidata: "https://www.wikidata.org/wiki/Q5056822"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cedar_Park,_Seattle,_Washington"
 tags:
   - neighborhood
 ---

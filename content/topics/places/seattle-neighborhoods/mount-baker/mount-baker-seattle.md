@@ -13,6 +13,7 @@ neighborhood of: Seattle
 not to be confused with: Mount Baker
 openstreetmap: "https://www.openstreetmap.org/node/150977763"
 wikidata: "https://www.wikidata.org/wiki/Q12062108"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Baker,_Seattle,_Washington"
 tags:
   - neighborhood
 ---
