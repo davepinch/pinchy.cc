@@ -8,6 +8,7 @@ book of:
 wikidata: "https://www.wikidata.org/wiki/Q131635"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Book_of_Ezra"
 wikipedia: "https://en.wikipedia.org/wiki/Book_of_Ezra"
+wikiquote: "https://en.wikiquote.org/wiki/Ezra#Book_of_Ezra"
 wikisource: "https://en.wikisource.org/wiki/Ezra_(Bible)"
 tags:
   - book of the Bible
