@@ -3,7 +3,7 @@ title: "Book of Jonah"
 ➡️: Book of Micah
 ⬅️: Book of Obadiah
 book of:
-  - Nev'im
+  - Nevi'im
   - Old Testament
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q178819"
