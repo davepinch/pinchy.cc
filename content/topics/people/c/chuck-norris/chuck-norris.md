@@ -1,6 +1,11 @@
 ---
 title: "Chuck Norris"
-born in: Oklahoma
+born in:
+  - Oklahoma
+  - United States
+died in:
+  - Hawaii
+  - United States
 member of: Republican Party
 student of: Bruce Lee
 wikidata: "https://www.wikidata.org/wiki/Q2673"
@@ -10,5 +15,5 @@ tags:
   - American
   - actor
   - human being
-  - "Who are the most powerful people in the world?"
+  - dead at the moment
 ---
