@@ -1,5 +1,6 @@
 ---
 title: "matter"
+composed of: atom
 substance of:
   - mass
   - volume
