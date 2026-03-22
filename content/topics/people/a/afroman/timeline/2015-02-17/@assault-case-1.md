@@ -9,6 +9,7 @@ snippet of: Afroman (Wikipedia)
 timeline of: Afroman
 type: snippet
 url: /en.wikipedia.org/wiki/Afroman/@assault-case-1/
+video of the incident: "https://www.youtube.com/watch?v=ZSSdy_uFB3w"
 when: 2015-02-17
 tags:
   - snippet
