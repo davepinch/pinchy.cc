@@ -12,4 +12,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Book_of_Zechariah"
 wikisource: "https://en.wikisource.org/wiki/Zechariah_(Bible)"
 tags:
   - book of the Bible
+  - no Wikiquote page
 ---
