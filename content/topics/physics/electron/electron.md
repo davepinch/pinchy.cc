@@ -6,4 +6,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Electrons"
 wikiquote: "https://en.wikiquote.org/wiki/Electron"
 tags:
   - subatomic particle
+  - charge carrier
 ---
