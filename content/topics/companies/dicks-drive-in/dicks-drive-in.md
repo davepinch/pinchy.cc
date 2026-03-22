@@ -3,7 +3,7 @@ title: "Dick's Drive-In"
 fast food that does not suck of:
   - Wallingford, Seattle
   - Broadway (Seattle)
-  - Capitol hill, Seattle
+  - Capitol Hill, Seattle
   - Lake City, Seattle
   - Queen Anne, Seattle
   - Edmonds, Washington
