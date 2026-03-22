@@ -2,7 +2,7 @@
 title: "Arecibo message.svg (Wikimedia)"
 author: Arne Nordmann
 graphical representation of:
-  - Arecibo message
+  - Arecibo Message
   - SVG
 license:
   - CC BY-SA 1.0
