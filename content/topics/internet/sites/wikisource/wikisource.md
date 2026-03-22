@@ -1,5 +1,6 @@
 ---
 title: "Wikisource"
+non-existence tag: no Wikisource page
 see also:
   - Wikidata
   - Wikimedia
