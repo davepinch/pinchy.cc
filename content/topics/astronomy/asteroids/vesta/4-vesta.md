@@ -1,6 +1,7 @@
 ---
 title: "4 Vesta"
 asteroid of:
+  - asteroid belt
   - Sun
   - Solar System
 wikidata: "https://www.wikidata.org/wiki/Q3030"
