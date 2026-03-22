@@ -8,4 +8,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Books_of_Kings"
 wikiquote: "https://en.wikiquote.org/wiki/Books_of_Kings"
 tags:
   - book of the Bible
+  - no Wikisource page
 ---
