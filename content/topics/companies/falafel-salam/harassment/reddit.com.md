@@ -4,7 +4,7 @@ excerpt: >-
   This business has been harassed constantly because the owner was born in Israel. Attached is a link to the history of this harassment along with the ringleader bragging openly about it. This person is an immigrant themselves and employed at a taxpayer subsidized non-profit in Seattle.
 harassment of: Falafel Salam
 mention of:
-  - Fatima Elezein
+  - Fatima Elzein
   - Shimi Kahn
 posting of: r/SeattleWA
 reference of: Screenshot_21-3-2026_11585_thisiswhoyouare.substack.com.jpeg
