@@ -7,4 +7,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Protons"
 wikipedia: "https://en.wikipedia.org/wiki/Proton"
 tags:
   - subatomic particle
+  - composite particle
 ---

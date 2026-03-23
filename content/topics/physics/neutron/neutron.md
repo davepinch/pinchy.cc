@@ -7,4 +7,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Neutrons"
 wikipedia: "https://en.wikipedia.org/wiki/Neutron"
 tags:
   - subatomic particle
+  - composite particle
 ---
