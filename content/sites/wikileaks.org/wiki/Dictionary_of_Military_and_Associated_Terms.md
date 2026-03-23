@@ -6,6 +6,7 @@ leak of: WikiLeaks
 type: website
 url: /wikileaks.org//wiki/Dictionary_of_Military_and_Associated_Terms/
 website: "https://wikileaks.org//wiki/Dictionary_of_Military_and_Associated_Terms"
+when: 2007-09-17
 wikileaks of: United States Department of Defense
 tags:
   - website
