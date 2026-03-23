@@ -1,5 +1,6 @@
 ---
 title: "Leonard William King"
+project gutenberg: "https://www.gutenberg.org/ebooks/author/793"
 wikidata: "https://www.wikidata.org/wiki/Q5910045"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Leonard_William_King"
 wikiquote: "https://en.wikiquote.org/wiki/Leonard_William_King"
