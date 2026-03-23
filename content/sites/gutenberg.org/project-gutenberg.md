@@ -6,7 +6,6 @@ url: /www.gutenberg.org/
 website: "https://www.gutenberg.org/"
 wikidata: "https://www.wikidata.org/wiki/Q22673"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Project_Gutenberg"
-wikipedia: "https://en.wikipedia.org/wiki/Project_Gutenberg"
 tags:
   - digital library
   - website
