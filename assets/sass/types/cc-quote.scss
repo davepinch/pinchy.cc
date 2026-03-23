@@ -20,6 +20,11 @@
         font-size: smaller;
         padding-top: 10px;
     }
+
+    /* Do not automatically generate quotes */
+    q {
+        quotes:none;
+    }
 }
 
 .cc-quote-masthead {
