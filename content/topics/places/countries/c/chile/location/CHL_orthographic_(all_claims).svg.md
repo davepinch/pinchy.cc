@@ -6,7 +6,7 @@ location of:
   - Chile
   - SVG
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cc/CHL_orthographic_%28%2Ball_claims%29.svg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CHL_orthographic_%28%2Ball_claims%29.svg/480px-CHL_orthographic_%28%2Ball_claims%29.svg.png"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/CHL_orthographic_%28%2Ball_claims%29.svg/500px-CHL_orthographic_%28%2Ball_claims%29.svg.png"
 type: picture
 url: /commons.wikimedia.org/wiki/CHL_orthographic_(all_claims).svg/
 website: "https://commons.wikimedia.org/wiki/File:CHL_orthographic_(%2Ball_claims).svg"
