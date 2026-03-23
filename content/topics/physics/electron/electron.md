@@ -1,5 +1,6 @@
 ---
 title: "electron"
+electric charge: "-1"
 opposite: positron
 wikidata: "https://www.wikidata.org/wiki/Q2225"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Electrons"
