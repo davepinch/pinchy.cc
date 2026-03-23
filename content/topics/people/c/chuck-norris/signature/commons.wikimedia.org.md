@@ -9,7 +9,7 @@ signature of:
   - SVG
 source: "https://www.historyforsale.com/chuck-norris-autograph/dc298844"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Chuck_Norris_signature.svg/
+url: /commons.wikimedia.org/wiki/Chuck_Norris_signature.svg/
 website: "https://commons.wikimedia.org/wiki/File:Chuck_Norris'_signature.svg"
 tags:
   - signature
