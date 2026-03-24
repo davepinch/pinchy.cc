@@ -1,7 +1,7 @@
 ---
 title: "Julius Baer Group"
 company of:
-  - Zurich
+  - Zurich, Switzerland
   - Switzerland
 official website: "http://juliusbaer.com/"
 wikidata: "https://www.wikidata.org/wiki/Q671901"
