@@ -2,7 +2,7 @@
 title: "The Strange Math That Predicts (Almost) Anything (YouTube)"
 episode of: "@Veritasium (YouTube)"
 excerpt: "How a feud in Russia led to modern prediction algorithms."
-introduction of: Markov chains
+introduction of: Markov chain
 mention of:
   - John von Neumann
   - Stanisław Ulam
