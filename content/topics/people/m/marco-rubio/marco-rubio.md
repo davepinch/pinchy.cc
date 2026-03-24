@@ -1,5 +1,6 @@
 ---
 title: "Marco Rubio"
+another marco: Marco Polo
 member of: Republican Party
 nominee of: United States Secretary of State
 senator of: United States
