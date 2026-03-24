@@ -8,7 +8,7 @@ url: /wikileaks.org/cia-emails/
 website: "https://wikileaks.org/cia-emails/"
 when: 2015-10-21
 wikileaks of:
-  - John Brennan
+  - John Owen Brennan
   - Central Intelligence Agency
 tags:
   - website
