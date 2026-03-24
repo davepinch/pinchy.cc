@@ -9,7 +9,7 @@ website: "https://wikileaks.org//dealmaker/Al-Yousef/"
 when: 2018-09-28
 wikileaks of:
   - France
-  - United Arab Emerites
+  - United Arab Emirates
 tags:
   - website
 ---
