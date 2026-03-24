@@ -8,7 +8,7 @@ meaning of: Apus
 misconception of: bird-of-paradise
 snippet of: Apus (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Apus/history-2-3/
+url: /en.wikipedia.org/wiki/Apus/@history-2-3/
 tags:
   - snippet
 ---

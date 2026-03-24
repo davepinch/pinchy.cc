@@ -7,7 +7,7 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: Aquarius (constellation) (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Aquarius_(constellation)/depictions-1-1/
+url: /en.wikipedia.org/wiki/Aquarius_(constellation)/@depictions-1-1/
 almagest of: Aquarius
 tags:
   - snippet

@@ -10,7 +10,7 @@ citation: >-
 license: CC BY-SA 4.0
 on behalf of: Centaurus
 type: snippet
-url: /en.wikipedia.org/wiki/Lupus_(constellation)/1-1/
+url: /en.wikipedia.org/wiki/Lupus_(constellation)/@history-and-mythology-1-1/
 tags:
   - death
   - snippet

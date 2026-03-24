@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 mmesopotamia of: Andromeda
 snippet of: Andromeda (constellation) (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Andromeda_(constellation)/in-non-western-astronomy-5-1/
+url: /en.wikipedia.org/wiki/Andromeda_(constellation)/@in-non-western-astronomy-5-1/
 tags:
   - Mesopotamia
   - Tiamat

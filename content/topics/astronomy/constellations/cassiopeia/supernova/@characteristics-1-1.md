@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 snippet of: Cassiopeia (constellation) (Wikipedia)
 supernova of: Cassiopeia
 type: snippet
-url: /en.wikipedia.org/wiki/Cassiopeia_(constellation)/characteristics-1-1/
+url: /en.wikipedia.org/wiki/Cassiopeia_(constellation)/@characteristics-1-1/
 tags:
   - Cassiopeia A
   - snippet

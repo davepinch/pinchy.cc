@@ -7,7 +7,7 @@ citation: >-
 mythology of: Ara
 snippet of: Ara (constellation) (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Ara_(constellation)/history-1-1/
+url: /en.wikipedia.org/wiki/Ara_(constellation)/@history-1-1/
 tags:
   - snippet
 ---

@@ -7,7 +7,7 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: Aquarius (constellation) (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Aquarius_(constellation)/astrology-2-1/
+url: /en.wikipedia.org/wiki/Aquarius_(constellation)/@astrology-2-1/
 tags:
   - Age of Aquarius
   - snippet

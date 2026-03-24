@@ -7,7 +7,7 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: Antlia (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Antlia/history-2-1/
+url: /en.wikipedia.org/wiki/Antlia/@history-2-1/
 tags:
   - Ancient Greece
   - snippet

@@ -7,7 +7,7 @@ dim stars of: Reticulum
 snippet of: Reticulum (Wikipedia)
 related: Apparent magnitude (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Reticulum/features-1-1/
+url: /en.wikipedia.org/wiki/Reticulum/@features-1-1/
 tags:
   - Alpha reticuli
   - Beta reticuli

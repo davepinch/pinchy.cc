@@ -8,7 +8,7 @@ direction of: Pioneer 11
 license: CC BY-SA 4.0
 pioneer 11 of: Scutum
 type: snippet
-url: /en.wikipedia.org/wiki/Scutum_(constellation)/space-exploration-1-1/
+url: /en.wikipedia.org/wiki/Scutum_(constellation)/@space-exploration-1-1/
 tags:
   - snippet
 ---

@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 odyssey of: Boötes
 snippet of: Boötes (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Boötes/history-and-mythology-2-1/
+url: /en.wikipedia.org/wiki/Boötes/@history-and-mythology-2-1/
 tags:
   - Homer
   - Odyssey

@@ -10,7 +10,7 @@ mithraism of:
   - Crater
 snippet of: Crater (constellation) (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Crater_(constellation)/mythology-1-4/
+url: /en.wikipedia.org/wiki/Crater_(constellation)/@mythology-1-4/
 tags:
   - Mithraism
   - Middle East

@@ -8,7 +8,7 @@ high visibility of: galaxy
 license: CC BY-SA 4.0
 snippet of: Camelopardalis (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Camelopardalis/deep-sky-objects-1-1/
+url: /en.wikipedia.org/wiki/Camelopardalis/@deep-sky-objects-1-1/
 tags:
   - galactic plane
   - snippet

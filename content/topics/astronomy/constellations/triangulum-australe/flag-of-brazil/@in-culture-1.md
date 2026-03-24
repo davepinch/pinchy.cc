@@ -8,7 +8,7 @@ license: CC BY-SA 4.0
 snippet of: Triangulum Australe (Wikipedia)
 related: Flag_of_Brazil.svg (Wikimedia Commons)
 type: snippet
-url: /en.wikipedia.org/wiki/Triangulum_Australe/in-culture-1/
+url: /en.wikipedia.org/wiki/Triangulum_Australe/@in-culture-1/
 tags:
   - Brazil
   - snippet

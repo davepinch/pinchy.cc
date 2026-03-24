@@ -1,13 +1,14 @@
 ---
-title: "Aquila was one of the 48 constellations described by the second-century astronomer Ptolemy."
+title: >-
+  NASA's Pioneer 11 space probe, which flew by Jupiter and Saturn in the 1970s, is expected to pass near the star Lambda (λ) Aquilae in about 4 million years.
 citation: >-
   Wikipedia contributors. (2023, October 11). Aquila (constellation). In *Wikipedia, The Free Encyclopedia*. Retrieved November 3, 2023, from https://en.wikipedia.org/w/index.php?title=Aquila_(constellation)&oldid=1179711788
 license: CC BY-SA 4.0
-ptolemy of: Aquila
 snippet of: Aquila (constellation) (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Aquila_(constellation)/history-1-1/
+url: /en.wikipedia.org/wiki/Aquila_(constellation)/@other-1-1/
 tags:
-  - Ptolemy
+  - Aquila
+  - Pioneer 11
   - snippet
 ---
