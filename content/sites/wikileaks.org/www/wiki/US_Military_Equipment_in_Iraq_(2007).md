@@ -9,6 +9,7 @@ website: "https://wikileaks.org//wiki/US_Military_Equipment_in_Iraq_(2007)"
 when: 2007-11-08
 wikileaks of:
   - Iraq
+  - Iraq War
   - United States Army
 tags:
   - website
