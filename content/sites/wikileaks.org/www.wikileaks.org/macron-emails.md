@@ -7,7 +7,7 @@ type: website
 url: /wikileaks.org/macron-emails/
 website: "https://wikileaks.org//macron-emails/"
 when: 2017-07-31
-wikileaks of: Emmanual Macron
+wikileaks of: Emmanuel Macron
 tags:
   - website
 ---
