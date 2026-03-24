@@ -1,6 +1,6 @@
 ---
 title: "Patrick Henry Ray"
-type: person
+not to be confused with: Patrick Henry
 wikidata: "https://www.wikidata.org/wiki/Q20710144"
 tags:
   - human being
