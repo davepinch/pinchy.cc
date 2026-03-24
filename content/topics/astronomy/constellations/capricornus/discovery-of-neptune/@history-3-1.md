@@ -12,7 +12,7 @@ discovery of Neptune of:
   - Deneb Algedi
   - Johann Gottfried Galle
 type: snippet
-url: /en.wikipedia.org/wiki/Capricornus/history-3-1/
+url: /en.wikipedia.org/wiki/Capricornus/@history-3-1/
 when: 1846-09-23
 tags:
   - snippet
