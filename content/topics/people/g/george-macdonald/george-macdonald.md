@@ -1,5 +1,5 @@
 ---
-title: "George Macdonald"
+title: "George MacDonald"
 wikidata: "https://www.wikidata.org/wiki/Q368519"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:George_MacDonald"
 wikipedia: "https://en.wikipedia.org/wiki/George_MacDonald"
