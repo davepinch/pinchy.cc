@@ -4,7 +4,7 @@ excerpt: >-
   Wikileaks has released nearly a billion dollars worth of quasi-secret reports commissioned by the United States Congress.
 leak of: WikiLeaks
 type: website
-url: /wikileaks.org//wiki/Congressional_Research_Service/
+url: /wikileaks.org/wiki/Congressional_Research_Service/
 website: "https://wikileaks.org//wiki/Congressional_Research_Service"
 when: 2009-02-08
 wikileaks of:
