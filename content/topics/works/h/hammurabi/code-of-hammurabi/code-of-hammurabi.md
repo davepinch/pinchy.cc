@@ -4,6 +4,9 @@ code of law of:
   - Hammurabi
   - Babylon
   - Mesopotamia
+  - eye for an eye
+displayed in: Louvre
+inscription of: basalt
 wikidata: "https://www.wikidata.org/wiki/Q93304"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Code_of_Hammurabi"
 wikisource: "https://en.wikisource.org/wiki/The_Code_of_Hammurabi"
