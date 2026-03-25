@@ -2,6 +2,7 @@
 title: "Joint Base Lewis-McChord"
 military base of:
   - United States Army
+  - United States Air Force
   - United States
   - Washington
   - Pierce County, Washington
@@ -11,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Joint_Base_Lewis-McChord
 wikipedia: "https://en.wikipedia.org/wiki/Joint_Base_Lewis%E2%80%93McChord"
 tags:
   - military base
+  - joint base
 ---
