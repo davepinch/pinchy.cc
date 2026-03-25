@@ -6,6 +6,7 @@ influenced by:
 operating system of: Microsoft
 successor of: "86-DOS"
 wikidata: "https://www.wikidata.org/wiki/Q47604"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:MS-DOS"
 tags:
   - x86
   - DOS
