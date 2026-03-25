@@ -7,6 +7,7 @@ type: website
 url: /archive.org/details/digital-research-cpm-86-emulation/
 website: "https://archive.org/details/digital-research-cpm-86-emulation"
 tags:
+  - website
   - online emulator
   - Internet Archive
 ---
