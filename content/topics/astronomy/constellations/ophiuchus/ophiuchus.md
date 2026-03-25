@@ -16,6 +16,7 @@ constellation of:
 passage through the ecliptic: Sagittarius
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8906"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ophiuchus_(constellation)"
 tags:
   - constellation
 ---

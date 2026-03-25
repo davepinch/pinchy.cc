@@ -18,6 +18,7 @@ constellation of:
 passage through the ecliptic: Pisces
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10576"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Aquarius_(constellation)"
 tags:
   - constellation
 ---

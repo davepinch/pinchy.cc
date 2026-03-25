@@ -13,6 +13,7 @@ constellation of:
   - southern celestial hemisphere
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10506"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Apus_(constellation)"
 tags:
   - constellation
 ---

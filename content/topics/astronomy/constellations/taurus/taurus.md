@@ -18,6 +18,7 @@ objects:
 passage through the ecliptic: Gemini
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10570"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Taurus_(constellation)"
 tags:
   - bull
   - constellation

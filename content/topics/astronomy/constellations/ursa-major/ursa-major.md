@@ -18,6 +18,7 @@ related:
   - Ursa Minor
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8918"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ursa_Major_(constellation)"
 tags:
   - constellation
 ---

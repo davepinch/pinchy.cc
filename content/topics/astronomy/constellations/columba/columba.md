@@ -11,6 +11,7 @@ constellation of:
   - southern celestial hemisphere
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10425"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Columba_(constellation)"
 tags:
   - constellation
 ---

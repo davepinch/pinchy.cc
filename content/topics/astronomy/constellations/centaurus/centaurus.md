@@ -15,6 +15,7 @@ constellation of:
   - Ptolemy
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8844"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Centaurus_(constellation)"
 tags:
   - constellation
 ---

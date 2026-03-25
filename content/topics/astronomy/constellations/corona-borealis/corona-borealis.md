@@ -11,6 +11,7 @@ constellation of:
 opposite: Corona Australis
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10406"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Corona_Borealis"
 tags:
   - constellation
 ---

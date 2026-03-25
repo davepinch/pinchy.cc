@@ -11,6 +11,7 @@ constellation of:
   - southern celestial hemisphere
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10515"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Pavo_(constellation)"
 tags:
   - constellation
 ---

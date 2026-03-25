@@ -16,6 +16,7 @@ constellation of:
 not to be confused with: Hydra
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10416"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Hydrus_(constellation)"
 tags:
   - water
   - constellation

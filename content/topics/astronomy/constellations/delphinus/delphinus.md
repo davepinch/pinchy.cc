@@ -13,6 +13,7 @@ constellation of:
   - Ptolemy
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q9302"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Delphinus_(constellation)"
 tags:
   - constellation
 ---

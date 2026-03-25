@@ -12,6 +12,7 @@ constellation of:
   - Ptolemy
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8860"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Orion_(constellation)"
 tags:
   - constellation
 ---

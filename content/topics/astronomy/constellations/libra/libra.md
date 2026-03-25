@@ -15,6 +15,7 @@ constellation of:
 passage through the ecliptic: Scorpius
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10580"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Libra_(constellation)"
 tags:
   - constellation
 ---

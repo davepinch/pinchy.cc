@@ -11,6 +11,7 @@ constellation of:
   - northern celestial hemisphere
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10430"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lacerta_(constellation)"
 tags:
   - constellation
 ---

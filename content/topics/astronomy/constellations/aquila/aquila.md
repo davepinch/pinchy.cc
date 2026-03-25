@@ -16,6 +16,7 @@ constellation of:
   - Ptolemy
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10586"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Aquila_(constellation)"
 tags:
   - constellation
 ---

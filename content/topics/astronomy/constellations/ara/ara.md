@@ -13,6 +13,7 @@ constellation of:
   - Ptolemy
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q9253"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ara_(constellation)"
 tags:
   - constellation
 ---

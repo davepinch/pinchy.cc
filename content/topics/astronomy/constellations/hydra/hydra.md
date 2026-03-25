@@ -23,6 +23,7 @@ constellation of:
 not to be confused with: Hydrus
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10578"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Hydra_(constellation)"
 tags:
   - female
   - water

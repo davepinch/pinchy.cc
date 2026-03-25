@@ -12,6 +12,7 @@ constellation of:
   - southern celestial hemisphere
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10508"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Circinus_(constellation)"
 tags:
   - constellation
   - circle

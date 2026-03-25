@@ -11,6 +11,7 @@ borders:
 constellation of: northern celestial hemisphere
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10443"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lynx_(constellation)"
 tags:
   - constellation
 ---

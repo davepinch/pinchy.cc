@@ -15,6 +15,7 @@ constellation of:
 passage through the ecliptic: Ophiuchus
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8865"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Scorpius_(constellation)"
 tags:
   - constellation
 ---

@@ -11,6 +11,7 @@ constellation of:
   - Ptolemy
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10476"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Auriga_(constellation)"
 tags:
   - constellation
 ---

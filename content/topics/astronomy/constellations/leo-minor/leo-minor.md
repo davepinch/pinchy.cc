@@ -10,6 +10,7 @@ constellation of:
   - northern celestial hemisphere
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10403"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Leo_Minor"
 tags:
   - constellation
 ---

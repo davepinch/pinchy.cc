@@ -9,6 +9,7 @@ divided into:
   - Vela
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q9258"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Argo_Navis"
 tags:
   - obsolete
   - constellation

@@ -14,6 +14,7 @@ constellation of:
   - Ptolemy
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8864"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Pegasus_(constellation)"
 tags:
   - constellation
 ---

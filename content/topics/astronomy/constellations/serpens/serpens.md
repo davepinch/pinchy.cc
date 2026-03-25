@@ -16,6 +16,7 @@ constellation of:
   - Ptolemy
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8910"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Serpens_(constellation)"
 tags:
   - constellation
 ---

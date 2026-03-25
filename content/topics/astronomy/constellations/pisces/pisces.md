@@ -17,6 +17,7 @@ passage through the ecliptic: Aries
 see also: Piscis Austrinus
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8679"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Pisces_(constellation)"
 tags:
   - constellation
 ---

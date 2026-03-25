@@ -12,6 +12,7 @@ LOOK AROUND: >-
 next: "Norma is a constellation in the southern sky."
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10582"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Norma_(constellation)"
 tags:
   - square
   - constellation

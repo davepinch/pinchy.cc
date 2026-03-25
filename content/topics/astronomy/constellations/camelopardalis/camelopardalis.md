@@ -15,6 +15,7 @@ constellation of:
 near: Polaris
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8832"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Camelopardalis_(constellation)"
 tags:
   - constellation
 ---

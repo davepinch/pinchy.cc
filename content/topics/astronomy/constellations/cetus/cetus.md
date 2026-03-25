@@ -15,6 +15,7 @@ constellation of:
   - Ptolemy
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8839"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cetus_(constellation)"
 tags:
   - constellation
 ---

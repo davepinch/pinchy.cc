@@ -19,6 +19,7 @@ constellation of:
 passage through the ecliptic: Virgo
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8853"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Leo_(constellation)"
 tags:
   - constellation
 ---

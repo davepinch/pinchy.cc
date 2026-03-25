@@ -13,6 +13,7 @@ constellation of:
 next: "Andromeda is a constellation in the northern sky."
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q9256"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Andromeda_(constellation)"
 tags:
   - constellation
 ---

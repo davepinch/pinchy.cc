@@ -11,6 +11,7 @@ constellation of:
 opposite: Triangulum
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10422"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Triangulum_Australe"
 tags:
   - constellation
 ---

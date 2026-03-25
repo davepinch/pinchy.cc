@@ -19,6 +19,7 @@ not to be confused with: Sagitta
 passage through the ecliptic: Capricornus
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8866"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sagittarius_(constellation)"
 tags:
   - constellation
 ---

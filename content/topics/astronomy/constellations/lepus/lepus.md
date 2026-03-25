@@ -14,6 +14,7 @@ constellation of:
 not to be confused with: Lupus
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10446"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lepus_(constellation)"
 tags:
   - constellation
 ---

@@ -15,6 +15,7 @@ constellation of:
 passage through the ecliptic: Leo
 type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8849"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cancer_(constellation)"
 tags:
   - constellation
 ---
