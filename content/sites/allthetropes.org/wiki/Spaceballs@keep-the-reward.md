@@ -7,7 +7,7 @@ keep the reward of:
   - "We're not just doing it for money...We're doing it for a shitload of money!"
 snippet of: Spaceballs (allthetropes.org)
 type: snippet
-url: /allthetropes.org/wiki/Spaceballs/keep-the-reward/
+url: /allthetropes.org/wiki/Spaceballs/@keep-the-reward/
 tags:
   - snippet
   - spoiler
