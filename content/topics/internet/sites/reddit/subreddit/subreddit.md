@@ -2,6 +2,7 @@
 title: "subreddit"
 plural: subreddits
 tag requires property:
+  - description
   - subreddit of
   - url
   - website
