@@ -11,7 +11,6 @@ city of:
   - Washington
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/237268"
-reddit: "https://www.reddit.com/r/UniversityPlace/"
 suburb of: Tacoma, Washington
 wikidata: "https://www.wikidata.org/entity/Q1514808"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:University_Place,_Washington"
