@@ -12,7 +12,6 @@ near:
   - Chuckanut Mountains
   - Deming, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237440"
-reddit: "https://www.reddit.com/r/Bellingham/"
 wikidata: "https://www.wikidata.org/wiki/Q430267"
 wikimedia: "https://commons.wikimedia.org/wiki/Bellingham,_Washington"
 tags:
