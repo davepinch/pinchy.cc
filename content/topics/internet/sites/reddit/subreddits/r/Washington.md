@@ -1,6 +1,7 @@
 ---
 title: "r/Washington"
 description: "For all that is good in the Pacific Northwest. Washington is the absolute best."
+state of: r/PacificNorthwest
 subreddit of:
   - Washington
   - reddit

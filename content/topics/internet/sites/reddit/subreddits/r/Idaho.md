@@ -1,6 +1,7 @@
 ---
 title: "r/Idaho"
 description: "Idahoans' Gem State subreddit!"
+state of: r/PacificNorthwest
 subreddit of:
   - Idaho
   - reddit
