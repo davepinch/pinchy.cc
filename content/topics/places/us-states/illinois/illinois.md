@@ -10,7 +10,6 @@ borders:
   - Missouri
   - Wisconsin
 down the mississippi: Missouri
-reddit: "https://www.reddit.com/r/illinois/"
 state of:
   - Midwestern United States
   - United States
