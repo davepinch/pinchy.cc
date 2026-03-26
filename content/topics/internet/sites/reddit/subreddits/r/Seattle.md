@@ -1,5 +1,6 @@
 ---
 title: "r/Seattle"
+city of: r/Washington
 description: "The Seattle subreddit. News, current events, meetups, etc. discord.gg/reddit-seattle"
 see also: r/SeattleWA
 subreddit of:

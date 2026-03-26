@@ -1,5 +1,6 @@
 ---
 title: "r/Bellingham"
+city of: r/Washington
 description: "**The City of Subdued Excitement** *48°45′1″N 122°28′30″W*"
 subreddit of:
   - Bellingham, Washington
