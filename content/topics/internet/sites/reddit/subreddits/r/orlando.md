@@ -1,5 +1,6 @@
 ---
 title: "r/orlando"
+city of: r/florida
 description: "The proud subreddit of Orlando, Florida."
 subreddit of:
   - Orlando, Florida
