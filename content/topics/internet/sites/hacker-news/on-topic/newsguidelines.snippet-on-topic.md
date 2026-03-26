@@ -4,7 +4,7 @@ title: "on-topic of Hacker News (news.ycombinator.com)"
 snippet of: "https://news.ycombinator.com/newsguidelines.html"
 on-topic of: Hacker News
 type: snippet
-url: /news.ycombinator.com/newsguidelines.html/on-topic/
+url: /news.ycombinator.com/newsguidelines.html/@on-topic/
 tags:
   - snippet
 ---
