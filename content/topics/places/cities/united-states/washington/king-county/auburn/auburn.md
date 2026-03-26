@@ -10,7 +10,6 @@ city of:
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237673"
-reddit: "https://www.reddit.com/r/auburnwa/"
 wikidata: "https://www.wikidata.org/entity/Q661595"
 tags:
   - city
