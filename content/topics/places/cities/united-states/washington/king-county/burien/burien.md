@@ -18,7 +18,6 @@ city of:
   - East Passage
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/237342"
-reddit: "https://www.reddit.com/r/Burien/"
 suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q984825"
 tags:
