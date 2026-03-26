@@ -12,7 +12,6 @@ city of:
   - Washington
 clockwise around lake sammamish: Sammamish, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237376"
-reddit: "https://www.reddit.com/r/redmond/"
 wikidata: "https://www.wikidata.org/entity/Q223718"
 tags:
   - city
