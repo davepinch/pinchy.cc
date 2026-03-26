@@ -13,7 +13,6 @@ county of: Washington
 northbound on interstate 5: Thurston County, Washington
 official website: "https://lewiscountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153327"
-reddit: "https://www.reddit.com/r/LewisCounty/"
 southbound on interstate 5: Cowlitz County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q483950"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lewis_County,_Washington"
