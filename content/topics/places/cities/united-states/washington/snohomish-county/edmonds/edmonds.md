@@ -17,7 +17,6 @@ city of:
   - Snohomish County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237658"
-reddit: "https://www.reddit.com/r/EdmondsWashington/"
 suburb of: Seattle
 up the pacific coast: Meadowdale, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1055845"
