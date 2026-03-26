@@ -12,7 +12,6 @@ city of:
   - Washington
   - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/237670"
-reddit: "https://www.reddit.com/r/mountlaketerrace/"
 wikidata: "https://www.wikidata.org/wiki/Q1507087"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mountlake_Terrace,_Washington"
 wikivoyage: "https://en.wikivoyage.org/wiki/Mountlake_Terrace"
