@@ -1,5 +1,6 @@
 ---
 title: "r/EnterpriseAlabama"
+city of: r/Alabama
 description: "The subreddit for Enterprise, Alabama. City of Progress."
 subreddit of:
   - Enterprise, Alabama
