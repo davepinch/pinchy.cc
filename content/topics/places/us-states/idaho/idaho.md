@@ -9,7 +9,6 @@ borders:
   - Utah 
   - Washington
   - Wyoming
-reddit: "https://www.reddit.com/r/Idaho/"
 state of:
   - Mountain States
   - Pacific Northwest
