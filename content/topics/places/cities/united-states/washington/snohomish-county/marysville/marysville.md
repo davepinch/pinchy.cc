@@ -5,7 +5,6 @@ city of:
   - Washington
   - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/237663"
-reddit: "https://www.reddit.com/r/Marysville/"
 roadways: Interstate 5
 vantage point of: Mount Pilchuck
 wikidata: "https://www.wikidata.org/wiki/Q970001"
