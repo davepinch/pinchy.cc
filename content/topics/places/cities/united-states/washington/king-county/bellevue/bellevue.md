@@ -19,7 +19,6 @@ city of:
 clockwise around lake sammamish: Redmond, Washington
 near: Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/237868"
-reddit: "https://www.reddit.com/r/BellevueWA/"
 wikidata: "https://www.wikidata.org/entity/Q214164"
 tags:
   - city
