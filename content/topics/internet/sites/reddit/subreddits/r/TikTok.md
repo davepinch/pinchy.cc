@@ -1,5 +1,6 @@
 ---
 title: "r/TikTok"
+description: "This is a place to post fun, cute, funny, interesting titktok videos you've found. >> All threads must pertain to Tiktok This sub is to share fun tiktok you've found or made. Asking for follows/likes will result in an immediate ban. Anything trashy, promotional, rude or uninteresting will be removed at the moderators discretion. Use the megathreads to prevent spam."
 subreddit of:
   - TikTok
   - reddit

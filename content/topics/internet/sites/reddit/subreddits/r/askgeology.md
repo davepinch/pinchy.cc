@@ -1,5 +1,6 @@
 ---
 title: "r/askgeology"
+description: "Ask geologists anything"
 subreddit of:
   - geology
   - geologist

@@ -1,5 +1,6 @@
 ---
 title: "r/geography"
+description: "The study of the Earth and its features, inhabitants, and phenomena."
 subreddit of:
   - geography
   - reddit

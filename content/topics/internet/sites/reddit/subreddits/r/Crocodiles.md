@@ -1,5 +1,6 @@
 ---
 title: "r/Crocodiles"
+description: "Come share all about crocodiles with us! Yes the name is crocodiles, but we welcome all types of crocodilians. This includes all alligators, gharials, and caimans!"
 subreddit of:
   - crocodile
   - reddit

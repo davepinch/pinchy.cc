@@ -1,5 +1,6 @@
 ---
 title: "r/vancouver"
+description: "Your go-to for everything happening in Metro Vancouver: news, people, places, events, articles, and discussions. Where the ocean meets the mountains, from the sea to sky."
 subreddit of:
   - Vancouver, British Columbia
   - reddit

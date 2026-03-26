@@ -1,5 +1,6 @@
 ---
 title: "r/Anacortes"
+description: "Anacortes, WA"
 subreddit of:
   - Anacortes, Washington
   - reddit

@@ -1,5 +1,6 @@
 ---
 title: "r/pics"
+description: "A place for photographs, pictures, and other images."
 subreddit of:
   - photograph
   - picture

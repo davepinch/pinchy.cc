@@ -1,5 +1,6 @@
 ---
 title: "r/openstreetmap"
+description: "Questions and discussions for OpenStreetMap"
 subreddit of:
   - OpenStreetMap
   - reddit

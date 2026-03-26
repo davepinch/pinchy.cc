@@ -1,5 +1,6 @@
 ---
 title: "r/europe"
+description: "Europe: 50 (+6) countries, 230 languages, 746M people… 1 subreddit."
 subreddit of:
   - Europe
   - reddit

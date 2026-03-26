@@ -1,5 +1,6 @@
 ---
 title: "r/AskReddit"
+description: "r/AskReddit is the place to ask and answer thought-provoking questions."
 subreddit of: reddit
 url: /www.reddit.com/r/AskReddit/
 website: "https://www.reddit.com/r/AskReddit/"

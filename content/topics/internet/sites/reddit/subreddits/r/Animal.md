@@ -1,5 +1,6 @@
 ---
 title: "r/Animal"
+description: "The greatest place to come and see a single animal at a time."
 subreddit of:
   - animal
   - subreddit

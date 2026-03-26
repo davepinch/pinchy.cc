@@ -1,5 +1,6 @@
 ---
 title: "r/reddit.com"
+description: "The original subreddit, now archived."
 subreddit of: reddit
 url: /www.reddit.com/r/reddit.com/
 website: "https://www.reddit.com/r/reddit.com/"

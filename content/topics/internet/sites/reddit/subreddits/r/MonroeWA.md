@@ -1,5 +1,6 @@
 ---
 title: "r/MonroeWA"
+description: "Reddit community for Monroe, WA specific local news and discussion."
 subreddit of:
   - Monroe, Washington
   - reddit

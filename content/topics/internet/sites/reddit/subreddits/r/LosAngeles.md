@@ -1,5 +1,6 @@
 ---
 title: "r/LosAngeles"
+description: "A place to talk about Los Angeles. Be nice."
 subreddit of:
   - Los Angeles
   - reddit
