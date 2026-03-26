@@ -7,7 +7,6 @@ city of:
   - Washington State Route 9
 near: Oso, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237216"
-reddit: "https://www.reddit.com/r/arlingtonwa/"
 wikidata: "https://www.wikidata.org/entity/Q1055866"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Arlington,_Washington"
 tags:
