@@ -1,6 +1,7 @@
 ---
 title: "r/MercerIslandWA"
 city of: r/Washington
+island of: r/Washington
 description: "Subreddit for residents of Mercer Island, Washington. Riffraff can look, but can't park"
 subreddit of:
   - Mercer Island, Washington
