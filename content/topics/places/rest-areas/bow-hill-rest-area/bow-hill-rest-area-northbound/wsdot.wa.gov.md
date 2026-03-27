@@ -17,7 +17,7 @@ url: /wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-northbound/
 website: "https://wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-northbound"
 website of: Bow Hill Rest Area
 tags:
-  - rest area
+  - website
   - WSDOT
 ---
 See WSDOT for latest status of the rest area. As of November 2023, the rest area is located at milepost 238 northbound and open to the public.
