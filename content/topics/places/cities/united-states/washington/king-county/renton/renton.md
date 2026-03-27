@@ -10,9 +10,6 @@ city of:
   - Washington
   - Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237877"
-reddit:
-  - "https://www.reddit.com/r/Renton/"
-  - "https://www.reddit.com/r/Renton_WA/"
 wikidata: "https://www.wikidata.org/entity/Q679952"
 tags:
   - city
