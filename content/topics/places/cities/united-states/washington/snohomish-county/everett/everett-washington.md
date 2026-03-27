@@ -13,9 +13,6 @@ city of:
   - Washington State Route 99
 near: Snohomish, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237659"
-reddit:
-  - "https://www.reddit.com/r/everett/"
-  - "https://www.reddit.com/r/EverettWa/"
 wikidata: "https://www.wikidata.org/wiki/Q392599"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Everett,_Washington"
 tags:
