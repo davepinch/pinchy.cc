@@ -5,6 +5,7 @@ description: "All about the small yet beautiful town of Washington. Millcreek is
 subreddit of:
   - Mill Creek, Washington
   - reddit
+url: /www.reddit.com/r/MillcreekWA/
 website: "https://www.reddit.com/r/MillcreekWA/"
 when: 2019-12-30
 tags:
