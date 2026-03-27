@@ -5,7 +5,9 @@ title: "Exodus 21:24"
 cross-reference:
   - "Deuteronomy 19:21"
   - "Leviticus 24:20"
-verse of: Exodus 21
+verse of:
+  - Exodus 21
+  - eye for an eye
 tags:
   - verse of the Bible
 ---

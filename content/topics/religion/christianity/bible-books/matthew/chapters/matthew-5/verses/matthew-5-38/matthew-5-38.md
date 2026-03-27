@@ -6,7 +6,9 @@ reference of:
   - "Deuteronomy 19:21"
   - "Exodus 21:24"
   - "Leviticus 24:20"
-verse of: Matthew 5
+verse of:
+  - Matthew 5
+  - eye for an eye
 wikidata: "https://www.wikidata.org/wiki/Q6789993"
 wikipedia: "https://en.wikipedia.org/wiki/Matthew_5:38"
 tags:
