@@ -1,6 +1,6 @@
 ---
 title: "Deuteronomy 19:21"
-similar to:
+cross-reference:
   - "Exodus 21:24"
   - "Leviticus 24:20"
 verse of: "Deuteronomy 19"
