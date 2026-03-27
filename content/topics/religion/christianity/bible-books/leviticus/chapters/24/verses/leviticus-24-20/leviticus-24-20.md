@@ -1,5 +1,6 @@
 ---
 title: "Leviticus 24:20"
+⬅️: "Leviticus 24:19"
 similar to:
   - "Deuteronomy 19:21"
   - "Exodus 21:24"
