@@ -6,7 +6,7 @@ license: public domain
 type: website
 url: /en.wikisource.org/wiki/Codex_Hammurabi_(King_translation)/
 website: "https://en.wikisource.org/wiki/Codex_Hammurabi_(King_translation)"
-wikisource of: Codex Hammurabi (King Translation)
+wikisource of: Codex Hammurabi (King translation)
 tags:
   - website
 ---
