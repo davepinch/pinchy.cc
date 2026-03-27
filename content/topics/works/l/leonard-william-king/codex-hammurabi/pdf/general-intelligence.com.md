@@ -1,6 +1,6 @@
 ---
 title: "The Code of Hammurabi Translated by L. W. King (general-intelligence.com)"
-pdf of: Codex Hammurabi (King Translation)
+pdf of: Codex Hammurabi (King translation)
 author: Paulo J. S. Peraira (typography and formatting)
 excerpt: >-
   The text of this work is based on the 1915 translation by L. W. King, which is now in the public domain. The typography and formatting are licensed under the Creative Commons Attribution NonCommercial-NoDerivs 3.0 Unported License
