@@ -9,6 +9,7 @@ tags:
   - American
   - photographer
   - wife
+  - daughter-in-law
   - human being
   - dead at the moment
 ---
