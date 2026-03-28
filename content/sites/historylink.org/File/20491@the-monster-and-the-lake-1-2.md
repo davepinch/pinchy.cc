@@ -7,7 +7,7 @@ erratic of:
 snippet of: Lake Stevens — Thumbnail History (historylink.org)
 license: CC BY-NC-ND 4.0
 type: snippet
-url: /www.historylink.org/File/20491/the-monster-and-the-lake-1-2/
+url: /www.historylink.org/File/20491/@the-monster-and-the-lake-1-2/
 website: "https://www.historylink.org/File/20491"
 tags:
   - Lake Stevens Erratic

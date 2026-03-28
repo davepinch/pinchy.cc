@@ -7,7 +7,7 @@ homes of: Salmon Bay Park
 license: CC BY-NC-ND 4.0
 snippet of: "Seattle Neighborhoods: Loyal Heights, Sunset Hill, and Shilshole — Thumbnail History (historylink.org)"
 type: snippet
-url: /www.historylink.org/File/3430/golden-gardens-4-2/
+url: /www.historylink.org/File/3430/@golden-gardens-4-2/
 tags:
   - snippet
 ---

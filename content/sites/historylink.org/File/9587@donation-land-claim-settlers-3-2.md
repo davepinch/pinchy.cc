@@ -10,7 +10,7 @@ first trading post of:
   - Penn Cove
 snippet of: Coupeville — Thumbnail History (historylink.org)
 type: snippet
-url: /www.historylink.org/File/9587/donation-land-claim-settlers-3-2/
+url: /www.historylink.org/File/9587/@donation-land-claim-settlers-3-2/
 tags:
   - snippet
 ---

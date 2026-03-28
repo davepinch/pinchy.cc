@@ -8,7 +8,7 @@ land claims of:
 license: CC BY-NC-ND 4.0
 snippet of: Coupeville — Thumbnail History (historylink.org)
 type: snippet
-url: /www.historylink.org/File/9587/donation-land-claim-settlers-2-2/
+url: /www.historylink.org/File/9587/@donation-land-claim-settlers-2-2/
 when: 1850-10-15
 tags:
   - snippet

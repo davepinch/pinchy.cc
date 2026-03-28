@@ -10,7 +10,7 @@ first county seat of:
 license: CC BY-NC-ND 4.0
 snippet of: Coupeville — Thumbnail History (historylink.org)
 type: snippet
-url: /www.historylink.org/File/9587/donation-land-claim-settlers-3-1/
+url: /www.historylink.org/File/9587/@donation-land-claim-settlers-3-1/
 tags:
   - snippet
 ---

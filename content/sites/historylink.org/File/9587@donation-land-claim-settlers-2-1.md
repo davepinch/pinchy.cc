@@ -6,7 +6,7 @@ land claims of: Whidbey Island
 license: CC BY-NC-ND 4.0
 snippet of: Coupeville — Thumbnail History (historylink.org)
 type: snippet
-url: /www.historylink.org/File/9587/donation-land-claim-settlers-2-1/
+url: /www.historylink.org/File/9587/@donation-land-claim-settlers-2-1/
 when: 1850-09-27
 tags:
   - snippet

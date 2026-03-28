@@ -7,8 +7,7 @@ license: CC BY-NC-ND 4.0
 snippet of: >-
   Vashon glacier begins to melt and recede from Puget Sound region and Columbia Basin around 16,900 years ago (historylink.org)
 type: snippet
-url: /www.historylink.org/File/5087/west-of-the-cascades-1-3/
-website: "https://www.historylink.org/File/5087"
+url: /www.historylink.org/File/5087/@west-of-the-cascades-1-3/
 tags:
   - Lawton Clay
   - Esperance Sand

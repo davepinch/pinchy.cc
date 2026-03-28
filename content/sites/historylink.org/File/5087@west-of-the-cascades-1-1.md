@@ -8,8 +8,7 @@ snippet of: >-
   Vashon glacier begins to melt and recede from Puget Sound region and Columbia Basin around 16,900 years ago (historylink.org)
 related: Puget lobe of the Cordilleran ice sheet.jpg (Wikimedia Commons)
 type: snippet
-url: /www.historylink.org/File/5087/west-of-the-cascades-1-1/
-website: "https://www.historylink.org/File/5087"
+url: /www.historylink.org/File/5087/@west-of-the-cascades-1-1/
 tags:
   - Cascade Range
   - Olympic Mountains

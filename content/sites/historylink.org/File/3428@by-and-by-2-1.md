@@ -5,7 +5,7 @@ author: Cassandra Tate
 license: CC BY-NC-ND 4.0
 snippet of: "Seattle Neighborhoods: West Seattle — Thumbnail History (historylink.org)"
 type: snippet
-url: /www.historylink.org/File/3428/by-and-by-2-1/
+url: /www.historylink.org/File/3428/@by-and-by-2-1/
 when: 1851-11-13
 tags:
   - snippet
