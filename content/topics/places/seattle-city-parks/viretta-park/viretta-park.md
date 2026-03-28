@@ -5,6 +5,7 @@ city park of:
   - Seattle
   - King County, Washington
 vicinity of: Denny Blaine Park
+website: "https://www.seattle.gov/parks/parks/viretta-park"
 wikidata: "https://www.wikidata.org/wiki/Q7933704"
 tags:
   - city park
