@@ -3,7 +3,7 @@ title: "r/FortMyers"
 city of: r/florida
 description: "Fort Myers, FL subreddit"
 subreddit of:
-  - Fort Myers
+  - Fort Myers, Florida
   - reddit
 url: /www.reddit.com/r/FortMyers/
 website: "https://www.reddit.com/r/FortMyers/"
