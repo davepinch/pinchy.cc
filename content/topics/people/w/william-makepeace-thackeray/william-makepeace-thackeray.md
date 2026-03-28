@@ -6,4 +6,6 @@ tags:
   - British
   - writer
   - human being
+  - dead at the moment
+  - found dead
 ---
