@@ -5,6 +5,7 @@ birth in: Me-Schal village
 birth of:
   - Chief Quiemuth
   - Chief Leschi
+license: CC BY-NC-ND 4.0
 snippet of: Nisqually Chief Quiemuth is murdered in Olympia on November 19, 1856. (historylink.org)
 type: snippet
 url: /www.historylink.org/File/10007/@quiemuth-and-leschi-1-1/

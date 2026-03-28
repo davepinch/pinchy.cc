@@ -6,6 +6,14 @@ history of:
   - Washington
   - Pacific Northwest
 license: CC BY-NC-ND 4.0
+tag requires property:
+  - author
+  - essay number
+  - historylink.org of
+  - license
+  - type
+  - url
+  - website
 type: website
 url: /historylink.org/
 website: "https://historylink.org"

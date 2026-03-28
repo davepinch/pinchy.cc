@@ -2,6 +2,7 @@
 title: "formation of Clallam County, Washington (historylink.org)"
 ✂️: "Clallam County was carved out of Jefferson effective April 26, 1854, and the county seat was established at New Dungeness, where it remained until 1890."
 formation of: Clallam County, Washington
+license: CC BY-NC-ND 4.0
 original county seat in: Dungeness, Washington
 snippet of: Clallam County — Thumbnail History (historylink.org)
 type: snippet
