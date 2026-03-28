@@ -4,6 +4,7 @@ city park of:
   - Denny-Blaine, Seattle
   - Seattle
   - King County, Washington
+namesake of: Viretta Chambers Denny
 vantage point of: Lake Washington
 vicinity of: Denny Blaine Park
 website: "https://www.seattle.gov/parks/parks/viretta-park"
