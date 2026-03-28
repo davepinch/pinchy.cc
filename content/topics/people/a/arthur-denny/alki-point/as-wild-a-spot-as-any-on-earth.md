@@ -6,7 +6,9 @@ alki point of:
 attribution: "Arthur Denny on Alki Point"
 arthur denny of: Alki Point
 source: "Seattle Neighborhoods: West Seattle — Thumbnail History (historylink.org)"
+TODO: Move this from the Seattle folder to the historylink.org folder
 type: quote
 tags:
   - quote
+  - TODO
 ---
