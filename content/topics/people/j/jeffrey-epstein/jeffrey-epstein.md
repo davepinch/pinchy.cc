@@ -10,6 +10,7 @@ died in:
   - New York
   - United States
 email address: "jeevacation@gmail.com"
+found dead in: prison
 wikidata: "https://www.wikidata.org/wiki/Q2904131"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Jeffrey_Epstein"
 wikiquote: "https://en.wikiquote.org/wiki/Jeffrey_Epstein"
@@ -18,4 +19,5 @@ tags:
   - sex offender
   - human being
   - dead at the moment
+  - found dead
 ---
