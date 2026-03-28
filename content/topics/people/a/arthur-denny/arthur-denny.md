@@ -1,5 +1,6 @@
 ---
 title: "Arthur Denny"
+born in: Indiana
 person of:
   - New York Alki
   - Seattle
