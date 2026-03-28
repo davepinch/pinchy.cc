@@ -4,6 +4,7 @@ city park of:
   - Lake Ballinger
   - Mountlake Terrace, Washington
   - Snohomish County, Washington
+namesake of: Lake Ballinger
 openstreetmap: "https://www.openstreetmap.org/way/35451044"
 tags:
   - city park
