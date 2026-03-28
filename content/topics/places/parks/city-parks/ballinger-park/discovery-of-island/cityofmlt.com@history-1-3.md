@@ -1,5 +1,5 @@
 ---
-title: "discovery of island in Ballinger Park"
+title: "discovery of island in Ballinger Park (cityofmlt.com)"
 ✂️: "The island in the lake [Ballinger] was said to have been discovered by Ira Bartholomew in 1890 who built a homestead on the island with his wife, Julia."
 discovery of island in:
   - Ballinger Park
