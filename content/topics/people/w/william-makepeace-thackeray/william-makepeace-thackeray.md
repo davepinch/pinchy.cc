@@ -1,6 +1,5 @@
 ---
 title: "William Makepeace Thackeray"
-type: person
 wikidata: "https://www.wikidata.org/wiki/Q167768"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:William_Makepeace_Thackeray"
 wikiquote: "https://en.wikiquote.org/wiki/William_Makepeace_Thackeray"
