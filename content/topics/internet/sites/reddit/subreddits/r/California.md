@@ -6,7 +6,7 @@ subreddit of:
   - California
   - reddit
 url: /www.reddit.com/r/California/
-website: "https://www.reddit.com/r/California/
+website: "https://www.reddit.com/r/California/"
 when: 2008-04-14
 tags:
   - subreddit
