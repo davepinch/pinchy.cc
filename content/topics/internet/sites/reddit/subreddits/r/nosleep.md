@@ -1,6 +1,6 @@
 ---
 title: "r/nosleep"
-excerpt: "Nosleep is a place for redditors to share their scary personal experiences."
+description: "PLEASE READ OUR GUIDELINES FIRST. Nosleep is a place for redditors to share their scary personal experiences."
 subreddit of: reddit
 url: /www.reddit.com/r/nosleep/
 website: "https://www.reddit.com/r/nosleep/"
