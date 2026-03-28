@@ -5,7 +5,7 @@ citation: >-
 death of: William Makepeace Thackeray
 snippet of: William Makepeace Thackeray (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/William_Makepeace_Thackeray/biography-20-1/
+url: /en.wikipedia.org/wiki/William_Makepeace_Thackeray/@biography-20-1/
 when: 1863-12-23
 tags:
   - death

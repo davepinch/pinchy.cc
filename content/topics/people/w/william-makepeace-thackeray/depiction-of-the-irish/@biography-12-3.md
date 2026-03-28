@@ -6,7 +6,7 @@ citation: >-
 depiction of the Irish of: William Makepeace Thackeray
 snippet of: William Makepeace Thackeray (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/William_Makepeace_Thackeray/biography-12-3/
+url: /en.wikipedia.org/wiki/William_Makepeace_Thackeray/@biography-12-3/
 tags:
   - Punch
   - Irish
