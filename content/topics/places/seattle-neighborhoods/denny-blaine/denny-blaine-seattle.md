@@ -5,6 +5,9 @@ borders:
   - Madison Park, Seattle
   - Madrona, Seattle
   - incomplete list
+namesake of:
+  - Charles Latimer Denny
+  - Elbert F. Blaine
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/8064780"
 wikidata: "https://www.wikidata.org/wiki/Q5259147"
