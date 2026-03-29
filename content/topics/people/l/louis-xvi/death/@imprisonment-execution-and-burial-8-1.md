@@ -9,7 +9,7 @@ death of: Louis XVI
 license: CC BY-SA 4.0
 snippet of: Louis XVI (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Louis_XVI/imprisonment-execution-and-burial-8-1/
+url: /en.wikipedia.org/wiki/Louis_XVI/@imprisonment-execution-and-burial-8-1/
 when: 1793-01-21
 tags:
   - execution

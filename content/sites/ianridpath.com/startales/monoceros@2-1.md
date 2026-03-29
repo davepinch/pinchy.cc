@@ -14,7 +14,7 @@ footnote:
 snippet of: Star Tales - Monoceros (ianridpath.com)
 type: snippet
 unicorn of: Bible
-url: /www.ianridpath.com/startales/monoceros.html/2-1/
+url: /www.ianridpath.com/startales/monoceros.html/@2-1/
 tags:
   - snippet
   - 🦄

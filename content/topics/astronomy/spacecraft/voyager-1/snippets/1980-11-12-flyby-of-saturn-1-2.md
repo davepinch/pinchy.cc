@@ -8,7 +8,7 @@ saturn of: Voyager 1
 snippet of: Voyager 1 (Wikipedia)
 timeline of: Voyager 1
 type: snippet
-url: /en.wikipedia.org/wiki/Voyager_1/flyby-of-saturn-1-2/
+url: /en.wikipedia.org/wiki/Voyager_1/@flyby-of-saturn-1-2/
 when: 1980-11-12
 tags:
   - snippet

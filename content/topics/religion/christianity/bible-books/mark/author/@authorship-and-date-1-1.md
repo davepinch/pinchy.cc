@@ -4,7 +4,7 @@ title: >-
 author of: Gospel of Mark
 snippet of: Gospel of Mark (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Gospel_of_Mark/authorship-and-date-1-1/
+url: /en.wikipedia.org/wiki/Gospel_of_Mark/@authorship-and-date-1-1/
 tags:
   - snippet
 ---

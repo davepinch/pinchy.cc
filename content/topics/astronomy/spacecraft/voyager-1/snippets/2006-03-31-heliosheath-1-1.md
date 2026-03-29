@@ -6,7 +6,7 @@ citation: >-
 snippet of: Voyager 1 (Wikipedia)
 timeline of: Voyager 1
 type: snippet
-url: /en.wikipedia.org/wiki/Voyager_1/heliosheath-1-1/
+url: /en.wikipedia.org/wiki/Voyager_1/@heliosheath-1-1/
 when: 2006-03-31
 tags:
   - snippet

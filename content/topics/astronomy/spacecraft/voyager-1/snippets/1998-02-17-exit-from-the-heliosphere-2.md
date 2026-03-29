@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 snippet of: Voyager 1 (Wikipedia)
 timeline of: Voyager 1
 type: snippet
-url: /en.wikipedia.org/wiki/Voyager_1/exit-from-the-heliosphere-2/
+url: /en.wikipedia.org/wiki/Voyager_1/@exit-from-the-heliosphere-2/
 when: 1998-02-17
 tags:
   - Pioneer 10

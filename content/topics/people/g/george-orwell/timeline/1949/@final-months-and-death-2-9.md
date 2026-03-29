@@ -8,7 +8,7 @@ death of: George Orwell
 license: CC BY-SA 4.0
 snippet of: George Orwell (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/George_Orwell/final-months-and-death-2-9/
+url: /en.wikipedia.org/wiki/George_Orwell/@final-months-and-death-2-9/
 when: 1949-01-21
 tags:
   - death

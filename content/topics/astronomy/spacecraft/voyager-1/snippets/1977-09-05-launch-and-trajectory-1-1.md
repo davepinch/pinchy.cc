@@ -10,7 +10,7 @@ related:
   - Voyager_1_Launch.jpg (Wikimedia Commons)
 timeline of: Voyager 1
 type: snippet
-url: /en.wikipedia.org/wiki/Voyager_1/launch-and-trajectory-1-1/
+url: /en.wikipedia.org/wiki/Voyager_1/@launch-and-trajectory-1-1/
 when: 1977-09-05
 tags:
   - Cape Canaveral Air Force Station

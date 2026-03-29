@@ -4,7 +4,7 @@ title: >-
 family of: Ruth Whitfield
 snippet of: "https://spectrumlocalnews.com/nys/buffalo/news/2022/05/17/family-honors-ruth-whitfield"
 type: snippet
-url: /spectrumlocalnews.com/nys/buffalo/news/2022/05/17/family-honors-ruth-whitfield/14/
+url: /spectrumlocalnews.com/nys/buffalo/news/2022/05/17/family-honors-ruth-whitfield/@14/
 tags:
   - snippet
 ---

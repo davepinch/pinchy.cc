@@ -6,7 +6,7 @@ citation: >-
 distance of: Castor
 snippet of: Castor (star) (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Castor_(star)/physical-properties-1/
+url: /en.wikipedia.org/wiki/Castor_(star)/@physical-properties-1/
 tags:
   - distance
   - snippet

@@ -3,7 +3,7 @@ title: "Marckworth Forest is made up of state trust lands managed by the Departm
 description of: Marckworth State Forest
 snippet of: Marckworth Forest (wta.org)
 type: snippet
-url: /www.wta.org/go-hiking/hikes/marckworth-forest/2-1/
+url: /www.wta.org/go-hiking/hikes/marckworth-forest/@2-1/
 tags:
   - snippet
 ---

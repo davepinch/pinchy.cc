@@ -1,0 +1,17 @@
+---
+title: "birth of Sam Altman (Wikipedia)"
+✂️: "Altman was born on April 22, 1985, in Chicago, Illinois, into a Jewish family, and grew up in St. Louis, Missouri."
+birth in: Chicago
+birth of: Sam Altman
+citation: >-
+  Wikipedia contributors. (2025, January 5). Sam Altman. In *Wikipedia, The Free Encyclopedia*. Retrieved 07:23, January 8, 2025, from https://en.wikipedia.org/w/index.php?title=Sam_Altman&oldid=1267604906
+grew up in: St. Louis, Missouri
+license: CC BY-SA 4.0
+snippet of: Sam Altman (Wikipedia)
+type: snippet
+url: /en.wikipedia.org/wiki/Sam_Altman/@early-life-and-education-1-1/
+when: 1985-04-22
+tags:
+  - birth
+  - snippet
+---

@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "meaning of Apus (Wikipedia)"
+✂️: >-
   The name Apus is derived from the Greek apous, meaning "without feet". This referred to the Western misconception that the bird-of-paradise had no feet, which arose because the only specimens available in the West had their feet and wings removed. Such specimens began to arrive in Europe in 1522, when the survivors of Ferdinand Magellan's expedition brought them home.
 bird-of-paradise of: Ferdinand Magellan
 citation: >-

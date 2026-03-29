@@ -6,7 +6,7 @@ citation: >-
 inauguration of: William Henry Harrison
 snippet of: William Henry Harrison (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/William_Henry_Harrison/inauguration-1-2/
+url: /en.wikipedia.org/wiki/William_Henry_Harrison/@inauguration-1-2/
 when: 1841-03-04
 tags:
   - inauguration

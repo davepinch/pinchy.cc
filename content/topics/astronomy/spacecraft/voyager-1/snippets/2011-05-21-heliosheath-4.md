@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 snippet of: Voyager 1 (Wikipedia)
 timeline of: Voyager 1
 type: snippet
-url: /en.wikipedia.org/wiki/Voyager_1/heleosheath-4/
+url: /en.wikipedia.org/wiki/Voyager_1/@heleosheath-4/
 voyager 1 of: Ophiuchus
 when: 2011-05-21
 tags:

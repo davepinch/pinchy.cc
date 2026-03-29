@@ -4,7 +4,7 @@ title: >-
 character of: Andre Mackniel
 snippet of: "https://spectrumlocalnews.com/nys/buffalo/news/2022/05/27/friend--family-hold-celebration-of-life-for-andre-mackniel"
 type: snippet
-url: /spectrumlocalnews.com/nys/buffalo/news/2022/05/27/friend--family-hold-celebration-of-life-for-andre-mackniel/14-1/
+url: /spectrumlocalnews.com/nys/buffalo/news/2022/05/27/friend--family-hold-celebration-of-life-for-andre-mackniel/@14-1/
 tags:
   - snippet
 ---

@@ -13,7 +13,7 @@ moving group of:
   - Alcor
 snippet of: Alcor (star) (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Alcor_(star)/mizar-and-alcor-2-1/
+url: /en.wikipedia.org/wiki/Alcor_(star)/@mizar-and-alcor-2-1/
 tags:
   - snippet
 ---

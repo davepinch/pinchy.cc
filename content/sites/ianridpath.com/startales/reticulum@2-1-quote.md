@@ -4,7 +4,7 @@ attribution: Lacaille writing about Reticulum
 little instrument of: Reticulum
 snippet of: Star Tales - Reticulum (ianridpath.com) 
 type: quote
-url: /www.ianridpath.com/startales/reticulum.html/2-1-quote/
+url: /www.ianridpath.com/startales/reticulum.html/@2-1-quote/
 tags:
   - quote
   - Nicolas Louis de Lacaille

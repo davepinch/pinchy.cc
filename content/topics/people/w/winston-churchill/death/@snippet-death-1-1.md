@@ -11,7 +11,7 @@ death of: Winston Churchill
 license: CC BY-SA 4.0
 snippet of: "https://en.wikipedia.org/wiki/Death_and_state_funeral_of_Winston_Churchill"
 type: snippet
-url: /en.wikipedia.org/wiki/Winston_Churchill/death-1-1/
+url: /en.wikipedia.org/wiki/Winston_Churchill/@death-1-1/
 when: 1965-01-24
 tags:
   - death

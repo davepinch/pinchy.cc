@@ -3,7 +3,7 @@ title: "The falls occur as Denny Creek emerges from a narrow canyon, spreading a
 height of: Keekwulee Falls
 snippet of: Keekwulee Falls (waterfallsnorthwest.com)
 type: snippet
-url: /www.waterfallsnorthwest.com/waterfall/Keekwulee-Falls-4986/1-3/
+url: /www.waterfallsnorthwest.com/waterfall/Keekwulee-Falls-4986/@1-3/
 tags:
   - snippet
 ---

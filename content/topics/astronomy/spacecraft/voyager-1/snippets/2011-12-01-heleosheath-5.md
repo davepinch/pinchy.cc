@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 snippet of: Voyager 1 (Wikipedia)
 timeline of: Voyager 1
 type: snippet
-url: /en.wikipedia.org/wiki/Voyager_1/heleosheath-5/
+url: /en.wikipedia.org/wiki/Voyager_1/@heleosheath-5/
 when: 2011-12-01
 tags:
   - Lyman-alpha radiation

@@ -6,7 +6,7 @@ citation: >-
 death of: William Henry Harrison
 snippet of: William Henry Harrison (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/William_Henry_Harrison/death-and-funeral-3-2/
+url: /en.wikipedia.org/wiki/William_Henry_Harrison/@death-and-funeral-3-2/
 when: 1841-04-04
 tags:
   - death

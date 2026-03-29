@@ -6,7 +6,7 @@ citation: >-
 death of: William Herschel
 snippet of: William Herschel (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/William_Herschel/family-and-death-2-1/
+url: /en.wikipedia.org/wiki/William_Herschel/@family-and-death-2-1/
 when: 1822-08-25
 tags:
   - death

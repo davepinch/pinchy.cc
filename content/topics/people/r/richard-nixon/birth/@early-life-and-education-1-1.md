@@ -8,7 +8,7 @@ citation: >-
 ranch of: lemon
 snippet of: Richard Nixon (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Richard_Nixon/early-life-and-education-1-1/
+url: /en.wikipedia.org/wiki/Richard_Nixon/@early-life-and-education-1-1/
 when: 1913-01-09
 tags:
   - birth

@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "celestial sphere of Camelopardalis (Wikipedia)"
+✂️: >-
   Camelopardalis is in the part of the celestial sphere facing away from the galactic plane. Accordingly, many distant galaxies are visible within its borders.
 celestial sphere of: Camelopardalis
 citation: >-

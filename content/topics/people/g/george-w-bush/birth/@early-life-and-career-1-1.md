@@ -8,7 +8,7 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: George W. Bush (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/George_W._Bush/early-life-and-career-1-1/
+url: /en.wikipedia.org/wiki/George_W._Bush/@early-life-and-career-1-1/
 when: 1946-07-06
 tags:
   - birth

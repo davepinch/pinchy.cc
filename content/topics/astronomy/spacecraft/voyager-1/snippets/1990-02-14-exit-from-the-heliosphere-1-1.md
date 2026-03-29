@@ -7,7 +7,7 @@ license: CC BY-SA 4.0
 snippet of: Voyager 1 (Wikipedia)
 timeline of: Voyager 1
 type: snippet
-url: /en.wikipedia.org/wiki/Voyager_1/exit-from-the-heliosphere-1-1/
+url: /en.wikipedia.org/wiki/Voyager_1/@exit-from-the-heliosphere-1-1/
 when: 1990-02-14
 tags:
   - Solar System

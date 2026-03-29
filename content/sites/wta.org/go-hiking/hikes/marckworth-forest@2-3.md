@@ -5,7 +5,7 @@ facilities of:
   - "Youngs Creek"
 snippet of: Marckworth Forest (wta.org)
 type: snippet
-url: /www.wta.org/go-hiking/hikes/marckworth-forest/2-3/
+url: /www.wta.org/go-hiking/hikes/marckworth-forest/@2-3/
 tags:
   - snippet
 ---

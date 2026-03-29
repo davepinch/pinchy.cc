@@ -4,7 +4,7 @@ title: >-
 description of: Butte Creek Day-Use Area
 snippet of: "https://www.dnr.wa.gov/Yacolt"
 type: snippet
-url: /www.dnr.wa.gov/Yacolt/butte-creek-day-use-area/
+url: /www.dnr.wa.gov/Yacolt/@butte-creek-day-use-area/
 tags:
   - snippet
 ---

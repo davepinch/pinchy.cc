@@ -7,7 +7,7 @@ related:
   - reticle (en.wictionary.org)
   - "The little instrument used to draw up this catalogue."
 type: snippet
-url: /www.ianridpath.com/startales/reticulum.html/2-1/
+url: /www.ianridpath.com/startales/reticulum.html/@2-1/
 tags:
   - quote
   - Nicolas Louis de Lacaille

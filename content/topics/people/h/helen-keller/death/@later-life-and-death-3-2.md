@@ -8,7 +8,7 @@ death in: Connecticut
 license: CC BY-SA 4.0
 snippet of: Helen Keller (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Helen_Keller/later-life-and-death-3-2/
+url: /en.wikipedia.org/wiki/Helen_Keller/@later-life-and-death-3-2/
 when: 1968-06-01
 tags:
   - death

@@ -7,7 +7,7 @@ snippet of: Voyager 1 (Wikipedia)
 license: CC BY-SA 4.0
 timeline of: Voyager 1
 type: snippet
-url: /en.wikipedia.org/wiki/Voyager_1/interstellar-medium-5-1/
+url: /en.wikipedia.org/wiki/Voyager_1/@interstellar-medium-5-1/
 when: 2013-09-12
 tags:
   - intersellar medium
