@@ -7,6 +7,7 @@ retrieved: 2026-03-27
 type: website
 url: /en.wikipedia.org/wiki/Arthur_A._Denny/
 website: "https://en.wikipedia.org/wiki/Arthur_A._Denny"
+wikipedia of: Arthur Denny
 tags:
-  - wikipedia of: Arthur Denny
+  - wikipedia
 ---
