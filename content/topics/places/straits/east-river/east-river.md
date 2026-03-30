@@ -1,6 +1,7 @@
 ---
 title: "East River"
 miscategorization of: river
+openstreetmap: "https://www.openstreetmap.org/relation/5912630"
 strait of:
   - New York City
   - New York
