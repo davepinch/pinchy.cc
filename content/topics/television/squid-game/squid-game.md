@@ -1,8 +1,8 @@
 ---
 title: "Squid Game"
 game of: squid
-television series of:
+television program of:
   - dystopian fiction
 tags:
-  - television series
+  - television program
 ---
