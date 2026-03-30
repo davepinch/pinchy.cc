@@ -7,7 +7,7 @@ retrieved: 2026-03-27
 type: website
 url: /en.wikipedia.org/wiki/Viretta_Park/
 website: "https://en.wikipedia.org/wiki/Viretta_Park"
-wikipedia of: Virette Park
+wikipedia of: Viretta Park
 tags:
   - Wikipedia
 ---
