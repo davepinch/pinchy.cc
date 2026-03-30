@@ -2,6 +2,19 @@
 title: "Scratchpad"
 draft: true
 ---
+
+3/29
+Find an object in your room and look at it.
+Imagine a line extending from your head to the object.
+As you move, so does the line.
+Find a second object and visualize the triangle.
+Extend a line to all things in your consciousness.
+This is your shape at the moment.
+Look for an astronomical object at night.
+Your shape extends beyond the galaxy.
+Look at a remnant of the past.
+Your shape transcends dimensions.
+
 3/15:
 https://courses.washington.edu/ess210/Laboratory_files/WhidbeyComplete.pdf
 
