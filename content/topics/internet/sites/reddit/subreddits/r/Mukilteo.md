@@ -1,6 +1,8 @@
 ---
 title: "r/Mukilteo"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "Subreddit for Mukilteo, Washington - The Lighthouse Town"
 subreddit of:
   - Mukilteo, Washington

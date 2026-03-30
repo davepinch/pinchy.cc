@@ -1,6 +1,8 @@
 ---
 title: "r/Marysville"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "Marysville, WA - The First Marysville on Reddit. News, Information and Discussion from Marysville, Washington and the surrounding area of Snohomish County."
 subreddit of:
   - Marysville, Washington

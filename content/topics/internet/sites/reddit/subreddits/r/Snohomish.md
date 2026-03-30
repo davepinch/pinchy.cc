@@ -1,6 +1,8 @@
 ---
 title: "r/Snohomish"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "Snohomish, WA. News and current events in or about Snohomosh, WA, USA"
 subreddit of:
   - Snohomish, Washington

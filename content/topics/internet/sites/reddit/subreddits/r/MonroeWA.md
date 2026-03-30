@@ -1,6 +1,8 @@
 ---
 title: "r/MonroeWA"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "Reddit community for Monroe, WA specific local news and discussion."
 subreddit of:
   - Monroe, Washington

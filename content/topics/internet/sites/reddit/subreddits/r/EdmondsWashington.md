@@ -1,6 +1,8 @@
 ---
 title: "r/EdmondsWashington"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "An Edmonds kind of subreddit."
 subreddit of:
   - Edmonds, Washington

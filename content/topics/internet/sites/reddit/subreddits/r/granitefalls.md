@@ -1,6 +1,8 @@
 ---
 title: "r/granitefalls"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "A subreddit for the redditors who reside in Granite Falls, WA."
 subreddit of:
   - Granite Falls, Washington

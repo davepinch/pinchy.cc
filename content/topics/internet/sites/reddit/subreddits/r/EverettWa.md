@@ -1,6 +1,8 @@
 ---
 title: "r/EverettWa"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "Come, let's talk about our city of Everett. The good, the bad, and even the ugly!"
 subreddit of:
   - Everett, Washington

@@ -1,6 +1,8 @@
 ---
 title: "r/bothell"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "For a day or a lifetime."
 subreddit of:
   - Bothell, Washington

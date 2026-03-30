@@ -1,6 +1,8 @@
 ---
 title: "r/mountlaketerrace"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "Just a subreddit for us MLTers."
 subreddit of:
   - Mountlake Terrace, Washington

@@ -1,6 +1,8 @@
 ---
 title: "r/LakeStevens"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "A subreddit for the city of Lake Stevens, WA. In Snohomish County."
 subreddit of:
   - Lake Stevens, Washington

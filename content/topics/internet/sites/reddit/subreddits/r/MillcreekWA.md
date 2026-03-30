@@ -1,6 +1,8 @@
 ---
 title: "r/MillcreekWA"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "All about the small yet beautiful town of Washington. Millcreek is located right by Bothell and Snohomish. Stay safe everyone."
 subreddit of:
   - Mill Creek, Washington

@@ -1,6 +1,8 @@
 ---
 title: "r/arlingtonwa"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "For the community in Arlington, Washington and the surrounding area"
 subreddit of:
   - Arlington, Washington

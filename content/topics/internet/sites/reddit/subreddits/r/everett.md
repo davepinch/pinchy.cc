@@ -1,6 +1,8 @@
 ---
 title: "r/everett"
-city of: r/Washington
+city of:
+  - r/SnohomishCounty
+  - r/Washington
 description: "News and current events for Everett, WA"
 discord: "https://discord.gg/beUEBfhHe6"
 subreddit of:
