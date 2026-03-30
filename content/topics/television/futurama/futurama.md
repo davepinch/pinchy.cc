@@ -1,7 +1,7 @@
 ---
 title: "Futurama"
-television series of:
+television program of:
   - cryonics
 tags:
-  - animated television series
+  - television program
 ---
