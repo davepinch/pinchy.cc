@@ -1,6 +1,7 @@
 ---
 title: "r/AskHistorians"
 description: "The Portal for Public History. Please read the rules before participating, as we remove all comments which break the rules. Answers must be in-depth and comprehensive, or they will be removed."
+specialization of: r/AskReddit
 subreddit of:
   - history
   - reddit

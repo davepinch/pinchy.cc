@@ -1,6 +1,8 @@
 ---
 title: "r/AskPhysics"
 description: "Ask Physics"
+see also: r/AskAstronomy
+specialization of: r/AskReddit
 subreddit of:
   - physics
   - reddit
