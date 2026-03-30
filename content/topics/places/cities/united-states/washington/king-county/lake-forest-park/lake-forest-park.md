@@ -19,6 +19,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/237357"
 southwest corner: Olympic Hills, Seattle
 suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q1514977"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Forest_Park,_Washington"
 tags:
   - suburb
   - city

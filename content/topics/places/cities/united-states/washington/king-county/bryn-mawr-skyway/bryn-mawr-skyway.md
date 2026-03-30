@@ -12,6 +12,7 @@ census-designated place of:
   - Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237383"
 wikidata: "https://www.wikidata.org/entity/Q1508150"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bryn_Mawr-Skyway,_Washington"
 tags:
   - census-designated place
 ---

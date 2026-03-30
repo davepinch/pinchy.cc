@@ -17,6 +17,8 @@ near: Cathcart, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237656"
 suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q303046"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bothell,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Bothell"
 tags:
   - city
 ---

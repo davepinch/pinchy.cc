@@ -12,6 +12,7 @@ city of:
   - Washington State Route 520
 openstreetmap: "https://www.openstreetmap.org/relation/237359"
 wikidata: "https://www.wikidata.org/entity/Q1506847"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Medina,_Washington"
 tags:
   - city
 ---

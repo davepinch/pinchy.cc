@@ -13,6 +13,7 @@ census-designated place of:
 openstreetmap: "https://www.openstreetmap.org/relation/237545"
 vicinity of: Duvall, Washington
 wikidata: "https://www.wikidata.org/entity/Q1502643"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cottage_Lake,_Washington"
 tags:
   - census-designated place
 ---

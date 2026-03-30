@@ -9,6 +9,8 @@ city of:
 note: This is the city that resides on the island of the same name.
 openstreetmap: "https://www.openstreetmap.org/relation/237360"
 wikidata: "https://www.wikidata.org/entity/Q954095"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Mercer_Island,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Mercer_Island"
 tags:
   - city
 ---

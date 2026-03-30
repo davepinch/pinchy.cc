@@ -13,6 +13,8 @@ clockwise around lake sammamish: Bellevue, Washington
 near: Squak Mountain
 openstreetmap: "https://www.openstreetmap.org/relation/237874"
 wikidata: "https://www.wikidata.org/entity/Q40251"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Issaquah,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Issaquah"
 tags:
   - city
 ---

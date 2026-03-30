@@ -13,6 +13,8 @@ city of:
 clockwise around lake sammamish: Sammamish, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237376"
 wikidata: "https://www.wikidata.org/entity/Q223718"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Redmond,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Redmond_(Washington)"
 tags:
   - city
 ---

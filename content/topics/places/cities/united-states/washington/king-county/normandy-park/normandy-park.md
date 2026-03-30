@@ -13,6 +13,7 @@ city of:
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/237348"
 wikidata: "https://www.wikidata.org/entity/Q1502377"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Normandy_Park,_Washington"
 tags:
   - city
 ---

@@ -13,4 +13,5 @@ openstreetmap: "https://www.openstreetmap.org/relation/237544"
 wikidata: "https://www.wikidata.org/wiki/Q1514861"
 tags:
   - cenus-designated place
+  - no Wikimedia category
 ---

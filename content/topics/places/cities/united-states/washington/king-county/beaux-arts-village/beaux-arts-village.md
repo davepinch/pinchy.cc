@@ -9,6 +9,7 @@ town of:
   - Washington
   - Lake Washington
 wikidata: "https://www.wikidata.org/entity/Q1507898"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Beaux_Arts_Village,_Washington"
 tags:
   - town
 ---

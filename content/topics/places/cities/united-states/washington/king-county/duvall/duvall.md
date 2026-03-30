@@ -6,6 +6,7 @@ city of:
   - Snoqualmie River
 openstreetmap: "https://www.openstreetmap.org/relation/237872"
 wikidata: "https://www.wikidata.org/entity/Q1362720"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Duvall,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Duvall%2C_Washington"
 tags:
   - city

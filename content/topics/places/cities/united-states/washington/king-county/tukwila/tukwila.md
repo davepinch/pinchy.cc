@@ -17,6 +17,8 @@ city of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237384"
 wikidata: "https://www.wikidata.org/entity/Q1510339"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Tukwila,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Tukwila"
 tags:
   - city
 ---

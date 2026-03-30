@@ -9,6 +9,7 @@ census-designated place of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237355"
 wikidata: "https://www.wikidata.org/entity/Q1503763"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lakeland_North"
 tags:
   - census-designated place
 ---
