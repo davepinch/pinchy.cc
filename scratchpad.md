@@ -2,6 +2,8 @@
 title: "Scratchpad"
 draft: true
 ---
+3/31
+https://www.seattle.gov/documents/Departments/CityArchive/Sherwood/DennyBlaineLakePk.pdf
 
 3/31 12:37AM
 There is a portal to another world in a field.
