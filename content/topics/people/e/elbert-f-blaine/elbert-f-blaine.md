@@ -1,5 +1,6 @@
 ---
 title: "Elbert F. Blaine"
+also knwon as: E. F. Blaine
 person of: Seattle
 tags:
   - male
