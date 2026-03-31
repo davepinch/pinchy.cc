@@ -2,7 +2,6 @@
 title: "Fort Ebey State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/fort-ebey-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3738460"
-postal address: "400 Hill Valley Drive, Coupeville, WA 98239"
 state park of:
   - Washington
   - Ebey's Landing National Historical Reserve

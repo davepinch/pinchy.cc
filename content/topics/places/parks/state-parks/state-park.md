@@ -6,8 +6,8 @@ state of: park
 tag requires property:
   - official website
   - OpenStreetMap
-  - postal address
   - state park of
   - Wikidata
+  - Wikimedia
   - Wikipedia
 ---

@@ -6,7 +6,6 @@ borders:
   - Gifford Pinchot National Forest
 official website: "https://parks.wa.gov/find-parks/state-parks/columbia-hills-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/8151008"
-postal address: "8514 Lewis and Clark Highway, Lyle, WA 98617"
 state park of:
   - Washington
   - Columbia River

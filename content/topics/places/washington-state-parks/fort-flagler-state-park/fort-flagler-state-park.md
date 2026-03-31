@@ -2,7 +2,6 @@
 title: "Fort Flagler State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/fort-flagler-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/way/758305488"
-postal address: "10541 Flagler Road, Nordland, WA 98358"
 state park of:
   - Marrowstone Island
   - Kilisut Harbor
