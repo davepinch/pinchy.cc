@@ -14,4 +14,4 @@ when: 2016-09-03
 tags:
   - photograph
 ---
-An illustration on a flier posted near 15th and Madison in Seattle for an unknown July 9, 2016 event. I have been unable to identify the source of this drawing.
+An illustration on a flyer posted near 15th and Madison in Seattle for an unknown July 9, 2016 event. I have been unable to identify the source of this drawing.

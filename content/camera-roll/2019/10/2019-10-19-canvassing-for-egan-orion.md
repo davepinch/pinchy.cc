@@ -1,11 +1,11 @@
 ---
 title: "Canvassing for Egan Orion"
 author: David Pinch
+flyer of: Egan Orion
 license: CC BY-SA 4.0
 photograph of:
   - pumpkin
-  - flier
-  - Egan Orion
+  - flyer
 picture: content/camera-roll/2019/10/2019-10-19-canvassing-for-egan-orion/canvassing-for-egan-orion.jpg
 related:
   - Kshama Sawant (Wikipedia)
