@@ -1,6 +1,7 @@
 ---
 title: "r/employeesOfOracle"
 description: "This subreddit is an independent forum for Oracle employees and alumni to discuss careers, workplace experiences, news, and everything related to working at Oracle. Unlike official PR-managed spaces, we believe in transparency and open dialogue — the good, the bad, and everything in between."
+employees of: r/oracle
 subreddit of:
   - Oracle Corporation
   - reddit
