@@ -9,8 +9,9 @@ found dead in:
   - Lake Washington Boulevard
   - Seattle
 license: CC BY-SA 4.0
-snippet of: Kurt Cobain (Wikipedia)
-snippet of: found dead
+snippet of:
+  - Kurt Cobain (Wikipedia)
+  - found dead
 type: snippet
 url: /en.wikipedia.org/wiki/Kurt_Cobain/@death-7-1/
 when: 1994-04-08
