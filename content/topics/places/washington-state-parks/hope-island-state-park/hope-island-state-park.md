@@ -11,4 +11,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Hope_Island_State_Park_(Skagit_County,
 tags:
   - state park
   - Discover Pass required
+  - no Wikimedia category
 ---

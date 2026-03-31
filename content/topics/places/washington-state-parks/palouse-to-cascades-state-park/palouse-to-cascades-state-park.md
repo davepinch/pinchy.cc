@@ -9,6 +9,7 @@ state park of:
   - Cascade Range
 conversion of: railway
 wikidata: "https://www.wikidata.org/wiki/Q14713715"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:John_Wayne_Pioneer_Trail"
 wikipedia: "https://en.wikipedia.org/wiki/Palouse_to_Cascades_State_Park_Trail"
 tags:
   - state park

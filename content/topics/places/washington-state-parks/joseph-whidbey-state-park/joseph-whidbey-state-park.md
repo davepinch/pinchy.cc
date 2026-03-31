@@ -13,4 +13,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Joseph_Whidbey_State_Park"
 tags:
   - state park
   - Discover Pass required
+  - no Wikimedia category
 ---

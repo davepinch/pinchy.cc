@@ -12,4 +12,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Fort_Casey_State_Park"
 tags:
   - state park
   - Discover Pass required
+  - no Wikimedia category
 ---

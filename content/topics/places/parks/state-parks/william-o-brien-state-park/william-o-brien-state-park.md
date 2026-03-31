@@ -10,6 +10,7 @@ state park of:
   - Saint Croix River
   - Minnesota State Highway 95
 wikidata: "https://www.wikidata.org/wiki/Q8016225"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:William_O%27Brien_State_Park"
 tags:
   - state park
 ---

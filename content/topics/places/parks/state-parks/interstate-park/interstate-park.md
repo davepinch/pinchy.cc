@@ -18,6 +18,7 @@ state park of:
 wikidata:
   - "https://www.wikidata.org/wiki/Q49505271 (MN)"
   - "https://www.wikidata.org/wiki/Q6057075 (WI)"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Interstate_State_Park"
 tags:
   - state park
 ---
