@@ -3,6 +3,14 @@ title: "Scratchpad"
 draft: true
 ---
 
+3/31 12:37AM
+There is a portal to another world in a field.
+It is not a door, but rather a change to the environment as you walk.
+As such, the portal is invisible in a sense.
+If you walk in the right direction, the environment shifts in subtle ways.
+Pause to look around, and you realize you are in a different world.
+
+
 3/29
 Find an object in your room and look at it.
 Imagine a line extending from your head to the object.
