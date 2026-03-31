@@ -1,6 +1,7 @@
 ---
 title: "Cal Anderson Park"
 city park of:
+  - Pine Street
   - Capitol Hill, Seattle
   - Seattle
   - King County, Washington
