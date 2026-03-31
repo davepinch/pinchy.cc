@@ -1,10 +1,10 @@
 ---
 title: "Denny-Blaine, Seattle"
-borders:
+borders or overlaps:
   - Lake Washington
   - Madison Park, Seattle
   - Madrona, Seattle
-  - incomplete list
+  - Washington Park, Seattle
 namesake of:
   - Charles Latimer Denny
   - Elbert F. Blaine

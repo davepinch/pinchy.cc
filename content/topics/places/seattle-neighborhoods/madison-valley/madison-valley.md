@@ -1,5 +1,10 @@
 ---
 title: "Madison Valley, Seattle"
+borders or overlaps:
+  - Denny-Blaine, Seattle
+  - Madrona, Seattle
+  - Stevens, Seattle
+  - Washington Park, Seattle
 neighborhood of: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/1998447264"
 wikidata: "https://www.wikidata.org/wiki/Q14713802"
