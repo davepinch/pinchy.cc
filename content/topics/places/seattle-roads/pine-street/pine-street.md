@@ -1,5 +1,6 @@
 ---
 title: "Pine Street"
+parallel with: Pike Street
 road of:
   - Downtown Seattle
   - Capitol Hill, Seattle

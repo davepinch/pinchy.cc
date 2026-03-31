@@ -1,5 +1,6 @@
 ---
 title: "Pike Street"
+parallel with: Pine Street
 roadway of:
   - Downtown Seattle
   - Capitol Hill, Seattle
