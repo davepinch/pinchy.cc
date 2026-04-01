@@ -5,7 +5,6 @@ person of:
   - Palestine
 wikidata: "https://www.wikidata.org/wiki/Q22690797"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Yahya_al-Sinwar"
-wikipedia: "https://en.wikipedia.org/wiki/Yahya_Sinwar"
 wikiquote: "https://en.wikiquote.org/wiki/Yahya_Sinwar"
 tags:
   - male
