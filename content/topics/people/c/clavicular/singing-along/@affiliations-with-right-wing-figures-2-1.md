@@ -10,7 +10,7 @@ singing along of:
   - Nick Fuentes
   - Clavicular
   - Sneako
-  - Triston Tate
+  - Tristan Tate
   - Andrew Tate
   - Myron Gaines
   - Justin Waller
