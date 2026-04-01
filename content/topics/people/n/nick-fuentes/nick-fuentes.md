@@ -1,6 +1,6 @@
 ---
 title: "Nick Fuentes"
-type: person
+person of: manosphere
 wikidata: "https://www.wikidata.org/wiki/Q51120751"
 tags:
   - right-wing
