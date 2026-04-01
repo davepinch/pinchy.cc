@@ -1,7 +1,7 @@
 ---
 title: "Yahya Sinwar"
-born in: Gaza Strip
-person of:
+born in:
+  - Khan Yunis
   - Gaza Strip
   - Palestine
 wikidata: "https://www.wikidata.org/wiki/Q22690797"
