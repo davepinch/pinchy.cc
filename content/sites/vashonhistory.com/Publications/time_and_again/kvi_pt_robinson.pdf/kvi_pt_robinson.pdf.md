@@ -7,7 +7,7 @@ history of:
   - Point Heyer
   - Point Robinson
   - Point Robinson Park
-pdf: https://vashonhistory.com/Publications/time_and_again/kvi_pt_robinson.pdf"
+pdf: "https://vashonhistory.com/Publications/time_and_again/kvi_pt_robinson.pdf"
 type: pdf
 url: /vashonhistory.com/Publications/time_and_again/kvi_pt_robinson.pdf/
 when: 2010-04-07
