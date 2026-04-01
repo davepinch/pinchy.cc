@@ -5,6 +5,7 @@ title: "birth of Clavicular (Wikipedia)"
 citation: >-
   Wikipedia contributors. (2026, March 31). Clavicular (person). In *Wikipedia, The Free Encyclopedia*. Retrieved 11:33, April 1, 2026, from https://en.wikipedia.org/w/index.php?title=Clavicular_(person)&oldid=1346423531
 license: CC BY-SA 4.0
+singing along in: Vendôme
 singing along of:
   - Nick Fuentes
   - Clavicular
