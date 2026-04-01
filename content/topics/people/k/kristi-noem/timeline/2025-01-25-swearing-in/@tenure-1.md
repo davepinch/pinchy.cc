@@ -7,7 +7,8 @@ license: CC BY-SA 4.0
 snippet in: Kristi Noem (Wikipedia)
 snippet of: Governor of South Dakota
 swearing in by: Clarence Thomas
-swearing in of: Kristi Noem
+swearing in of: 8th United States Secretary of Homeland Security
+timeline of: Kristi Noem
 type: snippet
 url: /en.wikipedia.org/wiki/Kristi_Noem/@tenure-1/
 when: 2025-01-25

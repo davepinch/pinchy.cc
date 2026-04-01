@@ -3,6 +3,7 @@ title: "Kristi Noem is Sworn In as Secretary of Homeland Security (250125-H-KS21
 description: "Kristi Noem was confirmed by the U.S. Senate in a vote of 59-34 and sworn in as the Secretary of the Department of Homeland Security by U.S. Supreme Court Justice Clarence Thomas."
 license: public domain
 photograph of:
+  - 8th United States Secretary of Homeland Security
   - Clarence Thomas
   - Kristi Noem
   - Jeff Landry
