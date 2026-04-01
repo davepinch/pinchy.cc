@@ -1,5 +1,6 @@
 ---
 title: "Yahya Sinwar"
+born in: Gaza Strip
 person of:
   - Gaza Strip
   - Palestine
