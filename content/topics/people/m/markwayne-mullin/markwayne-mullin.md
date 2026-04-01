@@ -1,5 +1,6 @@
 ---
 title: "Markwayne Mullin"
+born in: Oklahoma
 wikidata: "https://www.wikidata.org/wiki/Q3448772"
 wikiquote: "https://en.wikiquote.org/wiki/Markwayne_Mullin"
 tags:
