@@ -1,6 +1,7 @@
 ---
 title: "Michael Knowles"
 born in: New York
+official website: "https://www.michaeljknowles.com/"
 wikidata: "https://www.wikidata.org/wiki/Q39798788"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Michael_J._Knowles"
 wikiquote: "https://en.wikiquote.org/wiki/Michael_J._Knowles"
