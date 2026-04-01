@@ -3,6 +3,9 @@ title: "Scratchpad"
 draft: true
 ---
 
+3/31
+https://hackneyfarm.com/, while looking up the history of Arden Hills
+
 3/31/26
 https://www.reddit.com/r/PeterExplainsTheJoke/comments/1s8m9y7/peter_whats_up_with_the_tower/
 Tower of Babel quote
