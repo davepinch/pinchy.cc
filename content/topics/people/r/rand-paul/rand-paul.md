@@ -1,5 +1,9 @@
 ---
 title: "Rand Paul"
+born in:
+  - Pittsburgh, Pennsylvania
+  - Pennsylvania
+  - United States
 member of: Republican Party
 senator of: Kentucky
 wikidata: "https://www.wikidata.org/wiki/Q463557"
