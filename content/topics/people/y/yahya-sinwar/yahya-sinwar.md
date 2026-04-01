@@ -14,4 +14,5 @@ tags:
   - politician  
   - human being
   - dead at the moment
+  - found dead
 ---
