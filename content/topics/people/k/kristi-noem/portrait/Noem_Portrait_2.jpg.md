@@ -8,6 +8,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Kristi_Noe
 type: picture
 url: /commons.wikimedia.org/wiki/Kristi_Noem_Portrait_2.jpg
 website: "https://commons.wikimedia.org/wiki/File:Kristi_Noem_Portrait_2.jpg"
+when: 2023-04-23
 tags:
   - portrait
   - Wikimedia Commons
