@@ -1,6 +1,7 @@
 ---
 title: "Snakelum Point"
 also known as:
+  - Snatelum Point
   - Watsack Point
   - Watsak Point
 cape of:
@@ -9,11 +10,10 @@ cape of:
   - Ebey's Landing National Historical Reserve
   - Island County, Washington
   - Washington
-openstreetmap: "https://www.openstreetmap.org/query?lat=48.222757&lon=-122.628772 (approximate)"
+openstreetmap: "https://www.openstreetmap.org/node/13449208781"
 vicinity of: Penn Cove
+wikidata: "https://www.wikidata.org/wiki/Q137765549"
 tags:
   - cape
-  - no OpenStreetMap element
-  - no Wikidata record
   - no Wikipedia article
 ---
