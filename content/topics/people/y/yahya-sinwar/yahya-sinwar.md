@@ -1,7 +1,7 @@
 ---
 title: "Yahya Sinwar"
 born in:
-  - Khan Yunis
+  - Khan Yunis refugee camp
   - Gaza Strip
   - Palestine
 wikidata: "https://www.wikidata.org/wiki/Q22690797"
