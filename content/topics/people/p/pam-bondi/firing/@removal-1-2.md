@@ -8,6 +8,7 @@ pam bondi of: Donald Trump
 snippet of: Pam Bondi (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Pam_Bondi/@removal-1-2/
+when: 2026-04-02
 tags:
   - snippet
 ---
