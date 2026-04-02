@@ -1,11 +1,13 @@
 ---
 title: "People fishing at Wakefield Park drain"
 license: CC BY-SA 4.0
+fishing of:
+  - Wakefield Lake
+  - Wakefield Park
 moment of:
   - urban exploration
   - Maplewood, Minnesota
 photograph of:
-  - Wakefield Park
   - drain
   - fishing
   - outfall
