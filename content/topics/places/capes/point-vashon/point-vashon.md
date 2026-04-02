@@ -8,8 +8,8 @@ google maps: "https://maps.app.goo.gl/JLeSbrYD6edspSXg6"
 note: Point Vashon is an old name for cape at the northern tip of Vashon Island. The boundaries are not clear. The point is recognized by Google but not recognized by Bing or OpenStreetMap.
 openstreetmap: "https://www.openstreetmap.org/node/13339714321"
 warning: Point Vashon Drive Southwest turns into a private road near the point.
+wikidata: "https://www.wikidata.org/wiki/Q137657381"
 tags:
   - cape
-  - no Wikidata record
   - no Wikipedia article
 ---
