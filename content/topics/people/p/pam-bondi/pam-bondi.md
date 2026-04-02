@@ -1,8 +1,8 @@
 ---
 title: "Pam Bondi"
-attorney general of:
-  - United States
-  - Donald Trump
+former of:
+  - United States Attorney General
+  - Attorney General of Florida
 wikidata: "https://www.wikidata.org/wiki/Q7128915"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pam_Bondi"
 wikiquote: "https://en.wikiquote.org/wiki/Pam_Bondi"
