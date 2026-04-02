@@ -2,7 +2,7 @@
 title: "childhood in of Andrew Tate (Wikipedia)"
 ✂️: "He [Andrew Tate] was raised in Chicago, Illinois, and Goshen, Indiana."
 childhood in:
-  - Chicago, Illinois
+  - Chicago
   - Illinois
   - Indiana
 childhood of: Andrew Tate
