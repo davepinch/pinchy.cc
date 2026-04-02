@@ -7,8 +7,8 @@ cape of:
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/1264155844"
+wikidata: "https://www.wikidata.org/wiki/Q137656207"
 tags:
   - cape
-  - no Wikidata record
   - no Wikipedia article
 ---
