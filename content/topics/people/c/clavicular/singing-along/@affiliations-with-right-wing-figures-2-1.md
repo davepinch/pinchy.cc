@@ -1,5 +1,5 @@
 ---
-title: "birth of Clavicular (Wikipedia)"
+title: "signing along of Clavicular (Wikipedia)"
 ✂️: >-
   A video of Fuentes, Peters [Clavicular], and right-wing influencers Sneako, Tristan Tate, Andrew Tate, Myron Gaines, and Justin Waller singing along to Kanye West's antisemitic 2025 song "Heil Hitler" at the Miami Beach nightclub Vendôme also circulated online in January 2026.
 citation: >-
