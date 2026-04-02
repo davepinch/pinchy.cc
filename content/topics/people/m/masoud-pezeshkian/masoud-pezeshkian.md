@@ -1,5 +1,6 @@
 ---
 title: "Masoud Pezeshkian"
+⬅️: Ebrahim Raisi
 president of: Iran
 wikidata: "https://www.wikidata.org/wiki/Q5933752"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Masoud_Pezeshkian"
