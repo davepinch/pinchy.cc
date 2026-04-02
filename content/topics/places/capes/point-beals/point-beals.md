@@ -7,10 +7,9 @@ cape of:
   - Vashon, Washington
   - King County, Washington
   - Washington
-openstreetmap: "https://www.openstreetmap.org/query?lat=47.466038&lon=-122.434033 (approximate)"
+openstreetmap: "https://www.openstreetmap.org/node/13424485288"
+wikidata: "https://www.wikidata.org/wiki/Q137659503"
 tags:
   - cape
-  - no OpenStreetMap element
-  - no Wikidata record
   - no Wikipedia article
 ---
