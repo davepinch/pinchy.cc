@@ -6,6 +6,7 @@ friend:
   - Pál Szalai
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q152850"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Raoul_Wallenberg"
 tags:
   - Swedish
   - humanitarian

@@ -8,6 +8,7 @@ died in:
   - Washington
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1387828"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Russell_Johnson"
 tags:
   - American
   - actor

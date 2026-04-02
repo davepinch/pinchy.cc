@@ -1,6 +1,5 @@
 ---
 title: "Rebecca Ebey"
-type: person
 wife of: Isaac Ebey
 tags:
   - human being

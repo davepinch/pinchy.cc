@@ -8,6 +8,8 @@ scientist of:
   - physics
   - quantum mechanics
 wikidata: "https://www.wikidata.org/wiki/Q39246"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Richard_Feynman"
+wikiquote: "https://en.wikiquote.org/wiki/Richard_Feynman"
 tags:
   - scientist
   - physicist

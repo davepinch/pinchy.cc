@@ -4,7 +4,6 @@ person of:
   - Whidbey Island
   - Island County, Washington
   - Washington
-type: person
 tags:
   - settler
   - human being

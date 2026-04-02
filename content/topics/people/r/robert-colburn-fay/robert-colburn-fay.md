@@ -1,7 +1,6 @@
 ---
 title: "Robert Colburn Fay"
 person of: Whidbey Island
-type: person
 tags:
   - pioneer
   - human being
