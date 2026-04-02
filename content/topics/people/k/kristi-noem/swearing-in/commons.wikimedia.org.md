@@ -14,5 +14,6 @@ url: /commons.wikimedia.org/wiki/Kristi_Noem_is_Sworn_In_as_Secretary_of_Homelan
 website: "https://commons.wikimedia.org/wiki/File:Kristi_Noem_is_Sworn_In_as_Secretary_of_Homeland_Security_(250125-H-KS211-0008).jpg"
 when: 2025-01-25
 tags:
+  - photograph
   - Wikimedia Commons
 ---
