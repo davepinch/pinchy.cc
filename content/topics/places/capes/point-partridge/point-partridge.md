@@ -9,11 +9,10 @@ cape of:
   - Island County, Washington
   - Washington
 note: There is no specific element in OpenStreetMap for Point Partridge. The OpenStreetMap link is based on the coordinates from the Wikipedia article.
-openstreetmap: "https://www.openstreetmap.org/?mlat=48.224722&mlon=-122.770278"
+openstreetmap: "https://www.openstreetmap.org/node/13457464086"
 westernmost point of: Whidbey Island
 wikidata: "https://www.wikidata.org/wiki/Q7208109"
 wikipedia: "https://en.wikipedia.org/wiki/Point_Partridge"
 tags:
   - cape
-  - no OpenStreetMap element
 ---
