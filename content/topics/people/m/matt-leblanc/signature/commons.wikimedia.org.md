@@ -3,6 +3,7 @@ title: "Matt LeBlanc signature.svg (Wikimedia Commons)"
 author:
   - Matt LeBlanc (signature)
   - Sinigh (vectorization)
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Matt_LeBlanc_signature.svg"
 signature of:
   - Matt LeBlanc
