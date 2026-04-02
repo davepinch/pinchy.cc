@@ -5,6 +5,9 @@ person of:
   - Bible
 apostle of: Jesus
 wikidata: "https://www.wikidata.org/wiki/Q9200"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Saint_Paul"
+wikiquote: "https://en.wikiquote.org/wiki/Paul_of_Tarsus"
+wikisource: "https://en.wikisource.org/wiki/Author:Paul_of_Tarsus"
 tags:
   - apostle
   - human being
