@@ -7,7 +7,6 @@ borders:
   - Lebanon
   - Mediterranean Sea
   - Turkey
-clockwise around the mediterranean: Lebanon
 country of:
   - Middle East
   - West Asia

@@ -1,6 +1,5 @@
 ---
 title: "Greece"
-clockwise around the mediterranean: Turkey
 country of:
   - Southeast Europe
   - Europe

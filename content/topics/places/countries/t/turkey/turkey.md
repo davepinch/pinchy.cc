@@ -14,7 +14,6 @@ borders:
   - Nakhchivan Autonomous Republic
   - Syria
 clockwise around the black sea: Bulgaria
-clockwise around the mediterranean: Syria
 country of:
   - Southeast Europe
   - Middle East

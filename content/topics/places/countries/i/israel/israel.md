@@ -13,7 +13,6 @@ borders:
   - Sinai Peninsula
   - Syria
   - West Bank
-clockwise around the mediterranean: Gaza Strip
 clockwise around the red sea: Jordan
 country of:
   - Middle East

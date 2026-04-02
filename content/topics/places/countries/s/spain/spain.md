@@ -10,7 +10,6 @@ borders:
   - Portugal
   - Strait of Gibraltar
   - incomplete list
-clockwise around the mediterranean: Barcelona
 country of:
   - Europe
   - Atlantic Ocean

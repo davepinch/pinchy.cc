@@ -12,7 +12,6 @@ borders (maritime):
   - Greece
   - Italy
   - Malta
-clockwise around the mediterranean: Tunisia
 country of:
   - Africa
   - Mediterranean Sea

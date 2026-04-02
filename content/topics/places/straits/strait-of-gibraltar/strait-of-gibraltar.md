@@ -1,6 +1,5 @@
 ---
 title: "Strait of Gibraltar"
-clockwise around the mediterranean: Spain
 strait of:
   - Atlantic Ocean
   - Mediterranean Sea

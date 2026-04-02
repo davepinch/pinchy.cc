@@ -9,7 +9,6 @@ borders:
   - Niger
   - Tunisia
   - Western Sahara
-clockwise around the mediterranean: Morocco
 country of:
   - Africa
   - Mediterranean Sea

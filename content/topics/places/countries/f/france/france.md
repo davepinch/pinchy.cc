@@ -13,10 +13,6 @@ borders:
   - Atlantic Ocean
   - Mediterranean Sea
 capital: Paris
-clockwise around the mediterranean:
-  - Marseille
-  - Monaco
-  - Italy
 country of:
   - Western Europe
   - Northwestern Europe

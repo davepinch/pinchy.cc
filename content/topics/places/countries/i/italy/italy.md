@@ -1,7 +1,6 @@
 ---
 title: "Italy"
 capital: Rome
-clockwise around the mediterranean: Slovenia
 country of:
   - Southern Europe
   - Western Europe

@@ -8,7 +8,6 @@ borders:
   - Mediterranean Sea
   - Montenegro
   - North Macedonia
-clockwise around the mediterranean: Greece
 country of:
   - Southeast Europe
   - Mediterranean Sea

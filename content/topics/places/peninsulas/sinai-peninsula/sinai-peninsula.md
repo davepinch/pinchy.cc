@@ -7,7 +7,6 @@ borders:
   - Israel
   - Mediterranean Sea
   - Palestine
-clockwise around the mediterranean: Alexandria
 openstreetmap: "https://www.openstreetmap.org/relation/5632534"
 peninsula of:
   - Egypt
