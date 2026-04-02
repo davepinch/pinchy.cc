@@ -8,6 +8,7 @@ died in:
   - United States
 murder victim of: Wyoming
 wikidata: "https://www.wikidata.org/wiki/Q313244"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Matthew_Shepard"
 tags:
   - American
   - human being

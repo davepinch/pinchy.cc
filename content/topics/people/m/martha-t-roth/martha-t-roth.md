@@ -7,5 +7,6 @@ tags:
   - American
   - professor
   - human being
+  - no Wikimedia category
   - no Wikipedia article
 ---

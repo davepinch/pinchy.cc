@@ -6,5 +6,6 @@ wikidata: "https://www.wikidata.org/wiki/Q112045127"
 tags:
   - mass shooting victim
   - human being
+  - no Wikimedia category
   - no Wikipedia article
 ---
