@@ -12,5 +12,6 @@ url: /commons.wikimedia.org/wiki/Senate_Judiciary_Committee_Hearing_-_5512863427
 website: "https://commons.wikimedia.org/wiki/File:Senate_Judiciary_Committee_Hearing_-_55128634272.jpg"
 when: 2026-03-03
 tags:
+  - photograph
   - Wikimedia Commons
 ---
