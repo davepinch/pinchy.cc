@@ -7,12 +7,11 @@ cape of:
   - Island County, Washington
   - Washington
 note: The Wikidata article for Possession Point says that Skagit Head is an alternate name of Possession Point. However, Skagit Head is listed by MapCarta to refer to Skatchet Head.
-openstreetmap: "https://www.openstreetmap.org/?mlat=47.905928&mlon=-122.388749"
+openstreetmap: "https://www.openstreetmap.org/node/13453042782"
 see: Scatchet Head
 southernmost point of: Whidbey Island
 wikidata: "https://www.wikidata.org/wiki/Q108050532"
 tags:
   - cape
-  - no OpenStreetMap element
   - no Wikipedia article
 ---
