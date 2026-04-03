@@ -2,6 +2,7 @@
 title: "Paula White Cain (51248109303) (cropped).jpg (Wikimedia Commons)"
 description: "Pastor Paula White Cain speaking with attendees at the 2021 Young Women's Leadership Summit hosted by Turning Point USA at the Gaylord Texan Resort & Convention Center in Grapevine, Texas."
 illustration of: Paula White-Cain (Wikipedia)
+license: CC BY-SA 2.0
 photograph by: Gage Skidmore
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7e/Paula_White_Cain_%2851248109303%29_%28cropped%29.jpg"
 source: "https://www.flickr.com/photos/gageskidmore/51248109303/"
