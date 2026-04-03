@@ -2,7 +2,7 @@
 title: "Counter-protester at No Kings protest in Seattle.jpg (Wikimedia Commons)"
 author: David Pinch
 counter-protester: unknown
-counter-protester of: No Kings protest
+counter-protester of: No Kings protests
 description: >-
   I saw this person while marching down Pine Street during the June 14, 2025 "No Kings" protest in Seattle, Washington. He is holding a black sign with four lines in white: "Seattle Stand Down / King is Right Here / You Will Never / Take Our Crown". He wore a mask and refused to answer any questions.
 license: CC0 1.0

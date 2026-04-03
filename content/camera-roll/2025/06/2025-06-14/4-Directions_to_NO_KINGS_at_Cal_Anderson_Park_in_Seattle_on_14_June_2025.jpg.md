@@ -1,7 +1,7 @@
 ---
 title: "Directions to NO KINGS at Cal Anderson Park in Seattle on 14 June 2025.jpg (Wikimedia Commons)"
 directions of:
-  - No Kings Protest
+  - No Kings protests
   - Cal Anderson Park
   - sidewalk
 license: CC0 1.0
