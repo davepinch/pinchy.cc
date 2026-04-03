@@ -7,6 +7,7 @@ factcheck.org of:
   - Donald Trump
   - Venezuela
 license: "https://www.factcheck.org/copyright-policy/"
+retrieved: 2026-04-02
 type: website
 url: /www.factcheck.org/2026/01/explaining-trumps-claim-that-venezuela-stole-u-s-oil/
 website: "https://www.factcheck.org/2026/01/explaining-trumps-claim-that-venezuela-stole-u-s-oil/"

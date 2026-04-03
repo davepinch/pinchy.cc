@@ -7,6 +7,7 @@ factcheck.org of:
   - 2026 Iran war
   - Strait of Hormuz
 license: "https://www.factcheck.org/copyright-policy/"
+retrieved: 2026-04-02
 type: website
 url: /www.factcheck.org/2026/03/how-iran-blocking-the-strait-of-hormuz-affects-the-u-s/
 website: "https://www.factcheck.org/2026/03/how-iran-blocking-the-strait-of-hormuz-affects-the-u-s/"

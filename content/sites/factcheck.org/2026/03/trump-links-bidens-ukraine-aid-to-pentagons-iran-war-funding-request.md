@@ -14,6 +14,7 @@ retrieved: 2026-04-02
 type: website
 url: /www.factcheck.org/2026/03/trump-links-bidens-ukraine-aid-to-pentagons-iran-war-funding-request/
 website: "https://www.factcheck.org/2026/03/trump-links-bidens-ukraine-aid-to-pentagons-iran-war-funding-request/"
+when: 2026-03-31
 tags:
   - website
   - FactCheck.org

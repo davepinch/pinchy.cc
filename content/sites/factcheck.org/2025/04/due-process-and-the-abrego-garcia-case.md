@@ -8,6 +8,7 @@ factcheck.org of:
   - El Salvador
   - Pam Bondi
 license: "https://www.factcheck.org/copyright-policy/"
+retrieved: 2026-04-02
 type: website
 url: /www.factcheck.org/2025/04/due-process-and-the-abrego-garcia-case/
 website: "https://www.factcheck.org/2025/04/due-process-and-the-abrego-garcia-case/"
