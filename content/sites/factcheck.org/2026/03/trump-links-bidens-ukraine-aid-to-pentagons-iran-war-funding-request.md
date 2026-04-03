@@ -4,7 +4,7 @@ author: D'Angelo Gore
 excerpt: >-
   With the Pentagon potentially seeking a $200 billion supplemental package to fund the ongoing war with Iran, President Donald Trump defended that figure in part by saying U.S. ammunition “was taken down by giving so much to Ukraine.” He then exaggerated the amount of aid to Ukraine and falsely said that former President Joe Biden “didn’t rebuild anything” in the defense stockpile.
 factcheck.org of:
-  - 2026 Iran War
+  - 2026 Iran war
   - Donald Trump
   - Iran
   - Joe Biden
