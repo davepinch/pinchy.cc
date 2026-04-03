@@ -3,7 +3,7 @@ title: "Andrew Tate"
 person of:
   - manosphere
   - District of Columbia
-  - Chicago, Illinois
+  - Chicago
   - Illinois
   - Indiana
   - England
