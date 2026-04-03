@@ -13,7 +13,7 @@ setting in a movie but filmed in Vancouver of:
   - Eastern Europe
   - India
   - Boston
-  - Philadelphia
+  - Philadelphia, Pennsylvania
   - Japan
   - Chicago
   - District of Columbia
