@@ -9,6 +9,6 @@ type: quote
 url: /www.independent.co.uk/news/world/americas/us-politics/trump-pam-bondi-attorney-general-b2815093.html/@2/
 when: 2025-08-26
 tags:
-  - website
+  - quote
   - The Independent
 ---
