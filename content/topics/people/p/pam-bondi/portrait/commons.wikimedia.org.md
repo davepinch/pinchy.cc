@@ -1,6 +1,7 @@
 ---
 title: "Pam Bondi official portrait (cropped)(2).jpg (Wikimedia Commons)"
 illustration of: Pam Bondi (Wikipedia)
+license: public domain
 photograph by: United States Department of Justice
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e0/Pam_Bondi_official_portrait_%28cropped%29%282%29.jpg"
 portrait of:
