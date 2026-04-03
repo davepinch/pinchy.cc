@@ -4,7 +4,7 @@ born in:
   - Boston
   - Massachusetts
 died in:
-  - Philadelphia
+  - Philadelphia, Pennsylvania
   - Pennsylvania
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q34969"

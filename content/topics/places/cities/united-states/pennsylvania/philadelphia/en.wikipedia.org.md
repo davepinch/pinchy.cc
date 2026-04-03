@@ -7,7 +7,7 @@ retrieved: 2024-09-27
 type: website
 url: /en.wikipedia.org/wiki/Philadelphia/
 website: "https://en.wikipedia.org/wiki/Philadelphia"
-wikipedia of: Philadelphia
+wikipedia of: Philadelphia, Pennsylvania
 tags:
   - Wikipedia
 ---
