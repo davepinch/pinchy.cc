@@ -1,12 +1,13 @@
 ---
 title: "Hood Canal (wa100.dnr.wa.gov)"
-article of: Hood Canal
 excerpt: >-
   Hood Canal is a long, narrow, glacially carved fjord located where the Puget Lowland meets the Olympic Mountains in western Washington. It’s a beautiful area, rich in great seafood and recreational opportunities, with abundant wild marine life. Shellfish farming provides oysters ready to eat from the local farmers or you can find your own on public beaches that allow harvesting. The waters are also known for scuba diving, boating, kayaking, fishing, crabbing, and shrimping. Hiking opportunities in the eastern foothills of the Olympic Mountains provide great panoramic views of the canal and the Puget Lowland. Hiking or driving up Mount Walker, near Quilcene, or hiking near Lake Cushman or up the Hamma Hamma River, provides stunning views and communion with nature in this tranquil part of Washington.
 retrieved: 2024-05-30
 type: website
 url: /wa100.dnr.wa.gov/puget-lowland/hood-canal/
+washington 100 of: Hood Canal
 website: "https://wa100.dnr.wa.gov/puget-lowland/hood-canal"
 tags:
-  - WA100
+  - website
+  - Washington 100
 ---

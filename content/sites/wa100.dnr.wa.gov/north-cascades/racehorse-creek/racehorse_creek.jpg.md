@@ -1,6 +1,7 @@
 ---
 title: "racehorse_creek.jpg"
 map of:
+  - Racehorse Creek (wa100.dnr.wa.gov)
   - Racehorse Creek
   - Racehorse Falls
   - Racehorse Landslide Fossil Fields
@@ -13,4 +14,3 @@ website: "https://wa100.dnr.wa.gov/assets/n-cascades/racehorse_creek/racehorse_c
 tags:
   - map
 ---
-A map of Racehorse Creek from the [WA100](/wa100.dnr.wa.gov/north-cascades/racehorse-creek/) site.

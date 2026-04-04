@@ -6,13 +6,12 @@ related: racehorse_creek.jpg
 retrieved: 2023-11-18
 type: website
 url: /wa100.dnr.wa.gov/north-cascades/racehorse-creek/
-visiting information of:
+washington 100 of:
+  - Racehorse Landslide Fossil Fields
   - Racehorse Creek
   - Racehorse Falls
 website: "https://wa100.dnr.wa.gov/north-cascades/racehorse-creek"
 tags:
-  - Racehorse Landslide Fossil Fields
-  - Chuckanut Formation
-  - Deming, Washington
-  - fossil
+  - website
+  - Washington 100
 ---
