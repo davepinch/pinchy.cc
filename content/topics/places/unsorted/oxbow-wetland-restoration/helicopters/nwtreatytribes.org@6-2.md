@@ -5,7 +5,7 @@ reed canary grass of: salmon
 salmon of: Phalaris arundinacea
 snippet of: Helicopter assists Tulalip Tribes’ wetland restoration (nwtreatytribes.org)
 type: snippet
-url: /nwtreatytribes.org/helicopter-assists-tulalip-tribes-wetland-restoration/@4-2/
+url: /nwtreatytribes.org/helicopter-assists-tulalip-tribes-wetland-restoration/@6-2/
 tags:
   - snippet
 ---
