@@ -50,12 +50,15 @@ sequence:
   - Post Falls, Idaho
   - Huetter Rest Area Eastbound
   - Coeur d'Alene, Idaho
+# Montana
   - Montana
   - Missoula, Montana
+  - Butte, Montana
   - Bozeman, Montana
   - Livingston, Montana
   - Billings, Montana
-  - Interstate 94
+  - Interstate 
+# Wyoming
   - Wyoming
   - South Dakota
   - Minnesota
