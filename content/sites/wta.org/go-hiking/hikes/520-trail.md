@@ -5,7 +5,9 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/520-trail/
-washington trails association of: 520 Trail
+washington trails association of:
+  - 520 Trail
+  - Washington State Route 520
 website: "https://www.wta.org/go-hiking/hikes/520-trail"
 tags:
   - website
