@@ -5,9 +5,14 @@ description: >-
 openstreetmap: "https://www.openstreetmap.org/relation/5634476"
 trail of:
   - Wallace Falls State Park
+  - Snohomish County, Washington
+  - Washington
+vantage point of:
   - Wallace River
   - North Fork Wallace River
-  - Snohomish County, Washington
+  - Lower Wallace Falls
+  - Wallace Falls
+  - Upper Wallace Falls
 tags:
   - trail
 ---
