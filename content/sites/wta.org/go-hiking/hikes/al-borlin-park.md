@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/al-borlin-park/
-washington trails association of: Al Borlin Park
+washington trails association of:
+  - Al Borlin Park
+  - Monroe, Washington
+  - Skykomish River
 website: "https://www.wta.org/go-hiking/hikes/al-borlin-park"
 tags:
   - website
