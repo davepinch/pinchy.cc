@@ -6,6 +6,8 @@ trail of:
   - Ebey Waterfront Park
   - Marysville Sewage Lagoon
   - Qwuloolt Wetland Reserve
+  - Marysville, Washington
+  - Snohomish County, Washington
 tags:
   - trail
   - no Wikidata record
