@@ -1,5 +1,5 @@
 ---
-title: "Camano Island State Park (wta.gov)"
+title: "Camano Island State Park (wta.org)"
 excerpt: >-
   Afine little park with beach access, camping, a boat launch and trails. A popular park in the summer, this is a great place for a quiet off-season hike. On this loop trail, there are views, a forest walk, birding and beachcombing.
 retrieved: 2026-03-04

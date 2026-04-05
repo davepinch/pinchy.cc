@@ -1,5 +1,5 @@
 ---
-title: "Ames Lake Forest (wta.gov)"
+title: "Ames Lake Forest (wta.org)"
 excerpt: >-
   With many miles of trails that are being improved by King County Parks, Ames Lake Forest is a good option for anyone looking to get away from crowds at Tolt-MacDonald. Keep in mind that this is a watershed though, and be certain to keep Leave No Trace principles in mind in this sensitive area.
 retrieved: 2026-03-04

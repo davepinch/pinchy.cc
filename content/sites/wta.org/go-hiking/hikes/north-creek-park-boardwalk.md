@@ -1,5 +1,5 @@
 ---
-title: "North Creek Park Boardwalk (wta.gov)"
+title: "North Creek Park Boardwalk (wta.org)"
 excerpt: >-
   This watershed hike offers water crossings, swaying bridges, beautiful views close to Bothell, and birds galore!
 retrieved: 2026-03-04

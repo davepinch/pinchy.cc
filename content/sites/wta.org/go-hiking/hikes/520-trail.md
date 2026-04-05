@@ -1,5 +1,5 @@
 ---
-title: "520 Trail (wta.gov)"
+title: "520 Trail (wta.org)"
 excerpt: >-
   Starting at the western end, the trail jumps right up to the elevated road level at East Montlake Park and continues east past Marsh and Foster Islands. There is access to the Arboretum Waterfront and Lake Washington Ship Canal trails from this western starting point as well.  
 retrieved: 2026-03-04

@@ -6,7 +6,7 @@ old railroad bridge of:
   - Skykomish River
   - Monroe, Washington
   - Carnation, Washington
-snippet of: Al Borlin Park (wta.gov)
+snippet of: Al Borlin Park (wta.org)
 type: snippet
 url: /www.wta.org/go-hiking/hikes/al-borlin-park/@4/
 tags:

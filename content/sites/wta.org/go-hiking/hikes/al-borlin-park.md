@@ -1,5 +1,5 @@
 ---
-title: "Al Borlin Park (wta.gov)"
+title: "Al Borlin Park (wta.org)"
 excerpt: >-
   Walk through deciduous forests and listen for a raucous bird population at Al Borlin Park. The trails here cross the park's 90 acres; Al Borlin Park is the largest park in Monroe.
 retrieved: 2026-03-04

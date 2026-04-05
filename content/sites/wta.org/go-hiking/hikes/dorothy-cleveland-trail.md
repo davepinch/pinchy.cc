@@ -1,5 +1,5 @@
 ---
-title: "Possession Point State Park (wta.gov)"
+title: "Possession Point State Park (wta.org)"
 excerpt: >-
   Located at Possession Point, this short hike is fun and challenging, with plenty of elevation gain in the form of switchbacks.
 retrieved: 2026-03-04
