@@ -7,10 +7,12 @@ factcheck.org of:
   - Donald Trump
   - Pete Buttigieg
   - United States Secretary of Transportation
+license: "https://www.factcheck.org/copyright-policy/"
 retrieved: 2026-04-04
 type: website
 url: /www.factcheck.org/2025/12/sorting-out-competing-claims-on-air-traffic-control/
 website: "https://www.factcheck.org/2025/12/sorting-out-competing-claims-on-air-traffic-control/"
+when: 2025-12-23
 tags:
   - website
   - FactCheck.org

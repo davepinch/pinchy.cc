@@ -7,10 +7,12 @@ factcheck.org of:
   - Pete Hegseth
   - Department of Defense
   - Yemen
+license: "https://www.factcheck.org/copyright-policy/"
 retrieved: 2026-04-04
 type: website
 url: /www.factcheck.org/2025/12/pentagon-inspector-general-report-not-total-exoneration-for-hegseth/
 website: "https://www.factcheck.org/2025/12/pentagon-inspector-general-report-not-total-exoneration-for-hegseth/"
+when: 2025-12-05
 tags:
   - website
   - FactCheck.org

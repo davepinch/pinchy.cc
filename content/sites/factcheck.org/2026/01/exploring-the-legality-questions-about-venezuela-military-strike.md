@@ -9,6 +9,7 @@ factcheck.org of:
   - Venezuela
   - Nicolás Maduro
   - Cilia Flores
+license: "https://www.factcheck.org/copyright-policy/"
 retrieved: 2026-04-04
 type: website
 url: /www.factcheck.org/2026/01/exploring-the-legality-questions-about-venezuela-military-strike/
