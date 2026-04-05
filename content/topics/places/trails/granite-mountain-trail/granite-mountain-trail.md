@@ -10,6 +10,7 @@ trail of:
 vantage point of:
   - Crystal Lake
   - Granite Mountain
+  - Kaleetan Peak
   - Mount Rainier
   - Mount Stuart
   - Teanaway Peak
