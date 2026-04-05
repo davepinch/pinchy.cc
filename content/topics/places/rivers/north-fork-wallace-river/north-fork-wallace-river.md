@@ -5,6 +5,7 @@ river of:
   - Cascade Range
   - Wallace Falls State Park
   - Snohomish County, Washington
+  - Washington
 tributary of: Wallace River
 wikidata: "https://www.wikidata.org/wiki/Q114450401"
 tags:
