@@ -3,6 +3,8 @@ title: "Venema Creek"
 creek of:
   - Pipers Creek Natural Area
   - Carkeek Park
+  - Broadview, Seattle
+  - Seattle
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/122705601"
