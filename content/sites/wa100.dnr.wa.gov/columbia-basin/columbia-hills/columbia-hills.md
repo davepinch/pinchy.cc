@@ -5,7 +5,7 @@ excerpt: >-
 retrieved: 2026-04-04
 type: website
 url: /wa100.dnr.wa.gov/columbia-basin/columbia-hills/
-washington 100 of: Columbia Hills State Park
+washington 100 of: Columbia Hills Historical State Park
 website: "https://wa100.dnr.wa.gov/columbia-basin/columbia-hills"
 tags:
   - website
