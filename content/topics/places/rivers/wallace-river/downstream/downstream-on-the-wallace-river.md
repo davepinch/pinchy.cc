@@ -6,7 +6,7 @@ sequence:
   - Upper Wallace Falls
   - Wallace Falls
   - Lower Wallace Falls
-  - North Fork Wallace River
+  - confluence of Wallace and North Fork Wallace Rivers
   - Olney Creek
   - Bear Creek
   - Oxbow Wetland Restoration
