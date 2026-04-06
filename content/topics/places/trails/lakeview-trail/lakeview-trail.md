@@ -8,7 +8,9 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/366393759 (crossing I5)"
   - "https://www.openstreetmap.org/way/366393760 (east of I5)"
 quick trip from Bothell of: VISIT SOMEWHERE NEW
-trail of: Mountlake Terrace, Washington
+trail of:
+  - Mountlake Terrace, Washington
+  - Snohomish County, Washington
 tags:
   - trail
 ---
