@@ -8,10 +8,10 @@ sammamish river of: Washington State Route 520
 snippet of: Washington State Route 520 (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Washington_State_Route_520/@route-and-description-3-4/
-tags:
+washington state route 520 of:
   - Sammamish River
-  - Redmond Town Center
-  - Bear Creek
+  - Bear Creek (Sammamish River)
   - Marymoor Park
+tags:
   - snippet
 ---

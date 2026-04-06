@@ -4,7 +4,7 @@ title: "property of Oxbow Wetland Restoration (nwtreatytribes.org)"
 property of:
   - Oxbow Wetland Restoration
   - Tulalip Tribes
-restoration of: Bear Creek
+restoration of: Bear Creek (Wallace River)
 snippet of: Helicopter assists Tulalip Tribes’ wetland restoration (nwtreatytribes.org)
 type: snippet
 url: /nwtreatytribes.org/helicopter-assists-tulalip-tribes-wetland-restoration/@11-1/

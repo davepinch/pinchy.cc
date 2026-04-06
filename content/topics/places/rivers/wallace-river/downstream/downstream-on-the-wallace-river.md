@@ -8,7 +8,7 @@ sequence:
   - Lower Wallace Falls
   - confluence of Wallace and North Fork Wallace Rivers
   - Olney Creek
-  - Bear Creek
+  - Bear Creek (Wallace River)
   - Oxbow Wetland Restoration
   - U.S. Route 2
   - Skykomish River
