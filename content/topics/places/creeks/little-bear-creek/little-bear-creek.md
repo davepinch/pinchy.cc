@@ -9,6 +9,7 @@ creek of:
   - Woodinville, Washington
   - Rotary Community Park
   - Sammamish River Trail
+not to be confused with: Bear Creek (Sammamish River)
 openstreetmap:
   - "https://www.openstreetmap.org/way/28247267"
   - "https://www.openstreetmap.org/way/314938045"

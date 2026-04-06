@@ -6,6 +6,7 @@ creek of:
   - King County, Washington
   - Washington
 disambiguation of: Bear Creek
+not to be confused with: Little Bear Creek
 openstreetmap: "https://www.openstreetmap.org/relation/19181174"
 tributary of: Sammamish River
 vicinity of:
