@@ -1,5 +1,6 @@
 ---
 title: "Tolt Pipeline Trail"
+openstreetmap: "https://www.openstreetmap.org/relation/5604962"
 quick trip from Bothell of: VISIT SOMEWHERE NEW
 trail of:
   - Bothell, Washington
