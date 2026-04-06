@@ -1,13 +1,17 @@
 ---
 title: "Snoqualmie Tunnel"
-near:
-  - Keechelus Lake
-  - Interstate 90
 openstreetmap: "https://www.openstreetmap.org/way/6521128"
 trail of:
-  - Cascade Range
+  - Palouse to Cascades State Park
+  - Mount Baker–Snoqualmie National Forest
+  - King County, Washington
+  - Kittitas County, Wsahington
   - Washington
-vicinity of: Snoqualmie Pass
+  - Cascade Range
+vicinity of:
+  - Interstate 90
+  - Keechelus Lake
+  - Snoqualmie Pass
 wikidata: "https://www.wikidata.org/wiki/Q7548051"
 tags:
   - trail
