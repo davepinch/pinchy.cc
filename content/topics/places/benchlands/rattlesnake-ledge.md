@@ -3,6 +3,7 @@ title: "Rattlesnake Ledge"
 benchland of:
   - Rattlesnake Ridge
   - Rattlesnake Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
   - Cascade Range
