@@ -8,6 +8,7 @@ trail of:
   - Duvall, Washington
   - King County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q7814637"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Tolt_Pipeline_Trail"
 tags:
   - trail
 ---
