@@ -2,6 +2,10 @@
 title: "Ladder Creek"
 creek of:
   - Whatcom County, Washington
+  - Ross Lake National Recreation Area
+  - North Cascades National Park
+  - Stephen Mather Wilderness
+  - North Cascades National Park Complex
   - Washington
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/184841537"
