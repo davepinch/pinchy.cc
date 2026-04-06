@@ -7,7 +7,9 @@ mountain of:
   - Mount Baker–Snoqualmie National Forest
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/349018659"
-vicinity of: Snoqualmie Pass
+vicinity of:
+  - Interstate 90
+  - Snoqualmie Pass
 wikidata: "https://www.wikidata.org/wiki/Q49040648"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kaleetan_Peak"
 wikipedia: "https://en.wikipedia.org/wiki/Kaleetan_Peak"
