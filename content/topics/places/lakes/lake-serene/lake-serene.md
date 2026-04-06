@@ -4,6 +4,7 @@ along Highway 2 of: VISIT SOMEWHERE NEW
 lake of:
   - Cascade Range
   - Snohomish County, Washington
+  - Mount Baker–Snoqualmie National Forest
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/16680239"
 vantage point of: Mount Index
