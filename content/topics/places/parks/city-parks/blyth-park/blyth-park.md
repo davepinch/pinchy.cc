@@ -11,9 +11,9 @@ near:
   - Red Brick Road Park
   - Sammamish River Park
   - Sammamish River Trail
-  - Tolt Pipeline Trail
 openstreetmap: "https://www.openstreetmap.org/way/158249867"
 quick trip from Bothell of: VISIT SOMEWHERE NEW
+vicinity of: Tolt Pipeline Trail
 tags:
   - city park
   - no Wikidata record
