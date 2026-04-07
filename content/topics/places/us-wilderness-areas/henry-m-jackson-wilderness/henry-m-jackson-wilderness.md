@@ -10,6 +10,7 @@ wilderness area of:
   - Cascade Range
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q3132929"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Henry_M._Jackson_Wilderness"
 tags:
   - wilderness area
 ---

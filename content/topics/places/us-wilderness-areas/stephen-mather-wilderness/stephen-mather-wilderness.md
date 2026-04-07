@@ -12,4 +12,5 @@ wilderness area of:
   - United States
 tags:
   - wilderness area
+  - no Wikimedia category
 ---

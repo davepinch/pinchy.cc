@@ -12,5 +12,6 @@ wilderness area of:
   - National Park Service
 tags:
   - wilderness area
+  - no Wikimedia category
   - no Wikipedia article
 ---

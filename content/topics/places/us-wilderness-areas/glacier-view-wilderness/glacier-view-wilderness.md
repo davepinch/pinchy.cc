@@ -8,6 +8,7 @@ not to be confused with: Glacier Peak Wilderness
 openstreetmap: "https://www.openstreetmap.org/relation/6109778"
 vicinity of: Mount Rainier
 wikidata: "https://www.wikidata.org/wiki/Q3108325"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Glacier_View_Wilderness"
 wilderness area of:
   - Gifford Pinchot National Forest
   - Washington
