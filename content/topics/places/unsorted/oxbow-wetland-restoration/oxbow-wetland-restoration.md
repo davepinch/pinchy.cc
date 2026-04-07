@@ -8,7 +8,7 @@ vicinity of:
 vimeo: "https://vimeo.com/885825119"
 wetland restoration of:
   - Wallace River
-  - Bear 
+  - Bear Creek (Wallace River)
   - Snohomish County, Washington
   - Washington
 tags:
