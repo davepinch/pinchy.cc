@@ -12,4 +12,6 @@ usgs feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/15
 wikidata: "https://www.wikidata.org/wiki/Q49303373"
 tags:
   - lake
+  - no Wikimedia category
+  - no Wikipedia article
 ---
