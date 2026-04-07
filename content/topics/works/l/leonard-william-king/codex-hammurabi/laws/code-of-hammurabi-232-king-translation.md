@@ -8,6 +8,7 @@ King translation of: Code of Hammurabi § 232
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/232/king-translation/
 tags:
   - snippet
 ---

@@ -6,6 +6,7 @@ title: "Code of Hammurabi § 3 (King translation)"
 King translation of: Code of Hammurabi § 3
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/3/king-translation/
 tags:
   - snippet
 ---

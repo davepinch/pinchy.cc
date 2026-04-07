@@ -6,6 +6,7 @@ title: "Code of Hammurabi § 31 (King translation)"
 King translation of: Code of Hammurabi § 31
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/31/king-translation/
 tags:
   - snippet
 ---

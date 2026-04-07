@@ -8,6 +8,7 @@ King translation of: Code of Hammurabi § 182
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/182/king-translation/
 tags:
   - snippet
 ---

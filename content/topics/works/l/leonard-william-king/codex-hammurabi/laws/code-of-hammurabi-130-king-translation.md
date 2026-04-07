@@ -7,6 +7,7 @@ King translation of: Code of Hammurabi § 130
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/130/king-translation/
 tags:
   - snippet
 ---

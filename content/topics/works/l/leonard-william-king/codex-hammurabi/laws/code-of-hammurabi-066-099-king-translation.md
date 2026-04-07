@@ -41,6 +41,7 @@ King translation of:
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/66-99/king-translation/
 tags:
   - snippet
 ---

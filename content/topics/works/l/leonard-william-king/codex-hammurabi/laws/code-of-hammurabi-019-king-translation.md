@@ -6,6 +6,7 @@ title: "Code of Hammurabi § 19 (King translation)"
 King translation of: Code of Hammurabi § 19
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/19/king-translation/
 tags:
   - snippet
 ---

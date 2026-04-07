@@ -8,6 +8,7 @@ snippet of:
   - Codex Hammurabi (King translation) (Wikisource)
 TODO: determine whether to set all laws as a snippet of Wikisource
 type: snippet
+url: /code-of-hammurabi/1/king-translation/
 tags:
   - snippet
   - TODO

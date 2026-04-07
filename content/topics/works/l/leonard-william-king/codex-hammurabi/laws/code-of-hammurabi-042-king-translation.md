@@ -6,6 +6,7 @@ title: "Code of Hammurabi § 42 (King translation)"
 King translation of: Code of Hammurabi § 42
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/42/king-translation/
 tags:
   - snippet
 ---

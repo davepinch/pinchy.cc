@@ -7,6 +7,7 @@ King translation of: Code of Hammurabi § 282
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/282/king-translation/
 tags:
   - snippet
 ---

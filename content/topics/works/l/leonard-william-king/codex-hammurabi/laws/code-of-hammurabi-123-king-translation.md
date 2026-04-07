@@ -7,6 +7,7 @@ King translation of: Code of Hammurabi § 123
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/123/king-translation/
 tags:
   - snippet
 ---

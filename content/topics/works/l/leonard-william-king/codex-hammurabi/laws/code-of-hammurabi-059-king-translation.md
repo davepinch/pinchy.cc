@@ -7,6 +7,7 @@ King translation of: Code of Hammurabi § 59
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/59/king-translation/
 tags:
   - snippet
 ---

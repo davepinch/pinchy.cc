@@ -6,6 +6,7 @@ title: "Code of Hammurabi § 27 (King translation)"
 King translation of: Code of Hammurabi § 27
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/27/king-translation/
 tags:
   - snippet
 ---

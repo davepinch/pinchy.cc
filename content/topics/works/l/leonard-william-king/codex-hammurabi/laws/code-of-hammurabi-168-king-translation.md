@@ -8,6 +8,7 @@ King translation of: Code of Hammurabi § 168
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/168/king-translation/
 tags:
   - snippet
 ---

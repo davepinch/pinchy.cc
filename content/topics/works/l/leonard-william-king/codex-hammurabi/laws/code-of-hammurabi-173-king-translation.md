@@ -8,6 +8,7 @@ King translation of: Code of Hammurabi § 173
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/173/king-translation/
 tags:
   - snippet
 ---

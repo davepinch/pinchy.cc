@@ -6,6 +6,7 @@ title: "Code of Hammurabi § 8 (King translation)"
 King translation of: Code of Hammurabi § 8
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/8/king-translation/
 tags:
   - snippet
 ---

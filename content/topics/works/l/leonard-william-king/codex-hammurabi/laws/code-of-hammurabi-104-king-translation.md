@@ -7,6 +7,7 @@ King translation of: Code of Hammurabi § 104
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/104/king-translation/
 tags:
   - snippet
 ---

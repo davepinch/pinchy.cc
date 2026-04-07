@@ -6,6 +6,7 @@ title: "Code of Hammurabi § 26 (King translation)"
 King translation of: Code of Hammurabi § 26
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/26/king-translation/
 tags:
   - snippet
 ---

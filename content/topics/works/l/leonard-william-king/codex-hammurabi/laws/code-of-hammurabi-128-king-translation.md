@@ -7,6 +7,7 @@ King translation of: Code of Hammurabi § 128
 license: public domain
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/128/king-translation/
 tags:
   - snippet
 ---

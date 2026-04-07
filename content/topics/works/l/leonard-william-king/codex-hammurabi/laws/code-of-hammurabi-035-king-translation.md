@@ -6,6 +6,7 @@ title: "Code of Hammurabi § 35 (King translation)"
 King translation of: Code of Hammurabi § 35
 snippet of: Codex Hammurabi (King translation)
 type: snippet
+url: /code-of-hammurabi/35/king-translation/
 tags:
   - snippet
 ---
