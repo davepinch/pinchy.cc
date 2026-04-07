@@ -9,7 +9,7 @@ washington trails association of:
   - Tolt Pipeline Trail
   - Bothell, Washington
   - Woodinville, Washington
-  - Cottage Lake, 
+  - Cottage Lake, Washington
   - Union Hill-Novelty Hill, Washington
   - Duvall, Washington
   - King County, Washington
