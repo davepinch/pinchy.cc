@@ -1,7 +1,7 @@
 ---
 title: "Sultan Basin Road"
 openstreetmap:
-  - "https://www.openstreetmap.org/way/6134819
+  - "https://www.openstreetmap.org/way/6134819"
   - "https://www.openstreetmap.org/way/6134820"
   - "https://www.openstreetmap.org/way/1232300069"
   - "https://www.openstreetmap.org/way/264194706"
