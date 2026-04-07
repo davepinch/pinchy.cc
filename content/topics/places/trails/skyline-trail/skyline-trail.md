@@ -4,7 +4,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/5199914"
 trail of:
   - Mount Rainier
   - Paradise Park
-  - Mount Rainier National 
+  - Mount Rainier National Park
   - Mount Rainier Wilderness
   - Pierce County, Washington
 wikidata: "https://www.wikidata.org/wiki/Q123219431"
