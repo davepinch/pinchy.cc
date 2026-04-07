@@ -9,7 +9,7 @@ washington trails association of:
   - Skyline Trail
   - Mount Rainier
   - Paradise Park
-  - Mount Rainier National 
+  - Mount Rainier National Park
   - Mount Rainier Wilderness
   - Pierce County, Washington
 website: "https://www.wta.org/go-hiking/hikes/skyline-trail-loop"
