@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q97175226"
 wikipedia: "https://en.wikipedia.org/wiki/Teanaway_Peak"
 tags:
   - mountain
+  - no Wikimedia category
 ---
