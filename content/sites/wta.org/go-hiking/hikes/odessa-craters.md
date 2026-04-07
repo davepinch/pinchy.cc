@@ -1,10 +1,11 @@
 ---
 title: "Odessa Craters (wta.org)"
 excerpt: >-
-  This short loop encompasses a host of different craters, all formed during 15,000 year old floods. Stroller-friendly tread and plenty of benches make this trail a great opportunity to embrace Washington's natural history with the whole family.
-near: Cache Crater Overlook (wta.org)
+  The Craters trail encompasses several different craters, and in spring, flora blooms clear skies make the whole area delightful. If you embark on a counter-clockwise route, there's a short uphill jaunt, but either direction offers hikers a nice hour-long walk if stopping to take photos.
+retrieved: 2026-04-06
 type: website
 url: /www.wta.org/go-hiking/hikes/odessa-craters/
+vicinity: Cache Crater Overlook (wta.org)
 washington trails association of:
   - Odessa Craters Trail
   - Lakeview Recreation Area
