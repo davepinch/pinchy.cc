@@ -5,7 +5,7 @@ trail of:
   - Palouse to Cascades State Park
   - Mount Baker–Snoqualmie National Forest
   - King County, Washington
-  - Kittitas County, Wsahington
+  - Kittitas County, Washington
   - Washington
   - Cascade Range
 vicinity of:
