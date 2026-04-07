@@ -9,5 +9,5 @@ wilderness area of:
   - Skagit County, Washington
   - Washington
 tags:
-  - wilderness area
+  - U.S. Wilderness Area
 ---

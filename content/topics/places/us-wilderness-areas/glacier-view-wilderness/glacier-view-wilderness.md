@@ -16,5 +16,5 @@ wilderness area of:
   - United States Forest Service
   - United States
 tags:
-  - wilderness area
+  - U.S. Wilderness Area
 ---

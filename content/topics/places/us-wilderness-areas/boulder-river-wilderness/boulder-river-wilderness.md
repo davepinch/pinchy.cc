@@ -7,6 +7,6 @@ wilderness area of:
   - Snohomish County, Washington
   - Washington
 tags:
-  - wilderness area
+  - U.S. Wilderness Area
   - VISIT SOMEWHERE NEW
 ---

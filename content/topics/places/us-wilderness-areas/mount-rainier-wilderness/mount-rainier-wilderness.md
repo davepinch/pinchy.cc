@@ -11,7 +11,7 @@ wilderness area of:
   - United States
   - National Park Service
 tags:
-  - wilderness area
+  - U.S. Wilderness Area
   - no Wikimedia category
   - no Wikipedia article
 ---
