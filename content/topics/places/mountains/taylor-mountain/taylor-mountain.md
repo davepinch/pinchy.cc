@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49081639"
 wikipedia: "https://en.wikipedia.org/wiki/Taylor_Mountain_(Washington)"
 tags:
   - mountain
+  - no Wikimedia category
 ---
