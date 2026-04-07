@@ -11,10 +11,12 @@ wikidata: "https://www.wikidata.org/wiki/Q3108325"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Glacier_View_Wilderness"
 wilderness area of:
   - Gifford Pinchot National Forest
+  - Pierce County, Washington
   - Washington
   - Pacific Northwest
-  - United States Forest Service
+  - Cascade Range
   - United States
+  - United States Forest Service
 tags:
   - U.S. Wilderness Area
 ---

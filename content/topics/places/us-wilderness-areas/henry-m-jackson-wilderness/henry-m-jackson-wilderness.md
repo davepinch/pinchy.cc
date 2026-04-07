@@ -2,6 +2,8 @@
 title: "Henry M. Jackson Wilderness"
 openstreetmap: "https://www.openstreetmap.org/relation/3093637"
 wilderness area of:
+  - Mount Baker–Snoqualmie National Forest
+  - Okanogan–Wenatchee National Forest
   - Snohomish County, Washington
   - Chelan County, Washington
   - King County, Washington

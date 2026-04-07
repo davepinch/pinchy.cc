@@ -5,6 +5,8 @@ openstreetmap: "https://www.openstreetmap.org/relation/6115914"
 wikidata: "https://www.wikidata.org/wiki/Q3108308"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Glacier_Peak_Wilderness"
 wilderness area of:
+  - Mount Baker–Snoqualmie National Forest
+  - Okanogan–Wenatchee National Forest
   - Chelan County, Washington
   - Snohomish County, Washington
   - Skagit County, Washington

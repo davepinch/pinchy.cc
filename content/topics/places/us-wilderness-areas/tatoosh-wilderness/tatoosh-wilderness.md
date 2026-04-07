@@ -12,6 +12,8 @@ wilderness area of:
   - Lewis County, Washington
   - Washington
   - Pacific Northwest
+  - Cascade Range
+  - United States
 tags:
   - U.S. Wilderness Area
 ---
