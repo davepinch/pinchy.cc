@@ -9,6 +9,9 @@ country of:
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/307833"
 wikidata: "https://www.wikidata.org/wiki/Q241"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cuba"
+wikiquote: "https://en.wikiquote.org/wiki/Cuba"
+wikivoyage: "https://en.wikivoyage.org/wiki/Cuba"
 tags:
   - island country
   - country

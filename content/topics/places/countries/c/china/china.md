@@ -16,6 +16,7 @@ country of:
   - Asia
 openstreetmap: "https://www.openstreetmap.org/relation/270056"
 wikidata: "https://www.wikidata.org/wiki/Q148"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:China"
 tags:
   - Chinese
   - country

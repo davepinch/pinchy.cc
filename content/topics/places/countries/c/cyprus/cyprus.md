@@ -15,6 +15,9 @@ west of:
   - Syria
   - Lebanon
 wikidata: "https://www.wikidata.org/wiki/Q229"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Cyprus"
+wikiquote: "https://en.wikiquote.org/wiki/Cyprus"
+wikivoyage: "https://en.wikivoyage.org/wiki/Cyprus"
 tags:
   - island country
   - country

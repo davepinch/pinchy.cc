@@ -16,6 +16,9 @@ country of:
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/192830"
 wikidata: "https://www.wikidata.org/wiki/Q1009"
+wikimedia: "https://en.wikivoyage.org/wiki/Cambodia"
+wikiquote: "https://en.wikiquote.org/wiki/Cameroon"
+wikivoyage: "https://en.wikivoyage.org/wiki/Cameroon"
 tags:
   - country
 ---

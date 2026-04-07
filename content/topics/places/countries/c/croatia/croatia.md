@@ -16,6 +16,8 @@ maritime borders:
   - Italy
 openstreetmap: "https://www.openstreetmap.org/relation/214885"
 wikidata: "https://www.wikidata.org/wiki/Q224"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Croatia"
+wikivoyage: "https://en.wikivoyage.org/wiki/Croatia"
 tags:
   - country
 ---
