@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q124829562"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Welcome_Lake_(King_County,_Washington)"
 tags:
   - lake
+  - no Wikipedia article
 ---
