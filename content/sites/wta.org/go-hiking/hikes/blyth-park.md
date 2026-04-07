@@ -2,6 +2,7 @@
 title: "Blyth Park (wta.org)"
 excerpt: >-
   Blyth Park lies along the Sammamish River in the City of Bothell. Near the park entrance are all the amenities you would expect: a large parking lot, restrooms, plenty of picnic tables and a playground. One of the main attractions here is the 10-hole disc golf course (watch out for flying discs, some of the holes run across the trail!).
+retrieved: 2026-04-06
 type: website
 url: /www.wta.org/go-hiking/hikes/blyth-park/
 vicinity of: Tolt Pipeline Trail (wta.org)
