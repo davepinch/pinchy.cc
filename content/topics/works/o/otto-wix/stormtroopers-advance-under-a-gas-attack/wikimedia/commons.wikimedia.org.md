@@ -5,7 +5,7 @@ description: "'Stormtroopers Advance Under a Gas Attack' (German: *Sturmtruppe g
 image of: Stormtroopers Advance Under a Gas Attack
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/2/2e/%27Stormtroops_Advancing_Under_Gas%27%2C_etching_and_aquatint_by_Otto_Dix%2C_1924.jpg"
-thumbnail: "
+thumbnail: "https://upload.wikimedia.org/wikipedia/en/thumb/2/2e/%27Stormtroops_Advancing_Under_Gas%27%2C_etching_and_aquatint_by_Otto_Dix%2C_1924.jpg/330px-%27Stormtroops_Advancing_Under_Gas%27%2C_etching_and_aquatint_by_Otto_Dix%2C_1924.jpg"
 type: picture
 url: /en.wikipedia.org/wiki/--apostrophe--Stormtroops_Advancing_Under_Gas--apostrophe--,_etching_and_aquatint_by_Otto_Dix,_1924.jpg/
 website: "https://en.wikipedia.org/wiki/File:'Stormtroops_Advancing_Under_Gas',_etching_and_aquatint_by_Otto_Dix,_1924.jpg"
