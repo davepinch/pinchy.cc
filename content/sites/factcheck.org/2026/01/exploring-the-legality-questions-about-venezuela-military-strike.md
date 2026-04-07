@@ -14,6 +14,7 @@ retrieved: 2026-04-04
 type: website
 url: /www.factcheck.org/2026/01/exploring-the-legality-questions-about-venezuela-military-strike/
 website: "https://www.factcheck.org/2026/01/exploring-the-legality-questions-about-venezuela-military-strike/"
+when: 2026-01-06
 tags:
   - website
   - FactCheck.org
