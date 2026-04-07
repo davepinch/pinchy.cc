@@ -7,7 +7,10 @@ type: website
 url: /www.wta.org/go-hiking/hikes/fort-ward-to-blakely-harbor/
 washington trails association of:
   - Fort Ward to Blakely Harbor Trail
+  - Fort Ward Park
+  - Blakely Harbor
   - Bainbridge Island
+  - Kitsap County, Washington
 website: "https://www.wta.org/go-hiking/hikes/fort-ward-to-blakely-harbor"
 tags:
   - website

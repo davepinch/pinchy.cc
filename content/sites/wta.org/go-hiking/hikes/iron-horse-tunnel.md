@@ -5,7 +5,12 @@ excerpt: >-
 retrieved: 2024-08-23
 type: website
 url: /www.wta.org/go-hiking/hikes/iron-horse-tunnel/
-washington trails association of: Snoqualmie Tunnel
+washington trails association of:
+  - Snoqualmie Tunnel
+  - Palouse to Cascades State Park
+  - King County, Washington
+  - Kittitas County, Washington
+  - tunnel
 website: "https://www.wta.org/go-hiking/hikes/iron-horse-tunnel"
 tags:
   - Washington Trails Association

@@ -13,6 +13,7 @@ washington trails association of:
   - Wallace River
   - Woody Trail
   - North Fork Wallace River
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/wallace-falls"
 tags:
   - website

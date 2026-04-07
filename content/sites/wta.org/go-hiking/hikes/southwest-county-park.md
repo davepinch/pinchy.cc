@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/southwest-county-park/
-washington trails association of: Southwest County Olympic View Park
+washington trails association of:
+  - Southwest County Olympic View Park
+  - Edmonds, Washington
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/southwest-county-park"
 tags:
   - website

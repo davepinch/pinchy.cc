@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2025-03-27
 type: website
 url: /www.wta.org/go-hiking/hikes/hamlin-park-shoreline/
-washington trails association of: Hamlin Park
+washington trails association of:
+  - Hamlin Park
+  - Shoreline, Washington
+  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/hamlin-park-shoreline"
 tags:
   - website

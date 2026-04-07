@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2025-03-27
 type: website
 url: /www.wta.org/go-hiking/hikes/greenbrier-trail/
-washington trails association of: Greenbrier Trail
+washington trails association of:
+  - Greenbrier Trail
+  - Woodinville, Washington
+  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/greenbrier-trail"
 tags:
   - website

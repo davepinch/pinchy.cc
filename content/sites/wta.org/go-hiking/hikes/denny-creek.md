@@ -9,6 +9,11 @@ url: /www.wta.org/go-hiking/hikes/denny-creek/
 washington trails association of:
   - Denny Creek
   - Denny Creek Trail
+  - Keekwulee Falls
+  - Snowshoe Falls
+  - King County, Washington
+  - Alpine Lakes Wilderness
+  - Mount Baker–Snoqualmie National Forest
 website: "https://www.wta.org/go-hiking/hikes/denny-creek"
 tags:
   - website

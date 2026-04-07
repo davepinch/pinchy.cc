@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/picnic-point/
-washington trails association of: Picnic Point Park
+washington trails association of:
+  - Picnic Point Park
+  - Picnic Point, Washington
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/picnic-point"
 tags:
   - website

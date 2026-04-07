@@ -5,7 +5,12 @@ excerpt: >-
 retrieved: 2026-04-05
 type: website
 url: /www.wta.org/go-hiking/hikes/wallace-falls-state-park-greg-ball-trail-to-wallace-lake/
-washington trails association of: Greg Ball Trail
+washington trails association of:
+  - Greg Ball Trail
+  - North Fork Wallace River
+  - Wallace Lake
+  - Wallace Falls State Park
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/wallace-falls-state-park-greg-ball-trail-to-wallace-lake"
 tags:
   - website

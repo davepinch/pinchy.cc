@@ -6,7 +6,13 @@ retrieved: 2024-08-23
 type: website
 url: /www.wta.org/go-hiking/hikes/granite-mountain/
 warning: "In winter the trail up Granite Mountain crosses a large avalanche chute early in the hike. Please have experience navigating avalanche terrain and the proper equipment when hiking this trail in the winter."
-washington trails association of: Granite Mountain
+washington trails association of:
+  - Granite Mountain
+  - Granite Mountain Trail
+  - Pratt Lake Trail
+  - King County, Washington
+  - Alpine Lakes Wilderness
+  - Mount Baker–Snoqualmie National Forest
 website: "https://www.wta.org/go-hiking/hikes/granite-mountain"
 tags:
   - website

@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2025-03-26
 type: website
 url: /www.wta.org/go-hiking/hikes/fort-ward-park/
-washington trails association of: Fort Ward Park
+washington trails association of:
+  - Fort Ward Park
+  - Bainbridge Island
+  - Kitsap County, Washington
 website: "https://www.wta.org/go-hiking/hikes/fort-ward-park"
 tags:
   - website

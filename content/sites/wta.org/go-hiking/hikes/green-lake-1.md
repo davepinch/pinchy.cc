@@ -8,6 +8,9 @@ url: /www.wta.org/go-hiking/hikes/green-lake-1/
 washington trails association of:
   - Green Lake
   - Green Lake Park
+  - Green Lake, Seattle
+  - Seattle
+  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/green-lake-1"
 tags:
   - website

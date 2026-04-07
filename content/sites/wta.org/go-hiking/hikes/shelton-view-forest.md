@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/shelton-view-forest/
-washington trails association of: Shelton View Forest
+washington trails association of:
+  - Shelton View Forest
+  - Bothell, Washington
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/shelton-view-forest"
 tags:
   - website

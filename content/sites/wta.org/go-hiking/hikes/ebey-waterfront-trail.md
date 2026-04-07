@@ -5,7 +5,13 @@ excerpt: >-
 retrieved: 2025-04-11
 type: website
 url: /www.wta.org/go-hiking/hikes/ebey-waterfront-trail/
-washington trails association of: Ebey Waterfront Trail
+washington trails association of:
+  - Ebey Waterfront Trail
+  - Ebey Slough
+  - Marysville Sewage Lagoon
+  - Qwuloolt Wetland Reserve
+  - Marysville, Washington
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/ebey-waterfront-trail"
 tags:
   - website

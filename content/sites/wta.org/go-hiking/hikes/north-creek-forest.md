@@ -5,7 +5,11 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/north-creek-forest/
-washington trails association of: North Creek Forest
+washington trails association of:
+  - North Creek Forest
+  - Bothell, Washington
+  - King County, Washington
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/north-creek-forest"
 tags:
   - website

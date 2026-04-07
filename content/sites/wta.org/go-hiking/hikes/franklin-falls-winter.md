@@ -10,6 +10,8 @@ washington trails association of:
   - Denny Camp Falls
   - Franklin Falls Trail
   - South Fork Snoqualmie River
+  - King County, Washington
+  - Mount Baker–Snoqualmie National Forest
   - winter
 website: "https://www.wta.org/go-hiking/hikes/franklin-falls-winter"
 winter of: Franklin Falls (wta.org)

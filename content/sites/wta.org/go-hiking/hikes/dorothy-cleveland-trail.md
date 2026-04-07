@@ -6,7 +6,11 @@ retrieved: 2026-03-04
 TODO: Find out why the URL name is dorothy-cleveland-trail
 type: website
 url: /www.wta.org/go-hiking/hikes/dorothy-cleveland-trail/
-washington trails association of: Possession Point State Park
+washington trails association of:
+  - Possession Point State Park
+  - Possession Point
+  - Whidbey Island
+  - Island County, Washington
 website: "https://www.wta.org/go-hiking/hikes/dorothy-cleveland-trail"
 tags:
   - website

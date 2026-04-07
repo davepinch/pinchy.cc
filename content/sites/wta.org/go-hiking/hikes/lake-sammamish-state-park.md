@@ -8,6 +8,8 @@ url: /www.wta.org/go-hiking/hikes/lake-sammamish-state-park/
 washington trails association of:
   - Lake Sammamish State Park
   - Lake Sammamish
+  - Issaquah, Washington
+  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/lake-sammamish-state-park"
 tags:
   - website

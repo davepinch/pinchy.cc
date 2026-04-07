@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2026-03-29
 type: website
 url: /www.wta.org/go-hiking/hikes/manastash-ridge/
-washington trails association of: Manastash Ridge
+washington trails association of:
+  - Manastash Ridge
+  - Kittitas County, Washington
+  - Yakima County, Washington
 website: "https://www.wta.org/go-hiking/hikes/manastash-ridge"
 tags:
   - website

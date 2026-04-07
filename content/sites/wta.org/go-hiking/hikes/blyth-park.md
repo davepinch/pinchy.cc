@@ -8,6 +8,7 @@ vicinity of: Tolt Pipeline Trail (wta.org)
 washington trails association of:
   - Blyth Park
   - Bothell, Washington
+  - King County, Washington
   - Sammamish River
 website: "https://www.wta.org/go-hiking/hikes/blyth-park"
 tags:

@@ -7,6 +7,8 @@ type: website
 url: /www.wta.org/go-hiking/hikes/marymoor-park/
 washington trails association of:
   - Marymoor Park
+  - Redmond, Washington
+  - King County, Washington
   - Sammamish River
 website: "https://www.wta.org/go-hiking/hikes/marymoor-park"
 tags:

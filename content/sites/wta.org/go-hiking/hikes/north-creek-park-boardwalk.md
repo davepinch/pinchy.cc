@@ -5,7 +5,14 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/north-creek-park-boardwalk/
-washington trails association of: North Creek Park Boardwalk
+washington trails association of:
+  - North Creek Park Boardwalk
+  - North Creek County Park
+  - North Creek Trail
+  - North Creek
+  - Martha Lake, Washington
+  - Mill Creek, Washington
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/north-creek-park-boardwalk"
 tags:
   - website

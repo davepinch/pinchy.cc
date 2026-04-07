@@ -8,6 +8,12 @@ url: /www.wta.org/go-hiking/hikes/sammamish-river-trail/
 washington trails association of:
   - Sammamish River Trail
   - Sammamish River
+  - Marymoor Park
+  - Redmond, Washington
+  - Bothell, Washington
+  - Woodinville, Washington
+  - Blyth Park
+  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/sammamish-river-trail"
 tags:
   - website

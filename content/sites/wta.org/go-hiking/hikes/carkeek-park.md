@@ -5,7 +5,13 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/carkeek-park/
-washington trails association of: Carkeek Park
+washington trails association of:
+  - Carkeek Park
+  - Pipers Creek
+  - Venema Creek
+  - Mohlendorph Creek
+  - Seattle
+  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/carkeek-park"
 tags:
   - website

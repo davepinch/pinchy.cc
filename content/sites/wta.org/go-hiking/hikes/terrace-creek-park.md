@@ -5,7 +5,11 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/terrace-creek-park/
-washington trails association of: Terrace Creek Park
+washington trails association of:
+  - Terrace Creek Park
+  - Lyon Creek
+  - Mountlake Terrace, Washington
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/terrace-creek-park"
 tags:
   - website

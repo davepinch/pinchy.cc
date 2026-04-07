@@ -7,8 +7,11 @@ type: website
 url: /www.wta.org/go-hiking/hikes/langus-riverfront-park/
 washington trails association of:
   - Langus Riverfront Park
-  - Langus Riverfront Trail
+  - Snohomish River
   - Smith Island (Snohomish River)
+  - Langus Riverfront Trail
+  - Everett, Washington
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/langus-riverfront-park"
 tags:
   - website

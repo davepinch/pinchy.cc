@@ -9,6 +9,7 @@ washington trails association of:
   - Lake Ballinger
   - Ballinger Park
   - Mountlake Terrace, Washington
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/lake-ballinger-park"
 tags:
   - website

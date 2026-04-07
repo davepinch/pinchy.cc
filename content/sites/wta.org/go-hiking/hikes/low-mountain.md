@@ -5,7 +5,11 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/low-mountain/
-washington trails association of: Low Mountain
+washington trails association of:
+  - Low Mountain
+  - King County, Washington
+  - Alpine Lakes Wilderness
+  - Mount Baker–Snoqualmie National Forest
 website: "https://www.wta.org/go-hiking/hikes/low-mountain"
 tags:
   - website

@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/dugualla-state-park/
-washington trails association of: Dugualla State Park
+washington trails association of:
+  - Dugualla State Park
+  - Whidbey Island
+  - Island County, Washington
 website: "https://www.wta.org/go-hiking/hikes/dugualla-state-park"
 tags:
   - website

@@ -5,6 +5,7 @@ excerpt: >-
 washington trails association of:
   - Former Wayne Golf Course
   - Bothell, Washington
+  - King County, Washington
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/wayne-golf-course/

@@ -5,7 +5,12 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/magnuson-park/
-washington trails association of: Magnuson Park
+washington trails association of:
+  - Magnuson 
+  - Lake Washington
+  - Sand Point, Seattle
+  - Seattle
+  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/magnuson-park"
 tags:
   - website

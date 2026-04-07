@@ -5,7 +5,12 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/squak-mountain-eastside-loop/
-washington trails association of: Squak Mountain
+washington trails association of:
+  - Squak Mountain
+  - Issaquah, Washington
+  - Squak Mountain State Park
+  - Issaquah Alps
+  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/squak-mountain-eastside-loop"
 tags:
   - website

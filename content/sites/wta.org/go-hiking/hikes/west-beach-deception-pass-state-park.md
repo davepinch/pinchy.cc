@@ -8,6 +8,9 @@ url: /www.wta.org/go-hiking/hikes/west-beach-deception-pass-state-park/
 washington trails association of:
   - West Beach (Whidbey Island)
   - Deception Pass State Park
+  - Whidbey Island
+  - Island County, Washington
+  - Strait of Juan de Fuca
 website: "https://www.wta.org/go-hiking/hikes/west-beach-deception-pass-state-park"
 tags:
   - website

@@ -5,7 +5,14 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/tolt-pipeline-trail/
-washington trails association of: Tolt Pipeline Trail
+washington trails association of:
+  - Tolt Pipeline Trail
+  - Bothell, Washington
+  - Woodinville, Washington
+  - Cottage Lake, 
+  - Union Hill-Novelty Hill, Washington
+  - Duvall, Washington
+  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/tolt-pipeline-trail"
 tags:
   - website

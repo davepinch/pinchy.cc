@@ -5,7 +5,9 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/paradise-valley-conservation-area/
-washington trails association of: Paradise Valley Conservation Area
+washington trails association of:
+  - Paradise Valley Conservation Area
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/paradise-valley-conservation-area"
 tags:
   - website

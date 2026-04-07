@@ -6,7 +6,9 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/spada-lake-culmback-dam/
-washington trails association of: Spada Lake
+washington trails association of:
+  - Spada Lake
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/spada-lake-culmback-dam"
 tags:
   - website

@@ -10,6 +10,9 @@ washington trails association of:
   - Ladder Creek Falls
   - Ladder Creek Falls Trail
   - Skagit River
+  - Whatcom County, Washington
+  - Ross Lake National Recreation Area
+  - North Cascades National Park Complex
 website: "https://www.wta.org/go-hiking/hikes/ladder-creek-falls"
 tags:
   - website

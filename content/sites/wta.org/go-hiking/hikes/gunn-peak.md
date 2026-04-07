@@ -9,6 +9,9 @@ warning: "This area is incredibly sensitive. Pack out all human waste."
 washington trails association of:
   - Gunn Peak
   - Gunn Peak Trail
+  - Wild Sky Wilderness
+  - Mount Baker–Snoqualmie National Forest
+  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/gunn-peak"
 tags:
   - website
