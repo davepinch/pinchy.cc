@@ -57,7 +57,7 @@ sequence:
   - Bozeman, Montana
   - Livingston, Montana
   - Billings, Montana
-  - Interstate 
+  - Interstate 94 
 # Wyoming
   - Wyoming
   - South Dakota
