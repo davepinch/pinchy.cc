@@ -1,8 +1,9 @@
 ---
 title: "McCoy Creek Falls (waterfallsnorthwest.com)"
 excerpt: >-
-  While I'd long known of a tall cascading waterfall near the headwaters of McCoy Creek, I hadn't really given second thought to the small ravine near the mouth of the creek as it breaks into the Skykomish Valley. However, after receiving word from some fellow local hikers that a sizable waterfall was just ¼ mile upstream, I was sold. The results were surprisingly unexpected. While the falls weren't quite as large as I was originally led to believe, the formation was much different than I had pictured. McCoy Creek plunges through an old mill dam of some sort and then fans out over a chunky bedrock face before contracting back to a narrow stream at the base of the 45 foot falls. Unfortunately several trees block clear views from the side of the road, but with a little hazardous scrambling I was able to attain a good viewpoint. With a rope and a revisit, I hope to eventually get all the way to the base for better photos.
+  McCoy Creek is a small to moderate sized stream which originates in a handful of small lakes on the north slope of the mountains due south of the town of Sultan. As the creek makes its final tumble to meet the Skykomish River it produces a surprisingly significant waterfall considering how low in the valley and how close to the Puget Sound lowlands it is. The falls have a total drop of 58 feet as the creek veils out across a semi-bulbous cliff face before contracting into a narrow sluice at its base. Just upstream from the falls is the remnants of a small concrete dam which suggests the stream was at one time used for a small amount of hydro power (it likely isn't old enough, nor is the stream big enough to have been related to mill operation).
 northwest waterfall survey of: McCoy Creek Falls
+retrieved: 2026-04-06
 type: website
 url: /www.waterfallsnorthwest.com/waterfall/McCoy-Creek-Falls-4940/
 website: "https://www.waterfallsnorthwest.com/waterfall/McCoy-Creek-Falls-4940"
