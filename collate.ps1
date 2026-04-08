@@ -906,6 +906,11 @@ function Update-RandomFragments() {
 # ========================================================================
 function Update-ReverseTag($page) {
 
+    if ($null -eq $page.title) {
+        Debug-Page $page "page title is null"
+        return
+    }
+
     #
     # Get the hashtable for tags
     #
