@@ -1,5 +1,6 @@
 ---
 title: "The Brothers Wilderness"
+namesake of: The Brothers
 openstreetmap: "https://www.openstreetmap.org/relation/6122350"
 wikidata: "https://www.wikidata.org/wiki/Q7720386"
 wikipedia: "https://en.wikipedia.org/wiki/The_Brothers_Wilderness"
