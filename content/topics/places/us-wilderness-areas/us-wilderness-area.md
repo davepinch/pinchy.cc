@@ -2,7 +2,6 @@
 title: "U.S. Wilderness Area"
 tag requires property:
   - openstreetmap
-  - type
   - wikidata
   - wikimedia
   - wikipedia
