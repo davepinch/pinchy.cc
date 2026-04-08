@@ -6,7 +6,7 @@ wilderness area of:
   - Olympic Mountains
   - Olympic National Park
   - Clallam County, Washington
-  - Gray Harbor County, Washington
+  - Grays Harbor County, Washington
   - Jefferson County, Washington
   - Mason County, Washington
   - Olympic Peninsula
