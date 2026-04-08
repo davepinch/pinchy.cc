@@ -11,6 +11,7 @@ wildlife area of:
   - Yakima County, Washington
   - Washington
   - Pacific Northwest
+  - Cascade Range
   - United States
 tags:
   - U.S. Wilderness Area
