@@ -5,7 +5,7 @@ excerpt: >-
 retrieved: 2026-04-04
 type: website
 url: /wa100.dnr.wa.gov/puget-lowland/point-defiance/
-wsahington 100 of: Point Defiance
+washington 100 of: Point Defiance
 website: "https://wa100.dnr.wa.gov/puget-lowland/point-defiance"
 tags:
   - website
