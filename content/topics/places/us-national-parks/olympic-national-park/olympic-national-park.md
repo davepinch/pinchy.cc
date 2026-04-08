@@ -6,6 +6,8 @@ national park of:
   - Washington
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q372093"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Olympic_National_Park"
+wikivoyage: "https://en.wikivoyage.org/wiki/Olympic_National_Park"
 tags:
   - national park
 ---
