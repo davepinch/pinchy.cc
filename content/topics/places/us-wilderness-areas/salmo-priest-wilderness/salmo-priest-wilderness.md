@@ -13,4 +13,6 @@ wilderness area of:
   - Washington
   - Pacific Northwest
   - United States
+tags:
+  - U.S. Wilderness Area
 ---
