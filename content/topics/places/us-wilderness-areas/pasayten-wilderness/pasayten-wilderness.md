@@ -11,6 +11,7 @@ wilderness area of:
   - Whatcom County, Washington
   - Washington
   - Pacific Northwest
+  - Cascade Range
   - United States
 tags:
   - U.S. Wilderness Area
