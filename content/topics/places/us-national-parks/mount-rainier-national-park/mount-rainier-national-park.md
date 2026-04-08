@@ -9,7 +9,6 @@ national park of:
   - Lewis County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/1399219"
 wikidata: "https://www.wikidata.org/wiki/Q944329"
-wikipedia: "https://en.wikipedia.org/wiki/Mount_Rainier_National_Park"
 tags:
   - national park
 ---
