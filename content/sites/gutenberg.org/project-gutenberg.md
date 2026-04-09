@@ -2,6 +2,7 @@
 title: "Project Gutenberg"
 digital library of: public domain
 namesake of: Johannes Gutenberg
+similar to: FadedPage
 url: /www.gutenberg.org/
 website: "https://www.gutenberg.org/"
 wikidata: "https://www.wikidata.org/wiki/Q22673"
