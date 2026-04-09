@@ -1,5 +1,5 @@
 ---
-title: "Salmo Priest Wilderness"
+title: "Salmo-Priest Wilderness"
 openstreetmap: https://www.openstreetmap.org/relation/6035140"
 wikidata: "https://www.wikidata.org/wiki/Q7405474"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Salmo-Priest_Wilderness"
