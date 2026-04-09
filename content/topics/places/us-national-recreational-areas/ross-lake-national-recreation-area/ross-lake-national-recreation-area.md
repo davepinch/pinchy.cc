@@ -4,6 +4,7 @@ national recreation area of:
   - United States
   - Pacific Northwest
   - Cascade Range
+  - Hozameen Range
   - Washington
   - Whatcom County, Washington
   - Skagit County, Washington

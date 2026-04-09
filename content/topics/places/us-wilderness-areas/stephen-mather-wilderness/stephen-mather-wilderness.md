@@ -12,6 +12,7 @@ wilderness area of:
   - Skagit County, Washington
   - Washington
   - Pacific Northwest
+  - Hozameen Range
   - Cascade Range
   - United States
 tags:

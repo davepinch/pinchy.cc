@@ -6,6 +6,7 @@ borders:
   - incomplete list
 national forest of:
   - Washington
+  - Hozameen Range
   - Cascade Range
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/1447414"
