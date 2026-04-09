@@ -4,6 +4,7 @@ excerpt: >-
   TEHRAN (Tasnim) - The Supreme National Security Council issued a statement regarding the US's acceptance of Iran's conditions to end the war.
 license: CC BY 4.0
 retrieved: 2026-04-08
+timeline of: 2026 Iran war
 type: website
 url: /www.tasnimnews.ir/en/news/2026/04/08/3560026/snsc-issues-statement-about-iran-s-victory-over-enemies/
 website: "https://www.tasnimnews.ir/en/news/2026/04/08/3560026/snsc-issues-statement-about-iran-s-victory-over-enemies"

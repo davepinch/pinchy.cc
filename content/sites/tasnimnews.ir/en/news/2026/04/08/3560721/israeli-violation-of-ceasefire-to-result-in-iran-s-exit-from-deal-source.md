@@ -4,6 +4,7 @@ excerpt: >-
   TEHRAN (Tasnim) - An informed Iranian source cautioned that Tehran will withdraw from the temporary ceasefire agreement if the Israeli regime continues to violate the truce by persisting in its attacks on Lebanon.
 license: CC BY 4.0
 retrieved: 2026-04-08
+timeline of: 2026 Iran war
 type: website
 url: /www.tasnimnews.ir/en/news/2026/04/08/3560721/israeli-violation-of-ceasefire-to-result-in-iran-s-exit-from-deal-source/
 website: "https://www.tasnimnews.ir/en/news/2026/04/08/3560721/israeli-violation-of-ceasefire-to-result-in-iran-s-exit-from-deal-source"
