@@ -6,6 +6,7 @@ public domain of: Canada
 similar to: Project Gutenberg
 type: website
 url: /www.fadedpage.com/
+website: "https://www.fadedpage.com"
 tags:
   - website
 ---
