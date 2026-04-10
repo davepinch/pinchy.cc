@@ -1,13 +1,14 @@
 ---
 title: "Tiger Mountain State Forest"
 borders: West Tiger Mountain Natural Resources Conservation Area
-forest of:
-  - Washington
+state forest in:
   - King County, Washington
+  - Washington
   - Cascade Range
+state forest of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/7168101"
 wikidata: "https://www.wikidata.org/wiki/Q49332632"
 tags:
-  - forest
+  - Washington State Forest
   - no Wikipedia article
 ---
