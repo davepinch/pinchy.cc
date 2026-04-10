@@ -7,7 +7,7 @@ creek of:
 openstreetmap:
   - "https://www.openstreetmap.org/way/36952815 (source)"
   - "https://www.openstreetmap.org/way/749290747 (mouth)"
-tributary of: Bear Creek (Sammammish River)
+tributary of: Bear Creek (Sammamish River)
 tags:
   - creek
   - no Wikidata record
