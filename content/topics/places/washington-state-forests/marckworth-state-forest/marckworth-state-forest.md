@@ -15,4 +15,6 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Marckworth_State_Forest"
 tags:
   - Washington State Forest
   - Discover Pass required
+  - no Wikidata record
+  - no Wikipedia article
 ---
