@@ -10,4 +10,7 @@ state forest in:
 state forest of: Washington Department of Natural Resources
 tags:
   - Washington State Forest
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
