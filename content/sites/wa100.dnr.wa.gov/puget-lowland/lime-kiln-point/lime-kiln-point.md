@@ -5,7 +5,9 @@ excerpt: >-
 retrieved: 2026-04-04
 type: website
 url: /wa100.dnr.wa.gov/puget-lowland/lime-kiln-point/
-washington 100 of: Lime Kiln Point
+washington 100 of:
+  - Lime Kiln Point State Park
+  - Lime Kiln Light
 website: "https://wa100.dnr.wa.gov/puget-lowland/lime-kiln-point"
 tags:
   - website
