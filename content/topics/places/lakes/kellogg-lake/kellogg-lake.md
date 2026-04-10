@@ -4,7 +4,7 @@ also known as: Kellog Lake
 lake of:
   - Snohomish County, Washington
   - Washington
-lake on watercourse of: Bear Creek (Wallace River)"
+lake on watercourse of: Bear Creek (Wallace River)
 note: >-
   The spelling is 'Kellogg' on OpenStreetMap. The spelling is 'Kellog' on Wikidata and the USGS feature record.
 openstreetmap: "https://www.openstreetmap.org/relation/14661480"
