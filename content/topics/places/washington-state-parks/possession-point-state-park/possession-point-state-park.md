@@ -1,6 +1,7 @@
 ---
 title: "Possession Point State Park"
 mapcarta: "https://mapcarta.com/W346958909"
+official website: "This state park is not listed on the State of Washington website (reason unknown)."
 openstreetmap: "https://www.openstreetmap.org/way/346958909"
 state park of:
   - Washington
@@ -8,7 +9,6 @@ state park of:
   - Possession Point
   - Possession Sound
   - Whidbey Island
-TODO: This state park is not listed on the State of Washington website? Find out why (maybe it is new).
 vicinity of:
   - Cultus Bay
 tags:
