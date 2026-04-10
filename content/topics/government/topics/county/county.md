@@ -9,6 +9,4 @@ tag requires property:
   - Wikimedia
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q28575"
-tags:
-- geography
 ---

@@ -7,6 +7,4 @@ tag requires property:
   - OpenStreetMap
   - Wikidata
   - Wikipedia
-tags:
-  - geography
 ---
