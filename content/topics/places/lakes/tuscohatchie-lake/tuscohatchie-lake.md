@@ -8,6 +8,7 @@ lake of:
   - Washington
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/11777358"
+vicinity of: Low Mountain
 wikidata: "https://www.wikidata.org/wiki/Q49314075"
 tags:
   - lake
