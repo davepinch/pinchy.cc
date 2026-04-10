@@ -9,5 +9,6 @@ state forest of: Washington Department of Natural Resources
 wikidata: "https://www.wikidata.org/wiki/Q113989764"
 tags:
   - Washington State Forest
+  - no Wikimedia category
   - no Wikipedia article
 ---
