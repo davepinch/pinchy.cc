@@ -8,7 +8,7 @@ complex of:
   - North Cascades National Park Complex
   - North Cascades National Park
   - Ross Lake National Recreation Area
-  - Leke Chelan National Recreation Area
+  - Lake Chelan National Recreation Area
 license: CC BY-SA 4.0
 snippet of: North Cascades National Park (Wikipedia)
 type: snippet
