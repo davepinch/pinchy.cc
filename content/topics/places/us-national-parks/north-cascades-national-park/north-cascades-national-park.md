@@ -10,6 +10,7 @@ national park of:
   - Cascade Range
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/2421537"
+part of: North Cascades National Park Complex
 wikidata: "https://www.wikidata.org/wiki/Q1163799"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:North_Cascades_National_Park"
 wikivoyage: "https://en.wikivoyage.org/wiki/North_Cascades_National_Park"
