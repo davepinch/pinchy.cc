@@ -5,8 +5,8 @@ citation: >-
   Wikipedia contributors. (2024, March 10). Commander-in-chief. In *Wikipedia, The Free Encyclopedia*. Retrieved March 11, 2024, from https://en.wikipedia.org/w/index.php?title=Commander-in-chief&oldid=1213063644
 snippet of: Commander-in-chief (Wikipedia)
 type: snippet
+united states of: commander-in-chief
 url: /en.wikipedia.org/wiki/Commander-in-chief/@united-states-1-1/
 tags:
-  - commander-in-chief
   - snippet
 ---
