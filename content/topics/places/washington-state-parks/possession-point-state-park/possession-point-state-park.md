@@ -1,6 +1,5 @@
 ---
 title: "Possession Point State Park"
-mapcarta: "https://mapcarta.com/W346958909"
 official website: "This state park is not listed on the State of Washington website (reason unknown)."
 openstreetmap: "https://www.openstreetmap.org/way/346958909"
 state park of:
