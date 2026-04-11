@@ -8,7 +8,7 @@ boulder of:
 license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Boulder_at_SeaTac_Rest_Area_on_Interstate_5.jpg"
 possibly of: glacial erratic
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Boulder_at_SeaTac_Rest_Area_on_Interstate_5.jpg/320px-Boulder_at_SeaTac_Rest_Area_on_Interstate_5.jpg"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Boulder_at_SeaTac_Rest_Area_on_Interstate_5.jpg/330px-Boulder_at_SeaTac_Rest_Area_on_Interstate_5.jpg"
 type: picture
 url: /commons.wikimedia.org/wiki/Boulder_at_SeaTac_Rest_Area_on_Interstate_5.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Boulder_at_SeaTac_Rest_Area_on_Interstate_5.jpg"
