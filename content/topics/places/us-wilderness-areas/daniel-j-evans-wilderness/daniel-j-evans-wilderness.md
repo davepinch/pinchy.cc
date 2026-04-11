@@ -1,5 +1,5 @@
 ---
-title: "Daniel J. Evens Wilderness"
+title: "Daniel J. Evans Wilderness"
 openstreetmap: "https://www.openstreetmap.org/relation/16844211"
 wikidata: "https://www.wikidata.org/wiki/Q3351659"
 wilderness area of:
