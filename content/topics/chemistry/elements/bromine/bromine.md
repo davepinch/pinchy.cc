@@ -9,6 +9,7 @@ element of:
 symbol: Br
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q879"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bromine"
 tags:
   - chemical element
 ---

@@ -9,6 +9,7 @@ element of:
 symbol: Ni
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q744"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Nickel"
 tags:
   - chemical element
 ---

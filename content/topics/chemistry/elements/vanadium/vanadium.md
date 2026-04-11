@@ -9,6 +9,7 @@ element of:
 symbol: V
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q722"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Vanadium"
 tags:
   - chemical element
 ---
