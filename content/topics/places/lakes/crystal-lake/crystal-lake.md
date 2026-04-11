@@ -12,5 +12,6 @@ vicinity of: Granite Mountain
 wikidata: "https://www.wikidata.org/wiki/Q121789123"
 tags:
   - lake
+  - no Wikimedia category
   - no Wikipedia article
 ---
