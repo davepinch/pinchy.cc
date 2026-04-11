@@ -2,7 +2,7 @@
 title: "I look at Pam. I would never say she’s beautiful, because that’s gonna be the end of my political career."
 attribution: "Donald Trump on Pam Bondi (26 August 2025)"
 beauty of: Pam Bondi
-moment of: United States Cabinet
+moment of: Cabinet of the United States
 pam bondi of: Donald Trump
 quotes of: Trump’s history of praising Pam Bondi after awkward remark about attorney general’s appearance (independent.co.uk)
 type: quote
