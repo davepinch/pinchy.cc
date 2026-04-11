@@ -10,7 +10,9 @@ borders:
   - Red Sea
   - South Sudan
 clockwise around the red sea: Egypt
-country of: Africa
+country of:
+  - Africa
+  - North Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192789"
 wikidata: "https://www.wikidata.org/wiki/Q1049"
 tags:

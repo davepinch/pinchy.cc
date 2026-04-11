@@ -9,6 +9,7 @@ borders:
   - Western Sahara
 country of:
   - Africa
+  - North Africa
   - Mediterranean Sea
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/3630439"

@@ -1,6 +1,8 @@
 ---
 title: "Tunisia"
-country of: Africa
+country of:
+  - Africa
+  - North Africa
 land borders:
   - Algeria
   - Libya

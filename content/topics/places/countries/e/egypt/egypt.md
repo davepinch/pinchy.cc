@@ -12,9 +12,10 @@ borders:
   - Sudan
 clockwise around the red sea: Gulf of Suez
 country of:
-  - Middle East
   - Africa
+  - North Africa
   - Mediterranean Sea
+  - Middle East
 openstreetmap: "https://www.openstreetmap.org/relation/1473947"
 wikidata: "https://www.wikidata.org/wiki/Q79"
 tags:

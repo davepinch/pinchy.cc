@@ -11,6 +11,7 @@ borders:
   - Western Sahara
 country of:
   - Africa
+  - North Africa
   - Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/192756"
 wikidata: "https://www.wikidata.org/wiki/Q262"
