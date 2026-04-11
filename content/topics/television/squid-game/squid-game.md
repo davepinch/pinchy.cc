@@ -2,7 +2,7 @@
 title: "Squid Game"
 television program of:
   - South Korea
-  - dystopian 
+  - dystopian fiction 
   - squid
 wikidata: "https://www.wikidata.org/wiki/Q106582931"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Squid_Game"
