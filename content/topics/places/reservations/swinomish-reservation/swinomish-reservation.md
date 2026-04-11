@@ -7,6 +7,7 @@ reservation of:
   - Washington
   - Pacific Northwest
 wikidata: "https://www.wikidata.org/wiki/Q6136674"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Swinomish_Reservation"
 wikipedia: "https://en.wikipedia.org/wiki/Swinomish_Reservation"
 tags:
   - reservation
