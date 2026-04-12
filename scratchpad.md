@@ -4,6 +4,10 @@ draft: true
 ---
 
 4/12
+Office/Hormuz meme
+https://www.reddit.com/r/meme/comments/1sjibla/thatll_showem/
+
+4/12
 https://www.reddit.com/r/AskReddit/comments/1sj28q6/comment/ofovux6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
 
 3/31
