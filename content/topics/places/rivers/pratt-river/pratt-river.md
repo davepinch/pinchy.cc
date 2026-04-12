@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7238772"
 wikipedia: "https://en.wikipedia.org/wiki/Pratt_River"
 tags:
   - river
+  - no Wikimedia category
 ---
