@@ -8,7 +8,6 @@ strait of:
   - Greenland
 wikidata: "https://www.wikidata.org/wiki/Q737190"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Nares_Strait"
-wikipedia: "https://en.wikipedia.org/wiki/Nares_Strait"
 tags:
   - strait
   - no OpenStreetMap element
