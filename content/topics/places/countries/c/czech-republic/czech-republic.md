@@ -7,6 +7,7 @@ borders:
   - Slovakia
 country of: Central Europe
 openstreetmap: "https://www.openstreetmap.org/relation/51684"
+present day of: Czechoslovakia
 wikidata: "https://www.wikidata.org/wiki/Q213"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Czech_Republic"
 wikiquote: "https://en.wikiquote.org/wiki/Czech_Republic"

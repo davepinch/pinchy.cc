@@ -7,6 +7,7 @@ borders:
   - Flag_of_Slovakia.svg (Wikimedia Commons)
 flag of:
   - Czech Republic
+  - Czechoslovakia
   - triangle
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Flag_of_the_Czech_Republic.svg"
