@@ -1,5 +1,7 @@
 ---
 title: "Falkland Islands"
+british overseas territory in: Atlantic Ocean
+british overseas territory of: United Kingdom
 islands of:
   - Atlantic Ocean
   - United Kingdom

@@ -1,5 +1,6 @@
 ---
 title: "South Georgia and the South Sandwich Islands"
+british overseas territory in: Atlantic Ocean
 british overseas territory of: United Kingdom
 islands of: Atlantic Ocean
 wikidata: "https://www.wikidata.org/wiki/Q35086"
