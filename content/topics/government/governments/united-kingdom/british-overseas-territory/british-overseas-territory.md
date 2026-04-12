@@ -5,6 +5,7 @@ tag requires property:
   - Wikidata
   - Wikimedia
   - Wikipedia
+  - Wikivoyage
 territory of: United Kingdom
 tags:
   - subdivision
