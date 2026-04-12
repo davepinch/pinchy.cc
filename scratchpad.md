@@ -3,6 +3,9 @@ title: "Scratchpad"
 draft: true
 ---
 
+4/12
+https://www.reddit.com/r/AskReddit/comments/1sj28q6/comment/ofovux6/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button
+
 3/31
 https://hackneyfarm.com/, while looking up the history of Arden Hills
 
