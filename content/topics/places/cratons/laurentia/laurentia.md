@@ -1,5 +1,6 @@
 ---
 title: "Laurentia"
+also known as: North American Craton
 craton of:
   - North American Plate
   - North America
