@@ -10,4 +10,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Caesium"
 wikipedia: "https://en.wikipedia.org/wiki/Caesium"
 tags:
   - chemical element
+  - alkali metal
 ---

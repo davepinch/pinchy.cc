@@ -12,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Sodium"
 wikiquote: "https://en.wikiquote.org/wiki/Sodium"
 tags:
   - chemical element
+  - alkali metal
 ---

@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q568"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lithium"
 tags:
   - chemical element
+  - alkali metal
 ---

@@ -9,4 +9,5 @@ wikidata: "https://www.wikidata.org/wiki/Q895"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rubidium"
 tags:
   - chemical element
+  - alkali metal
 ---
