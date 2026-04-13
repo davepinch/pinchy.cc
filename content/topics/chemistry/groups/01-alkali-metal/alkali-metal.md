@@ -1,5 +1,6 @@
 ---
 title: "alkali metal"
+➡️: alkali earth metal
 group number: 1
 subclass of: metal
 wikidata: "https://www.wikidata.org/wiki/Q19557"

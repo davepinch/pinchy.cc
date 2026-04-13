@@ -1,5 +1,6 @@
 ---
 title: "alkaline earth metal"
+⬅️: alkali metal
 group number: 2
 subclass of: metal
 wikidata: "https://www.wikidata.org/wiki/Q19563"
