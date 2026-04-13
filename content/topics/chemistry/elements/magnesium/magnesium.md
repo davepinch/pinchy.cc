@@ -9,5 +9,6 @@ type: element
 wikidata: "https://www.wikidata.org/wiki/Q660"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Magnesium"
 tags:
-  - chemical element
+  - chemical 
+  - alkaline earth metal
 ---

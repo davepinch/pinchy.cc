@@ -11,4 +11,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Strontium"
 wikipedia: "https://en.wikipedia.org/wiki/Strontium"
 tags:
   - chemical element
+  - alkaline earth metal
 ---

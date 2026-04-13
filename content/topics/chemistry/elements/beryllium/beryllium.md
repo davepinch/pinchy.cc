@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q569"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Beryllium"
 tags:
   - chemical element
+  - alkaline earth metal
 ---

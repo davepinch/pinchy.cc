@@ -11,4 +11,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Barium"
 wikipedia: "https://en.wikipedia.org/wiki/Barium"
 tags:
   - chemical element
+  - alkaline earth metal
 ---
