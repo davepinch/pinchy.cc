@@ -1,5 +1,6 @@
 ---
 title: "chemical bond"
+bonding of: atom
 plural: chemical bonds
 topic of: chemistry
 wikidata: "https://www.wikidata.org/wiki/Q44424"
