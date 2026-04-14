@@ -1,6 +1,7 @@
 ---
 title: "r/askphilosophy"
 description: "/r/askphilosophy aims to provide serious, well-researched answers to philosophical questions."
+specialization of: r/AskReddit
 subreddit of:
   - philosophy
   - philosopher
