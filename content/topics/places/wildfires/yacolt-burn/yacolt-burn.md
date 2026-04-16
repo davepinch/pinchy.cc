@@ -1,6 +1,9 @@
 ---
 title: "Yacolt Burn"
-forest fire of:
+namesake of: Yacolt, Washington
+wikidata: "https://www.wikidata.org/wiki/Q8046471"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Yacolt_Burn"
+wildfire of:
   - Washington
   - Clark County, Washington
   - Cowlitz County, Washington
@@ -8,8 +11,6 @@ forest fire of:
   - Oregon
   - Columbia River
   - Columbia River Gorge
-namesake of: Yacolt, Washington
-wikidata: "https://www.wikidata.org/wiki/Q8046471"
 tags:
-  - forest fire
+  - wildfire
 ---
