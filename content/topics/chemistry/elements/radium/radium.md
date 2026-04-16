@@ -1,8 +1,9 @@
 ---
 title: "radium"
-⬅️: francium
 ➡️: actinium
+⬅️: francium
 atomic number: 88
+chemical element of: chemistry
 symbol: Ra
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q1128"

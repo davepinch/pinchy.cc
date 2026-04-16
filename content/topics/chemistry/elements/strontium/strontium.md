@@ -1,9 +1,9 @@
 ---
 title: "strontium"
-⬅️: rubidium
 ➡️: yttrium
+⬅️: rubidium
 atomic number: 38
-element of: chemistry
+chemical element of: chemistry
 symbol: Sr
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q938"

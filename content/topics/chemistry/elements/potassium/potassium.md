@@ -1,9 +1,9 @@
 ---
 title: "potassium"
-⬅️: argon
 ➡️: calcium
+⬅️: argon
 atomic number: 19
-element of: chemistry
+chemical element of: chemistry
 symbol: K
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q703"

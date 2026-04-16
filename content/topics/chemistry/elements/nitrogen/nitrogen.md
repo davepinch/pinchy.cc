@@ -1,9 +1,9 @@
 ---
 title: "nitrogen"
-⬅️: carbon
 ➡️: oxygen
+⬅️: carbon
 atomic number: 7
-element of: chemistry
+chemical element of: chemistry
 symbol: "N"
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q627"

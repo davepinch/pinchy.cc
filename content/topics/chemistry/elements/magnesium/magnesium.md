@@ -1,9 +1,9 @@
 ---
 title: "magnesium"
-⬅️: sodium
 ➡️: aluminium
+⬅️: sodium
 atomic number: 12
-element of: chemistry
+chemical element of: chemistry
 symbol: Mg
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q660"

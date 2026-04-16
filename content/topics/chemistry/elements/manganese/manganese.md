@@ -1,9 +1,9 @@
 ---
 title: "manganese"
-⬅️: chromium
 ➡️: iron
+⬅️: chromium
 atomic number: 25
-element of: chemistry
+chemical element of: chemistry
 symbol: Mn
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q731"

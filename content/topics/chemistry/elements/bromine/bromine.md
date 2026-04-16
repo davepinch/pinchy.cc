@@ -1,9 +1,9 @@
 ---
 title: "bromine"
-⬅️: selenium
 ➡️: krypton
+⬅️: selenium
 atomic number: 35
-element of:
+chemical element of:
   - halogen
   - chemistry
 symbol: Br

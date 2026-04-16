@@ -1,7 +1,9 @@
 ---
 title: "uranium"
+➡️: neptunium
+⬅️: protactinium
 atomic number: 92
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: U

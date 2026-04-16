@@ -1,8 +1,9 @@
 ---
 title: "polonium"
-⬅️: bismuth
 ➡️: astatine
+⬅️: bismuth
 atomic number: 84
+chemical element of: chemistry
 symbol: Po
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q979"

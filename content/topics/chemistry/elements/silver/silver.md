@@ -1,5 +1,7 @@
 ---
 title: "silver"
+➡️: cadmium
+⬅️: palladium
 atomic number: 47
 symbol: Ag
 type: element

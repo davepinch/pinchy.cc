@@ -1,9 +1,9 @@
 ---
 title: "phosphorus"
-⬅️: silicon
 ➡️: sulfur
+⬅️: silicon
 atomic number: 15
-element of: chemistry
+chemical element of: chemistry
 type: element
 symbol: P
 wikidata: "https://www.wikidata.org/wiki/Q674"

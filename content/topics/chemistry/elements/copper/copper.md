@@ -3,7 +3,7 @@ title: "copper"
 ➡️: zinc
 ⬅️: nickel
 atomic number: 29
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: Cu

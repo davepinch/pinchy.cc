@@ -1,9 +1,9 @@
 ---
 title: "carbon"
-⬅️: boron
 ➡️: nitrogen
+⬅️: boron
 atomic number: 6
-element of: chemistry
+chemical element of: chemistry
 symbol: C
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q623"

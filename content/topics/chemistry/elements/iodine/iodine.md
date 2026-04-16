@@ -1,7 +1,9 @@
 ---
 title: "iodine"
+➡️: xenon
+⬅️: tellurium
 atomic number: 53
-element of:
+chemical element of:
   - halogen
   - chemistry
 symbol: I

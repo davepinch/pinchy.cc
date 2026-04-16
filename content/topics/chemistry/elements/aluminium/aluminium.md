@@ -1,9 +1,9 @@
 ---
 title: "aluminium"
-⬅️: magnesium
 ➡️: silicon
+⬅️: magnesium
 atomic number: 13
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: Al

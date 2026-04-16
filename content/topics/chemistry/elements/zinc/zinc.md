@@ -1,9 +1,9 @@
 ---
 title: "zinc"
-⬅️: copper
 ➡️: gallium
+⬅️: copper
 atomic number: 30
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: Zn

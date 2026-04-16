@@ -1,9 +1,9 @@
 ---
 title: "nickel"
-⬅️: cobalt
 ➡️: copper
+⬅️: cobalt
 atomic number: 28
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: Ni

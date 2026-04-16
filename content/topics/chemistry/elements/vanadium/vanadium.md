@@ -1,9 +1,9 @@
 ---
 title: "vanadium"
-⬅️: titanium
 ➡️: chromium
+⬅️: titanium
 atomic number: 23
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: V

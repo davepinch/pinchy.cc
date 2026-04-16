@@ -1,9 +1,9 @@
 ---
 title: "scandium"
-⬅️: calcium
 ➡️: titanium
+⬅️: calcium
 atomic number: 21
-element of: chemistry
+chemical element of: chemistry
 symbol: Sc
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q713"

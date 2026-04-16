@@ -1,9 +1,9 @@
 ---
 title: "argon"
-⬅️: chlorine
 ➡️: potassium
+⬅️: chlorine
 atomic number: 18
-element of: chemistry
+chemical element of: chemistry
 symbol: Ar
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q696"

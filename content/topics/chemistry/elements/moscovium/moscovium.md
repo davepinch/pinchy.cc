@@ -1,6 +1,9 @@
 ---
 title: "moscovium"
+➡️: livermorium
+⬅️: flerovium
 atomic number: 115
+chemical element of: chemistry
 namesake of: Moscow
 symbol: Mc
 type: element

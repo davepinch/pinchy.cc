@@ -1,8 +1,9 @@
 ---
 title: "caesium"
-⬅️: xenon
 ➡️: barium
+⬅️: xenon
 atomic number: 55
+chemical element of: chemistry
 symbol: Cs
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q1108"

@@ -1,9 +1,9 @@
 ---
 title: "sodium"
-⬅️: neon
 ➡️: magnesium
+⬅️: neon
 atomic number: 11
-element of: chemistry
+chemical element of: chemistry
 see also: salt
 symbol: Na
 type: element

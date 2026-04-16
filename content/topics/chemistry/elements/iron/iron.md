@@ -1,9 +1,9 @@
 ---
 title: "iron"
-⬅️: manganese
 ➡️: cobalt
+⬅️: manganese
 atomic number: 26
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: Fe

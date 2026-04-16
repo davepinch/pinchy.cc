@@ -1,9 +1,9 @@
 ---
 title: "barium"
-⬅️: caesium
 ➡️: lanthanum
+⬅️: caesium
 atomic number: 56
-element of: chemistry
+chemical element of: chemistry
 symbol: Ba
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q1112"

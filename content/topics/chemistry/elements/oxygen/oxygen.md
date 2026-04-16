@@ -1,9 +1,9 @@
 ---
 title: "oxygen"
-⬅️: nitrogen
 ➡️: fluorine
+⬅️: nitrogen
 atomic number: 8
-element of: chemistry
+chemical element of: chemistry
 symbol: O
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q629"

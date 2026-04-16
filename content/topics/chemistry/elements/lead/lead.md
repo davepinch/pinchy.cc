@@ -1,9 +1,9 @@
 ---
 title: "lead"
-⬅️: thallium
 ➡️: bismuth
+⬅️: thallium
 atomic number: 82
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: Pb

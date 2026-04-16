@@ -1,9 +1,9 @@
 ---
 title: "titanium"
-⬅️: scandium
 ➡️: vanadium
+⬅️: scandium
 atomic number: 22
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: Ti

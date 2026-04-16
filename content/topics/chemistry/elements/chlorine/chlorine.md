@@ -1,9 +1,9 @@
 ---
 title: "chlorine"
-⬅️: sulfur
 ➡️: argon
+⬅️: sulfur
 atomic number: 17
-element of:
+chemical element of:
   - halogen
   - chemistry
 symbol: Cl

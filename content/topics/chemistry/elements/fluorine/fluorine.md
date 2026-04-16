@@ -1,9 +1,9 @@
 ---
 title: "fluorine"
-⬅️: oxygen
 ➡️: neon
+⬅️: oxygen
 atomic number: 9
-element of:
+chemical element of:
   - halogen
   - chemistry
 symbol: F

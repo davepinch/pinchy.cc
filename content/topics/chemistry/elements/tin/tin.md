@@ -1,7 +1,9 @@
 ---
 title: "tin"
+➡️: antimony
+⬅️: indium
 atomic number: 50
-element of:
+chemical element of:
   - metal
   - chemistry
 symbol: Sn

@@ -1,8 +1,9 @@
 ---
 title: "rubidium"
-⬅️: krypton
 ➡️: strontium
+⬅️: krypton
 atomic number: 37
+chemical element of: chemistry
 symbol: Rb
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q895"

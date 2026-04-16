@@ -1,9 +1,9 @@
 ---
 title: "cobalt"
-⬅️: iron
 ➡️: nickel
+⬅️: iron
 atomic number: 27
-element of: chemistry
+chemical element of: chemistry
 symbol: Co
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q740"

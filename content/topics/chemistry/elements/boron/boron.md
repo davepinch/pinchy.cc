@@ -1,9 +1,9 @@
 ---
 title: "boron"
-⬅️: beryllium
 ➡️: carbon
+⬅️: beryllium
 atomic number: 5
-element of: chemistry
+chemical element of: chemistry
 symbol: B
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q618"

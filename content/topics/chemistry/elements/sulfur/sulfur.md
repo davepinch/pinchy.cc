@@ -1,9 +1,9 @@
 ---
 title: "sulfur"
-⬅️: phosphorus
 ➡️: chlorine
+⬅️: phosphorus
 atomic number: 16
-element of: chemistry
+chemical element of: chemistry
 symbol: S
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q682"

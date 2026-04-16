@@ -1,8 +1,9 @@
 ---
 title: "bismuth"
-⬅️: lead
 ➡️: polonium
+⬅️: lead
 atomic number: 83
+chemical element of: chemistry
 symbol: Bi
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q942"

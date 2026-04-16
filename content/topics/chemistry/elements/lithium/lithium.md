@@ -1,9 +1,9 @@
 ---
 title: "lithium"
-⬅️: helium
 ➡️: beryllium
+⬅️: helium
 atomic number: 3
-element of: chemistry
+chemical element of: chemistry
 symbol: Li
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q568"

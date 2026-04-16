@@ -1,7 +1,9 @@
 ---
 title: "tennessine"
+➡️: oganesson
+⬅️: livermorium
 atomic number: 117
-element of:
+chemical element of:
   - halogen
   - chemistry
 namesake of: Tennessee

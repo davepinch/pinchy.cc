@@ -1,9 +1,9 @@
 ---
 title: "astatine"
-⬅️: polonium
 ➡️: radon
+⬅️: polonium
 atomic number: 85
-element of:
+chemical element of:
   - chemistry
   - halogen
 symbol: At

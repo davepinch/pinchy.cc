@@ -1,9 +1,12 @@
 ---
-title: "gold"
+title: "gold (element)"
+➡️: mercury (element)
+⬅️: platinum
 atomic number: 79
-element of:
+chemical element of:
   - metal
   - chemistry
+disambiguation of: gold
 symbol: Au
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q897"

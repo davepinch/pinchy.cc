@@ -7,7 +7,7 @@ retrieved: 2024-07-08
 type: website
 url: /en.wikipedia.org/wiki/Gold/
 website: "https://en.wikipedia.org/wiki/Gold"
-wikipedia of: gold
+wikipedia of: gold (element)
 tags:
   - Wikipedia
 ---

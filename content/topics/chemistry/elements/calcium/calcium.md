@@ -1,9 +1,9 @@
 ---
 title: "calcium"
-⬅️: potassium
 ➡️: scandium
+⬅️: potassium
 atomic number: 20
-element of: chemistry
+chemical element of: chemistry
 symbol: Ca
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q706"

@@ -1,9 +1,9 @@
 ---
 title: "beryllium"
-⬅️: lithium
 ➡️: boron
+⬅️: lithium
 atomic number: 4
-element of: chemistry
+chemical element of: chemistry
 symbol: Be
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q569"

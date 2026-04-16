@@ -1,8 +1,9 @@
 ---
 title: "germanium"
-⬅️: gallium
 ➡️: arsenic
+⬅️: gallium
 atomic number: 32
+chemical element of: chemistry
 namesake of: Germany
 symbol: Ge
 type: element

@@ -1,9 +1,9 @@
 ---
 title: "neon"
-⬅️: fluorine
 ➡️: sodium
+⬅️: fluorine
 atomic number: 10
-element of: chemistry
+chemical element of: chemistry
 symbol: Ne
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q654"

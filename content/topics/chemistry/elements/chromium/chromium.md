@@ -1,9 +1,9 @@
 ---
 title: "chromium"
-⬅️: vanadium
 ➡️: manganese
+⬅️: vanadium
 atomic number: 24
-element of: chemistry
+chemical element of: chemistry
 symbol: Cr
 type: element
 wikidata: "https://www.wikidata.org/wiki/Q725"
