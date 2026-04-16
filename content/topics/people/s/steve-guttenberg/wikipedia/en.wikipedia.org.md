@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-04-16
 type: website
+url: /en.wikipedia.org/wiki/Steve_Guttenberg/
 website: "https://en.wikipedia.org/wiki/Steve_Guttenberg"
 wikipedia of: Steve Guttenberg
 tags:
