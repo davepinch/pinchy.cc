@@ -1,0 +1,13 @@
+---
+title: "Ben Stein (Wikipedia)"
+excerpt: >-
+  **Benjamin Jeremy Stein** (born November 25, 1944) is an American writer, lawyer, actor, comedian, and commentator on political and economic issues. He began his career as a speechwriter for U.S. presidents Richard Nixon and Gerald Ford before entering the entertainment field as an actor, comedian, and game show host. He is best known on screen as the economics teacher in Ferris Bueller's Day Off, as the host of Win Ben Stein's Money, and as Dr. Arthur Neuman in The Mask and Son of the Mask. Stein also co-wrote and starred in the controversial 2008 film Expelled which was widely criticized for promoting pseudoscientific intelligent design creationist claims. Stein is the son of economist and writer Herbert Stein, who worked at the White House under President Nixon. As a character actor, he is well known for his droning, monotonous delivery. In comedy, he is known for his deadpan delivery.
+license: CC BY-SA 4.0
+retrieved: 2026-04-16
+type: website
+url: /en.wikipedia.org/wiki/Ben_Stein/
+website: "https://en.wikipedia.org/wiki/Ben_Stein"
+wikipedia of: Ben Stein
+tags:
+  - Wikipedia
+---
