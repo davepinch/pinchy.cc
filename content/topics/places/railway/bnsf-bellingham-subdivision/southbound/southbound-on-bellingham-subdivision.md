@@ -20,6 +20,7 @@ sequence:
   - Mount Vernon, Washington
   - Conway, Washington
   - Conway railway station #camera-roll
+  - Milltown, Washington
   - Snohomish County, Washington
   - Stanwood, Washington
   - Stillaguamish River
