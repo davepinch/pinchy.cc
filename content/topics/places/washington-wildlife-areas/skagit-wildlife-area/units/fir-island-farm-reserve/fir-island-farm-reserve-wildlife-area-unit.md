@@ -1,5 +1,6 @@
 ---
 title: "Fir Island Farm Reserve Wildlife Area Unit"
+namesake of: Fir Island
 openstreetmap: "https://www.openstreetmap.org/relation/10614625"
 vantage point of: Skagit Bay
 vicinity of: Conway, Washington
