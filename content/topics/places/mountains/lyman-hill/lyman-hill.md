@@ -5,6 +5,7 @@ mountain of:
   - Skagit County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/349003250"
+vicinity of: Washington State Route 9
 wikidata: "https://www.wikidata.org/wiki/Q49047234"
 tags:
   - mountain
