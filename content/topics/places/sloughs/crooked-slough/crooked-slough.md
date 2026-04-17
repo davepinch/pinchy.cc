@@ -1,15 +1,12 @@
 ---
-title: "Boom Slough"
-adjacent to:
-  - Erickson Island
+title: "Crooked Slough"
 connects to:
-  - Steamboat Slough (Skagit River)
-  - Brandstedt Slough
-  - Crooked Slough
-openstreetmap: "https://www.openstreetmap.org/relation/14439450"
+  - Deepwater Slough
+  - Boom Slough
+openstreetmap: "https://www.openstreetmap.org/relation/14440176"
 slough in:
-  - Fir Island
   - Skagit Bay Estuary Wildlife Area Unit
+  - Fir Island
   - Skagit County, Washington
   - Washington
 slough of:
@@ -17,6 +14,7 @@ slough of:
   - Skagit River
   - Skagit River Delta
 tributary of: Skagit Bay
+wikidata: "https://www.wikidata.org/wiki/Q113472629"
 tags:
   - slough
 ---
