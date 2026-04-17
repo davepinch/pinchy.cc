@@ -3,6 +3,7 @@ title: "Deepwater Slough"
 adjacent to: Island Wildlife Area Unit
 connects to:
   - Freshwater Slough
+  - Old River
   - Crooked Slough
 openstreetmap: "https://www.openstreetmap.org/relation/14439084"
 slough in:

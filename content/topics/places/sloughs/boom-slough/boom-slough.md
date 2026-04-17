@@ -5,6 +5,7 @@ adjacent to:
 connects to:
   - Steamboat Slough (Skagit River)
   - Brandstedt Slough
+  - Old River
   - Crooked Slough
 openstreetmap: "https://www.openstreetmap.org/relation/14439450"
 slough in:
