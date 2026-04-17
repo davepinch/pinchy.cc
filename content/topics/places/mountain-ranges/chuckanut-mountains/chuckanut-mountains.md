@@ -11,8 +11,8 @@ mountain range of:
   - United States
   - North America
 near:
-  - Bellingham, Washington
   - Lake Samish
+vicinity of: Bellingham, Washington
 wikidata: "https://www.wikidata.org/wiki/Q5115863"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Chuckanut_Mountains"
 tags:
