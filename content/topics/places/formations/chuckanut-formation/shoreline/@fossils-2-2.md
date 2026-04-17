@@ -5,7 +5,7 @@ title: "shoreline of Chuckanut Formation of the Chuckanut Mountains (Wikipedia)"
 citation: >-
   Wikipedia contributors. (2023, November 7). Chuckanut Formation. In *Wikipedia, The Free Encyclopedia*. Retrieved March 12, 2024, from https://en.wikipedia.org/w/index.php?title=Chuckanut_Formation&oldid=1183990710
 shoreline of: Chuckanut Formation
-snippet of: Chuckanut Mountains (Wikipedia)
+snippet of: Chuckanut Formation (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Chuckanut_Mountains/@fossils-2-2/
 tags:
