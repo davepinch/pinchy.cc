@@ -8,6 +8,7 @@ geology of: Alice Bay
 mention of:
   - Skagit River Delta
   - Scotts Point
+  - Blanchard Mountain
   - Anderson Mountain
   - Lyman Hill
 type: website
