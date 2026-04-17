@@ -3,6 +3,7 @@ title: "Fir Island"
 island of:
   - Skagit Bay
   - Skagit River
+  - Skagit River Delta
   - Skagit County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/12422678"
