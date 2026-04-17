@@ -1,5 +1,8 @@
 ---
 title: "Freshwater Slough"
+connects to:
+  - Deepwater Slough
+  - Steamboat Slough (Skagit River)
 openstreetmap: "https://www.openstreetmap.org/relation/14439085"
 slough of:
   - Fir Island
