@@ -1,7 +1,6 @@
 ---
 title: "Chuckanut Mountains"
-formed from: Chuckanut Formation
-mountain range of:
+mountain range in:
   - Cascade Range
   - Skagit County, Washington
   - Whatcom County, Washington
@@ -10,6 +9,7 @@ mountain range of:
   - Western United States
   - United States
   - North America
+mountain range of: Chuckanut Formation
 near:
   - Lake Samish
 vicinity of: Bellingham, Washington
