@@ -8,4 +8,5 @@ type: snippet
 url: /wdfw.wa.gov/places-to-go/wildlife-areas/skagit-headquarters-wildlife-area-unit/@fishing-1/
 tags:
   - snippet
+  - boat launch
 ---
