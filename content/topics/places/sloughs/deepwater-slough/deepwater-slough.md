@@ -7,6 +7,7 @@ connects to:
 openstreetmap: "https://www.openstreetmap.org/relation/14439084"
 slough in:
   - Skagit Bay Estuary Wildlife Area Unit
+  - Fir Island
   - Skagit County, Washington
   - Washington
 slough of:
