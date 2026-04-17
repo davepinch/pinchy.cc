@@ -8,6 +8,7 @@ geology of: Alice Bay
 mention of:
   - Skagit River Delta
   - Scotts Point
+  - Lyman Hill
 type: website
 url: /washingtonlandscape.blogspot.com/2024/01/another-icy-bay-alice-bay.html/
 website: "https://washingtonlandscape.blogspot.com/2024/01/another-icy-bay-alice-bay.html"
