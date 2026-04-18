@@ -1,5 +1,6 @@
 ---
 title: "Bitterroot Range"
+ASCEND: Rocky Mountains
 mountain range in:
   - Idaho
   - Montana
