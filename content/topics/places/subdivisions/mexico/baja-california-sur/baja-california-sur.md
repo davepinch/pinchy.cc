@@ -1,0 +1,11 @@
+---
+title: "Baja California Sur"
+not to be confused with: Baja California
+openstreetmap: "https://www.openstreetmap.org/relation/2589611"
+state of: Mexico
+wikidata: "https://www.wikidata.org/wiki/Q46508"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Baja_California_Sur"
+wikipedia: "https://en.wikipedia.org/wiki/Baja_California_Sur"
+tags:
+  - state in Mexico
+---
