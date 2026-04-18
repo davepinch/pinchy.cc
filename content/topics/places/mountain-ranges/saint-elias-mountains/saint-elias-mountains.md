@@ -7,6 +7,7 @@ mountain range in:
   - Yukon
   - British Columbia
   - Canada
+  - North America
 mountain range of: Pacific Coast Ranges
 openstreetmap: "https://www.openstreetmap.org/node/5121755521"
 wikidata: "https://www.wikidata.org/wiki/Q48719"
