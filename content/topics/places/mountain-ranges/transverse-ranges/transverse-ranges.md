@@ -3,6 +3,7 @@ title: "Transverse Ranges"
 ASCEND: Pacific Coast Ranges
 mountain range in:
   - California
+  - Western United States
   - United States
   - North America
 mountain range of: Pacific Coast Ranges
