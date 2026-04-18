@@ -3,9 +3,12 @@ title: "Selkirk Mountains"
 mountain range in:
   - Idaho
   - Washington
+  - Pacific Northwest
+  - Western United States
   - United States
   - British Columbia
   - Canada
+  - North America
 mountain range of: Columbia Mountains
 wikidata: "https://www.wikidata.org/wiki/Q1420547"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Selkirk_Mountains"
