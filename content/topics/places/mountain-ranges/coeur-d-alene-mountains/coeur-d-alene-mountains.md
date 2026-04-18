@@ -1,5 +1,6 @@
 ---
 title: "Coeur d'Alene Mountains"
+ASCEND: Bitterroot Range
 mountain range in:
   - Idaho
   - Montana
