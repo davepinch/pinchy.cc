@@ -2,6 +2,7 @@
 title: "Pacific Coast Ranges"
 ASCEND: North American Cordillera
 mountain range in:
+  - Western United States
   - United States
   - Canada
   - Mexico

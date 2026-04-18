@@ -6,6 +6,7 @@ mountain range in:
   - Canada
   - Oregon
   - Washington
+  - Pacific Northwest
   - Western United States
   - United States
   - North America

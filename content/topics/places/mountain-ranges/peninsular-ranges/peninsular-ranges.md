@@ -3,7 +3,8 @@ title: "Peninsular Ranges"
 ASCEND: Pacific Coast Ranges
 mountain range in:
   - California
-  - United 
+  - Western United States
+  - United States
   - Baja California
   - Baja California Sur
   - Baja California Peninsula

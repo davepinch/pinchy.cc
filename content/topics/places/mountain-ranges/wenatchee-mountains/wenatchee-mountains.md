@@ -6,6 +6,7 @@ mountain range in:
   - Kittitas County, Washington
   - Washington
   - Pacific Northwest
+  - Western United States
   - United States
   - North America
 mountain range of: Cascade Range

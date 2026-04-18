@@ -3,6 +3,7 @@ title: "Stuart Range"
 mountain range in:
   - Washington
   - Pacific Northwest
+  - Western United States
   - United States
   - North America
 mountain range of: Cascade Range

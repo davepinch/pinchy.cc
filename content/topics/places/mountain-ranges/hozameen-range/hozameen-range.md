@@ -4,6 +4,8 @@ ASCEND: Cascade Range
 mountain range in:
   - Whatcom County, Washington
   - Washington
+  - Pacific Northwest
+  - Western United States
   - United States
   - British Columbia
   - Canada

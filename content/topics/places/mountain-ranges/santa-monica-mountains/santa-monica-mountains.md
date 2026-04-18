@@ -3,6 +3,7 @@ title: "Santa Monica Mountains"
 ASCEND: Transverse Ranges
 mountain range in:
   - California
+  - Western United States
   - United States
   - North America
 mountain range of: Transverse Ranges

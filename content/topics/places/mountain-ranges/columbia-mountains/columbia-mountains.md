@@ -7,6 +7,8 @@ mountain range in:
   - Montana
   - Idaho
   - Washington
+  - Pacific Northwest
+  - Western United States
   - United States
   - North America
 mountain range of: Rocky Mountains

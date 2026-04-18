@@ -4,6 +4,7 @@ ASCEND: Cascade Range
 mountain range in:
   - Skagit County, Washington
   - Washington
+  - Western United States
   - British Columbia
   - Canada
 mountain range of: Cascade Range

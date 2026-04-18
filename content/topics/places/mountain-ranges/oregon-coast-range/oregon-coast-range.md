@@ -3,6 +3,7 @@ title: "Oregon Coast Range"
 ASCEND: Pacific Coast Ranges
 mountain range in:
   - Oregon
+  - Western United States
   - United States
   - North America
 mountain range of: Pacific Coast Ranges
