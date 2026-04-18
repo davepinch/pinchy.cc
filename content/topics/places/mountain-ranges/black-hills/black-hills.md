@@ -1,6 +1,6 @@
 ---
 title: "Black Hills"
-mountain range of:
+mountain range in:
   - South Dakota
   - Wyoming
   - United States
