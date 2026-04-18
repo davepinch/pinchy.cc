@@ -1,5 +1,6 @@
 ---
 title: "Columbia Mountains"
+ASCEND: Rocky Mountains
 mountain range in:
   - British Columbia
   - Canada
