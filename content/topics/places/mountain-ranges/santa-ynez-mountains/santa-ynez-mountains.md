@@ -1,9 +1,11 @@
 ---
 title: "Santa Ynez Mountains"
-mountain range of:
+ASCEND: Transverse Ranges
+mountain range in:
   - California
   - United States
   - North America
+mountain range of: Transverse Ranges
 near:
   - Santa Barbara
   - Goleta Beach
