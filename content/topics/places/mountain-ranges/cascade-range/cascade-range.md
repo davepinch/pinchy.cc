@@ -1,6 +1,6 @@
 ---
 title: "Cascade Range"
-ASCEND: Mount Rainier
+ASCEND: Pacific Coast Ranges
 mountain range in:
   - British Columbia
   - Canada
