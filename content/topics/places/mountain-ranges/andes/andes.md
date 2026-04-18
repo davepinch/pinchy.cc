@@ -1,6 +1,15 @@
 ---
 title: "Andes"
-mountain range of: South America
+mountain range in:
+  - Bolivia
+  - Chile
+  - Colombia
+  - Ecuador
+  - Peru
+  - Venuzuela
+  - Argentina
+  - South America
+mountain range of: American Cordillera
 wikidata: "https://www.wikidata.org/wiki/Q5456"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Andes"
 tags:
