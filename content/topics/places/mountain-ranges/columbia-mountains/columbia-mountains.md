@@ -7,6 +7,7 @@ mountain range in:
   - Idaho
   - Washington
   - United States
+  - North America
 mountain range of: Rocky Mountains
 wikidata: "https://www.wikidata.org/wiki/Q574528"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Columbia_Mountains"

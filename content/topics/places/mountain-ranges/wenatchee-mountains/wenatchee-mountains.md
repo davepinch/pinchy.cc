@@ -1,12 +1,14 @@
 ---
 title: "Wenatchee Mountains"
-mountain range of:
+ASCEND: Cascade Range
+mountain range in:
   - Chelan County, Washington
   - Kittitas County, Washington
   - Washington
   - Pacific Northwest
   - United States
   - North America
+mountain range of: Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/956219096"
 subrange of: Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q3323122"

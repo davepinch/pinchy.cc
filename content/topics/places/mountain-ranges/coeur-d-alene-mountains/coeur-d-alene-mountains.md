@@ -5,6 +5,7 @@ mountain range in:
   - Montana
   - Western United States
   - United States
+  - North America
 mountain range of:
   - Bitterroot Range
   - Rocky Mountains

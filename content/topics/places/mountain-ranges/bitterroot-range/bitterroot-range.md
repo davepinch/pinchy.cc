@@ -5,7 +5,7 @@ mountain range in:
   - Montana
   - Western United States
   - United States
-  - North 
+  - North America
 mountain range of: Rocky Mountains
 wikidata: "https://www.wikidata.org/wiki/Q879014"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bitterroot_Mountains"

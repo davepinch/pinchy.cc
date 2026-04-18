@@ -1,16 +1,16 @@
 ---
 title: "Tatoosh Range"
-mountain range of:
+mountain range in:
   - Gifford Pinchot National Forest
   - Mount Rainier National Park
   - Mount Rainier Wilderness
   - Tatoosh Wilderness
   - Washington
-  - Cascade Range
   - Pacific Northwest
   - Western United States
   - United States
   - North America
+mountain range of: Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/838047573"
 wikidata: "https://www.wikidata.org/wiki/Q7688221"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Tatoosh_Range"
