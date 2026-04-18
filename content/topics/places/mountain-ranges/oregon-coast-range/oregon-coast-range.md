@@ -1,5 +1,6 @@
 ---
 title: "Oregon Coast Range"
+ASCEND: Pacific Coast Ranges
 mountain range in:
   - Oregon
   - United States
