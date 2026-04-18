@@ -3,6 +3,7 @@ title: "Cape Flattery"
 cape in:
   - Makah Reservation
   - Clallam County, Washington
+  - Olympic Coast National Marine Sanctuary
   - Olympic Peninsula
   - Washington
 cape of:
