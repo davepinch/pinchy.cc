@@ -9,7 +9,6 @@ reservation in:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q14713803"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Makah_Reservation"
-wikipedia: "https://en.wikipedia.org/wiki/Makah_Reservation"
 tags:
   - reservation
 ---
