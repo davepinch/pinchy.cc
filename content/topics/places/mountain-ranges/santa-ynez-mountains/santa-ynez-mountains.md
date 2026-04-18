@@ -4,6 +4,7 @@ ASCEND: Transverse Ranges
 mountain range in:
   - California
   - United States
+  - Western United States
   - North America
 mountain range of: Transverse Ranges
 near:
