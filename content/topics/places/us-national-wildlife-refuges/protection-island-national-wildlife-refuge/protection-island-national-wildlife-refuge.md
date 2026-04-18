@@ -1,11 +1,12 @@
 ---
 title: "Protection Island National Wildlife Refuge"
-national wildlife refuge of:
+national wildlife refuge in:
   - Protection Island
   - Strait of Juan de Fuca
   - Jefferson County, Washington
   - Washington
   - United States
+national wildlife refuge of: Washington Maritime National Wildlife Refuge Complex
 official website: "https://www.fws.gov/refuge/protection-island"
 openstreetmap: "https://www.openstreetmap.org/relation/6130632"
 wikidata: "https://www.wikidata.org/wiki/Q7251328"
