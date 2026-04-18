@@ -1,5 +1,6 @@
 ---
 title: "Daniel J. Evans Wilderness"
+adjacent to: Ozette Lake
 openstreetmap: "https://www.openstreetmap.org/relation/16844211"
 wikidata: "https://www.wikidata.org/wiki/Q3351659"
 wilderness area of:
