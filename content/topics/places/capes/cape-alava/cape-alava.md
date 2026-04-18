@@ -2,6 +2,8 @@
 title: "Cape Alava"
 cape of:
   - Clallam County, Washington
+  - Olympic Coast National Marine Sanctuary
+  - Olympic Peninsula
   - Washington
   - Pacific Northwest
   - Pacific Ocean
