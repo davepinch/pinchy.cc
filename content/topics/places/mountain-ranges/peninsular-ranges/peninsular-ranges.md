@@ -9,6 +9,7 @@ mountain range in:
   - Baja California Sur
   - Baja California Peninsula
   - Mexico
+mountain range of: Pacific Coast Ranges
 wikidata: "https://www.wikidata.org/wiki/Q2068951"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Peninsular_Ranges"
 wikipedia: "https://en.wikipedia.org/wiki/Peninsular_Ranges"
