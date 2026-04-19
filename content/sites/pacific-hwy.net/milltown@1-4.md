@@ -10,4 +10,5 @@ type: snippet
 url: /www.pacific-hwy.net/milltown.htm/@1-4/
 tags:
   - snippet
+  - location
 ---
