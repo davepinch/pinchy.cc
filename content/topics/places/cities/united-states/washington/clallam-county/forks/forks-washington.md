@@ -2,6 +2,7 @@
 title: "Forks, Washington"
 city of:
   - Clallam County, Washington
+  - Olympic Peninsula
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237796"
 wikidata: "https://www.wikidata.org/wiki/Q226013"

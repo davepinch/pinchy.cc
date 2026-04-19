@@ -6,6 +6,7 @@ unincorporated community of:
   - Dungeness Bay
   - Strait of Juan de Fuca
   - Clallam County, Washington
+  - Olympic Peninsula
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q3473841"
 wikipedia: "https://en.wikipedia.org/wiki/Dungeness,_Washington"
