@@ -11,4 +11,4 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Tungsten"
 wikipedia: "https://en.wikipedia.org/wiki/Tungsten"
 tags:
   - chemical element
---
+---
