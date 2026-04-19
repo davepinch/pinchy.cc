@@ -3,7 +3,7 @@ title: "Point of Arches"
 cape of:
   - Shi Shi Beach
   - Olympic Coast National Marine Sanctuary
-  - Daniel J. Evens Wilderness
+  - Daniel J. Evans Wilderness
   - Olympic National Park
   - Clallam County, Washington
   - Olympic Peninsula
