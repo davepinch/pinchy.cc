@@ -1,7 +1,7 @@
 ---
 title: "Ozette River"
 openstreetmap: "https://www.openstreetmap.org/relation/19557240"
-river in:
+river of:
   - Makah Reservation
   - Daniel J. Evens Wilderness
   - Olympic National Park
