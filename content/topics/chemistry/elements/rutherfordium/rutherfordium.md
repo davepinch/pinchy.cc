@@ -2,6 +2,7 @@
 title: "rutherfordium"
 ➡️: dubnium
 ⬅️: lawrencium
+atomic number: 104
 chemical element of: chemistry
 namesake of: Ernest Rutherford
 symbol: Rf
