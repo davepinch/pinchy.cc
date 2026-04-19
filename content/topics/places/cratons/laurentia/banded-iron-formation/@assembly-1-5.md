@@ -1,8 +1,8 @@
 ---
 title: "banded iron formation of Laurentia (Wikipedia)"
 ✂️: "During the assembly of the core of Laurentia, banded iron formation was deposited in Michigan, Minnesota, and Labrador."
-banded iron formation of:
-  - Laurentia
+banded iron formation of: Laurentia
+banded iron formation in:
   - Michigan
   - Minnesota
   - Labrador
