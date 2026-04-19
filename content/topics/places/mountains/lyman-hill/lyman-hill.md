@@ -10,5 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49047234"
 tags:
   - mountain
   - no Wikimedia category
-  - no Wikipedia category
+  - no Wikipedia article
 ---
