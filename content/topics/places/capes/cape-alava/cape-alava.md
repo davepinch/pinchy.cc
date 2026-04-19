@@ -6,7 +6,8 @@ cape of:
   - Olympic Peninsula
   - Washington
   - Pacific Northwest
-  - Pacific Ocean
+  - Pacific 
+namesake of: José Manuel de Álava
 openstreetmap: "https://www.openstreetmap.org/node/4971180836"
 vantage point of: Tskawahyah Island
 wikidata: "https://www.wikidata.org/wiki/Q1034275"
