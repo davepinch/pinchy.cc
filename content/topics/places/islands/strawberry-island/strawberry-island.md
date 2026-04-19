@@ -6,6 +6,7 @@ island of:
   - Washington
   - strawberry
 mapcarta: "https://mapcarta.com/23970362"
+not to be confused with: Strawberry Rock
 openstreetmap: "https://www.openstreetmap.org/way/5109911"
 vicinity of:
   - Cornet Bay
