@@ -10,6 +10,7 @@ national marine sanctuary in:
   - Washington
   - United States
 national marine sanctuary of: National Oceanic and Atmospheric Administration
+openstreetmap: "https://www.openstreetmap.org/relation/9064770"
 wikidata: "https://www.wikidata.org/wiki/Q936014"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Olympic_Coast_National_Marine_Sanctuary"
 wikipedia: "https://en.wikipedia.org/wiki/Olympic_Coast_National_Marine_Sanctuary"
