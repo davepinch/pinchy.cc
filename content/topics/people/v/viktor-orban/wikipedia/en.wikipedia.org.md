@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-04-12
 type: website
+url: /en.wikipedia.org/wiki/Viktor_Orbán/
 website: "https://en.wikipedia.org/wiki/Viktor_Orb%C3%A1n"
 wikipedia of: Viktor Orbán
 tags:
