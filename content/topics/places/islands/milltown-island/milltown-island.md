@@ -16,4 +16,6 @@ vicinity of: Fir Island
 wikidata: "https://www.wikidata.org/wiki/Q30744298"
 tags:
   - island
+  - no Wikimedia category
+  - no Wikipedia article
 ---
