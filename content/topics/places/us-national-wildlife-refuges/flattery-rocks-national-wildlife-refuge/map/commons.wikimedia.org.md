@@ -9,7 +9,7 @@ map of:
   - Tatoosh Island
   - Strawberry Rock
   - Spike Rock
-  - Point of the Arches
+  - Point of Arches
   - Father & Son
   - Bodelteh Islands
   - Ozette Island
