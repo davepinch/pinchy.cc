@@ -1,7 +1,7 @@
 ---
 title: "Leeward Islands (Society Islands)"
 disambiguate of: Leeward Islands
-islands of:
+archipelago of:
   - Society Islands
   - French Polynesia
   - Pacific Ocean
@@ -10,5 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1999082"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Leeward_Islands_(Society_Islands)"
 wikipedia: "https://en.wikipedia.org/wiki/Leeward_Islands_(Society_Islands)"
 tags:
-  - islands
+  - archipelago
 ---
