@@ -1,6 +1,7 @@
 ---
 title: "Lesser Antilles"
 archipelago in:
+  - West Indies
   - Caribbean
   - Caribbean Sea
   - Atlantic Ocean
