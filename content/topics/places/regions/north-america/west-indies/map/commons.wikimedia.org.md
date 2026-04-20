@@ -4,6 +4,7 @@ authors:
   - MaligneRange (derivative work)
   - Milenioscuro (original work)
 description: "Labeled island groups of the West Indies"
+illustration of: Lesser Antilles (Wikipedia)
 license: CC BY-SA 3.0
 map of:
   - West Indies
