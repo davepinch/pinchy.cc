@@ -1,6 +1,6 @@
 ---
 title: "Wallowa Mountains"
-mountain range of:
+mountain range in:
   - Columbia Plateau
   - Oregon
   - Western United States
