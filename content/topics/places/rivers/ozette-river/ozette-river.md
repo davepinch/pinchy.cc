@@ -3,7 +3,7 @@ title: "Ozette River"
 openstreetmap: "https://www.openstreetmap.org/relation/19557240"
 river of:
   - Makah Reservation
-  - Daniel J. Evens Wilderness
+  - Daniel J. Evans Wilderness
   - Olympic National Park
   - Clallam County, Washington
   - Olympic Peninsula
