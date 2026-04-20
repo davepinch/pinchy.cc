@@ -3,6 +3,7 @@ title: "British Virgin Islands"
 british overseas territory in:
   - Virgin Islands
   - Caribbean
+  - Caribbean Sea
   - Atlantic Ocean  
 british overseas territory of: United Kingdom
 openstreetmap: "https://www.openstreetmap.org/relation/285454"
