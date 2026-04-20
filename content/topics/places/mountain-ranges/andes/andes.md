@@ -6,7 +6,7 @@ mountain range in:
   - Colombia
   - Ecuador
   - Peru
-  - Venuzuela
+  - Venezuela
   - Argentina
   - South America
 mountain range of: American Cordillera
