@@ -1,6 +1,6 @@
 ---
 title: "Lake Steilacoom"
-lake of:
+lake in:
   - Lakewood, Washington
   - Pierce County, Washington
   - Washington

@@ -1,11 +1,11 @@
 ---
 title: "Lake Michigan"
-lake of:
-  - North America
+lake in:
   - Indiana
   - Illinois
   - Michigan
   - Wisconsin
+  - North America
 near: Lake Superior
 openstreetmap: "https://www.openstreetmap.org/relation/1205149"
 wikidata: "https://www.wikidata.org/wiki/Q1169"

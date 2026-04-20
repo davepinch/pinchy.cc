@@ -7,7 +7,7 @@ borders:
   - Ontario
   - Wisconsin
 empties into: Lake Huron
-lake of:
+lake in:
   - Canada
   - United States
 near: Lake Michigan

@@ -1,6 +1,6 @@
 ---
 title: "Bald Eagle Lake"
-lake of:
+lake in:
   - Anoka County, Minnesota
   - Ramsey County, Minnesota
   - Washington County, Minnesota

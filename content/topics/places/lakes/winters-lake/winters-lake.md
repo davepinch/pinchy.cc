@@ -1,6 +1,6 @@
 ---
 title: "Winters Lake"
-lake of:
+lake in:
   - Snohomish County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/14661482"

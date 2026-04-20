@@ -1,6 +1,6 @@
 ---
 title: "Welcome Lake"
-lake of:
+lake in:
   - Union Hill-Novelty Hill, Washington
   - King County, Washington
   - Washington

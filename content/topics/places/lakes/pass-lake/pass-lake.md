@@ -1,6 +1,6 @@
 ---
 title: "Pass Lake"
-lake of:
+lake in:
   - Deception Pass State Park
   - Skagit County, Washington
   - Washington

@@ -1,11 +1,11 @@
 ---
 title: "Lake Serene"
 along Highway 2 of: VISIT SOMEWHERE NEW
-lake of:
-  - Cascade Range
-  - Snohomish County, Washington
+lake in:
   - Mount Baker–Snoqualmie National Forest
+  - Snohomish County, Washington
   - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/16680239"
 vantage point of: Mount Index
 wikidata: "https://www.wikidata.org/wiki/Q24884203"

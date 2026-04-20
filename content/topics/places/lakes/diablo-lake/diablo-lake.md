@@ -1,6 +1,6 @@
 ---
 title: "Diablo Lake"
-lake of:
+lake in:
   - Skagit River
   - Whatcom County, Washington
   - Washington

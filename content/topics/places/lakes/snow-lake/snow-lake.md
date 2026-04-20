@@ -1,11 +1,11 @@
 ---
 title: "Snow Lake"
-lake of:
-  - Cascade Range
-  - Washington
-  - King County, Washington
-  - Mount Baker–Snoqualmie National Forest
+lake in:
   - Alpine Lakes Wilderness
+  - Mount Baker–Snoqualmie National Forest
+  - King County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/6446962"
 wikidata: "https://www.wikidata.org/wiki/Q20712220"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Snow_Lake_(King_County,_Washington)"

@@ -1,7 +1,7 @@
 ---
 title: "Lake Louise"
 boat launch (Google Streetview): "https://maps.app.goo.gl/BzKMpFiyotHWbKNg6"
-lake of:
+lake in:
   - Lakewood, Washington
   - Pierce County, Washington
   - Washington

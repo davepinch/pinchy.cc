@@ -1,6 +1,6 @@
 ---
 title: "Harrison Lake"
-lake of:
+lake in:
   - British Columbia
   - Canada
 openstreetmap: "https://www.openstreetmap.org/relation/1457014"

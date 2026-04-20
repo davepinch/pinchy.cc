@@ -1,6 +1,6 @@
 ---
 title: "Lodge Lake"
-lake of:
+lake in:
   - King County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Washington

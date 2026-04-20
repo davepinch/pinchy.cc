@@ -1,6 +1,6 @@
 ---
 title: "Banks Lake"
-lake of:
+lake in:
   - Grant County, Washington
   - Douglas County, Washington
   - Washington

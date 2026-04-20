@@ -1,6 +1,6 @@
 ---
 title: "Paradise Lake"
-lake of:
+lake in:
   - Cottage Lake, Washington
   - King County, Washington
   - Washington

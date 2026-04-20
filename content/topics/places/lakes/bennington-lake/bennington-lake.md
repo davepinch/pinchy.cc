@@ -1,6 +1,6 @@
 ---
 title: "Bennington Lake"
-lake of:
+lake in:
   - Walla Walla, Washington
   - Walla Walla County, Washington
   - Washington

@@ -1,9 +1,9 @@
 ---
 title: "Lake Wenatchee"
-lake of:
-  - Cascade Range
+lake in:
   - Chelan County, Washington
   - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/1014349"
 source of: Wenatchee River
 wikidata: "https://www.wikidata.org/entity/Q7172855"

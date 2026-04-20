@@ -1,6 +1,6 @@
 ---
 title: "Island Lake"
-lake of:
+lake in:
   - Shoreview, Minnesota
   - Ramsey County, Minnesota
   - Minnesota

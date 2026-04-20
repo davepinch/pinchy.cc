@@ -1,6 +1,6 @@
 ---
 title: "Crater Lake"
-lake of:
+lake in:
   - Oregon
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/147401"

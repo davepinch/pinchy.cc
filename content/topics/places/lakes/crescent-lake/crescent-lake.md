@@ -1,10 +1,10 @@
 ---
 title: "Crescent Lake"
-lake of:
+lake in:
   - Crescent Lake Wildlife Area Unit
   - Snohomish County, Washington
   - Washington
-  - crescent
+lake of: crescent
 not to be confused with: Lake Crescent
 openstreetmap: "https://www.openstreetmap.org/relation/14418156"
 wikidata: "https://www.wikidata.org/wiki/Q113394917"

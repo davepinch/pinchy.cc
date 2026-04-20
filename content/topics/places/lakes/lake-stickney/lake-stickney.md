@@ -1,10 +1,10 @@
 ---
 title: "Lake Stickney"
 borders: Lake Stickney Community Park
-lake of:
-  - Washington
+lake in:
   - Lake Stickney, Washington
   - Snohomish County, Washington
+  - Washington
 headwaters of: Swamp Creek
 openstreetmap: "https://www.openstreetmap.org/relation/17542918"
 VISIT SOMEWHERE NEW: Lake Stickney Community Park (snohomishcountywa.gov)

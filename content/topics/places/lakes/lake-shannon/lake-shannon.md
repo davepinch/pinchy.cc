@@ -1,6 +1,6 @@
 ---
 title: "Lake Shannon"
-lake of:
+lake in:
   - Skagit River
   - Skagit County, Washington
   - Washington

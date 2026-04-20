@@ -1,6 +1,6 @@
 ---
 title: "Lake Ontario"
-lake of:
+lake in:
   - Canada
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/1206310"

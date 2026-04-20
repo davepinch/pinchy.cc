@@ -1,6 +1,6 @@
 ---
 title: "Waughop Lake"
-lake of:
+lake in:
   - Fort Steilacoom Park
   - Lakewood, Washington
   - Pierce County, Washington

@@ -1,6 +1,6 @@
 ---
 title: "Chester Morse Lake"
-lake of:
+lake in:
   - King County, Washington
   - Washington
   - Cascade Range

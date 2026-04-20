@@ -1,6 +1,6 @@
 ---
 title: "Rockdale Lake"
-lake of:
+lake in:
   - Mount Baker–Snoqualmie National Forest
   - King County, Washington
   - Washington

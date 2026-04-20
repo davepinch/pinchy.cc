@@ -1,6 +1,6 @@
 ---
 title: "Big Lake"
-lake of:
+lake in:
   - Big Lake, Washington
   - Skagit County, Washington
   - Washington

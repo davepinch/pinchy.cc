@@ -1,6 +1,6 @@
 ---
 title: "Lake Huron"
-lake of:
+lake in:
   - Michigan
   - United States
   - Ontario

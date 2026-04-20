@@ -1,6 +1,6 @@
 ---
 title: "Grass Lake"
-lake of:
+lake in:
   - Vadnais-Snail Lakes Regional Park
   - Shoreview, Minnesota
   - Ramsey County, Minnesota

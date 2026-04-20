@@ -1,6 +1,6 @@
 ---
 title: "Shaw Lake"
-lake of:
+lake in:
   - Wallace Falls State Park
   - Snohomish County, Washington
   - Washington

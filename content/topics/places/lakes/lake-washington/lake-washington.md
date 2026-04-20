@@ -4,7 +4,7 @@ crossed by:
   - Interstate 90
   - Washington State Route 520
 cruise westbound on the canal: Union Bay
-lake of:
+lake in:
   - King County, Washington
   - Washington
 near: Washington State Route 522

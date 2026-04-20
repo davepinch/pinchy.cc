@@ -6,7 +6,7 @@ see also:
   - ocean
   - river
 tag requires property:
-  - lake of
+  - lake in
   - OpenStreetMap
   - Wikidata
   - Wikimedia

@@ -1,6 +1,6 @@
 ---
 title: "Lake Chelan"
-lake of:
+lake in:
   - Lake Chelan National Recreation Area
   - Glacier Peak Wilderness
   - Lake Chelan-Sawtooth Wilderness

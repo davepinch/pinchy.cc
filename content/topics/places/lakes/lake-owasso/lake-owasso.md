@@ -1,6 +1,6 @@
 ---
 title: "Lake Owasso"
-lake of:
+lake in:
   - Ramsey County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/way/45834912"

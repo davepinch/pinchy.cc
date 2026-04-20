@@ -2,7 +2,7 @@
 title: "Perego's Lake"
 alongside of: Admiralty Inlet
 also known as: "Perego's Lagoon"
-lake of:
+lake in:
   - Ebey's Landing State Park
   - Ebey's Landing National Historical Reserve
   - Whidbey Island

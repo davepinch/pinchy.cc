@@ -5,7 +5,7 @@ borders:
   - Minnesota
   - Ontario
   - Warroad
-lake of:
+lake in:
   - United States
   - Canada
 openstreetmap: "https://www.openstreetmap.org/relation/1414848"

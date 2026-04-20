@@ -1,6 +1,6 @@
 ---
 title: "Cranberry Lake"
-lake of:
+lake in:
   - Deception Pass State Park
   - Whidbey Island
   - Island County, Washington

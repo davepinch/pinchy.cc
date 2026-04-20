@@ -1,6 +1,6 @@
 ---
 title: "Scriber Lake"
-lake of:
+lake in:
   - Lynnwood, Washington
   - King County, Washington
   - Washington

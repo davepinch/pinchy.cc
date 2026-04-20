@@ -1,6 +1,6 @@
 ---
 title: "Wakefield Lake"
-lake of:
+lake in:
   - Wakefield Park
   - Maplewood, Minnesota
   - Ramsey County, Minnesota

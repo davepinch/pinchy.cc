@@ -1,6 +1,6 @@
 ---
 title: "Great Slave Lake"
-lake of:
+lake in:
   - Northwest Territories
   - Canada
   - North America

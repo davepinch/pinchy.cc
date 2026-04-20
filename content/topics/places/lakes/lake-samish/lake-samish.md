@@ -1,6 +1,6 @@
 ---
 title: "Lake Samish"
-lake of:
+lake in:
   - Whatcom County, Washington
   - Washington
 namesake of: Samish People

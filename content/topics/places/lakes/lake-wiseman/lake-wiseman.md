@@ -1,11 +1,11 @@
 ---
 title: "Lake Wiseman"
-lake of:
-  - Cascade Range
-  - Washington
-  - Whatcom County, Washington
+lake in:
   - Mount Baker–Snoqualmie National Forest
   - Mount Baker Wilderness
+  - Whatcom County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/183507578"
 tributary of: Green Creek
 vicinity of: Mount Baker

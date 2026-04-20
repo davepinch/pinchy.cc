@@ -1,6 +1,6 @@
 ---
 title: "Lake Ballinger"
-lake of:
+lake in:
   - Ballinger Park
   - Mountlake Terrace, Washington
   - Edmonds, Washington

@@ -1,6 +1,6 @@
 ---
 title: "Crockett Lake"
-lake of:
+lake in:
   - Fort Casey State Park
   - Crockett Lake Preserve
   - Ebey's Landing National Historic Reserve

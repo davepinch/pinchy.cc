@@ -1,10 +1,10 @@
 ---
 title: "Lake Titicaca"
-lake of:
+lake in:
   - Andes
   - Bolivia
   - Peru
-largest lake of: South America
+largest lake in: South America
 openstreetmap: "https://www.openstreetmap.org/relation/3000330"
 wikidata: "https://www.wikidata.org/wiki/Q35342"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Titicaca"

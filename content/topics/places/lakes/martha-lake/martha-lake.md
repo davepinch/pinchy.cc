@@ -1,6 +1,6 @@
 ---
 title: "Martha Lake"
-lake of:
+lake in:
   - Martha Lake, Washington
   - Snohomish County, Washington
   - Washington

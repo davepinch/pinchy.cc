@@ -1,7 +1,7 @@
 ---
 title: "Lake Whatcom"
 around Bellingham of: VISIT SOMEWHERE NEW
-lake of:
+lake in:
   - Bellingham, Washington
   - Whatcom County, Washington
   - Washington

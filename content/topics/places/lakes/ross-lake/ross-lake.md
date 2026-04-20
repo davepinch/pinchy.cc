@@ -1,6 +1,6 @@
 ---
 title: "Ross Lake"
-lake of:
+lake in:
   - Skagit Valley Provincial Park
   - British Columbia
   - Whatcom County, Washington

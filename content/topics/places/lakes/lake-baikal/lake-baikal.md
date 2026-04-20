@@ -2,7 +2,7 @@
 title: "Lake Baikal"
 deepest lake of: Earth
 deepest in world of: lake
-lake of: Russia
+lake in: Russia
 openstreetmap: "https://www.openstreetmap.org/relation/555716"
 wikidata: "https://www.wikidata.org/wiki/Q5513"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Baikal"

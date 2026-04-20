@@ -1,6 +1,6 @@
 ---
 title: "Big Carnelian Lake"
-lake of:
+lake in:
   - Stillwater Township
   - Washington County, Minnesota
   - Minnesota

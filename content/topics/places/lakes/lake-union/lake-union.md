@@ -9,7 +9,7 @@ borders:
   - incomplete list
 cruise eastbound on the canal: Portage Bay
 cruise westbound on the canal: Fremont Cut
-lake of:
+lake in:
   - Lake Washington Ship Canal
   - Seattle
   - King County, Washington

@@ -1,6 +1,6 @@
 ---
 title: "Pleasant Lake"
-lake of:
+lake in:
   - Ramsey County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/way/44763542"

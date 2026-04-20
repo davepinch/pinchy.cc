@@ -1,6 +1,6 @@
 ---
 title: "Green Lake"
-lake of:
+lake in:
   - Green Lake, Seattle
   - Seattle
   - King County, Washington

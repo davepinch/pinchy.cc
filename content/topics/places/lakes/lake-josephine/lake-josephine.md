@@ -1,6 +1,6 @@
 ---
 title: "Lake Josephine"
-lake of:
+lake in:
   - Arden Hills, Minnesota
   - Roseville, Minnesota
   - Ramsey County, Minnesota

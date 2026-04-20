@@ -1,6 +1,6 @@
 ---
 title: "Elbow Lake"
-lake of:
+lake in:
   - Cascade Range
   - Washington
   - Whatcom County, Washington

@@ -1,6 +1,6 @@
 ---
 title: "Ames Lake"
-lake of:
+lake in:
   - Ames Lake, Washington
   - King County, Washington
   - Washington

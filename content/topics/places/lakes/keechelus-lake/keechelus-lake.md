@@ -1,10 +1,10 @@
 ---
 title: "Keechelus Lake"
 borders: Interstate 90
-lake of:
-  - Cascade Range
-  - Washington
+lake in:
   - Kittitas County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/16843393"
 vicinity of:
   - Snoqualmie Pass

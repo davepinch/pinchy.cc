@@ -1,6 +1,6 @@
 ---
 title: "Baker Lake"
-lake of:
+lake in:
   - Baker River
   - Mount Baker–Snoqualmie National Forest
   - Cascade Range

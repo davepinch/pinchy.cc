@@ -1,10 +1,10 @@
 ---
 title: "Lake Crescent"
-lake of:
+lake in:
   - Olympic Peninsula
   - Clallam County, Washington
   - Washington
-  - crescent
+lake of: crescent
 not to be confused with: Crescent Lake
 openstreetmap: "https://www.openstreetmap.org/relation/15009108"
 vicinity of: Port Angeles, Washington

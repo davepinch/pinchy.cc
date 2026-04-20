@@ -1,14 +1,14 @@
 ---
 title: "Lake Sammamish"
 drained by: Sammamish River
-lake of:
-  - Washington
-  - King County, Washington
+lake in:
+  - Marymoor Park
   - Bellevue, Washington
   - Issaquah, Washington
   - Redmond, Washington
   - Sammamish, Washington
-  - Marymoor Park
+  - King County, Washington
+  - Washington
 not to be confused with: Lake Samish
 openstreetmap: "https://www.openstreetmap.org/relation/1784497"
 watershed includes: Squak Mountain

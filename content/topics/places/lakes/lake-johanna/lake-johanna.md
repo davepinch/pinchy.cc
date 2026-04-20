@@ -1,6 +1,6 @@
 ---
 title: "Lake Johanna"
-lake of:
+lake in:
   - Ramsey County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/4244308"
