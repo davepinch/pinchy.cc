@@ -1,7 +1,7 @@
 ---
 title: "Bora Bora"
 island of:
-  - Leeward Islands
+  - Leeward Islands (Society Islands)
   - Society Islands
   - French Polynesia
   - Pacific Ocean
