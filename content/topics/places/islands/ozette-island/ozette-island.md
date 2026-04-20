@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49667244"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ozette_Island"
 tags:
   - island
+  - no Wikipedia article
 ---
