@@ -6,7 +6,7 @@ borders:
   - Mexico
   - Nevada
   - Oregon
-  - Pacific Ocean
+coastal state of: Pacific Ocean
 down the pacific coast:
   - Baja California
   - Mexico
@@ -25,4 +25,5 @@ wikiquote: "https://en.wikiquote.org/wiki/California"
 wikivoyage: "https://en.wikivoyage.org/wiki/California"
 tags:
   - state
+  - coastal state
 ---

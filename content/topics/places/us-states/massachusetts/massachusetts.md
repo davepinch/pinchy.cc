@@ -1,12 +1,12 @@
 ---
 title: "Massachusetts"
 borders:
-  - Atlantic Ocean
   - Connecticut
   - New Hampshire
   - New York
   - Rhode Island
   - Vermont
+coastal state of: Atlantic Ocean
 down the atlantic coast: Rhode Island
 state of:
   - New England
@@ -18,4 +18,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Massachusetts"
 wikivoyage: "https://en.wikivoyage.org/wiki/Massachusetts"
 tags:
   - state
+  - coastal state
 ---

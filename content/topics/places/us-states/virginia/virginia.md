@@ -1,13 +1,13 @@
 ---
 title: "Virginia"
 borders:
-  - Atlantic Ocean
   - District of Columbia
   - Kentucky
   - Maryland
   - North Carolina
   - Tennessee 
   - West Virginia
+coastal state of: Atlantic Ocean
 down the atlantic coast: North Carolina
 state of:
   - Mid-Atlantic United States
@@ -20,4 +20,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Virginia"
 wikivoyage: "https://en.wikivoyage.org/wiki/Virginia"
 tags:
   - state
+  - coastal state
 ---

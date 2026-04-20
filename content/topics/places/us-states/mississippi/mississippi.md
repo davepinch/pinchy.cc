@@ -3,11 +3,13 @@ title: "Mississippi"
 borders:
   - Alabama
   - Arkansas
-  - Gulf of Mexico
   - Louisiana
   - Mississippi River
   - Tennessee
 clockwise on the Gulf of Mexico: Alabama
+coastal state of:
+  - Gulf of Mexico
+  - Atlantic Ocean
 counterclockwise on the Gulf of Mexico: Louisiana
 down the mississippi: Louisiana
 not to be confused with: Mississippi River
@@ -21,4 +23,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Mississippi"
 wikivoyage: "https://en.wikivoyage.org/wiki/Mississippi"
 tags:
   - state
+  - coastal state
 ---

@@ -9,6 +9,7 @@ borders:
   - Ohio
   - Ontario
   - West Virginia
+openstreetmap: "https://www.openstreetmap.org/relation/162109"
 state of:
   - Mid-Atlantic United States
   - Northeastern United States

@@ -1,10 +1,10 @@
 ---
 title: "Connecticut"
 borders:
-  - Atlantic Ocean
   - Massachusetts
   - New York
   - Rhode Island
+coastal state of: Atlantic Ocean
 died here: Mark Twain
 down the atlantic coast: New York
 state of:
@@ -17,4 +17,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Connecticut"
 wikivoyage: "https://en.wikivoyage.org/wiki/Connecticut"
 tags:
   - state
+  - coastal state
 ---

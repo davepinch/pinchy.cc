@@ -3,10 +3,12 @@ title: "Alabama"
 borders:
   - Florida
   - Georgia
-  - Gulf of Mexico
   - Mississippi
   - Tennessee
 clockwise on the Gulf of Mexico: Florida
+coastal state of:
+  - Gulf of Mexico
+  - Atlantic Ocean
 counterclockwise on the Gulf of Mexico: Mississippi
 down the coast:
   - Mississippi
@@ -20,4 +22,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Alabama"
 wikivoyage: "https://en.wikivoyage.org/wiki/Alabama"
 tags:
   - state
+  - coastal state
 ---

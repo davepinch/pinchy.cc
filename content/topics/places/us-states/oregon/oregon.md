@@ -5,8 +5,8 @@ borders:
   - Columbia River
   - Idaho
   - Nevada
-  - Pacific Ocean
   - Washington
+coastal state of: Pacific Ocean
 down the pacific coast: California
 state of:
   - West Coast of the United States
@@ -21,4 +21,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Oregon"
 wikivoyage: "https://en.wikivoyage.org/wiki/Oregon"
 tags:
   - state
+  - coastal state
 ---

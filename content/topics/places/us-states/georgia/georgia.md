@@ -2,11 +2,11 @@
 title: "Georgia"
 borders:
   - Alabama
-  - Atlantic Ocean
   - Florida
   - North Carolina
   - South Carolina
   - Tennessee
+coastal state of: Atlantic Ocean
 down the atlantic coast: Florida
 not to be confused with: Georgia (country)
 state of:
@@ -19,4 +19,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Georgia_(U.S._state)"
 wikivoyage: "https://en.wikivoyage.org/wiki/Georgia_(state)"
 tags:
   - state
+  - coastal state
 ---

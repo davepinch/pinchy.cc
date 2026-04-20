@@ -1,11 +1,11 @@
 ---
 title: "Maine"
 borders:
-  - Atlantic Ocean
   - Canada
   - New Brunswick
   - New Hampshire
   - Quebec
+coastal state of: Atlantic Ocean
 down the atlantic coast: New Hampshire
 state of:
   - New England
@@ -18,4 +18,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Maine"
 wikivoyage: "https://en.wikivoyage.org/wiki/Maine"
 tags:
   - state
+  - coastal state
 ---

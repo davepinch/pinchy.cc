@@ -3,10 +3,10 @@ title: "Alaska"
 borders:
   - British Columbia
   - Canada
-  - Pacific Ocean
   - Russia
   - Yukon
   - incomplete list
+coastal state of: Pacific Ocean
 down the pacific coast:
   - British Columbia
   - Canada
@@ -21,4 +21,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Alaska"
 wikivoyage: "https://en.wikivoyage.org/wiki/Alaska"
 tags:
   - state
+  - coastal stata
 ---

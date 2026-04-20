@@ -1,12 +1,12 @@
 ---
 title: "New Hampshire"
 borders:
-  - Atlantic Ocean
   - Canada
   - Maine
   - Massachusetts
   - Quebec
   - Vermont
+coastal state of: Atlantic Ocean
 down the atlantic coast: Massachusetts
 state of:
   - New England
@@ -19,4 +19,5 @@ wikiquote: "https://en.wikiquote.org/wiki/New_Hampshire"
 wikivoyage: "https://en.wikivoyage.org/wiki/New_Hampshire"
 tags:
   - state
+  - coastal state
 ---

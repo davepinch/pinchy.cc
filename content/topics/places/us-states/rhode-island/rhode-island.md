@@ -1,10 +1,10 @@
 ---
 title: "Rhode Island"
 borders:
-  - Atlantic Ocean
   - Connecticut
   - Massachusetts
   - New York
+coastal state of: Atlantic Ocean
 down the atlantic coast: Connecticut
 state of:
   - New England
@@ -16,4 +16,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Rhode%20Island"
 wikivoyage: "https://en.wikivoyage.org/wiki/Rhode_Island"
 tags:
   - state
+  - coastal state
 ---

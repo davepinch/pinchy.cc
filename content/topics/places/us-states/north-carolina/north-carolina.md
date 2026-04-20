@@ -1,11 +1,11 @@
 ---
 title: "North Carolina"
 borders:
-  - Atlantic Ocean
   - Georgia
   - South Carolina
   - Tennessee
   - Virginia
+coastal state of: Atlantic Ocean
 down the atlantic coast: South Carolina
 state of:
   - Southeastern United States
@@ -17,4 +17,5 @@ wikiquote: "https://en.wikiquote.org/wiki/North_Carolina"
 wikivoyage: "https://en.wikivoyage.org/wiki/North_Carolina"
 tags:
   - state
+  - coastal state
 ---

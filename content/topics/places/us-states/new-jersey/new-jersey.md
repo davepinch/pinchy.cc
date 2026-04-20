@@ -1,10 +1,10 @@
 ---
 title: "New Jersey"
 borders:
-  - Atlantic Ocean
   - Delaware
   - New York
   - Pennsylvania
+coastal state of: Atlantic Ocean
 down the atlantic coast: Delaware
 state of:
   - Mid-Atlantic United States
@@ -17,4 +17,5 @@ wikiquote: "https://en.wikiquote.org/wiki/New_Jersey"
 wikivoyage: "https://en.wikivoyage.org/wiki/New_Jersey"
 tags:
   - state
+  - coastal state
 ---

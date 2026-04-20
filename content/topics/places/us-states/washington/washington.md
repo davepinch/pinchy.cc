@@ -6,7 +6,7 @@ borders:
   - Columbia River
   - Idaho
   - Oregon
-  - Pacific Ocean
+coastal state of: Pacific Ocean
 down the pacific coast: Oregon
 namesake of: George Washington
 state of:
@@ -24,4 +24,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Washington_(state)"
 wikivoyage: "https://en.wikivoyage.org/wiki/Washington_(state)"
 tags:
   - state
+  - coastal state
 ---

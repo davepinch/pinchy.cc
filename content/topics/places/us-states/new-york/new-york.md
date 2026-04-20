@@ -1,7 +1,6 @@
 ---
 title: "New York"
 borders:
-  - Atlantic Ocean
   - Canada
   - Connecticut
   - Massachusetts
@@ -11,6 +10,7 @@ borders:
   - Quebec
   - Rhode Island
   - Vermont
+coastal state of: Atlantic Ocean
 down the atlantic coast: New Jersey
 state of:
   - Mid-Atlantic United States
@@ -22,4 +22,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:New%20York%20(state)"
 wikivoyage: "https://en.wikivoyage.org/wiki/New_York_(state)"
 tags:
   - state
+  - coastal state
 ---

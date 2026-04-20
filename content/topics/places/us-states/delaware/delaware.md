@@ -1,10 +1,10 @@
 ---
 title: "Delaware"
 borders:
-  - Atlantic Ocean
   - Maryland
   - New Jersey
   - Pennsylvania
+coastal state of: Atlantic Ocean
 down the atlantic coast: Maryland
 state of:
   - Mid-Atlantic United States
@@ -16,4 +16,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Delaware"
 wikivoyage: "https://en.wikivoyage.org/wiki/Delaware"
 tags:
   - state
+  - coastal state
 ---

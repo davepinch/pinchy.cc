@@ -1,12 +1,12 @@
 ---
 title: "Maryland"
 borders:
-  - Atlantic Ocean
   - Delaware
   - District of Columbia
   - Pennsylvania
   - Virginia
   - West Virginia
+coastal state of: Atlantic Ocean
 down the atlantic coast: Virginia
 state of:
   - Mid-Atlantic United States
@@ -19,4 +19,5 @@ wikiquote: "https://en.wikiquote.org/wiki/Maryland"
 wikivoyage: "https://en.wikivoyage.org/wiki/Maryland"
 tags:
   - state
+  - coastal state
 ---

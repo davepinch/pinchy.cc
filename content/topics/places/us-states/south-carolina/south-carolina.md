@@ -1,9 +1,9 @@
 ---
 title: "South Carolina"
 borders:
-  - Atlantic Ocean
   - Georgia
   - North Carolina
+coastal state of: Atlantic Ocean
 down the atlantic coast: Georgia
 state of:
   - Southeastern United States
@@ -15,4 +15,5 @@ wikiquote: "https://en.wikiquote.org/wiki/South_Carolina"
 wikivoyage: "https://en.wikivoyage.org/wiki/South_Carolina"
 tags:
   - state
+  - coastal state
 ---
