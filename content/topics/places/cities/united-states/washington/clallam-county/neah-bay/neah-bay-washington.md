@@ -7,7 +7,7 @@ census-designated place in:
   - Washington
 census-designated place of:
   - Neah Bay
-  - Strait of Juan de
+  - Strait of Juan de Fuca
 openstreetmap: "https://www.openstreetmap.org/relation/238140"
 wikidata: "https://www.wikidata.org/wiki/Q1514842"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Neah_Bay,_Washington"
