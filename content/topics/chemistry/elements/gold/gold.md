@@ -1,0 +1,5 @@
+---
+title: "gold"
+tags:
+  - disambiguation
+---
