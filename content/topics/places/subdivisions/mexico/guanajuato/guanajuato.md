@@ -7,5 +7,6 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Guanajuato"
 wikipedia: "https://en.wikipedia.org/wiki/Guanajuato"
 wikivoyage: "https://en.wikivoyage.org/wiki/Guanajuato_(state)"
 tags:
+  - landlocked
   - state
 ---
