@@ -9,4 +9,5 @@ wikivoyage: "https://en.wikivoyage.org/wiki/Czechoslovakia"
 tags:
   - country
   - historical country
+  - no OpenStreetMap element
 ---
