@@ -14,7 +14,7 @@ map of:
   - Greater Antilles
   - Lesser Antilles
   - Leeward Islands (Lesser Antilles)
-  - Winward Islands
+  - Windward Islands
   - Leeward Antilles
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e8/West_Indies_-_Island_Groups.svg"
 type: picture
