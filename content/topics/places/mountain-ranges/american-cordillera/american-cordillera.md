@@ -1,7 +1,7 @@
 ---
 title: "American Cordillera"
 ASCEND: Pacific Ring of Fire
-mountain range of:
+mountain range in:
   - North America
   - South America
 wikidata: "https://www.wikidata.org/wiki/Q605761"

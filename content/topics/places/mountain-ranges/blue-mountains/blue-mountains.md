@@ -1,6 +1,6 @@
 ---
 title: "Blue Mountains"
-mountain range of:
+mountain range in:
   - Oregon
   - Washington
   - Pacific Northwest
