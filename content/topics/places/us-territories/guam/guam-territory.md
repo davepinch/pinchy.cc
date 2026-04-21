@@ -10,5 +10,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Guam"
 wikipedia: "https://en.wikipedia.org/wiki/Guam"
 wikivoyage: "https://en.wikivoyage.org/wiki/Guam"
 tags:
-  - island
+  - territory
 ---
