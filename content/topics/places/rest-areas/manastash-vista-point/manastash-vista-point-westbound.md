@@ -1,6 +1,5 @@
 ---
 title: "Manastash Vista Point (westbound)"
-mapcarta: "https://mapcarta.com/N4214008290"
 vantage point of:
   - Manastash Ridge
   - Kittitas County, Washington
