@@ -1,5 +1,5 @@
 ---
-title: "Winward Islands (Lesser Antilles)"
+title: "Windward Islands (Lesser Antilles)"
 archipelago of:
   - Lesser Antilles
   - West Indies

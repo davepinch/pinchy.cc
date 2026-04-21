@@ -7,7 +7,7 @@ retrieved: 2024-11-29
 type: website
 url: /en.wikipedia.org/wiki/Windward_Islands_(Society_Islands)/
 website: "https://en.wikipedia.org/wiki/Windward_Islands_(Society_Islands)"
-wikipedia of: Windward Islands
+wikipedia of: Windward Islands (Society Islands)
 tags:
   - Wikipedia
 ---
