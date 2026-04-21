@@ -4,6 +4,7 @@ excerpt: >-
   Flag of the United Kingdom, Union Jack or Union Flag in a 1:2 ratio (typical on British warships and also the rank flag of an admiral of the fleet).
 flag (at sea) of: United Kingdom
 flag of:
+  - Northern Ireland
   - Saint George's Cross
   - Saint Patrick's Saltire
   - SVG
