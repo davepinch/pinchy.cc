@@ -8,7 +8,7 @@ excerpt: >-
 mention of:
   - Washington State Route 9
   - Sedro-Woolley, Washington
-  - Kendal, Washington
+  - Kendall, Washington
   - Samish River
   - South Fork Nooksack River
   - Mills Creek
