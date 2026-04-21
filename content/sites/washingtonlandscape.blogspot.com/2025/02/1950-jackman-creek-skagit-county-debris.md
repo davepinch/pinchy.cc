@@ -7,7 +7,7 @@ excerpt: >-
   The Highway 9 corridor from Sedro-Wooley to Kendal follows the Samish River Valley and then after crossing a very subtle divide follows the South Fork Nooksack River Valley. I previously noted the alluvial fans associated with steams that flow into the Sanish River Valley (alluvial-fans-altering-samish-river).
 mention of:
   - Washington State Route 9
-  - Sedro-Wooley, Washington
+  - Sedro-Woolley, Washington
   - Kendal, Washington
   - Samish River
   - South Fork Nooksack River
