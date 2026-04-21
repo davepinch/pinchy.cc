@@ -1,7 +1,7 @@
 ---
 title: "Sea of Galilee"
 informally of: sea
-lake of:
+lake in:
   - Israel
   - Middle East
   - West Asia
