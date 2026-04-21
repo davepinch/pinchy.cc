@@ -1,5 +1,5 @@
 ---
-title: "Winward Islands (Society Islands)"
+title: "Windward Islands (Society Islands)"
 archipelago of:
   - Society Islands
   - Pacific Ocean
