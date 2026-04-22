@@ -6,7 +6,7 @@ location of:
   - Venezuela
   - SVG
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/05/Venezuela_Orthographic_Map.svg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Venezuela_Orthographic_Map.svg/480px-Venezuela_Orthographic_Map.svg.png"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Venezuela_Orthographic_Map.svg/500px-Venezuela_Orthographic_Map.svg.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Venezuela_Orthographic_Map.svg/
 website: "https://commons.wikimedia.org/wiki/File:Venezuela_Orthographic_Map.svg"
