@@ -3,6 +3,11 @@ title: "Scratchpad"
 draft: true
 ---
 
+4/21
+https://britannica11.org/home.html
+https://news.ycombinator.com/item?id=47851885
+
+
 4/12
 Office/Hormuz meme
 https://www.reddit.com/r/meme/comments/1sjibla/thatll_showem/
