@@ -9,7 +9,6 @@ in the wild:
   - "https://www.reddit.com/r/aliens/comments/1ki2r4d/do_you_guys_have_any_theories_about_what_the_wow/"
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/d3/Wow_signal.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Wow_signal.jpg/320px-Wow_signal.jpg"
 type: picture
 url: /commons.wikimedia.org/wiki/Wow_signal.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Wow_signal.jpg"
