@@ -5,7 +5,6 @@ glacial erratic of:
   - Whidbey Island
   - Island County, Washington
   - Washington
-mapcarta: "https://mapcarta.com/N12486002800"
 openstreetmap: "https://www.openstreetmap.org/node/12486002800"
 tags:
   - glacial erratic
