@@ -1,6 +1,6 @@
 ---
 title: "University of Washington station"
-lightrail station of: University District, Seattle
+light rail station of: University District, Seattle
 tags:
-  - lightrail station
+  - light rail station
 ---
