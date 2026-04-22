@@ -6,7 +6,7 @@ four penny coffin of: London
 license: public domain
 photograph of: four penny coffin
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/84/Fourpence_coffin.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Fourpence_coffin.jpg/594px-Fourpence_coffin.jpg"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Fourpence_coffin.jpg/330px-Fourpence_coffin.jpg"
 type: picture
 url: /commons.wikimedia.org/wiki/Fourpence_coffin.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Fourpence_coffin.jpg"
