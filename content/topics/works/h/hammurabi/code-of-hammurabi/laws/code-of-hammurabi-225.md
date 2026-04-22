@@ -2,6 +2,8 @@
 title: "Code of Hammurabi § 225"
 ➡️: Code of Hammurabi § 226
 ⬅️: Code of Hammurabi § 224
+law of: Code of Hammurabi
+url: /code-of-hammurabi/225/
 tags:
   - Code of Hammurabi law
 ---
