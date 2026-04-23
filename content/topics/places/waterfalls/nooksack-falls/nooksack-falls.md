@@ -2,6 +2,7 @@
 title: "Nooksack Falls"
 openstreetmap: "https://www.openstreetmap.org/node/1919608290"
 waterfall of:
+  - North Fork Nooksack River
   - Nooksack River
   - Whatcom County, Washington
   - Mount Baker–Snoqualmie National Forest
