@@ -3,6 +3,7 @@ title: "downstream the Middle Fork Nooksack River"
 downstream of: Middle Fork Nooksack River
 sequence:
   - Deming Glacier
+  - Middle Fork Nooksack Falls
   - Ridley Creek Trail
   - Ridley Creek
   - Rankin Creek
