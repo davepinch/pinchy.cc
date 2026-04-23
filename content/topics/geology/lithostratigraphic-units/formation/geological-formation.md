@@ -1,5 +1,6 @@
 ---
 title: "geological formation"
+geological of: formation
 tag requires property:
   - geological formation of
   - Wikidata
