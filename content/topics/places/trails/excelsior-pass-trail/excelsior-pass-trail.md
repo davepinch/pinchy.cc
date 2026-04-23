@@ -5,6 +5,7 @@ openstreetmap: "https://www.openstreetmap.org/way/182294438"
 trail of:
   - Washington State Route 542
   - Excelsior Pass
+  - Mount Baker Wilderness
   - Mount Baker–Snoqualmie National Forest
   - Whatcom County, Washington
   - Washington
