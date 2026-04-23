@@ -1,6 +1,6 @@
 ---
 title: "Wells Creek Volcanic Member"
-lithologic member of: Nooksack Formation
+geological member of: Nooksack Formation
 tags:
-  - lithologic member
+  - geological member
 ---
