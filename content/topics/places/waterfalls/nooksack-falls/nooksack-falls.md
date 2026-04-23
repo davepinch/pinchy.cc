@@ -1,7 +1,9 @@
 ---
 title: "Nooksack Falls"
 openstreetmap: "https://www.openstreetmap.org/node/1919608290"
-vicinity of: Washington State Route 542
+vicinity of:
+  - Washington State Route 542
+  - Glacier, Washington
 waterfall of:
   - North Fork Nooksack River
   - Nooksack River
