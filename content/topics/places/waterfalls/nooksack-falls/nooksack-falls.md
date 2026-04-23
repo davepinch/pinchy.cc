@@ -1,6 +1,7 @@
 ---
 title: "Nooksack Falls"
 openstreetmap: "https://www.openstreetmap.org/node/1919608290"
+vicinity of: Washington State Route 542
 waterfall of:
   - North Fork Nooksack River
   - Nooksack River
