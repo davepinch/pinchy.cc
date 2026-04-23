@@ -1,12 +1,14 @@
 ---
 title: "The Bahamas"
+country in:
+  - Lucayan Archipelago
+  - Caribbean
+  - Atlantic Ocean
+  - North America
 country of:
   - Commonwealth of Nations
   - archipelago
   - island
-  - Caribbean
-  - North America
-  - Atlantic Ocean
 near:
   - Cuba
   - Florida
