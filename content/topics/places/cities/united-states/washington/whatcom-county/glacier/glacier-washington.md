@@ -4,6 +4,7 @@ census-designated place of:
   - Whatcom County, Washington
   - Washington
   - Washington State Route 542
+google maps: "https://maps.app.goo.gl/stkJarNq1NTnd5Yp8"
 near: Mount Baker
 openstreetmap: "https://www.openstreetmap.org/node/150963641"
 wikidata: "https://www.wikidata.org/wiki/Q1505914"

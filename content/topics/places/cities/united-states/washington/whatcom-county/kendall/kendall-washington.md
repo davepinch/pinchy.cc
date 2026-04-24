@@ -4,6 +4,7 @@ census-designated place of:
   - Whatcom County, Washington
   - Washington
   - Washington State Route 542
+google maps: "https://maps.app.goo.gl/yTPcAhsQrHmnfGTCA"
 openstreetmap: "https://www.openstreetmap.org/relation/237211"
 wikidata: "https://www.wikidata.org/wiki/Q1508210"
 tags:

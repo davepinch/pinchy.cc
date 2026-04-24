@@ -1,5 +1,6 @@
 ---
 title: "Nooksack Falls"
+google maps: "https://maps.app.goo.gl/s1B5KDs1N6fmTjoq5"
 openstreetmap: "https://www.openstreetmap.org/node/1919608290"
 vicinity of:
   - Washington State Route 542
