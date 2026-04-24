@@ -12,6 +12,7 @@ sequence:
   - Kendall, Washington
   - Maple Falls, Washington
   - Glacier, Washington
+  - Excelsior Pass Trail
   - Mount Baker
 type: sequence
 tags:
