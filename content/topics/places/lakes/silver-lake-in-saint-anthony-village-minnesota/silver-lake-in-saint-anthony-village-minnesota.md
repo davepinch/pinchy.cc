@@ -2,7 +2,7 @@
 title: "Silver Lake (Saint Anthony Village, Minnesota)"
 disambiguation of: Silver Lake
 lake in:
-  - Saint Anthony Village
+  - Saint Anthony Village, Minnesota
   - Columbia Heights, Minnesota
   - Ramsey County, Minnesota
   - Minnesota
