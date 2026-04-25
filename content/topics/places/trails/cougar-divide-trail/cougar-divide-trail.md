@@ -9,6 +9,7 @@ trail in:
   - Whatcom County, Washington
   - Washington
 trail of:
+  - Cougar Divide
   - Mount Baker
   - Wells Creek Road
 vicinity of:
