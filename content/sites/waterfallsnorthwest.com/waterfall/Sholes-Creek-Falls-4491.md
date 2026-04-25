@@ -6,7 +6,7 @@ northwest waterfall survey of: Sholes Creek Falls
 retrieved: 2026-04-24
 type: website
 url: /www.waterfallsnorthwest.com/waterfall/Sholes-Creek-Falls-4491/
-vicinity of: Wells Creek Falls (waterfallnorthwest.com)
+vicinity of: Wells Creek Falls (waterfallsnorthwest.com)
 website: "https://www.waterfallsnorthwest.com/waterfall/Sholes-Creek-Falls-4491"
 tags:
   - website
