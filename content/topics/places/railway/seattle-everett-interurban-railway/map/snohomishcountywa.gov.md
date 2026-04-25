@@ -6,7 +6,7 @@ excerpt: >-
 interurban railway map of:
   - Everett
   - Port Gardner Bay
-  - Silver Lake
+  - Silver Lake (Everett, Washington)
   - Mill Creek, Washington
   - Martha Lake
   - Lynnwood, Washington
