@@ -4,11 +4,11 @@ title: "meadows of Cougar Divide Trail (summitpost.org)"
 meadows of:
   - Cougar Divide Trail
   - Cougar Divide
-  - Chowder Ridge
 retrieved: 2026-04-24
 snippet of: Hadley Peak (summitpost.org)
 type: snippet
 url: /www.summitpost.org/hadley-peak/561479/@getting-there-2-2/
+vicinity of: Chowder Ridge
 tags:
   - snippet
 ---
