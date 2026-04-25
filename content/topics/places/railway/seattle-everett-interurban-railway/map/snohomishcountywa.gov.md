@@ -5,7 +5,7 @@ excerpt: >-
   The data for this map was gleaned from maps in Warren Wing’s *To Seattle By Trolley*, from a 1910 Plat Book of Snohomish County. from a Thomas Guide map, from an interview with retired interurban motorman Walt Shannon, and by the author, Fred Bird.
 interurban railway map of:
   - Everett
-  - Port Gardner Bay
+  - Port Gardner
   - Silver Lake (Everett, Washington)
   - Mill Creek, Washington
   - Martha Lake
