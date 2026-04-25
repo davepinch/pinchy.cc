@@ -3,6 +3,7 @@ title: "Point Defiance Park"
 city park of:
   - Tacoma, Washington
   - Pierce County, Washington
+namesake of: Point Defiance
 official website: "https://www.parkstacoma.gov/place/point-defiance-park/"
 openstreetmap: "https://www.openstreetmap.org/relation/6310471"
 wikidata: "https://www.wikidata.org/wiki/Q7208006"
