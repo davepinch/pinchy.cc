@@ -11,7 +11,7 @@ mention of:
   - Ozette Lake
   - Ozette Island
   - Tskawahyah Island
-  - Jose Manuel de Alava
+  - José Manuel de Álava
   - Makah People
 type: website
 url: /washingtonlandscape.blogspot.com/2025/12/hike-to-cape-alava.html/
