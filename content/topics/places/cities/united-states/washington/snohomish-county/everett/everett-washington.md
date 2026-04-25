@@ -11,6 +11,7 @@ city of:
   - Interstate 5
   - U.S. Route 2
   - Washington State Route 99
+mention of: Silver Lake (Everett, Washington)
 near: Snohomish, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237659"
 wikidata: "https://www.wikidata.org/wiki/Q392599"
