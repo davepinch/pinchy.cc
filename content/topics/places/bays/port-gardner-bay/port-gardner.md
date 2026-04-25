@@ -1,5 +1,6 @@
 ---
 title: "Port Gardner"
+also known as: Port Gardner Bay
 bay of:
   - Possession Sound
   - Everett, Washington
