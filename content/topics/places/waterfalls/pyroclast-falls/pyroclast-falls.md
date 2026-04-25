@@ -14,4 +14,7 @@ waterfall in a headwater stream of: Wells Creek
 tags:
   - waterfall
   - no OpenStreetMap element
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
