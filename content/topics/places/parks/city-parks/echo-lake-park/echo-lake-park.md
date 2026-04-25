@@ -7,6 +7,7 @@ city park in:
 city park of:
   - Echo Lake
   - Interurban Trail
+former site of: Seattle-Everett Interurban Railway
 namesake of: Echo Lake
 official website: "https://www.shorelinewa.gov/Home/Components/FacilityDirectory/FacilityDirectory/28/135"
 tags:
