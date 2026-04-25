@@ -3,7 +3,7 @@ title: "bohrium"
 ➡️: hassium
 ⬅️: seaborgium
 atomic number: 107
-chemical element of: bohrium
+chemical element of: chemistry
 namesake of: Niels Bohr
 symbol: Bh
 type: element
