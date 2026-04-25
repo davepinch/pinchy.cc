@@ -1,7 +1,8 @@
 ---
 title: "Echo Lake"
-lake of:
+lake in:
   - Shoreline, Washington
+  - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/32447286"
 wikidata: "https://www.wikidata.org/wiki/Q124352943"
