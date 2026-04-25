@@ -10,10 +10,12 @@ northwest geology field trips of:
   - Washington State Route 542
   - Wells Creek
   - Wells Creek Volcanic Member
+TODO: Identify the quarries and add snippets/information.
 type: website
 url: /nwgeology.wordpress.com/the-fieldtrips/field-trip-to-the-wells-creek-volcanics-north-fork-nooksack-river/
 website: "https://nwgeology.wordpress.com/the-fieldtrips/field-trip-to-the-wells-creek-volcanics-north-fork-nooksack-river/"
 when: 2010-02-04
 tags:
   - website
+  - TODO
 ---
