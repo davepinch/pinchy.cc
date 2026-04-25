@@ -1,6 +1,6 @@
 ---
 title: "Wells Creek Falls"
-google maps: "https://maps.app.goo.gl/cgEH24ztEVNJ3DKZ8"
+google maps: "https://maps.app.goo.gl/Y9Fm3zqsJqgpemFUA"
 namesake of: Wells Creek
 waterfall of:
   - Wells Creek
