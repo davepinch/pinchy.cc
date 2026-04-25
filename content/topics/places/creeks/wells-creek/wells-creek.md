@@ -5,6 +5,7 @@ creek of:
   - Mount Baker–Snoqualmie National Forest
   - Whatcom County, Washington
   - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/182802026"
 tributary of: North Fork Nooksack River
 vicinity of: Mount Baker
