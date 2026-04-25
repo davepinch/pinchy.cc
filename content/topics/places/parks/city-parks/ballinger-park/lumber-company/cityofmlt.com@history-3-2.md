@@ -12,7 +12,7 @@ retrieved: 2026-03-27
 snippet of: Ballinger Park (cityofmlt.md)
 type: snippet
 url: /www.cityofmlt.com/446/Ballinger-Park/@history-3-2/
-vicinity of: Interurban Railway
+vicinity of: Seattle-Everett Interurban Railway
 tags:
   - snippet
 ---
