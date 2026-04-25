@@ -4,7 +4,7 @@ disambiguation of: Silver Lake
 lake in:
   - Saint Anthony Village
   - Columbia Heights, Minnesota
-  - Ramsey County, Washington
+  - Ramsey County, Minnesota
   - Minnesota
 lake of: silver
 openstreetmap: "https://www.openstreetmap.org/relation/3308029"
