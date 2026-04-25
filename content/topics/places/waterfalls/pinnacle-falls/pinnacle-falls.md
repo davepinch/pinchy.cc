@@ -7,6 +7,7 @@ waterfall in:
   - Mount Baker–Snoqualmie National Forest
   - Washington
   - Cascade Range
+waterfall of: Wells Creek
 tags:
   - waterfall
   - no OpenStreetMap element
