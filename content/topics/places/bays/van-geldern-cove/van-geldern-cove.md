@@ -1,5 +1,6 @@
 ---
 title: "Van Geldern Cove"
+adjacent to: Mayo Cove
 bay in:
   - Carr Inlet
   - Pierce County, Washington
