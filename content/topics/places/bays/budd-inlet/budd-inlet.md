@@ -23,7 +23,6 @@ note:
 openstreetmap: "https://www.openstreetmap.org/relation/13312228"
 wikidata: "https://www.wikidata.org/wiki/Q4984106"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Budd_Inlet"
-wikipedia: "https://en.wikipedia.org/wiki/Budd_Inlet"
 tags:
   - bay
 ---
