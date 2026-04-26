@@ -4,6 +4,7 @@ bay in:
   - Thurston County, Washington
   - Washington
 connects to: Dana Passage
+disambiguation of: Boston Harbor
 note:
   - "Wikidata states that Boston Harbor is connected to **Dana Passage**."
   - "According to OpenStreetMap, there is a portion of unnamed waters between Boston Harbor and Dana Passage."
