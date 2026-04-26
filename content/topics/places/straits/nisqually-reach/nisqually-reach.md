@@ -1,5 +1,6 @@
 ---
 title: "Nisqually Reach"
+connects to: Case Inlet
 openstreetmap: "https://www.openstreetmap.org/relation/13312642"
 strait of:
   - Puget Sound
