@@ -9,7 +9,7 @@ connects to:
   - "note: connections are listed from north to south."
   - Dana Passage
   - Eld Inlet
-  - Gulf Harbor
+  - Gull Harbor
   - Big Tykel Cove
   - Butler Cove
   - Ellis Cove
