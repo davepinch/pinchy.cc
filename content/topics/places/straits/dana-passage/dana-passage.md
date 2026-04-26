@@ -12,9 +12,9 @@ strait in:
   - Mason County, Washington
   - Thurston County, Washington
   - Washington
-strait of:
-  - Harstine Island
+strait of: Harstine Island
 wikidata: "https://www.wikidata.org/wiki/Q49111066"
 tags:
   - strait
+  - no Wikimedia category
 ---
