@@ -7,7 +7,7 @@ bay in:
   - Washington
 connects to:
   - "note: connections are listed from north to south."
-  - Dana Passage
+  - Dana Passage (extended)
   - Eld Inlet
   - Gull Harbor
   - Big Tykel Cove
