@@ -1,6 +1,7 @@
 ---
 title: "Dofflemyer Point"
 cape in:
+  - Boston Harbor, Washington
   - Thurston County, Washington
   - Washington
 cape of:
