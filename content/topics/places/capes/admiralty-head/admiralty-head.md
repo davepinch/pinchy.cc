@@ -6,7 +6,7 @@ cape of:
   - Whidbey Island
   - Island County, Washington
   - Washington
-openstreetmap: "https://www.openstreetmap.org/?mlat=48.155278&mlon=-122.679444"
+openstreetmap: "https://www.openstreetmap.org/node/13455417434"
 wikidata: "https://www.wikidata.org/wiki/Q49837404"
 tags:
   - cape
