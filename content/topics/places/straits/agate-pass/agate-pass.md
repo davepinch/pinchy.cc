@@ -1,7 +1,7 @@
 ---
 title: "Agate Pass"
 connects to: Port Madison
-note: On Wikimedia, this strait is named *Agate Channel*.
+note: On Wikimedia Commons, this strait is named *Agate Channel*.
 openstreetmap: "https://www.openstreetmap.org/relation/13313267"
 strait of:
   - Puget Sound
