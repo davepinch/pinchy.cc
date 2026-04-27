@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-04-25
 type: website
+url: /en.wikipedia.org/wiki/Dalco_Passage/
 website: "https://en.wikipedia.org/wiki/Dalco_Passage"
 wikipedia of: Dalco Passage
 tags:
