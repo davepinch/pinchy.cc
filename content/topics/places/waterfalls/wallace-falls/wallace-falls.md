@@ -1,11 +1,12 @@
 ---
 title: "Wallace Falls"
 openstreetmap: "https://www.openstreetmap.org/node/408498275"
-waterfall of:
+waterfall in:
   - Wallace Falls State Park
-  - Wallace River
   - Snohomish County, Washington
   - Washington
+  - Cascade Range
+waterfall of: Wallace River
 wikidata: "https://www.wikidata.org/wiki/Q111304964"
 wikipedia: >-
   Wikipedia does not have an article for Wallace Falls. It redirects https://en.wikipedia.org/wiki/Wallace_Falls to  [Wallace Falls State Park](/en.wikipedia.org/wiki/Wallace_Falls_State_Park/).
