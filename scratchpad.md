@@ -2,6 +2,16 @@
 title: "Scratchpad"
 draft: true
 ---
+4/27 next morning
+In the footer, look for a footer property.
+Then use a 'footer of' to customize for specific items.
+
+4/27
+By writing this, I encode an echo of Hammurabi.
+His laws live on.
+
+4/27
+I too am concerned about my constituents, in aggregate.
 
 4/21
 https://britannica11.org/home.html
