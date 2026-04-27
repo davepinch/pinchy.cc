@@ -2,7 +2,7 @@
 title: "strait"
 plural: straits
 tag requires property:
-  - strait of
+  - strait in
   - OpenStreetMap
   - Wikidata
   - Wikimedia
