@@ -1,8 +1,10 @@
 ---
 title: "McCoy Creek"
-creek of:
+creek in:
   - Marckworth State Forest
   - Snohomish County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/471624613"
 tags:
   - creek

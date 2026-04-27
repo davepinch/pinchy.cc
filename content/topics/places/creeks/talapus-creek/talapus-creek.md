@@ -1,6 +1,6 @@
 ---
 title: "Talapus Creek"
-creek of:
+creek in:
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest
   - King County, Washington

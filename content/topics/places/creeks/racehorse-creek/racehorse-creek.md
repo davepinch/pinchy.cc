@@ -1,10 +1,11 @@
 ---
 title: "Racehorse Creek"
-creek of:
+creek in:
   - Whatcom County, Washington
+  - Washington
   - Cascade Range
-near: Deming, Washington
 openstreetmap: "https://www.openstreetmap.org/way/363391097"
+vicinity of: Deming, Washington
 wikidata: "https://www.wikidata.org/wiki/Q131756790"
 tags:
   - creek

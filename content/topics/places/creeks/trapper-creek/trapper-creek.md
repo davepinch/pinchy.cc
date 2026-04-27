@@ -1,6 +1,6 @@
 ---
 title: "Trapper Creek"
-creek of:
+creek in:
   - Trapper Creek Wilderness
   - Skamania County, Washington
   - Gifford Pinchot National Forest

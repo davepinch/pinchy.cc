@@ -1,9 +1,11 @@
 ---
 title: "Olney Creek"
-creek of:
+creek in:
   - Morning Star Natural Resources Conservation Area
   - Sultan, Washington
   - Snohomish County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/14663468"
 rockhounding site of: gold (element)
 tributary of: Wallace River

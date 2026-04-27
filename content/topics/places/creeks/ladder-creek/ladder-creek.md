@@ -1,6 +1,6 @@
 ---
 title: "Ladder Creek"
-creek of:
+creek in:
   - Whatcom County, Washington
   - Ross Lake National Recreation Area
   - North Cascades National Park

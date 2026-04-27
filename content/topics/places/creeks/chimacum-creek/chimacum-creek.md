@@ -1,6 +1,6 @@
 ---
 title: "Chimacum Creek"
-creek of:
+creek in:
   - Chimacum Wildlife Area Unit
   - Quimper Peninsula
   - Jefferson County, Washington

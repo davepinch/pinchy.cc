@@ -1,6 +1,6 @@
 ---
 title: "Denny Creek"
-creek of:
+creek in:
   - King County, Washington
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest

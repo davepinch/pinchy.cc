@@ -1,6 +1,6 @@
 ---
 title: "Jackson Creek"
-creek of:
+creek in:
   - Skagit County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/374746736"

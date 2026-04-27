@@ -1,12 +1,12 @@
 ---
 title: "Change Creek"
-creek of:
-  - Cascade Range
-  - Washington
-  - King County, Washington
-  - Mount Baker–Snoqualmie National Forest
-  - Palouse to Cascades State Park
+creek in:
   - Olallie State Park
+  - Palouse to Cascades State Park
+  - Mount Baker–Snoqualmie National Forest
+  - King County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/16733138"
 tributary of: South Fork Snoqualmie River
 vicinity of: Interstate 90

@@ -1,6 +1,6 @@
 ---
 title: "Smith Creek"
-creek of:
+creek in:
   - Mount Baker Wilderness
   - Mount Baker–Snoqualmie National Forest
   - Whatcom County, Washington

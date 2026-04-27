@@ -1,6 +1,6 @@
 ---
 title: "Venema Creek"
-creek of:
+creek in:
   - Pipers Creek Natural Area
   - Carkeek Park
   - Broadview, Seattle

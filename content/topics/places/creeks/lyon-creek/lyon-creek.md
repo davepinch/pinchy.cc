@@ -1,6 +1,6 @@
 ---
 title: "Lyon Creek"
-creek of:
+creek in:
   - Washington
   - Snohomish County, Washington
   - Mountlake Terrace, Washington

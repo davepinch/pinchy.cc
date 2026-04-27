@@ -1,11 +1,11 @@
 ---
 title: "Boxley Creek"
-creek of:
-  - Cascade Range
-  - Washington
-  - King County, Washington
-  - Palouse to Cascades State Park
+creek in:
   - Olallie State Park
+  - Palouse to Cascades State Park
+  - King County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/16733008"
 tributary of: South Fork Snoqualmie River
 wikidata: "https://www.wikidata.org/wiki/Q49866212"

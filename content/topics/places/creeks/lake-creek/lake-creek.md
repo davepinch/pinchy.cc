@@ -1,6 +1,6 @@
 ---
 title: "Lake Creek"
-creek of:
+creek in:
   - Lakeview Recreation Area
   - Lincoln County, Washington
   - Channeled Scablands

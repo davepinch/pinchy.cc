@@ -3,7 +3,7 @@ title: "Lodge Creek"
 also known as:
   - Hyak Creek
   - Mountaineer Lodge Creek
-creek of:
+creek in:
   - King County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Washington

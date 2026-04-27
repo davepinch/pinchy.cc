@@ -1,6 +1,6 @@
 ---
 title: "Hansen Creek"
-creek of:
+creek in:
   - Tinkham Road
   - Palouse to Cascades State Park
   - Mount Baker–Snoqualmie National Forest

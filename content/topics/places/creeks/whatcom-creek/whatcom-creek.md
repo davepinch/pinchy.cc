@@ -1,7 +1,7 @@
 ---
 title: "Whatcom Creek"
 around Bellingham of: VISIT SOMEWHERE NEW
-creek of:
+creek in:
   - Lake Whatcom
   - Bellingham, Washington
   - Whatcom County, Washington

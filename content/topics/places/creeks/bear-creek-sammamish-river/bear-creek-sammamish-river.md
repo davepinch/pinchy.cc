@@ -1,6 +1,6 @@
 ---
 title: "Bear Creek (Sammamish River)"
-creek of:
+creek in:
   - Cottage Lake, Washington
   - Redmond, Washington
   - King County, Washington

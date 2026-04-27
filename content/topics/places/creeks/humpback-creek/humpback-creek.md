@@ -1,6 +1,6 @@
 ---
 title: "Humpback Creek"
-creek of:
+creek in:
   - Palouse to Cascades State Park
   - Mount Baker–Snoqualmie National Forest
   - King County, Washington

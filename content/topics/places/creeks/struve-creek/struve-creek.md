@@ -1,6 +1,6 @@
 ---
 title: "Struve Creek"
-creek of:
+creek in:
   - Cottage Lake, Washington
   - King County, Washington
   - Washington

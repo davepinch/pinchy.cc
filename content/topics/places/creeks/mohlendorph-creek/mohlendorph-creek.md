@@ -1,6 +1,6 @@
 ---
 title: "Mohlendorph Creek"
-creek of:
+creek in:
   - Carkeek Park
   - Broadview, Seattle
   - Seattle

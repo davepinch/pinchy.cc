@@ -1,13 +1,14 @@
 ---
 title: "Little Bear Creek"
-creek of:
-  - Washington
-  - Snohomish County, Washington
-  - Silver Firs, Washington
-  - Maltby, Washington
-  - King County, Washington
-  - Woodinville, Washington
+creek in:
   - Rotary Community Park
+  - Maltby, Washington
+  - Silver Firs, Washington
+  - Woodinville, Washington
+  - King County, Washington
+  - Snohomish County, Washington
+  - Washington
+creek of:
   - Sammamish River Trail
 not to be confused with: Bear Creek (Sammamish River)
 openstreetmap:

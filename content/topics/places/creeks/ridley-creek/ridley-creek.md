@@ -1,12 +1,12 @@
 ---
 title: "Ridley Creek"
-creek of:
-  - Cascade Range
-  - Washington
-  - Whatcom County, Washington
-  - Mount Baker–Snoqualmie National Forest
+creek in:
   - Mount Baker National Recreation Area
   - Mount Baker Wilderness
+  - Whatcom County, Washington
+  - Mount Baker–Snoqualmie National Forest
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/183374022"
 tributary of: Middle Fork Nooksack River
 vicinity of: Mount Baker

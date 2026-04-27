@@ -1,12 +1,12 @@
 ---
 title: "May Creek"
-creek of:
-  - Cascade Range
-  - Washington
+creek in:
+  - Gold Bar, Washington
+  - Wild Sky Wilderness
   - Snohomish County, Washington
   - Mount Baker–Snoqualmie National Forest
-  - Wild Sky Wilderness
-  - Gold Bar, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: https://www.openstreetmap.org/relation/14664843
 tributary of: Wallace River
 wikidata: "https://www.wikidata.org/wiki/Q114437581"

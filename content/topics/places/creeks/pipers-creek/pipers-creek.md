@@ -1,7 +1,7 @@
 ---
 title: "Pipers Creek"
 also known as: Piper's Creek (with an apostrophe)
-creek of:
+creek in:
   - Carkeek Park
   - Broadview, Seattle
   - Blue Ridge, Seattle

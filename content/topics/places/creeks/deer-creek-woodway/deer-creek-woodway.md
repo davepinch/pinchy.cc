@@ -1,6 +1,9 @@
 ---
 title: "Deer Creek (Woodway)"
-creek of: Woodway, Washington
+creek in:
+  - Woodway, Washington
+  - Snohomish County, Washington
+  - Washington
 disambiguation of: Deer Creek
 openstreetmap:
   - "https://www.openstreetmap.org/way/1338163819"

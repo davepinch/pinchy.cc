@@ -1,6 +1,6 @@
 ---
 title: "Colin Creek"
-creek of:
+creek in:
   - Union Hill-Novelty Hill, Washington
   - Cottage Lake, Washington
   - King County, Washington

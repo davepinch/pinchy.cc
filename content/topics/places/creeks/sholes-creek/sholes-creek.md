@@ -1,6 +1,6 @@
 ---
 title: "Sholes Creek"
-creek of:
+creek in:
   - Mount Baker Wilderness
   - Whatcom County, Washington
   - Mount Baker–Snoqualmie National Forest

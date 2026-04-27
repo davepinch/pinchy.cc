@@ -1,6 +1,6 @@
 ---
 title: "Judd Creek"
-creek of:
+creek in:
   - Vashon Island
   - Vashon, Washington
   - King County, Washington

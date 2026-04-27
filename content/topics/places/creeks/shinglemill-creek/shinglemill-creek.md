@@ -1,10 +1,11 @@
 ---
 title: "Shinglemill Creek"
-creek of:
+creek in:
   - Shinglemill Creek Natural Area
   - Vashon Island
   - Vashon, Washington
   - King County, Washington
+  - Washington
 openstreetmap:
   - "https://www.openstreetmap.org/way/511361327 (mouth)"
 tributary of:

@@ -1,11 +1,11 @@
 ---
 title: "Ribary Creek"
-creek of:
-  - Cascade Range
-  - Washington
-  - King County, Washington
+creek in:
   - Rattlesnake Mountain Scenic Area
   - North Bend, Washington
+  - King County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap:
   - "https://www.openstreetmap.org/way/645131510 (Rattlesnake Mountain Scenic Area)"
   - "https://www.openstreetmap.org/way/1423372641 (Forster Woods residential area)"

@@ -1,6 +1,7 @@
 ---
 title: "Swamp Creek"
-creek of:
+creek in:
+  - "note: from headwaters downstream"
   - Snohomish County, Washington
   - Lake Stickney, Washington
   - North Lynnwood, Washington

@@ -1,6 +1,6 @@
 ---
 title: "Petroleum Creek"
-creek of:
+creek in:
   - Shi Shi Beach
   - Makah Reservation
   - Clallam County, Washington

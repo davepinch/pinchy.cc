@@ -1,6 +1,6 @@
 ---
 title: "Icicle Creek"
-creek of:
+creek in:
   - Chelan County, Washington
   - Alpine Lakes Wilderness
   - Okanogan–Wenatchee National Forest

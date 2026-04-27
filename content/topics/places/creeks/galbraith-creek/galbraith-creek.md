@@ -1,10 +1,10 @@
 ---
 title: "Galbraith Creek"
-creek of:
-  - Cascade Range
-  - Washington
-  - Whatcom County, Washington
+creek in:
   - Dailey Prairie Natural Area Preserve
+  - Whatcom County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/14514643"
 tributary of: Middle Fork Nooksack River
 wikidata: "https://www.wikidata.org/wiki/Q49918364"

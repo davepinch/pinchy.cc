@@ -1,6 +1,6 @@
 ---
 title: "Greenfield Creek"
-creek of:
+creek in:
   - Thurston County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/11900619"

@@ -1,10 +1,12 @@
 ---
 title: "Hall's Creek"
-creek of:
-  - Snohomish County, Washington
+creek in:
+  - Ballinger Park
   - Lynnwood, Washington
   - Mountlake Terrace, Washington
-  - Ballinger Park
+  - Snohomish County, Washington
+  - Washington
+not to be confused with: Hall Creek
 openstreetmap:
   - "https://www.openstreetmap.org/way/1233778187 (headwaters)"
   - "https://www.openstreetmap.org/way/506810560 (mouth at Lake Ballinger)"

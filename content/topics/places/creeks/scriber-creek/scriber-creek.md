@@ -1,6 +1,6 @@
 ---
 title: "Scriber Creek"
-creek of:
+creek in:
   - Lynnwood, Washington
   - Snohomish County, Washington
   - Washington

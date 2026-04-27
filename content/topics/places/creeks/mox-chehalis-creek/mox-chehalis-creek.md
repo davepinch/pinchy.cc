@@ -1,6 +1,6 @@
 ---
 title: "Mox Chehalis Creek"
-creek of: Washington
+creek in: Washington
 tags:
   - creek
   - VISIT SOMEWHERE NEW

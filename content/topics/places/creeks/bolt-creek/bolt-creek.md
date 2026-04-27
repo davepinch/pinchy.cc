@@ -1,10 +1,10 @@
 ---
 title: "Bolt Creek"
-creek of:
-  - Mount Baker–Snoqualmie National Forest
-  - Cascade Range
+creek in:
   - King County, Washington
+  - Mount Baker–Snoqualmie National Forest
   - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/16893360"
 vicinity of: Skykomish, Washington
 wikidata: "https://www.wikidata.org/wiki/Q49863899"

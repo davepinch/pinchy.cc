@@ -1,6 +1,6 @@
 ---
 title: "Glacier Creek"
-creek of:
+creek in:
   - Whatcom County, Washington
   - Washington
   - Cascade Range

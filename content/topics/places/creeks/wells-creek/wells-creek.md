@@ -1,9 +1,9 @@
 ---
 title: "Wells Creek"
-creek of:
+creek in:
   - Mount Baker Wilderness
-  - Mount Baker–Snoqualmie National Forest
   - Whatcom County, Washington
+  - Mount Baker–Snoqualmie National Forest
   - Washington
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/182802026"

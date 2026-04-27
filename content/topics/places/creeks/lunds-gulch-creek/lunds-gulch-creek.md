@@ -1,6 +1,6 @@
 ---
 title: "Lund's Gulch Creek"
-creek of:
+creek in:
   - Meadowdale Beach Park
   - Meadowdale, Washington
   - Lynnwood, Washington

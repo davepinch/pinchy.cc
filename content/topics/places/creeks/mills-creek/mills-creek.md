@@ -1,6 +1,6 @@
 ---
 title: "Mills Creek"
-creek of:
+creek in:
   - Skagit County, Washington
   - Washington
 not to be confused with: Mill Creek, Washington

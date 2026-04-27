@@ -1,11 +1,11 @@
 ---
 title: "Hildebrand Creek"
-creek of:
-  - Cascade Range
-  - Washington
+creek in:
+  - Mount Baker Wilderness
   - Whatcom County, Washington
   - Mount Baker–Snoqualmie National Forest
-  - Mount Baker Wilderness
+  - Washington
+  - Cascade Range
 tributary of: Green Creek
 vicinity of: Mount Baker
 tags:

@@ -1,6 +1,6 @@
 ---
 title: "Sequalitchew Creek"
-creek of:
+creek in:
   - DuPont, Washington
   - Joint Base Lewis-McChord
   - Pierce County, Washington

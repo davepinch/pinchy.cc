@@ -1,6 +1,6 @@
 ---
 title: "Phalen Creek"
-creek of:
+creek in:
   - Lake Phalen
   - Saint Paul, Minnesota
   - Ramsey County, Minnesota

@@ -1,6 +1,6 @@
 ---
 title: "Pilchuck Creek"
-creek of:
+creek in:
   - Skagit County, Washington
   - Snohomish County, Washington
   - Cascade Range
