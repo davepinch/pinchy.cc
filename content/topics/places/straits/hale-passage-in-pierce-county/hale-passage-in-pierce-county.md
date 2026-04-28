@@ -1,5 +1,5 @@
 ---
-title: "Hale Passage"
+title: "Hale Passage (Pierce County)"
 connects to:
   - "note: from east to west"
   - Tacoma Narrows
@@ -8,6 +8,7 @@ connects to:
   - Shaws Cove
   - Carr Inlet
 description: "The Hale Passage separates Fox Island from the Kitsap Peninsula. The east end connects to Carr Inlet. "
+not to be confused with: Hale Passage (Whatcom County)
 openstreetmap: "https://www.openstreetmap.org/relation/13312656"
 strait in:
   - Pierce County, Washington

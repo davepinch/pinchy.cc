@@ -3,7 +3,7 @@ title: "Nisqually Reach"
 connects to:
   - "note: from east to west"
   - Tacoma Narrows
-  - Hale Passage
+  - Hale Passage (Pierce County)
   - Chambers Bay
   - Balch Passage
   - Cormorant Passage
