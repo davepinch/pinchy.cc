@@ -17,6 +17,7 @@ strait of:
   - Gig Harbor Peninsula
   - Kitsap Peninsula
 wikidata: "https://www.wikidata.org/wiki/Q49111442"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Hale_Passage_(Pierce_County,_Washington)"
 tags:
   - strait
 ---
