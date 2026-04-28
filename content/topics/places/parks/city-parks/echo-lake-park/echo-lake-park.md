@@ -10,6 +10,7 @@ city park of:
 former site of: Seattle-Everett Interurban Railway
 namesake of: Echo Lake
 official website: "https://www.shorelinewa.gov/Home/Components/FacilityDirectory/FacilityDirectory/28/135"
+openstreetmap: "https://www.openstreetmap.org/way/436756158"
 tags:
   - city park
   - VISIT SOMEWHERE NEW
