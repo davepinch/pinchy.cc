@@ -9,6 +9,7 @@ borders:
   - Victory Heights, Seattle
   - Washington State Route 522
   - incomplete list
+google maps: "https://maps.app.goo.gl/U3WFoZ8hy3mC6B7x8"
 neighborhood of: Lake City, Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150962744"
 wikidata: "https://www.wikidata.org/wiki/Q5056822"
