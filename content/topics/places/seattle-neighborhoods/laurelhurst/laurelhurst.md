@@ -1,6 +1,6 @@
 ---
 title: "Laurelhurst, Seattle"
-borders:
+adjacent to:
   - Bryant, Seattle
   - Lake Washington
   - Union Bay
