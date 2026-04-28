@@ -8,7 +8,7 @@ see also:
   - river
   - water
 tag requires property:
-  - island of
+  - island in
   - OpenStreetMap
   - Wikidata
   - Wikipedia
