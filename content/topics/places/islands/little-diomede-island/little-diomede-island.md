@@ -1,11 +1,11 @@
 ---
 title: "Little Diomede Island"
-island of:
-  - Diomede Islands
-  - Bering Strait
+island in:
   - Alaska
-near: Big Diomede Island
+  - Bering Strait
+island of: Diomede Islands
 openstreetmap: "https://www.openstreetmap.org/way/20747781"
+vicinity to: Big Diomede Island
 wikidata: "https://www.wikidata.org/wiki/Q1224996"
 tags:
   - island
