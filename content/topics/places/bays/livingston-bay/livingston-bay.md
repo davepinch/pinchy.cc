@@ -5,7 +5,6 @@ adjacent to:
   - Iverson Nature Preserve
   - Iverson Spit
 bay in:
-  - Camano, Washington
   - Island County, Washington
   - Washington
 connects to: Port Susan

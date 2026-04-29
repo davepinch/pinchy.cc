@@ -4,7 +4,6 @@ adjacent to:
   - Livingston Bay
   - Port Susan
 county park in:
-  - Camano, Washington
   - Camano Island
   - Island County, Washington
   - Washington
