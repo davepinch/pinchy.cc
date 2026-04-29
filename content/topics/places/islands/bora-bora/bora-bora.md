@@ -1,6 +1,6 @@
 ---
 title: "Bora Bora"
-island of:
+island in:
   - Leeward Islands (Society Islands)
   - Society Islands
   - French Polynesia
