@@ -1,5 +1,18 @@
 ---
 title: "Bainbridge Island"
+adjacent to:
+  - "note: clockwise from north"
+  - Port Madison
+  - Port Madison Bay
+  - Puget Sound
+  - Rolling Bay
+  - Murden Cove
+  - Eagle Harbor
+  - Blakely Harbor
+  - Rich Passage
+  - Port Orchard
+  - Manzanita Bay
+  - Agate Passage
 island in:
   - Puget Sound
   - Kitsap County, Washington
