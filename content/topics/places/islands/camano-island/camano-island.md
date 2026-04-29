@@ -9,6 +9,7 @@ adjacent to:
   - Saratoga Passage
 island in:
   - Puget Sound
+  - Camano, Washington
   - Island County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/3958309"
