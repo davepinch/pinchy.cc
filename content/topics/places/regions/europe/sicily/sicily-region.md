@@ -1,5 +1,6 @@
 ---
 title: "Sicily (region)"
+disambiguation of: Sicily
 openstreetmap: "https://www.openstreetmap.org/relation/39152"
 region of:
   - Italy
