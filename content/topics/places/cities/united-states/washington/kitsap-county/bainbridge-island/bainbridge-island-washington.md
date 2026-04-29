@@ -5,6 +5,7 @@ city of:
   - Kitsap County, Washington
   - Washington
 not to be confused with: Bainbridge Island
+openstreetmap: "https://www.openstreetmap.org/relation/237327"
 wikidata: "https://www.wikidata.org/wiki/Q803903"
 tags:
   - city
