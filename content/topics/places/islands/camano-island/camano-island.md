@@ -1,8 +1,13 @@
 ---
 title: "Camano Island"
-island of:
-  - Saratoga Passage
+adjacent to:
+  - "note: clockwise from north"
+  - Skagit Bay
+  - Port Susan
+  - Livingston Bay
   - Possession Sound
+  - Saratoga Passage
+island in:
   - Puget Sound
   - Island County, Washington
   - Washington
