@@ -3,6 +3,7 @@ title: "Blake Island"
 island in:
   - Blake Island Marine State Park
   - Puget Sound
+  - Salish Sea
   - Kitsap County, Washington
   - Washington
 note: The Blake Island Marine State Park extends over the island and into some of the surrounding waters.
