@@ -7,6 +7,7 @@ city of:
 not to be confused with: Bainbridge Island
 openstreetmap: "https://www.openstreetmap.org/relation/237327"
 wikidata: "https://www.wikidata.org/wiki/Q803903"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bainbridge_Island,_Washington"
 tags:
   - city
 ---
