@@ -1,6 +1,6 @@
 ---
 title: "Baffin Island"
-island of:
+island in:
   - Atlantic Ocean
   - Nunavut
   - Canada
