@@ -1,13 +1,13 @@
 ---
 title: "Ben Ure Island"
-island of:
+island in:
   - Deception Pass
   - Island County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/3067591"
-vicinity of:
-  - Whidbey Island
+vicinity to:
   - Cornet Bay
+  - Whidbey Island
 wikidata: "https://www.wikidata.org/wiki/Q30744108"
 tags:
   - island
