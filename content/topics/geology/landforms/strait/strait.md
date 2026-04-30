@@ -2,6 +2,8 @@
 title: "strait"
 plural: straits
 tag requires property:
+  - adjacent to
+  - connects to
   - strait in
   - OpenStreetMap
   - Wikidata
