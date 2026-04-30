@@ -1,8 +1,11 @@
 ---
 title: "Crete"
-island of:
-  - Greece
-  - Mediterranean Sea
+adjacent to:
+  - Aegean Sea
+  - Levantine Sea
+  - Libyan Sea
+island in: Mediterranean Sea
+island of: Greece
 openstreetmap: "https://www.openstreetmap.org/relation/453129"
 wikidata: "https://www.wikidata.org/wiki/Q34374"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Crete"
