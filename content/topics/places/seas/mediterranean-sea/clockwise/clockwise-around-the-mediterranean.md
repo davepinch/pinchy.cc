@@ -2,6 +2,7 @@
 title: "clockwise around the Mediterranean"
 clockwise of: Mediterranean Sea
 next: Strait of Gibraltar
+# Note: if you change this list, also change Levantine Sea if impacted
 sequence:
   - Strait of Gibraltar
   - Europe
@@ -19,6 +20,7 @@ sequence:
   - Greece
   - West Asia
   - Turkey
+  - Levantine Sea
   - Syria
   - Lebanon
   - Byblos
@@ -33,6 +35,7 @@ sequence:
   - Africa
   - Alexandria
   - Libya
+  - Libyan Sea
   - Tunisia
   - Algeria
   - Morocco
