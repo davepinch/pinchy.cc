@@ -1,5 +1,5 @@
 ---
-title: "Strait of Messini"
+title: "Strait of Messina"
 adjacent to:
   - Sicily (island)
   - Sicily (region)
