@@ -40,7 +40,7 @@ sequence:
 # - Burrows Bay
 # - Sharpe Park
   - Rosario Beach
-# - Rosario Head
+  - Rosario Head
   - Sharpe Cove
   - Bowman Bay
 # - Vista Point
