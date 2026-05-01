@@ -13,7 +13,6 @@ strait in:
   - Italy
 wikidata: "https://www.wikidata.org/wiki/Q134705"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Strait_of_Messina"
-wikipedia: "https://en.wikipedia.org/wiki/Strait_of_Messina"
 tags:
   - strait
 ---
