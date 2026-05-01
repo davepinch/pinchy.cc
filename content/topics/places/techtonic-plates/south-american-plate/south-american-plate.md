@@ -12,5 +12,5 @@ contains:
 wikidata: "https://www.wikidata.org/wiki/Q119490"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:South_American_tectonic_plate"
 tags:
-  - techtonic plate
+  - tectonic plate
 ---
