@@ -1,12 +1,16 @@
 ---
 title: "Ebey Island"
-borders: Everett, Washington
-island of:
-  - Ebey Slough
+adjacent to:
   - Snohomish River
+  - Ebey Slough
   - Steamboat Slough (Snohomish River)
+  - Everett, Washington
+island in:
   - Snohomish County, Washington
   - Washington
+island of:
+  - U.S. Route 2
+  - Snohomish River
 openstreetmap: "https://www.openstreetmap.org/relation/14422944"
 wikidata: "https://www.wikidata.org/wiki/Q30744165"
 tags:
