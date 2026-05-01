@@ -1,8 +1,12 @@
 ---
 title: "Days Island"
-around Tacoma of: VISIT SOMEWHERE NEW
-island of:
+adjacent to:
+  - "note: the east and southeast side of the island is along the Tacoma Narrows. The other side is the Nisqually Reach."
+  - Tacoma Narrows
   - Nisqually Reach
+around Tacoma of: VISIT SOMEWHERE NEW
+island in:
+  - Puget Sound
   - University Place, Washington
   - Pierce County, Washington
   - Washington
