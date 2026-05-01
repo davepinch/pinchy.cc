@@ -4,6 +4,7 @@ adjacent to:
   - Sicily (island)
   - Sicily (region)
   - Italy
+  - Italian Peninsula
 connects to:
   - Tyrrhenian Sea
   - Ionian Sea
