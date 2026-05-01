@@ -2,6 +2,7 @@
 title: "Strait of Sicily"
 adjacent to:
   - Sicily (island)
+  - Sicily (region)
   - Tunisia
 connects to:
   - Libyan Sea
