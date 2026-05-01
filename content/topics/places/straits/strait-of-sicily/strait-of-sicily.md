@@ -12,7 +12,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/9353905"
 strait in: Mediterranean Sea
 wikidata: "https://www.wikidata.org/wiki/Q206975"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Strait_of_Sicily"
-wikipedia: "https://en.wikipedia.org/wiki/Strait_of_Sicily"
 tags:
   - strait
 ---
