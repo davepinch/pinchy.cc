@@ -1,8 +1,7 @@
 ---
 title: "Easter Island"
-island of:
-  - Pacific Ocean
-  - Chile
+island in: Pacific Ocean
+island of: Chile
 openstreetmap: "https://www.openstreetmap.org/relation/3538209"
 wikidata: "https://www.wikidata.org/wiki/Q14452"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Easter_Island"
