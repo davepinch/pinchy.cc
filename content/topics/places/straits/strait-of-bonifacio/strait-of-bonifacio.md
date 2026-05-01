@@ -13,7 +13,6 @@ strait in:
   - Italy
 wikidata: "https://www.wikidata.org/wiki/Q207911"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Strait_of_Bonifacio"
-wikipedia: "https://en.wikipedia.org/wiki/Strait_of_Bonifacio"
 tags:
   - strait
 ---
