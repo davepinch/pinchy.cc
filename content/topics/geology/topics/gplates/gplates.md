@@ -7,5 +7,5 @@ source code: "https://github.com/GPlates/GPlates"
 website: "https://www.gplates.org/"
 tags:
   - geology
-  - plate techtonics
+  - plate tectonics
 ---
