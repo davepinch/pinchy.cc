@@ -1,5 +1,8 @@
 ---
 title: "Ligurian Sea"
+adjacent to:
+  - Italian Peninsula
+  - incomplete list
 connects to:
   - Tyrrhenian Sea
   - incomplete list

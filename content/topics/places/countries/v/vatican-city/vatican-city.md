@@ -1,6 +1,8 @@
 ---
 title: "Vatican City"
-country of: Europe
+country of:
+  - Italian Peninsula
+  - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/36989"
 surrounded by:
   - Rome

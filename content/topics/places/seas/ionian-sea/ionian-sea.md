@@ -1,5 +1,8 @@
 ---
 title: "Ionian Sea"
+adjacent to:
+  - Italian Peninsula
+  - incomplete list
 borders:
   - Albania
   - Greece

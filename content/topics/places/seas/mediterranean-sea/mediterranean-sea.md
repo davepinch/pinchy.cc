@@ -1,6 +1,7 @@
 ---
 title: "Mediterranean Sea"
-borders:
+adjacent to:
+  - Italian Peninsula
   - Sinai Peninsula
   - incomplete list
 connected to:

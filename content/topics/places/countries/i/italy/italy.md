@@ -2,6 +2,7 @@
 title: "Italy"
 capital: Rome
 country of:
+  - Italian Peninsula
   - Southern Europe
   - Western Europe
   - Europe

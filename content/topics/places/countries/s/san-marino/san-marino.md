@@ -1,7 +1,9 @@
 ---
 title: "San Marino"
 borders: Italy
-country of: Europe
+country of:
+  - Italian Peninsula
+  - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/54624"
 wikidata: "https://www.wikidata.org/wiki/Q238"
 tags:

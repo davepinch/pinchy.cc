@@ -1,5 +1,8 @@
 ---
 title: "Adriatic Sea"
+adjacent to:
+  - Italian Peninsula
+  - incomplete list
 countries:
   - Albania
   - Bosnia and Herzegovina
