@@ -1,0 +1,19 @@
+---
+title: "Midland, Washington"
+adjacent to:
+  - Tacoma, Washington
+  - Waller, Washington
+  - Summit, Washington
+  - Clover Creek, Washington
+  - Parkland, Washington
+census profile: "https://data.census.gov/profile/Midland_CDP,_Washington?g=160XX00US5345495"
+census-designated place of:
+  - Pierce County, Washington
+  - Washington
+openstreetmap: "https://www.openstreetmap.org/relation/237508"
+wikidata: "https://www.wikidata.org/wiki/Q1508513"
+wikipedia: "https://en.wikipedia.org/wiki/Midland,_Washington"
+tags:
+  - census-designated place
+  - no Wikimedia category
+---
