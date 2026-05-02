@@ -4,6 +4,7 @@ lake in:
   - Lakewood, Washington
   - Pierce County, Washington
   - Washington
+namesake of: Steilacoom People
 openstreetmap: "https://www.openstreetmap.org/relation/4048263"
 tributary of: Chambers Creek
 vicinity of:
