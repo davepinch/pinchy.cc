@@ -1,10 +1,13 @@
 ---
 title: "Lakeland South, Washington"
-borders:
+adjacent to:
   - Auburn, Washington
-  - Federal Way, Washington
+  - Algona, Washington
+  - Pacific Washington
+  - Edgewood, Washington
   - Milton, Washington
-  - incomplete list
+  - Federal Way, Washington
+census profile: "https://data.census.gov/profile/Lakeland_South_CDP,_Washington?g=160XX00US5337430"
 census-designated place of:
   - King County, Washington
   - Washington
