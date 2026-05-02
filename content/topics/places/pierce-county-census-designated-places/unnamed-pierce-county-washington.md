@@ -9,6 +9,7 @@ adjacent to:
   - Federal Way, Washington
   - Graham, Washington
   - Kapowsin, Washington
+  - Lake Tapps, Washington
   - McMillin, Washington
   - Milton, Washington
   - Orting, Washington
