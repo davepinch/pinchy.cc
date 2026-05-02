@@ -6,6 +6,7 @@ adjacent to:
   - Federal Way, Washington
   - Graham, Washington
   - Kapowsin, Washington
+  - McMillin, Washington
   - Milton, Washington
   - South Creek, Washington
   - South Hill, Washington
