@@ -1,11 +1,13 @@
 ---
 title: "Milton, Washington"
-borders:
+adjacent to:
   - Federal Way, Washington
+  - unnamed Pierce County, Washington
+  - Lakeland South, Washington
+  - Edgewood, Washington
   - Fife, Washington
   - Fife Heights, Washington
-  - Lakeland South, Washington
-  - incomplete list
+census profile: "https://data.census.gov/profile/Milton_city,_Washington?g=160XX00US5346020"
 city of:
   - King County, Washington
   - Pierce County, Washington
