@@ -11,7 +11,6 @@ vicinity of:
   - Fort Steilacoom
   - Fort Steilacoom Park
 wikidata: "https://www.wikidata.org/wiki/Q6477839"
-wikipedia: "https://en.wikipedia.org/wiki/Lake_Steilacoom"
 tags:
   - reservoir
   - lake
