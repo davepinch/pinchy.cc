@@ -4,6 +4,7 @@ adjacent to:
   - Alderton, Washington
   - Bonney Lake, Washington
   - Clear Lake, Pierce County, Washington
+  - Crocker, Washington
   - Elk Plain, Washington
   - Federal Way, Washington
   - Graham, Washington
