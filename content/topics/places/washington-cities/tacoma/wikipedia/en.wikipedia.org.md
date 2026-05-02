@@ -1,9 +1,9 @@
 ---
 title: "Tacoma, Washington (Wikipedia)"
 excerpt: >-
-  **Tacoma** (/təˈkoʊmə/ tə-KOH-mə) is the county seat of [Pierce County](/en.wikipedia.org/wiki/Pierce_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). A port city, it is situated along Washington's [Puget Sound](/en.wikipedia.org/wiki/Puget_Sound/), 32 miles (51 km) southwest of [Seattle](/en.wikipedia.org/wiki/Seattle/), 36 miles (58 km) southwest of [Bellevue](/en.wikipedia.org/wiki/Bellevue,_Washington/), 31 miles (50 km) northeast of the state capital, [Olympia](/en.wikipedia.org/wiki/Olympia,_Washington/), 58 miles (93 km) northwest of Mount Rainier National Park, and 80 miles (130 km) east of Olympic National Park. The city's population was 219,346 at the time of the 2020 census. Tacoma is the second-largest city in the Puget Sound area and the third-most populous in the state. Tacoma also serves as the center of business activity for the South Sound region, which has a population of about 1 million.
+  **Tacoma** (/təˈkoʊmə/ tə-KOH-mə) is a city in and the county seat of Pierce County, Washington, United States. A port city, it is situated along the Puget Sound roughly 30 miles (48 km) from Seattle and Olympia, and 58 miles (93 km) northwest of Mount Rainier National Park. Tacoma is the second-largest city in the Puget Sound area and the third-most populous city in the state with a population of 219,346 at the 2020 census. Tacoma is the economic and cultural center of the South Sound region, which has a population of about 1 million.
 license: CC BY-SA 4.0
-retrieved: 2024-01-01
+retrieved: 2026-05-02
 type: website
 url: /en.wikipedia.org/wiki/Tacoma,_Washington/
 website: "https://en.wikipedia.org/wiki/Tacoma,_Washington"
