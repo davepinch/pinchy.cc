@@ -1,10 +1,14 @@
 ---
 title: "Fife, Washington"
-borders:
+adjacent to:
+  - Tacoma, Washington
   - Fife Heights, Washington
   - Milton, Washington
-  - Tacoma, Washington
-  - incomplete list
+  - Edgewood, Washington
+  - Puyallup, Washington
+  - unnamed Pierce County, Washington
+  - Waller, Washington
+census profile: "https://data.census.gov/profile/Fife_city,_Washington?g=160XX00US5323795"
 city of:
   - Pierce County, Washington
   - Washington
