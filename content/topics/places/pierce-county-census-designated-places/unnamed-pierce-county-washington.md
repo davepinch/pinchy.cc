@@ -10,6 +10,7 @@ adjacent to:
   - Kapowsin, Washington
   - McMillin, Washington
   - Milton, Washington
+  - Prairie Heights, Washington
   - South Creek, Washington
   - South Hill, Washington
   - Summit, Washington
