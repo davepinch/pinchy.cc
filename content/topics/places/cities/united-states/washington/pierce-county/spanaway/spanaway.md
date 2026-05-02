@@ -1,5 +1,6 @@
 ---
 title: "Spanaway, Washington"
+census profile: "https://data.census.gov/profile/Spanaway_CDP,_Washington?g=160XX00US5366255"
 census-designated place of:
   - Pierce County, Washington
   - Washington
