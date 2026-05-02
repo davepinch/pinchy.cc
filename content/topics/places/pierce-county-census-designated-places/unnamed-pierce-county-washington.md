@@ -2,6 +2,7 @@
 title: "unnamed Pierce County, Washington"
 adjacent to:
   - Alderton, Washington
+  - Bonney Lake, Washington
   - Clear Lake, Pierce County, Washington
   - Elk Plain, Washington
   - Federal Way, Washington
