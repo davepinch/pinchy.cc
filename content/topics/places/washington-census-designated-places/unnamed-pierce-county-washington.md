@@ -5,6 +5,7 @@ adjacent to:
   - Federal Way, Washington
   - Graham, Washington
   - Milton, Washington
+  - South Creek, Washington
   - South Hill, Washington
   - Summit, Washington
   - Summit View, Washington
