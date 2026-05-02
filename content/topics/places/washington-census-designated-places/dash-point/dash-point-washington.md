@@ -3,6 +3,7 @@ title: "Dash Point, Washington"
 adjacent to:
   - East Passage
   - Puget Sound
+  - King County, Washington
   - Federal Way, Washington
   - Tacoma, Washington
   - Browns Point, Washington
