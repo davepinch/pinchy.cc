@@ -1,10 +1,11 @@
 ---
 title: "Fife Heights, Washington"
-borders:
+adjacent to:
   - Federal Way, Washington
-  - Fife, Washington
   - Milton, Washington
+  - Fife, Washington
   - Tacoma, Washington
+census profile: "https://data.census.gov/profile/Fife_Heights_CDP,_Washington?g=160XX00US5323830"
 census-designated place of:
   - Pierce County, Washington
   - Washington
