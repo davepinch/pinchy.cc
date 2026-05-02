@@ -13,6 +13,7 @@ adjacent to:
   - Prairie Heights, Washington
   - South Creek, Washington
   - South Hill, Washington
+  - South Prairie, Washington
   - Summit, Washington
   - Summit View, Washington
   - Sumner, Washington
