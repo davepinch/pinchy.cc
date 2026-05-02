@@ -1,11 +1,18 @@
 ---
 title: "Auburn, Washington"
-borders:
-  - Federal Way, Washington
+adjacent city:
   - Kent, Washington
+  - unnamed King County, Washington
+  - Lake Morton-Berrydale, Washington
+  - Lake Holm, Washington
+  - Lake Tapps, Washington
+  - Sumner, Washington
+  - Pacific, Washington
+  - Algona, Washington
+  - Lakeland South, Washington  
+  - Federal Way, Washington
   - Lakeland North, Washington
-  - Lakeland South, Washington
-  - incomplete list
+census profile: "https://data.census.gov/profile/Auburn_city,_Washington?g=160XX00US5303180"
 city of:
   - King County, Washington
   - Washington
