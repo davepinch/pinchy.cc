@@ -12,6 +12,9 @@ island of:
   - U.S. Route 2
   - Snohomish River
 openstreetmap: "https://www.openstreetmap.org/relation/14422944"
+vicinity to:
+  - Spencer Island
+  - Otter Island
 wikidata: "https://www.wikidata.org/wiki/Q30744165"
 tags:
   - island
