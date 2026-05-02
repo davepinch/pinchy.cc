@@ -4,7 +4,7 @@ adjacent to:
   - Boom Slough
   - Brandstedt Slough
   - Steamboat Slough (Skagit River)
-island of:
+island in:
   - Skagit River
   - Skagit River Delta
   - Skagit Bay Estuary Wildlife Area Unit
