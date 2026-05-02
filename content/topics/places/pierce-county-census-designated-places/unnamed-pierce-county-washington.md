@@ -11,6 +11,7 @@ adjacent to:
   - McMillin, Washington
   - Milton, Washington
   - Prairie Heights, Washington
+  - Prairie Ridge, Washington
   - South Creek, Washington
   - South Hill, Washington
   - South Prairie, Washington
