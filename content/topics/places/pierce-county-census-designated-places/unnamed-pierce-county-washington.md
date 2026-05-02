@@ -13,6 +13,7 @@ adjacent to:
   - South Hill, Washington
   - Summit, Washington
   - Summit View, Washington
+  - Sumner, Washington
   - Waller, Washington
 description: This entry is a placeholder for areas of Pierce County, Washington that are not in the boundaries of a city, town, or census-designated place.
 not:
