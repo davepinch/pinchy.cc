@@ -3,6 +3,7 @@ title: "unnamed Pierce County, Washington"
 adjacent to:
   - Federal Way, Washington
   - Milton, Washington
+  - South Hill, Washington
   - Summit, Washington
   - Summit View, Washington
   - Waller, Washington
