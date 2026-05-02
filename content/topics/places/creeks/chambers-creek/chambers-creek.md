@@ -6,6 +6,7 @@ creek in:
   - University Place, Washington
   - Pierce County, Washington
   - Washington
+namesake of: Thomas M. Chambers
 openstreetmap: "https://www.openstreetmap.org/relation/14392220"
 tributary of:
   - Chambers Bay
