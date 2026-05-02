@@ -1,26 +1,33 @@
 ---
 title: "Tacoma, Washington"
-borders:
-  - Federal Way, Washington
-  - Fife, Washington
-  - Fife Heights, Washington
-  - Fircrest, Washington
+adjacent to:
   - Puget Sound
+  - Ruston, Washington
+  - Commencement Bay  
+  - Browns Point, Washington
+  - Dash Point, Washington
+  - Federal Way, Washington
+  - Fife Heights, Washington
+  - Fife, Washington
+  - Waller, Washington
+  - Midland, Washington
+  - Parkland, Washington
+  - unnamed Pierce County, Washington
+  - Lakewood, Washington
   - University Place, Washington
-  - incomplete list
+  - Fircrest, Washington
+census profile: "https://data.census.gov/profile/Tacoma_city,_Washington?g=160XX00US5370000"
 city of:
   - Pierce County, Washington
   - Washington
-near:
-  - SeaTac, Washington
-  - Seattle
-  - Mount Rainier
 openstreetmap: "https://www.openstreetmap.org/relation/8348295"
+vicinity to:
+  - Mount Rainier
+  - Seattle
 wikidata: "https://www.wikidata.org/entity/Q199797"
 wikimedia: "https://commons.wikimedia.org/wiki/Tacoma,_Washington"
 wikisource: "https://en.wikisource.org/wiki/Portal:Tacoma,_Washington"
 wikivoyage: "https://en.wikivoyage.org/wiki/Tacoma"
 tags:
   - city
-  - Puget Sound
 ---
