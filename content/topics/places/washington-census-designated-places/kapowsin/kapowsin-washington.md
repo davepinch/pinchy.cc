@@ -3,7 +3,7 @@ title: "Kapowsin, Washington"
 adjacent to:
   - Graham, Washington
   - unnamed Pierce County, Washington
-  - Clear Lake, Washington
+  - Clear Lake, Pierce County, Washington
 census profile: "https://data.census.gov/profile/Kapowsin_CDP,_Washington?g=160XX00US5334890"
 census-designated place of:
   - Pierce County, Washington

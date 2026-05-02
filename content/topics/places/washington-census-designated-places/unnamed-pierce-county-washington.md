@@ -1,6 +1,7 @@
 ---
 title: "unnamed Pierce County, Washington"
 adjacent to:
+  - Clear Lake, Pierce County, Washington
   - Elk Plain, Washington
   - Federal Way, Washington
   - Graham, Washington
