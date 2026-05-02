@@ -1,13 +1,20 @@
 ---
 title: "Federal Way, Washington"
-borders:
-  - Auburn, Washington
+adjacent to:
   - Des Moines, Washington
-  - Fife Heights, Washington
+  - Kent, Washington
   - Lakeland North, Washington
+  - Auburn, Washington
   - Lakeland South, Washington
   - Milton, Washington
+  - unnamed King County, Washington
+  - Fife Heights, Washington
   - Tacoma, Washington
+  - Dash Point, Washington
+  - East Passage
+  - Puget Sound
+  - Salish Sea
+census profile: "https://data.census.gov/profile/Federal_Way_city,_Washington?g=160XX00US5323515"
 city of:
   - King County, Washington
   - Washington
