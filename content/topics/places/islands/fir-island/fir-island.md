@@ -1,7 +1,10 @@
 ---
 title: "Fir Island"
-island of:
+adjacent to:
+  - North Fork Skagit River
+  - South Fork Skagit River
   - Skagit Bay
+island in:
   - Skagit River
   - Skagit River Delta
   - Skagit County, Washington
