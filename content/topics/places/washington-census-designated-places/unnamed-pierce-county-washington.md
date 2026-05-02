@@ -1,6 +1,7 @@
 ---
 title: "unnamed Pierce County, Washington"
 adjacent to:
+  - Elk Plain, Washington
   - Federal Way, Washington
   - Graham, Washington
   - Milton, Washington
