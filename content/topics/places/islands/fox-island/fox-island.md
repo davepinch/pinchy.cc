@@ -1,6 +1,10 @@
 ---
 title: "Fox Island"
-island of:
+adjacent to:
+  - Hale Passage (Pierce County)
+  - Nisqually Reach
+  - Carr Inlet
+island in:
   - Puget Sound
   - Pierce County, Washington
   - Washington
