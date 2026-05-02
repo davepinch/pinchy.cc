@@ -1,0 +1,20 @@
+---
+title: "South Hill, Washington"
+adjacent to:
+  - unnamed Pierce County, Washington
+  - Puyallup, Washington
+  - McMillin, Wsahington
+  - Graham, Washington
+  - Frederickson, Washington
+  - Summit View, Washington
+census profile: "https://data.census.gov/profile/South_Hill_CDP,_Washington?g=160XX00US5365922"
+census-designated place in:
+  - Pierce County, Washington
+  - Washington
+openstreetmap: "https://www.openstreetmap.org/relation/16789368"
+wikidata: "https://www.wikidata.org/wiki/Q1503540"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:South_Hill,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/South_Hill,_Washington"
+tags:
+  - census-designated place
+---
