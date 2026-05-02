@@ -10,6 +10,7 @@ adjacent to:
   - Kapowsin, Washington
   - McMillin, Washington
   - Milton, Washington
+  - Orting, Washington
   - Prairie Heights, Washington
   - Prairie Ridge, Washington
   - South Creek, Washington
