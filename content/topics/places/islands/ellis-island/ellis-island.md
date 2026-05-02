@@ -1,11 +1,12 @@
 ---
 title: "Ellis Island"
-island of:
+island in:
   - New York Harbor
+  - New Jersey
+island of:
   - Manhattan
   - New York City
   - New York
-  - New Jersey
 openstreetmap: "https://www.openstreetmap.org/way/27459262"
 wikidata: "https://www.wikidata.org/wiki/Q202175"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ellis_Island"
