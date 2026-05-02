@@ -13,6 +13,7 @@ adjacent to:
   - McMillin, Washington
   - Milton, Washington
   - Orting, Washington
+  - Pacific, Washington
   - Prairie Heights, Washington
   - Prairie Ridge, Washington
   - South Creek, Washington
