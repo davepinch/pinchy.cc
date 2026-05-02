@@ -4,6 +4,7 @@ adjacent to:
   - Elk Plain, Washington
   - Federal Way, Washington
   - Graham, Washington
+  - Kapowsin, Washington
   - Milton, Washington
   - South Creek, Washington
   - South Hill, Washington
