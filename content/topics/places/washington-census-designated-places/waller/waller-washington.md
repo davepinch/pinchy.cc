@@ -1,5 +1,13 @@
 ---
 title: "Waller, Washington"
+adjacent to:
+  - Fife, Washington
+  - unnamed Pierce County, Washington
+  - Puyallup, Washington
+  - Summit, Washington
+  - Midland, Washington
+  - Tacoma, Washington
+census profile: "https://data.census.gov/profile/Waller_CDP,_Washington?g=160XX00US5375905"
 census-designated place of:
   - Pierce County, Washington
   - Washington
