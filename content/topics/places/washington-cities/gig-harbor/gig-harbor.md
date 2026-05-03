@@ -1,5 +1,6 @@
 ---
 title: "Gig Harbor, Washington"
+census profile: "https://data.census.gov/profile/Gig_Harbor_city,_Washington?g=160XX00US5326735"
 city of:
   - Gig Harbor Peninsula
   - Pierce County, Washington
