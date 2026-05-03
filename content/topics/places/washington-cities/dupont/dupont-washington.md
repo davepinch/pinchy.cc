@@ -3,6 +3,7 @@ title: "DuPont, Washington"
 adjacent to:
   - Nisqually Reach
   - unnamed Pierce County, Washington
+  - Joint Base Lewis-McChord
   - North Fort Lewis, Washington
   - Billy Frank Jr. Nisqually National Wildlife Refuge
 census profile: "https://data.census.gov/profile/DuPont_city,_Washington?g=160XX00US5318965"
