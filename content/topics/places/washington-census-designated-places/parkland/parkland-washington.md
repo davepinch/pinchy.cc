@@ -7,6 +7,7 @@ adjacent to:
   - Frederickson, Washington
   - Spanaway, Washington
   - Joint Base Lewis-McChord
+  - McChord AFB, Washington
   - Lakewood, Washington
 census profile: "https://data.census.gov/profile/Parkland_CDP,_Washington?g=160XX00US5353335"
 census-designated place of:
