@@ -1,5 +1,14 @@
 ---
 title: "Gig Harbor, Washington"
+adjacent to:
+  - Purdy, Washingon
+  - Canterwood, Washington
+  - Maplewood, Washington
+  - Tacoma Narrows
+  - Wollochet, Washington
+  - Artondale, Washington
+  - Rosedale, Washington
+  - Henderson Bay
 census profile: "https://data.census.gov/profile/Gig_Harbor_city,_Washington?g=160XX00US5326735"
 city of:
   - Gig Harbor Peninsula
