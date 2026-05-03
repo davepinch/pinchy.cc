@@ -7,19 +7,23 @@ adjacent to:
   - Crocker, Washington
   - Elk Plain, Washington
   - Federal Way, Washington
+  - Fort Lewis, Washington
   - Graham, Washington
   - Kapowsin, Washington
   - Lake Tapps, Washington
+  - McChord AFB, Washington
   - McMillin, Washington
   - Milton, Washington
   - North Fort Lewis, Washington
   - Orting, Washington
   - Pacific, Washington
+  - Parkland, Washington
   - Prairie Heights, Washington
   - Prairie Ridge, Washington
   - South Creek, Washington
   - South Hill, Washington
   - South Prairie, Washington
+  - Spanaway, Washington
   - Summit, Washington
   - Summit View, Washington
   - Sumner, Washington

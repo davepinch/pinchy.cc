@@ -1,6 +1,7 @@
 ---
 title: "Parkland, Washington"
 adjacent to:
+  - unnamed Pierce County, Washington
   - Tacoma, Washington
   - Midland, Washington
   - Clover Creek, Washington
