@@ -15,6 +15,7 @@ adjacent to:
   - McChord AFB, Washington
   - McMillin, Washington
   - Milton, Washington
+  - Mineral, Washington
   - North Fort Lewis, Washington
   - Orting, Washington
   - Pacific, Washington
