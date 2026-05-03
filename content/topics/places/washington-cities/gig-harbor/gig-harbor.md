@@ -1,6 +1,7 @@
 ---
 title: "Gig Harbor, Washington"
 city of:
+  - Gig Harbor Peninsula
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237263"
