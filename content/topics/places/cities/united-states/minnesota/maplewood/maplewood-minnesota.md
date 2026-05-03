@@ -14,6 +14,7 @@ city of:
   - Ramsey County, Minnesota
   - Minnesota
   - Interstate 94
+disambiguation of: Maplewood
 openstreetmap: "https://www.openstreetmap.org/relation/136631"
 suburb of: Saint Paul, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q990856"
