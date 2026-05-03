@@ -6,6 +6,9 @@ adjacent to:
   - unnamed Pierce County, Washington
   - Parkland, Washington
   - Joint Base Lewis-McChord
+  - McChord AFB, Washington
+  - Fort Lewis, Washington
+  - North Fort Lewis, Washington
   - Steilacoom, Washington
 census profile: "https://data.census.gov/profile/Lakewood_city,_Washington?g=160XX00US5338038"
 city of:
