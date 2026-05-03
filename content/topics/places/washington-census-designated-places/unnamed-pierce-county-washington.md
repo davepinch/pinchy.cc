@@ -5,6 +5,7 @@ adjacent to:
   - Bonney Lake, Washington
   - Clear Lake, Pierce County, Washington
   - Crocker, Washington
+  - DuPont, Washington
   - Elk Plain, Washington
   - Federal Way, Washington
   - Fort Lewis, Washington

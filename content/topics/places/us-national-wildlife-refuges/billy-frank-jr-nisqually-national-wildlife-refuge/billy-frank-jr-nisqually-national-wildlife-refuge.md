@@ -1,6 +1,9 @@
 ---
 title: "Billy Frank Jr. Nisqually National Wildlife Refuge"
-borders: Nisqually Wildlife Area Unit
+adjacent to:
+  - DuPont, Washington
+  - Nisqually Wildlife Area Unit
+  - incomplete list
 national wildlife refuge of:
   - United States
   - Washington
