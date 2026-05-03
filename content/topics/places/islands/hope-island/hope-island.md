@@ -1,6 +1,6 @@
 ---
 title: "Hope Island"
-island of:
+island in:
   - Skagit Bay
   - Skagit County, Washington
   - Washington
