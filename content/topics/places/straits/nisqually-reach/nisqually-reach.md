@@ -2,6 +2,7 @@
 title: "Nisqually Reach"
 adjacent to:
   - DuPont, Washington
+  - Steilacoom, Washington
   - incomplete list
 connects to:
   - "note: from east to west"

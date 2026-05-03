@@ -1,5 +1,13 @@
 ---
 title: "Steilacoom, Washington"
+adjacent to:
+  - Chambers Bay
+  - University Place, Washington
+  - Lakewood, Washington
+  - unnamed Pierce County, Washington
+  - Cormorant Passage
+  - Nisqually Reach
+census profile: "https://data.census.gov/profile/Steilacoom_town,_Washington?g=160XX00US5367770"
 city of:
   - Pierce County, Washington
   - Washington

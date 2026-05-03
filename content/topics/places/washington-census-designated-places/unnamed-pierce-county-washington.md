@@ -25,6 +25,7 @@ adjacent to:
   - South Hill, Washington
   - South Prairie, Washington
   - Spanaway, Washington
+  - Steilacoom, Washington
   - Summit, Washington
   - Summit View, Washington
   - Sumner, Washington
