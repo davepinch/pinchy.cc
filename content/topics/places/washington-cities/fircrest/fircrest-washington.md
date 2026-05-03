@@ -1,8 +1,9 @@
 ---
 title: "Fircrest, Washington"
-borders:
+adjacent to:
   - Tacoma, Washington
   - University Place, Washington
+census profile: "https://data.census.gov/profile/Fircrest_city,_Washington?g=160XX00US5323970"
 city of:
   - Pierce County, Washington
   - Washington
