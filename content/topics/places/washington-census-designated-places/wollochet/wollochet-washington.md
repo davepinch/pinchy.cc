@@ -4,6 +4,7 @@ census profile: "https://data.census.gov/profile/Wollochet_CDP,_Washington?g=160
 census-designated place in:
   - Pierce County, Washington
   - Washington
+  - Gig Harbor Peninsula
   - Kitsap Peninsula
 openstreetmap: "https://www.openstreetmap.org/relation/18376118"
 wikidata: "https://www.wikidata.org/wiki/Q6168166"
