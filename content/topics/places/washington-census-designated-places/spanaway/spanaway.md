@@ -4,6 +4,8 @@ adjacent to:
   - Parkland, Washington
   - Frederickson, Washington
   - Elk Plain, Washington
+  - Joint Base Lewis-McChord
+  - McChord AFB, Washington
   - unnamed Pierce County, Washington
 census profile: "https://data.census.gov/profile/Spanaway_CDP,_Washington?g=160XX00US5366255"
 census-designated place in:
