@@ -1,5 +1,8 @@
 ---
 title: "Nisqually Reach"
+adjacent to:
+  - DuPont, Washington
+  - incomplete list
 connects to:
   - "note: from east to west"
   - Tacoma Narrows
