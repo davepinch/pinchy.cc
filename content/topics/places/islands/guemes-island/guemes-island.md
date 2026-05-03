@@ -1,11 +1,10 @@
 ---
 title: "Guemes Island"
-borders:
+adjacent to:
   - Bellingham Channel
   - Guemes Channel
   - Padilla Bay
-island of:
-  - Padilla Bay
+island in:
   - Skagit County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/13317331"
