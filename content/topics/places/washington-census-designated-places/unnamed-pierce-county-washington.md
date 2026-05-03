@@ -12,6 +12,7 @@ adjacent to:
   - Lake Tapps, Washington
   - McMillin, Washington
   - Milton, Washington
+  - North Fort Lewis, Washington
   - Orting, Washington
   - Pacific, Washington
   - Prairie Heights, Washington
