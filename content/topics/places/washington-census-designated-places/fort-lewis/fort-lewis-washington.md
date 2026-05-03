@@ -1,5 +1,9 @@
 ---
 title: "Fort Lewis, Washington"
+adjacent to:
+  - Lakewood, Washington
+  - McChord AFB, Washington
+  - unnamed Pierce County, Washington
 census profile: "https://data.census.gov/profile/Fort_Lewis_CDP,_Washington?g=160XX00US5324915"
 census-designated place in:
   - Joint Base Lewis-McChord
