@@ -1,6 +1,6 @@
 ---
 title: "Hand Rock"
-island of:
+island in:
   - Olympic Coast National Marine Sanctuary
   - Clallam County, Washington
   - Washington
