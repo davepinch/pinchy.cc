@@ -1,5 +1,6 @@
 ---
 title: "Enumclaw, Washington"
+census profile: "https://data.census.gov/profile/Enumclaw_city,_Washington?g=160XX00US5322045"
 city of:
   - King County, Washington
   - Washington
