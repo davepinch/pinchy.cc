@@ -10,6 +10,8 @@ state forest in:
   - Pierce County, Washington
   - Washington
 state forest of: Washington Department of Natural Resources
+vicinity to:
+  - Mineral, Washington
 wikidata: "https://www.wikidata.org/wiki/Q110087284"
 tags:
   - Washington State Forest
