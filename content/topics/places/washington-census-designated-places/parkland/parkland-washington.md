@@ -11,7 +11,7 @@ adjacent to:
   - McChord AFB, Washington
   - Lakewood, Washington
 census profile: "https://data.census.gov/profile/Parkland_CDP,_Washington?g=160XX00US5353335"
-census-designated place of:
+census-designated place in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237510"

@@ -6,7 +6,7 @@ adjacent to:
   - Fife, Washington
   - Tacoma, Washington
 census profile: "https://data.census.gov/profile/Fife_Heights_CDP,_Washington?g=160XX00US5323830"
-census-designated place of:
+census-designated place in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/node/150979697"

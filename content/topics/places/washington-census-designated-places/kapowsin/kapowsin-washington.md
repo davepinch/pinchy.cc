@@ -5,7 +5,7 @@ adjacent to:
   - unnamed Pierce County, Washington
   - Clear Lake, Pierce County, Washington
 census profile: "https://data.census.gov/profile/Kapowsin_CDP,_Washington?g=160XX00US5334890"
-census-designated place of:
+census-designated place in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/18395560"

@@ -1,6 +1,6 @@
 ---
 title: "Wollochet, Washington"
-census-designated place of:
+census-designated place in:
   - Pierce County, Washington
   - Washington
   - Kitsap Peninsula

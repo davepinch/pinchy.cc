@@ -5,7 +5,7 @@ adjacent to:
   - Sumner, Washington
   - Puyallup, Washington
 census profile: "https://data.census.gov/profile/North_Puyallup_CDP,_Washington?g=160XX00US5350115"
-census-designated place of:
+census-designated place in:
   - Pierce County, Washington
   - Washington
 namesake of: Puyallup, Washington

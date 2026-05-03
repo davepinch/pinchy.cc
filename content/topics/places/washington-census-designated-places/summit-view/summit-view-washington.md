@@ -7,7 +7,7 @@ adjacent to:
   - Frederickson, Washington
   - Clover Creek, Washington
 census profile: "https://data.census.gov/profile/Summit_View_CDP,_Washington?g=160XX00US5368410"
-census-designated place of:
+census-designated place in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/18395591"

@@ -4,7 +4,7 @@ adjacent to:
   - Tehaleh, Washington
   - unnamed Pierce County, Washington
 census profile: "https://data.census.gov/profile/Crocker_CDP,_Washington?g=160XX00US5315780"
-census-designated place of:
+census-designated place in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/18395556"
