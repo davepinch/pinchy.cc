@@ -1,6 +1,6 @@
 ---
 title: "Futuna"
-island of:
+island in:
   - Wallis and Futuna
   - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/10988013"
