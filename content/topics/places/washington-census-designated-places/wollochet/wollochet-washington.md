@@ -2,6 +2,9 @@
 title: "Wollochet, Washington"
 adjacent to:
   - Gig Harbor, Washington
+  - Tacoma Narrows
+  - Hale Passage
+  - Wollochet Bay
   - Artondale, Washington
 census profile: "https://data.census.gov/profile/Wollochet_CDP,_Washington?g=160XX00US5379555"
 census-designated place in:
