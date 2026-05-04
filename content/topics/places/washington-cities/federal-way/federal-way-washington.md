@@ -20,6 +20,7 @@ city of:
   - Washington
   - East Passage
   - Puget Sound
+disambiguation of: Federal Way
 openstreetmap: "https://www.openstreetmap.org/relation/237350"
 wikidata: "https://www.wikidata.org/entity/Q821112"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Federal_Way,_Washington"
