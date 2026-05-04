@@ -5,6 +5,7 @@ city of:
   - King County, Washington
   - Washington
   - Snoqualmie River
+disambiguation of: Duvall
 official website: "https://duvallwa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/237872"
 wikidata: "https://www.wikidata.org/entity/Q1362720"
