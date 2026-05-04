@@ -15,6 +15,7 @@ census profile: "https://data.census.gov/profile/Edmonds_city,_Washington?g=160X
 city of:
   - Snohomish County, Washington
   - Washington
+disambiguation of: Edmonds
 openstreetmap: "https://www.openstreetmap.org/relation/237658"
 suburb of: Seattle
 up the pacific coast: Meadowdale, Washington
