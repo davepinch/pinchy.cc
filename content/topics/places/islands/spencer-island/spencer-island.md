@@ -1,9 +1,10 @@
 ---
 title: "Spencer Island"
-island of:
+adjacent to:
   - Union Slough
   - Steamboat Slough (Snohomish River)
   - Snohomish River
+island in:
   - Snohomish County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/5932694"
