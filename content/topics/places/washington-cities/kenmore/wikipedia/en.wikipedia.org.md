@@ -1,10 +1,10 @@
 ---
 title: "Kenmore, Washington (Wikipedia)"
 excerpt: >-
-  **Kenmore** is a city in [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/), along the northernmost shore of [Lake Washington](/en.wikipedia.org/wiki/Lake_Washington/). It is a suburban commuter town at the mouth of the [Sammamish River](/en.wikipedia.org/wiki/Sammamish_River/), 12 miles (19 km) northeast of downtown [Seattle](/en.wikipedia.org/wiki/Seattle/) and 2 miles (3.2 km) west of [Bothell](/en.wikipedia.org/wiki/Bothell,_Washington/). The population was 20,460 at the 2010 census. Kenmore Air Harbor is the largest seaplane-only passenger facility of its kind in the United States.
+  **Kenmore** (Lushootseed: *ƛ̕ax̌ʷadis*) is a city in King County, Washington, United States, along the northernmost shore of Lake Washington. It is a suburban commuter town at the mouth of the Sammamish River, 12 miles (19 km) northeast of downtown Seattle and 2 miles (3.2 km) west of Bothell. The population was 23,914 at the 2020 census. Kenmore Air Harbor is the largest seaplane-only passenger facility of its kind in the United States.
 license: CC BY-SA 4.0
 related: Entry to Wallace Swamp Creek Park
-retrieved: 2023-07-01
+retrieved: 2026-05-04
 type: website
 url: /en.wikipedia.org/wiki/Kenmore,_Washington/
 website: "https://en.wikipedia.org/wiki/Kenmore,_Washington"
