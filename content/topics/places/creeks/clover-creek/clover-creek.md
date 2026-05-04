@@ -7,11 +7,11 @@ creek in:
   - Washington
 openstreetmap:
   - "https://www.openstreetmap.org/way/983096266 (easternmost point mapped on OSM)"
-  - "https://www.openstreetmap.org/way/983096268 (138th St E to 136th St E)
-  - "https://www.openstreetmap.org/way/983096270 (confluence with North Fork Clover Creek)
-  - "https://www.openstreetmap.org/way/983096272 (A St S to 134th St S)
-  - "https://www.openstreetmap.org/way/548266309 (134th St S to 133rd St S)
-  - "https://www.openstreetmap.org/way/983096274 (133rd St S to Pacific Ave S)
+  - "https://www.openstreetmap.org/way/983096268 (138th St E to 136th St E)"
+  - "https://www.openstreetmap.org/way/983096270 (confluence with North Fork Clover Creek)"
+  - "https://www.openstreetmap.org/way/983096272 (A St S to 134th St S)"
+  - "https://www.openstreetmap.org/way/548266309 (134th St S to 133rd St S)"
+  - "https://www.openstreetmap.org/way/983096274 (133rd St S to Pacific Ave S)"
   - "https://www.openstreetmap.org/way/490810227 (Pacific Ave. S past Spanaway Loop Road South)"
   - "https://www.openstreetmap.org/way/23103134"
   - "https://www.openstreetmap.org/way/23103134 (east of McChord Field)"
