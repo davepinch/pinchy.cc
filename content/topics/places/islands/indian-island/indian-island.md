@@ -1,9 +1,13 @@
 ---
 title: "Indian Island"
-island of:
-  - Port Townsend Bay
+adjacent to:
+  - "note: clockwise from northernmost point"
+  - Kilsut Harbor
+  - Scow Bay
   - Oak Bay
-  - Admiralty Inlet
+  - Port Townsend Canal
+  - Port Townsend Bay
+island in:
   - Jefferson County, Washington
   - Washington
 note: Wikipedia does not have an article for the Island itself. It does have an article for the unincorporated community of the same name.
