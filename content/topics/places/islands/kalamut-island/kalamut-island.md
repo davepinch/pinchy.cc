@@ -1,6 +1,6 @@
 ---
 title: "Kalamut Island"
-island of:
+island in:
   - Crescent Harbor
   - Island County, Washington
   - Washington

@@ -1,6 +1,6 @@
 ---
 title: "Kodiak Island"
-island of:
+island in:
   - Alaska
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/3954578"

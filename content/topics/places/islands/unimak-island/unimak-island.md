@@ -1,6 +1,6 @@
 ---
 title: "Unimak Island"
-island of:
+island in:
   - Alaska
   - Bering Sea
   - Pacific Ocean

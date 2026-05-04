@@ -7,7 +7,7 @@ island in:
   - Clallam County, Washington
   - Olympic Peninsula
   - Washington
-island of: Pacific Ocean
+  - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/20284785"
 wikidata: "https://www.wikidata.org/wiki/Q108368932"
 tags:

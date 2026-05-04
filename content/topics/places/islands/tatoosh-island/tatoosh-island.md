@@ -1,6 +1,6 @@
 ---
 title: "Tatoosh Island"
-island of:
+island in:
   - Strait of Juan de Fuca
   - Makah Reservation
   - Clallam County, Washington

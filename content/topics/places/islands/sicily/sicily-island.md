@@ -1,6 +1,7 @@
 ---
 title: "Sicily (island)"
-island of:
+disambiguation of: Sicily
+island in:
   - Sicily (region)
   - Italy
   - Mediterranean Sea

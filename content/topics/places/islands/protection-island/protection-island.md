@@ -1,6 +1,6 @@
 ---
 title: "Protection Island"
-island of:
+island in:
   - Strait of Juan de Fuca
   - Jefferson County, Washington
   - Washington

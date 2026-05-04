@@ -3,7 +3,7 @@ title: "Milltown Island"
 adjacent to:
   - Steamboat Slough (Skagit River)
   - Tom Moore Slough
-island of:
+island in:
   - Skagit River
   - Skagit River Delta
   - Skagit County, Washington

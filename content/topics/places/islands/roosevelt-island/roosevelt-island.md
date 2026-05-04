@@ -1,6 +1,6 @@
 ---
 title: "Roosevelt Island"
-island of:
+island in:
   - East River
   - Manhattan
   - New York City

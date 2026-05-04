@@ -1,6 +1,6 @@
 ---
 title: "Howland Island"
-island of:
+island in:
   - Pacific Ocean
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/3379270"

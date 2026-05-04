@@ -1,6 +1,6 @@
 ---
 title: "Nicollet Island"
-island of:
+island in:
   - Mississippi River
   - Minneapolis, Minnesota
   - Minnesota

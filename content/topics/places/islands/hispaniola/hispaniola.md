@@ -1,6 +1,6 @@
 ---
 title: "Hispaniola"
-island of:
+island in:
   - Caribbean
   - Caribbean Sea
   - Atlantic Ocean

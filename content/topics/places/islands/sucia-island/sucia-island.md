@@ -1,6 +1,6 @@
 ---
 title: "Sucia Island"
-island of:
+island in:
   - Strait of Georgia
   - San Juan Islands
   - San Juan County, Washington

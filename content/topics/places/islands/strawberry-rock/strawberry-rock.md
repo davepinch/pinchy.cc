@@ -1,6 +1,6 @@
 ---
 title: "Strawberry Rock"
-island of:
+island in:
   - Clallam County, Washington
   - Olympic Coast National Marine Sanctuary
   - Washington

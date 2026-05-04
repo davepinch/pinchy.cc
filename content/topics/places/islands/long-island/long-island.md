@@ -1,6 +1,6 @@
 ---
 title: "Long Island"
-island of:
+island in:
   - New York City
   - New York
   - Atlantic Ocean

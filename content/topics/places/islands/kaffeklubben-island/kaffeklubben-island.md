@@ -1,7 +1,7 @@
 ---
 title: "Kaffeklubben Island"
 also known as: Coffee Club Island
-island of:
+island in:
   - Arctic Ocean
   - Wandel Sea
   - Greenland

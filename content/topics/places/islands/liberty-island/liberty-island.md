@@ -1,6 +1,6 @@
 ---
 title: "Liberty Island"
-island of:
+island in:
   - New York Harbor
   - Manhattan
   - New York City

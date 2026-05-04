@@ -1,6 +1,6 @@
 ---
 title: "Saint Matthew Island"
-island of:
+island in:
   - Bering Sea
   - Pacific Ocean
   - Alaska

@@ -1,6 +1,6 @@
 ---
 title: "Spike Rock"
-island of:
+island in:
   - Flattery Rocks National Wildlife Refuge
   - Olympic Coast National Marine Sanctuary
   - Clallam County, Washington
