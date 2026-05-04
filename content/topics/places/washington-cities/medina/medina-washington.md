@@ -11,6 +11,7 @@ city of:
   - Washington
   - Lake Washington
   - Washington State Route 520
+disambiguation of: Medina
 openstreetmap: "https://www.openstreetmap.org/relation/237359"
 suburb of: Seattle
 vicinity to:
