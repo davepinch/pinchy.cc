@@ -9,6 +9,7 @@ city of:
   - King County, Washington
   - Washington
 clockwise around lake sammamish: Issaquah, Washington
+disambiguation of: Sammamish
 openstreetmap: "https://www.openstreetmap.org/relation/237379"
 wikidata: "https://www.wikidata.org/entity/Q988209"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Sammamish,_Washington"
