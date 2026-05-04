@@ -1,10 +1,11 @@
 ---
 title: "Hunts Point, Washington"
-borders:
+adjacent to:
   - Lake Washington
   - Yarrow Point, Washington
   - Clyde Hill, Washington
   - Medina, Washington
+census profile: "https://data.census.gov/profile/Hunts_Point_town,_Washington?g=160XX00US5332755"
 city of:
   - King County, Washington
   - Washington
