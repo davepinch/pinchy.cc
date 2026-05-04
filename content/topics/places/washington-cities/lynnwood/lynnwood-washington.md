@@ -1,11 +1,12 @@
 ---
 title: "Lynnwood, Washington"
-borders:
-  - Alderwood Manor, Washington
-  - Edmonds, Washington
+adjacent to:
   - Meadowdale, Washington
-  - Mountlake Terrace, Washington
   - North Lynnwood, Washington
+  - Alderwood Manor, Washington
+  - Mountlake Terrace, Washington
+  - Edmonds, Washington
+census profile: "https://data.census.gov/profile/Lynnwood_city,_Washington?g=160XX00US5340840"
 city of:
   - Snohomish County, Washington
   - Washington
