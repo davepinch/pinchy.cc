@@ -19,6 +19,7 @@ city of:
   - Interstate 90
   - Washington State Route 520
 clockwise around lake sammamish: Redmond, Washington
+disambiguation of: Bellevue
 openstreetmap: "https://www.openstreetmap.org/relation/237868"
 vicinity to:
   - Mercer Island, Washington
