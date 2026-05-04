@@ -1,14 +1,14 @@
 ---
 title: "Strawberry Island"
-island of:
+island in:
   - Deception Pass
   - Island County, Washington
   - Washington
-  - strawberry
+island of: strawberry
 mapcarta: "https://mapcarta.com/23970362"
 not to be confused with: Strawberry Rock
 openstreetmap: "https://www.openstreetmap.org/way/5109911"
-vicinity of:
+vicinity to:
   - Cornet Bay
   - Fidalgo Island
   - Whidbey Island
