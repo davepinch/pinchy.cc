@@ -1,10 +1,10 @@
 ---
 title: "Sinclair Island"
-borders:
+adjacent to:
   - Bellingham Bay
   - Bellingham Channel
   - Rosario Strait
-island of:
+island in:
   - Salish Sea
   - Skagit County, Washington
   - Washington
