@@ -1,6 +1,6 @@
 ---
 title: "Greenland"
-borders:
+adjacent to:
   - Baffin Bay
   - Denmark Strait
   - Greenland Sea
@@ -14,7 +14,7 @@ borders:
   - incomplete list
 borders (maritime):
   - Newfoundland and Labrador
-island of:
+island in:
   - Atlantic Ocean
   - North America
 openstreetmap: "https://www.openstreetmap.org/relation/2184073"
