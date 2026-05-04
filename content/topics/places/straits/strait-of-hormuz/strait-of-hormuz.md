@@ -1,13 +1,16 @@
 ---
 title: "Strait of Hormuz"
-borders:
+adjacent to:
   - Iran
   - Oman
   - United Arab Emirates
-openstreetmap: "https://www.openstreetmap.org/relation/9326284"
-strait of:
+connects to:
   - Persian Gulf
   - Gulf of Oman
+openstreetmap: "https://www.openstreetmap.org/relation/9326284"
+strait in:
+  - West Asia
+  - Indian Ocean
 wikidata: "https://www.wikidata.org/wiki/Q79883"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Strait_of_Hormuz"
 tags:
