@@ -1,8 +1,11 @@
 ---
 title: "Samish Island"
-island of:
-  - Padilla Bay
+adjacent to:
+  - "note: clockwise from north"
   - Samish Bay
+  - Samish Island Conservtion Area
+  - Padilla Bay
+island in:
   - Skagit County, Washington
   - Washington
 namesake of: Samish People
