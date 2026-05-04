@@ -1,11 +1,12 @@
 ---
 title: "Vancouver Island"
-borders:
+adjacent to:
   - Strait of Georgia
   - Strait of Juan de Fuca
   - incomplete list
-island of:
+island in:
   - British Columbia
+  - Canada
   - Pacific Northwest
   - Pacific Ocean
 namesake of: George Vancouver
