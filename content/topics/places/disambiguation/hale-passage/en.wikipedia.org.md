@@ -11,4 +11,6 @@ wikipedia of:
   - Hale Passage
   - Hale Passage (Pierce County)
   - Hale Passage (Whatcom County)
+tags:
+  - Wikipedia
 ---
