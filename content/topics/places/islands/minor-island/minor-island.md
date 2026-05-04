@@ -1,7 +1,7 @@
 ---
 title: "Minor Island"
 connected to: Smith Island (Strait of Juan de Fuca)
-island of:
+island in:
   - Strait of Juan de Fuca
   - San Juan Islands National Wildlife Refuge
   - Island County, Washington
