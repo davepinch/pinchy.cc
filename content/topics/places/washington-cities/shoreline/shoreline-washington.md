@@ -23,6 +23,7 @@ city of:
   - Washington State Route 522
 northbound on interstate 5: Mountlake Terrace, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237358"
+suburb of: Seattle
 up the Pacific coast: Point Wells, Washington
 wikidata: "https://www.wikidata.org/entity/Q983657"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Shoreline,_Washington"
