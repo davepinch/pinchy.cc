@@ -10,6 +10,7 @@ census profile: "https://data.census.gov/profile/DuPont_city,_Washington?g=160XX
 city of:
   - Pierce County, Washington
   - Washington
+disambiguation of: DuPont
 openstreetmap: "https://www.openstreetmap.org/relation/237678"
 wikidata: "https://www.wikidata.org/wiki/Q128112"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Dupont,_Washington"
