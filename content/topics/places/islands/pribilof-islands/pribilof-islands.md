@@ -1,6 +1,6 @@
 ---
 title: "Pribilof Islands"
-islands of:
+island group in:
   - Bering Sea
   - Pacific Ocean
   - Alaska
@@ -10,5 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1144173"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pribilof_Islands"
 wikipedia: "https://en.wikipedia.org/wiki/Pribilof_Islands"
 tags:
-  - islands
+  - island group
 ---
