@@ -15,6 +15,7 @@ borders:
   - Seattle
   - Washington State Route 522
   - Woodway, Washington
+census profile: "https://data.census.gov/profile/Shoreline_city,_Washington?g=160XX00US5363960"
 city of:
   - King County, Washington
   - Washington
