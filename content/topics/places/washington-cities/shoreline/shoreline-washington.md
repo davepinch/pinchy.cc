@@ -1,20 +1,21 @@
 ---
 title: "Shoreline, Washington"
-borders:
+adjacent to:
+  - Snohomish County, Washington
+  - Point Wells
+  - Woodway, Washington
+  - Edmonds, Washington
+  - Mountlake Terrace, Washington
+  - Lake Forest Park, Washington
+  - Seattle
+  - Puget Sound
+# Seattle neighborhoods:
   - Bitter Lake, Seattle
   - Broadview, Seattle
-  - Edmonds, Washington
   - Haller Lake, Seattle
   - Lake City, Seattle
-  - Lake Forest Park, Washington
-  - Mountlake Terrace, Washington
   - Olympic Hills, Seattle
   - Pinehurst, Seattle
-  - Point Wells, Washington
-  - Puget Sound
-  - Seattle
-  - Washington State Route 522
-  - Woodway, Washington
 census profile: "https://data.census.gov/profile/Shoreline_city,_Washington?g=160XX00US5363960"
 city of:
   - King County, Washington
