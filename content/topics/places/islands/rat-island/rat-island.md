@@ -1,12 +1,13 @@
 ---
 title: "Rat Island"
-island of:
-  - Port Townsend Bay
+adjacent to:
   - Kilisut Harbor
+  - Port Townsend Bay
+island in:
   - Jefferson County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/13317029"
-vicinity of:
+vicinity to:
   - Indian Island
   - Marrowstone Island
   - Fort Flagler State Park
