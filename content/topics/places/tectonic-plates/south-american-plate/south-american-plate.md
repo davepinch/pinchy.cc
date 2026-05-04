@@ -1,12 +1,12 @@
 ---
 title: "South American Plate"
-borders:
+adjacent to:
   - African Plate
   - North American Plate
   - incomplete list
 clockwise around the african plate: North American Plate
-contains:
-  - Atlantic Ocea
+tectonic plate of:
+  - Atlantic Ocean
   - South America
   - incomplete list
 wikidata: "https://www.wikidata.org/wiki/Q119490"
