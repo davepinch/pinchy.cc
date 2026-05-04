@@ -1,7 +1,7 @@
 ---
 title: "Staten Island"
 borough of: New York City
-island of:
+island in:
   - New York City
   - New York
 openstreetmap: "https://www.openstreetmap.org/relation/9692329"

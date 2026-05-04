@@ -1,7 +1,7 @@
 ---
 title: "Ozette Island"
 adjacent to: Olympic Coast National Marine Sanctuary
-island of:
+island in:
   - Flattery Rocks National Wildlife Refuge
   - Clallam County, Washington
   - Washington

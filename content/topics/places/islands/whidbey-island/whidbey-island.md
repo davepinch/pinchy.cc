@@ -1,6 +1,6 @@
 ---
 title: "Whidbey Island"
-island of:
+island in:
   - Island County, Washington
   - Washington
   - Puget Sound
