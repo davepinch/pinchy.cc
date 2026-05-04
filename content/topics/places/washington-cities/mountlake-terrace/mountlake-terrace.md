@@ -1,12 +1,14 @@
 ---
 title: "Mountlake Terrace, Washington"
-borders:
+adjacent to:
   - Alderwood Manor, Washington
   - Brier, Washington
-  - Lake Ballinger
+  - King County, Washington
   - Lake Forest Park, Washington
   - Shoreline, Washington
-  - incomplete list
+  - Edmonds, Washington
+  - Lynnwood, Washington
+census profile: "https://data.census.gov/profile/Mountlake_Terrace_city,_Washington?g=160XX00US5347490"
 city of:
   - Snohomish County, Washington
   - Washington
