@@ -1,12 +1,17 @@
 ---
 title: "Lummi Island"
-island of:
+adjacent to:
+  - "note: clockwise from north"
+  - Lummi Bay
+  - Hale Passage (Whatcom County)
+  - Bellingham Bay
+  - Rosario Strait
+island in:
   - Whatcom County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/4661469"
-vicinity of:
+vicinity to:
   - Portage Island
-  - Bellingham Bay
   - Bellingham, Washington
 wikidata: "https://www.wikidata.org/wiki/Q937204"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lummi_Island"
