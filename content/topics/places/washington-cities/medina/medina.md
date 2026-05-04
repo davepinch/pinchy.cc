@@ -11,6 +11,7 @@ city of:
   - Lake Washington
   - Washington State Route 520
 openstreetmap: "https://www.openstreetmap.org/relation/237359"
+suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q1506847"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Medina,_Washington"
 tags:
