@@ -1,11 +1,15 @@
 ---
 title: "San Juan Island"
-island of:
-  - Haro Strait
+adjacent to:
+  - "note: clockwise from north"
+  - Spieden Channel
   - San Juan Channel
-  - San Juan Islands
+  - Strait of Juan de Fuca
+  - Haro Strait
+island in:
   - San Juan County, Washington
   - Washington
+island of: San Juan Islands
 openstreetmap: "https://www.openstreetmap.org/relation/3958317"
 wikidata: "https://www.wikidata.org/wiki/Q1935888"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:San_Juan_Island"
