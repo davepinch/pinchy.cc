@@ -1,9 +1,9 @@
 ---
 title: "Medina, Washington (Wikipedia)"
 excerpt: >-
-  **Medina** (/məˈdaɪnə/) is a mostly residential city in Eastside, [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). The city is on a peninsula in [Lake Washington](/en.wikipedia.org/wiki/Lake_Washington/), on the opposite shore from [Seattle](/en.wikipedia.org/wiki/Seattle/), bordered by [Clyde Hill](/en.wikipedia.org/wiki/Clyde_Hill,_Washington/) and [Hunts Point](/en.wikipedia.org/wiki/Hunts_Point,_Washington/) to the east and water on all other sides. The city's population was 2,969 at the 2010 census. Billionaires Bill Gates and Jeff Bezos, along with a number of Microsoft executives, have homes in Medina.
+  **Medina** (/məˈdaɪnə/ is a city in the Eastside region of King County, Washington in greater Seattle, United States. The mostly residential city is on a peninsula in Lake Washington, on the opposite shore from Seattle, bordered by Clyde Hill and Hunts Point to the east and water on all other sides. The city's population was 2,915 at the 2020 census. Bill Gates and Jeff Bezos, along with a number of billionaires and executives for tech companies, have homes in Medina.
 license: CC BY-SA 4.0
-retrieved: 2022-11-24
+retrieved: 2026-05-04
 type: website
 url: /en.wikipedia.org/wiki/Medina,_Washington/
 website: "https://en.wikipedia.org/wiki/Medina,_Washington"
