@@ -16,6 +16,7 @@ city of:
   - Sammamish River
   - Washington State Route 522
 openstreetmap: "https://www.openstreetmap.org/relation/237353"
+suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q588640"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kenmore,_Washington"
 tags:
