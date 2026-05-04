@@ -17,7 +17,7 @@ connects to:
   - West Bay
 note:
   - "**Olympia, Washington** is located at the south end of the bay."
-  - "The east side of the bay is an unnamed peninsula in Thurston County.
+  - "The east side of the bay is an unnamed peninsula in Thurston County."
   - "The west side of the bay is an unnamed peninsula in the larger **Olympic Peninsula**."
   - "According to OpenStreetMap, there is a portion of unnamed waters between Budd Inlet and **Dana Passage**."
 openstreetmap: "https://www.openstreetmap.org/relation/13312228"
