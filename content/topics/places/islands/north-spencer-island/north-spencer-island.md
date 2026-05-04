@@ -1,12 +1,13 @@
 ---
 title: "North Spencer Island"
-around Everett of: VISIT SOMEWHERE NEW
-island of:
+adjacent to:
   - Steamboat Slough (Snohomish River)
   - Union Slough
+around Everett of: VISIT SOMEWHERE NEW
+island in:
   - Snohomish County, Washington
   - Washington
-  - Interstate 5
+island of: Interstate 5
 openstreetmap: "https://www.openstreetmap.org/way/1302781070"
 tags:
   - island
