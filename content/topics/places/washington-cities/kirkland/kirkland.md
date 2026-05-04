@@ -1,15 +1,17 @@
 ---
 title: "Kirkland, Washington"
-borders:
-  - Bellevue, Washington
-  - Bothell, Washington
-  - Clyde Hill, Washington
-  - Kenmore, Washington
+adjacent to:
   - Lake Washington
-  - Redmond, Washington
+  - Kenmore, Washington
+  - Bothell, Washington
   - Woodinville, Washington
+  - Redmond, Washington
+  - Bellevue, Washington
+  - Clyde Hill, Washington
   - Yarrow Point, Washington
-  - incomplete list
+  - Hunts Point, Washington
+  - Medina, Washington
+census profile: "https://data.census.gov/profile/Kirkland_city,_Washington?g=160XX00US5335940"
 city of:
   - King County, Washington
   - Washington
