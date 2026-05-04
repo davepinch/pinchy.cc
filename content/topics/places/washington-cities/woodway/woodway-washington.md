@@ -3,15 +3,16 @@ title: "Woodway, Washington"
 across the sound:
   - Kingston, Washington
   - Kitsap Peninsula
-borders:
+adjacent to:
   - Edmonds, Washington
-  - Point Wells, Washington
-  - Puget Sound
+  - King County, Washington
   - Shoreline, Washington
+  - Point Wells
+  - Puget Sound
+census profile: "https://data.census.gov/profile/Woodway_city,_Washington?g=160XX00US5379835"
 city of:
   - Snohomish County, Washington
   - Washington
-  - Puget Sound
 official website: "https://www.townofwoodway.com/index.php"
 openstreetmap: "https://www.openstreetmap.org/relation/237219"
 up the pacific coast: Edmonds, Washington
