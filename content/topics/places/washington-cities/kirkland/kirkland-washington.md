@@ -16,6 +16,7 @@ city of:
   - King County, Washington
   - Washington
   - Lake Washington
+disambiguation of: Kirkland
 openstreetmap: "https://www.openstreetmap.org/relation/237356"
 suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q936768"
