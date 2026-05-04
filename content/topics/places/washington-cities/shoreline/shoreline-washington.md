@@ -25,7 +25,7 @@ city of:
 northbound on interstate 5: Mountlake Terrace, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237358"
 suburb of: Seattle
-up the Pacific coast: Point Wells, Washington
+up the Pacific coast: Point Wells
 wikidata: "https://www.wikidata.org/entity/Q983657"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Shoreline,_Washington"
 wikivoyage: "https://en.wikivoyage.org/wiki/Shoreline"
