@@ -1,11 +1,11 @@
 ---
 title: "Mukilteo, Washington"
-borders:
+adjacent to:
   - Everett, Washington
   - Paine Field
   - Picnic Point, Washington
   - Puget Sound
-  - unincorporated [Snohomish County](/snohomish-county/)
+census profile: "https://data.census.gov/profile/Mukilteo_city,_Washington?g=160XX00US5347735"
 city of:
   - Snohomish County, Washington
   - Washington
