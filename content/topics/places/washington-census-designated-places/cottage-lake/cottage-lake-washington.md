@@ -1,15 +1,17 @@
 ---
 title: "Cottage Lake, Washington"
-borders:
-  - Paradise Valley Conservation Area
-  - Redmond, Washington
+adjacent to:
   - Snohomish County, Washington
+  - Maltby, Washington
+  - Paradise Valley Conservation Area
+  - High Bridge, Washington
   - Union Hill-Novelty Hill, Washington
+  - Redmond, Washington
   - Woodinville, Washington
-  - incomplete list
-census-designated place of:
+census-designated place in:
   - King County, Washington
   - Washington
+census profile: "https://data.census.gov/profile/Cottage_Lake_CDP,_Washington?g=160XX00US5314940"
 openstreetmap: "https://www.openstreetmap.org/relation/237545"
 vicinity of: Duvall, Washington
 wikidata: "https://www.wikidata.org/entity/Q1502643"
