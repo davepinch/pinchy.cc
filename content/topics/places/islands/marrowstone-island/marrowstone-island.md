@@ -1,7 +1,13 @@
 ---
 title: "Marrowstone Island"
-island of:
+adjacent to:
+  - "note: clockwise from north"
+  - Port Townsend Bay
   - Admiralty Inlet
+  - Oak Bay
+  - Scow Bay
+  - Kilisut Harbor
+island in:
   - Jefferson County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/5574899"
