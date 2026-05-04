@@ -1,5 +1,10 @@
 ---
 title: "Lacey, Washington"
+adjacent to:
+  - Nisqually Reach
+  - Tanglewilde, Washington
+  - Olympia, Washington
+census profile: "https://data.census.gov/profile/Lacey_city,_Washington?g=160XX00US5336745"
 city of:
   - Thurston County, Washington
   - Washington
