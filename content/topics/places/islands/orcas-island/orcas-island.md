@@ -1,6 +1,22 @@
 ---
 title: "Orcas Island"
-island of:
+adjacent to:
+  - "note: clockwise from north"
+  - Strait of Georgia
+  - Rosario Strait
+  - Obstruction Pass
+  - East Sound
+  - Lopez Sound
+  - Cayou Channel
+  - West Sound
+  - Wasp Passage
+  - Pole Pass
+  - Deer Harbor
+  - North Pass
+  - San Juan Channel
+  - Spring Passage
+  - President Channel
+island in:
   - San Juan County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/3958318"
