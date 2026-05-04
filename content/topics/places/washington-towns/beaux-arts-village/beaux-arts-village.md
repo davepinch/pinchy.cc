@@ -1,8 +1,9 @@
 ---
 title: "Beaux Arts Village, Washington"
-borders:
+adjacent to:
   - Bellevue, Washington
   - Lake Washington
+census profile: "https://data.census.gov/profile/Beaux_Arts_Village_town,_Washington?g=160XX00US5304895"
 openstreetmap: "https://www.openstreetmap.org/relation/237332"
 town of:
   - King County, Washington
