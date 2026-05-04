@@ -4,6 +4,7 @@ census profile: "https://data.census.gov/profile/Olympia_city,_Washington?g=160X
 city of:
   - Thurston County, Washington
   - Washington
+disambiguation of: Olympia
 openstreetmap: "https://www.openstreetmap.org/relation/238005"
 wikidata: "https://www.wikidata.org/wiki/Q42735"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Olympia,_Washington"
