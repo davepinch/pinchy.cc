@@ -17,6 +17,7 @@ city of:
   - Washington
   - Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237356"
+suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q936768"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kirkland,_Washington"
 wikivoyage: "https://en.wikivoyage.org/wiki/Kirkland"
