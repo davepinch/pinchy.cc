@@ -1,10 +1,11 @@
 ---
 title: "Pass Island"
-island of:
+adjacent to: Canoe Pass
+island in:
   - Deception Pass
-  - Deception Pass Bridge
   - Skagit County, Washington
   - Washington
+island of: Deception Pass Bridge
 openstreetmap: "https://www.openstreetmap.org/relation/13317045"
 vicinity of:
   - Fidalgo Island
