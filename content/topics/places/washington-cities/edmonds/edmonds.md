@@ -3,16 +3,15 @@ title: "Edmonds, Washington"
 across the sound:
   - Kingston, Washington
   - Kitsap Peninsula
-borders:
+adjacent to:
   - Esperance, Washington
-  - Lake Ballinger
-  - Lynnwood, Washington
   - Meadowdale, Washington
+  - Lynnwood, Washington
   - Mountlake Terrace, Washington
-  - Point Wells, Washington
-  - Puget Sound
   - Shoreline, Washington
   - Woodway, Washington
+  - Puget Sound
+census profile: "https://data.census.gov/profile/Edmonds_city,_Washington?g=160XX00US5320750"
 city of:
   - Snohomish County, Washington
   - Washington
