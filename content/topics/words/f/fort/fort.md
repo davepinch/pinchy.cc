@@ -1,7 +1,7 @@
 ---
 title: "fort"
 tag requires property:
-  - fort of
+  - fort in
   - OpenStreetMap
   - Wikidata
   - Wikimedia
