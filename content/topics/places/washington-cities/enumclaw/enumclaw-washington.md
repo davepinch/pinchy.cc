@@ -4,6 +4,7 @@ census profile: "https://data.census.gov/profile/Enumclaw_city,_Washington?g=160
 city of:
   - King County, Washington
   - Washington
+disambiguation of: Enumclaw
 openstreetmap: "https://www.openstreetmap.org/relation/237873"
 vicinity to:
   - Buckley, Washington
