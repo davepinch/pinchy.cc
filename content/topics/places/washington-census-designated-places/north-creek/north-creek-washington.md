@@ -1,19 +1,21 @@
 ---
 title: "North Creek, Washington"
-borders clockwise from north:
+adjacent to:
   - Mill Creek, Washington
   - Silver Firs, Washington
   - Clearview, Washington
   - Bothell East, Washington
   - Bothell West, Washington
   - Martha Lake, Washington
-census-designated place of:
-  - North Creek
+census-designated place in:
   - Snohomish County, Washington
   - Washington
+namesake of: North Creek
 openstreetmap: "https://www.openstreetmap.org/node/140377142"
+retired of: census-designated place
 wikidata: "https://www.wikidata.org/wiki/Q1510602"
 tags:
-  - census-designated 
+  - retired
+  - census-designated place
   - no Wikimedia category
 ---
