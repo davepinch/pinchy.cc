@@ -1,6 +1,6 @@
 ---
 title: "Tahiti"
-island of:
+island in:
   - Windward Islands
   - Society Islands
   - French Polynesia
