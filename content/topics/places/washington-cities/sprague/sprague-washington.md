@@ -6,6 +6,7 @@ city of:
   - Washington
   - Interstate 90
 openstreetmap: "https://www.openstreetmap.org/relation/238019"
+vicinity to: Lamont, Washington
 wikidata: "https://www.wikidata.org/wiki/Q2603465"
 tags:
   - city
