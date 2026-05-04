@@ -10,6 +10,7 @@ city of:
   - Washington
   - Interstate 90
 clockwise around lake sammamish: Bellevue, Washington
+disambiguation of: Issaquah
 near: Squak Mountain
 openstreetmap: "https://www.openstreetmap.org/relation/237874"
 wikidata: "https://www.wikidata.org/entity/Q40251"
