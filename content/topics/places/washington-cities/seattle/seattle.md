@@ -19,13 +19,6 @@ city of:
   - Puget Sound
   - Interstate 90
 openstreetmap: "https://www.openstreetmap.org/relation/237385"
-roadways:
-  - Interstate 5
-  - Interstate 90
-  - Washington State Route 99
-  - Washington State Route 520
-  - Washington State Route 522
-  - incomplete list
 up the pacific coast: Shoreline, Washington
 vicinity to:
   - Bellevue, Washington
