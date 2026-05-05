@@ -3,15 +3,15 @@ title: "Seattle"
 ascend:
   - Columbia Center
   - Space Needle
-borders:
-  - Boulevard Park, Washington
-  - Burien, Washington
+adjacent to:
+  - Shoreline, Washington
   - Lake Forest Park, Washington
   - Lake Washington
-  - Shoreline, Washington
+  - Bryn Mawr-Skyway, Washington
   - Tukwila, Washington
+  - Boulevard Park, Washington
   - White Center, Washington
-  - incomplete list
+  - Burien, Washington
 census profile: "https://data.census.gov/profile/Seattle_city,_Washington?g=160XX00US5363000"
 city of:
   - King County, Washington
