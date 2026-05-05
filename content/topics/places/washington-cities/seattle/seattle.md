@@ -18,10 +18,6 @@ city of:
   - Lake Washington
   - Puget Sound
   - Interstate 90
-near:
-  - Bellevue, Washington
-  - SeaTac, Washington
-  - Tacoma, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237385"
 roadways:
   - Interstate 5
@@ -31,6 +27,10 @@ roadways:
   - Washington State Route 522
   - incomplete list
 up the pacific coast: Shoreline, Washington
+vicinity to:
+  - Bellevue, Washington
+  - SeaTac, Washington
+  - Tacoma, Washington
 wikidata: "https://www.wikidata.org/entity/Q5083"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Seattle"
 wikisource: "https://en.wikisource.org/wiki/Portal:Seattle"
