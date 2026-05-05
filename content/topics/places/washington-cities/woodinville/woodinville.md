@@ -6,6 +6,7 @@ borders:
   - Kirkland, Washington
   - Maltby, Washington
   - Snohomish County, Washington
+census profile: "https://data.census.gov/profile/Woodinville_city,_Washington?g=160XX00US5379590"
 city of:
   - King County, Washington
   - Washington
