@@ -8,7 +8,7 @@ adjacent to:
   - North Lynnwood, Washington
   - Meadowdale, Washington
   - Puget Sound
-census-designated place of:
+census-designated place in:
   - Snohomish County, Washington
   - Washington
 census profile: "https://data.census.gov/profile/Picnic_Point_CDP,_Washington?g=160XX00US5354213"

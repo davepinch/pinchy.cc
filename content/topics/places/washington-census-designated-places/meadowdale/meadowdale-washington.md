@@ -7,7 +7,7 @@ adjacent to:
   - Lynnwood, Washington
   - Edmonds, Washington
   - Possession Sound
-census-designated place of:
+census-designated place in:
   - Snohomish County, Washington
   - Washington
 census profile: "https://data.census.gov/profile/Meadowdale_CDP,_Washington?g=160XX00US5344585"

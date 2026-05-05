@@ -5,7 +5,7 @@ adjacent to:
   - Tukwila, Washington
   - Burien, Washington
   - White Center, Washington
-census-designated place of:
+census-designated place in:
   - King County, Washington
   - Washington
 census profile: "https://data.census.gov/profile/Boulevard_Park_CDP,_Washington?g=160XX00US5307397"

@@ -1,7 +1,7 @@
 ---
 title: "Ames Lake, Washington"
 adjacent to: Union Hill-Novelty Hill, Washington
-census-designated place of:
+census-designated place in:
   - King County, Washington
   - Washington
 census profile: "https://data.census.gov/profile/Ames_Lake_CDP,_Washington?g=160XX00US5301920"
