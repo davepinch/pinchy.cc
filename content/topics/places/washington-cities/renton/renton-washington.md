@@ -9,6 +9,7 @@ city of:
   - King County, Washington
   - Washington
   - Lake Washington
+disambiguation of: Renton
 openstreetmap: "https://www.openstreetmap.org/relation/237877"
 wikidata: "https://www.wikidata.org/entity/Q679952"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Renton,_Washington"
