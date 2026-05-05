@@ -5,6 +5,7 @@ borders:
   - Lake Washington
   - Tukwila, Washington
   - incomplete list
+census profile: "https://data.census.gov/profile/Renton_city,_Washington?g=160XX00US5357745"
 city of:
   - King County, Washington
   - Washington
