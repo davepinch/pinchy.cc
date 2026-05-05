@@ -12,6 +12,7 @@ city of:
   - Washington
   - Washington State Route 9
   - Washington State Route 522
+disambiguation of: Woodinville
 openstreetmap: "https://www.openstreetmap.org/relation/237387"
 vicinity to: Interstate 405
 wikidata: "https://www.wikidata.org/entity/Q986378"
