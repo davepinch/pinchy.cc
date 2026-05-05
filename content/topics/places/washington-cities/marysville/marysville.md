@@ -1,5 +1,11 @@
 ---
 title: "Marysville, Washington"
+adjacent to:
+  - Arlington, Washington
+  - Sisco Heights, Washington
+  - Lake Cassidy, Washington
+  - Lake Stevens, Washington
+  - Everett, Washington
 census profile: "https://data.census.gov/profile/Marysville_city,_Washington?g=160XX00US5343955"
 city of:
   - Snohomish County, Washington
