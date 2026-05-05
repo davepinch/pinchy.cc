@@ -5,8 +5,8 @@ city of:
   - Washington
   - Interstate 5
   - Washington State Route 9
-near: Oso, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237216"
+vicinity to: Oso, Washington
 wikidata: "https://www.wikidata.org/entity/Q1055866"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Arlington,_Washington"
 tags:
