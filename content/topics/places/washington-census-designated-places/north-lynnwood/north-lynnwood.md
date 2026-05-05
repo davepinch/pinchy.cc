@@ -1,12 +1,13 @@
 ---
 title: "North Lynnwood, Washington"
-borders:
+adjacent to:
   - Lake Stickney, Washington
+  - Martha Lake, Washington
   - Larch Way, Washington
+  - Alderwood Manor, Washington
   - Lynnwood, Washington
   - Meadowdale, Washington
   - Picnic Point, Washington
-  - incomplete list
 census-designated place in:
   - Snohomish County, Washington
   - Washington
