@@ -10,6 +10,7 @@ borders:
   - Seattle
   - Shoreline, Washington
   - Snohomish County, Washington
+census profile: "https://data.census.gov/profile/Lake_Forest_Park_city,_Washington?g=160XX00US5337270"
 city of:
   - King County, Washington
   - Washington
