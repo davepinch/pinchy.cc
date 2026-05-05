@@ -1,6 +1,7 @@
 ---
 title: "North Bend, Washington"
 borders: Rattlesnake Ridge
+census profile: "https://data.census.gov/profile/North_Bend_city,_Washington?g=160XX00US5349485"
 city of:
   - King County, Washington
   - Washington
