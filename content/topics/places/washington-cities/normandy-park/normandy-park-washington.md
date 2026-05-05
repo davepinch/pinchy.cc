@@ -1,11 +1,11 @@
 ---
 title: "Normandy Park, Washington"
 across the sound: Vashon, Washington
-borders:
+adjacent to:
   - Burien, Washington
   - Des Moines, Washington
-  - East Passage
   - Puget Sound
+  - East Passage
 census profile: "https://data.census.gov/profile/Normandy_Park_city,_Washington?g=160XX00US5349415"
 city of:
   - King County, Washington
