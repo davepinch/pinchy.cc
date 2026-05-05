@@ -1,6 +1,9 @@
 ---
 title: "Sultan, Washington"
-borders: Skykomish River
+adjacent to:
+  - Startup, Washington
+  - Skykomish River
+  - North Sultan, Washington
 city of:
   - Skykomish River
   - Sultan River
