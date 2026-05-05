@@ -1,5 +1,6 @@
 ---
 title: "Carnation, Washington"
+census profile: "https://data.census.gov/profile/Carnation_city,_Washington?g=160XX00US5310215"
 city of:
   - King County, Washington
   - Washington
