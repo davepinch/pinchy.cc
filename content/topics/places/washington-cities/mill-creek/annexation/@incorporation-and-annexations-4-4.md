@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "annexation in Mill Creek, Washington (Wikipedia)"
+✂️: >-
   The 553-acre (224 ha) Thomas Lake area in the northeastern corner of the city, bordered to the north by 132nd Street and east by Seattle Hill Road, was annexed in 2005 and added 2,200 residents to the city's population.
 annexation of: Mill Creek, Washington
 citation: >-
