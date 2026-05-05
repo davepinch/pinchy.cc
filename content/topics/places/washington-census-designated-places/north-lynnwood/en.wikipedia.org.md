@@ -1,7 +1,7 @@
 ---
 title: "North Lynnwood, Washington (Wikipedia)"
 excerpt: >-
-  **North Lynnwood** is a census-designated place (CDP) located in Snohomish County, Washington. As of the 2020 census, North Lynnwood had a population of 22,802.[1] It was originally part of Picnic Point-North Lynnwood. For the 2010 census, the CDP was separated into Picnic Point and North Lynnwood, with a small part going to the new Meadowdale CDP.
+  **North Lynnwood** is a census-designated place (CDP) located in Snohomish County, Washington. As of the 2020 census, North Lynnwood had a population of 22,802. It was originally part of Picnic Point-North Lynnwood. For the 2010 census, the CDP was separated into Picnic Point and North Lynnwood, with a small part going to the new Meadowdale CDP.
 license: CC BY-SA 4.0
 retrieved: 2026-05-05
 type: website

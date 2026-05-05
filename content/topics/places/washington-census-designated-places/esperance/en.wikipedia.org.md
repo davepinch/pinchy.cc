@@ -1,7 +1,7 @@
 ---
 title: "Esperance, Washington (Wikipedia)"
 excerpt: >-
-  **Esperance** is a census-designated place (CDP) in Snohomish County, Washington, United States. Esperance is an enclave of the city of Edmonds, Washington. The population was 4,007 at the 2020 census,[4] up from 3,601 at the 2010 census.
+  **Esperance** is a census-designated place (CDP) in Snohomish County, Washington, United States. Esperance is an enclave of the city of Edmonds, Washington. The population was 4,007 at the 2020 census, up from 3,601 at the 2010 census.
 license: CC BY-SA 4.0
 retrieved: 2026-05-05
 type: website
