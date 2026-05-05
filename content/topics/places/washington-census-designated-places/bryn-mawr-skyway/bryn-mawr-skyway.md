@@ -1,10 +1,11 @@
 ---
 title: "Bryn Mawr-Skyway, Washington"
-borders:
+adjacent to:
+  - Seattle
+  - Rainier View, Seattle
+  - Rainier Beach, Seattle
   - Lake Washington
   - Renton, Washington
-  - Rainier Beach, Seattle
-  - Rainier View, Seattle
   - Tukwila, Washington
 census-designated place in:
   - King County, Washington
