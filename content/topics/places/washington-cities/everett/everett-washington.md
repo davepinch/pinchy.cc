@@ -13,8 +13,8 @@ city of:
   - Washington State Route 99
 disambiguation of: Everett
 mention of: Silver Lake (Everett, Washington)
-near: Snohomish, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237659"
+vicinity to: Snohomish, Washington
 wikidata: "https://www.wikidata.org/wiki/Q392599"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Everett,_Washington"
 tags:
