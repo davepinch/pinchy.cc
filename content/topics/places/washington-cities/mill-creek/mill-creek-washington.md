@@ -10,6 +10,7 @@ census profile: "https://data.census.gov/profile/Mill_Creek_city,_Washington?g=1
 city of:
   - Snohomish County, Washington
   - Washington
+disambiguation of: Mill Creek
 not to be confused with: Mills Creek
 openstreetmap: "https://www.openstreetmap.org/relation/237243"
 vicinity to:
