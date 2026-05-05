@@ -1,5 +1,6 @@
 ---
 title: "Darrington, Washington"
+disambiguation of: Darrington
 near: Oso, Washington
 town of:
   - Snohomish County, Washington
