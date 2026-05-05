@@ -13,4 +13,5 @@ openstreetmap: "https://www.openstreetmap.org/relation/6632469"
 wikidata: "https://www.wikidata.org/entity/Q5732835"
 tags:
   - census-designated place
+  - no Wikimedia category
 ---
