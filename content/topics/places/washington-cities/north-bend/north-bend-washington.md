@@ -7,6 +7,7 @@ city of:
   - Cascade Range
   - Interstate 90
   - South Fork Snoqualmie River
+disambiguation of: North Bend
 openstreetmap: "https://www.openstreetmap.org/relation/237364"
 wikidata: "https://www.wikidata.org/entity/Q301889"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:North_Bend,_Washington"
