@@ -1,5 +1,6 @@
 ---
 title: "Stanwood, Washington"
+census profile: "https://data.census.gov/profile/Stanwood_city,_Washington?g=160XX00US5367455"
 city of:
   - Snohomish County, Washington
   - Washington
