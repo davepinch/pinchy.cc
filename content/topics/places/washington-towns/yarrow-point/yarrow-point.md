@@ -1,11 +1,10 @@
 ---
 title: "Yarrow Point, Washington"
-borders:
+adjacent to:
+  - Lake Washington
+  - Kirkland, Washington
   - Clyde Hill, Washington
   - Hunts Point, Washington
-  - Kirkland, Washington
-  - Lake Washington
-  - Washington State Route 520
 census profile: "https://data.census.gov/profile/Yarrow_Point_town,_Washington?g=160XX00US5380150"
 town of:
   - King County, Washington
