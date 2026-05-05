@@ -7,16 +7,16 @@ city of:
   - Snohomish River
   - U.S. Route 2
   - Washington State Route 9
-near:
-  - Cathcart, Washington
-  - Everett, Washington
-  - Lord Hill Regional Park
-  - Monroe, Washington
 not to be confused with:
   - Snohomish County, Washington
   - Snohomish River
 official website: "https://www.snohomishwa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/237671"
+vicinity to:
+  - Cathcart, Washington
+  - Everett, Washington
+  - Lord Hill Regional Park
+  - Monroe, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1505974"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Snohomish,_Washington"
 tags:
