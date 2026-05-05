@@ -1,11 +1,11 @@
 ---
 title: "Woodinville, Washington"
-borders:
-  - Bothell, Washington
+adjacent to:
+  - Snohomish County, Washington
+  - Maltby, Washington
   - Cottage Lake, Washington
   - Kirkland, Washington
-  - Maltby, Washington
-  - Snohomish County, Washington
+  - Bothell, Washington
 census profile: "https://data.census.gov/profile/Woodinville_city,_Washington?g=160XX00US5379590"
 city of:
   - King County, Washington
