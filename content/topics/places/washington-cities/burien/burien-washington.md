@@ -12,6 +12,7 @@ borders:
   - Tukwila, Washington
   - West Seattle
   - White Center, Washington
+census profile: "https://data.census.gov/profile/Burien_city,_Washington?g=160XX00US5308850"
 city of:
   - King County, Washington
   - Washington
