@@ -1,5 +1,6 @@
 ---
 title: "Arlington, Washington"
+census profile: "https://data.census.gov/profile/Arlington_city,_Washington?g=160XX00US5302585"
 city of:
   - Snohomish County, Washington
   - Washington
