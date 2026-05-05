@@ -6,6 +6,7 @@ adjacent to:
   - Clyde Hill, Washington
   - Hunts Point, Washington
 census profile: "https://data.census.gov/profile/Yarrow_Point_town,_Washington?g=160XX00US5380150"
+disambiguation of: Yarrow Point
 town of:
   - King County, Washington
   - Washington
