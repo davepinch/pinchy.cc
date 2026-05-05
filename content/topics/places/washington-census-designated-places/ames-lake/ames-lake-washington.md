@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1508298"
 wikipedia: "https://en.wikipedia.org/wiki/Ames_Lake,_Washington"
 tags:
   - census-designated place
+  - no Wikimedia category
 ---
