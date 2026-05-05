@@ -1,5 +1,8 @@
 ---
 title: "Gold Bar, Washington"
+adjacent to:
+  - May Creek, Washington
+  - Startup, Washington
 census profile: "https://data.census.gov/profile/Gold_Bar_city,_Washington?g=160XX00US5327365"
 city of:
   - Snohomish County, Washington
