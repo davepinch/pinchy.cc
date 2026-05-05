@@ -1,15 +1,15 @@
 ---
 title: "Lake Forest Park, Washington"
-borders:
-  - Brier, Washington
-  - Cedar Park, Seattle
-  - Kenmore, Washington
-  - Lake City, Seattle
-  - Lake Washington
-  - Mountlake Terrace, Washington
-  - Seattle
-  - Shoreline, Washington
+adjacent to:
   - Snohomish County, Washington
+  - Mountlake Terrace, Washington
+  - Brier, Washington
+  - Kenmore, Washington
+  - Lake Washington
+  - Seattle
+  - Lake City, Seattle
+  - Cedar Park, Seattle
+  - Shoreline, Washington
 census profile: "https://data.census.gov/profile/Lake_Forest_Park_city,_Washington?g=160XX00US5337270"
 city of:
   - King County, Washington
