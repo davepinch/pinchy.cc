@@ -16,6 +16,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1000951"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Snoqualmie,_Washington"
 wikivoyage: "https://en.wikivoyage.org/wiki/Snoqualmie"
 tags:
-  - town
   - city
 ---
