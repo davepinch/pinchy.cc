@@ -1,5 +1,6 @@
 ---
 title: "Darrington, Washington"
+census profile: "https://data.census.gov/profile/Darrington_town,_Washington?g=160XX00US5316690"
 disambiguation of: Darrington
 openstreetmap: "https://www.openstreetmap.org/relation/237657"
 town of:
