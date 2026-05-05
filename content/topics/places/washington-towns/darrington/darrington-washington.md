@@ -1,15 +1,15 @@
 ---
 title: "Darrington, Washington"
 disambiguation of: Darrington
-near: Oso, Washington
+openstreetmap: "https://www.openstreetmap.org/relation/237657"
 town of:
   - Snohomish County, Washington
   - Washington
   - Cascade Range
-openstreetmap: "https://www.openstreetmap.org/relation/237657"
-vicinity of:
-  - North Fork Stillaguamish River
+vicinity to:
   - Mount Baker–Snoqualmie National Forest
+  - North Fork Stillaguamish River
+  - Oso, Washington
 wikidata: "https://www.wikidata.org/entity/Q1507497"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Darrington,_Washington"
 tags:
