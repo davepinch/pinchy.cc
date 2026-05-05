@@ -15,6 +15,7 @@ city of:
   - Washington
   - Lake Washington
   - Washington State Route 522
+disambiguation of: Lake Forest Park
 openstreetmap: "https://www.openstreetmap.org/relation/237357"
 southwest corner: Olympic Hills, Seattle
 suburb of: Seattle
