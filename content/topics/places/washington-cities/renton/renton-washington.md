@@ -1,10 +1,14 @@
 ---
 title: "Renton, Washington"
-borders:
-  - Bryn Mawr-Skyway, Washington
+adjacent to:
   - Lake Washington
+  - Newcastle, Washington
+  - East Renton Highlands, Washington
+  - Maple Heights-Lake Desire, Washington
+  - Fairwood, Washington
+  - Kent, Washington
   - Tukwila, Washington
-  - incomplete list
+  - Bryn Mawr-Skyway, Washington
 census profile: "https://data.census.gov/profile/Renton_city,_Washington?g=160XX00US5357745"
 city of:
   - King County, Washington
