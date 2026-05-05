@@ -17,6 +17,7 @@ city of:
   - Washington
   - East Passage
   - Puget Sound
+disambiguation of: Burien
 openstreetmap: "https://www.openstreetmap.org/relation/237342"
 suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q984825"
