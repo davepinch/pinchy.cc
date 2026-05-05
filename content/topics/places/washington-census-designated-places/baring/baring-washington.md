@@ -3,6 +3,7 @@ title: "Baring, Washington"
 census-designated place in:
   - King County, Washington
   - Washington
+census profile: "https://data.census.gov/profile/Baring_CDP,_Washington?g=160XX00US5304300"
 openstreetmap: "https://www.openstreetmap.org/node/150971801"
 vicinity to:
   - Index, Washington
