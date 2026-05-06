@@ -7,6 +7,7 @@ census-designated place of:
   - Skagit County, Washington
   - Washington
   - Interstate 5
+disambiguation of: Conway
 near: La Conner, Washington
 openstreetmap: "https://www.openstreetmap.org/node/412161417"
 wikidata: "https://www.wikidata.org/wiki/Q1509392"
