@@ -14,12 +14,12 @@ city of:
   - Washington
   - Interstate 405
   - Washington State Route 522
-vicinity to: Cathcart, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237656"
 suburb of: Seattle
 vicinity to:
   - Alderwood Manor, Washington
   - Brier, Washington
+  - Cathcart, Washington
   - Cottage Lake, Washington
   - Lake Forest Park, Washington
 wikidata: "https://www.wikidata.org/entity/Q303046"
