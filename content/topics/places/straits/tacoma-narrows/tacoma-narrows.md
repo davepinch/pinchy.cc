@@ -1,9 +1,12 @@
 ---
 title: "Tacoma Narrows"
-openstreetmap: "https://www.openstreetmap.org/relation/13312640"
-strait of:
-  - Puget Sound
+adjacent to:
+  - Wollochet, Washington
+  - Gig Harbor Peninsula
   - Kitsap Peninsula
+openstreetmap: "https://www.openstreetmap.org/relation/13312640"
+strait in:
+  - Puget Sound
   - Pierce County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q3267014"
