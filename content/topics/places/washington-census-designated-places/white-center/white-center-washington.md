@@ -8,6 +8,7 @@ borders:
 census-designated place of:
   - King County, Washington
   - Washington
+disambiguation of: White Center
 openstreetmap: "https://www.openstreetmap.org/relation/237341"
 wikidata: "https://www.wikidata.org/entity/Q1511304"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:White_Center,_Washington"
