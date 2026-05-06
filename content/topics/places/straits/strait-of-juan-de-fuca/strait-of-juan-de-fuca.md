@@ -9,7 +9,7 @@ borders:
   - Vancouver Island
   - list incomplete
 openstreetmap: "https://www.openstreetmap.org/relation/13321590"
-strait of:
+strait in:
   - Salish Sea
   - Pacific Ocean
 strike a path to jasper: Strait of Juan de Fuca (Wikipedia)
