@@ -1,17 +1,30 @@
 ---
 title: "Kent, Washington"
-borders:
+adjacent to:
+  - Tukwila, Washington
+  - Renton, Washington
+  - Covington, Washington
+  - Lake Morton-Berrydale, Washington
   - Auburn, Washington
-  - Des Moines, Washington
   - Lakeland North, Washington
+  - Federal Way, Washington
+  - Des Moines, Washington
   - SeaTac, Washington
-  - incomplete list
+# exclaves
+  - Maple Valley, Washington
+  - Black Diamond, Washington
+  - Ravensdale, Washington
 census profile: "https://data.census.gov/profile/Kent_city,_Washington?g=160XX00US5335415"
 city of:
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237875"
 suburb of: Seattle
+vicinity to:
+  - Fairwood, Washington
+  - Hobart, Washington
+  - Lake Holm, Washington
+  - Shadow Lake, Washington
 wikidata: "https://www.wikidata.org/entity/Q844008"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kent,_Washington"
 wikivoyage: "https://en.wikivoyage.org/wiki/Kent_(Washington)"
