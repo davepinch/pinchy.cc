@@ -1,10 +1,10 @@
 ---
 title: "White Center, Washington"
-borders:
-  - Boulevard Park, Washington
-  - Burien, Washington
+adjacent to:
   - Seattle
   - West Seattle
+  - Boulevard Park, Washington
+  - Burien, Washington
 census-designated place of:
   - King County, Washington
   - Washington
