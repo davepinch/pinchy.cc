@@ -1,8 +1,9 @@
 ---
 title: "Custer, Washington"
-census-designated place of:
+census-designated place in:
   - Whatcom County, Washington
   - Washington
+census-designated place of:
   - Interstate 5
 openstreetmap: "https://www.openstreetmap.org/node/150941637"
 roadways: Interstate 5

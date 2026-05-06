@@ -1,9 +1,10 @@
 ---
 title: "Deming, Washington"
 alongside: Nooksack River
-census-designated place of:
+census-designated place in:
   - Whatcom County, Washington
   - Washington
+census-designated place of:
   - Washington State Route 9
   - Washington State Route 542
 near:

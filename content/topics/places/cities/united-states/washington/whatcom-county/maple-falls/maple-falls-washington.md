@@ -1,6 +1,6 @@
 ---
 title: "Maple Falls, Washington"
-census-designated place of:
+census-designated place in:
   - Whatcom County, Washington
   - Washington
   - Washington State Route 542
