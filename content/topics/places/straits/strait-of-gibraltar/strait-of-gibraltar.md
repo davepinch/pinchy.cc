@@ -1,6 +1,6 @@
 ---
 title: "Strait of Gibraltar"
-strait of:
+strait in:
   - Atlantic Ocean
   - Mediterranean Sea
   - Morocco
