@@ -7,6 +7,7 @@ adjacent to:
   - Tyrrhenian Sea
   - Mediterranean Sea
 namesake of: Italy
+openstreetmap: "https://www.openstreetmap.org/relation/4056532"
 peninsula of:
   - Europe
   - Southern Europe
