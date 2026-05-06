@@ -1,5 +1,6 @@
 ---
 title: "Maple Valley, Washington"
+census profile: "https://data.census.gov/profile/Maple_Valley_city,_Washington?g=160XX00US5343150"
 city of:
   - King County, Washington
   - Washington
