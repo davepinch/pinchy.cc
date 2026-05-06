@@ -12,6 +12,7 @@ borders:
   - SeaTac, Washington
   - Seattle
   - South Beacon Hill, Seattle
+census profile: "https://data.census.gov/profile/Tukwila_city,_Washington?g=160XX00US5372625"
 city of:
   - King County, Washington
   - Washington
