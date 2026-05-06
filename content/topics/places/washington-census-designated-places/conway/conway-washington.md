@@ -1,12 +1,13 @@
 ---
 title: "Conway, Washington"
-borders:
+adjacent to:
   - Interstate 5
   - Skagit River
-census-designated place of:
+census-designated place in:
   - Skagit County, Washington
   - Washington
-  - Interstate 5
+census-designated place of: Interstate 5
+census profile: "https://data.census.gov/profile/Conway_CDP,_Washington?g=160XX00US5314520"
 disambiguation of: Conway
 openstreetmap: "https://www.openstreetmap.org/node/412161417"
 vicinity to: La Conner, Washington
