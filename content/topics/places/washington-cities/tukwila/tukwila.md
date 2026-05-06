@@ -1,17 +1,17 @@
 ---
 title: "Tukwila, Washington"
-borders:
-  - Boulevard Park, Washington
-  - Bryn Mawr-Skyway, Washington
-  - Burien, Washington
+adjacent to:
+  - Seattle
   - Georgetown, Seattle
-  - Kent, Washington
+  - South Beacon Hill, Seattle
   - Rainier Beach, Seattle
   - Rainier View, Seattle
+  - Bryn Mawr-Skyway, Washington
   - Renton, Washington
+  - Kent, Washington
   - SeaTac, Washington
-  - Seattle
-  - South Beacon Hill, Seattle
+  - Burien, Washington
+  - Boulevard Park, Washington
 census profile: "https://data.census.gov/profile/Tukwila_city,_Washington?g=160XX00US5372625"
 city of:
   - King County, Washington
