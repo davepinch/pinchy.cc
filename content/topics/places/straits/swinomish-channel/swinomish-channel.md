@@ -1,10 +1,10 @@
 ---
 title: "Swinomish Channel"
+connects to:
+  - Padilla Bay
+  - Skagit Bay
 openstreetmap: "https://www.openstreetmap.org/relation/13317052"
 strait in:
-  - Puget Sound
-  - Skagit Bay
-  - Padilla Bay
   - Skagit County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q7658762"
