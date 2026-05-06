@@ -4,7 +4,8 @@ borders:
   - Bellevue, Washington
   - Cougar Mountain Regional Wildland Park
   - Lake Washington
-  - Renton, Washington
+  - Renton, 
+census profile: "https://data.census.gov/profile/Newcastle_city,_Washington?g=160XX00US5348645"
 city of:
   - King County, Washington
   - Washington
