@@ -4,6 +4,10 @@ adjacent to:
   - Wollochet, Washington
   - Gig Harbor Peninsula
   - Kitsap Peninsula
+connects to:
+  - Gig Harbor
+  - Nisqually Reach
+  - Hale Passage
 openstreetmap: "https://www.openstreetmap.org/relation/13312640"
 strait in:
   - Puget Sound
