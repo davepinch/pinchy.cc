@@ -6,6 +6,7 @@ borders:
   - Lakeland North, Washington
   - SeaTac, Washington
   - incomplete list
+census profile: "https://data.census.gov/profile/Kent_city,_Washington?g=160XX00US5335415"
 city of:
   - King County, Washington
   - Washington
