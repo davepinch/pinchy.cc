@@ -1,6 +1,6 @@
 ---
 title: "Lochsloy, Washington"
-adjacent to:vLake Cassidy, Washington
+adjacent to: Lake Cassidy, Washington
 census-designated place in:
   - Snohomish County, Washington
   - Washington
