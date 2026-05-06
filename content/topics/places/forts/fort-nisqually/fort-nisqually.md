@@ -1,9 +1,9 @@
 ---
 title: "Fort Nisqually"
-fort of:
-  - Hudson's Bay Company
+fort in:
   - Pierce County, Washington
   - Washington
+fort of: Hudson's Bay Company
 openstreetmap: "https://www.openstreetmap.org/way/89761724"
 relocated in:
   - Point Defiance Park
