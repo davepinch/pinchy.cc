@@ -1,5 +1,6 @@
 ---
 title: "Mercer Island, Washington"
+adjacent to: Lake Washington
 census profile: "https://data.census.gov/profile/Mercer_Island_city,_Washington?g=160XX00US5345005"
 city of:
   - Mercer Island
