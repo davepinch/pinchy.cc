@@ -1,0 +1,18 @@
+---
+title: "Ravensdale, Washington"
+adjacent to: Kent, Washington
+census-designated place in:
+  - King County, Washington
+  - Washington
+census profile: "https://data.census.gov/profile/Ravensdale_CDP,_Washington?g=160XX00US5357395"
+openstreetmap: "https://www.openstreetmap.org/relation/13519320"
+vicinity to:
+  - Maple Valley, Washington
+  - Hobart, Washington
+  - Black Diamond, Washington
+wikidata: "https://www.wikidata.org/wiki/Q1503082"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ravensdale,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/Ravensdale,_Washington"
+tags:
+  - census-designated place
+---
