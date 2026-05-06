@@ -11,6 +11,7 @@ creek in:
   - King County, Washington
   - Kenmore, Washington
 tributary of: Sammamish River
+wikidata: "https://www.wikidata.org/wiki/Q7653323"
 tags:
   - creek
 ---
