@@ -10,6 +10,7 @@ city of:
   - Lake Washington
 note: This is the city that resides on the island of the same name.
 openstreetmap: "https://www.openstreetmap.org/relation/237360"
+suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q954095"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mercer_Island,_Washington"
 wikivoyage: "https://en.wikivoyage.org/wiki/Mercer_Island"
