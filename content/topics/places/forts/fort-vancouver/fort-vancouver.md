@@ -1,9 +1,10 @@
 ---
 title: "Fort Vancouver"
-fort of:
-  - Hudson's Bay Company
+fort in:
   - Vancouver, Washington
+  - Clark County, Washington
   - Washington
+fort of: Hudson's Bay Company
 openstreetmap: "https://www.openstreetmap.org/relation/16407815"
 wikidata: "https://www.wikidata.org/wiki/Q1438804"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Fort_Vancouver_National_Historic_Site"
