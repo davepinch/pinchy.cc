@@ -1,7 +1,7 @@
 ---
 title: "Swinomish Channel"
 openstreetmap: "https://www.openstreetmap.org/relation/13317052"
-strait of:
+strait in:
   - Puget Sound
   - Skagit Bay
   - Padilla Bay
