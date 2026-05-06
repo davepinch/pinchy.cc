@@ -1,10 +1,10 @@
 ---
 title: "Newcastle, Washington"
-borders:
+adjacent to:
   - Bellevue, Washington
   - Cougar Mountain Regional Wildland Park
+  - Renton, Washington
   - Lake Washington
-  - Renton, 
 census profile: "https://data.census.gov/profile/Newcastle_city,_Washington?g=160XX00US5348645"
 city of:
   - King County, Washington
