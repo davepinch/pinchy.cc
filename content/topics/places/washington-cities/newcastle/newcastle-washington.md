@@ -9,6 +9,7 @@ city of:
   - King County, Washington
   - Washington
   - Lake Washington
+disambiguation of: Newcastle
 openstreetmap: "https://www.openstreetmap.org/relation/237361"
 wikidata: "https://www.wikidata.org/entity/Q1502408"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Newcastle,_Washington"
