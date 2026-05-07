@@ -1,5 +1,6 @@
 ---
 title: "Bellingham, Washington"
+census profile: "https://data.census.gov/profile/Bellingham_city,_Washington?g=160XX00US5305280"
 city of:
   - Whatcom County, Washington
   - Washington
@@ -7,7 +8,6 @@ city of:
   - Mount Baker Highway
   - Pacific Northwest
   - Washington State Route 542
-county: Whatcom County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237440"
 vicinity to:
   - Chuckanut Mountains
