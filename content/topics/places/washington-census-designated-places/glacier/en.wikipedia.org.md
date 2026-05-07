@@ -1,9 +1,9 @@
 ---
 title: "Glacier, Washington (Wikipedia)"
 excerpt: >-
-  **Glacier** is a census-designated place in the North Fork Nooksack River Valley, at an elevation of 906 ft., just 10 miles northwest of the Mount Baker Summit towering nearly 10,000 ft above it, in [Whatcom County](/en.wikipedia.org/wiki/Whatcom_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 300 at the 2020 census.
+  **Glacier** is a census-designated place in the North Fork Nooksack River Valley, at an elevation of 906 ft., just 10 miles northwest of the Mount Baker Summit towering nearly 10,000 ft above it, in Whatcom County, Washington, United States. The population was 300 at the 2020 census.
 license: CC BY-SA 4.0
-retrieved: 2024-07-02
+retrieved: 2026-05-06
 type: website
 url: /en.wikipedia.org/wiki/Glacier,_Washington/
 website: "https://en.wikipedia.org/wiki/Glacier,_Washington"
