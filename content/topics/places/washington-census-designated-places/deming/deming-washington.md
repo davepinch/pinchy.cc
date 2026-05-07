@@ -7,6 +7,7 @@ census-designated place in:
 census-designated place of:
   - Washington State Route 9
   - Washington State Route 542
+disambiguation of: Deming
 openstreetmap: "https://www.openstreetmap.org/relation/238257"
 southbound on state route 9: Van Zandt, Washington
 vicinity to:
