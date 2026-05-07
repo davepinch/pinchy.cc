@@ -1,5 +1,8 @@
 ---
 title: "Kendall, Washington"
+adjacent to:
+  - Peaceful Valley, Washington
+  - Maple Falls, Washington
 census-designated place in:
   - Whatcom County, Washington
   - Washington
