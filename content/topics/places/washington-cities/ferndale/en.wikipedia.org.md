@@ -1,10 +1,10 @@
 ---
 title: "Ferndale, Washington (Wikipedia)"
 excerpt: >-
-  **Ferndale** is a city in [Whatcom County](/en.wikipedia.org/wiki/Whatcom_County,_Washington), [Washington](/en.wikipedia.org/wiki/Washington_(state)), [United States](/en.wikipedia.org/wiki/United_States). The population was 11,415 at the 2010 census. It is the third largest city in Whatcom County and located near the Lummi Nation.
+  **Ferndale** is a city in Whatcom County, Washington, United States. The population was 15,048 at the 2020 census. and according to 2023 census estimates, the city is estimated to have a population of 15,992. Ferndale is the third largest city in Whatcom County and is situated near the Lummi Nation within the Bellingham metropolitan area.
 license: CC BY-SA 4.0
 related: A cow near Ferndale
-retrieved: 2023-11-16
+retrieved: 2026-05-06
 type: website
 url: /en.wikipedia.org/wiki/Ferndale,_Washington/
 website: "https://en.wikipedia.org/wiki/Ferndale,_Washington"
