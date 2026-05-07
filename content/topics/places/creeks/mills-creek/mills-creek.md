@@ -8,7 +8,7 @@ openstreetmap: "https://www.openstreetmap.org/way/374746728"
 tributary of: Samish River
 tags:
   - creek
-  - no Wikidata category
+  - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article
 ---
