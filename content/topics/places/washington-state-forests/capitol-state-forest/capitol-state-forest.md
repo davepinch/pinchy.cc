@@ -7,6 +7,7 @@ state forest in:
   - Grays Harbor County, Washington
   - Olympic Peninsula
   - Washington
+state forest of: Washington Department of Natural Resources
 vicinity to:
   - Eld Inlet
   - Olympia, Washington
