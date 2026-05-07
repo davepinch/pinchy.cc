@@ -1,5 +1,6 @@
 ---
 title: "Sumas, Washington"
+census profile: "https://data.census.gov/profile/Sumas_city,_Washington?g=160XX00US5368330"
 city of:
   - Whatcom County, Washington
   - Washington
