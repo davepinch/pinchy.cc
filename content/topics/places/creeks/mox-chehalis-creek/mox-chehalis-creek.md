@@ -1,6 +1,7 @@
 ---
 title: "Mox Chehalis Creek"
 creek in:
+  - Capitol State Forest
   - Thurston County, Washington
   - Grays Harbor County, Washington
   - Washington
