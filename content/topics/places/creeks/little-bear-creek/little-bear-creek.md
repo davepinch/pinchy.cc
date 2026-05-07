@@ -31,4 +31,5 @@ openstreetmap:
 tributary of: Sammamish River
 tags:
   - creek
+  - no Wikidata record
 ---
