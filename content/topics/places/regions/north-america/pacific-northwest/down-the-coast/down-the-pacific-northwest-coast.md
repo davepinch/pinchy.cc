@@ -77,7 +77,7 @@ sequence:
   - Browns Bay
   - Edmonds, Washington
   - Woodway, Washington
-  - Point Wells, Washington
+  - Point Wells
   - King County, Washington
   - Shoreline, Washington
   - Richmond Beach Saltwater Park
