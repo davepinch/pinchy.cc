@@ -1,5 +1,6 @@
 ---
 title: "Nooksack, Washington"
+adjacent to: Everson, Washington
 city of:
   - Whatcom County, Washington
   - Washington
