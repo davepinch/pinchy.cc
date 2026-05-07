@@ -2,6 +2,10 @@
 title: "Scratchpad"
 draft: true
 ---
+
+5/7
+https://psychonautwiki.org/wiki/Main_Page
+
 4/27 next morning
 In the footer, look for a footer property.
 Then use a 'footer of' to customize for specific items.
