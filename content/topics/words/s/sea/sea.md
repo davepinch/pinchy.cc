@@ -2,7 +2,7 @@
 title: "sea"
 plural: seas
 tag requires property:
-  - sea of
+  - sea in
   - OpenStreetMap
   - Wikidata
   - Wikimedia
