@@ -1,5 +1,6 @@
 ---
 title: "Atlantis"
+island in: Atlantic Ocean
 island of:
   - fiction
   - Plato
