@@ -1,5 +1,8 @@
 ---
 title: "Bellingham, Washington"
+adjacent to:
+  - Marietta-Alderwood, Washington
+  - Geneva, Washington
 census profile: "https://data.census.gov/profile/Bellingham_city,_Washington?g=160XX00US5305280"
 city of:
   - Whatcom County, Washington
@@ -11,7 +14,10 @@ city of:
 openstreetmap: "https://www.openstreetmap.org/relation/237440"
 vicinity to:
   - Chuckanut Mountains
+  - Custer, Washington
   - Deming, Washington
+  - Ferndale, Washington
+  - Sudden Valley, Washington
 wikidata: "https://www.wikidata.org/wiki/Q430267"
 wikimedia: "https://commons.wikimedia.org/wiki/Bellingham,_Washington"
 tags:
