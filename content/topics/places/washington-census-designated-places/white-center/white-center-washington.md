@@ -5,7 +5,7 @@ adjacent to:
   - West Seattle
   - Boulevard Park, Washington
   - Burien, Washington
-census-designated place of:
+census-designated place in:
   - King County, Washington
   - Washington
 census profile: "https://data.census.gov/profile/White_Center_CDP,_Washington?g=160XX00US5378225"
