@@ -1,9 +1,13 @@
 ---
 title: "Vashon, Washington"
 across the sound:
+  - Seattle
   - Burien, Washington
   - Normandy Park, Washington
-  - incomplete list
+  - Des Moines, Washington
+  - Federal Way, Washington
+  - Dash Point, Washington
+  - Browns Point, Washington
 census-designated place in:
   - King County, Washington
   - Washington
