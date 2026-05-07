@@ -7,6 +7,10 @@ city of:
   - Washington
   - Washington State Route 9
 openstreetmap: "https://www.openstreetmap.org/relation/238061"
+vicinity to:
+  - Everson, Washington
+  - Nooksack, Washington
+  - Peaceful Valley, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1510124"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Sumas,_Washington"
 tags:
