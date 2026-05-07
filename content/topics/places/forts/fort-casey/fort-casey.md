@@ -1,6 +1,6 @@
 ---
 title: "Fort Casey"
-fort of:
+fort in:
   - Fort Casey State Park
   - Whidbey Island
   - Island County, Washington
