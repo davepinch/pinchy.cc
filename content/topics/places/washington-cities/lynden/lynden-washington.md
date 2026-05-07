@@ -1,5 +1,6 @@
 ---
 title: "Lynden, Washington"
+census profile: "https://data.census.gov/profile/Lynden_city,_Washington?g=160XX00US5340805"
 city of:
   - Whatcom County, Washington
   - Washington
