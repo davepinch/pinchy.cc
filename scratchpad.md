@@ -4,6 +4,10 @@ draft: true
 ---
 
 5/7
+Look up "Mox" (for Mox Chealis Creek)
+https://en.wikipedia.org/wiki/List_of_Chinook_Jargon_place_names
+
+5/7
 https://www.reddit.com/r/OpenAI/comments/1t5tn1n/sam_altman_texts_mira_murati_november_19_2023/
 
 5/7
