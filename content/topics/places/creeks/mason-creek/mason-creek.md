@@ -6,6 +6,7 @@ creek in:
   - King County, Washington
   - Washington
   - Cascade Range
+openstreetmap: "https://www.openstreetmap.org/relation/16735577"
 tributary of: South Fork Snoqualmie River
 vicinity of:
   - Tinkham Road
