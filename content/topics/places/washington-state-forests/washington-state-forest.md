@@ -4,6 +4,7 @@ subclass of: state forest
 tag requires property:
   - title
   - openstreetmap
+  - state forest in
   - state forest of
   - wikidata
   - wikimedia
