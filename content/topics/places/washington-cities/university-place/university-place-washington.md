@@ -14,6 +14,7 @@ city of:
   - Pierce County, Washington
   - Washington
   - Puget Sound
+disambiguation of: University Place
 openstreetmap: "https://www.openstreetmap.org/relation/237268"
 similarly named: College Place, Washington
 suburb of: Tacoma, Washington
