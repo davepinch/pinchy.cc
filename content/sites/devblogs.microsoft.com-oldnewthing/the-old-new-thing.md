@@ -4,7 +4,7 @@ blog of: Raymond Chen
 excerpt: "Practical development throughout the evolution of Windows."
 tag requires property:
   - title
-  - author
+  - blog post by
   - the old new thing of
   - type
   - url
