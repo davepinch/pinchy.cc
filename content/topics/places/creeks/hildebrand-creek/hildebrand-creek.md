@@ -6,8 +6,9 @@ creek in:
   - Mount Baker–Snoqualmie National Forest
   - Washington
   - Cascade Range
+openstreetmap: "https://www.openstreetmap.org/way/183507566"
 tributary of: Green Creek
-vicinity of: Mount Baker
+vicinity to: Mount Baker
 tags:
   - creek
   - no Wikidata record
