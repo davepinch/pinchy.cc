@@ -28,7 +28,7 @@ clockwise around the red sea:
   - Yemen
 near: Mecca
 openstreetmap: "https://www.openstreetmap.org/relation/9323456"
-sea of:
+sea in:
   - Indian Ocean
   - Middle East
 wikidata: "https://www.wikidata.org/wiki/Q23406"

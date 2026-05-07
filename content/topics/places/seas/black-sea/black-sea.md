@@ -9,7 +9,7 @@ borders:
   - Ukraine
 connected to: Sea of Azov
 openstreetmap: "https://www.openstreetmap.org/relation/7160849"
-sea of:
+sea in:
   - Europe
   - Asia
 wikidata: "https://www.wikidata.org/wiki/Q166"

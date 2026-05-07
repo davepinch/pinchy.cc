@@ -10,7 +10,7 @@ borders:
   - Russia
   - Turkmenistan
 openstreetmap: "https://www.openstreetmap.org/relation/3987743"
-sea of:
+sea in:
   - Europe
   - Asia
   - Middle East

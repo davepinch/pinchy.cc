@@ -1,7 +1,7 @@
 ---
 title: "Wandel Sea"
 openstreetmap: "https://www.openstreetmap.org/node/5837815586"
-sea of:
+sea in:
   - Arctic Ocean
   - Greenland
 wikidata: "https://www.wikidata.org/wiki/Q259929"

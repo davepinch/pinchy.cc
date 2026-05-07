@@ -10,7 +10,7 @@ borders:
   - Yemen
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/9328393"
-sea of:
+sea in:
   - Indian Ocean
   - Middle East
 wikidata: "https://www.wikidata.org/wiki/Q58705"

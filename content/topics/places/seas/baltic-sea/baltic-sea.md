@@ -12,7 +12,7 @@ borders:
   - Russia
   - Sweden
 openstreetmap: "https://www.openstreetmap.org/node/305640277"
-sea of: Atlantic Ocean
+sea in: Atlantic Ocean
 type: sea
 wikidata: "https://www.wikidata.org/wiki/Q545"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Baltic_Sea"

@@ -5,7 +5,7 @@ borders:
   - Gulf of Mexico
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/node/305640123"
-sea of:
+sea in:
   - Caribbean
   - Atlantic Ocean
 type: sea

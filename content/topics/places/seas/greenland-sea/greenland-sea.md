@@ -1,6 +1,6 @@
 ---
 title: "Greenland Sea"
-sea of:
+sea in:
   - Arctic Ocean
   - Greenland
   - Norway

@@ -1,6 +1,6 @@
 ---
 title: "Salish Sea"
-sea of:
+sea in:
   - Georgia Depression
   - Pacific Northwest
   - Pacific Ocean

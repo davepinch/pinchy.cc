@@ -11,7 +11,7 @@ countries:
   - Montenegro
   - Slovenia
 openstreetmap: "https://www.openstreetmap.org/relation/9350128"
-sea of: Mediterranean Sea
+sea in: Mediterranean Sea
 wikidata: "https://www.wikidata.org/wiki/Q13924"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Adriatic_Sea"
 tags:

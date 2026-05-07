@@ -1,7 +1,7 @@
 ---
 title: "Aegean Sea"
 openstreetmap: "https://www.openstreetmap.org/relation/4594226"
-sea of: Mediterranean Sea
+sea in: Mediterranean Sea
 wikidata: "https://www.wikidata.org/wiki/Q34575"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Aegean_Sea"
 wikiquote: "https://en.wikiquote.org/wiki/Aegean_Sea"
