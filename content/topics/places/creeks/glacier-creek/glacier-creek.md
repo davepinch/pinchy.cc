@@ -12,4 +12,5 @@ tributary of: North Fork Nooksack River
 vicinity of: Glacier, Washington
 tags:
   - creek
+  - no Wikidata record
 ---
