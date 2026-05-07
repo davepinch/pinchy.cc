@@ -13,9 +13,10 @@ rockhounding site of:
   - hematite
   - quartz
 tributary of: South Fork Snoqualmie River
-vicinity of:
+vicinity to:
   - Snoqualmie Pass
   - Interstate 90
+wikidata: "https://www.wikidata.org/wiki/Q49893113"
 tags:
   - creek
 ---
