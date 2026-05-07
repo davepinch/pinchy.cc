@@ -6,6 +6,7 @@ slough in:
   - Washington
 slough of: Stillaguamish River
 vicinity of:
+  - BNSF Bellingham Subdivision
   - Silvana, Washington
   - Interstate 5
   - Arlington, Washington

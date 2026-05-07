@@ -24,7 +24,7 @@ sequence:
   - Snohomish County, Washington
   - Stanwood, Washington
   - Stillaguamish River
-# - Cook Slough
+  - Cook Slough
 # - Portage Creek
   - Marysville, Washington
 # - Quilceda Creek
