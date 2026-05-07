@@ -12,6 +12,10 @@ near:
   - Racehorse Creek
 openstreetmap: "https://www.openstreetmap.org/relation/238257"
 southbound on state route 9: Van Zandt, Washington
+vicinity to:
+  - Acme, Washington
+  - Everson, Washington
+  - Maple Falls, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1508405"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Deming,_Washington"
 tags:
