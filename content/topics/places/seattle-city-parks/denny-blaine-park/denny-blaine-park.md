@@ -1,11 +1,11 @@
 ---
 title: "Denny Blaine Park"
 beach of: Lake Washington
-city park of:
+city park in:
   - Denny-Blaine, Seattle
   - Seattle
   - King County, Washington
-  - Lake Washington
+city park of: Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/537268"
 vantage point of:
   - Bellevue, Washington

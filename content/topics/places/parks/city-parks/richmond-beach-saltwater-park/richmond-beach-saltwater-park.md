@@ -1,9 +1,9 @@
 ---
 title: "Richmond Beach Saltwater Park"
-city park of:
+city park in:
   - Shoreline, Washington
   - King County, Washington
-  - Puget Sound
+city park of: Puget Sound
 note: There are two entries for this park in OpenStreetMap; it is not clear which one is the best to use.
 openstreetmap:
   - "https://www.openstreetmap.org/relation/156811"

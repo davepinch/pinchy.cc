@@ -1,10 +1,11 @@
 ---
 title: "Gas Works Park"
-city park of:
+city park in:
   - Northlake, Seattle
   - Wallingford, Seattle
   - Seattle
   - King County, Washington
+city park of:
   - Lake Union
 openstreetmap: "https://www.openstreetmap.org/relation/1047789"
 wikidata: "https://www.wikidata.org/wiki/Q5526323"

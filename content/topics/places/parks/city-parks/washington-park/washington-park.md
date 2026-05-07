@@ -1,6 +1,6 @@
 ---
 title: "Washington Park"
-city park of:
+city park in:
   - Anacortes, Washington
   - Fidalgo Island
   - Skagit County, Washington

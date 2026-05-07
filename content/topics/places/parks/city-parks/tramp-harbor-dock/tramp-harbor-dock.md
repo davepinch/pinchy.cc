@@ -1,9 +1,10 @@
 ---
 title: "Tramp Harbor Dock"
-city park of:
+city park in:
   - Vashon, Washington
   - King County, Washington
   - Vashon Island
+city park of:
   - Colvos Passage
   - Puget Sound
 official website: "https://vashonparks.org/tramp-harbor-dock-1"

@@ -1,8 +1,9 @@
 ---
 title: "River Park"
-city park of:
+city park in:
   - Sultan, Washington
   - Snohomish County, Washington
+city park of:
   - Sultan River
   - Skykomish River
   - BNSF Scenic Subdivision

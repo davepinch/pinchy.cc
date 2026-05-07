@@ -1,6 +1,6 @@
 ---
 title: "Point Defiance Park"
-city park of:
+city park in:
   - Tacoma, Washington
   - Pierce County, Washington
 namesake of: Point Defiance

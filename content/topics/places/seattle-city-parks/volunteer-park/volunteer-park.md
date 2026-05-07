@@ -1,6 +1,6 @@
 ---
 title: "Volunteer Park"
-city park of:
+city park in:
   - Capitol Hill, Seattle
   - Seattle
   - King County, Washington

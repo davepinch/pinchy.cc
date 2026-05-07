@@ -1,9 +1,10 @@
 ---
 title: "Leschi Park"
-city park of:
+city park in:
   - Leschi, Seattle
   - Seattle
   - King County, Washington
+city park of:
   - Lake Washington
 namesake of: Chief Leschi
 official website: "https://www.seattle.gov/parks/allparks/leschi-park"

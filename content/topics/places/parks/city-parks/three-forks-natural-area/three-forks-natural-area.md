@@ -1,6 +1,6 @@
 ---
 title: "Three Forks Natural Area"
-city park of:
+city park in:
   - Snoqualmie, Washington
   - King County, Washington
 official website: "https://www.snoqualmiewa.gov/Facilities/Facility/Details/Three-Forks-Natural-Area-20"

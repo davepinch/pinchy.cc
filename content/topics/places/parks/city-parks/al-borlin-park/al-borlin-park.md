@@ -1,9 +1,9 @@
 ---
 title: "Al Borlin Park"
-city park of:
+city park in:
   - Monroe, Washington
   - Snohomish County, Washington
-  - Skykomish River
+city park of: Skykomish River
 official website: "https://www.monroewa.gov/Facilities/Facility/Details/Al-Borlin-Park-2"
 openstreetmap: "https://www.openstreetmap.org/way/363196921"
 wikidata: "https://www.wikidata.org/wiki/Q49472006"

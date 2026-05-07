@@ -1,10 +1,10 @@
 ---
 title: "Interlaken Park"
-borders:
+adjacent to:
   - Montlake, Seattle
   - Stevens, Seattle
   - Capitol Hill, Seattle
-city park of:
+city park in:
   - Capitol Hill, Seattle
   - Seattle
   - King County, Washington

@@ -1,7 +1,7 @@
 ---
 title: "Como Park Zoo and Conservatory"
 openstreetmap: "https://www.openstreetmap.org/relation/2094158"
-city park of:
+city park in:
   - Saint Paul, Minnesota
   - Ramsey County, Minnesota
 website: "https://comozooconservatory.org/"

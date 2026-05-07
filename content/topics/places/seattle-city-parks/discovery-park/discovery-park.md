@@ -1,8 +1,9 @@
 ---
 title: "Discovery Park"
-city park of:
+city park in:
   - Magnolia, Seattle
   - Seattle
+city park of:
   - Shilshole Bay
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/4874562"

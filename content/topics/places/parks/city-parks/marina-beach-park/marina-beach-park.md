@@ -1,9 +1,9 @@
 ---
 title: "Marina Beach Park"
-city park of:
+city park in:
   - Edmonds, Washington
   - Snohomish County, Washington
-  - Puget Sound
+city park of: Puget Sound
 openstreetmap: "https://www.openstreetmap.org/way/242988721"
 wikidata: "https://www.wikidata.org/wiki/Q123614332"
 tags:

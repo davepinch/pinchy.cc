@@ -1,9 +1,9 @@
 ---
 title: "Ebey Waterfront Park"
-city park of:
-  - Ebey Slough
+city park in:
   - Marysville, Washington
   - Snohomish County, Washington
+city park of: Ebey Slough
 LOOK AROUND:
   - BNSF Bellingham Subdivision
   - North Ebey Island

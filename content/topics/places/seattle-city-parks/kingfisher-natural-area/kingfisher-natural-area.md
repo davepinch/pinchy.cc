@@ -1,6 +1,6 @@
 ---
 title: "Kingfisher Natural Area"
-city park of:
+city park in:
   - Victory Heights, Seattle
   - Seattle
   - King County, Washington

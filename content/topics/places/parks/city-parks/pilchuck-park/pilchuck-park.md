@@ -1,9 +1,9 @@
 ---
 title: "Pilchuck Park"
-city park of:
+city park in:
   - Snohomish, Washington
   - Snohomish County, Washington
-  - Pilchuck River
+city park of: Pilchuck River
 not to be confused with: Mount Pilchuck State Park
 note: There is no OpenStreetMap element for the park. Instead the OpenStreetMap link below points to the parking area of the park.
 official website: "https://www.snohomishwa.gov/Facilities/Facility/Details/Pilchuck-Park-6"

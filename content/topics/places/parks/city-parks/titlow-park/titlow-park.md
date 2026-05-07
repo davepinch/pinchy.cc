@@ -1,9 +1,10 @@
 ---
 title: "Titlow Park"
 address: "8425 6th Avenue, Tacoma, WA 98465"
-city park of:
+city park in:
   - Tacoma, Washington
   - Pierce County, Washington
+city park of:
   - Tacoma Narrows
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/way/24635030"

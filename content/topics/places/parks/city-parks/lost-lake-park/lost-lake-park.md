@@ -1,10 +1,10 @@
 ---
 title: "Lost Lake Park"
-city park of:
+city park in:
   - Vashon, Washington
   - King County, Washington
   - Vashon Island
-  - Puget Sound
+city park of: Puget Sound
 official website: "https://vashonparks.org/lost-lake"
 openstreetmap: "https://www.openstreetmap.org/way/26275526"
 tags:

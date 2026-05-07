@@ -1,7 +1,7 @@
 ---
 title: "Jefferson Park"
-borders: Beacon Food Forest
-city park of:
+adjacent to: Beacon Food Forest
+city park in:
   - Beacon Hill, Seattle
   - Seattle
   - King County, Washington

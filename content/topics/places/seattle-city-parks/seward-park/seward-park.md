@@ -1,10 +1,10 @@
 ---
 title: "Seward Park"
-city park of:
+city park in:
   - Seward Park, Seattle
   - Seattle
   - King County, Washington
-  - Lake Washington
+city park of: Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/971480"
 wikidata: "https://www.wikidata.org/wiki/Q14713892"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Seward%20Park"

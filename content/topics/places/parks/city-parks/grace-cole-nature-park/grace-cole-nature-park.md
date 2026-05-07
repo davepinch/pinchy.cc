@@ -1,6 +1,6 @@
 ---
 title: "Grace Cole Nature Park"
-city park of:
+city park in:
   - Lake Forest Park, Washington
   - King County, Washington
 official website: "https://www.cityoflfp.gov/302/Grace-Cole-Nature-Park"

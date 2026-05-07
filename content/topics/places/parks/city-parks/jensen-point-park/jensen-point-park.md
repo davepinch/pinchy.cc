@@ -1,9 +1,10 @@
 ---
 title: "Jensen Point Park"
-city park of:
+city park in:
   - Vashon, Washington
   - King County, Washington
   - Vashon Island
+city park of:
   - Jensen Point
 note: OpenStreetMap combines Burton Acres Park and Jensen Point.
 official website: "https://vashonparks.org/jensen-point"

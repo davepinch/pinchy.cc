@@ -1,6 +1,6 @@
 ---
 title: "Tollgate Farm Park"
-city park of:
+city park in:
   - North Bend, Washington
   - King County, Washington
 official website: "https://www.siviewpark.org/tollgate.phtml"

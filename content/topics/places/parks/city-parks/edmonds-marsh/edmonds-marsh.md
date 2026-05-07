@@ -1,6 +1,6 @@
 ---
 title: "Edmonds Marsh"
-city park of:
+city park in:
   - Edmonds, Washington
   - Snohomish County, Washington
 official website: "https://www.edmondswa.gov/cms/One.aspx?portalId=16495016&pageId=17296106"

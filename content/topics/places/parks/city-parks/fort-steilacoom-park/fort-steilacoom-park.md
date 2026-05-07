@@ -1,7 +1,7 @@
 ---
 title: "Fort Steilacoom Park"
 around Tacoma of: VISIT SOMEWHERE NEW
-city park of:
+city park in:
   - Lakewood, Washington
   - Pierce County, Washington
 official website: "https://cityoflakewood.us/fort-steilacoom-park/"

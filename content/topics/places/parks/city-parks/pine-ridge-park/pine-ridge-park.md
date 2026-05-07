@@ -1,6 +1,6 @@
 ---
 title: "Pine Ridge Park"
-city park of:
+city park in:
   - Edmonds, Washington
   - Snohomish County, Washington
 openstreetmap: "https://www.openstreetmap.org/way/1046595900"

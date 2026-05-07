@@ -1,6 +1,6 @@
 ---
 title: "Indian Mounds Regional Park"
-city park of:
+city park in:
   - Saint Paul, Minnesota
   - Ramsey County, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/16510236"

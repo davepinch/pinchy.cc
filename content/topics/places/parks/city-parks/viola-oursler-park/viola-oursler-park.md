@@ -1,6 +1,6 @@
 ---
 title: "Viola Oursler Park"
-city park of:
+city park in:
   - Everett, Washington
   - Snohomish County, Washington
 official website: "https://www.everettwa.gov/Facilities/Facility/Details/Viola-Oursler-Park-41"

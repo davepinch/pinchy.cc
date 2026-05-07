@@ -1,9 +1,10 @@
 ---
 title: "Wingehaven Park"
-city park of:
+city park in:
   - Vashon, Washington
   - King County, Washington
   - Vashon Island
+city park of:
   - East Passage
   - Puget Sound
 official website: "https://vashonparks.org/wingehaven"

@@ -1,10 +1,11 @@
 ---
 title: "Meydenbauer Bay Park"
+city park in:
+  - Bellevue, Washington
+  - King County, Washington
 city park of:
   - Meydenbauer Bay
   - Lake Washington
-  - Bellevue, Washington
-  - King County, Washington
 formerly known as: Meydenbauer Beach Park
 openstreetmap: "https://www.openstreetmap.org/way/57883263"
 wikidata: "https://www.wikidata.org/wiki/Q6826387"

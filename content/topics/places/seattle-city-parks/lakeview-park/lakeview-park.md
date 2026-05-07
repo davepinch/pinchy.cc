@@ -1,6 +1,6 @@
 ---
 title: "Lakeview Park"
-city park of:
+city park in:
   - Denny-Blaine, Seattle
   - Seattle
   - King County, Washington

@@ -4,7 +4,7 @@ borders:
   - Blue Ridge, Seattle
   - Shilshole Bay
   - Sunset Hill, Seattle
-city park of:
+city park in:
   - Ballard, Seattle
   - Seattle
   - King County, Washington

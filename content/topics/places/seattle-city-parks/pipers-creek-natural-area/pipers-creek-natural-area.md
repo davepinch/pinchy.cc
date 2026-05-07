@@ -1,7 +1,7 @@
 ---
 title: "Pipers Creek Natural Area"
 borders: Carkeek Park
-city park of:
+city park in:
   - Broadview, Seattle
   - Seattle
   - King County, Washington

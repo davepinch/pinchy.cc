@@ -1,6 +1,6 @@
 ---
 title: "Burton Acres Park"
-city park of:
+city park in:
   - Vashon, Washington
   - King County, Washington
   - Vashon Island

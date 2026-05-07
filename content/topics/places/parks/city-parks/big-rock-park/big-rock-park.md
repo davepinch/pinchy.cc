@@ -1,7 +1,7 @@
 ---
 title: "Big Rock Park"
 address: 26300 NE 140thSt, Duvall, WA 98019
-city park of:
+city park in:
   - Duvall, Washington
   - King County, Washington
 disambiguation of: Big Rock

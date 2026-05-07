@@ -1,7 +1,7 @@
 ---
 title: "Deer Creek Park"
 openstreetmap: "https://www.openstreetmap.org/way/300582661"
-city park of:
+city park in:
   - Woodway, Washington
   - Snohomish County, Washington
 tags:

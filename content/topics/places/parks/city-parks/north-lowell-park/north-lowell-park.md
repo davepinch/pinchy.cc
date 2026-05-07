@@ -1,8 +1,9 @@
 ---
 title: "North Lowell Park"
-city park of:
+city park in:
   - Stillwater, Minnesota
   - Washington County, Minnesota
+city park of:
   - Saint Croix River
   - Stillwater Bridge
 openstreetmap: "https://www.openstreetmap.org/way/351705356"

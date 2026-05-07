@@ -1,6 +1,6 @@
 ---
 title: "Farrell's Marsh Wildlife Area"
-city park of:
+city park in:
   - Steilacoom, Washington
   - Pierce County, Washington
 map: "https://townofsteilacoom.org/DocumentCenter/View/2203/Farrells-Marsh-Map---Final-V6"

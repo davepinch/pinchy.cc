@@ -1,6 +1,6 @@
 ---
 title: "Burton Adventure Recreation Center"
-city park of:
+city park in:
   - Vashon, Washington
   - King County, Washington
   - Vashon Island

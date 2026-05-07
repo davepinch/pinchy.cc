@@ -1,6 +1,6 @@
 ---
 title: "Heritage Park"
-city park of:
+city park in:
   - Lynnwood, Washington
   - Alderwood Manor, Washington
   - Snohomish County, Washington

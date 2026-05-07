@@ -1,9 +1,9 @@
 ---
 title: "Terrace Creek Park"
-city park of:
-  - Lyon Creek
+city park in:
   - Mountlake Terrace, Washington
   - Snohomish County, Washington
+city park of: Lyon Creek
 official website: "https://www.cityofmlt.com/Facilities/Facility/Details/Terrace-Creek-Park-Candy-Cane-Park-9"
 openstreetmap: "https://www.openstreetmap.org/relation/7987180"
 quick trip from Bothell of: VISIT SOMEWHERE NEW

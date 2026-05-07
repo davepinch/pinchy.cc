@@ -1,6 +1,6 @@
 ---
 title: "Pigeon Point Park"
-city park of:
+city park in:
   - West Seattle
   - Seattle
   - King County, Washington

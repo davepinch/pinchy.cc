@@ -1,6 +1,6 @@
 ---
 title: "Yost Park"
-city park of:
+city park in:
   - Edmonds, Washington
   - Snohomish County, Washington
 official website: "https://www.edmondswa.gov/government/departments/parks_and_recreation/programs__classes_and_camps/discovery_programs/explore_discovery_places/yost_park"

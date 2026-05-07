@@ -1,6 +1,6 @@
 ---
 title: "Green Lake Park"
-city park of:
+city park in:
   - Green Lake, Seattle
   - Seattle
   - King County, Washington

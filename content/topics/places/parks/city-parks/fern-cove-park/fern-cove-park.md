@@ -1,9 +1,10 @@
 ---
 title: "Fern Cove Park"
 borders: Shinglemill Creek Natural Area
-city park of:
+city park in:
   - Vashon, Washington
   - King County, Washington
+city park of:
   - Vashon Island
   - Colvos Passage
   - Fern Cove

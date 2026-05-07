@@ -1,6 +1,6 @@
 ---
 title: "Ravenna Park"
-city park of:
+city park in:
   - Ravenna, Seattle
   - Seattle
   - King County, Washington

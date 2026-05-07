@@ -1,6 +1,6 @@
 ---
 title: "East Norway Hill Park"
-city park of:
+city park in:
   - Bothell, Washington
   - King County, Washington
 official website: "https://www.bothellwa.gov/1038/East-Norway-Hill-Park"

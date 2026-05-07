@@ -1,7 +1,7 @@
 ---
 title: "Salmon Bay Park"
 around the canal of: VISIT SOMEWHERE NEW
-city park of:
+city park in:
   - Loyal Heights, Seattle
   - Ballard, Seattle
   - Seattle

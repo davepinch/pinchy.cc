@@ -1,6 +1,6 @@
 ---
 title: "Big Rock Park North"
-city park of:
+city park in:
   - Sammamish, Washington
   - King County, Washington
 disambiguation of: Big Rock

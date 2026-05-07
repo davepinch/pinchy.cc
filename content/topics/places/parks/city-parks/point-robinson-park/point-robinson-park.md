@@ -1,9 +1,10 @@
 ---
 title: "Point Robinson Park"
-city park of:
+city park in:
   - Vashon, Washington
-  - Point Robinson
   - Maury Island
+city park of:
+  - Point Robinson
   - East Passage
   - Puget Sound
 official website: "https://vashonparks.org/point-robinson"

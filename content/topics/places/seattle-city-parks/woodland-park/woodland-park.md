@@ -1,10 +1,10 @@
 ---
 title: "Woodland Park"
-borders:
+adjacent to:
   - Fremont, Seattle
   - Green Lake, Seattle
   - Wallingford, Seattle
-city park of:
+city park in:
   - Phinney Ridge, Seattle
   - Seattle
   - King County, Washington

@@ -1,6 +1,6 @@
 ---
 title: "Rotary Community Park"
-city park of:
+city park in:
   - Woodinville, Washington
   - King County, Washington
 official website: "https://www.ci.woodinville.wa.us/facilities/facility/details/rotarycommunitypark-5"

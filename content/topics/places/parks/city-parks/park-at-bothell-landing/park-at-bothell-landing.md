@@ -1,7 +1,9 @@
 ---
 title: "Park at Bothell Landing"
-city park of:
+city park in:
   - Bothell, Washington
+  - King County, Washington
+city park of:
   - Sammamish River
 official website: "https://www.bothellwa.gov/1007/Park-at-Bothell-Landing"
 openstreetmap: "https://www.openstreetmap.org/way/55565096"

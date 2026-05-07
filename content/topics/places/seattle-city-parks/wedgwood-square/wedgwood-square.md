@@ -1,6 +1,6 @@
 ---
 title: "Wedgwood Square"
-city park of:
+city park in:
   - Wedgwood, Seattle
   - Seattle
   - King County, Washington

@@ -1,10 +1,11 @@
 ---
 title: "Magnuson Park"
 also known as: Warren G. Magnuson Park
-city park of:
+city park in:
   - Sand Point, Seattle
   - Seattle
   - King County, Washington
+city park of:
   - Lake Washington
 LOOK AROUND: Lake Washington
 near: A Sound Garden
