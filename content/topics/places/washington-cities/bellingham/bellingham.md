@@ -8,10 +8,10 @@ city of:
   - Pacific Northwest
   - Washington State Route 542
 county: Whatcom County, Washington
-near:
+openstreetmap: "https://www.openstreetmap.org/relation/237440"
+vicinity to:
   - Chuckanut Mountains
   - Deming, Washington
-openstreetmap: "https://www.openstreetmap.org/relation/237440"
 wikidata: "https://www.wikidata.org/wiki/Q430267"
 wikimedia: "https://commons.wikimedia.org/wiki/Bellingham,_Washington"
 tags:
