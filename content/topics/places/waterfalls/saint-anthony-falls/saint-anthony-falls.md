@@ -3,7 +3,7 @@ title: "Saint Anthony Falls"
 openstreetmap: "https://www.openstreetmap.org/way/163772545"
 waterfall in:
   - Minneapolis, Minnesota
-  - Hennepin County, Washington
+  - Hennepin County, Minnesota
   - Minnesota
 waterfall of: Mississippi River
 wikidata: "https://www.wikidata.org/wiki/Q1752963"
