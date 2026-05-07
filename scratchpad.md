@@ -4,6 +4,9 @@ draft: true
 ---
 
 5/7
+https://www.reddit.com/r/OpenAI/comments/1t5tn1n/sam_altman_texts_mira_murati_november_19_2023/
+
+5/7
 https://psychonautwiki.org/wiki/Main_Page
 
 4/27 next morning
