@@ -1,10 +1,11 @@
 ---
 title: "Vantage, Washington"
 borders: Columbia River
-census-designated place of:
+census-designated place in:
   - Kittitas County, Washington
   - Washington
   - Columbia Plateau
+census-designated place of:
   - Interstate 90
 disambiguation of: vantage
 openstreetmap: "https://www.openstreetmap.org/relation/238278"
