@@ -9,5 +9,6 @@ wikidata: "https://www.wikidata.org/wiki/Q49389309"
 tags:
   - bay
   - lagoon
+  - no Wikimedia category
   - no Wikipedia article
 ---
