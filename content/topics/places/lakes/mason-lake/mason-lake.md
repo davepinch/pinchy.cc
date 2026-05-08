@@ -6,6 +6,7 @@ lake in:
   - King County, Washington
   - Washington
   - Cascade Range
+openstreetmap: "https://www.openstreetmap.org/relation/11611018"
 tributary of: Mason Creek
 vicinity to:
   - Bandera Mountain
