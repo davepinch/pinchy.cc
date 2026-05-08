@@ -1,14 +1,14 @@
 ---
 title: "Salmon Bay"
-bay of:
-  - Lake Washington Ship Canal
-  - King County, Washington
-  - Seattle
-borders:
+adjacent to:
   - Adams, Seattle
   - Ballard, Seattle
   - Ballard Locks
   - Interbay, Seattle
+bay in:
+  - Lake Washington Ship Canal
+  - King County, Washington
+  - Seattle
 cruise eastbound on the canal: Fremont Cut
 cruise westbound on the canal: Ballard Locks
 near: Ballard Avenue Historic District

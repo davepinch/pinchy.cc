@@ -1,6 +1,6 @@
 ---
 title: "Elliott Bay"
-bay of:
+bay in:
   - Puget Sound
   - Seattle
   - King County, Washington

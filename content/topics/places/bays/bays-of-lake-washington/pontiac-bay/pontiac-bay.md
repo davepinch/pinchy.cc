@@ -1,6 +1,6 @@
 ---
 title: "Pontiac Bay"
-bay of:
+bay in:
   - Lake Washington
   - Magnuson Park
   - Sand Point, Seattle

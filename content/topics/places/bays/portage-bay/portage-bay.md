@@ -1,13 +1,13 @@
 ---
 title: "Portage Bay"
-bay of:
-  - Lake Washington Ship Canal
-  - King County, Washington
-  - Washington
-borders:
+adjacent to:
   - Montlake, Seattle
   - Portage Bay, Seattle
   - University District, Seattle
+bay in:
+  - Lake Washington Ship Canal
+  - King County, Washington
+  - Washington
 cruise eastbound on the canal: Montlake Cut
 cruise westbound on the canal: Lake Union
 openstreetmap: "https://www.openstreetmap.org/relation/2793831"

@@ -1,10 +1,10 @@
 ---
 title: "Tarboo Bay"
-bay of:
+bay in:
   - Dabob Bay
   - Jefferson County, Washington
-  - Olympic Peninsula
   - Washington
+bay of: Olympic Peninsula
 openstreetmap: "https://www.openstreetmap.org/relation/1236760"
 wikidata: "https://www.wikidata.org/wiki/Q49393527"
 tags:

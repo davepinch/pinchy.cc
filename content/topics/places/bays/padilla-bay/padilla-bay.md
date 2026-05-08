@@ -1,6 +1,6 @@
 ---
 title: "Padilla Bay"
-bay of:
+bay in:
   - Salish Sea
   - Skagit County, Washington
   - Washington

@@ -1,7 +1,7 @@
 ---
 title: "Port Gardner"
 also known as: Port Gardner Bay
-bay of:
+bay in:
   - Possession Sound
   - Everett, Washington
   - Snohomish County, Washington

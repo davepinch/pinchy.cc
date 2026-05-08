@@ -1,6 +1,6 @@
 ---
 title: "Alice Bay"
-bay of:
+bay in:
   - Samish Bay
   - Skagit County, Washington
   - Washington

@@ -1,6 +1,6 @@
 ---
 title: "Baffin Bay"
-bay of:
+bay in:
   - Labrador Sea
   - Arctic Ocean
   - Greenland

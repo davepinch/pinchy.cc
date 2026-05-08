@@ -1,7 +1,7 @@
 ---
 title: "Cozy Cove"
 along 520 of: VISIT SOMEWHERE NEW
-bay of:
+bay in:
   - Lake Washington
   - Hunts Point, Washington
   - Yarrow Point, Washington

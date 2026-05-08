@@ -1,6 +1,6 @@
 ---
 title: "Peabody Bay"
-bay of:
+bay in:
   - Kain Basin
   - Greenland
 connected on the west to: Kain Basin

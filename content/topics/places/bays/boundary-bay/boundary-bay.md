@@ -1,6 +1,6 @@
 ---
 title: "Boundary Bay"
-bay of:
+bay in:
   - United States
   - Canada
   - Strait of Georgia

@@ -1,6 +1,6 @@
 ---
 title: "Chambers Bay"
-bay of:
+bay in:
   - Nisqually Reach
   - Chambers Creek
   - University Place, Washington

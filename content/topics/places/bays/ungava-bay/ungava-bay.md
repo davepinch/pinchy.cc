@@ -1,6 +1,6 @@
 ---
 title: "Ungava Bay"
-bay of:
+bay in:
   - Quebec
   - Arctic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/13671514"

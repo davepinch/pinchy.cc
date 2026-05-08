@@ -1,13 +1,11 @@
 ---
 title: "Hudson Bay"
-bay of:
-  - Nunavut
-  - Canada
-borders:
+bay in:
   - Nunavut
   - Quebec
   - Ontario
   - Manitoba
+  - Canada
 connects to: Hudson Strait
 openstreetmap: "https://www.openstreetmap.org/relation/9441240"
 wikidata: "https://www.wikidata.org/entity/Q3040"

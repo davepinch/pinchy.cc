@@ -1,11 +1,11 @@
 ---
 title: "Mac's Cove"
-bay of:
+bay in:
   - Deception Pass
   - Deception Pass State Park
-  - Whidbey Island
   - Island County, Washington
   - Washington
+bay of: Whidbey Island
 openstreetmap: "https://www.openstreetmap.org/relation/13317043"
 url: /macs-cove/
 tags:

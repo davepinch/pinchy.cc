@@ -1,6 +1,6 @@
 ---
 title: "Andrews Bay"
-bay of:
+bay in:
   - Lake Washington
   - Seward Park
   - Seward Park, Seattle

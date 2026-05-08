@@ -1,10 +1,10 @@
 ---
 title: "Dabob Bay"
-bay of:
+bay in:
   - Hood Canal
   - Jefferson County, Washington
-  - Olympic Peninsula
   - Washington
+bay of: Olympic Peninsula
 openstreetmap: "https://www.openstreetmap.org/relation/13316211"
 wikidata: "https://www.wikidata.org/wiki/Q49375868"
 tags:

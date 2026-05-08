@@ -1,6 +1,6 @@
 ---
 title: "Union Bay"
-bay of:
+bay in:
   - Lake Washington
   - Seattle
 borders:

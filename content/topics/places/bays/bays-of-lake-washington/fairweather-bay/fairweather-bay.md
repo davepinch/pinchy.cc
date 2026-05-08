@@ -1,7 +1,7 @@
 ---
 title: "Fairweather Bay"
 along 520 of: VISIT SOMEWHERE NEW
-bay of:
+bay in:
   - Lake Washington
   - Hunts Point, Washington
   - Medina, Washington

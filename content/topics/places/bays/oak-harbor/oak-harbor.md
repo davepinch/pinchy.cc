@@ -1,11 +1,11 @@
 ---
 title: "Oak Harbor"
-bay of:
-  - Whidbey Island
+bay in:
   - Saratoga Passage
   - Oak Harbor, Washington
   - Island County, Washington
   - Washington
+bay of: Whidbey Island
 not to be confused with: Oak Bay
 openstreetmap: "https://www.openstreetmap.org/relation/13317061"
 wikidata: "https://www.wikidata.org/wiki/Q49386879"

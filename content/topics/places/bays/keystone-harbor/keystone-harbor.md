@@ -1,13 +1,14 @@
 ---
 title: "Keystone Harbor"
-bay of:
-  - Whidbey Island
+bay in:
   - Admiralty Bay
   - Admiralty Inlet
-  - Fort Casey State Park
-  - Ebey's Landing National Historical Reserve
   - Island County, Washington
   - Washington
+bay of:
+  - Whidbey Island
+  - Fort Casey State Park
+  - Ebey's Landing National Historical Reserve
 note:
 - https://www.openstreetmap.org/way/1080966508 (harbor is part of the reserve)
 - https://www.openstreetmap.org/relation/12624480 (harbor is not part of the reserve)

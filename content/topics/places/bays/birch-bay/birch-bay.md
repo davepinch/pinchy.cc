@@ -1,6 +1,6 @@
 ---
 title: "Birch Bay"
-bay of:
+bay in:
   - Strait of Georgia
   - Salish Sea
   - Pacific Ocean

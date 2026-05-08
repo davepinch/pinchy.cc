@@ -1,6 +1,6 @@
 ---
 title: "Juanita Bay"
-bay of:
+bay in:
   - Lake Washington
   - Kirkland, Washington
   - King County, Washington

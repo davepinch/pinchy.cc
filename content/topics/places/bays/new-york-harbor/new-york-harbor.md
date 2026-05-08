@@ -1,6 +1,6 @@
 ---
 title: "New York Harbor"
-bay of:
+bay in:
   - Manhattan
   - Brooklyn
   - Staten Island

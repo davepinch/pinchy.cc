@@ -1,7 +1,7 @@
 ---
 title: "Yarrow Bay"
 along 520 of: VISIT SOMEWHERE NEW
-bay of:
+bay in:
   - Lake Washington
   - Yarrow Point, Washington
   - Kirkland, Washington

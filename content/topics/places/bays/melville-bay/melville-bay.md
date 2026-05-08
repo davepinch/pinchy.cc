@@ -1,6 +1,6 @@
 ---
 title: "Melville Bay"
-bay of:
+bay in:
   - Baffin Bay
   - Greenland
 greenlandic: "Qimusseriarsuaq"

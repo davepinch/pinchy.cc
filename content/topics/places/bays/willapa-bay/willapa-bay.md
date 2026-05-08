@@ -1,14 +1,11 @@
 ---
 title: "Willapa Bay"
-bay of:
+bay in:
   - Pacific Ocean
   - Pacific County, Washington
   - Washington
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/369033092"
-rivers:
-  - Willapa River
-  - incomplete list
 wikidata: "https://www.wikidata.org/wiki/Q2576605"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Willapa_Bay"
 tags:

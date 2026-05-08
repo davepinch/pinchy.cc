@@ -1,6 +1,6 @@
 ---
 title: "Grasser's Lagoon"
-bay of:
+bay in:
   - Penn Cove
   - Grasser's Lagoon Park
   - Whidbey Island

@@ -1,6 +1,6 @@
 ---
 title: "Chuckanut Bay"
-bay of:
+bay in:
   - Bellingham Bay
   - Salish Sea
   - Whatcom County, Washington

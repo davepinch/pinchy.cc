@@ -1,9 +1,9 @@
 ---
 title: "Fidalgo Bay"
-bay of:
-  - Fidalgo Island
+bay in:
   - Skagit County, Washington
   - Washington
+bay of: Fidalgo Island
 openstreetmap: "https://www.openstreetmap.org/relation/13317332"
 vicinity of: Anacortes, Washington
 wikidata: "https://www.wikidata.org/wiki/Q49377238"

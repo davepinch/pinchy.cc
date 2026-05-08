@@ -1,6 +1,6 @@
 ---
 title: "Plover Bay"
-bay of:
+bay in:
   - Providence Bay
   - Russia
   - Pacific Ocean

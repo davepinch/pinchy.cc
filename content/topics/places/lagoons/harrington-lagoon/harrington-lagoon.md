@@ -1,6 +1,6 @@
 ---
 title: "Harrington Lagoon"
-bay of:
+bay in:
   - Whidbey Island
   - Saratoga Passage
   - Island County, Washington

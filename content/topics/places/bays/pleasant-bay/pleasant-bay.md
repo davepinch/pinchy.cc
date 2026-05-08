@@ -1,6 +1,6 @@
 ---
 title: "Pleasant Bay"
-bay of:
+bay in:
   - Chuckanut Bay
   - Bellingham Bay
   - Salish Sea

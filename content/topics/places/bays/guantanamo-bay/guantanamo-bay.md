@@ -1,6 +1,6 @@
 ---
 title: "Guantánamo Bay"
-bay of: Cuba
+bay in: Cuba
 openstreetmap: "https://www.openstreetmap.org/relation/5297083"
 wikidata: "https://www.wikidata.org/wiki/Q208035"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Guantanamo_Bay"

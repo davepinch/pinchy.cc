@@ -1,6 +1,6 @@
 ---
 title: "DeDuck Harbor"
-bay of:
+bay in:
   - Race Lagoon
   - Whidbey Island
   - Saratoga Passage

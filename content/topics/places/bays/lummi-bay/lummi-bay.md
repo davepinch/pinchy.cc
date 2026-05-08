@@ -1,6 +1,6 @@
 ---
 title: "Lummi Bay"
-bay of:
+bay in:
   - Strait of Georgia
   - Salish Sea
   - Whatcom County, Washington

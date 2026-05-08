@@ -1,6 +1,6 @@
 ---
 title: "Browns Bay"
-bay of:
+bay in:
   - Puget Sound
   - Snohomish County, Washington
   - Washington

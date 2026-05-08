@@ -1,6 +1,6 @@
 ---
 title: "Drayton Harbor"
-bay of:
+bay in:
   - Blaine, Washington
   - Whatcom County, Washington
   - Washington

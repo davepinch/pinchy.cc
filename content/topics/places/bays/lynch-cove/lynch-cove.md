@@ -1,6 +1,6 @@
 ---
 title: "Lynch Cove"
-bay of:
+bay in:
   - Hood Canal
   - Mason County, Washington
   - Washington

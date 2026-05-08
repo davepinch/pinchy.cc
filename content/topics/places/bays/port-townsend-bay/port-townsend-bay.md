@@ -1,6 +1,6 @@
 ---
 title: "Port Townsend Bay"
-bay of:
+bay in:
   - Admiralty Inlet
   - Port Townsend, Washington
   - Jefferson County, Washington

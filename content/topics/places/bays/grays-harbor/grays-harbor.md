@@ -1,6 +1,6 @@
 ---
 title: "Grays Harbor"
-bay of:
+bay in:
   - Pacific Ocean
   - Grays Harbor County, Washington
   - Washington

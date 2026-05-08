@@ -1,6 +1,6 @@
 ---
 title: "Wolf Bay"
-bay of:
+bay in:
   - Lake Washington
   - Windermere, Seattle
   - King County, Washington

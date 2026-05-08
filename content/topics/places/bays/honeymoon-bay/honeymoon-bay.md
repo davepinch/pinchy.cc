@@ -1,10 +1,10 @@
 ---
 title: "Honeymoon Bay"
-bay of:
+bay in:
   - Holmes Harbor
-  - Whidbey Island
   - Island County, Washington
   - Washington
+bay of: Whidbey Island
 openstreetmap: "https://www.openstreetmap.org/relation/13317066"
 wikidata: "https://www.wikidata.org/wiki/Q49379764"
 tags:

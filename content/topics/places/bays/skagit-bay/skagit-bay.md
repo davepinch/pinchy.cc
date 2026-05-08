@@ -1,7 +1,7 @@
 ---
 title: "Skagit Bay"
 also considered a: strait
-bay of:
+bay in:
   - Puget Sound
   - Island County, Washington
   - Skagit County, Washington
