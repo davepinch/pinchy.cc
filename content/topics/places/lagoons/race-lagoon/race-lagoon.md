@@ -1,6 +1,6 @@
 ---
 title: "Race Lagoon"
-bay of:
+bay in:
   - Whidbey Island
   - Island County, Washington
   - Washington
