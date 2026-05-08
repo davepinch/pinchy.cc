@@ -1,6 +1,6 @@
 ---
 title: "McAleer Creek"
-creek of:
+creek in:
   - Mountlake Terrace, Washington
   - Shoreline, Washington
   - Lake Forest Park, Washington
