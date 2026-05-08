@@ -10,6 +10,7 @@ cape of:
   - Ebey's Landing National Historical Reserve
   - Island County, Washington
   - Washington
+google maps: "https://maps.app.goo.gl/8LTeD9iWQhxKYHkEA"
 openstreetmap: "https://www.openstreetmap.org/node/13449208781"
 vicinity of: Penn Cove
 wikidata: "https://www.wikidata.org/wiki/Q137765549"
