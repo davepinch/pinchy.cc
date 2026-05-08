@@ -1,6 +1,6 @@
 ---
 title: "Scoresby Sound"
-bay of:
+bay in:
   - Greenland Sea
   - Arctic Ocean
   - Greenland
