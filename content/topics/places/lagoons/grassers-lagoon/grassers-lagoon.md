@@ -12,5 +12,6 @@ tags:
   - lagoon
   - bay
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---
