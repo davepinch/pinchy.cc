@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Oso)"
+title: "Deer Creek (North Fork Stillaguamish River)"
 creek in:
   - Oso, Washington
   - Snohomish County, Washington

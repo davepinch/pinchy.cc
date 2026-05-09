@@ -4,7 +4,7 @@ creek in:
   - Skagit County, Washington
   - Snohomish County, Washington
   - Cascade Range
-near: Deer Creek (Oso)
+near: Deer Creek (North Fork Stillaguamish River)
 not to be confused with: Pilchuck River
 openstreetmap:
   - "note: OSM does not have a continuous element for the entire stream. The start of the stream is located in remote Skagit County near Lake Cavanaugh Road, and the confluence with Stillaguamish River is located near Interstate 5."
