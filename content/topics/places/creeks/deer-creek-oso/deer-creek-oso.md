@@ -18,6 +18,7 @@ rockhounding site (unconfirmed) of:
   - garnet
   - jasper
 tributary of: North Fork Stillaguamish River
+wikidata: "https://www.wikidata.org/wiki/Q49892642"
 tags:
   - creek
 ---
