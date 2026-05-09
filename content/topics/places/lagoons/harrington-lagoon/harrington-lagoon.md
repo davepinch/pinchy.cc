@@ -5,7 +5,7 @@ bay in:
   - Island County, Washington
   - Washington
 bay of: Whidbey Island
-openstreetmap: "https://www.openstreetmap.org/node/369026853"
+openstreetmap: "https://www.openstreetmap.org/relation/20071641"
 wikidata: "https://www.wikidata.org/wiki/Q49379056"
 tags:
   - bay
