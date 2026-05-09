@@ -6,6 +6,7 @@ creek in:
   - Washington
   - Cascade Range
 disambiguation of: Deer Creek
+gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1518613"
 near: Pilchuck Creek
 openstreetmap:
   - "https://www.openstreetmap.org/way/714495671"
