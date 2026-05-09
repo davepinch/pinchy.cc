@@ -4,7 +4,6 @@ creek in:
   - Okanogan–Wenatchee National Forest
   - Okanogan County, Washington
   - Washington
-disambiguation of: Deer Creek
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1522171"
 note: >-
   Little Bridge Creek is not defined in OpenStreetMap but it is defined in GNIS, which shows the creek runs toward the southeast into the Twisp River. It has a series of tributary streams feeding into it.
