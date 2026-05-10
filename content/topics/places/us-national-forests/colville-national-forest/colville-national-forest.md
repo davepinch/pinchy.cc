@@ -1,13 +1,14 @@
 ---
 title: "Colville National Forest"
-national forest of:
-  - Columbia Mountains
+national forest in:
   - Ferry County, Washington
   - Pend Oreille County, Washington
   - Okanogan County, Washington
   - Stevens County, Washington
   - Washington
   - United States
+national forest of:
+  - Columbia Mountains
 openstreetmap: "https://www.openstreetmap.org/relation/5449320"
 wikidata: "https://www.wikidata.org/wiki/Q5150298"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Colville_National_Forest"
