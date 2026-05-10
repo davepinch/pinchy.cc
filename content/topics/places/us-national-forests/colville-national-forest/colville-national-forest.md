@@ -9,6 +9,7 @@ national forest in:
   - United States
 national forest of:
   - Columbia Mountains
+  - Rocky Mountains # The Columbia Mountains are part of the Rocky Mountains
 openstreetmap: "https://www.openstreetmap.org/relation/5449320"
 wikidata: "https://www.wikidata.org/wiki/Q5150298"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Colville_National_Forest"
