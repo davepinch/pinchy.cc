@@ -1,6 +1,12 @@
 ---
-title: "Natural Resources Conservation Area"
+title: "Washington Natural Resources Conservation Area"
 official website: "https://www.dnr.wa.gov/managed-lands/natural-areas/natural-resources-conservation-areas"
+tag requires property:
+  - conservation area in
+  - conservation area of
+  - official website
+  - openstreetmap
+  - wikidata
 type of protected area of:
   - Washington Department of Natural Resources
   - Washington
