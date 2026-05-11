@@ -1,0 +1,19 @@
+---
+title: "Deer Creek (Puyallup River)"
+creek in:
+  - Gifford Pinchot National Forest
+  - Pierce County, Washington
+  - Washington
+disambiguation of: Deer Creek
+gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1518602"
+openstreeetmap: "https://www.openstreetmap.org/relation/13639467"
+tributary of: Puyallup River
+vicinity to:
+  - Glacier View Wilderness
+  - Mount Rainier
+wikidata: "https://www.wikidata.org/wiki/Q49892628"
+tags:
+  - creek
+  - no Wikimedia category
+  - no Wikipedia article
+---
