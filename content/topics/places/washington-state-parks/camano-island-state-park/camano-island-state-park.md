@@ -5,9 +5,12 @@ official website: "https://parks.wa.gov/find-parks/state-parks/camano-island-sta
 openstreetmap: "https://www.openstreetmap.org/way/758397016"
 state park of:
   - Camano Island
+  - Island County, Washington
+  - Washington
+state park of:
+  - Washington State Parks and Recreation Commission
   - Saratoga Passage
   - Puget Sound
-  - Washington
 wikidata: "https://www.wikidata.org/wiki/Q5024930"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Camano_Island_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Camano_Island_State_Park"

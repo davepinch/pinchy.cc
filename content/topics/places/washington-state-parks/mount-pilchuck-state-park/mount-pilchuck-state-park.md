@@ -3,11 +3,13 @@ title: "Mount Pilchuck State Park"
 not to be confused with: Pilchuck Park
 official website: "https://parks.wa.gov/find-parks/state-parks/mount-pilchuck-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/9166982"
-state park of:
-  - Washington
+state park in:
   - Snohomish County, Washington
-  - Mount Pilchuck
+  - Washington
   - Cascade Range
+state park of:
+  - Washington State Parks and Recreation Commission
+  - Mount Pilchuck
 wikidata: "https://www.wikidata.org/wiki/Q6922750"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_Pilchuck_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Mount_Pilchuck_State_Park"

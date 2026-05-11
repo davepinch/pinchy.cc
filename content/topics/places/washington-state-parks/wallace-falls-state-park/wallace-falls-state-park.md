@@ -1,13 +1,15 @@
 ---
 title: "Wallace Falls State Park"
 openstreetmap: "https://www.openstreetmap.org/relation/3721977"
-state park of:
-  - Washington
+state park in:
   - Snohomish County, Washington
+  - Washington
+  - Cascade Range
+state park of:
+  - Washington State Parks and Recreation Commission
   - Wallace River
   - North Fork Wallace River
-  - Cascade Range
-vantage point of:
+vantage point to:
   - Baring Mountain
   - Mount Index
   - Mount Persis

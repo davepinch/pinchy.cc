@@ -5,10 +5,11 @@ borders:
   - Issaquah, Washington
 found dead here: Alena Stathopoulos
 openstreetmap: "https://www.openstreetmap.org/relation/5960704"
-state park of:
+state park in:
   - King County, Washington
   - Washington
   - Cascade Range
+state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q49564994"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Squak_Mountain_State_Park"
 wikipedia: Squak Mountain (Wikipedia)

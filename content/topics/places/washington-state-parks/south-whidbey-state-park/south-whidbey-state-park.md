@@ -4,10 +4,12 @@ official website: "https://parks.wa.gov/find-parks/state-parks/south-whidbey-sta
 mapcarta: "https://mapcarta.com/W759100391"
 openstreetmap: "https://www.openstreetmap.org/way/759100391"
 state park of:
-  - Washington
-  - Island County, Washington
   - Freeland, Washington
   - Whidbey Island
+  - Island County, Washington
+  - Washington
+state park of:
+  - Washington State Parks and Recreation Commission
   - Admiralty Inlet
 wikidata: "https://www.wikidata.org/wiki/Q7568930"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:South_Whidbey_State_Park"

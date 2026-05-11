@@ -3,11 +3,13 @@ title: "Dash Point State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/dash-point-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740585"
 state park of:
-  - Washington
+  - Dash Point, Washington
   - King County, Washington
   - Pierce County, Washington
   - Federal Way, Washington
-  - Dash Point, Washington
+  - Washington
+state park of:
+  - Washington State Parks and Recreation Commission
   - East Passage
   - Puget Sound
 wikidata: "https://www.wikidata.org/wiki/Q5226557"

@@ -2,12 +2,14 @@
 title: "Sacajawea State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/sacajawea-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5710050"
-state park of:
+state park in:
   - Pasco, Washington
-  - Columbia River
-  - Snake River
   - Franklin County, Washington
   - Washington
+state park of:
+  - Washington State Parks and Recreation Commission
+  - Columbia River
+  - Snake River
 wikidata: "https://www.wikidata.org/wiki/Q7396564"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Sacajawea_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Sacajawea_State_Park"

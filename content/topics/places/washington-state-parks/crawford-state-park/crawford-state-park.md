@@ -6,6 +6,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/11009368"
 state park in:
   - Pend Oreille County, Washington
   - Washington
+state park of: Washington State Parks and Recreation Commission
 vicinity to:
   - Pend Oreille River
   - Boundary Lake

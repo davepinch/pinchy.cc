@@ -2,11 +2,12 @@
 title: "Palouse to Cascades State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail"
 openstreetmap: "https://www.openstreetmap.org/relation/5972280"
-state park of:
+state park in:
   - King County, Washington
   - Kittitas County, Washington
   - Washington
   - Cascade Range
+state park of: Washington State Parks and Recreation Commission
 conversion of: railway
 wikidata: "https://www.wikidata.org/wiki/Q14713715"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:John_Wayne_Pioneer_Trail"

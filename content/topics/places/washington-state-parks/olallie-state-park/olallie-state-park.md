@@ -7,11 +7,13 @@ borders:
   - Palouse to Cascades State Park
 official website: "https://parks.wa.gov/find-parks/state-parks/olallie-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5970526"
-state park of:
-  - Washington
+state park in:
   - King County, Washington
-  - South Fork Snoqualmie River
+  - Washington
   - Cascade Range
+state park of:
+  - Washington State Parks and Recreation Commission
+  - South Fork Snoqualmie River
 vicinity of: North Bend, Washington
 wikidata: "https://www.wikidata.org/wiki/Q7083061"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Olallie_State_Park"

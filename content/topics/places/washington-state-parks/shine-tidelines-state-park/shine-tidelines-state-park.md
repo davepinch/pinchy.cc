@@ -1,10 +1,12 @@
 ---
 title: "Shine Tidelands State Park"
 openstreetmap: "https://www.openstreetmap.org/relation/5951256"
-state park of:
-  - Hood Canal
+state park in:
   - Jefferson County, Washington
   - Washington
+state park of:
+  - Hood Canal
+  - Washington State Parks and Recreation Commission
 vicinity of: Hood Canal Bridge
 wikidata: "https://www.wikidata.org/wiki/Q7497390"
 tags:

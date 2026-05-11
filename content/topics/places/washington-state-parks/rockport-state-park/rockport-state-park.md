@@ -9,9 +9,11 @@ borders:
   - Washington State Route 20
 official website: "https://parks.wa.gov/find-parks/state-parks/rockport-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3721642"
-state park of:
-  - Washington
+state park in:
   - Skagit County, Washington
+  - Washington
+state park of:
+  - Washington State Parks and Recreation Commission
   - Washington State Route 20
 vicinity of: Rockport, Washington
 wikidata: "https://www.wikidata.org/wiki/Q2160759"

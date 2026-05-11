@@ -6,6 +6,7 @@ state park of:
   - Vantage, Washington
   - Kittitas County, Washington
   - Washington
+state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q5563141"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ginkgo_Petrified_Forest_State_Park"
 tags:
