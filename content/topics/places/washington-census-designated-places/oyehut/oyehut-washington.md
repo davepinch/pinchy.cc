@@ -1,5 +1,8 @@
 ---
 title: "Oyehut, Washington"
+adjacent to:
+  - Ocean Shores, Washington
+  - Pacific Ocean
 census-designated place in:
   - Grays Harbor County, Washington
   - Washington
