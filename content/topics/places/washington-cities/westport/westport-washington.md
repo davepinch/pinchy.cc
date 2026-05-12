@@ -1,5 +1,10 @@
 ---
 title: "Westport, Washington"
+adjacent to:
+  - Grays Harbor
+  - South Bay
+  - Cohassett Beach, Washington
+  - Pacific Ocean
 city of:
   - Grays Harbor County, Washington
   - Washington
