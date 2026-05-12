@@ -1,6 +1,7 @@
 ---
 title: "county"
 tag requires property:
+  - census profile
   - county of
   - official website
   - OpenStreetMap
