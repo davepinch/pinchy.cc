@@ -2,6 +2,7 @@
 title: "Grayland, Washington"
 adjacent to:
   - Cohassett Beach, Washington
+  - Sopun Inlet
   - Pacific County, Washington
   - Grayland Beach State Park
   - Pacific Ocean
