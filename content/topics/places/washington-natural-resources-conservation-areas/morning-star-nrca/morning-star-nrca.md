@@ -1,5 +1,10 @@
 ---
 title: "Morning Star Natural Resources Conservation Area"
+adjacent to:
+  - Mount Baker–Snoqualmie National Forest
+  - Wild Sky Wilderness
+  - Henry M. Jackson Hydroelectric Project
+  - Mount Pilchuck State Park
 conservation area in:
   - Snohomish County, Washington
   - Washington
