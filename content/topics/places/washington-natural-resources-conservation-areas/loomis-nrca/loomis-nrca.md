@@ -1,5 +1,12 @@
 ---
 title: "Loomis Natural Resources Conservation Area"
+adjacent to:
+  - Canada
+  - British Columbia, Canada
+  - Chopaka Mountain Natural Area Preserve
+  - Chopaka Mountain Wilderness Area
+  - Colville National Forest
+  - Pasayten Wilderness
 conservation area in:
   - Okanogan County, Washington
   - Washington
