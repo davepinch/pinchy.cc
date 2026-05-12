@@ -2,7 +2,7 @@
 title: "Ocean Shores, Washington"
 adjacent to:
   - Oyehut, Washington
-  - North Bay
+  - North Bay (Grays Harbor)
   - Pacific Ocean
 city of:
   - Grays Harbor County, Washington

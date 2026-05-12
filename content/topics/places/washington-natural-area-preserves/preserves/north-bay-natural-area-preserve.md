@@ -1,5 +1,6 @@
 ---
 title: "North Bay Natural Area Preserve"
+adjacent to: North Bay (Grays Harbor)
 natural area preserve of:
   - Grays Harbor
   - Grays Harbor County, Washington
