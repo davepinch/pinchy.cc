@@ -1,10 +1,10 @@
 ---
-title: "North Bay"
+title: "North Bay (Case Inlet)"
 bay in:
-  - Puget Sound
   - Mason County, Washington
   - Washington
 connects to: Case Inlet
+disambiguation of: North Bay
 note: >-
   Wikidata indicates North Bay is partially located in Pierce County, Washington. However, the boundary of Pierce County is located east of the mouth of North Bay. Note that the larger Case Inlet is part of Pierce County too, but not the North Bay section.
 openstreetmap: "https://www.openstreetmap.org/relation/13312522"
@@ -13,4 +13,3 @@ tags:
   - bay
   - no Wikimedia category
   - no Wikipedia article
----

@@ -10,7 +10,7 @@ bay of:
   - Herron Island
 connects to:
   - "note: from north to south"
-  - North Bay
+  - North Bay (Case Inlet)
   - Rocky Bay
   - Vaughn Bay
   - Pickering Passage
