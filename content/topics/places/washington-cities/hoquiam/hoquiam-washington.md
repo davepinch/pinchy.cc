@@ -1,6 +1,8 @@
 ---
 title: "Hoquiam, Washington"
+adjacent to: Aberdeen, Washington
 city of:
+  - Grays Harbor
   - Grays Harbor County, Washington
   - Washington
 official website: "https://www.cityofhoquiam.com/"
