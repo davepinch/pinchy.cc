@@ -6,7 +6,9 @@ city of:
 openstreetmap: "https://www.openstreetmap.org/relation/238015"
 vicinity of: Chehalis River
 wikidata: "https://www.wikidata.org/entity/Q610930"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Elma,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Elma,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Elma"
 tags:
   - city
 ---
