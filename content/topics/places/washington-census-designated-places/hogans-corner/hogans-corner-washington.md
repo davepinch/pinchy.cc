@@ -1,5 +1,6 @@
 ---
 title: "Hogans Corner, Washington"
+adjacent to: Ocean City, Washington
 census-designated place in:
   - Grays Harbor County, Washington
   - Washington
