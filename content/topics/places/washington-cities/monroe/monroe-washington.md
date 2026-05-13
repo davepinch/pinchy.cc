@@ -23,6 +23,7 @@ near:
 openstreetmap: "https://www.openstreetmap.org/relation/237669"
 wikidata: "https://www.wikidata.org/wiki/Q1055861"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Monroe,_Washington"
+wikivoyage: "https://en.wikivoyage.org/wiki/Monroe_(Washington)"
 tags:
   - city
 ---
