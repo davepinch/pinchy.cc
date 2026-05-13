@@ -1,8 +1,10 @@
 ---
 title: "Detroit River"
-river of:
+river in:
   - Detroit
+  - Michigan
   - Ontario
+  - Canada
 openstreetmap: "https://www.openstreetmap.org/relation/5678328"
 wikidata: "https://www.wikidata.org/wiki/Q318435"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Detroit_River"

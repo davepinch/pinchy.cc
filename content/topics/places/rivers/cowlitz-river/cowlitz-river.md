@@ -1,7 +1,7 @@
 ---
 title: "Cowlitz River"
 openstreetmap: "https://www.openstreetmap.org/relation/18049530"
-river of:
+river in:
   - Gifford Pinchot National Forest
   - Cowlitz County, Washington
   - Lewis County, Washington

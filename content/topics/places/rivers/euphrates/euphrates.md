@@ -2,7 +2,7 @@
 title: "Euphrates"
 longest river of: West Asia
 openstreetmap: "https://www.openstreetmap.org/relation/10106318"
-river of:
+river in:
   - West Asia
   - Turkey
   - Syria

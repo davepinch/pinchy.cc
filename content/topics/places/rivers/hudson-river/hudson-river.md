@@ -1,6 +1,6 @@
 ---
 title: "Hudson River"
-river of:
+river in:
   - New York
   - New Jersey
 openstreetmap: "https://www.openstreetmap.org/relation/2148192"

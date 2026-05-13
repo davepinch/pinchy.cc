@@ -1,8 +1,9 @@
 ---
 title: "Skykomish River"
-river of:
+river in:
   - King County, Washington
   - Snohomish County, Washington
+  - Washington
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/14650523"
 wikidata: "https://www.wikidata.org/wiki/Q3486452"

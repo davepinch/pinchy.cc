@@ -2,7 +2,7 @@
 title: "Samish River"
 namesake of: Samish People
 openstreetmap: "https://www.openstreetmap.org/relation/14444604"
-river of:
+river in:
   - Whatcom County, Washington
   - Skagit County, Washington
   - Washington

@@ -3,7 +3,7 @@ title: "North Fork Skagit River"
 fork of: Skagit River
 openstreetmap: "https://www.openstreetmap.org/way/36871528"
 opposite: South Fork Skagit River
-river of:
+river in:
   - Skagit County, Washington
   - Washington
 tributary of: Skagit Bay

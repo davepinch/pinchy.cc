@@ -2,7 +2,7 @@
 title: "Pilchuck River"
 not to be confused with: Pilchuck Creek
 openstreetmap: "https://www.openstreetmap.org/relation/14645435"
-river of:
+river in:
   - Snohomish County, Washington
   - Washington
   - Cascade Range

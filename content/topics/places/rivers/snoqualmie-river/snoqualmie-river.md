@@ -1,9 +1,10 @@
 ---
 title: "Snoqualmie River"
-river of:
-  - Cascade Range
+river in:
   - King County, Washington
   - Snohomish County, Washington
+  - Washington
+  - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/10651897"
 tributary of: Snohomish River
 wikidata: "https://www.wikidata.org/wiki/Q2295983"

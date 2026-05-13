@@ -1,7 +1,11 @@
 ---
 title: "Nisqually River"
 openstreetmap: "https://www.openstreetmap.org/relation/13695348"
-river of:
+river in:
+  - Pierce County, Washington
+  - Lewis County, Washington
+  - Thurston County, Washington
+  - Washington
   - Cascade Range
   - Mount Rainier
   - Puget Sound

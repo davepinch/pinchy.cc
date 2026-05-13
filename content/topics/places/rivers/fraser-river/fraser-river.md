@@ -1,7 +1,7 @@
 ---
 title: "Fraser River"
 openstreetmap: "https://www.openstreetmap.org/relation/5991467"
-river of:
+river in:
   - Rocky Mountains
   - British Columbia
   - Canada

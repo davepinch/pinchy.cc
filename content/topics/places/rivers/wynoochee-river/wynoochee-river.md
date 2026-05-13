@@ -1,9 +1,10 @@
 ---
 title: "Wynoochee River"
 openstreetmap: "https://www.openstreetmap.org/relation/12471858"
-river of:
+river in:
   - Grays Harbor County, Washington
   - Olympic Peninsula
+  - Washington
 tributary of: Chehalis River
 wikidata: "https://www.wikidata.org/wiki/Q1555207"
 tags:

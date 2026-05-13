@@ -1,9 +1,10 @@
 ---
 title: "Methow River"
 openstreetmap: "https://www.openstreetmap.org/relation/3459171"
-river of:
-  - Cascade Range
+river in:
   - Okanogan County, Washington
+  - Washington
+  - Cascade Range
 tributary of: Columbia River
 TODO: Learn how to generate a nice looking SVG map of the Methow River (using open source/free tools).
 wikidata: "https://www.wikidata.org/wiki/Q3307375"

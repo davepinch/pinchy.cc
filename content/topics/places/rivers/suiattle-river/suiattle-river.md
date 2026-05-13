@@ -1,8 +1,9 @@
 ---
 title: "Suiattle River"
 openstreetmap: "https://www.openstreetmap.org/way/127445636"
-river of:
+river in:
   - Skagit County, Washington
+  - Washington
   - Cascade Range
 tributary of: Sauk River
 wikidata: "https://www.wikidata.org/wiki/Q7635303"

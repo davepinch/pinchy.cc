@@ -1,7 +1,7 @@
 ---
 title: "Wind River"
 openstreetmap: "https://www.openstreetmap.org/relation/14639911"
-river of:
+river in:
   - Gifford Pinchot National Forest
   - Yacolt Burn State Forest
   - Columbia River Gorge National Scenic Area

@@ -5,6 +5,8 @@ river of:
   - Mount Baker–Snoqualmie National Forest
   - Snohomish County, Washington
   - King County, Washington
+  - Washington
+  - Cascade Range
 south fork of: Skykomish River
 wikidata: "https://www.wikidata.org/wiki/Q100251473"
 tags:

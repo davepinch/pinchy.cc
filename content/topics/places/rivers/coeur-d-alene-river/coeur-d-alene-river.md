@@ -1,7 +1,7 @@
 ---
 title: "Coeur d'Alene River"
 openstreetmap: "https://www.openstreetmap.org/relation/17002378"
-river of: Idaho
+river in: Idaho
 url: /coeur-d-alene-river/
 vicinity of: Coeur d'Alene, Idaho
 wikidata: "https://www.wikidata.org/wiki/Q2981810"

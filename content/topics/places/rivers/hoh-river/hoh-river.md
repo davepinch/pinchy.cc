@@ -1,7 +1,7 @@
 ---
 title: "Hoh River"
 openstreetmap: "https://www.openstreetmap.org/relation/14526701"
-river of:
+river in:
   - Clallam County, Washington
   - Jefferson County, Washington
   - Olympic National Park

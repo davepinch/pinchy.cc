@@ -1,7 +1,7 @@
 ---
 title: "Sauk River"
 openstreetmap: "https://www.openstreetmap.org/relation/14885805"
-river of:
+river in:
   - Skagit County, Washington
   - Washington
   - Cascade Range

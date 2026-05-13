@@ -1,7 +1,7 @@
 ---
 title: "Saint Croix River"
 openstreetmap: "https://www.openstreetmap.org/relation/2182440"
-river of:
+river in:
   - Minnesota
   - Wisconsin
 tributary of: Mississippi River

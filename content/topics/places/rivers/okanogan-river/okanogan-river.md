@@ -1,7 +1,7 @@
 ---
 title: "Okanogan River"
 openstreetmap: "https://www.openstreetmap.org/relation/7260073"
-river of:
+river in:
   - British Columbia
   - Canada
   - Washington

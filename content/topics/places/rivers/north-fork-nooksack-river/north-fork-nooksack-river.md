@@ -2,7 +2,7 @@
 title: "North Fork Nooksack River"
 north fork of: Nooksack River
 note: "On OSM, there isn't a specific element for just the north fork."
-river of:
+river in:
   - Mount Baker–Snoqualmie National Forest
   - Mount Baker Wilderness
   - North Cascades National Park
@@ -10,6 +10,7 @@ river of:
   - Nooksack Indian Reservation
   - Whatcom County, Washington
   - Washington
+  - Cascade Range
 tags:
   - river
   - no OpenStreetMap element

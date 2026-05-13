@@ -7,6 +7,7 @@ river of:
   - King County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Washington
+  - Cascade Range
 wikidata: "https://www.wikidata.org/wiki/Q113560047"
 tags:
   - river

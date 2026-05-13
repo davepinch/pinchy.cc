@@ -1,7 +1,7 @@
 ---
 title: "Mashel River"
 openstreetmap: "https://www.openstreetmap.org/relation/13579164"
-river of:
+river in:
   - Pierce County, Washington
   - Washington
 tributary of: Nisqually River

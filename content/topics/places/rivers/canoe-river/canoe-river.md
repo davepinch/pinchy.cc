@@ -1,7 +1,7 @@
 ---
 title: "Canoe River"
 openstreetmap: "https://www.openstreetmap.org/relation/16477985"
-river of:
+river in:
   - Rocky Mountain Trench
   - British Columbia
   - Canada

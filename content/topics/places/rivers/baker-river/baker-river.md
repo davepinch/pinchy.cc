@@ -7,7 +7,7 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/762561898 (tunnel through Lower Baker Dam)"
   - "https://www.openstreetmap.org/way/52322952 (to Skagit River through Concrete)"
 outflow of: Baker Lake
-river of:
+river in:
   - Mount Baker–Snoqualmie National Forest
   - Cascade Range
   - Skagit County, Washington

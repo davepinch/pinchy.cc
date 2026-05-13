@@ -1,7 +1,7 @@
 ---
 title: "Red River of the North"
 openstreetmap: "https://www.openstreetmap.org/relation/1573833#map=6/50.13/-97.22"
-river of:
+river in:
   - Fargo, North Dakota
   - North Dakota
   - Moorhead, Minnesota

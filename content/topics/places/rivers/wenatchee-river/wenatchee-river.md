@@ -1,7 +1,7 @@
 ---
 title: "Wenatchee River"
 openstreetmap: "https://www.openstreetmap.org/relation/8104371"
-river of:
+river in:
   - Chelan County, Washington
   - Washington
 tributary of: Columbia River

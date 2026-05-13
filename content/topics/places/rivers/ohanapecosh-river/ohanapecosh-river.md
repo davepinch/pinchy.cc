@@ -9,6 +9,7 @@ river in:
   - Lewis County, Washington
   - Gifford Pinchot National Forest
   - Washington
+  - Cascade Range
 tributary of: Cowlitz River
 wikidata: "https://www.wikidata.org/wiki/Q7080613"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ohanapecosh_River"

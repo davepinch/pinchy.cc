@@ -1,7 +1,7 @@
 ---
 title: "Copalis River"
 openstreetmap: "https://www.openstreetmap.org/relation/12822828"
-river of:
+river in:
   - Grays Harbor County, Washington
   - Washington
 tributary of: Pacific Ocean

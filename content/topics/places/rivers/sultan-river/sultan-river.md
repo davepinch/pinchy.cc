@@ -2,7 +2,7 @@
 title: "Sultan River"
 mouth: Sultan, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/14650693"
-river of:
+river in:
   - Snohomish County, Washington
   - Washington
   - Mount Baker–Snoqualmie National Forest

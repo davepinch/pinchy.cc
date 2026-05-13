@@ -11,15 +11,15 @@ course:
   - Port Gardner
   - Possession Sound
 mouth: Port Gardner
-near:
-  - Monroe, Washington
 not to be confused with:
   - Snohomish, Washington
   - Snohomish County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/10651898"
-river of:
-  - Cascade Range
+river in:
   - Snohomish County, Washington
+  - Washington
+  - Cascade Range
+vicinity to: Monroe, Washington
 wikidata: "https://www.wikidata.org/wiki/Q2619028"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Snohomish_River"
 tags:
