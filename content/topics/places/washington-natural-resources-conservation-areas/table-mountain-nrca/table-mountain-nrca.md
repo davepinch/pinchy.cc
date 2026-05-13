@@ -8,7 +8,10 @@ conservation area in:
   - Columbia River Gorge National Scenic Area
   - Skamania County, Washington
   - Washington
+conservation area of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/8325606"
+wikidata: "https://www.wikidata.org/wiki/Q114323235"
 tags:
   - Washington Natural Resources Conservation Area
+  - no Wikipedia article
 ---
