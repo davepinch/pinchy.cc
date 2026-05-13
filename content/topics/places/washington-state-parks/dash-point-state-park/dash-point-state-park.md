@@ -2,7 +2,7 @@
 title: "Dash Point State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/dash-point-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740585"
-state park of:
+state park in:
   - Dash Point, Washington
   - King County, Washington
   - Pierce County, Washington
