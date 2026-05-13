@@ -8,7 +8,7 @@ related:
   - waterfall
 tag requires property:
   - OpenStreetMap
-  - river of
+  - river in
   - Wikidata
   - Wikimedia
   - Wikipedia
