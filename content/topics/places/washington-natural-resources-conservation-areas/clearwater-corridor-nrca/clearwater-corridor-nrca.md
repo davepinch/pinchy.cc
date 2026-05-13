@@ -8,7 +8,7 @@ conservation area in:
   - Washington
 conservation area of:
   - Washington Department of Natural Resources
-  - Clearwater River
+  - Clearwater River (Queets River tributary)
 openstreetmap: "https://www.openstreetmap.org/relation/10341111"
 wikidata: "https://www.wikidata.org/wiki/Q108730285"
 tags:

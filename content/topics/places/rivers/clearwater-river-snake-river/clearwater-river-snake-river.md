@@ -1,5 +1,6 @@
 ---
-title: "Clearwater River"
+title: "Clearwater River (Snake River tributary)"
+disambiguation of: Clearwater River
 openstreetmap:
   - "https://www.openstreetmap.org/relation/17876953"
   - "Note: the OpenStreetMap link excludes the North, South and Middle forks"

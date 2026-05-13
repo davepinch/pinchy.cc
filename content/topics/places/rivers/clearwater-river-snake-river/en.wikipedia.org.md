@@ -7,7 +7,7 @@ retrieved: 2024-08-29
 type: website
 url: /en.wikipedia.org/wiki/Clearwater_River_(Idaho)/
 website: "https://en.wikipedia.org/wiki/Clearwater_River_(Idaho)"
-wikipedia of: Clearwater River
+wikipedia of: Clearwater River (Snake River tributary)
 tags:
   - Wikipedia
 ---

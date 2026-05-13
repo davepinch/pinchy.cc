@@ -4,7 +4,7 @@ columbia river basalt group of:
   - Blue Mountains
   - California
   - Cascade Range
-  - Clearwater River
+  - Clearwater River (Snake River tributary)
   - Columbia Basin
   - Columbia River
   - Deschutes River
