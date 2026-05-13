@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-05-13
 type: website
+url: /en.wikipedia.org/wiki/Queets_River/
 website: "https://en.wikipedia.org/wiki/Queets_River"
 wikipedia of: Queets River
 tags:
