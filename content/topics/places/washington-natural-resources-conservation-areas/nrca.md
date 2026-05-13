@@ -4,9 +4,12 @@ official website: "https://www.dnr.wa.gov/managed-lands/natural-areas/natural-re
 tag requires property:
   - conservation area in
   - conservation area of
+  - namesake of
   - official website
   - openstreetmap
   - wikidata
+  - wikimedia
+  - wikipedia
 type of protected area of:
   - Washington Department of Natural Resources
   - Washington
