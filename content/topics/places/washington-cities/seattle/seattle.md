@@ -28,7 +28,6 @@ vicinity to:
 wikidata: "https://www.wikidata.org/entity/Q5083"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Seattle"
 wikisource: "https://en.wikisource.org/wiki/Portal:Seattle"
-wikivoyage: "https://en.wikivoyage.org/wiki/Seattle"
 tags:
   - city
 ---
