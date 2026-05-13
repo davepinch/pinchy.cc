@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Vesta Creek)"
+title: "Deer Creek (Vesta Creek tributary)"
 creek in:
   - Grays Harbor County, Washington
   - Washington

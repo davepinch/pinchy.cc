@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Deer Harbor)"
+title: "Deer Creek (Deer Harbor tributary)"
 creek in:
   - Mason County, Washington
   - Olympic Peninsula

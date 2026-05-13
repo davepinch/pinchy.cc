@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Skagit River)"
+title: "Deer Creek (Skagit River tributary)"
 creek in:
   - Stephen Mather Wilderness
   - Ross Lake National Recreational Area

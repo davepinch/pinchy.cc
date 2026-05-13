@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Pin Creek)"
+title: "Deer Creek (Pin Creek tributary)"
 creek in:
   - Gifford Pinchot National Forest
   - Skamania County, Washington

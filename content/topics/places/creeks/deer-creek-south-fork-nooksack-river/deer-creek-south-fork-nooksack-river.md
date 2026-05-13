@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (South Fork Nooksack River)"
+title: "Deer Creek (South Fork Nooksack River tributary)"
 creek in:
   - Skagit County, Washington
   - Washington

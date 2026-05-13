@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Skookumchuck River)"
+title: "Deer Creek (Skookumchuck River tributary)"
 creek in:
   - Gifford Pinchot National Forest
   - Lewis County, Washington

@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Klickitat River)"
+title: "Deer Creek (Klickitat River tributary)"
 creek in:
   - Klickitat Canyon Natural Resources Conservation Area
   - Yakima County, Washington

@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Ten Mile Creek)"
+title: "Deer Creek (Ten Mile Creek tributary)"
 creek in:
   - Whatcom County, Washington
   - Washington

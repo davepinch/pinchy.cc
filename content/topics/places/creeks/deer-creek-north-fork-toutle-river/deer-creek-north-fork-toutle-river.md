@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (North Fork Toutle River)"
+title: "Deer Creek (North Fork Toutle River tributary)"
 creek in:
   - Hoffstadt Wildlife Area
   - Cowlitz County, Washington

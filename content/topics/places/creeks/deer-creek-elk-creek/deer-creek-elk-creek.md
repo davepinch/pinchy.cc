@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Elk Creek)"
+title: "Deer Creek (Elk Creek tributary)"
 creek in:
   - Lewis County, Washington
   - Washington

@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Little Spokane River)"
+title: "Deer Creek (Little Spokane River tributary)"
 disambiguation of: Deer Creek
 openstreetmap:
   - "https://www.openstreetmap.org/way/501581940 (start of creek north of East Deer Creek Road)"

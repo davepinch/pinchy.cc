@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Boulder Creek)"
+title: "Deer Creek (Boulder Creek tributary)"
 creek in:
   - Clallam County, Washington
   - Olympic Mountains

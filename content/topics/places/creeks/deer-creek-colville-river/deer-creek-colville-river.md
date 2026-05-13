@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Colville River)"
+title: "Deer Creek (Colville River tributary)"
 creek in:
   - Stevens County, Washington
   - Washington

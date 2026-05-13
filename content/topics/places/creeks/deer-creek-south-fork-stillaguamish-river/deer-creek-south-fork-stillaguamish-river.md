@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (South Fork Stillaguamish River)"
+title: "Deer Creek (South Fork Stillaguamish River tributary)"
 creek in:
   - Mount Baker–Snoqualmie National Forest
   - Snohomish County, Washington

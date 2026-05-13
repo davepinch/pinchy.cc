@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Puyallup River)"
+title: "Deer Creek (Puyallup River tributary)"
 creek in:
   - Gifford Pinchot National Forest
   - Pierce County, Washington

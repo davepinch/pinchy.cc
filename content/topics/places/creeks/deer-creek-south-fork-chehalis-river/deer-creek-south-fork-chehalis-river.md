@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (South Fork Chehalis River)"
+title: "Deer Creek (South Fork Chehalis River tributary)"
 creek in:
   - Lewis County, Washington
   - Washington

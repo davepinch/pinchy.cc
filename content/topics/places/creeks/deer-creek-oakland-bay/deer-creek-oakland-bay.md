@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Oakland Bay)"
+title: "Deer Creek (Oakland Bay tributary)"
 creek in:
   - Mason County, Washington
   - Olympic Peninsula

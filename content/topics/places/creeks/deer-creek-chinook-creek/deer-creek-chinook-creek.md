@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Chinook Creek)"
+title: "Deer Creek (Chinook Creek tributary)"
 creek in:
   - Mount Rainier Wilderness
   - Mount Rainier National Park

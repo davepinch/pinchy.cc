@@ -1,5 +1,5 @@
 ---
-title: "Deer Creek (Little Bridge Creek)"
+title: "Deer Creek (Little Bridge Creek tributary)"
 creek in:
   - Okanogan–Wenatchee National Forest
   - Okanogan County, Washington
