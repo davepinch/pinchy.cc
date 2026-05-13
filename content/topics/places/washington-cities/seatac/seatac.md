@@ -19,7 +19,6 @@ vicinity to:
   - Tacoma, Washington
 wikidata: "https://www.wikidata.org/entity/Q985072"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:SeaTac,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/SeaTac"
 tags:
   - city
 ---
