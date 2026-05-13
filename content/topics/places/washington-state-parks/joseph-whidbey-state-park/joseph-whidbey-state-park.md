@@ -2,7 +2,7 @@
 title: "Joseph Whidbey State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/joseph-whidbey-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3738213"
-state park of:
+state park in:
   - Whidbey Island
   - Island County, Washington
   - Washington

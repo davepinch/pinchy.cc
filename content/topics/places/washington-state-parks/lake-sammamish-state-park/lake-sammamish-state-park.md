@@ -2,7 +2,7 @@
 title: "Lake Sammamish State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/lake-sammamish-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5967398"
-state park of:
+state park in:
   - Issaquah, Washington
   - King County, Washington
   - Washington

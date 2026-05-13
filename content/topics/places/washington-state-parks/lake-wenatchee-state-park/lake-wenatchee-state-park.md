@@ -2,7 +2,7 @@
 title: "Lake Wenatchee State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/lake-wenatchee-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5960424"
-state park of:
+state park in:
   - Chelan County, Washington
   - Washington
   - Cascade Range

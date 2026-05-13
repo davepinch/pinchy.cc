@@ -2,7 +2,7 @@
 title: "Penrose Point State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/penrose-point-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740345"
-state park of:
+state park in:
   - Key Peninsula
   - Kitsap Peninsula
   - Pierce County, Washington

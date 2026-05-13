@@ -2,7 +2,7 @@
 title: "Hope Island State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/hope-island-marine-state-park-skagit-county"
 openstreetmap: "https://www.openstreetmap.org/relation/5964305"
-state park of:
+state park in:
   - Skagit County, Washington
   - Washington
 state park of:

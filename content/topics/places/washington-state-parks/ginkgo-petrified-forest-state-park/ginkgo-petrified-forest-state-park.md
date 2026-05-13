@@ -2,7 +2,7 @@
 title: "Ginkgo Petrified Forest State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/ginkgo-petrified-forest-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5959516"
-state park of:
+state park in:
   - Vantage, Washington
   - Kittitas County, Washington
   - Washington
