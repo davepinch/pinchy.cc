@@ -4,7 +4,7 @@ gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/15
 openstreetmap:
   - "https://www.openstreetmap.org/way/301584598 (apparent start of eastern branch near Newport)"
   - "https://www.openstreetmap.org/way/301593574 (roughly along Scotia Road)"
-  - "https://www.openstreetmap.org/way/301593573 (crossing Pines Road)
+  - "https://www.openstreetmap.org/way/301593573 (crossing Pines Road)"
   - "https://www.openstreetmap.org/way/301584595"
   - "https://www.openstreetmap.org/way/301593570"
   - "https://www.openstreetmap.org/way/301593571"
