@@ -10,7 +10,7 @@ adjacent to:
   - North Fork Snoqualmie River
   - THR
   - Snoqualmie Forest
-conversation area in:
+conservation area in:
   - King County, Washington
   - Washington
 conservation area of:
