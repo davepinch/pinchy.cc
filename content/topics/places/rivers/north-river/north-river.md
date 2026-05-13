@@ -5,7 +5,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/11117138"
 river in:
   - North Willapa Bay Wildlife Area
   - Pacific County, Washington
-  - Grays Habor County, Washington
+  - Grays Harbor County, Washington
   - Washington
 tributary of: Willapa Bay
 vicinity of: Raymond, Washington
