@@ -1,5 +1,6 @@
 ---
-title: "Long Island"
+title: "Long Island (New York)"
+disambiguation of: Long Island
 island in:
   - New York City
   - New York

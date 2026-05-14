@@ -2,7 +2,7 @@
 title: "Brooklyn"
 borough of:
   - New York City
-  - Long Island
+  - Long Island (New York)
 openstreetmap: "https://www.openstreetmap.org/relation/9691750"
 wikidata: "https://www.wikidata.org/wiki/Q18419"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Brooklyn,_New_York_City"
