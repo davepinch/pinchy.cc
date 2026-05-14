@@ -14,7 +14,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/237245"
 up the pacific coast: Everett, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1507307"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mukilteo,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/Mukilteo"
 tags:
   - city
 ---
