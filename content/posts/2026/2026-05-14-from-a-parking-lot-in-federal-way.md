@@ -22,6 +22,7 @@ page added of:
   - Tahoma Forest Natural Resources Conservation Area (dnr.wa.gov)
   - Teal Slough Natural Resources Conservation Area
   - Teal Slough Natural Resources Conservation Area (dnr.wa.gov)
+  - White Salmon Oak Natural Resources Conservation Area
 page updated of:
   - Queets River Natural Resources Conservation Area
   - Stavis Natural Resources Conservation Area
