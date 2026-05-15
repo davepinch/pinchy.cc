@@ -1,5 +1,6 @@
 ---
 title: "Washington Wildlife Area Unit"
+subclass of: wildlife area unit
 tag requires property:
   - official website
   - OpenStreetMap
