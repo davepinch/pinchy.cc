@@ -29,6 +29,7 @@ page added of:
   - Deer Creek (Eightmile Creek tributary)
   - Eightmile Creek
   - Eightmile Creek (Chewuch River Tributary)
+  - Chewuch River
 page updated of:
   - Queets River Natural Resources Conservation Area
   - Stavis Natural Resources Conservation Area
