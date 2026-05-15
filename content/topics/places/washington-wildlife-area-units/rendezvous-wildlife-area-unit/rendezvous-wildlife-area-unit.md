@@ -3,6 +3,7 @@ title: "Rendezvous Wildlife Area Unit"
 adjacent to:
   - Okanogan–Wenatchee National Forest
   - Washington State Route 20
+official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/rendezvous-wildlife-area-unit"
 openstreetmap: "https://www.openstreetmap.org/relation/10877013"
 vicinity to:
   - Big Buck Wildlife Area Unit
