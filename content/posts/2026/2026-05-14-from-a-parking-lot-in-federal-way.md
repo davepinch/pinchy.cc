@@ -27,6 +27,8 @@ page added of:
   - Woodard Bay Natural Resources Conservation Area
   - Woodard Bay Natural Resources Conservation Area (dnr.wa.gov)
   - Deer Creek (Eightmile Creek tributary)
+  - Eightmile Creek
+  - Eightmile Creek (Chewuch River Tributary)
 page updated of:
   - Queets River Natural Resources Conservation Area
   - Stavis Natural Resources Conservation Area
