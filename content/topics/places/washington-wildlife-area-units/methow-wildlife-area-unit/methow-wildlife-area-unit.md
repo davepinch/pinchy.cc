@@ -15,10 +15,10 @@ vicinity to:
   - Winthrop, Washington
 wikidata: "https://www.wikidata.org/wiki/Q49525700"
 wildlife area unit in:
-  - Methow Wildlife Area
   - Okanogan County, Washington
   - Washington
 wildlife area unit of:
+  - Methow Wildlife Area
   - Washington Department of Fish and Wildlife
   - Chewuch River
 tags:
