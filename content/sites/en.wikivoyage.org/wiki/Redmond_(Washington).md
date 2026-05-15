@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 3.0
 retrieved: 2026-05-15
 type: website
+url: /en.wikivoyage.org/wiki/Redmond_(Washington)/
 website: "https://en.wikivoyage.org/wiki/Redmond_(Washington)"
 wikivoyage of: Redmond, Washington
 tags:
