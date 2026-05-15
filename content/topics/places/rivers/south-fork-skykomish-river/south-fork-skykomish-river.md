@@ -1,7 +1,7 @@
 ---
 title: "South Fork Skykomish River"
 openstreetmap: "https://www.openstreetmap.org/relation/14650593"
-river of:
+river in:
   - Mount Baker–Snoqualmie National Forest
   - Snohomish County, Washington
   - King County, Washington

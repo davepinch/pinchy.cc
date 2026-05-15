@@ -2,7 +2,7 @@
 title: "North Fork Snoqualmie River"
 north fork of: Snoqualmie River
 openstreetmap: "https://www.openstreetmap.org/relation/14478101"
-river of:
+river in:
   - Alpine Lakes Wilderness
   - King County, Washington
   - Mount Baker–Snoqualmie National Forest
