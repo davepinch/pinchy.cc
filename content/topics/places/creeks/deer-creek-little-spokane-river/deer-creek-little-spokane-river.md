@@ -1,5 +1,9 @@
 ---
 title: "Deer Creek (Little Spokane River tributary)"
+creek in:
+  - Chattaroy, Washington
+  - Spokane County, Washington
+  - Washington
 disambiguation of: Deer Creek
 openstreetmap:
   - "https://www.openstreetmap.org/way/501581940 (start of creek north of East Deer Creek Road)"
