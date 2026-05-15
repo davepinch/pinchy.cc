@@ -7,7 +7,8 @@ city of:
 official website: "https://southbend-wa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/237596"
 wikidata: "https://www.wikidata.org/wiki/Q1017572"
-wikipedia: "https://en.wikipedia.org/wiki/South_Bend%2C_Washington"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:South_Bend,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/South_Bend,_Washington"
 tags:
   - city
 ---
