@@ -1,7 +1,7 @@
 ---
 title: "Ocean Shores city, Washington (data.census.gov)"
 census profile of: Ocean Shores, Washington
-city of: United States Census Bureau
+city of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Ocean Shores city, Washington is a city, town, place equivalent, or township located in Washington. Ocean Shores city, Washington has a land area of 8.5 square miles.
 license: public domain

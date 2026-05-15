@@ -1,7 +1,7 @@
 ---
 title: "Thurston County, Washington (data.census.gov)"
 census profile of: Thurston County, Washington
-county of: United States Census Bureau
+county of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Thurston County, Washington has 722.5 square miles of land area and is the 32nd largest county in Washington by total area. Thurston County, Washington is bordered by Lewis County, Washington, Grays Harbor County, Washington, Pierce County, Washington, and Mason County, Washington.
 license: public domain

@@ -1,7 +1,7 @@
 ---
 title: "Porter CDP, Washington (data.census.gov)"
 census profile of: Porter, Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Porter CDP, Washington is a city, town, place equivalent, or township located in Washington. Porter CDP, Washington has a land area of 8.9 square miles.
 license: public domain

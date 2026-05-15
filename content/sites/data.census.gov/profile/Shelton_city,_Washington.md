@@ -1,7 +1,7 @@
 ---
 title: "Shelton city, Washington (data.census.gov)"
 census profile of: Shelton, Washington
-city of: United States Census Bureau
+city of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Shelton city, Washington is a city, town, place equivalent, or township located in Washington. Shelton city, Washington has a land area of 5.8 square miles.
 license: public domain

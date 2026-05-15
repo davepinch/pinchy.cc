@@ -1,7 +1,7 @@
 ---
 title: "Ocean City CDP, Washington (data.census.gov)"
 census profile of: Ocean City, Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Ocean City CDP, Washington is a city, town, place equivalent, or township located in Washington. Ocean City CDP, Washington has a land area of 3.3 square miles.
 license: public domain

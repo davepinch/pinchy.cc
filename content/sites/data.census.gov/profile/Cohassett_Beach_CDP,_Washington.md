@@ -1,7 +1,7 @@
 ---
 title: "Cohassett Beach CDP, Washington (data.census.gov)"
 census profile of: Cohassett Beach, Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Cohassett Beach CDP, Washington is a city, town, place equivalent, or township located in Washington. Cohassett Beach CDP, Washington has a land area of 1.3 square miles.
 license: public domain

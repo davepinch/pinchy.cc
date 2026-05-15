@@ -1,7 +1,7 @@
 ---
 title: "Markham CDP, Washington (data.census.gov)"
 census profile of: Markham, Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Markham CDP, Washington is a city, town, place equivalent, or township located in Washington. Markham CDP, Washington has a land area of 1.1 square miles.
 license: public domain

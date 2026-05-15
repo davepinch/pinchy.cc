@@ -1,7 +1,7 @@
 ---
 title: "Wahkiakum County, Washington (data.census.gov)"
 census profile of: Wahkiakum County, Washington
-county of: United States Census Bureau
+county of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Wahkiakum County, Washington has 262.9 square miles of land area and is the 37th largest county in Washington by total area. Wahkiakum County, Washington is bordered by Lewis County, Washington, Cowlitz County, Washington, Clatsop County, Oregon, Columbia County, Oregon, and Pacific County, Washington.
 license: public domain

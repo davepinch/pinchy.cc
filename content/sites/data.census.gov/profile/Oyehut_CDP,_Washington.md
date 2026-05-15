@@ -1,7 +1,7 @@
 ---
 title: "Oyehut CDP, Washington (data.census.gov)"
 census profile of: Oyehut, Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Oyehut CDP, Washington is a city, town, place equivalent, or township located in Washington. Oyehut CDP, Washington has a land area of 0.6 square miles.
 license: public domain

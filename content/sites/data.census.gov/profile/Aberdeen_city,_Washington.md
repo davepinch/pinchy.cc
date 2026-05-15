@@ -1,7 +1,7 @@
 ---
 title: "Aberdeen city, Washington (data.census.gov)"
 census profile of: Aberdeen, Washington
-city of: United States Census Bureau
+city of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Aberdeen city, Washington is a city, town, place equivalent, or township located in Washington. Aberdeen city, Washington has a land area of 10.9 square miles.
 license: public domain

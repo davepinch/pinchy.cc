@@ -1,7 +1,7 @@
 ---
 title: "Satsop CDP, Washington (data.census.gov)"
 census profile of: Satsop, Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Satsop CDP, Washington is a city, town, place equivalent, or township located in Washington. Satsop CDP, Washington has a land area of 7.0 square miles.
 license: public domain

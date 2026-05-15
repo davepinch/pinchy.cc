@@ -1,7 +1,7 @@
 ---
 title: "Hoquiam city, Washington (data.census.gov)"
 census profile of: Hoquiam, Washington
-city of: United States Census Bureau
+city of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Hoquiam city, Washington is a city, town, place equivalent, or township located in Washington. Hoquiam city, Washington has a land area of 9.5 square miles.
 license: public domain

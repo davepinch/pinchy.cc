@@ -1,7 +1,7 @@
 ---
 title: "Pacific County, Washington (data.census.gov)"
 census profile of: Pacific County, Washington
-county of: United States Census Bureau
+county of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Pacific County, Washington has 933.4 square miles of land area and is the 30th largest county in Washington by total area. Pacific County, Washington is bordered by Lewis County, Washington, Grays Harbor County, Washington, Clatsop County, Oregon, and Wahkiakum County, Washington.
 license: public domain

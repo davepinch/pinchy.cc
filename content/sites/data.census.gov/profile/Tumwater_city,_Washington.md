@@ -1,7 +1,7 @@
 ---
 title: "Tumwater city, Washington (data.census.gov)"
 census profile of: Tumwater, Washington
-city of: United States Census Bureau
+city of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Tumwater city, Washington is a city, town, place equivalent, or township located in Washington. Tumwater city, Washington has a land area of 17.4 square miles.
 license: public domain

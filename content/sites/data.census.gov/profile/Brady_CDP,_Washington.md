@@ -1,7 +1,7 @@
 ---
 title: "Brady CDP, Washington (data.census.gov)"
 census profile of: Brady, Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Brady CDP, Washington is a city, town, place equivalent, or township located in Washington. Brady CDP, Washington has a land area of 6.1 square miles.
 license: public domain

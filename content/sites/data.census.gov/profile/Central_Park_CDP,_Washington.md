@@ -1,7 +1,7 @@
 ---
 title: "Central Park CDP, Washington (data.census.gov)"
 census profile of: Central Park, Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Central Park CDP, Washington is a city, town, place equivalent, or township located in Washington. Central Park CDP, Washington has a land area of 3.5square miles.
 license: public domain

@@ -1,7 +1,7 @@
 ---
 title: "Lewis County, Washington (data.census.gov)"
 census profile of: Lewis County, Washington
-county of: United States Census Bureau
+county of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Lewis County, Washington has 2,402.8 square miles of land area and is the 6th largest county in Washington by total area. Lewis County, Washington is bordered by Grays Harbor County, Washington, Cowlitz County, Washington, Thurston County, Washington, Pierce County, Washington, Yakima County, Washington, Skamania County, Washington, Wahkiakum County, Washington, and Pacific County, Washington.
 license: public domain

@@ -1,7 +1,7 @@
 ---
 title: "Malone CDP, Washington (data.census.gov)"
 census profile of: Malone, Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Malone CDP, Washington is a city, town, place equivalent, or township located in Washington. Malone CDP, Washington has a land area of 9.0 square miles.
 license: public domain
