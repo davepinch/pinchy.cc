@@ -10,4 +10,7 @@ openstreetmap: "https://www.openstreetmap.org/way/183244644"
 tributary of: Glacier Creek (North Fork Nooksack River tributary)
 tags:
   - creek
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
