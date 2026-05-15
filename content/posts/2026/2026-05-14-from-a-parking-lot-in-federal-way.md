@@ -1,5 +1,7 @@
 ---
 title: "From a parking lot in Federal Way"
+at the moment: >-
+  I am in the middle of a huge update, currently at 1392 pending changes at the moment I write this (14th May 2026 at 6:01PM). Mary is at an appointment at **stan parente salons** and I am sitting in the car outside on my laptop.
 from a parking lot in: Federal Way
 page added of:
   - Long Island Slough
