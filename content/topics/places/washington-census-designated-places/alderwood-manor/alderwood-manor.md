@@ -10,6 +10,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Alderwood_Manor_CDP,_Washington?g=160XX00US5301185"
 google maps: "https://maps.app.goo.gl/br4kj98ji7RSERNPA"
 note: >-

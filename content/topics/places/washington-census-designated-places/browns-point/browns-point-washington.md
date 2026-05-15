@@ -9,6 +9,7 @@ census profile: "https://data.census.gov/profile/Browns_Point_CDP,_Washington?g=
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18373134"
 wikidata: "https://www.wikidata.org/wiki/Q4976674"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Browns_Point,_Washington"

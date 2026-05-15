@@ -10,6 +10,7 @@ census profile: "https://data.census.gov/profile/Prairie_Ridge_CDP,_Washington?g
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/237265"
 wikidata: "https://www.wikidata.org/wiki/Q1508577"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Prairie_Ridge,_Washington"

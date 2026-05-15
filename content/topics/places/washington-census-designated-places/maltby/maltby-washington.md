@@ -14,6 +14,7 @@ census-designated place in:
   - Washington
   - Washington State Route 9
   - Washington State Route 522
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Maltby_CDP,_Washington?g=160XX00US5342415"
 openstreetmap: "https://www.openstreetmap.org/relation/237474"
 vicinity to: Snohomish River

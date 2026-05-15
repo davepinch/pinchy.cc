@@ -10,6 +10,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 namesake of: North Creek
 openstreetmap: "https://www.openstreetmap.org/node/140377142"
 retired of: census-designated place

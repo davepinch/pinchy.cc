@@ -5,6 +5,7 @@ census-designated place in:
   - Lewis County, Washington
   - Washington
   - Cascade Range
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Ashford_CDP,_Washington?g=160XX00US5303005"
 note: >-
   The southern boundary of Ashford roughly follows the Nisqually River. Some parts extend aceoss the river into Lewis County, perhaps reflecting the changing watercourse over the years. 

@@ -8,6 +8,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Lake_Stickney_CDP,_Washington?g=160XX00US5337917"
 formerly known as: Paine Field-Lake Stickney
 openstreetmap: "https://www.openstreetmap.org/relation/237489"

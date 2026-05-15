@@ -11,6 +11,7 @@ census profile: "https://data.census.gov/profile/Dash_Point_CDP,_Washington?g=16
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18373135"
 wikidata: "https://www.wikidata.org/wiki/Q3474261"
 wikipedia: "https://en.wikipedia.org/wiki/Dash_Point,_Washington"

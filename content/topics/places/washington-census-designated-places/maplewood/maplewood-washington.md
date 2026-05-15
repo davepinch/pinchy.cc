@@ -14,6 +14,7 @@ census-designated place in:
   - Kitsap Peninsula
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Maplewood_CDP,_Washington?g=160XX00US5343255"
 openstreetmap: "https://www.openstreetmap.org/relation/18376247"
 wikidata: "https://www.wikidata.org/wiki/Q5995075"

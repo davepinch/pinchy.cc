@@ -10,6 +10,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Larch_Way_CDP,_Washington?g=160XX00US5338420"
 openstreetmap: "https://www.openstreetmap.org/?mlat=47.842778&mlon=-122.252778"
 wikidata: "https://www.wikidata.org/wiki/Q5970062"

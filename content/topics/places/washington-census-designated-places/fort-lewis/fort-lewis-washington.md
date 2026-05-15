@@ -9,7 +9,9 @@ census-designated place in:
   - Joint Base Lewis-McChord
   - Pierce County, Washington
   - Washington
-census-designated place of: Fort Lewis
+census-designated place of:
+  - United States Census Bureau
+  - Fort Lewis
 namesake of: Fort Lewis
 note: This is the for census-designated place, not the fort itself.
 wikipedia: "https://en.wikipedia.org/wiki/Fort_Lewis_(Washington)#Demographics"

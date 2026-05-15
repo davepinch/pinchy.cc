@@ -11,6 +11,7 @@ adjacent to:
 census-designated place in:
   - King County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Cottage_Lake_CDP,_Washington?g=160XX00US5314940"
 openstreetmap: "https://www.openstreetmap.org/relation/237545"
 vicinity of: Duvall, Washington

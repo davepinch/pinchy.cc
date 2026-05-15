@@ -8,6 +8,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Cathcart_CDP,_Washington?g=160XX00US5310600"
 vicinity to:
   - Bothell, Washington

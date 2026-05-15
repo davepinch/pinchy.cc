@@ -11,6 +11,7 @@ census-designated place in:
   - Joint Base Lewis-McChord
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18419263"
 wikidata: "https://www.wikidata.org/wiki/Q16088536"
 wikipedia: "https://en.wikipedia.org/wiki/North_Fort_Lewis,_Washington"

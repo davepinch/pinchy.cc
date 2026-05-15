@@ -4,6 +4,7 @@ adjacent to: Geneva, Washington
 census-designated place in:
   - Whatcom County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Sudden_Valley_CDP,_Washington?g=160XX00US5368200"
 openstreetmap: "https://www.openstreetmap.org/relation/237585"
 vicinity to: Bellingham, Washington

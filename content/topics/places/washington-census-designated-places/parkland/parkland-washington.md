@@ -14,6 +14,7 @@ census profile: "https://data.census.gov/profile/Parkland_CDP,_Washington?g=160X
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/237510"
 suburb of: Tacoma, Washington
 wikidata: "https://www.wikidata.org/wiki/Q210565"

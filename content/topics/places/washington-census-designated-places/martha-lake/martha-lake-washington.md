@@ -11,6 +11,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Martha_Lake_CDP,_Washington?g=160XX00US5343815"
 google maps: "https://maps.app.goo.gl/vDK7EPFUSpYN8SRa8"
 openstreetmap: "https://www.openstreetmap.org/relation/237488"

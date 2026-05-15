@@ -3,6 +3,7 @@ title: "Arlington Heights, Washington"
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Arlington_Heights_CDP,_Washington?g=160XX00US5302620"
 openstreetmap: "https://www.openstreetmap.org/relation/237217"
 vicinity to:

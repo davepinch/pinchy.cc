@@ -10,6 +10,7 @@ census profile: "https://data.census.gov/profile/McMillin_CDP,_Washington?g=160X
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18395558"
 wikidata: "https://www.wikidata.org/wiki/Q6007987"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:McMillin,_Washington"

@@ -6,7 +6,9 @@ adjacent to:
 census-designated place in:
   - Skagit County, Washington
   - Washington
-census-designated place of: Interstate 5
+census-designated place of:
+  - United States Census Bureau
+  - Interstate 5
 census profile: "https://data.census.gov/profile/Conway_CDP,_Washington?g=160XX00US5314520"
 disambiguation of: Conway
 openstreetmap: "https://www.openstreetmap.org/node/412161417"

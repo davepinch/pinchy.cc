@@ -9,6 +9,7 @@ census profile: "https://data.census.gov/profile/Lake_Tapps_CDP,_Washington?g=16
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18399509"
 wikidata: "https://www.wikidata.org/wiki/Q111207060"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Tapps,_Washington"

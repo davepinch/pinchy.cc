@@ -6,6 +6,7 @@ adjacent to:
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Elbe_CDP,_Washington?g=160XX00US5320890"
 openstreetmap: "https://www.openstreetmap.org/relation/238128"
 vicinity to:

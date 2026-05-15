@@ -8,6 +8,7 @@ census profile: "https://data.census.gov/profile/Kapowsin_CDP,_Washington?g=160X
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18395560"
 wikidata: "https://www.wikidata.org/wiki/Q3473310"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kapowsin,_Washington"

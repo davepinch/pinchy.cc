@@ -11,6 +11,7 @@ census profile: "https://data.census.gov/profile/Summit_CDP,_Washington?g=160XX0
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/237507"
 wikidata: "https://www.wikidata.org/wiki/Q1504136"
 wikipedia: "https://en.wikipedia.org/wiki/Summit,_Washington"

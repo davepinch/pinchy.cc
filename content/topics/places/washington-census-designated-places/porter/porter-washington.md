@@ -4,6 +4,7 @@ adjacent to: Malone, Washington
 census-designated place in:
   - Grays Harbor County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18393405"
 wikidata: "https://www.wikidata.org/wiki/Q5664483"
 wikipedia: "https://en.wikipedia.org/wiki/Porter,_Washington"

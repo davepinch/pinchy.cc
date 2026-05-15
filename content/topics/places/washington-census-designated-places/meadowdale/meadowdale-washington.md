@@ -10,6 +10,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Meadowdale_CDP,_Washington?g=160XX00US5344585"
 openstreetmap: "https://www.openstreetmap.org/node/150975374"
 up the pacific coast: Picnic Point, Washington

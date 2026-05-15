@@ -6,6 +6,7 @@ adjacent to:
 census-designated place in:
   - Grays Harbor County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/238249"
 wikidata: "https://www.wikidata.org/wiki/Q1332038"
 wikipedia: "https://en.wikipedia.org/wiki/Markham,_Washington"

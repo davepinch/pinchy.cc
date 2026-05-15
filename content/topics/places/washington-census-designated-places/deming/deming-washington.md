@@ -5,6 +5,7 @@ census-designated place in:
   - Whatcom County, Washington
   - Washington
 census-designated place of:
+  - United States Census Bureau
   - Washington State Route 9
   - Washington State Route 542
 disambiguation of: Deming

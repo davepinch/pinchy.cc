@@ -11,7 +11,9 @@ across the sound:
 census-designated place in:
   - King County, Washington
   - Washington
-census-designated place of: Vashon Island
+census-designated place of:
+  - United States Census Bureau
+  - Vashon Island
 census profile: "https://data.census.gov/profile/Vashon_CDP,_Washington?g=160XX00US5374305"
 openstreetmap: "https://www.openstreetmap.org/relation/237632"
 wikidata: "https://www.wikidata.org/entity/Q1505272"

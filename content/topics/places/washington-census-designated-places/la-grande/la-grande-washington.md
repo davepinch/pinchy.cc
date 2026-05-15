@@ -10,6 +10,7 @@ census-designated place in:
   - Pack Forest
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18370020"
 vicinity to:
   - Eatonville, Washington

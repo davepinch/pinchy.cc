@@ -8,6 +8,7 @@ adjacent to:
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Alder_CDP,_Washington?g=160XX00US5301045"
 note: Technically a small bit of the Elbe Hills State Forest overlaps into the Alder census-designated place.
 openstreetmap: "https://www.openstreetmap.org/relation/18370021"

@@ -10,6 +10,7 @@ census profile: "https://data.census.gov/profile/Alderton_CDP,_Washington?g=160X
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18370024"
 wikidata: "https://www.wikidata.org/wiki/Q4713761"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Alderton,_Washington"

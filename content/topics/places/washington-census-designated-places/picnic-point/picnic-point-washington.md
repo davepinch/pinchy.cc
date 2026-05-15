@@ -11,6 +11,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Picnic_Point_CDP,_Washington?g=160XX00US5354213"
 openstreetmap: "https://www.openstreetmap.org/node/681124634"
 up the pacific coast: Mukilteo, Washington

@@ -4,6 +4,7 @@ adjacent to: Edmonds
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Esperance_CDP,_Washington?g=160XX00US5322255"
 openstreetmap: "https://www.openstreetmap.org/relation/238103"
 wikidata: "https://www.wikidata.org/wiki/Q1509659"

@@ -9,6 +9,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Bunk_Foss_CDP,_Washington?g=160XX00US5308770"
 openstreetmap: "https://www.openstreetmap.org/relation/18393945"
 vicinity to:

@@ -8,6 +8,7 @@ census profile: "https://data.census.gov/profile/South_Creek_CDP,_Washington?g=1
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18395559"
 wikidata: "https://www.wikidata.org/wiki/Q16109560"
 wikipedia: "https://en.wikipedia.org/wiki/South_Creek,_Washington"

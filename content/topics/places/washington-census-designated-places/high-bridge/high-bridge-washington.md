@@ -7,6 +7,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/High_Bridge_CDP,_Washington?g=160XX00US5330750"
 openstreetmap: "https://www.openstreetmap.org/relation/18393532"
 vicinity to:

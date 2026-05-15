@@ -7,6 +7,7 @@ census profile: "https://data.census.gov/profile/Clear_Lake_CDP_(Pierce_County),
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 not to be confused with: Clear Lake, Skagit County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/18395561"
 vicinity to: Eatonville, Washington

@@ -9,6 +9,7 @@ census profile: "https://data.census.gov/profile/Union_Hill-Novelty_Hill_CDP,_Wa
 census-designated place in:
   - King County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 google maps: "https://maps.app.goo.gl/dw7LzyhmqmMJsQHz7"
 openstreetmap: "https://www.openstreetmap.org/relation/237544"
 wikidata: "https://www.wikidata.org/wiki/Q1514861"

@@ -7,6 +7,7 @@ census profile: "https://data.census.gov/profile/Crocker_CDP,_Washington?g=160XX
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18395556"
 vicinity to: Carbonado, Washington
 wikidata: "https://www.wikidata.org/wiki/Q5792045"

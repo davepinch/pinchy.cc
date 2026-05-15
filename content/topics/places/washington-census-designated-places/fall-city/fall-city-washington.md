@@ -3,6 +3,7 @@ title: "Fall City, Washington"
 census-designated place in:
   - King County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Fall_City_CDP,_Washington?g=160XX00US5323200"
 openstreetmap: "https://www.openstreetmap.org/relation/238168"
 vicinity to:

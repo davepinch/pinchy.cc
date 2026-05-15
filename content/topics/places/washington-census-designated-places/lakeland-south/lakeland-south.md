@@ -11,6 +11,7 @@ census profile: "https://data.census.gov/profile/Lakeland_South_CDP,_Washington?
 census-designated place in:
   - King County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/237331"
 wikidata: "https://www.wikidata.org/entity/Q1514910"
 tags:

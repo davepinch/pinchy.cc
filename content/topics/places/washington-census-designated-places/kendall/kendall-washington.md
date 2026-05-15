@@ -6,7 +6,9 @@ adjacent to:
 census-designated place in:
   - Whatcom County, Washington
   - Washington
-census-designated place of: Washington State Route 542
+census-designated place of:
+  - United States Census Bureau
+  - Washington State Route 542
 census profile: "https://data.census.gov/profile/Kendall_CDP,_Washington?g=160XX00US5335135"
 google maps: "https://maps.app.goo.gl/yTPcAhsQrHmnfGTCA"
 openstreetmap: "https://www.openstreetmap.org/relation/237211"

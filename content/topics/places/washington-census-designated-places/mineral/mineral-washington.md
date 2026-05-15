@@ -6,6 +6,7 @@ adjacent to:
 census-designated place in:
   - Lewis County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Mineral_CDP,_Washington?g=160XX00US5346090"
 openstreetmap: "https://www.openstreetmap.org/relation/18398414"
 vicinity to:

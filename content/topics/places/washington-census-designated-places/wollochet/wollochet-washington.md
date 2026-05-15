@@ -12,6 +12,7 @@ census-designated place in:
   - Kitsap Peninsula
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18376118"
 wikidata: "https://www.wikidata.org/wiki/Q6168166"
 wikipedia: "https://en.wikipedia.org/wiki/Wollochet%2C_Washington"

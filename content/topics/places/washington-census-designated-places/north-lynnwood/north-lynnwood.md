@@ -12,6 +12,7 @@ census-designated place in:
   - Snohomish County, Washington
   - Washington
 census-designated place of:
+  - United States Census Bureau
   - Interstate 5
 census profile: "https://data.census.gov/profile/North_Lynnwood_CDP,_Washington?g=160XX00US5349940"
 openstreetmap: "https://www.openstreetmap.org/relation/18389829"

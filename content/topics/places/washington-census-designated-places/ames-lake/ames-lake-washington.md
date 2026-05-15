@@ -4,6 +4,7 @@ adjacent to: Union Hill-Novelty Hill, Washington
 census-designated place in:
   - King County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Ames_Lake_CDP,_Washington?g=160XX00US5301920"
 openstreetmap: "https://www.openstreetmap.org/relation/237542"
 vicinity to: Carnation, Washington

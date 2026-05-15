@@ -12,6 +12,7 @@ census-designated place in:
   - Kitsap Peninsula
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Artondale_CDP,_Washington?g=160XX00US5302910"
 openstreetmap: "https://www.openstreetmap.org/relation/237262"
 vicinity to: Fox Island

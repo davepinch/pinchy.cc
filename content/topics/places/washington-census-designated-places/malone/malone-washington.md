@@ -4,6 +4,7 @@ adjacent to: Porter, Washington
 census-designated place in:
   - Grays Harbor County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/238248"
 vicinity to: Elma, Washington
 wikidata: "https://www.wikidata.org/wiki/Q17406719"

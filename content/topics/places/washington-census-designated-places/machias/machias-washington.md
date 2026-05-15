@@ -7,6 +7,7 @@ adjacent to:
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Machias_CDP,_Washington?g=160XX00US5341470"
 openstreetmap: "https://www.openstreetmap.org/relation/18398577"
 vicinity to: Cavalero, Washington

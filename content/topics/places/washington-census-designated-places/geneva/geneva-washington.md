@@ -6,6 +6,7 @@ adjacent to:
 census-designated place in:
   - Whatcom County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Geneva_CDP,_Washington?g=160XX00US5326420"
 openstreetmap: "https://www.openstreetmap.org/relation/237584"
 wikidata: "https://www.wikidata.org/wiki/Q580628"

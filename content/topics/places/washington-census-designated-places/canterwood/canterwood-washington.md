@@ -9,6 +9,7 @@ census-designated place in:
   - Kitsap Peninsula
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Canterwood_CDP,_Washington?g=160XX00US5309810"
 openstreetmap: "https://www.openstreetmap.org/relation/18376248"
 wikidata: "https://www.wikidata.org/wiki/Q5747794"

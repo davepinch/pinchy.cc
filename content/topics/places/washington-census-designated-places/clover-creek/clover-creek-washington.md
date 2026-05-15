@@ -10,6 +10,7 @@ census profile: "https://data.census.gov/profile/Clover_Creek_CDP,_Washington?g=
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 note: OpenStreetMap labels this area as Allison.
 openstreetmap: "https://www.openstreetmap.org/relation/18395582"
 wikidata: "https://www.wikidata.org/wiki/Q5772898"

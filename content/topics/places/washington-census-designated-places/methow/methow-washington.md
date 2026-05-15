@@ -4,6 +4,7 @@ census-designated place in:
   - Okanogan County, Washington
   - Washington
 census-designated place of:
+  - United States Census Bureau
   - Methow River
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/2586740"
 openstreetmap: "https://www.openstreetmap.org/relation/18398532"

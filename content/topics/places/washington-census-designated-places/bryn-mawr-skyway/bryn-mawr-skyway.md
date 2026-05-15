@@ -11,6 +11,7 @@ census-designated place in:
   - King County, Washington
   - Washington
   - Lake Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Bryn_Mawr-Skyway_CDP,_Washington?g=160XX00US5308552"
 openstreetmap: "https://www.openstreetmap.org/relation/237383"
 wikidata: "https://www.wikidata.org/entity/Q1508150"

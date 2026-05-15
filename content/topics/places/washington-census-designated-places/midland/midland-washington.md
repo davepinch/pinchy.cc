@@ -10,6 +10,7 @@ census profile: "https://data.census.gov/profile/Midland_CDP,_Washington?g=160XX
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/237508"
 wikidata: "https://www.wikidata.org/wiki/Q1508513"
 wikipedia: "https://en.wikipedia.org/wiki/Midland,_Washington"

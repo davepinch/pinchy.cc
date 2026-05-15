@@ -9,6 +9,7 @@ census profile: "https://data.census.gov/profile/Lakeland_North_CDP,_Washington?
 census-designated place in:
   - King County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/237355"
 wikidata: "https://www.wikidata.org/entity/Q1503763"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lakeland_North"

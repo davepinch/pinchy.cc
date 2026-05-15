@@ -11,6 +11,7 @@ census-designated place in:
   - Joint Base Lewis-McChord
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/McChord_AFB_CDP,_Washington?g=160XX00US5341155"
 namesake of: McChord Air Force Base
 note: >-

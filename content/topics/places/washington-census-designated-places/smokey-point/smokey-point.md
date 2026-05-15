@@ -6,6 +6,7 @@ census-designated place in:
   - Snohomish County, Washington
   - Washington
 census-designated place of:
+  - United States Census Bureau
   - Interstate 5
 census profile: "https://data.census.gov/profile/Smokey_Point_CDP,_Washington?g=160XX00US5364995"
 note: >-

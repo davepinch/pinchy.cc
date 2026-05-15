@@ -7,6 +7,7 @@ adjacent to:
 census-designated place in:
   - Grays Harbor County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 not to be confused with: Ocean Shores, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237583"
 vicinity to:

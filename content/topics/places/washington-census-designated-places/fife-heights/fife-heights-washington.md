@@ -9,6 +9,7 @@ census profile: "https://data.census.gov/profile/Fife_Heights_CDP,_Washington?g=
 census-designated place in:
   - Pierce County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/node/150979697"
 wikidata: "https://www.wikidata.org/wiki/Q13634345"
 tags:

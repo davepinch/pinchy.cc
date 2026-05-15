@@ -3,6 +3,7 @@ title: "Bryant, Washington"
 census-designated place in:
   - Snohomish County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 census profile: "https://data.census.gov/profile/Bryant_CDP,_Washington?g=160XX00US5308500"
 openstreetmap: "https://www.openstreetmap.org/relation/18393922"
 wikidata: "https://www.wikidata.org/wiki/Q4980536"
