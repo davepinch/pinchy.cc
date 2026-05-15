@@ -7,7 +7,7 @@ creek in:
   - Washington
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/183244644"
-tributary of: Glacier Creek
+tributary of: Glacier Creek (North Fork Nooksack River tributary)
 tags:
   - creek
 ---

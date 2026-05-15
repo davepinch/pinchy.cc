@@ -1,5 +1,5 @@
 ---
-title: "Glacier Creek"
+title: "Glacier Creek (North Fork Nooksack River tributary)"
 creek in:
   - Whatcom County, Washington
   - Washington
