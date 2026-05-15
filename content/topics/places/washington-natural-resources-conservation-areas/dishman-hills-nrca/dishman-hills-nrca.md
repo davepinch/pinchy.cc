@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49483364"
 wikipedia: "https://en.wikipedia.org/wiki/Dishman_Hills"
 tags:
   - Washington Natural Resources Conservation Area
+  - no Wikimedia category
 ---

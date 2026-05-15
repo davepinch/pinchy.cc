@@ -13,4 +13,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/9166983"
 wikidata: "https://www.wikidata.org/wiki/Q114348264"
 tags:
   - Washington Natural Resources Conservation Area
+  - no Wikimedia category
+  - no Wikipedia article
 ---

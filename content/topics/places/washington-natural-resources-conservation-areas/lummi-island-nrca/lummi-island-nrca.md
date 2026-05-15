@@ -20,4 +20,6 @@ vicinity to: Inati Bay
 wikidata: "https://www.wikidata.org/wiki/Q114347393"
 tags:
   - Washington Natural Resources Conservation Area
+  - no Wikimedia category
+  - no Wikipedia article
 ---

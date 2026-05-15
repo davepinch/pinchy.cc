@@ -12,5 +12,6 @@ vicinity to: Stanley Peninsula
 wikidata: "https://www.wikidata.org/wiki/Q104664449"
 tags:
   - Washington Natural Resources Conservation Area
+  - no Wikimedia category
   - no Wikipedia article
 ---

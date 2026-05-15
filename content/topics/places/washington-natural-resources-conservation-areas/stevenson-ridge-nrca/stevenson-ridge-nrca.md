@@ -10,5 +10,6 @@ vicinity to: Yacolt Burn State Forest
 wikidata: "https://www.wikidata.org/wiki/Q114302958"
 tags:
   - Washington Natural Resources Conservation Area
+  - no Wikimedia category
   - no Wikipedia article
 ---

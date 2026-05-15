@@ -23,5 +23,6 @@ vicinity to:
 wikidata: "https://www.wikidata.org/wiki/Q113951237"
 tags:
   - Washington Natural Resources Conservation Area
+  - no Wikimedia category
   - no Wikipedia article
 ---
