@@ -1,6 +1,6 @@
 ---
 title: "Baring Mountain"
-mountain of:
+mountain in:
   - King County, Washington
   - Wild Sky Wilderness
   - Mount Baker–Snoqualmie National Forest

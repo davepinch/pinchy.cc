@@ -1,6 +1,6 @@
 ---
 title: "Gothic Peak"
-mountain of:
+mountain in:
   - Morning Star Natural Resources Conservation Area
   - Snohomish County, Washington
   - Washington

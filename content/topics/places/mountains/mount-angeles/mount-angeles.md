@@ -1,6 +1,6 @@
 ---
 title: "Mount Angeles"
-mountain of:
+mountain in:
   - Olympic Mountains
   - Olympic National Park
   - Olympic Peninsula

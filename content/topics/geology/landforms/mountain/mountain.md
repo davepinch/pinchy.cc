@@ -4,7 +4,7 @@ plural: mountains
 related:
   - volcano
 tag requires property:
-  - mountain of
+  - mountain in
   - OpenStreetMap
   - Wikidata
   - Wikimedia

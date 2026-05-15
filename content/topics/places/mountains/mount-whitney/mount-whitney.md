@@ -1,6 +1,6 @@
 ---
 title: "Mount Whitney"
-mountain of:
+mountain in:
   - California
   - United States
 openstreetmap: "https://www.openstreetmap.org/node/944865772"

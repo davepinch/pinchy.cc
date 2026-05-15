@@ -1,6 +1,6 @@
 ---
 title: "Anderson Mountain"
-mountain of:
+mountain in:
   - Skagit Range
   - Skagit County, Washington
   - Washington

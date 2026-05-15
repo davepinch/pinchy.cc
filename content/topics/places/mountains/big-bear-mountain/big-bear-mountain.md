@@ -1,6 +1,6 @@
 ---
 title: "Big Bear Mountain"
-mountain of:
+mountain in:
   - Boulder River Wilderness
   - Snohomish County, Washington
   - Mount Baker–Snoqualmie National Forest

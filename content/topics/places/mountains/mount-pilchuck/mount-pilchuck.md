@@ -1,6 +1,6 @@
 ---
 title: "Mount Pilchuck"
-mountain of:
+mountain in:
   - Mount Pilchuck State Park
   - Mount Baker–Snoqualmie National Forest
   - Snohomish County, Washington

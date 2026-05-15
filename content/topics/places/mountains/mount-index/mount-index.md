@@ -1,7 +1,7 @@
 ---
 title: "Mount Index"
 along Highway 2 of: VISIT SOMEWHERE NEW
-mountain of:
+mountain in:
   - King County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Washington

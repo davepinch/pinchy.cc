@@ -1,6 +1,6 @@
 ---
 title: "Del Campo Peak"
-mountain of:
+mountain in:
   - Morning Star Natural Resources Conservation Area
   - Snohomish County, Washington
   - Washington

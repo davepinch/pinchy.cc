@@ -1,6 +1,6 @@
 ---
 title: "Garfield Mountain"
-mountain of:
+mountain in:
   - Alpine Lakes Wilderness
   - King County, Washington
   - Mount Baker–Snoqualmie National Forest

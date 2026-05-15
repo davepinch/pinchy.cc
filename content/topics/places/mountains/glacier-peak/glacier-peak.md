@@ -1,6 +1,6 @@
 ---
 title: "Glacier Peak"
-mountain of:
+mountain in:
   - Snohomish County, Washington
   - Glacier Peak Wilderness
   - Mount Baker–Snoqualmie National Forest

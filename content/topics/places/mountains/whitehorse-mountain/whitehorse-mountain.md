@@ -1,6 +1,6 @@
 ---
 title: "Whitehorse Mountain"
-mountain of:
+mountain in:
   - Snohomish County, Washington
   - Boulder River Wilderness
   - Mount Baker–Snoqualmie National Forest

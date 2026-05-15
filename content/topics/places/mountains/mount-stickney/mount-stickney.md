@@ -1,6 +1,6 @@
 ---
 title: "Mount Stickney"
-mountain of:
+mountain in:
   - Snohomish County, Washington
   - Wild Sky Wilderness
   - Mount Baker–Snoqualmie National Forest

@@ -1,6 +1,6 @@
 ---
 title: "Steens Mountain"
-mountain of:
+mountain in:
   - Oregon
   - Pacific Northwest
   - United States

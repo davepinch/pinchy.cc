@@ -1,6 +1,6 @@
 ---
 title: "Kaleetan Peak"
-mountain of:
+mountain in:
   - Cascade Range
   - King County, Washington
   - Alpine Lakes Wilderness

@@ -1,7 +1,7 @@
 ---
 title: "Hoypus Hill"
 mapcarta: "https://mapcarta.com/23941436"
-mountain of:
+mountain in:
   - Deception Pass State Park
   - Whidbey Island
   - Island County, Washington

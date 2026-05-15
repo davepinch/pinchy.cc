@@ -1,6 +1,6 @@
 ---
 title: "Vesper Peak"
-mountain of:
+mountain in:
   - Mount Baker–Snoqualmie National Forest
   - Snohomish County, Washington
   - Washington

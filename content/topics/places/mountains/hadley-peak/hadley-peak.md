@@ -1,6 +1,6 @@
 ---
 title: "Hadley Peak"
-mountain of:
+mountain in:
   - Whatcom County, Washington
   - Washington
   - Cascade Range

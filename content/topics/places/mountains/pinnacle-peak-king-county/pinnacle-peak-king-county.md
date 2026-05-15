@@ -1,7 +1,7 @@
 ---
 title: "Pinnacle Peak (King County, Washington)"
 also known as: Mount Peak
-mountain of:
+mountain in:
   - Enumclaw, Washington
   - King County, Washington
   - Washington

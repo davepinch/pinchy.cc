@@ -1,6 +1,6 @@
 ---
 title: "Low Mountain"
-mountain of:
+mountain in:
   - King County, Washington
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest
@@ -8,7 +8,7 @@ mountain of:
   - Pacific Northwest
   - Cascade Range
   - United States
-near: Denny Mountain
+vicinity to: Denny Mountain
 openstreetmap: "https://www.openstreetmap.org/node/349018484"
 vicinity of: Snoqualmie Pass
 wikidata: "https://www.wikidata.org/wiki/Q49047039"

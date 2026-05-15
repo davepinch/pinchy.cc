@@ -1,6 +1,6 @@
 ---
 title: "Mount Stuart"
-mountain of:
+mountain in:
   - Stuart Range
   - Chelan County, Washington
   - Alpine Lakes Wilderness

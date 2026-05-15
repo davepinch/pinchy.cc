@@ -1,6 +1,6 @@
 ---
 title: "Merchant Peak"
-mountain of:
+mountain in:
   - Wild Sky Wilderness
   - Mount Baker–Snoqualmie National Forest
   - Snohomish County, Washington

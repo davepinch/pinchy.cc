@@ -1,6 +1,6 @@
 ---
 title: "Mount Olympus"
-mountain of:
+mountain in:
   - Olympic Mountains
   - Olympic National Park
   - Olympic Peninsula

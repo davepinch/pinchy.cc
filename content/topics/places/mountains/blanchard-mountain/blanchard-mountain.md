@@ -1,6 +1,6 @@
 ---
 title: "Blanchard Mountain"
-mountain of:
+mountain in:
   - Chuckanut Mountains
   - Skagit County, Washington
   - Washington

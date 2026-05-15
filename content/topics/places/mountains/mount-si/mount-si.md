@@ -1,6 +1,6 @@
 ---
 title: "Mount Si"
-mountain of:
+mountain in:
   - North Bend, Washington
   - King County, Washington
   - Mount Si Natural Resources Conservation Area

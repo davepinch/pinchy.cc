@@ -1,12 +1,12 @@
 ---
 title: "Liberty Bell Mountain"
-mountain of:
+mountain in:
   - Liberty Bell Group
   - Cascade Range
   - Washington
   - Chelan County, Washington
   - Okanogan County, Washington
-  - liberty
+mountain of: liberty
 not to be confused with: Liberty Mountain
 openstreetmap: "https://www.openstreetmap.org/node/356545624"
 vicinity of: Washington State Route 20

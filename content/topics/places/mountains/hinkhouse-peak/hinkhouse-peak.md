@@ -1,6 +1,6 @@
 ---
 title: "Hinkhouse Peak"
-mountain of:
+mountain in:
   - Okanogan County, Washington
   - Okanogan–Wenatchee National Forest
   - Washington

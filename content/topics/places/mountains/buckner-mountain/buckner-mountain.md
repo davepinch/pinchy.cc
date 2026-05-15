@@ -1,6 +1,6 @@
 ---
 title: "Buckner Mountain"
-mountain of:
+mountain in:
   - Chelan County, Washington
   - Skagit County, Washington
   - North Cascades National Park

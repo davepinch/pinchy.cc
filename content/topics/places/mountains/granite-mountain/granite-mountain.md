@@ -1,6 +1,6 @@
 ---
 title: "Granite Mountain"
-mountain of:
+mountain in:
   - King County, Washington
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest

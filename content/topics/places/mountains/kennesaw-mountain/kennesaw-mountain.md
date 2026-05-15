@@ -1,6 +1,6 @@
 ---
 title: "Kennesaw Mountain"
-mountain of:
+mountain in:
   - Cobb County, Georgia
   - Georgia
   - United States

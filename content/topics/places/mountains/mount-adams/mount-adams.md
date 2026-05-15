@@ -1,6 +1,6 @@
 ---
 title: "Mount Adams"
-mountain of:
+mountain in:
   - Yakima County, Washington
   - Washington
   - Cascade Range

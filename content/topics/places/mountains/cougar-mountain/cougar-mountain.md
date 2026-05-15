@@ -1,6 +1,6 @@
 ---
 title: "Cougar Mountain"
-mountain of:
+mountain in:
   - Cougar Mountain Regional Wildland Park
   - Issaquah Alps
   - King County, Washington

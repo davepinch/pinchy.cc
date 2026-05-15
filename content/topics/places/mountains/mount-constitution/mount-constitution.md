@@ -1,6 +1,6 @@
 ---
 title: "Mount Constitution"
-mountain of:
+mountain in:
   - Moran State Park
   - Orcas Island
   - San Juan Islands

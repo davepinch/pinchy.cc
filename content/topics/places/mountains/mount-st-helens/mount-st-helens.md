@@ -1,6 +1,6 @@
 ---
 title: "Mount St. Helens"
-mountain of:
+mountain in:
   - Mount Saint Helens National Volcanic Monument
   - Skamania County, Washington
   - Gifford Pinchot National Forest

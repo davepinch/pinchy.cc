@@ -1,6 +1,6 @@
 ---
 title: "Mount Rainier"
-mountain of:
+mountain in:
   - Mount Rainier National Park
   - Mount Rainier Wilderness
   - Pierce County, Washington

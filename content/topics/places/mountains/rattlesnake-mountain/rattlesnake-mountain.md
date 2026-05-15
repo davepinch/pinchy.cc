@@ -1,6 +1,6 @@
 ---
 title: "Rattlesnake Mountain"
-mountain of:
+mountain in:
   - Raging River State Forest
   - Issaquah Alps
   - King County, Washington

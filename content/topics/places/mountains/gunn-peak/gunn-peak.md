@@ -1,6 +1,6 @@
 ---
 title: "Gunn Peak"
-mountain of:
+mountain in:
   - Wild Sky Wilderness
   - Snohomish County, Washington
   - Mount Baker–Snoqualmie National Forest

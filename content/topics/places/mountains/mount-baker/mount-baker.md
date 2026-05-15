@@ -1,6 +1,6 @@
 ---
 title: "Mount Baker"
-mountain of:
+mountain in:
   - Whatcom County, Washington
   - Mount Baker National Recreation Area
   - Mount Baker Wilderness

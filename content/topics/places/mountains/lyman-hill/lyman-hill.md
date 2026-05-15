@@ -1,6 +1,6 @@
 ---
 title: "Lyman Hill"
-mountain of:
+mountain in:
   - Skagit Range
   - Skagit County, Washington
   - Washington

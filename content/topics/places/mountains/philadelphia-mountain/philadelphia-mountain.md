@@ -1,6 +1,6 @@
 ---
 title: "Philadelphia Mountain"
-mountain of:
+mountain in:
   - Snohomish County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Washington

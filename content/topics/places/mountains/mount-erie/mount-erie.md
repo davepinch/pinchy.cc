@@ -1,6 +1,6 @@
 ---
 title: "Mount Erie"
-mountain of:
+mountain in:
   - Anacortes, Washington
   - Fidalgo Island
   - Skagit County, Washington

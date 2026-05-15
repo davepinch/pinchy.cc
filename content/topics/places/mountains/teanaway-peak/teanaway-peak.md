@@ -1,6 +1,6 @@
 ---
 title: "Teanaway Peak"
-mountain of:
+mountain in:
   - Wenatchee Mountains
   - Cascade Range
   - Kittitas County, Washington

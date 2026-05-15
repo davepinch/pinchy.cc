@@ -1,7 +1,7 @@
 ---
 title: "Squak Mountain"
 found dead here: Alena Stathopoulos
-mountain of:
+mountain in:
   - Squak Mountain State Park
   - Issaquah Alps
   - King County, Washington

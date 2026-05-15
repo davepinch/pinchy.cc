@@ -1,7 +1,7 @@
 ---
 title: "Taylor Mountain"
 dump site of: Ted Bundy
-mountain of:
+mountain in:
   - Issaquah Alps
   - Raging River State Forest
   - King County, Washington

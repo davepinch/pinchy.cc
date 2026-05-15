@@ -1,6 +1,6 @@
 ---
 title: "Silvertip Peak"
-mountain of:
+mountain in:
   - Snohomish County, Washington
   - Henry M. Jackson Wilderness
   - Mount Baker–Snoqualmie National Forest

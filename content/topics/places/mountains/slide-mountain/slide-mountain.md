@@ -1,6 +1,6 @@
 ---
 title: "Slide Mountain"
-mountain of:
+mountain in:
   - Whatcom County, Washington
   - Pacific Northwest
   - Cascade Range

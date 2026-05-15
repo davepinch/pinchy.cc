@@ -1,7 +1,7 @@
 ---
 title: "Mount Shuksan"
 also made of greenschist: Oyster Dome
-mountain of:
+mountain in:
   - Whatcom County, Washington
   - North Cascades National Park
   - Stephen Mather Wilderness
