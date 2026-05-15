@@ -6,5 +6,6 @@ from a parking lot of:
   - Lewis Slough
   - Stanley Peninsula
   - Naselle River
+  - Willapa National Wildlife Refuge
 when: 2026-05-14
 ---
