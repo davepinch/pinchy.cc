@@ -4,7 +4,7 @@ adjacent to:
   - Olympic Experimental State Forest
   - Daniel J. Evans Wilderness
   - Olympic National Park
-conversation area in:
+conservation area in:
   - Jefferson County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
