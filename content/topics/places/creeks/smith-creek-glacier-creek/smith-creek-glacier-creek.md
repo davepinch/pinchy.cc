@@ -1,5 +1,5 @@
 ---
-title: "Smith Creek"
+title: "Smith Creek (Glacier Creek tributary)"
 creek in:
   - Mount Baker Wilderness
   - Mount Baker–Snoqualmie National Forest
