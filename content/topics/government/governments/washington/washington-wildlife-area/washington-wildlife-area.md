@@ -3,6 +3,7 @@ title: "Washington Wildlife Area"
 subclass of: wildlife area
 tag requires property:
   - official website
+  - wildlife area in
   - wildlife area of
 type of protected area of:
   - Washington Department of Fish and Wildlife
