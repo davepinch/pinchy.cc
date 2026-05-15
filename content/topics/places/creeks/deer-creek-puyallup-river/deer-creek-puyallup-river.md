@@ -6,7 +6,7 @@ creek in:
   - Washington
 disambiguation of: Deer Creek
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1518602"
-openstreeetmap: "https://www.openstreetmap.org/relation/13639467"
+openstreetmap: "https://www.openstreetmap.org/relation/13639467"
 tributary of: Puyallup River
 vicinity to:
   - Glacier View Wilderness
