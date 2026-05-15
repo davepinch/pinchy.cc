@@ -7,6 +7,7 @@ conservation area in:
   - Pacific County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
+namesake of: Teal Slough
 openstreetmap: "https://www.openstreetmap.org/way/754975708"
 vicinity to: Stanley Peninsula
 wikidata: "https://www.wikidata.org/wiki/Q104664449"
