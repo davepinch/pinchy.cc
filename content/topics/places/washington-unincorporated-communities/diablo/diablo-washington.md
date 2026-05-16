@@ -1,9 +1,9 @@
 ---
 title: "Diablo, Washington"
-unincorporated community of:
+unincorporated community in:
   - Whatcom County, Washington
   - Washington
-  - Skagit River
+unincorporated community of: Skagit River
 tags:
   - unincorporated community
 ---

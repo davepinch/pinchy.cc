@@ -3,7 +3,7 @@ title: "Bucoda, Washington"
 census profile: "https://data.census.gov/profile/Bucoda_town,_Washington?g=160XX00US5308605"
 official website: "https://bucoda.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/238006"
-town of:
+town in:
   - Thurston County, Washington
   - Washington
 vicinity to: Tenino, Washington

@@ -6,9 +6,10 @@ adjacent to:
   - Clyde Hill, Washington
   - Medina, Washington
 census profile: "https://data.census.gov/profile/Hunts_Point_town,_Washington?g=160XX00US5332755"
-town of:
+town in:
   - King County, Washington
   - Washington
+town of:
   - Lake Washington
   - Washington State Route 520
 openstreetmap: "https://www.openstreetmap.org/relation/237351"

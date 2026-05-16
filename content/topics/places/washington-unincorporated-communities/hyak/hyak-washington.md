@@ -1,8 +1,9 @@
 ---
 title: "Hyak, Washington"
-unincorporated community of:
+unincorporated community in:
   - Kittitas County, Washington
   - Washington
+unincorporated community of:
   - Snoqualmie Pass
   - Interstate 90
 tags:

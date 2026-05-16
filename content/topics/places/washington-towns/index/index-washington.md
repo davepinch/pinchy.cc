@@ -4,7 +4,7 @@ census profile: "https://data.census.gov/profile/Index_town,_Washington?g=160XX0
 town in:
   - Snohomish County, Washington
   - Washington
-  - Skykomish River
+town of: Skykomish River
 vicinity to:
   - Baring, Washington
   - May Creek, Washington

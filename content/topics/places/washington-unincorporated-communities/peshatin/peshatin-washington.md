@@ -1,8 +1,9 @@
 ---
 title: "Peshatin, Washington"
-unincorporated community of:
+unincorporated community in:
   - Chelan County, Washington
   - Washington
+unincorporated community of:
   - BNSF Scenic Subdivision
   - Wenatchee River
 tags:

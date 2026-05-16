@@ -4,7 +4,7 @@ note: This community was listed on an 1867 nautical chart and has a small Wikipe
 openstreetmap: "https://www.openstreetmap.org/?mlat=48.232778&mlon=-122.735833"
 TODO: >-
   Review the Coveland entry in *Place Names of Washington*, a book that can be borrowed from the Internet Archive. Coveland is on page 58, see https://archive.org/details/placenamesofwash0000hitc/page/58/mode/2up
-unincorporated community of:
+unincorporated community in:
   - Penn Cove
   - Whidbey Island
   - Island County, Washington

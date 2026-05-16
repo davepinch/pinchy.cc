@@ -3,7 +3,7 @@ title: "Boston Harbor, Washington"
 disambiguation of: Boston Harbor
 namesake of: Boston Harbor (Washington)
 openstreetmap: "https://www.openstreetmap.org/node/150950047"
-unincorporated community of:
+unincorporated community in:
   - Thurston County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q720011"

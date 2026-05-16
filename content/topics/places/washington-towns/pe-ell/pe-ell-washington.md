@@ -1,12 +1,12 @@
 ---
 title: "Pe Ell, Washington"
-city of:
+town in:
   - Lewis County, Washington
   - Washington
-  - Chehalis River
+town of: Chehalis River
 openstreetmap: "https://www.openstreetmap.org/node/132620071"
 wikidata: "https://www.wikidata.org/wiki/Q1505719"
 wikipedia: "https://en.wikipedia.org/wiki/Pe_Ell,_Washington"
 tags:
-  - city
+  - town
 ---

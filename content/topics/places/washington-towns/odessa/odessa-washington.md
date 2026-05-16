@@ -2,7 +2,7 @@
 title: "Odessa, Washington"
 namesake of: Odesa, Ukraine
 openstreetmap: "https://www.openstreetmap.org/relation/238022"
-town of:
+town in:
   - Lincoln County, Washington
   - Channeled Scablands
   - Washington

@@ -2,7 +2,7 @@
 title: "Milltown, Washington"
 description: "Milltown is an old settlement just south of Conway in Skagit County, Washington."
 openstreetmap: "https://www.openstreetmap.org/node/150960103"
-unincorporated community of:
+unincorporated community in:
   - Skagit County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q111912041"
