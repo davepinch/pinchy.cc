@@ -9,6 +9,7 @@ river in:
   - Winthrop, Washington
   - Okanogan County, Washington
   - Washington
+openstreetmap: "https://www.openstreetmap.org/way/365423174"
 tributary of: Methow River
 vicinity to: Pearrygin Lake State Park
 wikidata: "https://www.wikidata.org/wiki/Q5094547"
