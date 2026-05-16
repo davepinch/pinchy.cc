@@ -26,6 +26,9 @@ vicinity to:
   - Pateros Wildlife Area Unit
   - Tenas Mountain
   - Texas Wildlife Area Unit
+wikidata: "https://www.wikidata.org/wiki/Q6823896"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Methow,_Washington"
+wikipedia: "https://en.wikipedia.org/wiki/Methow,_Washington"
 tags:
   - census-designated place
 ---
