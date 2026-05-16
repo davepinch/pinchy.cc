@@ -2,6 +2,7 @@
 title: "Klickitat River"
 openstreetmap: "https://www.openstreetmap.org/relation/6113161"
 river in:
+  - Klickitat Canyon Natural Resources Conservation Area
   - Klickitat County, Washington
   - Yakima County, Washington
   - Washington
