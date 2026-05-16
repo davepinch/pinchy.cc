@@ -14,7 +14,7 @@ conservation area in:
   - Cascade Range
 conservation area of:
   - Washington Department of Natural Resources
-  - Middle Fork Snoqualmie Natural Resources Conservation Area
+  - Middle Fork Snoqualmie River
 namesake of: Middle Fork Snoqualmie River
 note: >-
   Interstate 90 tends to form the southern boundary of this conservation area. However, there is a short segments in which the highway is entirely contained in the conservation area. The same occurs with the western border with the Middle Fork Snoqualmie River. The river tends to define the border, but at points may be contained entirely in the conservation area. It is not clear whether this is intentional or a result of the meandering river.
