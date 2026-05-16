@@ -1,6 +1,7 @@
 ---
-title: "Lake Louise"
+title: "Lake Louise (Pierce County)"
 boat launch (Google Streetview): "https://maps.app.goo.gl/BzKMpFiyotHWbKNg6"
+disambiguation of: Lake Louise
 lake in:
   - Lakewood, Washington
   - Pierce County, Washington

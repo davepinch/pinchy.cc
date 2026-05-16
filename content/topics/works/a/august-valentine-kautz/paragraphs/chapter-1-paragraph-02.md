@@ -8,7 +8,7 @@ author: August Valentine Kautz
 chapter: 1
 lakes in vicinity:
   - Waughop Lake
-  - Lake Louise
+  - Lake Louise (Pierce County)
   - Lake Steilacoom
 mention of:
   - Mount Rainier
