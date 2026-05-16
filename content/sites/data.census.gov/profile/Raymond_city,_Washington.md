@@ -8,7 +8,7 @@ excerpt: >-
 license: public domain
 retrieved: 2026-05-16
 type: website
-url: Raymond_city,_Washington/g=160XX00US5357430/
+url: /Raymond_city,_Washington/g=160XX00US5357430/
 website: "https://data.census.gov/profile/Raymond_city,_Washington?g=160XX00US5357430"
 tags:
   - website
