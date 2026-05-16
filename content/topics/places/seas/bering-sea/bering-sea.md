@@ -9,7 +9,6 @@ sea in:
   - Russia
   - Alaska
   - United States
-  - Bering Sea
   - Pacific Ocean
 wikidata: "https://www.wikidata.org/wiki/Q44725"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bering_Sea"
