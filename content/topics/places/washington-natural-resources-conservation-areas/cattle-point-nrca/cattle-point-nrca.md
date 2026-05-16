@@ -12,6 +12,7 @@ conservation area in:
   - San Juan County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
+namesake of: Cattle Point
 openstreetmap: "https://www.openstreetmap.org/relation/10424597"
 wikidata: "https://www.wikidata.org/wiki/Q114270534"
 tags:
