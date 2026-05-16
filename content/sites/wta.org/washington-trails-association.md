@@ -1,6 +1,10 @@
 ---
 title: "Washington Trails Association"
 excerpt: "Washington Trails Association is on a mission to connect everyone to the outdoors and build a community that gives back to trails and public lands."
+hiking guide of:
+  - Washington
+  - Pacific Northwest
+  - West Coast of the United States
 tag requires property:
   - excerpt
   - retrieved
