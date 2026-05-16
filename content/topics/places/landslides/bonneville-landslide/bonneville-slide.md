@@ -6,6 +6,7 @@ landslide in:
   - Skamania County, Washington
   - Washington
 landslide of: Columbia River
+namesake of: Bonneville, Oregon
 vicinity to: Stevenson, Washington
 tags:
   - landslide
