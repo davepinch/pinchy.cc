@@ -4,7 +4,7 @@ river in:
   - Pasayten Wilderness
   - Okanogan–Wenatchee National Forest
   - Chewuch River Research Natural Area
-  - Methow Wilderness Area Unit
+  - Methow Wildlife Area Unit
   - Rendezvous Wildlife Area Unit
   - Winthrop, Washington
   - Okanogan County, Washington
