@@ -11,7 +11,7 @@ sea in:
   - Mediterranean Sea
   - France
   - Italy
-  - Monaca
+  - Monaco
 wikidata: "https://www.wikidata.org/wiki/Q42820"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ligurian_Sea"
 wikipedia: "https://en.wikipedia.org/wiki/Ligurian_Sea"
