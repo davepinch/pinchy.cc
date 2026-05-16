@@ -7,7 +7,7 @@ river in:
   - Wahkiakum County, Washington
   - Washington
 tributary of:
-  - Grays Bay
+  - Grays Bay (Columbia River)
   - Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q49892008"
 tags:
