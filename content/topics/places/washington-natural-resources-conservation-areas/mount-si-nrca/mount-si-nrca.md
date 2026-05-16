@@ -16,6 +16,7 @@ conservation area in:
 conservation area of:
   - Washington Department of Natural Resources
   - Mount Si
+namesake of: Mount Si
 openstreetmap: "https://www.openstreetmap.org/relation/295846"
 vicinity to:
   - Lake Philippa
