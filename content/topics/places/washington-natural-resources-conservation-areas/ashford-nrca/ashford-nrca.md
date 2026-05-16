@@ -7,6 +7,7 @@ conservation area in:
   - Pierce County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
+namesake of: Ashford, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/13621800"
 vicinity to: Ashford, Washington
 wikidata: "https://www.wikidata.org/wiki/Q110467496"
