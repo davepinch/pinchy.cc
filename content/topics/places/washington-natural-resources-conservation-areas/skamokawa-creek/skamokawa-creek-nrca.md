@@ -1,6 +1,7 @@
 ---
 title: "Skamokawa Creek Natural Resources Conservation Area"
 conservation area in:
+  - Skamokawa Valley, Washington
   - Wahkiakum County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
