@@ -8,6 +8,7 @@ conservation area in:
   - Grays Harbor, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
+namesake of: Elk River
 openstreetmap: "https://www.openstreetmap.org/relation/9768190"
 vicinity to:
   - Aberdeen, Washington
