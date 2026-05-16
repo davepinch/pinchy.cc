@@ -5,7 +5,7 @@ adjacent to:
   - Elk River Wildlife Area Unit
 conservation area in:
   - Sopun Inlet
-  - Grays Harbor, Washington
+  - Grays Harbor County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
 namesake of: Elk River
