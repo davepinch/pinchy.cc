@@ -6,6 +6,7 @@ census-designated place in:
   - Kitsap Peninsula
   - Washington
 census-designated place of: United States Census Bureau
+disambiguation of: Kingston
 openstreetmap: "https://www.openstreetmap.org/node/111236199"
 wikidata: "https://www.wikidata.org/entity/Q1511364"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kingston,_Washington"
