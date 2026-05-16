@@ -7,7 +7,7 @@ conservation area in:
   - Yakima County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
-namespace of: Klickitat Canyon
+namesake of: Klickitat Canyon
 openstreetmap: "https://www.openstreetmap.org/relation/10382790"
 wikidata: "https://www.wikidata.org/wiki/Q114244602"
 tags:
