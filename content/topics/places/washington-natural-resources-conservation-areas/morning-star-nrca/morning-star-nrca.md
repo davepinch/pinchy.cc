@@ -9,6 +9,7 @@ conservation area in:
   - Snohomish County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
+namesake of: Morning Star Peak
 openstreetmap: "https://www.openstreetmap.org/relation/9166983"
 wikidata: "https://www.wikidata.org/wiki/Q114348264"
 tags:
