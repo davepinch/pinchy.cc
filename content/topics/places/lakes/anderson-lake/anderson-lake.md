@@ -6,7 +6,7 @@ creek in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/179911699"
-tributary of: Deer Creek (Chinook Creek)
+tributary of: Deer Creek (Chinook Creek tributary)
 vicinity to:
   - Mount Rainier
   - Pacific Crest Trail
