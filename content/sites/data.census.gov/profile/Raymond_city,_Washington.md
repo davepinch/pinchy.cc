@@ -1,5 +1,6 @@
 ---
 title: "Raymond city, Washington (data.census.gov)"
+adjacent to: South Bend city, Washington (data.census.gov)
 census profile of: Raymond, Washington
 city of: Census Bureau Data (data.census.gov)
 excerpt: >-
