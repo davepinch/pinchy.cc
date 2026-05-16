@@ -4,6 +4,7 @@ census-designated place in:
   - Skagit County, Washington
   - Washington
 census-designated place of:
+  - United States Census Bureau
   - Washington State Route 9
 openstreetmap: "https://www.openstreetmap.org/relation/237330"
 wikidata: "https://www.wikidata.org/wiki/Q1509489"
