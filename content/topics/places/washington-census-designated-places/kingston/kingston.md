@@ -5,6 +5,7 @@ census-designated place in:
   - Kitsap County, Washington
   - Kitsap Peninsula
   - Washington
+census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/node/111236199"
 wikidata: "https://www.wikidata.org/entity/Q1511364"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kingston,_Washington"
