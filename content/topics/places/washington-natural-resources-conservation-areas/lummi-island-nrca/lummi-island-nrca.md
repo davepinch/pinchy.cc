@@ -13,6 +13,7 @@ conservation area in:
   - Whatcom County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
+namesake of: Lummi Island
 note: >-
   Most of the boundaries are inside Lummi Island but there is an odd segment on the east side that covers part of Reil Harbor and Bellingham Bay (see OpenStreetMap). Hence the conservation area is both adjacent and within these two bodies of water.
 openstreetmap: "https://www.openstreetmap.org/relation/10429704"
