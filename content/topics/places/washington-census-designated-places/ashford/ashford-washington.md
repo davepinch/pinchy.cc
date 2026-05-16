@@ -12,7 +12,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/18370055"
 wikidata: "https://www.wikidata.org/wiki/Q1508024"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ashford,_Washington"
 wikipedia: "https://en.wikipedia.org/wiki/Ashford,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/Ashford_(Washington)"
 tags:
   - census-designated place
 ---
