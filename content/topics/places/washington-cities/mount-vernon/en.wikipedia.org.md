@@ -1,9 +1,9 @@
 ---
 title: "Mount Vernon, Washington (Wikipedia)"
 excerpt: >-
-  **Mount Vernon** is the county seat of [Skagit County](/en.wikipedia.org/wiki/Skagit_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)), [United States](/en.wikipedia.org/wiki/United_States/). The population was 35,219 at the 2020 census. It is one of two principal cities of and included in the Mount Vernon-Anacortes, Washington Metropolitan Statistical Area. Downtown Mount Vernon is known for its annual Tulip Festival Street Fair, which is part of the Skagit Valley Tulip Festival. The climate of Skagit County is similar to that of Northern France, with millions of tulips grown in the Skagit Valley. In 1998, Mount Vernon was rated the #1 "Best City in America" by the New Rating Guide to Life in America's Small Cities.
+  **Mount Vernon** is the county seat of and the most populous city in Skagit County, Washington, United States. A central location in the Skagit River Valley, the city is located 51 miles (82 km) south of the Canadian border and 60 miles (97 km) north of Seattle. The population was 35,219 at the 2020 census, making it the 35th most-populous city in Washington, with 62,966 people living in its urban area. It is one of two principal cities of and included in the Mount Vernon-Anacortes Metropolitan Statistical Area, covering most of Skagit County.
 license: CC BY-SA 4.0
-retrieved: 2023-12-25
+retrieved: 2026-05-16
 type: website
 url: /en.wikipedia.org/wiki/Mount_Vernon,_Washington/
 website: "https://en.wikipedia.org/wiki/Mount_Vernon,_Washington"
