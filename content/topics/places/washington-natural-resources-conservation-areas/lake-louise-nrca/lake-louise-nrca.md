@@ -6,6 +6,7 @@ conservation area in:
   - Whatcom County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
+namesake of: Lake Louise (Whatcom County)
 openstreetmap: "https://www.openstreetmap.org/relation/14641945"
 vicinity to:
   - Lake Whatcom
