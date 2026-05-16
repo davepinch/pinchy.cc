@@ -5,6 +5,7 @@ conservation area in:
   - Pacific County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
+namesake of: South Nemah River
 openstreetmap: "https://www.openstreetmap.org/relation/14634666"
 vicinity to:
   - Naselle River
