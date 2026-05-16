@@ -4,6 +4,7 @@ conservation area in:
   - Pacific County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
+namesake of: Ellsworth Creek
 openstreetmap: "https://www.openstreetmap.org/relation/14634646"
 vicinity to: Naselle River
 wikidata: "https://www.wikidata.org/wiki/Q104661470"
