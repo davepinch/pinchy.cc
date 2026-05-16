@@ -1,5 +1,5 @@
 ---
-title: "Falls Creek (Middle Fork Nooksack River)"
+title: "Falls Creek (Middle Fork Nooksack River tributary)"
 creek in:
   - Whatcom County, Washington
   - Washington
