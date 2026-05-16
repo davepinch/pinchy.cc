@@ -10,6 +10,7 @@ conservation area in:
 conservation area of:
   - Washington Department of Natural Resources
   - Hood Canal
+namesake of: Stavis Creek
 note: The Washington website uses Resources in plural; the Wikidata entry uses Resource in singular.
 openstreetmap: "https://www.openstreetmap.org/relation/10345154"
 wikidata: "https://www.wikidata.org/wiki/Q114239999"
