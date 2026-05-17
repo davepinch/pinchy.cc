@@ -6,7 +6,7 @@ borders:
   - Vancouver Island
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/13321885"
-strait of: Salish Sea
+strait in: Salish Sea
 see also: Strait of Juan de Fuca
 wikidata: "https://www.wikidata.org/wiki/Q2258"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Strait_of_Georgia"
