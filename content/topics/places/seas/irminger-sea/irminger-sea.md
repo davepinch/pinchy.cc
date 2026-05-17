@@ -10,7 +10,6 @@ sea of:
   - Iceland
 wikidata: "https://www.wikidata.org/wiki/Q1542675"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Irminger_Sea"
-wikipedia: "https://en.wikipedia.org/wiki/Irminger_Sea"
 tags:
   - sea
 ---
