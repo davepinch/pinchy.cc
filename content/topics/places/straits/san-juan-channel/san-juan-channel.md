@@ -1,7 +1,7 @@
 ---
 title: "San Juan Channel"
 openstreetmap: "https://www.openstreetmap.org/relation/13320969"
-strait of:
+strait in:
   - Salish Sea
   - San Juan County, Washington
   - Washington
