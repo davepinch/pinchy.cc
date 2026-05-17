@@ -2,7 +2,7 @@
 title: "Little Skookum Inlet"
 bay in:
   - Mason County, Washington
-  - Washingotn
+  - Washington
 bay of: Olympic Peninsula
 connects to:
   - Deer Harbor
