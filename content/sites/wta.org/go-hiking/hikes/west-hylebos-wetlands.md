@@ -7,7 +7,7 @@ type: website
 url: /www.wta.org/go-hiking/hikes/west-hylebos-wetlands/
 website: "https://www.wta.org/go-hiking/hikes/west-hylebos-wetlands"
 washington trails association of:
-  - West Hylebos Wetlands Park
+  - West Hylebos Wetlands
   - Federal Way, Washington
   - King County, Washington
 tags:

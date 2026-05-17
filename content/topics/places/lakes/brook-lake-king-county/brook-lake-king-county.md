@@ -2,7 +2,7 @@
 title: "Brook Lake (King County)"
 disambiguation of: Brook Lake
 lake in:
-  - West Hylebos Wetlands Park
+  - West Hylebos Wetlands
   - Federal Way, Washington
   - King County, Washington
   - Washington
