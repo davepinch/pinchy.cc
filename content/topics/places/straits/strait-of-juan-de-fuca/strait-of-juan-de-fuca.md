@@ -6,7 +6,13 @@ adjacent to:
   - Canada
   - Olympic Peninsula
   - United States
-connects to: Pacific Ocean
+connects to:
+  - Pacific Ocean
+  - Haro Strait
+  - Inner Passage
+  - Rosario Strait
+  - Admiralty Inlet
+  - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/13321590"
 strait in:
   - Salish Sea
