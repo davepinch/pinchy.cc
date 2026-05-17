@@ -9,7 +9,6 @@ lake in:
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/11780924"
 wikidata: "https://www.wikidata.org/wiki/Q49308544"
-wikipedia: "https://en.wikipedia.org/wiki/Pratt_Lake_(Washington)"
 tags:
   - lake
   - no Wikimedia category
