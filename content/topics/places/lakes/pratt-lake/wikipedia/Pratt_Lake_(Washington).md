@@ -7,6 +7,7 @@ retrieved: 2026-05-17
 type: website
 url: /en.wikipedia.org/wiki/Pratt_Lake_(Washington)/
 website: "https://en.wikipedia.org/wiki/Pratt_Lake_(Washington)"
+wikipedia of: Pratt Lake
 tags:
   - Wikipedia
 ---
