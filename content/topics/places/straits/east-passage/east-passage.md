@@ -1,7 +1,13 @@
 ---
 title: "East Passage"
+connects to:
+  - Puget Sound
+  - Tramp Harbor
+  - Poverty Bay
+  - Dalco Passage
+  - Quartermaster Harbor
 openstreetmap: "https://www.openstreetmap.org/relation/13312839"
-strait of:
+strait in:
   - Puget Sound
   - King County, Washington
   - Pierce County, Washington
