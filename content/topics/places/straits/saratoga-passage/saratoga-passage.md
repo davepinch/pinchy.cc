@@ -1,5 +1,8 @@
 ---
 title: "Saratoga Passage"
+connects to:
+  - Skagit Bay
+  - Possession Sound
 openstreetmap: "https://www.openstreetmap.org/relation/13317059"
 strait in: Salish Sea
 strait of:
