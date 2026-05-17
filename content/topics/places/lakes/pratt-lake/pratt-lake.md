@@ -8,6 +8,7 @@ lake in:
   - Washington
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/11780924"
+vicinity to: Pratt Mountain
 wikidata: "https://www.wikidata.org/wiki/Q49308544"
 tags:
   - lake
