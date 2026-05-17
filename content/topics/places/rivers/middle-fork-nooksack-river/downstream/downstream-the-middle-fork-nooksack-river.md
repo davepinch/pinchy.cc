@@ -14,7 +14,7 @@ sequence:
   - Sister Creek
   - Galbraith Creek
   - Clearwater Creek
-  - Falls Creek (Middle Fork Nooksack River)
+  - Falls Creek (Middle Fork Nooksack River tributary)
   - Heislers Creek
   - Mosquito Lake Road
   - Porter Creek
