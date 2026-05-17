@@ -1,5 +1,12 @@
 ---
 title: "Haro Strait"
+connects to:
+  - Boundary Pass
+  - San Juan Channel
+  - Mosquito Bay
+  - Plumper Passage
+  - Strait of Juan de Fuca
+  - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/13321589"
 strait in:
   - Salish Sea
