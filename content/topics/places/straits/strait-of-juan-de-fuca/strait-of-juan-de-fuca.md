@@ -6,12 +6,10 @@ adjacent to:
   - Canada
   - Olympic Peninsula
   - United States
-connects to:
-  - Pacific Ocean
-  - Salish Sea
-  - incomplete list
+connects to: Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/13321590"
 strait in:
+  - Salish Sea
   - Clallam County, Washington
   - Island County, Washington
   - Jefferson County, Washington
