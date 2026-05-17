@@ -11,4 +11,6 @@ vicinity to: Westport Light State Park
 wikidata: "https://www.wikidata.org/wiki/Q49392606"
 tags:
   - bay
+  - no Wikimedia category
+  - no Wikipedia article
 ---
