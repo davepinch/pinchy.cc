@@ -10,6 +10,7 @@ note: >-
   There are multiple creeks with the name Falls Creek in Washington, two of which are in Whatcom County. This record refers to the tributary of the Middle Fork Nooksack River. There is another Falls Creek in Whatcom County that ultimately drains into the North Fork Nooksack River.
 openstreetmap: "https://www.openstreetmap.org/way/1302395152"
 tributary of: Middle Fork Nooksack River
+wikidata: "https://www.wikidata.org/wiki/Q49908627"
 tags:
   - creek
 ---
