@@ -1,8 +1,8 @@
 ---
 title: "Denmark Strait"
-connects:
+connects to:
   - Greenland Sea
-  - Atlantic Ocean
+  - Irminger Sea
 strait in:
   - Atlantic Ocean
   - Denmark
