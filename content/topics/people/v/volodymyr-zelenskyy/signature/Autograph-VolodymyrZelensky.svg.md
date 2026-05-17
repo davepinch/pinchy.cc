@@ -5,6 +5,7 @@ license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/2/2c/Autograph-VolodymyrZelensky.svg"
 signature of:
   - Volodymyr Zelenskyy
+  - Volodymyr Zelenskyy (Wikipedia)
   - SVG
 type: picture
 url: /commons.wikimedia.org/wiki/Autograph-VolodymyrZelensky.svg/
