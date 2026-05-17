@@ -1,7 +1,9 @@
 ---
 title: "Glacier Creek (North Fork Nooksack River tributary)"
 creek in:
+  - Mount Baker Wilderness
   - Whatcom County, Washington
+  - Mount Baker–Snoqualmie National Forest
   - Washington
   - Cascade Range
 openstreetmap:
