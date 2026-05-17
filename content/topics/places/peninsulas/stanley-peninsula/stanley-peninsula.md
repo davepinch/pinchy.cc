@@ -1,14 +1,14 @@
 ---
 title: "Stanley Peninsula"
-adjacent to:
+gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1508690"
+peninsula in:
+  - Pacific County, Washington
+  - Washington
+peninsula of:
+  - Willapa Bay
   - Chetlo Harbor
   - Naselle River
   - Long Island Slough
-gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1508690"
-peninsula in:
-  - Willapa Bay
-  - Pacific County, Washington
-  - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/20403565"
 vicinity to:
   - Teal Slough Natural Resources Conservation Area
