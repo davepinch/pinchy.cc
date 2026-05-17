@@ -1,6 +1,8 @@
 ---
 title: "SCUM manifesto, page 1, Life by Valerie Solanas (Wikiquote)"
 attribution: Valerie Solanas, *SCUM MANIFEST* (1967)
+citation: >-
+  Valerie Solanas. (2026, February 1). *Wikiquote*. Retrieved May 17, 2026, from https://en.wikiquote.org/w/index.php?title=Valerie_Solanas&oldid=3886697.
 elimination of: male
 life of: Valerie Solanas
 overthrow the government of: female
