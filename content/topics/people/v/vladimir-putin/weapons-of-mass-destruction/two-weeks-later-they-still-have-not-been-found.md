@@ -3,6 +3,7 @@ title: "Two weeks later they still have not been found. The question is, where i
 attribution: "Press conference regarding weapons of mass destruction of Iraq (May 1, 2003)"
 citation: >-
   Vladimir Putin. (2024, October 23). *Wikiquote*. Retrieved 08:32, November 19, 2024 from https://en.wikiquote.org/w/index.php?title=Vladimir_Putin&oldid=3603126.
+quote of: Vladimir Putin (Wikiquote)
 type: quote
 weapons of mass destruction of: Vladimir Putin
 when: 2003-05-01

@@ -3,6 +3,7 @@ title: "Russia does not have in its possession any trustworthy data which would 
 attribution: "Vladimir Putin with British Prime Minister Tony Blair (Oct 2002)"
 citation: >-
   Vladimir Putin. (2024, October 23). *Wikiquote*. Retrieved 08:32, November 19, 2024 from https://en.wikiquote.org/w/index.php?title=Vladimir_Putin&oldid=3603126.
+quote of: Vladimir Putin (Wikiquote)
 type: quote
 weapons of mass destruction of: Vladimir Putin
 when: 2002-10-11

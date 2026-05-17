@@ -4,6 +4,7 @@ attribution: "Vladimir Putin (17 June 2022)"
 citation: >-
   Vladimir Putin. (2024, October 23). *Wikiquote*. Retrieved 08:32, November 19, 2024 from https://en.wikiquote.org/w/index.php?title=Vladimir_Putin&oldid=3603126.
 post cold war of: Vladimir Putin
+quote of: Vladimir Putin (Wikiquote)
 type: quote
 when: 2022-06-17
 tags:
