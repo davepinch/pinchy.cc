@@ -1,5 +1,12 @@
 ---
 title: "Hudson Strait"
+connects to:
+  - Foxe Channel
+  - Atlantic Ocean
+  - Hudson Bay
+  - Fisher Strait
+  - Ne Ultra Strait
+  - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/9441238"
 strait in:
   - Labrador Sea
