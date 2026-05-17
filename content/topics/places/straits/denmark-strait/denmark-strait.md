@@ -1,6 +1,9 @@
 ---
 title: "Denmark Strait"
-strait of:
+connects:
+  - Greenland Sea
+  - Atlantic Ocean
+strait in:
   - Atlantic Ocean
   - Denmark
   - Greenland

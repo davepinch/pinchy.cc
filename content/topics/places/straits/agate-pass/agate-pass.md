@@ -1,10 +1,16 @@
 ---
 title: "Agate Pass"
-connects to: Port Madison
+connects to:
+  - Port Madison
+  - Port Orchard
 note: On Wikimedia Commons, this strait is named *Agate Channel*.
 openstreetmap: "https://www.openstreetmap.org/relation/13313267"
+strait in:
+  - Salish Sea
+  - Bainbridge Island, Washington
+  - Kitsap County, Washington
+  - Washington
 strait of:
-  - Puget Sound
   - Bainbridge Island
   - Kitsap Peninsula
 wikidata: "https://www.wikidata.org/wiki/Q4691487"
