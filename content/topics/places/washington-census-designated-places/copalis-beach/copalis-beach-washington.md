@@ -4,7 +4,7 @@ adjacent to:
   - Ocean City, Washington
   - Pacific Ocean
 census-designated place in:
-  - Grays Harbor, Washington
+  - Grays Harbor County, Washington
   - Washington
 census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/237581"
