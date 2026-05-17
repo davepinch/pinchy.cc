@@ -13,4 +13,6 @@ vicinity to:
 wikidata: "https://www.wikidata.org/wiki/Q49393784"
 tags:
   - bay
+  - no Wikimedia category
+  - no Wikipedia article
 ---
