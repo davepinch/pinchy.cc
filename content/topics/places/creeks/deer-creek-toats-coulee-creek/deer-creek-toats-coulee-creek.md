@@ -1,7 +1,7 @@
 ---
 title: "Deer Creek (Toats Coulee Creek tributary)"
 creek in:
-  - Okanogan Coungry, Washington
+  - Okanogan County, Washington
   - Washington
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1518604"
 openstreetmap: "https://www.openstreetmap.org/relation/10752808"
