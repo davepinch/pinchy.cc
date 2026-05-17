@@ -1,6 +1,6 @@
 ---
 title: "Skamania County, Washington (data.census.gov)"
-census profile: Skamania County, Washington
+census profile of: Skamania County, Washington
 county of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Skamania County, Washington has 1,658.3 square miles of land area and is the 24th largest county in Washington by total area. Skamania County, Washington is bordered by Lewis County, Washington, Cowlitz County, Washington, Hood River County, Oregon, Multnomah County, Oregon, Clark County, Washington, Yakima County, Washington, and Klickitat County, Washington.
