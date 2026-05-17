@@ -8,7 +8,7 @@ vicinity to:
   - Wilson Creek, Washington
 wildlife area unit in:
   - Billy Clapp Lake
-  - Brook Lake
+  - Brook Lake (Grant County)
   - Grant County, Washington
   - Washington
 wildlife area unit of:
