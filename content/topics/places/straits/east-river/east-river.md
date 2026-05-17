@@ -1,8 +1,11 @@
 ---
 title: "East River"
+connects to:
+  - Upper New York Bay
+  - Long Island SOund
 miscategorization of: river
 openstreetmap: "https://www.openstreetmap.org/relation/5912630"
-strait of:
+strait in:
   - New York City
   - New York
 wikidata: "https://www.wikidata.org/wiki/Q212862"
