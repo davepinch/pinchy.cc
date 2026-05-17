@@ -2,7 +2,7 @@
 title: "Deer Creek (Skagit River tributary)"
 creek in:
   - Stephen Mather Wilderness
-  - Ross Lake National Recreational Area
+  - Ross Lake National Recreation Area
   - North Cascades National Park Complex
   - Whatcom County, Washington
   - Washington
