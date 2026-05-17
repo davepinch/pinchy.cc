@@ -1,7 +1,7 @@
 ---
 title: "Hudson Strait"
 openstreetmap: "https://www.openstreetmap.org/relation/9441238"
-strait of:
+strait in:
   - Labrador Sea
   - Hudson Bay
   - Quebec
