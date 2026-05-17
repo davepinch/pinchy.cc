@@ -17,5 +17,6 @@ vicinity to:
 tags:
   - bay
   - no Wikidata record
-  - no Wikimedia article
+  - no Wikimedia category
+  - no Wikipedia article
 ---
