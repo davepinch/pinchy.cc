@@ -3,7 +3,9 @@ title: "Dover Point"
 cape in:
   - Thurston County, Washington
   - Washington
-cape of: Zangle Cove
+cape of:
+  - Dana Passage (extended)
+  - Zangle Cove
 note: Dover Point overlooks an unnamed body of water west of **Dana Passage**. Adjacent to the east is Zangle Cove.
 openstreetmap: "https://www.openstreetmap.org/node/4676072156"
 vicinity of: Dana Passage
