@@ -1,9 +1,10 @@
 ---
 title: "Nares Strait"
-connects in the north to: Lincoln Sea
-connects in the south to: Baffin Bay
+connects to:
+  - Lincoln Sea
+  - Baffin Bay
 openstreetmap: "https://www.openstreetmap.org/?mlat=80&mlon=-70&zoom=11&layers=M"
-strait of:
+strait in:
   - Canada
   - Greenland
 wikidata: "https://www.wikidata.org/wiki/Q737190"
