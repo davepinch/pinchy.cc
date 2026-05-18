@@ -1,5 +1,5 @@
 ---
-title: "Henrickson Canyon"
+title: "Hendrickson Canyon"
 valley in:
   - Wahkiakum County, Washington
   - Washington
