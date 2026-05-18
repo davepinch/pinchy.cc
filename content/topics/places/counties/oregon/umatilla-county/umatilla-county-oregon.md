@@ -15,4 +15,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Umatilla_County,_Oregon"
 wikipedia: "https://en.wikipedia.org/wiki/Umatilla_County,_Oregon"
 tags:
   - county
+  - county in Oregon
 ---

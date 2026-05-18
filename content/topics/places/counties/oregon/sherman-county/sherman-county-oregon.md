@@ -12,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Sherman_County,_Oregon"
 wikipedia: "https://en.wikipedia.org/wiki/Sherman_County,_Oregon"
 tags:
   - county
+  - county in Oregon
 ---
