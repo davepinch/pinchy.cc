@@ -24,7 +24,6 @@ vicinity to:
   - Lake Forest Park, Washington
 wikidata: "https://www.wikidata.org/entity/Q303046"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bothell,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/Bothell"
 tags:
   - city
 ---
