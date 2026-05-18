@@ -8,6 +8,7 @@ peninsula in:
   - Washington
 peninsula of:
   - Discovery Bay
+  - Jamestown S'Klallam Indian Reservation
   - Miller Peninsula State Park
   - Sequim Bay
   - Strait of Juan de Fuca
