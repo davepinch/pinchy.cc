@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 3.0
 retrieved: 2026-05-17
 type: website
+url: /en.wikivoyage.org/wiki/Nunavut/
 website: "https://en.wikivoyage.org/wiki/Nunavut"
 wikivoyage of: Nunavut
 tags:
