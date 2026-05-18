@@ -15,7 +15,7 @@ official website: "https://www.co.wallowa.or.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837131"
 wikidata: "https://www.wikidata.org/wiki/Q495382"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wallowa_County,_Oregon"
-wikiepdia: "https://en.wikipedia.org/wiki/Wallowa_County,_Oregon"
+wikipedia: "https://en.wikipedia.org/wiki/Wallowa_County,_Oregon"
 tags:
   - county
   - county in Oregon
