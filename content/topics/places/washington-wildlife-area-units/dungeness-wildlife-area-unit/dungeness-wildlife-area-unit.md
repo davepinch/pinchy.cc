@@ -1,6 +1,6 @@
 ---
 title: "Dungeness Wildlife Area Unit"
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/dungeness-wildlife-area-unit"
+adjacent to: Jamestown S'Klallam Indian Reservation
 openstreetmap: "https://www.openstreetmap.org/relation/10555497"
 vicinity to:
   - Sequim, Washington
