@@ -1,5 +1,6 @@
 ---
 title: "Bald Eagle Wildlife Area Unit"
+v
 wildlife area unit in:
   - Skagit River
   - Sauk River
@@ -12,6 +13,5 @@ tags:
   - Washington Wildlife Area Unit
   - Discover Pass required
   - boat required
-  - no OpenStreetMap element
   - no Wikidata record
 ---
