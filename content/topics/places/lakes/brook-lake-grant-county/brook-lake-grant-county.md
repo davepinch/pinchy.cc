@@ -10,6 +10,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/14339879"
 wikidata: "https://www.wikidata.org/wiki/Q49180712"
 tags:
   - lake
-  - no Wikimedia article
+  - no Wikimedia category
   - no Wikipedia article
 ---
