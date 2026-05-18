@@ -1,5 +1,5 @@
 ---
-title: "Umatilla County, Washington"
+title: "Umatilla County, Oregon"
 adjacent to:
   - Benton County, Washington
   - Walla Walla County, Washington
