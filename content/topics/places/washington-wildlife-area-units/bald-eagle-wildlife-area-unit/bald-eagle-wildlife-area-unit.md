@@ -1,5 +1,6 @@
 ---
 title: "Bald Eagle Wildlife Area Unit"
+openstreetmap: "https://www.openstreetmap.org/relation/19221811"
 wikidata: "https://www.wikidata.org/wiki/Q134727322"
 wildlife area unit in:
   - Skagit River
