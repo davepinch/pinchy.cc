@@ -9,7 +9,7 @@ borders:
   - Lincoln County, Washington
   - Okanogan County, Washington
   - Yakima County, Washington
-county of: Washington
+county in: Washington
 eastbound on interstate 90: Adams County
 official website: "https://www.grantcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153147"

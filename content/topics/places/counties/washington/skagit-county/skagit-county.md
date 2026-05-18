@@ -8,7 +8,7 @@ borders:
   - San Juan County, Washington
   - Snohomish County, Washington
   - Whatcom County, Washington
-county of:
+county in:
   - Washington
   - Cascade Range
 county seat: Mount Vernon, Washington

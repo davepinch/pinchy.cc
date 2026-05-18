@@ -9,7 +9,7 @@ borders:
   - Thurston County, Washington
   - Wahkiakum County, Washington
   - Yakima County, Washington
-county of: Washington
+county in: Washington
 northbound on interstate 5: Thurston County, Washington
 official website: "https://lewiscountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153327"

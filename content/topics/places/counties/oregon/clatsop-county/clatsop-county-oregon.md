@@ -1,6 +1,6 @@
 ---
 title: "Clatsop County, Oregon"
-county of: Oregon
+county in: Oregon
 official website: "https://www.clatsopcounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837106"
 wikidata: "https://www.wikidata.org/wiki/Q484371"

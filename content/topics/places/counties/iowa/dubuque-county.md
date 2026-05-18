@@ -1,6 +1,6 @@
 ---
 title: "Dubuque County, Iowa"
-county of: Iowa
+county in: Iowa
 official website: "https://dubuquecountyiowa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/271236"
 wikidata: "https://www.wikidata.org/wiki/Q113756"

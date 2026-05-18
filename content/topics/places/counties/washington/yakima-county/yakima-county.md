@@ -8,7 +8,7 @@ borders:
   - Lewis County, Washington
   - Pierce County, Washington
   - Skamania County, Washington
-county of:
+county in:
   - Washington
   - Cascade Range
 official website: "https://www.yakimacounty.us/"

@@ -7,7 +7,7 @@ borders:
   - Okanogan County, Washington
   - Skagit County, Washington
   - Snohomish County, Washington
-county of:
+county in:
   - Washington
   - Cascade Range
 county seat: Wenatchee, Washington

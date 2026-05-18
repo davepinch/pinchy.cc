@@ -5,11 +5,11 @@ borders:
   - Jefferson County, Washington
   - Pacific Ocean
   - Strait of Juan de Fuca
-county of: Washington
+county in: Washington
 county seat: Port Angeles, Washington
 official website: "https://www.clallamcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153923"
-westernmost county of:
+westernmost county in:
   - Washington
   - contiguous United States
 wikidata: "https://www.wikidata.org/wiki/Q156306"

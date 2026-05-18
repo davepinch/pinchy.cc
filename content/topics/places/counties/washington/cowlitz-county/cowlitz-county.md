@@ -6,7 +6,7 @@ borders:
   - Oregon
   - Skamania County, Washington
   - Wahkiakum County, Washington
-county of: Washington
+county in: Washington
 northbound on interstate 5: Lewis County, Washington
 official website: "https://www.co.cowlitz.wa.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153326"

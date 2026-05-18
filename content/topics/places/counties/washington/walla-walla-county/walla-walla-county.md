@@ -6,7 +6,7 @@ borders:
   - Franklin County, Washington
   - Oregon
 census profile: "https://data.census.gov/profile/Walla_Walla_County,_Washington?g=050XX00US53071"
-county of: Washington
+county in: Washington
 official website: "https://www.wwcowa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150532"
 wikidata: "https://www.wikidata.org/wiki/Q485305"

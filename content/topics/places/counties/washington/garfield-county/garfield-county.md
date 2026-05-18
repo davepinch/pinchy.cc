@@ -5,7 +5,7 @@ borders:
   - Columbia County, Washington
   - Oregon
   - Whitman County, Washington
-county of: Washington
+county in: Washington
 official website: "https://www.garfieldcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150429"
 wikidata: "https://www.wikidata.org/wiki/Q695782"

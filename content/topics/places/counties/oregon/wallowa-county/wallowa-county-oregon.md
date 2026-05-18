@@ -10,7 +10,7 @@ adjacent to:
   - Baker County, Oregon
   - Union County, Oregon
   - Umatilla County, Oregon
-county of: Oregon
+county in: Oregon
 official website: "https://www.co.wallowa.or.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837131"
 wikidata: "https://www.wikidata.org/wiki/Q495382"

@@ -6,7 +6,7 @@ borders:
   - Lincoln County, Washington
   - Pend Oreille County, Washington
   - Spokane County, Washington
-county of: Washington
+county in: Washington
 official website: "https://www.stevenscountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150602"
 wikidata: "https://www.wikidata.org/wiki/Q483954"

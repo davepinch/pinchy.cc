@@ -6,7 +6,7 @@ borders:
   - San Juan County, Washington
   - Skagit County, Washington
   - Snohomish County, Washington
-county of: Washington
+county in: Washington
 created from: Thurston County, Washington
 official website: "https://www.islandcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1165268"

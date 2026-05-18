@@ -7,7 +7,7 @@ borders:
   - Mason County, Washington
   - Pierce County, Washington
   - Snohomish County, Washington
-county of: Washington
+county in: Washington
 official website: "https://www.kitsap.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153661"
 wikidata: "https://www.wikidata.org/wiki/Q484159"

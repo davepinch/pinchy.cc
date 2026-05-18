@@ -6,7 +6,7 @@ borders:
   - King County, Washington
   - Kitsap County, Washington
   - Skagit County, Washington
-county of:
+county in:
   - Washington
   - Cascade Range
 county seat: Everett, Washington

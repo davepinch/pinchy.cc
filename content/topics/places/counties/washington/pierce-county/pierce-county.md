@@ -9,7 +9,7 @@ borders:
   - Mason County, Washington
   - Thurston County, Washington
   - Yakima County, Washington
-county of:
+county in:
   - Washington
   - Interstate 5
 county seat: Tacoma, Washington

@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, Oregon"
-county of: Oregon
+county in: Oregon
 openstreetmap: "https://www.openstreetmap.org/relation/1837107"
 wikidata: "https://www.wikidata.org/wiki/Q484385"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Columbia_County,_Oregon"

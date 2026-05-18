@@ -7,7 +7,7 @@ borders:
   - Kittitas County, Washington
   - Pierce County, Washington
   - Snohomish County, Washington
-county of:
+county in:
   - Washington
   - Cascade Range
 county seat: Seattle

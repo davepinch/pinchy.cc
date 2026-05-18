@@ -4,7 +4,7 @@ borders:
   - Hennepin County, Minnesota
   - Washington County, Minnesota
   - incomplete list
-county of: Minnesota
+county in: Minnesota
 official website: "https://www.ramseycountymn.gov/"
 only remaining township: White Bear Township
 openstreetmap: "https://www.openstreetmap.org/relation/1795856"

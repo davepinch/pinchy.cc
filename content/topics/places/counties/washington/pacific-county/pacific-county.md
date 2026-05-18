@@ -5,7 +5,7 @@ borders:
    - Lewis County, Washington
    - Oregon
    - Wahkiakum County, Washington
-county of: Washington
+county in: Washington
 namesake of: Pacific Ocean
 official website: "https://www.co.pacific.wa.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153390"

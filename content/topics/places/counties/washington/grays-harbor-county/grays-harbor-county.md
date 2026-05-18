@@ -7,7 +7,7 @@ borders:
   - Thurston County, Washington
   - Pacific County, Washington
   - Pacific Ocean
-county of: Washington
+county in: Washington
 official website: "https://www.graysharbor.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153401"
 wikidata: "https://www.wikidata.org/wiki/Q493222"

@@ -5,7 +5,7 @@ borders:
   - Lewis County, Washington
   - Mason County, Washington
   - Pierce County, Washington
-county of:
+county in:
   - Washington
   - Interstate 5
 county seat: Olympia, Washington

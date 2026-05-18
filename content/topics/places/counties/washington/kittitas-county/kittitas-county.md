@@ -8,7 +8,7 @@ borders:
   - King County, Washington
   - Pierce County, Washington
   - Yakima County, Washington
-county of:
+county in:
   - Washington
   - Cascade Range
 eastbound on interstate 90: Grant County, Washington

@@ -7,7 +7,7 @@ adjacent counties:
   - Grant County, Washington
   - Walla Walla County, Washington
   - Whitman County, Washington
-county of: Washington
+county in: Washington
 namesake of: Benjamin Franklin
 official website: "https://www.franklincountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150531"

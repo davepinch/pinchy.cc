@@ -1,6 +1,6 @@
 ---
 title: "Multnomah County, Oregon"
-county of: Oregon
+county in: Oregon
 official website: "https://multco.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837126"
 wikidata: "https://www.wikidata.org/wiki/Q450374"

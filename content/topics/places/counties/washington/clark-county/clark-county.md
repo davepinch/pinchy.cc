@@ -5,7 +5,7 @@ borders:
   - Cowlitz County, Washington
   - Oregon
   - Skamania County, Washington
-county of: Washington
+county in: Washington
 northbound on interstate 5: Cowlitz County, Washington
 official website: "https://clark.wa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153325"

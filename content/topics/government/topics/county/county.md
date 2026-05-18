@@ -2,7 +2,7 @@
 title: "county"
 tag requires property:
   - census profile
-  - county of
+  - county in
   - official website
   - OpenStreetMap
   - Wikidata

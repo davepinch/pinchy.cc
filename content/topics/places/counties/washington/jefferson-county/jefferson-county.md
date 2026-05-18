@@ -8,7 +8,7 @@ borders:
   - Kitsap County, Washington
   - Mason County, Washington
   - Pacific Ocean
-county of: Washington
+county in: Washington
 county seat: Port Townsend, Washington
 created from: Thurston County, Washington
 namesake of: Thomas Jefferson

@@ -5,7 +5,7 @@ borders:
   - Grant County, Washington
   - Lincoln County, Washington
   - Whitman County, Washington
-county of: Washington
+county in: Washington
 eastbound on interstate 90: Lincoln County
 official website: "https://www.co.adams.wa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153148"
