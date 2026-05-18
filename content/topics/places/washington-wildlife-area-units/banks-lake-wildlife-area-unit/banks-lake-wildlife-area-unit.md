@@ -4,7 +4,6 @@ adjacent to:
   - Steamboat Rock State Park
   - Banks Lake
   - Sun Lakes-Dry Falls State Park
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/banks-lake-wildlife-area-unit"
 openstreetmap: "https://www.openstreetmap.org/relation/10676256"
 wikidata: "https://www.wikidata.org/wiki/Q49473584"
 wildlife area unit in:
