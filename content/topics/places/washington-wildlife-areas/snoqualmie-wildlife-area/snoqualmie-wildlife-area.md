@@ -1,10 +1,11 @@
 ---
 title: "Snoqualmie Wildlife Area"
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/snoqualmie-wildlife-area"
-wildlife area of:
+wildlife area in:
   - King County, Washington
   - Snohomish County, Washington
   - Washington
+wildlife area of: Washington Department of Fish and Wildlife
 tags:
-  - wildlife area
+  - Washington Wildlife Area
+  - Discover Pass required
 ---

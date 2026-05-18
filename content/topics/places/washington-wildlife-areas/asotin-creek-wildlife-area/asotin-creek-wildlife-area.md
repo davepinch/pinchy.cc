@@ -6,4 +6,5 @@ wildlife area in:
 wildlife area of: Washington Department of Fish and Wildlife
 tags:
   - Washington Wildlife Area
+  - Discover Pass required
 ---

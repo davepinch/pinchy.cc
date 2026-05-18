@@ -1,10 +1,10 @@
 ---
 title: "Klickitat Wildlife Area"
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/klickitat-wildlife-area"
-wildlife area of:
+wildlife area in:
   - Klickitat County, Washington
   - Washington
+wildlife area of: Washington Department of Fish and Wildlife
 tags:
-  - wildlife area
+  - Washington Wildlife Area
   - Discover Pass required
 ---

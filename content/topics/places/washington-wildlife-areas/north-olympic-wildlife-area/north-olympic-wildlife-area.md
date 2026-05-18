@@ -1,12 +1,12 @@
 ---
 title: "North Olympic Wildlife Area"
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/north-olympic-wildlife-area"
-wildlife area of:
+wildlife area in:
   - Clallam County, Washington
   - Jefferson County, Washington
   - Olympic Peninsula
   - Washington
+wildlife area of: Washington Department of Fish and Wildlife
 tags:
-  - wildlife area
+  - Washington Wildlife Area
   - Discover Pass required
 ---
