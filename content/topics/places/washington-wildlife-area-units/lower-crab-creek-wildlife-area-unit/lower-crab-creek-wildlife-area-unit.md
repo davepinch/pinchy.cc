@@ -13,4 +13,5 @@ wildlife area unit of:
   - Washington Department of Fish and Wildlife
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---

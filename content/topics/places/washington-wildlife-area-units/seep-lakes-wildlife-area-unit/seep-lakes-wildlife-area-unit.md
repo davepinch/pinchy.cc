@@ -14,4 +14,5 @@ wildlife area unit of:
   - Crab Creek
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---

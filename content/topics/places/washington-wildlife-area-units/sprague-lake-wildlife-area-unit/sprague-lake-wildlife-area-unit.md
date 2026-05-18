@@ -13,4 +13,5 @@ wildlife area unit of:
   - Sprague Lake
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---

@@ -14,4 +14,5 @@ wildlife area unit of:
   - Columbia River
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---

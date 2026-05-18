@@ -13,4 +13,5 @@ wildlife area unit of:
 wikidata: "https://www.wikidata.org/wiki/Q111778535"
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---

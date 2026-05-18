@@ -30,4 +30,5 @@ wildlife area unit of:
   - Pearrygin Creek
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---

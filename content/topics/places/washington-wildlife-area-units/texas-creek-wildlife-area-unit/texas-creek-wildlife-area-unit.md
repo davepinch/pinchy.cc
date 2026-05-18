@@ -21,4 +21,5 @@ wildlife area unit of:
   - Methow River
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---

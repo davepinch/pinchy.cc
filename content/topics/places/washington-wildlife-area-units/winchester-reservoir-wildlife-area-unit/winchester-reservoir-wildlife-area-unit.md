@@ -9,6 +9,8 @@ wildlife area unit in:
 wildlife area unit of:
   - Columbia Basin Wildlife Area
   - Washington Department of Fish and Wildlife
+  - Winchester Reservoir
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---

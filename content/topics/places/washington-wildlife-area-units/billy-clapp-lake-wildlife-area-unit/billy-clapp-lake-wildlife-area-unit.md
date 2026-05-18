@@ -18,4 +18,5 @@ official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/billy-clapp-l
 wikidata: "https://www.wikidata.org/wiki/Q49566806"
 tags:
   - Washington Wildlife Area Unit
+  - Discover Pass required
 ---
