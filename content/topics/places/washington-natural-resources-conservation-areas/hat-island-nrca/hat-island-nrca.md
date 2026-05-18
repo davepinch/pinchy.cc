@@ -2,7 +2,7 @@
 title: "Hat Island Natural Resources Conservation Area"
 adjacent to: Padilla Bay
 conservation area in:
-  - Hat Island
+  - Hat Island (Padilla Bay)
   - Skagit County, Washington
   - Washington
 conservation area of: Washington Department of Natural Resources
