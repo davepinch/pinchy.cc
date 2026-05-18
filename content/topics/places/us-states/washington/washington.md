@@ -21,7 +21,6 @@ up the pacific coast:
 wikidata: "https://www.wikidata.org/wiki/Q1223"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_(state)"
 wikiquote: "https://en.wikiquote.org/wiki/Washington_(state)"
-wikivoyage: "https://en.wikivoyage.org/wiki/Washington_(state)"
 tags:
   - state
   - coastal state
