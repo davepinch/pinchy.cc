@@ -23,7 +23,7 @@ openstreetmap:
 river in:
   - Pend Oreille County, Washington
   - Spokane County, Washington
-  - Waikiki Springs Wildlife Area
+  - Waikiki Springs Wildlife Area Unit
   - Little Spokane Natural Area
   - Washington
 tributary of: Spokane River

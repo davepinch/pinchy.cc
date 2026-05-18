@@ -5,10 +5,10 @@ openstreetmap: "https://www.openstreetmap.org/relation/11094731"
 river in:
   - Chetlo Harbor
   - Naselle, Washington
-  - Naselle River Wildlife Area
+  - Naselle River Wildlife Area Unit
   - Wahkiakum County, Washington
   - Pacific County, Washington
-  - Teal Slough Natural Resources Conservation Area
+  - Teal Slough Natural Resources Conservation Area Unit
   - Washington
 tributary of: Willapa Bay
 wikidata: "https://www.wikidata.org/wiki/Q6966695"
