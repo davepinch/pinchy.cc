@@ -3,7 +3,7 @@ title: "Stavis Creek"
 creek in:
   - Stavis Natural Resources Conservation Area
   - Kitsap Forest Natural Area Preserve
-  - Stavis Creek Wildlife Area
+  - Stavis Creek Wildlife Area Unit
   - Kitsap County, Washington
   - Kitsap Peninsula
   - Washington
