@@ -7,7 +7,7 @@ retrieved: 2026-05-17
 type: website
 url: /en.wikivoyage.org/wiki/Solar_eclipses/
 website: "https://en.wikivoyage.org/wiki/Solar_eclipses"
-wikivoyage of: social eclipse
+wikivoyage of: solar eclipse
 tags:
   - website
   - Wikivoyage
