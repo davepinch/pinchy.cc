@@ -7,6 +7,7 @@ adjacent to:
   - Jefferson County, Washington
   - Linn County, Oregon
   - Polk County, Oregon
+county in: Oregon
 official website: "https://www.co.marion.or.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837124"
 wikidata: "https://www.wikidata.org/wiki/Q484408"
