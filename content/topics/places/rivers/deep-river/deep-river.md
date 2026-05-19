@@ -3,7 +3,7 @@ title: "Deep River"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1504399"
 openstreetmap: "https://www.openstreetmap.org/relation/11095136"
 river in:
-  - Altoona Wildlife Area
+  - Altoona Wildlife Area Unit
   - Hendrickson Canyon
   - Wahkiakum County, Washington
   - Washington
