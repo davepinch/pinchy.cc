@@ -2,6 +2,8 @@
 title: "Skokomish Flats"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1528973"
 mudflat in:
+  - Skokomish Wildlife Area Unit
+  - Jamestown S'Klallam Indian Reservation
   - Annas Bay
   - Hood Canal
   - Mason County, Washington
