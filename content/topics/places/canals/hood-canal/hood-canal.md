@@ -4,6 +4,7 @@ borders:
   - Jefferson County, Washington
   - Olympic Peninsula
   - incomplete list
+connects to: Seabeck Bay
 fjord of:
   - Puget Sound
   - Kitsap Peninsula
