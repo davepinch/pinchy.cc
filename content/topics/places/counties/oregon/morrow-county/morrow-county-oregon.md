@@ -7,6 +7,7 @@ adjacent to:
   - Grant County, Washington
   - Wheeler County, Oregon
   - Gilliam County, Oregon
+county in: Oregon
 official website: "https://www.morrowcountyor.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837125"
 wikidata: "https://www.wikidata.org/wiki/Q495368"
