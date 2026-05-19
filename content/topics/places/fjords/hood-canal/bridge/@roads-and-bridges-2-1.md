@@ -1,5 +1,6 @@
 ---
-title: >-
+title: "bridge of Hood Canal (Wikipedia)"
+✂️: >-
   Hood Canal is spanned by the Hood Canal Bridge, the third longest floating bridge in the world at 6,521 feet (1,988 m).
 bridge of: Hood Canal
 citation: >-
