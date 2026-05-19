@@ -14,7 +14,6 @@ wildlife area unit in:
 wildlife area unit of:
   - Columbia Basin Wildlife Area
   - Washington Department of Fish and Wildlife
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/billy-clapp-lake-wildlife-area-unit"
 wikidata: "https://www.wikidata.org/wiki/Q49566806"
 tags:
   - Washington Wildlife Area Unit
