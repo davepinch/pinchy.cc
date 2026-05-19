@@ -8,7 +8,7 @@ river in:
   - Naselle River Wildlife Area Unit
   - Wahkiakum County, Washington
   - Pacific County, Washington
-  - Teal Slough Natural Resources Conservation Area Unit
+  - Teal Slough Natural Resources Conservation Area
   - Washington
 tributary of: Willapa Bay
 wikidata: "https://www.wikidata.org/wiki/Q6966695"
