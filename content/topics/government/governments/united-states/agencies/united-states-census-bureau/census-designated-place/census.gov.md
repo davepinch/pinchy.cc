@@ -1,6 +1,6 @@
 ---
 title: "Census Designated Places (census.gov)"
-census.gov of: census-designated places
+census.gov of: census-designated place
 excerpt: >-
   Tribal, state, and general-purpose local governments can submit updates to census designated places (CDPs). CDPs are a statistical geography representing closely settled, unincorporated communities that are locally recognized and identified by name.
 license: public domain
