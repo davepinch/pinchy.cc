@@ -1,9 +1,5 @@
 ---
 title: "Hood Canal"
-borders:
-  - Jefferson County, Washington
-  - Olympic Peninsula
-  - incomplete list
 connects to:
   - Admiralty Inlet
   - Races Cove
@@ -20,9 +16,16 @@ connects to:
   - Lilliwap Bay
   - Little Dewatto Bay
   - The Great Bend
+fjord in:
+  - Salish Sea
+  - Jefferson County, Washington
+  - Kitsap County, Washington
+  - Mason County, Washington
+  - Washington
 fjord of:
-  - Puget Sound
   - Kitsap Peninsula
+  - Toandos Peninsula
+  - Olympic Peninsula
 openstreetmap: "https://www.openstreetmap.org/relation/13316202"
 wikidata: "https://www.wikidata.org/wiki/Q1585716"
 tags:
