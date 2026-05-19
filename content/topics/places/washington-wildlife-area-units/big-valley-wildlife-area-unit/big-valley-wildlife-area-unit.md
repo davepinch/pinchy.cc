@@ -3,7 +3,6 @@ title: "Big Valley Wildlife Area Unit"
 adjacent to:
   - Okanogan–Wenatchee National Forest
   - Washington State Route 20
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/big-valley-wildlife-area-unit"
 openstreetmap: "https://www.openstreetmap.org/relation/10852993"
 vicinity to:
   - Pearrygin Lake
