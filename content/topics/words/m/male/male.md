@@ -1,3 +1,4 @@
 ---
 title: "male"
+opposite: female
 ---
