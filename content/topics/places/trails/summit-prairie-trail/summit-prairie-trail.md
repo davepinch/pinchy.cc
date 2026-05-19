@@ -8,7 +8,7 @@ trail in:
 vicinity to:
   - Deer Creek (Pin Creek)
   - Pin Creek
-  - Table Mountain (GNIS feature ID 1526883)
+  - Table Mountain (Skamania County feature ID 1526883)
 tags:
   - trail
   - no Wikidata record

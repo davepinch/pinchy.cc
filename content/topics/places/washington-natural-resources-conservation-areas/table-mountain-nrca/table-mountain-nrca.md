@@ -10,8 +10,8 @@ conservation area in:
   - Washington
 conservation area of:
   - Washington Department of Natural Resources
-  - Table Mountain (GNIS feature ID 1512710)
-namesake of: Table Mountain (GNIS feature ID 1512710)
+  - Table Mountain (Skamania County feature ID 1512710)
+namesake of: Table Mountain (Skamania County feature ID 1512710)
 openstreetmap: "https://www.openstreetmap.org/relation/8325606"
 wikidata: "https://www.wikidata.org/wiki/Q114323235"
 tags:
