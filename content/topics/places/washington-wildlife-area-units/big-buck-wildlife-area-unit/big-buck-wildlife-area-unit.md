@@ -1,7 +1,6 @@
 ---
 title: "Big Buck Wildlife Area Unit"
 adjacent to: Okanogan–Wenatchee National Forest
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/big-buck-wildlife-area-unit"
 openstreetmap: "https://www.openstreetmap.org/relation/10848156"
 wildlife area unit in:
   - Okanogan County, Washington
