@@ -3,7 +3,7 @@ title: "North River"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1507095"
 openstreetmap: "https://www.openstreetmap.org/relation/11117138"
 river in:
-  - North Willapa Bay Wildlife Area
+  - North Willapa Bay Wildlife Area Unit
   - Pacific County, Washington
   - Grays Harbor County, Washington
   - Washington
