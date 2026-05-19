@@ -7,7 +7,7 @@ retrieved: 2026-05-13
 type: website
 url: /en.wikipedia.org/wiki/Table_Mountain_(Skamania_County,_Washington)/
 website: "https://en.wikipedia.org/wiki/Table_Mountain_(Skamania_County,_Washington)"
-wikipedia of: Table Mountain (Skamania County; GNIS feature ID 1512710)
+wikipedia of: Table Mountain (Skamania County feature ID 1512710)
 tags:
   - Wikipedia
 ---
