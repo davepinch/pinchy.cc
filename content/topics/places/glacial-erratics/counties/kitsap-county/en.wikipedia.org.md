@@ -13,5 +13,5 @@ type: website
 url: /en.wikipedia.org/wiki/Glacial_erratic_boulders_of_Kitsap_County,_Washington/
 website: "https://en.wikipedia.org/wiki/Glacial_erratic_boulders_of_Kitsap_County,_Washington"
 tags:
-  - Wikipedia
+  - website
 ---
