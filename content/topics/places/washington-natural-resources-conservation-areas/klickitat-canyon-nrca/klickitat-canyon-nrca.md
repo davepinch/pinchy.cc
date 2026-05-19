@@ -2,7 +2,7 @@
 title: "Klickitat Canyon Natural Resources Conservation Area"
 adjacent to: Klickitat Canyon Community Forest
 conservation area in:
-  - Yakima Indian Reservation
+  - Yakama Indian Reservation
   - Klickitat County, Washington
   - Yakima County, Washington
   - Washington
