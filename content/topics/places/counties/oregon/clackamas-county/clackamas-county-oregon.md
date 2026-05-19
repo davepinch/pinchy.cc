@@ -7,6 +7,7 @@ adjacent to:
   - Marion County, Oregon
   - Yamhill County, Oregon
   - Washington County, Oregon
+county in: Oregon
 official website: "https://www.clackamas.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837105"
 wikidata: "https://www.wikidata.org/wiki/Q484404"
