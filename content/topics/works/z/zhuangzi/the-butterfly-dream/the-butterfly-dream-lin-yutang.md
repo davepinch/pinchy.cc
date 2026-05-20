@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Zhuangzi. (2024, February 21). *Wikiquote*. Retrieved July 31, 2024 from https://en.wikiquote.org/w/index.php?title=Zhuangzi&oldid=3469627.
 translation of: The Butterfly Dream
-translation by: Lin Yutang
+translator: Lin Yutang
 tags:
   - translation
   - 🦋
