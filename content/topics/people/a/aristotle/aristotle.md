@@ -1,6 +1,5 @@
 ---
 title: "Aristotle"
-founded: Peripatetic school
 pupil of: Plato
 pupils:
   - Alexander the Great
