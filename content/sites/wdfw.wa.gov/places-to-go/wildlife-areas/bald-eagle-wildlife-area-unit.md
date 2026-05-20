@@ -7,6 +7,7 @@ retrieved: 2025-04-27
 type: website
 url: /wdfw.wa.gov/places-to-go/wildlife-areas/bald-eagle-wildlife-area-unit/
 website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/bald-eagle-wildlife-area-unit"
+wildlife area unit of: Skagit Wildlife Area (wdfw.wa.gov)
 tags:
   - website
 ---
