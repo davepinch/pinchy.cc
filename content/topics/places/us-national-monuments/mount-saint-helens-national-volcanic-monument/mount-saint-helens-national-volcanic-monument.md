@@ -1,6 +1,6 @@
 ---
 title: "Mount Saint Helens National Volcanic Monument"
-national monument of:
+national monument in:
   - Skamania County, Washington
   - Cowlitz County, Washington
   - Lewis County, Washington
@@ -9,6 +9,7 @@ national monument of:
   - Pacific Northwest
   - Cascade Range
   - United States
+national monument of: United States Forest Service
 openstreetmap: "https://www.openstreetmap.org/relation/2455766"
 wikidata: "https://www.wikidata.org/wiki/Q3326044"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_St._Helens_National_Volcanic_Monument"
