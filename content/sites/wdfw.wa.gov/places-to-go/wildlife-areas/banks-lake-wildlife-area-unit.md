@@ -7,6 +7,7 @@ retrieved: 2026-05-18
 type: website
 url: /wdfw.wa.gov/places-to-go/wildlife-areas/banks-lake-wildlife-area-unit/
 website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/banks-lake-wildlife-area-unit"
+wildlife area unit of: Columbia Basin Wildlife Area (wdfw.wa.gov)
 tags:
   - website
 ---
