@@ -1,6 +1,5 @@
 ---
 title: "Cherry Valley Wildlife Area Unit"
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/cherry-valley-wildlife-area-unit"
 openstreetmap: "https://www.openstreetmap.org/relation/10581175"
 vicinity to:
   - Duvall, Washington
