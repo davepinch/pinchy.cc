@@ -5,7 +5,6 @@ adjacent to:
   - Moses Lake
   - Moses Lake, Washington
   - Potholes State Park
-official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/desert-wildlife-area-unit"
 openstreetmap: "https://www.openstreetmap.org/relation/9568714"
 vicinity to:
   - George, Washington
