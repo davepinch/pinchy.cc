@@ -6,6 +6,7 @@ official website of: Samish Wildlife Area Unit
 type: website
 url: /wdfw.wa.gov/places-to-go/wildlife-areas/samish-wildlife-area-unit/
 website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/samish-wildlife-area-unit"
+wildlife area unit of: Skagit Wildlife Area (wdfw.wa.gov)
 tags:
   - website
 ---
