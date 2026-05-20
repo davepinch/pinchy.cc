@@ -5,6 +5,7 @@ excerpt: >-
 official websitee of: Upland Restoration Wildlife Area Unit
 retrieved: 2026-05-19
 type: website
+url: /wdfw.wa.gov/places-to-go/wildlife-areas/upland-restoration-wildlife-area-unit/
 website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/upland-restoration-wildlife-area-unit"
 wildlife area unit of: Columbia Basin Wildlife Area (wdfw.wa.gov)
 tags:
