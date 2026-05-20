@@ -1406,6 +1406,7 @@ function Update-WikipediaFlagsAndLocations() {
 Update-LinkedByTag
 Update-Ofs "of"
 Update-Ofs "in"
+Update-Ofs "by"
 Update-OnTheseDays
 Update-Randoms
 Update-RandomFragments
