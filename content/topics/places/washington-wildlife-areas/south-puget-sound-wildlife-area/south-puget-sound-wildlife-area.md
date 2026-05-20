@@ -7,6 +7,6 @@ wildlife area of:
   - Thurston County, Washington
   - Washington
 tags:
-  - wildlife area
+  - Washington Wildlife Area
   - Discover Pass required
 ---
