@@ -1,6 +1,7 @@
 ---
 title: "Bill Gates"
 co-founder of: Microsoft
+person of: Microsoft
 wikidata: "https://www.wikidata.org/wiki/Q5284"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bill_Gates"
 wikiquote: "https://en.wikiquote.org/wiki/Bill_Gates"
