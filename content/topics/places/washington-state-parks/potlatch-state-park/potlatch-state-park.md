@@ -11,5 +11,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Potlatch_State_Park"
 tags:
   - state park
   - Discover Pass required
-  - no Wikipedia article
+  - no Wikimedia category
 ---
