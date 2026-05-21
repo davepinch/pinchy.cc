@@ -12,6 +12,7 @@ why they won in 2024 of:
   - Republican Party
   - Donald Trump
   - JD Vance
+zero mentions of: Israel
 tags:
   - PDF
 ---
