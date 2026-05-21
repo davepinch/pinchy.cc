@@ -8,6 +8,7 @@ why they lost in 2024 of:
   - Democratic Party
   - Kamala Harris
   - Tim Walz
+  - Ken Martin
 why they won in 2024 of:
   - Republican Party
   - Donald Trump
