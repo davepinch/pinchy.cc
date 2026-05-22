@@ -8,6 +8,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Rear_Admir
 type: picture
 url: /commons.wikimedia.org/wiki/Rear_Admiral_Charles_Wilkes_(19274843336).jpg/
 website: "https://commons.wikimedia.org/wiki/File:Rear_Admiral_Charles_Wilkes_(19274843336).jpg"
+when: 2015-06-30
 tags:
   - Wikimedia Commons
 ---
