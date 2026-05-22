@@ -1,6 +1,6 @@
 ---
 title: "University of Chicago"
-cofounded by: John D. 
+cofounded by: John D. Rockefeller
 official website: "https://uchicago.edu/"
 university of:
   - Chicago
