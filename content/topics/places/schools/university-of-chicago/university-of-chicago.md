@@ -2,7 +2,7 @@
 title: "University of Chicago"
 cofounded by: John D. Rockefeller
 official website: "https://uchicago.edu/"
-university of:
+university in:
   - Chicago
   - Illinois
   - United States
