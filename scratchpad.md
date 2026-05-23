@@ -3,6 +3,9 @@ title: "Scratchpad"
 draft: true
 ---
 
+5/22
+https://www.reddit.com/r/whenthe/comments/1tkvyi9/just_tried_it_and_it_doesnt_work_anymore/
+
 5/7
 Look up "Mox" (for Mox Chealis Creek)
 https://en.wikipedia.org/wiki/List_of_Chinook_Jargon_place_names
