@@ -8,9 +8,11 @@ excerpt: >-
 news of:
   - Jennifer Combs
   - Trinidad, Texas
+sued for posting of: Facebook
 type: website
 url: /www.fox4news.com/news/woman-arrested-facebook-post-concerning-trinidad-water-poisoning/
 website: "https://www.fox4news.com/news/woman-arrested-facebook-post-concerning-trinidad-water-poisoning"
+when: 2026-05-20
 tags:
   - website
 ---
