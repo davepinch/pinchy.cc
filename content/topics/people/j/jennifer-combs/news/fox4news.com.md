@@ -8,6 +8,7 @@ excerpt: >-
 news of:
   - Jennifer Combs
   - Trinidad, Texas
+reddit: "https://www.reddit.com/r/Snorkblot/comments/1tlarmm/id_say_she_has_a_good_chance_of_winning_that_case/"
 sued for posting of: Facebook
 type: website
 url: /www.fox4news.com/news/woman-arrested-facebook-post-concerning-trinidad-water-poisoning/
