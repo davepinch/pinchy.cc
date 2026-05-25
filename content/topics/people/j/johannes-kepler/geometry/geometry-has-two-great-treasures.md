@@ -5,6 +5,7 @@ attribution: Johannes Kepler, translation of Karl Fink in *Geschichte der Elemen
 citation: >-
   Johannes Kepler. (2024, May 28). *Wikiquote*. Retrieved July 8, 2024 from https://en.wikiquote.org/w/index.php?title=Johannes_Kepler&oldid=3522464.
 geometry of: Johannes Kepler
+source: "https://books.google.com/books?id=3hkPAAAAIAAJ"
 translation of: Karl Fink
 treasures of: geometry
 type: quote
