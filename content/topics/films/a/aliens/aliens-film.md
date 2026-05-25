@@ -1,6 +1,6 @@
 ---
 title: "Aliens (film)"
-directed by: James Camerson
+directed by: James Cameron
 film of:
   - science fiction
   - action film
