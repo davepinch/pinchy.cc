@@ -6,4 +6,7 @@ person of:
 tags:
   - person
   - human being
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
