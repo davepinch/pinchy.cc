@@ -1,6 +1,6 @@
 ---
 title: "Director of National Intelligence"
-appointed by: President of the United States
+appointed by: president of the United States
 head of: United States Intelligence Community
 member of:
   - Cabinet of the United States

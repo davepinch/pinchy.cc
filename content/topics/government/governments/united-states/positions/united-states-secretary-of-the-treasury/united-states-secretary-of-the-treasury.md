@@ -1,6 +1,6 @@
 ---
 title: "United States Secretary of the Treasury"
-appointed by: President of the United States
+appointed by: president of the United States
 head of: United States Department of the Treasury
 member of:
   - Cabinet of the United States
