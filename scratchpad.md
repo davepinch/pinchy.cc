@@ -3,6 +3,13 @@ title: "Scratchpad"
 draft: true
 ---
 
+5/28
+Imagine it's just you, and another voice forever
+perpetually, we talk.
+will there not be a point,
+where a million years have passed without talking
+man: shut up
+
 5/22
 https://www.reddit.com/r/whenthe/comments/1tkvyi9/just_tried_it_and_it_doesnt_work_anymore/
 
