@@ -1,8 +1,20 @@
 {{ define "main" }}
 
-{{/* Write a cue */}}
-{{ $cue := partialCached "cc-get" "FACE YOUR FAILURE" "FACE YOUR FAILURE" }}
-{{ with $cue }}
+{{/* Write something, optimize this later, 2026-05-28 */}}
+{{ $p := partialCached "cc-get" "YOU EXIST" "YOU EXIST" }}
+{{ with $p }}
+    {{ .Render "cc-masthead" }}
+{{ end }}
+{{ $p = partialCached "cc-get" "that's pretty cool" "that's pretty cool" }}
+{{ with $p }}
+    {{ .Render "cc-masthead" }}
+{{ end }}
+{{ $p = partialCached "cc-get" "Do you know Messier 31 exists?" "Do you know Messier 31 exists?" }}
+{{ with $p }}
+    {{ .Render "cc-masthead" }}
+{{ end }}
+{{ $p = partialCached "cc-get" "so do you" "so do you" }}
+{{ with $p }}
     {{ .Render "cc-masthead" }}
 {{ end }}
 
