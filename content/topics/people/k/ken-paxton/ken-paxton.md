@@ -6,7 +6,6 @@ former state senator of: Texas
 member of: Republican Party
 wikidata: "https://www.wikidata.org/wiki/Q6388290"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ken_Paxton"
-wikiquote: "https://en.wikiquote.org/wiki/Ken_Paxton"
 tags:
   - male
   - American
