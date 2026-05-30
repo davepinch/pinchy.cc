@@ -6,7 +6,6 @@ coprocessor of:
   - Intel
 wikidata: "https://www.wikidata.org/wiki/Q1632017"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Intel_8087"
-wikipedia: "https://en.wikipedia.org/wiki/Intel_8087"
 tags:
   - coprocessor
 ---
