@@ -1,5 +1,8 @@
 ---
 title: "Abdulla II of Jordan"
+born in:
+  - Amman
+  - Jordan
 king of: Jordan
 wikidata: "https://www.wikidata.org/wiki/Q57464"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Abdullah_II_of_Jordan"
