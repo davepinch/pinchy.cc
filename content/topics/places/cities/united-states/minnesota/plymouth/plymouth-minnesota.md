@@ -4,6 +4,9 @@ city of:
   - Hennepin County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/137441"
+suburb of:
+  - Minneapolis, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q936753"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Plymouth,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Plymouth,_Minnesota"

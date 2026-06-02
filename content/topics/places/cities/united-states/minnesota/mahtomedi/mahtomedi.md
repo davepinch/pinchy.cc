@@ -14,7 +14,9 @@ city of:
   - Washington County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/137849"
-suburb of: Saint Paul, Minnesota
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q1924308"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mahtomedi,_Minnesota"
 tags:

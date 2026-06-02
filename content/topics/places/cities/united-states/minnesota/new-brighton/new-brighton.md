@@ -13,7 +13,9 @@ city of:
   - Minnesota
 official website: "https://www.newbrightonmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136625"
-suburb of: Saint Paul, Minnesota
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q1986542"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:New_Brighton,_Minnesota"
 tags:

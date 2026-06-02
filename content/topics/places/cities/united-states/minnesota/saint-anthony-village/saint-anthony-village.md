@@ -12,6 +12,7 @@ city of:
 suburb of:
   - Minneapolis, Minnesota
   - Saint Paul, Minnesota
+  - Twin Cities
 openstreetmap: "https://www.openstreetmap.org/relation/136621"
 wikidata: "https://www.wikidata.org/entity/Q282822"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:St._Anthony,_Minnesota"

@@ -14,7 +14,9 @@ city of:
   - Minnesota
   - Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/137850"
-suburb of: Saint Paul, Minnesota
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q986185"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Oakdale,_Minnesota"
 tags:

@@ -7,7 +7,9 @@ borders:
 city of:
   - Washington County, Minnesota
   - Minnesota
-suburb of: Saint Paul, Minnesota
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 openstreetmap: "https://www.openstreetmap.org/relation/136809"
 wikidata: "https://www.wikidata.org/entity/Q1987755"
 tags:

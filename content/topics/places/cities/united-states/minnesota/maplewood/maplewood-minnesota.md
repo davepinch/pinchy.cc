@@ -16,7 +16,9 @@ city of:
   - Interstate 94
 disambiguation of: Maplewood
 openstreetmap: "https://www.openstreetmap.org/relation/136631"
-suburb of: Saint Paul, Minnesota
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q990856"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Maplewood,_Minnesota"
 tags:

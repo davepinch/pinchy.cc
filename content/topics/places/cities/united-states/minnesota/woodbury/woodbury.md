@@ -14,6 +14,9 @@ city of:
   - Minnesota State Highway 95
   - Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/136632"
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q862672"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Woodbury,_Minnesota"
 tags:

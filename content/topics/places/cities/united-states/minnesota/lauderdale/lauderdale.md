@@ -8,7 +8,9 @@ borders:
 city of:
   - Ramsey County, Minnesota
   - Minnesota
-suburb of: Saint Paul, Minnesota
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 openstreetmap: "https://www.openstreetmap.org/relation/136615"
 wikidata: "https://www.wikidata.org/entity/Q144180"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lauderdale,_Minnesota"

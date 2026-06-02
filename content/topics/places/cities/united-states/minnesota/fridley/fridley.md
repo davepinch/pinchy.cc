@@ -15,6 +15,9 @@ city of:
   - Anoka County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136671"
+suburb of:
+  - Minneapolis, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q985235"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Fridley,_Minnesota"
 tags:
