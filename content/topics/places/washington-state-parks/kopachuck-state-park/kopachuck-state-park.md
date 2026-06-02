@@ -7,6 +7,7 @@ state park in:
   - Artondale, Washington
   - Pierce County, Washington
   - Washington
+state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q6430916"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kopachuck_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Kopachuck_State_Park"
