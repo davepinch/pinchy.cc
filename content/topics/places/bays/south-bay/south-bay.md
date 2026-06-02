@@ -4,6 +4,7 @@ bay in:
   - Westport, Washington
   - Grays Harbor County, Washington
   - Washington
+bay of: Elk River
 connects to: Grays Harbor
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1508503"
 openstreetmap: "https://www.openstreetmap.org/relation/15392255"
