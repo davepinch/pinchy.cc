@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7886000"
 wikipedia: "https://en.wikipedia.org/wiki/Union_River_(Washington)"
 tags:
   - river
+  - no Wikimedia category
 ---
