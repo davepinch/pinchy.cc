@@ -6,6 +6,7 @@ excerpt: >-
 retrieved: 2026-05-30
 reverse engineering of: Am2901
 type: website
+url: /www.righto.com/2020/04/inside-am2901-amds-1970s-bit-slice.html/
 website: "https://www.righto.com/2020/04/inside-am2901-amds-1970s-bit-slice.html"
 tags:
   - website
