@@ -2,6 +2,8 @@
 title: "Scratchpad"
 draft: true
 ---
+6/2
+https://news.ycombinator.com/item?id=48369980
 
 5/28
 Imagine it's just you, and another voice forever
