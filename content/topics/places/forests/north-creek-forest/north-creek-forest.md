@@ -10,6 +10,7 @@ openstreetmap: "https://www.openstreetmap.org/way/105530865"
 park of: Bothell, Washington
 website: "https://www.friendsnorthcreekforest.org/"
 wikidata: "https://www.wikidata.org/wiki/Q7054967"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:North_Creek_Forest"
 tags:
   - forest
   - park
