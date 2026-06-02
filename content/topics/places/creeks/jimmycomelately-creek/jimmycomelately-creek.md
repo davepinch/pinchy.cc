@@ -2,7 +2,7 @@
 title: "Jimmycomelately Creek"
 creek in:
   - South Sequim Bay Wildlife Area Unit
-  - Jamestown S'Klallam Tribe
+  - Jamestown S'Klallam Indian Reservation
   - Blyn, Washington
   - Olympic National Forest
   - Olympic Peninsula
