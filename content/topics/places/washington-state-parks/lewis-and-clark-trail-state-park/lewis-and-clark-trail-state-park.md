@@ -3,6 +3,7 @@ title: "Lewis and Clark Trail State Park"
 official website: "https://parks.wa.gov/find-parks/state-parks/lewis-and-clark-trail-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/10525177"
 state park in:
+  - Palouse
   - Columbia County, Washington
   - Washington
 state park of:
