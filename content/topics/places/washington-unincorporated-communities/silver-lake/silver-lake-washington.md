@@ -7,7 +7,6 @@ unincorporated community of:
   - Cowlitz County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q17199110"
-wikipedia: "https://en.wikipedia.org/wiki/Silver_Lake,_Washington"
 tags:
   - unincorporated community
   - no Wikimedia category
