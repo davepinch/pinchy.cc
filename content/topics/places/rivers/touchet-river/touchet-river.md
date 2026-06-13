@@ -16,7 +16,6 @@ river in:
 tributary of: Walla Walla River
 wikidata: "https://www.wikidata.org/wiki/Q7828713"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Touchet_River"
-wikipedia: "https://en.wikipedia.org/wiki/Touchet_River"
 tags:
   - river
 ---
