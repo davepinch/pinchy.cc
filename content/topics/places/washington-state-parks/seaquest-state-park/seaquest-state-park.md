@@ -8,7 +8,6 @@ state park in:
 state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q7441602"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Seaquest_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Seaquest_State_Park"
 tags:
   -state park
 ---
