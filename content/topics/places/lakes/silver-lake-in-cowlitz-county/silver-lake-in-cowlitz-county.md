@@ -12,7 +12,7 @@ vicinity of:
   - Interstate 5
 wikidata: "https://www.wikidata.org/wiki/Q3483995"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Silver_Lake_(Washington)"
-wikipedia: "https://en.wikipedia.org/wiki/Silver_Lake,_Washington"
 tags:
   - lake
+  - no Wikipedia article
 ---
