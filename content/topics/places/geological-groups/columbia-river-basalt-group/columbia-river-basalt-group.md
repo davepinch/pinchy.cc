@@ -1,10 +1,11 @@
 ---
 title: "Columbia River Basalt Group"
-tags:
-  - basalt
-  - geology
+geological group in:
   - Oregon
   - Washington
   - Idaho
   - Nevada  
+geological group of: basalt
+tags:
+  - geological group
 ---
