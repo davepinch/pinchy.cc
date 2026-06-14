@@ -8,6 +8,7 @@ plat by: Jesse Newberry Day
 plat of: Dayton, Washington
 snippet of: Dayton, Washington (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Dayton,_Washington/@history-1-2/
 when: 1871-11-23
 tags:
   - snippet
