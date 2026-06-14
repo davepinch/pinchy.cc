@@ -1,6 +1,7 @@
 ---
 title: "Wallula Gap"
 openstreetmap: "https://www.openstreetmap.org/way/893222027"
+parking: "https://www.openstreetmap.org/way/484307790"
 valley in:
   - Horse Heaven Hills
   - Columbia River Basalt Group
