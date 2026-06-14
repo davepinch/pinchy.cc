@@ -3,6 +3,7 @@ title: "Wallula Gap"
 openstreetmap: "https://www.openstreetmap.org/way/893222027"
 valley in:
   - Horse Heaven Hills
+  - Columbia River Basalt Group
   - Benton County, Washington
   - Walla Walla County, Washington
   - Washington
