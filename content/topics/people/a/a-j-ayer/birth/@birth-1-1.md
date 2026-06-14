@@ -8,7 +8,7 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: A. J. Ayer (Wikipedia)
 type: website
-url: /en.wikipedia.org/wiki/A._J._Ayer/
+url: /en.wikipedia.org/wiki/A._J._Ayer/@birth-1-1/
 website: "https://en.wikipedia.org/wiki/A._J._Ayer"
 tags:
   - snippet
