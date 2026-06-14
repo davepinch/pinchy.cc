@@ -11,4 +11,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Lake_Bonneville"
 tags:
   - lake
   - former lake
+  - no OpenStreetMap element
 ---
