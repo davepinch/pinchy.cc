@@ -5,7 +5,7 @@ city of:
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136714"
 suburb of:
-  - Minneapolis
+  - Minneapolis, Minnesota
   - Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q923384"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnetonka,_Minnesota"
