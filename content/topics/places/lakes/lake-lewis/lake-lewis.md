@@ -7,7 +7,6 @@ lake in:
 lake in the paleocourse of: Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q3215010"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Lewis"
-wikipedia: "https://en.wikipedia.org/wiki/Lake_Lewis"
 tags:
   - lake
   - former lake
