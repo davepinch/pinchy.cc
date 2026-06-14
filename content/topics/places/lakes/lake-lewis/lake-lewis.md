@@ -1,6 +1,8 @@
 ---
 title: "Lake Lewis"
-formed by: Missoula Floods
+formed by:
+  - Missoula Floods
+  - Bonneville Flood
 lake in:
   - Washington
   - Oregon
