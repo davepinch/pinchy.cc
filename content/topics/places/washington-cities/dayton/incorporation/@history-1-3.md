@@ -8,6 +8,7 @@ license: CC BY-SA 4.0
 namesake of: Jesse Newberry Day
 snippet of: Dayton, Washington (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Dayton,_Washington/@history-1-3/
 when: 1881-11-10
 tags:
   - snippet
