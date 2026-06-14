@@ -1,5 +1,6 @@
 ---
 title: "Lake Lewis"
+formed by: Missoula Floods
 lake in:
   - Washington
   - Oregon
