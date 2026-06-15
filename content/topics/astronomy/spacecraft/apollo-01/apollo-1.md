@@ -6,7 +6,6 @@ mission by: NASA
 mission of: Apollo program
 wikidata: "https://www.wikidata.org/wiki/Q194082"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Apollo_1"
-wikipedia: "https://en.wikipedia.org/wiki/Apollo_1"
 tags:
   - human spaceflight
   - launched
