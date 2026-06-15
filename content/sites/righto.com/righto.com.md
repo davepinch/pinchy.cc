@@ -1,7 +1,7 @@
 ---
 title: "Ken Shirriff's blog"
 blog of: Ken Shirriff
-url: /righto.com/
+url: /www.righto.com/
 website: "https://www.righto.com/"
 tags:
   - blog
