@@ -7,8 +7,8 @@ patch of:
   - Apollo 1
   - SVG
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/75/Apollo_1_patch.svg"
-type: picture
-url: /commons.wikimedia.org/wiki/File:Apollo_1_patch.svg/
+type: picture0
+url: /commons.wikimedia.org/wiki/Apollo_1_patch.svg/
 website: "https://commons.wikimedia.org/wiki/File:Apollo_1_patch.svg"
 tags:
   - Wikimedia Commons
