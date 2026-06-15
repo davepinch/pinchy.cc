@@ -2,7 +2,7 @@
 title: "Apollo 5"
 ➡️: Apollo 6
 ⬅️: Apollo 4
-launched by: Saturn V
+launched by: Saturn IB
 mission by: NASA
 mission of: Apollo program
 wikidata: "https://www.wikidata.org/wiki/Q242528"
