@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2025/04/commodore-pet-repair.html/
 website: "https://www.righto.com/2025/04/commodore-pet-repair.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

@@ -9,7 +9,7 @@ type: website
 url: /www.righto.com/2025/03/pentium-microcde-rom-circuitry.html/
 website: "https://www.righto.com/2025/03/pentium-microcde-rom-circuitry.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
   - shared on Hacker News
 ---

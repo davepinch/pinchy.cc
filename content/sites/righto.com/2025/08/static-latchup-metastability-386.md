@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2025/08/static-latchup-metastability-386.html/
 website: "https://www.righto.com/2025/08/static-latchup-metastability-386.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

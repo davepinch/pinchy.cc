@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2025/12/8087-microcode-conditions.html/
 website: "https://www.righto.com/2025/12/8087-microcode-conditions.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

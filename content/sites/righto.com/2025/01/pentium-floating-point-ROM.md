@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2025/01/pentium-floating-point-ROM.html/
 website: "https://www.righto.com/2025/01/pentium-floating-point-ROM.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

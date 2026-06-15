@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2024/01/bendix-cadc-pressure-transducers.html/
 website: "https://www.righto.com/2024/01/bendix-cadc-pressure-transducers.html"
 tags:
-  - Ken Shirriff's blog
   - website
+  - Ken Shirriff's blog
 ---

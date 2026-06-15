@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2025/12/8087-stack-circuitry.html/
 website: "https://www.righto.com/2025/12/8087-stack-circuitry.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

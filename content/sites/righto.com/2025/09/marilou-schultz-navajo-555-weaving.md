@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html/
 website: "https://www.righto.com/2025/09/marilou-schultz-navajo-555-weaving.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

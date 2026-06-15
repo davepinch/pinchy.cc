@@ -8,6 +8,6 @@ url: /www.righto.com/2024/10/wealth-distribution-in-united-states.html/
 wealth distribution in: United States
 website: "https://www.righto.com/2024/10/wealth-distribution-in-united-states.html"
 tags:
-  - Ken Shirriff's blog
   - website
+  - Ken Shirriff's blog
 ---

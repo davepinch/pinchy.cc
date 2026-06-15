@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2024/12/this-die-photo-of-pentium-shows.html/
 website: "https://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

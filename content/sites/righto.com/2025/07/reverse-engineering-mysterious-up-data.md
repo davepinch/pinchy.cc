@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html/
 website: "https://www.righto.com/2025/07/reverse-engineering-mysterious-up-data.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

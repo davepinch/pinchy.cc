@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2025/10/solve-nyt-pips-with-constraints.html/
 website: "https://www.righto.com/2025/10/solve-nyt-pips-with-constraints.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2024/02/reverse-engineering-analog-bendix-air.html/
 website: "https://www.righto.com/2024/02/reverse-engineering-analog-bendix-air.html"
 tags:
-  - Ken Shirriff's blog
   - website
+  - Ken Shirriff's blog
 ---

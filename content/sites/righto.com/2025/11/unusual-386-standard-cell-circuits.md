@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2025/11/unusual-386-standard-cell-circuits.html/
 website: "https://www.righto.com/2025/11/unusual-386-standard-cell-circuits.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

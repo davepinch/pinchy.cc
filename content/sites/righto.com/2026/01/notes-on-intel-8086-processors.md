@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2026/01/notes-on-intel-8086-processors.html/
 website: "https://www.righto.com/2026/01/notes-on-intel-8086-processors.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

@@ -7,6 +7,6 @@ type: website
 url: /www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html/
 website: "https://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2026/05/microcode-inside-intel-8087-floating.html/
 website: "https://www.righto.com/2026/05/microcode-inside-intel-8087-floating.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

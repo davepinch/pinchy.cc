@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2024/09/f4-attitude-indicator.html/
 website: "https://www.righto.com/2024/09/f4-attitude-indicator.html"
 tags:
-  - Ken Shirriff's blog
   - website
+  - Ken Shirriff's blog
 ---

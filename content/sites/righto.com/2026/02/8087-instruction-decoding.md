@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2026/02/8087-instruction-decoding.html/
 website: "https://www.righto.com/2026/02/8087-instruction-decoding.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

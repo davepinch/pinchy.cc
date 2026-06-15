@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html/
 website: "https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

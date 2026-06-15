@@ -10,6 +10,6 @@ type: website
 url: /www.righto.com/2024/01/reverse-engineering-cmos.html/
 website: "https://www.righto.com/2024/01/reverse-engineering-cmos.html"
 tags:
-  - Ken Shirriff's blog
   - website
+  - Ken Shirriff's blog
 ---

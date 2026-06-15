@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2024/03/8088-prefetch-circuitry.html/
 website: "https://www.righto.com/2024/03/8088-prefetch-circuitry.html"
 tags:
-  - Ken Shirriff's blog
   - website
+  - Ken Shirriff's blog
 ---

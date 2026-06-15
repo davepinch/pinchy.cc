@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2025/05/intel-386-register-circuitry.html/
 website: "https://www.righto.com/2025/05/intel-386-register-circuitry.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

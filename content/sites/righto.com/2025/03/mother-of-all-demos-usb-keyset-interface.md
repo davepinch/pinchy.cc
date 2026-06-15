@@ -9,7 +9,7 @@ type: website
 url: /www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html/
 website: "https://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
   - shared on Hacker News
 ---

@@ -7,6 +7,6 @@ type: website
 url: /www.righto.com/2025/02/origin-of-mainframe-term.html/
 website: "https://www.righto.com/2025/02/origin-of-mainframe-term.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

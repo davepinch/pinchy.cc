@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html/
 website: "https://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

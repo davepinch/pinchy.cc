@@ -9,6 +9,6 @@ type: website
 url: /www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html/
 website: "https://www.righto.com/2024/09/ramtron-ferroelectric-fram-die.html"
 tags:
-  - Ken Shirriff's blog
   - website
+  - Ken Shirriff's blog
 ---

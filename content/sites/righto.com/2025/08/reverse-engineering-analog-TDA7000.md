@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html/
 website: "https://www.righto.com/2025/08/reverse-engineering-analog-TDA7000.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

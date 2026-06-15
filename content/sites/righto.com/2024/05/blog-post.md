@@ -7,6 +7,6 @@ type: website
 url: /www.righto.com/2024/05/blog-post.html/
 website: "https://www.righto.com/2024/05/blog-post.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

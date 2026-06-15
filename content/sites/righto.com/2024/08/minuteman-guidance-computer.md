@@ -10,5 +10,6 @@ url: /www.righto.com/2024/08/minuteman-guidance-computer.html/
 website: "https://www.righto.com/2024/08/minuteman-guidance-computer.html"
 tags:
   - website
+  - Ken Shirriff's blog
   - shared on Hacker News
 ---

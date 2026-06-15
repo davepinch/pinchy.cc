@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2024/04/intel-8088-bus-state-machine.html/
 website: "https://www.righto.com/2024/04/intel-8088-bus-state-machine.html"
 tags:
-  - Ken Shirriff's blog
   - website
+  - Ken Shirriff's blog
 ---

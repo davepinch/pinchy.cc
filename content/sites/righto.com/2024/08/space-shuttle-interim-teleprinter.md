@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2024/08/space-shuttle-interim-teleprinter.html/
 website: "https://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

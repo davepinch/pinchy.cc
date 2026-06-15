@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html/
 website: "https://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

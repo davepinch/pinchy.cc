@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html/
 website: "https://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html"
 tags:
-  - Ken Shirriff's blog
   - website
+  - Ken Shirriff's blog
 ---

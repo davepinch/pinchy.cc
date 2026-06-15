@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html/
 website: "https://www.righto.com/2025/08/Cr2Ge2Te6-not-Cr2Gr2Te6.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

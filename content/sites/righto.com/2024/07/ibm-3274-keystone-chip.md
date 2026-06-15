@@ -7,6 +7,6 @@ type: website
 url: /www.righto.com/2024/07/ibm-3274-keystone-chip.html/
 website: "https://www.righto.com/2024/07/ibm-3274-keystone-chip.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---

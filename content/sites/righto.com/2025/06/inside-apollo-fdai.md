@@ -8,6 +8,6 @@ type: website
 url: /www.righto.com/2025/06/inside-apollo-fdai.html/
 website: "https://www.righto.com/2025/06/inside-apollo-fdai.html"
 tags:
-  - Ken Shirriff's Blog
   - website
+  - Ken Shirriff's Blog
 ---
