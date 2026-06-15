@@ -1,5 +1,7 @@
 ---
 title: "Apollo 8"
+➡️: Apollo 9
+⬅️: Apollo 7
 launched by: Saturn V
 mission by: NASA
 mission of: Apollo program
