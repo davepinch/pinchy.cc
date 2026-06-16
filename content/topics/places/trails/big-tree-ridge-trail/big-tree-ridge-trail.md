@@ -14,6 +14,7 @@ vicinity to:
   - Cougar Mountain
   - Issaquah, Washington
   - Interstate 90
+warning: There are multiple reports of car break-ins with smashed windows. Do not leave anything of value in your car.
 tags:
   - trail
 ---
