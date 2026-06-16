@@ -6,10 +6,10 @@ adjacent to:
   - Squak Mountain State Park
   - Bellevue, Washington
 census profile: "https://data.census.gov/profile/Issaquah_city,_Washington?g=160XX00US5333805"
-city of:
+city in:
   - King County, Washington
   - Washington
-  - Interstate 90
+city of: Interstate 90
 clockwise around lake sammamish: Bellevue, Washington
 disambiguation of: Issaquah
 openstreetmap: "https://www.openstreetmap.org/relation/237874"
