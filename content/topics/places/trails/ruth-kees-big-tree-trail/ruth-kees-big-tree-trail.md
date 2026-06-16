@@ -4,6 +4,7 @@ connects to:
   - Bonneville Powerline Trail
   - Swamp Trail
   - Brink Trail
+namesake of: Ruth Kees
 openstreetmap: "https://www.openstreetmap.org/way/498980235"
 trail in:
   - Tradition Plateau Natural Resources Conservation Area
