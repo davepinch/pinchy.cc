@@ -5,7 +5,6 @@ adjacent to:
   - Sammamish, Washington
   - Squak Mountain State Park
   - Bellevue, Washington
-census profile: "https://data.census.gov/profile/Issaquah_city,_Washington?g=160XX00US5333805"
 city in:
   - King County, Washington
   - Washington
