@@ -5,6 +5,7 @@ excerpt: >-
 official website of: Hamma Hamma Balds Natural Area Preserve
 retrieved: 2026-06-16
 type: website
+url: /dnr.wa.gov/natural-areas/natural-area-preserves/hamma-hamma-balds-natural-area-preserve/
 website: "https://dnr.wa.gov/natural-areas/natural-area-preserves/hamma-hamma-balds-natural-area-preserve"
 tags:
   - website
