@@ -7,6 +7,7 @@ reservation in:
   - Skokomish Flats
   - Skokomish Wildlife Area Unit
   - Mason County, Washington
+  - Olympic Peninsula
   - Washington
 reservation of:
   - Nalley Slough
