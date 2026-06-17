@@ -13,4 +13,7 @@ namesake of: Ruth Kees
 tributary of: Issaquah Creek
 tags:
   - creek
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
