@@ -6,7 +6,7 @@ adjacent to:
   - Three Waters County Park
 openstreetmap: "https://www.openstreetmap.org/relation/14411909"
 river in:
-  - Buckthorn Wilderness
+  - Buckhorn Wilderness
   - Burnt Hill
   - Dungeness Wildlife Area Unit
   - Jamestown S'Klallam Indian Reservation
