@@ -1,10 +1,9 @@
 ---
 title: "Skookum Inlet Natural Area Preserve"
-natural area preserve of:
+natural area preserve in:
   - Mason County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/skookum-inlet-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/way/749650268"
 wikidata: "https://www.wikidata.org/wiki/Q113587464"
 tags:

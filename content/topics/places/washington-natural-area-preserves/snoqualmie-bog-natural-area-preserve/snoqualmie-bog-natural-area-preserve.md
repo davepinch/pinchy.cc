@@ -1,13 +1,13 @@
 ---
 title: "Snoqualmie Bog Natural Area Preserve"
-natural area preserve of:
+natural area preserve in:
   - Snoqualmie Tree Farm
-  - North Fork Snoqualmie River
   - King County, Washington
-  - Washington Department of Natural Resources
   - Washington
   - Cascade Range
-official website: "https://www.dnr.wa.gov/snoqualmie-bog-natural-area-preserve"
+natural area preserve of:
+  - Washington Department of Natural Resources
+  - North Fork Snoqualmie River
 openstreetmap: "https://www.openstreetmap.org/relation/14478074"
 wikidata: "https://www.wikidata.org/wiki/Q16900314"
 tags:

@@ -1,12 +1,11 @@
 ---
 title: "Methow Rapids Natural Area Preserve"
-natural area preserve of:
+natural area preserve in:
   - Okanogan County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/methow-rapids-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14019121"
-vicinity of:
+vicinity to:
   - Columbia River
   - Methow River
 wikidata: "https://www.wikidata.org/wiki/Q111532378"

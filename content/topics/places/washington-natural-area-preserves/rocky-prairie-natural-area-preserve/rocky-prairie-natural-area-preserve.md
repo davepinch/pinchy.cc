@@ -1,11 +1,10 @@
 ---
 title: "Rocky Prairie Natural Area Preserve"
-borders: BNSF Seattle Subdivision
-natural area preserve of:
+adjacent to: BNSF Seattle Subdivision
+natural area preserve in:
   - Thurston County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/rocky-prairie-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14515159"
 wikidata: "https://www.wikidata.org/wiki/Q113642260"
 tags:

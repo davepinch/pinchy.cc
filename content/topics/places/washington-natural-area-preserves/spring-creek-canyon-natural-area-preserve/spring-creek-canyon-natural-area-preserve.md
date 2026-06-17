@@ -1,10 +1,9 @@
 ---
 title: "Spring Creek Canyon Natural Area Preserve"
-natural area preserve of:
+natural area preserve in:
   - Lincoln County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/spring-creek-canyon-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14487128"
 wikidata: "https://www.wikidata.org/wiki/Q113578667"
 tags:

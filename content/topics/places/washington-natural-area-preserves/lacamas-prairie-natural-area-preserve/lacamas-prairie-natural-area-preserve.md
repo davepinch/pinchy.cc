@@ -1,10 +1,9 @@
 ---
 title: "Lacamas Prairie Natural Area Preserve"
-natural area preserve of:
+natural area preserve in:
   - Clark County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/lacamas-prairie-natural-area"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/way/1212846920"
 wikidata: "https://www.wikidata.org/wiki/Q113553571"
 tags:

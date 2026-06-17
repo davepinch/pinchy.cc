@@ -1,14 +1,13 @@
 ---
 title: "Olivine Bridge Natural Area Preserve"
-borders:
+adjacent to:
   - Mount Baker–Snoqualmie National Forest
   - South Fork Nooksack River
-natural area preserve of:
+natural area preserve in:
   - South Fork Nooksack River
   - Skagit County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/olivine-bridge-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14498286"
 wikidata: "https://www.wikidata.org/wiki/Q113610647"
 tags:

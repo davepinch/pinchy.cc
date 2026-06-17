@@ -1,16 +1,16 @@
 ---
 title: "Kitsap Forest Natural Area Preserve"
-borders:
+adjacent to:
   - Stavis Natural Resources Conservation Area
   - Stavis Creek Wildlife Area
-natural area preserve of:
+natural area preserve in:
   - Kitsap County, Washington
-  - Washington Department of Natural Resources
   - Washington
-near: Guillemot Cove Nature Reserve
-official website: "https://www.dnr.wa.gov/kitsap-forest-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14464286"
-vicinity of: Hood Canal
+vicinity to:
+  - Guillemot Cove Nature Reserve
+  - Hood Canal
 wikidata: "https://www.wikidata.org/wiki/Q113560321"
 tags:
   - Washington Natural Area Preserve

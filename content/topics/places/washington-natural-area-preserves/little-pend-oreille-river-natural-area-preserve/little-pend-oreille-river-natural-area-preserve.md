@@ -1,10 +1,9 @@
 ---
 title: "Little Pend Oreille River Natural Area Preserve"
-natural area preserve of:
+natural area preserve in:
   - Stevens County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/LittlePendOreilleRiver"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14511091"
 wikidata: "https://www.wikidata.org/wiki/Q113634151"
 tags:

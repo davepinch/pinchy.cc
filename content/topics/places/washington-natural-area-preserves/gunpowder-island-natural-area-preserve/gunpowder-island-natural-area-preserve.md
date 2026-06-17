@@ -1,19 +1,18 @@
 ---
 title: "Gunpowder Island Natural Area Preserve"
-natural area preserve of:
+natural area preserve in:
   - Pacific County, Washington
-  - Washington Department of Natural Resources
   - Washington
-near:
+natural area preserve of: Washington Department of Natural Resources
+openstreetmap: "https://www.openstreetmap.org/relation/10466727"
+vicinity to:
   - Bone River Natural Area Preserve
   - Grayland Beach State Park
   - Leadbetter Point State Park
   - Niawiakum River Natural Area Preserve
   - North Willapa Bay Wildlife Area
   - Palix Wildlife Area
-official website: "https://www.dnr.wa.gov/gunpowder-island-natural-area-preserve"
-openstreetmap: "https://www.openstreetmap.org/relation/10466727"
-vicinity of: Raymond, Washington
+  - Raymond, Washington
 wikidata: "https://www.wikidata.org/wiki/Q104774362"
 tags:
   - Washington Natural Area Preserve

@@ -1,13 +1,12 @@
 ---
 title: "Clearwater Bogs Natural Area Preserve"
-borders:
+adjacent to:
   - Olympic Experimental State Forest
   - Olympic National Park
-natural area preserve of:
+natural area preserve in:
   - Jefferson County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/clearwater-bogs-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14477033"
 wikidata: "https://www.wikidata.org/wiki/Q108730116"
 tags:

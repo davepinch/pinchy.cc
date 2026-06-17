@@ -1,16 +1,15 @@
 ---
 title: "Skagit Bald Eagle Natural Area Preserve"
-along state route 20 of: VISIT SOMEWHERE NEW
-borders:
+adjacent to:
   - Mount Baker–Snoqualmie National Forest
   - Rockport State Park
-natural area preserve of:
+along state route 20 of: VISIT SOMEWHERE NEW
+natural area preserve in:
   - Skagit County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/skagit-bald-eagle-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/10426823"
-vicinity of:
+vicinity to:
   - Rockport, Washington
   - Skagit River
   - Washington State Route 20

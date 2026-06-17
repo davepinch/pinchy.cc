@@ -1,13 +1,12 @@
 ---
 title: "Chopaka Mountain Natural Area Preserve"
-borders:
+adjacent to:
   - Canada
   - Loomis Natural Resources Conservation Area
-natural area preserve of:
+natural area preserve in:
   - Okanogan County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/chopaka-mountain-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14086345"
 TODO: Chopaka Mountain Wilderness Area
 wikidata: "https://www.wikidata.org/wiki/Q111747700"

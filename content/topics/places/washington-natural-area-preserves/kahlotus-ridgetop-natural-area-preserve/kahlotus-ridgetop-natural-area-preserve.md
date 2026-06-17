@@ -1,10 +1,9 @@
 ---
 title: "Kahlotus Ridgetop Natural Area Preserve"
-natural area preserve of:
+natural area preserve in:
   - Franklin County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/kahlotus-ridgetop-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14474710"
 wikidata: "https://www.wikidata.org/wiki/Q113553947"
 tags:

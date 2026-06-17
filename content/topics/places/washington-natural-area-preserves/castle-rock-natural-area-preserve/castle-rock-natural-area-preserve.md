@@ -1,13 +1,12 @@
 ---
 title: "Castle Rock Natural Area Preserve"
-borders: Steamboat Rock State Park
-natural area preserve of:
+adjacent to: Steamboat Rock State Park
+natural area preserve in:
   - Grant County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/castle-rock-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/10441518"
-vicinity of: Banks Lake
+vicinity to: Banks Lake
 wikidata: "https://www.wikidata.org/wiki/Q113553961"
 tags:
   - Washington Natural Area Preserve

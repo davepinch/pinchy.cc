@@ -1,11 +1,10 @@
 ---
 title: "Monte Cristo Natural Area Preserve"
-borders: Gifford Pinchot National Forest
-natural area preserve of:
+adjacent to: Gifford Pinchot National Forest
+natural area preserve in:
   - Klickitat County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/monte-cristo-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/14483709"
 wikidata: "https://www.wikidata.org/wiki/Q16944539"
 tags:

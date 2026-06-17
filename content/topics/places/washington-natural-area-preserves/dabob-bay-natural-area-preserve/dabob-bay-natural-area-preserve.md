@@ -1,14 +1,13 @@
 ---
 title: "Dabob Bay Natural Area Preserve"
-borders: Tarboo Wildlife Area Unit
-natural area preserve of:
+adjacent to: Tarboo Wildlife Area Unit
+natural area preserve in:
   - Dabob Bay
   - Jefferson County, Washington
-  - Washington Department of Natural Resources
   - Washington
-official website: "https://www.dnr.wa.gov/dabob-bay-natural-area-preserve"
+natural area preserve of: Washington Department of Natural Resources
 openstreetmap: "https://www.openstreetmap.org/relation/10344239"
-vicinity of: Hood Canal
+vicinity to: Hood Canal
 wikidata: "https://www.wikidata.org/wiki/Q113644632"
 tags:
   - Washington Natural Area Preserve
