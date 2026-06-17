@@ -7,7 +7,7 @@ adjacent to:
 openstreetmap: "https://www.openstreetmap.org/relation/14411909"
 river in:
   - Buckhorn Wilderness
-  - Burnt Hill
+  - Burnt Hill forest
   - Dungeness Wildlife Area Unit
   - Jamestown S'Klallam Indian Reservation
   - Olympic Mountains
