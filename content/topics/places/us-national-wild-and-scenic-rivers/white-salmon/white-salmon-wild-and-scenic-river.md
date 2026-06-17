@@ -2,7 +2,7 @@
 title: "White Salmon Wild and Scenic River"
 national wild and scenic river in:
   - Klickitat County, Washington
-  - Skamanic County, Washington
+  - Skamania County, Washington
   - Washington
   - United States
 national wild and scenic river of: White Salmon River
