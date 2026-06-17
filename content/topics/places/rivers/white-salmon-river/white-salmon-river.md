@@ -2,7 +2,7 @@
 title: "White Salmon River"
 openstreetmap: "https://www.openstreetmap.org/relation/14634222"
 river in:
-  - White Salmon National Wild and Scenic River
+  - White Salmon Wild and Scenic River
   - Mount Adams Wilderness
   - Gifford Pinchot National Forest
   - Klickitat County, Washington
