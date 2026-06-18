@@ -1,8 +1,9 @@
 ---
 title: "Fisher Island"
+connects to: Hump Island
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1504905"
 island in:
-  - Fisher Island Wildlife Area
+  - Fisher Island Wildlife Area Unit
   - Cowlitz County, Washington
   - Washington
 island of:
