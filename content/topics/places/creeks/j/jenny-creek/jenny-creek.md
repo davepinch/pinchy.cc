@@ -1,7 +1,7 @@
 ---
 title: "Jenny Creek"
 creek in:
-  - Jenny Creek Wildlife Area
+  - Jenny Creek Wildlife Area Unit
   - Clark County, Washington
   - Washington
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1505803"
