@@ -12,7 +12,7 @@ wildlife area unit of:
   - Washington Department of Fish and Wildlife
   - Canal Road
   - Hemlock Creek
-  - Silver Lake (Cowlitz County)
+  - Silver Lake (Cowlitz County, Washington)
   - Silver Lake Dam
 tags:
   - Washington Wildlife Area Unit
