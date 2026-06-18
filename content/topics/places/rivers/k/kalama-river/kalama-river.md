@@ -2,7 +2,10 @@
 title: "Kalama River"
 openstreetmap: "https://www.openstreetmap.org/relation/19669865"
 river in:
+  - Gifford Pinchot National Forest
+  - Mount Saint Helens National Volcanic Monument
   - Merrill Lake Wildlife Area Unit
+  - Nelson Wildlife Area Unit
   - Cowlitz County, Washington
   - Washington
 tributary of: Columbia River
