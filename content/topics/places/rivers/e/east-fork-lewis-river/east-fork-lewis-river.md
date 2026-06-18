@@ -10,7 +10,7 @@ river in:
   - Lewisville Park
   - East Fork Lewis River Greenway
   - Paradise Point State Park
-  - Two Forks Wildlife Area
+  - Two Forks Wildlife Area Unit
   - Clark County, Washington
   - Skamania County, Washington
   - Washington
