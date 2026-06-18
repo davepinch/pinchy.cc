@@ -4,7 +4,7 @@ note: >-
   According to OpenStreetMap, a small part of the slough could technically be considered part of Oregon. The slough is located on the Washington side of the Columbia River, and a small part seems to extend across into the Oregon side. No person would normally describe it as being in Oregon, however.
 openstreetmap: "https://www.openstreetmap.org/way/404847093"
 slough in:
-  - Fisher Island Wildlife Area
+  - Fisher Island Wildlife Area Unit
   - Cowlitz County, Washington
   - Washington
   - Oregon
