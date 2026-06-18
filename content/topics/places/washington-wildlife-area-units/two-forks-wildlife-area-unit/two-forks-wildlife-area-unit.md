@@ -6,6 +6,7 @@ vicinity to:
   - Paradise Point State Park
 wikidata: "https://www.wikidata.org/wiki/Q113286567"
 wildlife area unit in:
+  - Mount Saint Helens Wildlife Area
   - Clark County, Washington
   - Washington
 wildlife area unit of:
