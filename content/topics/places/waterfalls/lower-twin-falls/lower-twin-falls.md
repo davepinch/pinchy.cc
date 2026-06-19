@@ -7,7 +7,7 @@ waterfall in:
   - Washington
   - Cascade Range
 waterfall of:
-  - Twin Falls
+  - Twin Falls (South Fork Snoqualmie River)
   - South Fork Snoqualmie River
 openstreetmap: "https://www.openstreetmap.org/node/1750414130"
 tags:

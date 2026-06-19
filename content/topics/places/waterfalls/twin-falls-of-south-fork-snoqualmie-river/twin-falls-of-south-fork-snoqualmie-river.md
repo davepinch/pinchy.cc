@@ -1,5 +1,5 @@
 ---
-title: "Twin Falls"
+title: "Twin Falls (South Fork Snoqualmie River)"
 description: Twin Falls is a series of three close waterfalls (Upper Twin Falls, Middle Twin Falls, and Lower Twin Falls). 
 waterfall in:
   - Olallie State Park
