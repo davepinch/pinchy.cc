@@ -17,7 +17,7 @@ sequence:
   - Hansen Creek
   - Carter Creek
   - Harris Creek
-  - Rock Creek
+  - Rock Creek (South Fork Snoqualmie River tributary)
   - Mason Creek
   - Alice Creek
   - Wood Creek
