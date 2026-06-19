@@ -1,10 +1,10 @@
 ---
 title: "Clark County, Washington"
-borders:
-  - Columbia River
+adjacent county to:
   - Cowlitz County, Washington
-  - Oregon
   - Skamania County, Washington
+  - Multnomah County, Oregon
+  - Columbia County, Oregon
 county in: Washington
 northbound on interstate 5: Cowlitz County, Washington
 official website: "https://clark.wa.gov/"
