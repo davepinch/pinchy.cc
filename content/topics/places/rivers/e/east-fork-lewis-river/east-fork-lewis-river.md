@@ -17,7 +17,6 @@ river in:
 tributary of: Lewis River
 wikidata: "https://www.wikidata.org/wiki/Q49901401"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:East_Fork_Lewis_River"
-wikipedia: "https://en.wikipedia.org/wiki/East_Fork_Lewis_River"
 tags:
   - river
 ---
