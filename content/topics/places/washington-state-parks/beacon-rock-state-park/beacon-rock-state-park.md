@@ -1,5 +1,6 @@
 ---
 title: "Beacon Rock State Park"
+apple maps: "https://maps.apple/p/amWIcmDvb5rIC.z"
 borders:
   - Gifford Pinchot National Forest
   - Pierce National Wildlife Refuge
