@@ -1,5 +1,6 @@
 ---
 title: "East Fork Lewis River"
+namesake of: Aldolphus Lewis
 openstreetmap:
   - "https://www.openstreetmap.org/way/421575182"
   - "https://www.openstreetmap.org/way/214419265"
