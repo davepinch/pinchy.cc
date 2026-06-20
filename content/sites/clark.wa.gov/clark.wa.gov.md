@@ -5,6 +5,7 @@ excerpt: >-
 official website of: Clark County, Washington
 retrieved: 2026-06-19
 type: website
+url: /clark.wa.gov/
 website: "https://clark.wa.gov/"
 tags:
   - website
