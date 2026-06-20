@@ -12,7 +12,7 @@ tremendous of:
   - fire
   - smoke
 type: snippet
-url: /en.wikipedia.org/wiki/Enumclaw,_Washington/
+url: /en.wikipedia.org/wiki/Enumclaw,_Washington/@history-5-1/
 when: 1895-01-11
 tags:
   - snippet
