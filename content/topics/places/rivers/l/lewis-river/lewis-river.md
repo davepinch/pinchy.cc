@@ -1,5 +1,6 @@
 ---
 title: "Lewis River"
+namesake of: Aldolphus Lewis
 openstreetmap: "https://www.openstreetmap.org/relation/19234985"
 river in:
   - Two Forks Wildlife Area Unit
