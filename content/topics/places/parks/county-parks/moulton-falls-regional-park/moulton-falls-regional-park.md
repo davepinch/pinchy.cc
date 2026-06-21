@@ -5,10 +5,12 @@ county park in:
   - Clark County, Washington
   - Washington
 county park of:
+  - Bells Mountain Trail
   - Big Tree Creek
   - East Fork Lewis River
   - Moulton Falls
   - Yacolt Falls
+namesake of: Moulton Falls
 official website: "https://clark.wa.gov/public-works/moulton-falls-regional-park"
 openstreetmap: "https://www.openstreetmap.org/way/149633713"
 vicinity to:
