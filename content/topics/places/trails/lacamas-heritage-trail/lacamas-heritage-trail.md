@@ -1,7 +1,7 @@
 ---
 title: "Lacamas Heritage Trail"
-also knwon as: Heritage Trail
 apple maps: "https://maps.apple/p/sTGIIIP.k7~3A.z"
+disambiguation of: Heritage Trail
 openstreetmap: "https://www.openstreetmap.org/way/107483312"
 trail in:
   - Camas, Washington
@@ -16,5 +16,6 @@ vicinity to:
   - Proebstel, Washington
 tags:
   - trail
+  - disambiguation
   - vantage point
 ---
