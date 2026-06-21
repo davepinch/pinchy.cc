@@ -1,5 +1,5 @@
 ---
-title: "Black River (Chehalis River Tributary)"
+title: "Black River (Chehalis River tributary)"
 note: There is another Black River in Washington that is a tributary of the Duwamish River.
 openstreetmap: "https://www.openstreetmap.org/relation/11757056"
 river in:
@@ -9,7 +9,6 @@ tributary of: Chehalis River
 vicinity to: Olympia, Washington
 wikidata: "https://www.wikidata.org/wiki/Q11173125"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Black_River_(Thurston_County,_Washington)"
-wikipedia: "https://en.wikipedia.org/wiki/Black_River_(Chehalis_River_tributary)"
 tags:
   - river
   - VISIT SOMEWHERE NEW
