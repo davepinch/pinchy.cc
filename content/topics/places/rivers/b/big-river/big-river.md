@@ -9,7 +9,6 @@ river in:
   - Washington
 tributary of: Ozette Lake
 wikidata: "https://www.wikidata.org/wiki/Q4906207"
-wikipedia: "https://en.wikipedia.org/wiki/Big_River_(Washington)"
 tags:
   - river
   - no Wikimedia category
