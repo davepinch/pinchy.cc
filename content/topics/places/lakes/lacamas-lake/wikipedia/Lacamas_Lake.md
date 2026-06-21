@@ -6,6 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2026-06-21
 type: website
 url: /en.wikipedia.org/Wiki/Lacamas_Lake/
+website: "https://en.wikipedia.org/wiki/Lacamas_Lake"
 wikipedia of: Lacamas Lake
 tags:
   - Wikipedia

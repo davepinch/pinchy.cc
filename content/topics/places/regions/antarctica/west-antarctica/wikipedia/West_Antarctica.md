@@ -6,6 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2026-06-20
 type: website
 url: /en.wikipedia.org/Wiki/West_Antarctica/
+website: "https://en.wikipedia.org/wiki/West_Antarctica"
 wikipedia of: West Antarctica
 tags:
   - Wikipedia

@@ -6,6 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2026-06-20
 type: website
 url: /en.wikipedia.org/Wiki/Camas,_Washington/
+website: "https://en.wikipedia.org/wiki/Camas,_Washington"
 wikipedia of: Camas, Washington
 tags:
   - Wikipedia

@@ -6,6 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2026-06-21
 type: website
 url: /en.wikipedia.org/Wiki/Lake_Baikal/
+website: "https://en.wikipedia.org/wiki/Lake_Baikal"
 wikipedia of: Lake Baikal
 tags:
   - Wikipedia
