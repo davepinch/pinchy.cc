@@ -1,5 +1,6 @@
 ---
 title: "Lacamas Heritage Trail"
+also knwon as: Heritage Trail
 apple maps: "https://maps.apple/p/sTGIIIP.k7~3A.z"
 openstreetmap: "https://www.openstreetmap.org/way/107483312"
 trail in:
