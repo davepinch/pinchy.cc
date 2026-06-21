@@ -1,6 +1,7 @@
 ---
 title: "Blyth Park"
 address: 16950 W Riverside Dr, Bothell, WA
+apple maps: "https://maps.apple/p/UPM82dgee31FFe"
 city park in:
   - Bothell, Washington
   - King County, Washington
