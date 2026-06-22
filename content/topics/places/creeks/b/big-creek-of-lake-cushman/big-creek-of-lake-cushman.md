@@ -11,6 +11,7 @@ disambiguation of: Big Creek
 openstreetmap: "https://www.openstreetmap.org/relation/13362272"
 TODO: There are some nearby trails to document.
 tributary of: Lake Cushman
+wikidata: "https://www.wikidata.org/wiki/Q49856923"
 tags:
   - creek
   - tributary
