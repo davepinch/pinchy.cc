@@ -15,5 +15,6 @@ wikidata: "https://www.wikidata.org/wiki/Q4839927"
 wikipedia: "https://en.wikipedia.org/wiki/Bacon_Creek"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
 ---
