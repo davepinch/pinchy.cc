@@ -1,5 +1,6 @@
 ---
 title: "Price Reservoir"
+apple maps: "https://maps.apple/p/6qbzy-90YitQdx"
 lake in:
   - Clark County, Washington
   - Washington
