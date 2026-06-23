@@ -1,5 +1,6 @@
 ---
 title: "Camano Island State Park"
+apple maps: "https://maps.apple/p/fnpTFyL2ovK5wy"
 official website: "https://parks.wa.gov/find-parks/state-parks/camano-island-state-park"
 openstreetmap: "https://www.openstreetmap.org/way/758397016"
 state park in:

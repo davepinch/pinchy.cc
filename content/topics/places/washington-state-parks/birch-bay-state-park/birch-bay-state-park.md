@@ -1,5 +1,6 @@
 ---
 title: "Birch Bay State Park"
+apple maps: "https://maps.apple/p/jTf8mg6BUxk0K.z"
 official website: "https://parks.wa.gov/find-parks/state-parks/birch-bay-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/10464036"
 state park in:

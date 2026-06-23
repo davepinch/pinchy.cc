@@ -1,6 +1,6 @@
 ---
 title: "Cama Beach State Park"
-near: Camano Island State Park
+apple maps: "https://maps.apple/p/MMPI4oN44VMyUK"
 official website: "https://parks.wa.gov/find-parks/state-parks/cama-beach-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5967338"
 state park in:
@@ -10,6 +10,7 @@ state park in:
 state park of:
   - Washington State Parks and Recreation Commission
   - Saratoga Passage
+vicinity to: Camano Island State Park
 wikidata: "https://www.wikidata.org/wiki/Q5024893"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Cama_Beach_State_Park"
 wikipedia: "https://en.wikipedia.org/wiki/Cama_Beach_State_Park"
