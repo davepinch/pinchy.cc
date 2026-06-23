@@ -3,6 +3,7 @@ title: "Beaux Arts Village, Washington"
 adjacent to:
   - Bellevue, Washington
   - Lake Washington
+apple maps: "https://maps.apple/p/tzD7cK_JM9No50"
 census profile: "https://data.census.gov/profile/Beaux_Arts_Village_town,_Washington?g=160XX00US5304895"
 openstreetmap: "https://www.openstreetmap.org/relation/237332"
 town in:

@@ -1,5 +1,6 @@
 ---
 title: "Bucoda, Washington"
+apple maps: "https://maps.apple/p/CieQGhDEsx4MpQ"
 census profile: "https://data.census.gov/profile/Bucoda_town,_Washington?g=160XX00US5308605"
 official website: "https://bucoda.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/238006"

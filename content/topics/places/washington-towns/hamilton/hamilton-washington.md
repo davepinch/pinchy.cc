@@ -1,5 +1,6 @@
 ---
 title: "Hamilton, Washington"
+apple maps: "https://maps.apple/p/cuzm1rv00c_Pib"
 openstreetmap: "https://www.openstreetmap.org/relation/237860"
 town in:
   - Skagit County, Washington

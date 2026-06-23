@@ -1,5 +1,6 @@
 ---
 title: "Wilkeson, Washington"
+apple maps: "https://maps.apple/p/tY8oUGnW8mWZam"
 census profile: "https://data.census.gov/profile/Wilkeson_town,_Washington?g=160XX00US5378925"
 official website: "https://www.townofwilkeson.com/"
 openstreetmap: "https://www.openstreetmap.org/node/150972572"

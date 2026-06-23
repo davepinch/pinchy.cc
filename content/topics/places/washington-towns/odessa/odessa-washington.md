@@ -1,5 +1,6 @@
 ---
 title: "Odessa, Washington"
+apple maps: "https://maps.apple/p/oYI3KhHz04hn9w"
 namesake of: Odesa, Ukraine
 openstreetmap: "https://www.openstreetmap.org/relation/238022"
 town in:

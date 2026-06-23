@@ -1,5 +1,6 @@
 ---
 title: "Index, Washington"
+apple maps: "https://maps.apple/p/L5pKEHdqLCiap4"
 census profile: "https://data.census.gov/profile/Index_town,_Washington?g=160XX00US5333175"
 town in:
   - Snohomish County, Washington

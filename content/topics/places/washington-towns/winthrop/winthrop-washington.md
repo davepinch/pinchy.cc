@@ -1,5 +1,6 @@
 ---
 title: "Winthrop, Washington"
+apple maps: "https://maps.apple/p/upHfXcXXJ0~5eK"
 official website: "https://www.townofwinthrop.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/237891"
 town in:

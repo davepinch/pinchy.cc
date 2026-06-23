@@ -5,6 +5,7 @@ adjacent to:
   - Kirkland, Washington
   - Clyde Hill, Washington
   - Hunts Point, Washington
+apple maps: "https://maps.apple/p/PUAiXuD7RAjmYv"
 census profile: "https://data.census.gov/profile/Yarrow_Point_town,_Washington?g=160XX00US5380150"
 disambiguation of: Yarrow Point
 town in:

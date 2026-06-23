@@ -1,5 +1,6 @@
 ---
 title: "Skykomish, Washington"
+apple maps: "https://maps.apple/p/1EVM-5FifF0g-E"
 census profile: "https://data.census.gov/profile/Skykomish_town,_Washington?g=160XX00US5364855"
 not to be confused with: Skykomish River
 openstreetmap: "https://www.openstreetmap.org/relation/237878"

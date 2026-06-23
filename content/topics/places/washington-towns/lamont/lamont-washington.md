@@ -1,5 +1,6 @@
 ---
 title: "Lamont, Washington"
+apple maps: "https://maps.apple/p/K14ZCZrb.HSkqt"
 census profile: "https://data.census.gov/profile/Lamont_town,_Washington?g=160XX00US5338215"
 openstreetmap: "https://www.openstreetmap.org/relation/237729"
 town in:
