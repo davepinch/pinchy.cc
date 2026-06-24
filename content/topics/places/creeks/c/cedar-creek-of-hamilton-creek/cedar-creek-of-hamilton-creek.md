@@ -7,6 +7,7 @@ creek in:
   - Skamania County, Washington
   - Washington
 creek of: Cedar Falls
+disambiguation of: Cedar Creek
 openstreetmap: "https://www.openstreetmap.org/relation/14640204"
 tributary of: Hamilton Creek
 wikidata: "https://www.wikidata.org/wiki/Q49875848"
