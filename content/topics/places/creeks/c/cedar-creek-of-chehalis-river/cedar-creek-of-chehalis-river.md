@@ -10,6 +10,7 @@ disambiguation of: Cedar Creek
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1503876"
 openstreetmap: "https://www.openstreetmap.org/relation/11610293"
 tributary of: Chehalis River
+wikidata: "https://www.wikidata.org/wiki/Q49875758"
 tags:
   - creek
   - disambiguation
