@@ -1,5 +1,6 @@
 ---
 title: "Frederick William I of Prussia"
+in the wild: "https://www.reddit.com/r/HistoryMemes/comments/1uedyih/18thcentury_prussian_family_therapy/"
 occupation: King in Prussia
 successor: Frederick the Great
 wikidata: "https://www.wikidata.org/wiki/Q105013"
