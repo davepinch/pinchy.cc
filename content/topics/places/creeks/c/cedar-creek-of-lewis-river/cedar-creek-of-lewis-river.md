@@ -4,6 +4,7 @@ creek in:
   - Cedar Creek Wildlife Area Unit
   - Clark County, Washington
   - Washington
+disambiguation of: Cedar Creek
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1517540"
 openstreetmap:
   - "https://www.openstreetmap.org/way/457774478 (to Chelatchie Prairie Railroad)"
