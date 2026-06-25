@@ -1,5 +1,6 @@
 ---
 title: "Technoviking"
+in the wild: "https://www.reddit.com/r/SipsTea/comments/1uet70d/back_in_2000_a_man_in_berlin_accidentally/"
 moment of: Fuckparade
 note: The video is the work of Matthias Fritsch. The viking is unknown.
 viking of:
