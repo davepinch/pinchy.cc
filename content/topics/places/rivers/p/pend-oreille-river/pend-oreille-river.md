@@ -18,7 +18,6 @@ vicinity to:
   - Crawford State Park
 wikidata: "https://www.wikidata.org/wiki/Q270499"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pend_Oreille_River"
-wikipedia: "https://en.wikipedia.org/wiki/Pend_Oreille_River"
 tags:
   - river
 ---
