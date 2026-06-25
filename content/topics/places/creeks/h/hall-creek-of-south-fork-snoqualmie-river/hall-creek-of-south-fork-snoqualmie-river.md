@@ -1,5 +1,5 @@
 ---
-title: "Hall Creek"
+title: "Hall Creek (South Fork Snoqualmie River tributary)"
 creek in:
   - Olallie State Park
   - Palouse to Cascades State Park
