@@ -5,7 +5,7 @@ creek in:
   - Stevens County, Washington
   - Washington
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1517541"
-note: This Cedar Creek is not defined on OpenStreetMap but is not defined in GNIS.
+note: This Cedar Creek is not defined on OpenStreetMap but is defined in GNIS.
 tributary of: Little Pend Oreille River
 wikidata: "https://www.wikidata.org/wiki/Q49875864"
 tags:
