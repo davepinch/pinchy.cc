@@ -1,5 +1,5 @@
 ---
-title: "Cedar Creek (Pacific Ocean tributary)"
+title: "Cedar Creek (Pacific Ocean tributary in Jefferson County)"
 creek in:
   - Olympic Experimental State Forest
   - Olympic National Park
