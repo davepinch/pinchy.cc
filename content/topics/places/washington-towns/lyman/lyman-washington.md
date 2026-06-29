@@ -11,4 +11,5 @@ town of: Skagit River
 wikidata: "https://www.wikidata.org/entity/Q1513803"
 tags:
   - town
+  - no Wikimedia category
 ---
