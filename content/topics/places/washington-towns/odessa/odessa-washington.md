@@ -2,6 +2,7 @@
 title: "Odessa, Washington"
 apple maps: "https://maps.apple/p/oYI3KhHz04hn9w"
 namesake of: Odesa, Ukraine
+official website: "https://odessawa.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/238022"
 town in:
   - Lincoln County, Washington
