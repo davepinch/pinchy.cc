@@ -10,5 +10,6 @@ waterfall in:
 tags:
   - waterfall
   - TODO
+  - no Wikidata record
   - no Wikipedia article
 ---
