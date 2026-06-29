@@ -7,6 +7,7 @@ adjacent to:
   - Medina, Washington
 apple maps: "https://maps.apple/p/_~eQZsst5ewX_X"
 census profile: "https://data.census.gov/profile/Hunts_Point_town,_Washington?g=160XX00US5332755"
+official website: "https://huntspoint-wa.gov/"
 town in:
   - King County, Washington
   - Washington
