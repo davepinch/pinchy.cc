@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q14713796"
 tags:
   - river
   - tributary
+  - no Wikimedia category
 ---
