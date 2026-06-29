@@ -5,7 +5,8 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-06-20
 type: website
-url: /en.wikipedia.org/Wiki/Central_Asia/
+website: "https://en.wikipedia.org/wiki/Central_Asia"
+url: /en.wikipedia.org/wiki/Central_Asia/
 wikipedia of: Central Asia
 tags:
   - Wikipedia
