@@ -12,7 +12,6 @@ town in:
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q1512391"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:South_Prairie,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/South_Prairie,_Washington"
 tags:
   - town
 ---
