@@ -4,14 +4,13 @@ downstream of: Snowshoe Falls
 openstreetmap: "https://www.openstreetmap.org/node/347397526"
 vicinity of: Snoqualmie Pass
 waterfall in:
+  - Denny Creek
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest
   - King County, Washington
   - Washington
   - Cascade Range
-waterfall of:
-  - Denny Creek
-  - Denny Creek Trail
+waterfall of: Denny Creek Trail
 tags:
   - waterfall
   - no Wikidata record

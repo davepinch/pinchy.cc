@@ -6,13 +6,12 @@ vicinity of:
   - Washington State Route 542
   - Glacier, Washington
 waterfall in:
+  - North Fork Nooksack River
   - Whatcom County, Washington
   - Mount Baker–Snoqualmie National Forest
   - Washington
   - Cascade Range
-waterfall of:
-  - North Fork Nooksack River
-  - Nooksack River
+waterfall of: Nooksack River
 wikidata: "https://www.wikidata.org/wiki/Q38265"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Nooksack_Falls"
 tags:

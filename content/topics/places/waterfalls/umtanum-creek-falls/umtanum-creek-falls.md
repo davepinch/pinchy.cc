@@ -2,10 +2,10 @@
 title: "Umtanum Creek Falls"
 openstreetmap: "https://www.openstreetmap.org/node/761767528"
 waterfall in:
+  - Umtanum Creek
   - Wenas Wildlife Area
   - Kittitas County, Washington
   - Washington
-waterfall of: Umtanum Creek
 tags:
   - waterfall
   - no Wikidata record

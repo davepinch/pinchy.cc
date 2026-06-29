@@ -2,10 +2,10 @@
 title: "Racehorse Falls"
 openstreetmap: "https://www.openstreetmap.org/node/3672602325"
 waterfall in:
+  - Racehorse Creek
   - Whatcom County, Washington
   - Washington
   - Cascade Range
-waterfall of: Racehorse Creek
 tags:
   - waterfall
   - no Wikidata record

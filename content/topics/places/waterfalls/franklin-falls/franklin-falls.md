@@ -6,11 +6,11 @@ vicinity of:
   - Interstate 90
   - Snoqualmie Pass
 waterfall in:
+  - South Fork Snoqualmie River
   - Mount Baker–Snoqualmie National Forest
   - King County, Washington
   - Washington
   - Cascade Range
-waterfall of: South Fork Snoqualmie River
 wikidata: "https://www.wikidata.org/wiki/Q37421"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Franklin_Falls_(Washington)"
 tags:

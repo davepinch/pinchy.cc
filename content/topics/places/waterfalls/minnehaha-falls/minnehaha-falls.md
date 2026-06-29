@@ -2,10 +2,10 @@
 title: "Minnehaha Falls"
 openstreetmap: "https://www.openstreetmap.org/node/246931305"
 waterfall in:
+  - Minnehaha Creek
   - Minneapolis, Minnesota
   - Hennepin County, Minnesota
   - Minnesota
-waterfall of: Minnehaha Creek
 wikidata: "https://www.wikidata.org/wiki/Q1401902"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnehaha_Falls,_Minneapolis"
 tags:
