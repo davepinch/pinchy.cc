@@ -5,6 +5,7 @@ influencd by:
   - C++
   - Java
 programming language by: Microsoft
+wikidata: "https://www.wikidata.org/wiki/Q2370"
 tags:
   - influential
   - programming language
