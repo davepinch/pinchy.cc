@@ -11,7 +11,6 @@ related:
 tag requires property:
   - OpenStreetMap
   - waterfall in
-  - waterfall of
   - Wikidata
   - Wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q34038"
