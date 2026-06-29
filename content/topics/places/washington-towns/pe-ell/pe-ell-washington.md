@@ -1,6 +1,7 @@
 ---
 title: "Pe Ell, Washington"
 apple maps: "https://maps.apple/p/pH.Ncn7uI~i-Ih"
+official website: "https://www.townofpeell.com/"
 town in:
   - Lewis County, Washington
   - Washington
