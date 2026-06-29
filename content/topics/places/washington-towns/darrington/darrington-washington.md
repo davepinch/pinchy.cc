@@ -3,6 +3,7 @@ title: "Darrington, Washington"
 apple maps: "https://maps.apple/p/qeccqhAKdFPreb"
 census profile: "https://data.census.gov/profile/Darrington_town,_Washington?g=160XX00US5316690"
 disambiguation of: Darrington
+official website: "https://townofdarrington.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/237657"
 town in:
   - Snohomish County, Washington
