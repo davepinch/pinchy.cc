@@ -12,4 +12,5 @@ tags:
   - waterfall
   - no OpenStreetMap element
   - no Wikidata record
+  - no Wikipedia article
 ---
