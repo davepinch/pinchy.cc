@@ -10,4 +10,5 @@ waterfall in:
 tags:
   - waterfall
   - no Wikidata record
+  - no Wikipedia article
 ---
