@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1138229"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Cowlitz_River"
 tags:
   - river
+  - tributary
 ---
