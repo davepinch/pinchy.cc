@@ -9,6 +9,7 @@ river in:
   - Washington
 tributary of: Naches River
 wikidata: "https://www.wikidata.org/wiki/Q4083654"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Bumping_River"
 tags:
   - river
 ---
