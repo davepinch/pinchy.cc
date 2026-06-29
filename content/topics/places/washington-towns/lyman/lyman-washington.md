@@ -1,6 +1,7 @@
 ---
 title: "Lyman, Washington"
 apple maps: "https://maps.apple/p/srSSsDGmr0FC9j"
+official website: "https://townoflyman.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/237864"
 town in:
   - Day Creek Kosbab Conservation Area
