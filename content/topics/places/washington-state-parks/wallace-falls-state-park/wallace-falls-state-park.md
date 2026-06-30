@@ -1,5 +1,6 @@
 ---
 title: "Wallace Falls State Park"
+apple maps: "https://maps.apple/p/Kc2-f8X7enj9Dy"
 openstreetmap: "https://www.openstreetmap.org/relation/3721977"
 state park in:
   - Snohomish County, Washington

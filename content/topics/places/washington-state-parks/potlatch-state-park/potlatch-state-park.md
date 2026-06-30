@@ -1,5 +1,6 @@
 ---
 title: "Potlatch State Park"
+apple maps: "https://maps.apple/p/1S2KUuqb6ciF.0"
 official website: "https://parks.wa.gov/find-parks/state-parks/potlatch-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740261"
 state park in:

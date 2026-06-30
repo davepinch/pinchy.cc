@@ -3,6 +3,7 @@ title: "Forks of the Sky State Park"
 adjacent to:
   - BNSF Scenic Subdivision
   - Skykomish River
+apple maps: "https://maps.apple/p/5gjvxYU4h0-pVA"
 administered by: Wallace Falls State Park
 openstreetmap: "https://www.openstreetmap.org/relation/3722017"
 state park in:

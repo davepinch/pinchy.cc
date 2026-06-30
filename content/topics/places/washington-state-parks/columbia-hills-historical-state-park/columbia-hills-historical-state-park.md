@@ -1,5 +1,6 @@
 ---
 title: "Columbia Hills Historical State Park"
+apple maps: "https://maps.apple/p/s92oqRs67nIxsc"
 borders:
   - Columbia River
   - Columbia Hills Natural Area Preserve

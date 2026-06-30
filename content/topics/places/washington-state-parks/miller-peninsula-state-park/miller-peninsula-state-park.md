@@ -1,5 +1,6 @@
 ---
 title: "Miller Peninsula State Park"
+apple maps: "https://maps.apple/p/S_e5~cqqwRvJt9"
 official website: "https://parks.wa.gov/find-parks/state-parks/miller-peninsula-state-park-property"
 openstreetmap: "https://www.openstreetmap.org/way/256652205"
 state park in:

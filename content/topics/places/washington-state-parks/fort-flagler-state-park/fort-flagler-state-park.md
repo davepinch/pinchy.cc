@@ -1,5 +1,6 @@
 ---
 title: "Fort Flagler State Park"
+apple maps: "https://maps.apple/p/MJhremuRu3oQ7~"
 official website: "https://parks.wa.gov/find-parks/state-parks/fort-flagler-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/way/758305488"
 state park in:

@@ -1,5 +1,6 @@
 ---
 title: "Nisqually State Park"
+apple maps: "https://maps.apple/p/X97x8JwWR-4uFi"
 official website: "https://parks.wa.gov/find-parks/state-parks/nisqually-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740418"
 state park in:

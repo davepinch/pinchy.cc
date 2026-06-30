@@ -1,5 +1,6 @@
 ---
 title: "Ginkgo Petrified Forest State Park"
+apple maps: "https://maps.apple/p/keqQMpQ9sX7vJ-"
 official website: "https://parks.wa.gov/find-parks/state-parks/ginkgo-petrified-forest-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5959516"
 state park in:

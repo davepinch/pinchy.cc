@@ -1,5 +1,6 @@
 ---
 title: "Doug's Beach State Park"
+apple maps: "https://maps.apple/p/wXcKAzvy90553d"
 official website: "https://parks.wa.gov/find-parks/state-parks/dougs-beach-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/9421314"
 state park in:

@@ -1,5 +1,6 @@
 ---
 title: "Lake Wenatchee State Park"
+apple maps: "https://maps.apple/p/hVPw-.67mQx70t"
 official website: "https://parks.wa.gov/find-parks/state-parks/lake-wenatchee-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5960424"
 state park in:

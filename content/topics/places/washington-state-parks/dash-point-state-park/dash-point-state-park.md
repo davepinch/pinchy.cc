@@ -1,5 +1,6 @@
 ---
 title: "Dash Point State Park"
+apple maps: "https://maps.apple/p/koJhpW7UoQmCTp"
 official website: "https://parks.wa.gov/find-parks/state-parks/dash-point-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740585"
 state park in:

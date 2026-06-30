@@ -1,5 +1,6 @@
 ---
 title: "Joseph Whidbey State Park"
+apple maps: "https://maps.apple/p/s4hAnPM_bX9_u~"
 official website: "https://parks.wa.gov/find-parks/state-parks/joseph-whidbey-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3738213"
 state park in:

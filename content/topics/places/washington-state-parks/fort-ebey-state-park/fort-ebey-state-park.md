@@ -1,5 +1,6 @@
 ---
 title: "Fort Ebey State Park"
+apple maps: "https://maps.apple/p/ik4KSAVxmefJUC"
 official website: "https://parks.wa.gov/find-parks/state-parks/fort-ebey-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3738460"
 state park in:

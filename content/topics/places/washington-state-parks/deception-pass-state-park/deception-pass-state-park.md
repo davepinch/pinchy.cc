@@ -1,5 +1,6 @@
 ---
 title: "Deception Pass State Park"
+apple maps: "https://maps.apple/p/AqvGoUMkBMKB.V"
 official website: "https://parks.wa.gov/find-parks/state-parks/deception-pass-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3125105"
 state park in:

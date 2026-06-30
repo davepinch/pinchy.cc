@@ -1,5 +1,6 @@
 ---
 title: "Rainbow Falls State Park"
+apple maps: "https://maps.apple/p/UYExKAUQStXXp.z"
 official website: "https://parks.wa.gov/find-parks/state-parks/rainbow-falls-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740395"
 state park in:

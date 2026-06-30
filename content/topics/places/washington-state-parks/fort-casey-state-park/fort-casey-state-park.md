@@ -1,5 +1,6 @@
 ---
 title: "Fort Casey State Park"
+apple maps: "https://maps.apple/p/Kbg0eidmX_mYtU"
 official website: "https://parks.wa.gov/find-parks/state-parks/fort-casey-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3738461"
 state park in:

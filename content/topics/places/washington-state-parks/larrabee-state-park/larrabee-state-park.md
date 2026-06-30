@@ -1,5 +1,6 @@
 ---
 title: "Larrabee State Park"
+apple maps: "https://maps.apple/p/tjX0K.r-utaGR~"
 official website: "https://parks.wa.gov/find-parks/state-parks/larrabee-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3723001"
 state park in:

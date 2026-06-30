@@ -3,6 +3,7 @@ title: "Seaquest State Park"
 adjacent to:
   - Silver Lake (Cowlitz County, Washington)
   - Silver Lake, Washington
+apple maps: "https://maps.apple/p/xWymCCap1qMjuf"
 official website: "https://parks.wa.gov/find-parks/state-parks/seaquest-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/2909117"
 state park in:

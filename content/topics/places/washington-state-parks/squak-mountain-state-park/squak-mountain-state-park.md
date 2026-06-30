@@ -1,5 +1,6 @@
 ---
 title: "Squak Mountain State Park"
+apple maps: "https://maps.apple/p/W78H02ro4PXF3j"
 borders:
   - Cougar Mountain Regional Wildland Park
   - Issaquah, Washington

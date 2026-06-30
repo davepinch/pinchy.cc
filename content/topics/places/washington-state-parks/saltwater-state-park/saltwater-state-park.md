@@ -1,5 +1,6 @@
 ---
 title: "Saltwater State Park"
+apple maps: "https://maps.apple/p/6XMMEAC-bwEds-"
 official website: "https://parks.wa.gov/find-parks/state-parks/saltwater-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3713124"
 state park in:

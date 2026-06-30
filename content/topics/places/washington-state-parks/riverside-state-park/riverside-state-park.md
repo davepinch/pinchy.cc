@@ -1,5 +1,6 @@
 ---
 title: "Riverside State Park"
+apple maps: "https://maps.apple/p/1Qc9BQQT-T9Mgj"
 note:
   - Riverside State Park consists of multiple non-contiguous properties spanning Spokane, Lincoln, and Stevens counties.
   - Little Spokane Natural Area is managed by the park with extra restrictions to protect its unique environment.

@@ -1,5 +1,6 @@
 ---
 title: "Lake Sammamish State Park"
+apple maps: "https://maps.apple/p/tyKaoIrIrmoHoN"
 official website: "https://parks.wa.gov/find-parks/state-parks/lake-sammamish-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5967398"
 state park in:

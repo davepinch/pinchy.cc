@@ -1,5 +1,6 @@
 ---
 title: "Dugualla State Park"
+apple maps: "https://maps.apple/p/R-xIbht8nnupY7"
 mapcarta: "https://mapcarta.com/W256652291"
 official website: None; the park is not listed on https://parks.wa.gov as of December 2025.
 openstreetmap: "https://www.openstreetmap.org/way/256652291"

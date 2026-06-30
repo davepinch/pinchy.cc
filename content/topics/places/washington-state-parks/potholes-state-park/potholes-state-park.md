@@ -1,5 +1,6 @@
 ---
 title: "Potholes State Park"
+apple maps: "https://maps.apple/p/NLyNAnhURb~2jD"
 openstreetmap: "https://www.openstreetmap.org/relation/5959503"
 state park in:
   - Grant County, Washington

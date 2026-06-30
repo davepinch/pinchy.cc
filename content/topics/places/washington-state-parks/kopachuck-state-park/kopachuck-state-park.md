@@ -1,5 +1,6 @@
 ---
 title: "Kopachuck State Park"
+apple maps: "https://maps.apple/p/A~._H90kKYhYBc"
 official website: "https://parks.wa.gov/find-parks/state-parks/kopachuck-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740422"
 state park in:

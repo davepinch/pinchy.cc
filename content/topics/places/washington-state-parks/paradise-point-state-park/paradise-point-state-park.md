@@ -1,5 +1,6 @@
 ---
 title: "Paradise Point State Park"
+apple maps: "https://maps.apple/p/nABP160ZcjVtvf"
 crossed by bridge of: Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/11493779"
 state park in:

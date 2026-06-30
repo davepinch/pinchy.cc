@@ -1,6 +1,7 @@
 ---
 title: "Pearrygin Lake State Park"
 adjacent to: Methow Wildlife Area Unit
+apple maps: "https://maps.apple/p/aah1B1n0YJgDZY"
 official website: "https://parks.wa.gov/find-parks/state-parks/pearrygin-lake-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/6191326"
 state park in:

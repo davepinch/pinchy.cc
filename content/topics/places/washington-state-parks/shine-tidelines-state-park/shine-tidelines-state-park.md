@@ -1,5 +1,6 @@
 ---
 title: "Shine Tidelands State Park"
+apple maps: "https://maps.apple/p/j99249CKVXLyKL"
 openstreetmap: "https://www.openstreetmap.org/relation/5951256"
 state park in:
   - Jefferson County, Washington

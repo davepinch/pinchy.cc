@@ -1,5 +1,6 @@
 ---
 title: "Olallie State Park"
+apple maps: "https://maps.apple/p/dxedQMFg~~_V44"
 borders:
   - Cedar River Municipal Watershed
   - Middle Fork Snoqualmie Natural Resources Conservation Area

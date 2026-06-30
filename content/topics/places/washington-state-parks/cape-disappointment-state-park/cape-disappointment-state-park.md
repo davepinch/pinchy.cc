@@ -1,5 +1,6 @@
 ---
 title: "Cape Disappointment State Park"
+apple maps: "https://maps.apple/p/RVKyIg~fyXydt6"
 official website: "https://parks.wa.gov/find-parks/state-parks/cape-disappointment-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5953628"
 state park in:

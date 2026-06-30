@@ -1,5 +1,6 @@
 ---
 title: "Lime Kiln Point State Park"
+apple maps: "https://maps.apple/p/xgGZT2tWGuVk7I"
 official website: "https://parks.wa.gov/find-parks/state-parks/lime-kiln-point-state-park"
 openstreetmap: "https://www.openstreetmap.org/way/122081157"
 state park in:

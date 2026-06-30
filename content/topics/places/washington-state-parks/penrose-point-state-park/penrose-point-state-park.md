@@ -1,5 +1,6 @@
 ---
 title: "Penrose Point State Park"
+apple maps: "https://maps.apple/p/r3wQaLHggP5iG5"
 official website: "https://parks.wa.gov/find-parks/state-parks/penrose-point-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3740345"
 state park in:
