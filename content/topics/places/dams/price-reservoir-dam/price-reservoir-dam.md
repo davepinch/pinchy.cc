@@ -14,5 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q48996398"
 tags:
   - dam
   - no OpenStreetMap element
-  - note
+  - no Wikimedia category
 ---
