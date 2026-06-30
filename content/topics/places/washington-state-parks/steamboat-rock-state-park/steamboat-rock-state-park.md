@@ -7,10 +7,10 @@ borders:
 namesake of: Steamboat Rock
 official website: "https://parks.wa.gov/find-parks/state-parks/steamboat-rock-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5903817"
-state park of:
+state park in:
   - Grant County, Washington
   - Washington
-state park in:
+state park of:
   - Washington State Parks and Recreation Commission
   - Banks Lake
 wikidata: "https://www.wikidata.org/wiki/Q7605408"
