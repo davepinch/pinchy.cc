@@ -1,5 +1,6 @@
 ---
 title: "Sedro-Woolley, Washington"
+apple maps: "https://maps.apple/p/esqgacSbgdZT1R"
 city of:
   - Skagit County, Washington
   - Washington

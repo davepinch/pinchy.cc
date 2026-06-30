@@ -1,5 +1,6 @@
 ---
 title: "Sequim, Washington"
+apple maps: "https://maps.apple/p/z7q3aQ47UvXnnE"
 city of:
   - Strait of Juan de Fuca
   - Clallam County, Washington
