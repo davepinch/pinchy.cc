@@ -1,6 +1,7 @@
 ---
 title: "Queets, Washington"
 census-designated place in:
+  - Quinault Reservation
   - Jefferson County, Washington
   - Grays Harbor County, Washington
   - Washington
@@ -8,7 +9,6 @@ census-designated place of: United States Census Bureau
 namesake of: Queets River
 openstreetmap: "https://www.openstreetmap.org/relation/18389991"
 vicinity to:
-  - Quinault Reservation
   - Olympic Experimental State Forest
   - Olympic National Park
   - Daniel J. Evans Wilderness
