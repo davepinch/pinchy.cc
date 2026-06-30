@@ -8,5 +8,6 @@ wikidata: "https://www.wikidata.org/wiki/Q49700333"
 tags:
   - lake
   - reservoir
+  - no Wikimedia category
   - no Wikipedia article
 ---

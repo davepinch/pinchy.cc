@@ -15,5 +15,6 @@ wikidata: "https://www.wikidata.org/wiki/Q104531127"
 tags:
   - lake
   - disambiguation
+  - no Wikimedia category
   - no Wikipedia article
 ---

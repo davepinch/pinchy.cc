@@ -10,5 +10,6 @@ tags:
   - lake
   - reservoir
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---
