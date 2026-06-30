@@ -1,6 +1,7 @@
 ---
 title: "Sun sued for breach of license and won, barring Microsoft from extending Java outside of the (Sun-controlled) process. So they dropped it and built their own version, with blackjack and hookers."
 author: toyg
+comment of: Hacker News
 creation of: "C#"
 lawsuit of:
   - Sun Microsystems
