@@ -1,5 +1,6 @@
 ---
 title: "Admiralty Bay"
+apple maps: "https://maps.apple/p/hMTFTiHkmAokys"
 bay in:
   - Island County, Washington
   - Washington

@@ -1,5 +1,6 @@
 ---
 title: "Bud Homan Park"
+apple maps: "https://maps.apple/p/iMcbzN.T7mV5dI"
 city park in:
   - Kirkland, Washington
   - King County, Washington

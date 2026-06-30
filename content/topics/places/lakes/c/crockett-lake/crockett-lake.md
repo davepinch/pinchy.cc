@@ -1,5 +1,6 @@
 ---
 title: "Crockett Lake"
+apple maps: "https://maps.apple/p/WCsp2Pj0..ICQy"
 lake in:
   - Fort Casey State Park
   - Crockett Lake Preserve

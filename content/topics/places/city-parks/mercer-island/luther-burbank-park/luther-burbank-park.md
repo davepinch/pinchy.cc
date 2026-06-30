@@ -1,5 +1,6 @@
 ---
 title: "Luther Burbank Park"
+apple maps: "https://maps.apple/p/_R53zWn-w3SWL9"
 city park in:
   - Mercer Island, Washington
   - King County, Washington

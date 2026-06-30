@@ -1,5 +1,6 @@
 ---
 title: "Ben Ure Island"
+apple maps: "https://maps.apple/p/Ax7tYcbx10Pzkj"
 island in:
   - Deception Pass
   - Island County, Washington

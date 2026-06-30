@@ -1,5 +1,6 @@
 ---
 title: "Fort Ward Park"
+apple maps: "https://maps.apple/p/K~VwSWbfMnGdMy"
 city park in:
   - Bainbridge Island
   - Kitsap County, Washington

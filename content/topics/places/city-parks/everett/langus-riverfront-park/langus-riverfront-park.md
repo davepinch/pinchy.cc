@@ -1,5 +1,6 @@
 ---
 title: "Langus Riverfront Park"
+apple maps: "https://maps.apple/p/AM-WkFD5U-kj~j"
 city park in:
   - Smith Island (Snohomish River)
   - Everett, Washington

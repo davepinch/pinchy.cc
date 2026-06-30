@@ -1,5 +1,6 @@
 ---
 title: "Brierwood Park"
+apple maps: "https://maps.apple/p/SA5yj2ZCjFkgSq"
 city park in:
   - Brier, Washington
   - Snohomish County, Washington

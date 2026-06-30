@@ -1,5 +1,6 @@
 ---
 title: "Lord Hill Regional Park"
+apple maps: "https://maps.apple/p/4.XBCpEYB05PYu"
 county park of: Snohomish County, Washington
 near:
   - Cathcart, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Whispering Willow Park"
+apple maps: "https://maps.apple/p/zzqhuhYRIfh.q.z"
 city park in:
   - Lake Forest Park, Washington
   - King County, Washington

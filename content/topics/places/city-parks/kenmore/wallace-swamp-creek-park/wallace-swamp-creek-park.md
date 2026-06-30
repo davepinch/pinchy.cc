@@ -1,6 +1,7 @@
 ---
 title: "Wallace Swamp Creek Park"
 address: 19851 73rd Ave NE, Kenmore, WA 98028
+apple maps: "https://maps.apple/p/55bJKRZ.PiWLAL"
 city park in:
   - Kenmore, Washington
   - King County, Washington

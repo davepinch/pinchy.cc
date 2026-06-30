@@ -1,5 +1,6 @@
 ---
 title: "Washington Park"
+apple maps: "https://maps.apple/p/WHXD5L-Bj2yF73"
 city park in:
   - Anacortes, Washington
   - Fidalgo Island

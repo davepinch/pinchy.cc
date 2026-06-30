@@ -1,5 +1,6 @@
 ---
 title: "Lake Stickney Community Park"
+apple maps: "https://maps.apple/p/snmSBwrB.03gCz"
 county park of:
   - Snohomish County, Washington
   - Lake Stickney, Washington

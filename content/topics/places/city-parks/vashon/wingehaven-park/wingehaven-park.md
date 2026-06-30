@@ -1,5 +1,6 @@
 ---
 title: "Wingehaven Park"
+apple maps: "https://maps.apple/p/2x~UtL5JV-L4Gs"
 city park in:
   - Vashon, Washington
   - King County, Washington

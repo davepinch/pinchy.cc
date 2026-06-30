@@ -1,5 +1,6 @@
 ---
 title: "Lost Lake Park"
+apple maps: "https://maps.apple/p/L2D4Gt7AgWVBIA"
 city park in:
   - Vashon, Washington
   - King County, Washington

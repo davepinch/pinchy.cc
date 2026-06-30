@@ -1,5 +1,6 @@
 ---
 title: "Meadowdale Beach Park"
+apple maps: "https://maps.apple/p/L2ASwi3dHuU2RL"
 county park of:
   - Snohomish County, Washington
   - Meadowdale, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Heritage Park"
+apple maps: "https://maps.apple/p/jVmFKCGfJBi36e"
 city park in:
   - Lynnwood, Washington
   - Alderwood Manor, Washington

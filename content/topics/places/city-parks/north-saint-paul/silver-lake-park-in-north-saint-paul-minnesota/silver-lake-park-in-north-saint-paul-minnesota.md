@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake Park (North Saint Paul, Minnesota)"
+apple maps: "https://maps.apple/p/oj_aGNz0VfP57o"
 city park in:
   - North Saint Paul, Minnesota
   - Ramsey County, Minnesota

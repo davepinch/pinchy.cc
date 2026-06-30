@@ -1,5 +1,6 @@
 ---
 title: "Point Robinson Park"
+apple maps: "https://maps.apple/p/UDoXeKxsc33AVi"
 city park in:
   - Vashon, Washington
   - Maury Island

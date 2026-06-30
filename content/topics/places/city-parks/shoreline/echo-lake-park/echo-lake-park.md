@@ -1,5 +1,6 @@
 ---
 title: "Echo Lake Park"
+apple maps: "https://maps.apple/p/ikTi5xJv8swFV~"
 city park in:
   - Shoreline, Washington
   - King County, Washington

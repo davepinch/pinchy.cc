@@ -1,5 +1,6 @@
 ---
 title: "Park at Bothell Landing"
+apple maps: "https://maps.apple/p/myCww3xpHSEmxu"
 city park in:
   - Bothell, Washington
   - King County, Washington

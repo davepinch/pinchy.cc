@@ -1,5 +1,6 @@
 ---
 title: "Meydenbauer Bay Park"
+apple maps: "https://maps.apple/p/f4CrDdBHht5RA3"
 city park in:
   - Bellevue, Washington
   - King County, Washington

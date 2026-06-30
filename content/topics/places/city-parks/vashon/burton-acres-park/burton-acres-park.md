@@ -1,5 +1,6 @@
 ---
 title: "Burton Acres Park"
+apple maps: "https://maps.apple/p/k6hsk8JWrNgaDC"
 city park in:
   - Vashon, Washington
   - King County, Washington

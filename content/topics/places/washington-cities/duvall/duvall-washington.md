@@ -1,5 +1,6 @@
 ---
 title: "Duvall, Washington"
+apple maps: "https://maps.apple/p/3.njisHEb2PkNI"
 census profile: "https://data.census.gov/profile/Duvall_city,_Washington?g=160XX00US5319035"
 city of:
   - King County, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Fort Steilacoom Park"
+apple maps: "https://maps.apple/p/61EUz-mW9R9TSb"
 around Tacoma of: VISIT SOMEWHERE NEW
 city park in:
   - Lakewood, Washington

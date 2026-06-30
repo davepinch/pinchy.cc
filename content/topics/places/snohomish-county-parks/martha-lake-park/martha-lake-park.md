@@ -1,5 +1,6 @@
 ---
 title: "Martha Lake Park"
+apple maps: "https://maps.apple/p/tnzQzFtv5ISuTz"
 county park of:
   - Martha Lake
   - Martha Lake, Washington

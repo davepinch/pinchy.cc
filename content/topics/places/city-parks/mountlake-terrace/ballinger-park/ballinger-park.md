@@ -1,5 +1,6 @@
 ---
 title: "Ballinger Park"
+apple maps: "https://maps.apple/p/DPyWa76_MZpzkn"
 city park in:
   - Mountlake Terrace, Washington
   - Snohomish County, Washington

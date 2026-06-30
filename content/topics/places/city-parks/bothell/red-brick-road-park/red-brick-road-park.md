@@ -1,5 +1,6 @@
 ---
 title: "Red Brick Road Park"
+apple maps: "https://maps.apple/p/okph.ZXj4n-NuP"
 city park in:
   - Bothell, Washington
   - King County, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Al Borlin Park"
+apple maps: "https://maps.apple/p/p.cxykvkpUcbwc"
 city park in:
   - Monroe, Washington
   - Snohomish County, Washington

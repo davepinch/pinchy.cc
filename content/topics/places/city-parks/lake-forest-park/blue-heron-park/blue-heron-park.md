@@ -1,5 +1,6 @@
 ---
 title: "Blue Heron Parak"
+apple maps: "https://maps.apple/p/pjd899sFXHj1aN"
 city park in:
   - Lake Forest Park, Washington
   - King County, Washington

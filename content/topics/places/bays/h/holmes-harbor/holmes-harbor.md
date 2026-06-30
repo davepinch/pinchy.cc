@@ -1,5 +1,6 @@
 ---
 title: "Holmes Harbor"
+apple maps: "https://maps.apple/p/V5JK_-KK7R.3L.z"
 bay in:
   - Saratoga Passage
   - Island County, Washington

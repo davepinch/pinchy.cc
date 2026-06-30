@@ -1,5 +1,6 @@
 ---
 title: "Rhody Ridge Arboretum"
+apple maps: "https://maps.apple/p/dcoAQ8JcSS9mDD"
 county park of:
   - Snohomish County, Washington
   - Martha Lake, Washington

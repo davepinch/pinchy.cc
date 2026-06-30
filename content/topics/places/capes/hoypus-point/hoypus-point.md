@@ -1,5 +1,6 @@
 ---
 title: "Hoypus Point"
+apple maps: "https://maps.apple/p/R6N_kDQyXeCGUj"
 cape of:
   - Deception Pass
   - Deception Pass State Park

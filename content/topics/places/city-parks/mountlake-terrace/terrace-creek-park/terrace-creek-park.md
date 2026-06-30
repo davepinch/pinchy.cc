@@ -1,5 +1,6 @@
 ---
 title: "Terrace Creek Park"
+apple maps: "https://maps.apple/p/N41YyMNWiEgUdR"
 city park in:
   - Mountlake Terrace, Washington
   - Snohomish County, Washington

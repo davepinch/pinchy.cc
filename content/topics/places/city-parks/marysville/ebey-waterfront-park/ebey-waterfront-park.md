@@ -1,5 +1,6 @@
 ---
 title: "Ebey Waterfront Park"
+apple maps: "https://maps.apple/p/hyU45.jMVzImry"
 city park in:
   - Marysville, Washington
   - Snohomish County, Washington

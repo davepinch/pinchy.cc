@@ -1,5 +1,6 @@
 ---
 title: "Rhododendron Park"
+apple maps: "https://maps.apple/p/XRs-zx52z0ybkA"
 city park in:
   - Kenmore, Washington
   - King County, Washington

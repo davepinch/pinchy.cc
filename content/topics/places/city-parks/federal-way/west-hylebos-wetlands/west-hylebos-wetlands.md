@@ -1,5 +1,6 @@
 ---
 title: "West Hylebos Wetlands"
+apple maps: "https://maps.apple/p/M17q5y0JhnH-kj"
 city park in:
   - Federal Way, Washington
   - King County, Washington

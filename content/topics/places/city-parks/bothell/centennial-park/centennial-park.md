@@ -1,5 +1,6 @@
 ---
 title: "Centennial Park"
+apple maps: "https://maps.apple/p/i14Sup~_e3Ay-X"
 city park in:
   - Bothell, Washington
   - Snohomish County, Washington

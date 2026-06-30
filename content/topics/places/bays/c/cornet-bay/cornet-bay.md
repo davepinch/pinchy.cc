@@ -1,5 +1,6 @@
 ---
 title: "Cornet Bay"
+apple maps: "https://maps.apple/p/auqhgTUiz2FGJ4"
 bay in:
   - Deception Pass
   - Island County, Washington

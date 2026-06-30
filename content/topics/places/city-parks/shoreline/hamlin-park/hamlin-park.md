@@ -1,5 +1,6 @@
 ---
 title: "Hamlin Park"
+apple maps: "https://maps.apple/p/TVRd5vzXkAVYPE"
 city park in:
   - Shoreline, Washington
   - King County, Washington

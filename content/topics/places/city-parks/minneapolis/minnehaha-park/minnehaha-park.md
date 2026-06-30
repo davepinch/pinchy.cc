@@ -1,5 +1,6 @@
 ---
 title: "Minnehaha Park"
+apple maps: "https://maps.apple/p/~0xfH7Nbk0569v"
 city park in:
   - Minneapolis, Minnesota
   - Hennepin County, Minnesota

@@ -1,6 +1,7 @@
 ---
 title: "Sherwood Park"
 address: "2237 Kennard Street, Maplewood, MN 55109"
+apple maps: "https://maps.apple/p/EMnwjt9gP3KdUq"
 city park in:
   - Maplewood, Minnesota
   - Ramsey County, Minnesota

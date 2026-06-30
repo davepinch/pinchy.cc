@@ -1,5 +1,6 @@
 ---
 title: "Veterans' Memorial Field"
+apple maps: "https://maps.apple/p/MQAsBTuehIIJSm"
 city park in:
   - Issaquah, Washington
   - King County, Washington

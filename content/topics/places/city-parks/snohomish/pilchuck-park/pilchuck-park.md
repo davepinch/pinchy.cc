@@ -1,5 +1,6 @@
 ---
 title: "Pilchuck Park"
+apple maps: "https://maps.apple/p/GA~Lggpx2nAg-v"
 city park in:
   - Snohomish, Washington
   - Snohomish County, Washington

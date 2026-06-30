@@ -1,5 +1,6 @@
 ---
 title: "Picnic Point Park"
+apple maps: "https://maps.apple/p/8bcwJyka2MX9uz"
 county park of:
   - Snohomish County, Washington
   - Picnic Point, Washington

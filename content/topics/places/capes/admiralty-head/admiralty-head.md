@@ -1,5 +1,6 @@
 ---
 title: "Admiralty Head"
+apple maps: "https://maps.apple/p/ggMo.v8S9vt65X"
 cape of:
   - Fort Casey State Park
   - Ebey's Landing National Historical Reserve

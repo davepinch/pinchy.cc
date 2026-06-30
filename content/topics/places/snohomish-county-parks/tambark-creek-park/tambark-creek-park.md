@@ -1,5 +1,6 @@
 ---
 title: "Tambark Creek Park"
+apple maps: "https://maps.apple/p/2gD_9ftTiLPTdr"
 county park of:
   - Snohomish County, Washington
   - North Creek, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Fern Cove Park"
+apple maps: "https://maps.apple/p/5x6WVuP5rT15IX"
 borders: Shinglemill Creek Natural Area
 city park in:
   - Vashon, Washington

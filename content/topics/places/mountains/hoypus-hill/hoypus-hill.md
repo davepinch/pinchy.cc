@@ -1,5 +1,6 @@
 ---
 title: "Hoypus Hill"
+apple maps: "https://maps.apple/p/k1cUpSw.qbumu-"
 mapcarta: "https://mapcarta.com/23941436"
 mountain in:
   - Deception Pass State Park

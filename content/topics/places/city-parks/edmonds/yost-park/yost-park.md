@@ -1,5 +1,6 @@
 ---
 title: "Yost Park"
+apple maps: "https://maps.apple/p/pqJMQVBFx53k4R"
 city park in:
   - Edmonds, Washington
   - Snohomish County, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Log Boom Park"
+apple maps: "https://maps.apple/p/yK5P5N-CU2i0au"
 city park in:
   - Kenmore, Washington
   - King County, Washington

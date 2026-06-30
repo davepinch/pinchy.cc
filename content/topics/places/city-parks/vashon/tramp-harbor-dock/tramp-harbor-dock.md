@@ -1,5 +1,6 @@
 ---
 title: "Tramp Harbor Dock"
+apple maps: "https://maps.apple/p/Dr0G7jprc.z35J"
 city park in:
   - Vashon, Washington
   - King County, Washington

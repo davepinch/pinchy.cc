@@ -1,5 +1,6 @@
 ---
 title: "Scriber Creek Park"
+apple maps: "https://maps.apple/p/MNaqQjcGcLMwIA"
 city park in:
   - Lynnwood, Washington
   - Snohomish County, Washington

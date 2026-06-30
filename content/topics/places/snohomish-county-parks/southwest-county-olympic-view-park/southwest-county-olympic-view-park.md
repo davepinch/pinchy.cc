@@ -1,5 +1,6 @@
 ---
 title: "Southwest County Olympic View Park"
+apple maps: "https://maps.apple/p/19uy3bbKAjMgLp"
 county park of:
   - Snohomish County, Washington
   - Edmonds, Washington

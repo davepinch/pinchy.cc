@@ -1,5 +1,6 @@
 ---
 title: "Bruce Vento Nature Sanctuary"
+apple maps: "https://maps.apple/p/b0NmmyImM16rCU"
 city park in:
   - Saint Paul, Minnesota
   - Ramsey County, Minnesota

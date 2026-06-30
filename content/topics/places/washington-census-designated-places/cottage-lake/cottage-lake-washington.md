@@ -8,6 +8,7 @@ adjacent to:
   - Union Hill-Novelty Hill, Washington
   - Redmond, Washington
   - Woodinville, Washington
+apple maps: "https://maps.apple/p/bTUsZ0K-goe8VZ"
 census-designated place in:
   - King County, Washington
   - Washington

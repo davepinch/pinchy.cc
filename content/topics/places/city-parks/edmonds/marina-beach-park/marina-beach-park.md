@@ -1,5 +1,6 @@
 ---
 title: "Marina Beach Park"
+apple maps: "https://maps.apple/p/zAH.cHey4eXg7S"
 city park in:
   - Edmonds, Washington
   - Snohomish County, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Three Forks Natural Area"
+apple maps: "https://maps.apple/p/HDS773z.HD5Z.J"
 city park in:
   - Snoqualmie, Washington
   - King County, Washington

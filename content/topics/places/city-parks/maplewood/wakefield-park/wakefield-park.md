@@ -1,5 +1,6 @@
 ---
 title: "Wakefield Park"
+apple maps: "https://maps.apple/p/4dIIPiWBHHadGT"
 dave:
   - My parents brought me and my brothers sledding here one winter.
   - Once I biked around the neighborhood along both sides of the lake.

@@ -1,9 +1,11 @@
 ---
 title: "Dash Point Park"
+apple maps: "https://maps.apple/p/3MDMigVHJ2iKW3"
 city park in:
-  - Tacoma, Washington
+  - Dash Point, Washington
   - Pierce County, Washington
 city park of:
+  - Tacoma, Washington
   - East Passage
   - Puget Sound
 not to be confused with: Dash Point State Park

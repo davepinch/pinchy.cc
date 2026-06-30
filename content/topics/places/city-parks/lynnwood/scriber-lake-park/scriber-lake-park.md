@@ -1,5 +1,6 @@
 ---
 title: "Scriber Lake Park"
+apple maps: "https://maps.apple/p/Eb3e0JucErYPtZ"
 city park in:
   - Lynnwood, Washington
   - Snohomish County, Washington

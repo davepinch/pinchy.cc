@@ -1,5 +1,6 @@
 ---
 title: "North Creek County Park"
+apple maps: "https://maps.apple/p/qYjRitJJXad8Mn"
 county park of:
   - Snohomish County, Washington
   - North Creek

@@ -1,5 +1,6 @@
 ---
 title: "McCollum Pioneer Park"
+apple maps: "https://maps.apple/p/TtKj.LCY_R99HV"
 county park of:
   - Snohomish County, Washington
   - Martha Lake, Washington
