@@ -5,7 +5,7 @@ lake in:
   - Washington
 lake of:
   - Methow Wildlife Area Unit
-  - Pearrygin lake State Park
+  - Pearrygin Lake State Park
 openstreetmap: "https://www.openstreetmap.org/relation/6191327"
 wikidata: "https://www.wikidata.org/wiki/Q49702294"
 wikipedia: "https://en.wikipedia.org/wiki/Pearrygin_Lake"
