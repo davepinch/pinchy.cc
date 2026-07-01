@@ -4,7 +4,7 @@ memory: I knew a student named Autumn when I attended North Saint Paul High Scho
 memory by: David Pinch
 memory of:
   - autumn
-  - North Saint Paul High School
+  - North High School
 type: memory
 url: /david-pinch/autumn/
 tags:
