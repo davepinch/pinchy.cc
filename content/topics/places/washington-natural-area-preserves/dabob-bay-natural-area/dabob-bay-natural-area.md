@@ -1,5 +1,5 @@
 ---
-title: "Dabob Bay Natural Area Preserve"
+title: "Dabob Bay Natural Area"
 adjacent to: Tarboo Wildlife Area Unit
 natural area preserve in:
   - Dabob Bay
