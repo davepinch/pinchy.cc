@@ -7,6 +7,7 @@ adjacent to:
   - Brier, Washington
   - Mountlake Terrace, Washington
   - Lynnwood, Washington
+apple maps: "https://maps.apple/p/Ct277W6adkuuKD"
 census-designated place in:
   - Snohomish County, Washington
   - Washington
