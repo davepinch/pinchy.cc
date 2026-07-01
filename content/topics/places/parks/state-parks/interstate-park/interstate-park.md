@@ -1,5 +1,7 @@
 ---
 title: "Interstate Park"
+apple maps:
+  - "https://maps.apple/p/55dbGDY8W_B_tH (MN)"
 official website:
   - "https://www.dnr.state.mn.us/state_parks/park.html?id=spk00178 (MN)"
   - "https://dnr.wisconsin.gov/topic/parks/interstate (WI)"
