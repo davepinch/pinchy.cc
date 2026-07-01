@@ -5,6 +5,7 @@ national wildlife refuge in:
   - Jefferson County, Washington
   - Olympic Coast National Marine Sanctuary
   - Washington
+  - Pacific Northwest
   - United States
   - Pacific Ocean
 national wildlife refuge of: Washington Maritime National Wildlife Refuge Complex

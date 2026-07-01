@@ -1,10 +1,11 @@
 ---
 title: "Steigerwald Lake National Wildlife Refuge"
-national wildlife refuge of:
+national wildlife refuge in:
   - Columbia River
   - Columbia River Gorge National Scenic Area
   - Clark County, Washington
   - Washington
+  - Pacific Northwest
   - United States
 official website: "https://www.fws.gov/refuge/steigerwald-lake"
 openstreetmap: "https://www.openstreetmap.org/relation/6102022"

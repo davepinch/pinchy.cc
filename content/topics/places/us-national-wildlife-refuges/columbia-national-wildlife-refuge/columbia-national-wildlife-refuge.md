@@ -4,6 +4,7 @@ national wildlife refuge in:
   - Grant County, Washington
   - Adams County, Washington
   - Washington
+  - Pacific Northwest
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/6129851"
 wikidata: "https://www.wikidata.org/wiki/Q5149778"

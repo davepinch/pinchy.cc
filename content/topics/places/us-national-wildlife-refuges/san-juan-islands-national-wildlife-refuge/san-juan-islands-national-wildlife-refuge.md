@@ -6,6 +6,7 @@ national wildlife refuge in:
   - Skagit County, Washington
   - Whatcom County, Washington
   - Washington
+  - Pacific Northwest
   - United States
 national wildlife refuge of: Washington Maritime National Wildlife Refuge Complex
 official website: "https://www.fws.gov/refuge/san-juan-islands"

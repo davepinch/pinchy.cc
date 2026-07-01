@@ -8,6 +8,7 @@ national wildlife refuge in:
   - Pierce County, Washington
   - Thurston County, Washington
   - Washington
+  - Pacific Northwest
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/6129926"
 url: /billy-frank-jr-nisqually-national-wildlife-refuge/

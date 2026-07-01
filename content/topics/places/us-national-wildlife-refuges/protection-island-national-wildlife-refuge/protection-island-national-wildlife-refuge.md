@@ -5,6 +5,7 @@ national wildlife refuge in:
   - Strait of Juan de Fuca
   - Jefferson County, Washington
   - Washington
+  - Pacific Northwest
   - United States
 national wildlife refuge of: Washington Maritime National Wildlife Refuge Complex
 official website: "https://www.fws.gov/refuge/protection-island"

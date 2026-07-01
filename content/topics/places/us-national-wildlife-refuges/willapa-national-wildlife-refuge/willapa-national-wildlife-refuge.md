@@ -6,6 +6,7 @@ adjacent to:
 national wildlife refuge in:
   - Pacific County, Washington
   - Washington
+  - Pacific Northwest
   - United States
 national wildlife refuge of: United States Fish and Wildlife Service
 openstreetmap: "https://www.openstreetmap.org/relation/6130460"
