@@ -4,11 +4,11 @@ adjacent to:
   - DuPont, Washington
   - Nisqually Wildlife Area Unit
   - incomplete list
-national wildlife refuge of:
-  - United States
-  - Washington
+national wildlife refuge in:
   - Pierce County, Washington
   - Thurston County, Washington
+  - Washington
+  - United States
 openstreetmap: "https://www.openstreetmap.org/relation/6129926"
 url: /billy-frank-jr-nisqually-national-wildlife-refuge/
 wikidata: "https://www.wikidata.org/wiki/Q3492331"
