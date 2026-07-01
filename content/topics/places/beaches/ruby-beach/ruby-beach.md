@@ -14,6 +14,7 @@ beach of:
 openstreetmap: "https://www.openstreetmap.org/relation/7464002"
 parking: "https://www.openstreetmap.org/relation/18293057"
 vicinity to: U.S. Route 101
+wikidata: "https://www.wikidata.org/wiki/Q682162"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ruby_Beach"
 tags:
   - beach
