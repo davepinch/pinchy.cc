@@ -1,11 +1,11 @@
 ---
 title: "Puget Lobe"
+ice sheet in: North America
 lobe of: Cordilleran Ice Sheet
-ice sheet of: North America
 TODO: Create Wikipedia article for the Puget Lobe
 tags:
   - ice sheet
-  - glacier
+  - lobe
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article
