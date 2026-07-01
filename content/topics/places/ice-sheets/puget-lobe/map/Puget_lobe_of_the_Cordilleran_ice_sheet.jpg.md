@@ -49,7 +49,7 @@ puget lobe of:
   - Willapa Bay
 source: "https://pubs.usgs.gov/sir/2017/5022/a/sir20175022a.pdf"
 thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Puget_lobe_of_the_Cordilleran_ice_sheet.jpg/426px-Puget_lobe_of_the_Cordilleran_ice_sheet.jpg
+  https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Puget_lobe_of_the_Cordilleran_ice_sheet.jpg/500px-Puget_lobe_of_the_Cordilleran_ice_sheet.jpg
 type: picture
 url: /commons.wikimedia.org/wiki/Puget_lobe_of_the_Cordilleran_ice_sheet.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Puget_lobe_of_the_Cordilleran_ice_sheet.jpg"
