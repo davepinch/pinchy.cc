@@ -1,6 +1,10 @@
 ---
 title: "North High School"
-high school in: North Saint Paul, Minnesota
+high school in:
+  - North Saint Paul, Minnesota
+  - Ramsey County, Minnesota
+openstreetmap: "https://www.openstreetmap.org/way/738262309"
+wikidata: "https://www.wikidata.org/wiki/Q14692959"
 tags:
   - high school
 ---
