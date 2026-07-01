@@ -1,5 +1,5 @@
 ---
-title: "Washougal Oaks Natural Area Preserve"
+title: "Washougal Oaks Natural Area"
 natural area preserve in:
   - Columbia River Gorge National Scenic Area
   - Clark County, Washington
