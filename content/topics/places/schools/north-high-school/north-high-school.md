@@ -1,6 +1,6 @@
 ---
 title: "North High School"
-school of: North Saint Paul, Minnesota
+high school in: North Saint Paul, Minnesota
 tags:
   - high school
 ---
