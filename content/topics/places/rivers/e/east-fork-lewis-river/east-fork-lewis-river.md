@@ -8,7 +8,7 @@ river in:
   - Gifford Pinchot National Forest
   - Yacolt Burn State Forest
   - Moulton Falls Regional Park
-  - Lewisville Park
+  - Lewisville Regional Park
   - East Fork Lewis River Greenway
   - Paradise Point State Park
   - Two Forks Wildlife Area Unit
