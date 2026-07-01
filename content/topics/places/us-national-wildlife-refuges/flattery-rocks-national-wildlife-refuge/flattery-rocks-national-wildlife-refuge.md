@@ -6,6 +6,7 @@ national wildlife refuge in:
   - Clallam County, Washington
   - Olympic Peninsula
   - Washington
+  - United States
 national wildlife refuge of:
   - Washington Maritime National Wildlife Refuge Complex
   - United States Fish and Wildlife Service
