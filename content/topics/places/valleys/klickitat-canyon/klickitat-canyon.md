@@ -1,5 +1,5 @@
 ---
-title: "Klicktat Canyon"
+title: "Klickitat Canyon"
 canyon in:
   - Yakama Indian Reservation
   - Yakima County, Washington
