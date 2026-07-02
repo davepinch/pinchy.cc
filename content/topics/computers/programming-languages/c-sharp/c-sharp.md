@@ -3,7 +3,7 @@ title: "C#"
 designed by: Anders Hejlsberg
 influencd by:
   - C++
-  - Java
+  - Java (programming language)
 programming language by: Microsoft
 wikidata: "https://www.wikidata.org/wiki/Q2370"
 tags:
