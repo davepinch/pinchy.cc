@@ -9,7 +9,7 @@ census-designated place of:
   - Pacific Ocean
   - Quinault River
 openstreetmap: "https://www.openstreetmap.org/relation/238252"
-wikimedia: "https://www.wikidata.org/wiki/Q1505349"
+wikidata: "https://www.wikidata.org/wiki/Q1505349"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Taholah,_Washington"
 tags:
   - census-designated place
