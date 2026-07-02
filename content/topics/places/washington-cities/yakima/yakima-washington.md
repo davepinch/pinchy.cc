@@ -18,7 +18,6 @@ vicinity to:
   - Parker, Washington
 wikidata: "https://www.wikidata.org/wiki/Q499203"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Yakima,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Yakima,_Washington"
 tags:
   - city
 ---
