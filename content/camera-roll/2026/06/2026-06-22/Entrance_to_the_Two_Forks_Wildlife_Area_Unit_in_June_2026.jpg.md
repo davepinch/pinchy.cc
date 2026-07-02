@@ -4,6 +4,7 @@ attention of: sign
 barrier of: concrete
 description: "Standing at the entrance to the Two Forks Wildlife Area Unit along the East Fork Lewis River. There is a trail quickly becoming overrun with thorny blackberry bushes."
 entrance of: Two Forks Wildlife Area Unit
+license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/fd/Entrance_to_the_Two_Forks_Wildlife_Area_Unit_in_June_2026.jpg"
 picture of:
   - concrete
