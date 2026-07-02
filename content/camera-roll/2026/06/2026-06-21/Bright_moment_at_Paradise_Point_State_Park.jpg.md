@@ -10,6 +10,8 @@ shoreline of: East Fork Lewis River
 sunlight of: grass
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Bright_moment_at_Paradise_Point_State_Park.jpg/330px-Bright_moment_at_Paradise_Point_State_Park.jpg"
 type: picture
+url: /commons.wikimedia.org/wiki/Bright_moment_at_Paradise_Point_State_Park.jpg/
+website: "https://commons.wikimedia.org/wiki/File:Bright_moment_at_Paradise_Point_State_Park.jpg"
 when: 2026-06-21
 tags:
   - Wikimedia Commons
