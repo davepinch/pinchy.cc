@@ -1,5 +1,6 @@
 ---
 title: "Colville National Forest"
+apple maps: "https://maps.apple/p/RfUCfiL1PyKtnL"
 national forest in:
   - Ferry County, Washington
   - Pend Oreille County, Washington

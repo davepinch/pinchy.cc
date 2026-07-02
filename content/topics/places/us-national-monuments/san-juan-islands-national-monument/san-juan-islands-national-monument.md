@@ -1,5 +1,6 @@
 ---
 title: "San Juan Islands National Monument"
+apple maps: "https://maps.apple/p/td26fPkvz4IsjD"
 national monument in:
   - San Juan Island
   - San Juan Islands
