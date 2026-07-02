@@ -1,5 +1,6 @@
 ---
 title: "Mount Rainier National Park"
+apple maps: "https://maps.apple/p/9yDV_0-ATrIj5J"
 national park of:
   - National Park Service
   - United States

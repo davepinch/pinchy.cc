@@ -1,5 +1,6 @@
 ---
 title: "Yellowstone National Park"
+apple maps: "https://maps.apple/p/dd.cgMVwbG0-sP"
 national park of:
   - United States
   - Wyoming

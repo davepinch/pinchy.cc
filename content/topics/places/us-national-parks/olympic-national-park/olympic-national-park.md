@@ -1,5 +1,6 @@
 ---
 title: "Olympic National Park"
+apple maps: "https://maps.apple/p/4oVGTsYiMXCiKI"
 openstreetmap: "https://www.openstreetmap.org/relation/163769"
 national park of:
   - Olympic Peninsula
