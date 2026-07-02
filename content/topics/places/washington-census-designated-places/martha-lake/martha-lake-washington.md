@@ -8,6 +8,7 @@ adjacent to:
   - Larch Way, Washington
   - North Lynnwood, Washington
   - Lake Stickney, Washington
+apple maps: "https://maps.apple/p/0I3j2B9hro20Nv"
 census-designated place in:
   - Snohomish County, Washington
   - Washington
