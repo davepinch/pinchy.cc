@@ -4,6 +4,7 @@ person of:
   - Lynnwood, Washington
   - Washington
   - Wisconsin
+  - Scotland
 tags:
   - person
   - Scottish
