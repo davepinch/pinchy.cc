@@ -1,5 +1,6 @@
 ---
 title: "Deming Homestead Eagle Park"
+apple maps: "https://maps.apple/p/2fQhFJ4ViBceu1"
 county park of:
   - Whatcom County, Washington
   - Deming, Washington

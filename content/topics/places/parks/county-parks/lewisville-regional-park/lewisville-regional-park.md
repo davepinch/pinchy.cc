@@ -1,6 +1,7 @@
 ---
 title: "Lewisville Regional Park"
 also known as: Lewisville Park
+apple maps: "https://maps.apple/p/09sM6VaxN0YPDW"
 county park in:
   - Clark County, Washington
   - Washington
