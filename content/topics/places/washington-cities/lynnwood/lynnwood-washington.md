@@ -6,7 +6,6 @@ adjacent to:
   - Alderwood Manor, Washington
   - Mountlake Terrace, Washington
   - Edmonds, Washington
-census profile: "https://data.census.gov/profile/Lynnwood_city,_Washington?g=160XX00US5340840"
 city of:
   - Snohomish County, Washington
   - Washington
