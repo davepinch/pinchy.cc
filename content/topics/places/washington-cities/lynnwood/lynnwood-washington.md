@@ -6,6 +6,7 @@ adjacent to:
   - Alderwood Manor, Washington
   - Mountlake Terrace, Washington
   - Edmonds, Washington
+apple maps: "https://maps.apple/p/bBFr6eu0BZWoU2"
 city in:
   - Snohomish County, Washington
   - Washington
