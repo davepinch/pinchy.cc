@@ -1,5 +1,6 @@
 ---
 title: "Vadnais-Snail Lakes Regional Park"
+apple maps: "https://maps.apple/p/19ILayPxDTrtbH"
 county park of:
   - Shoreview, Minnesota
   - Vadnais Heights, Minnesota
