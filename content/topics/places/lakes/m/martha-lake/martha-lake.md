@@ -1,5 +1,6 @@
 ---
 title: "Martha Lake"
+apple maps: "https://maps.apple/p/bUWXhVt-yfcvCX"
 lake in:
   - Martha Lake, Washington
   - Snohomish County, Washington
