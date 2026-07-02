@@ -3,7 +3,7 @@ title: "Lacamas Creek"
 creek in:
   - Lacamas Prairie Natural Resources Conservation Area
   - Lacamas Prairie Natural Area Preserve
-  - Camp Curie Park
+  - Camp Currie Park
   - Proebstel, Washington
   - Camas, Washington
   - Clark County, Washington
