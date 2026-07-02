@@ -1,5 +1,5 @@
 ---
-title: "Rock Creek (Middle Fork Snoqualmie River)"
+title: "Rock Creek (Middle Fork Snoqualmie River tributary)"
 creek in:
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest
