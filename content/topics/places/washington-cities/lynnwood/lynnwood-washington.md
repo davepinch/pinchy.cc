@@ -6,9 +6,10 @@ adjacent to:
   - Alderwood Manor, Washington
   - Mountlake Terrace, Washington
   - Edmonds, Washington
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
+city of:
   - Interstate 5
   - Washington State Route 99
 openstreetmap: "https://www.openstreetmap.org/relation/237662"
