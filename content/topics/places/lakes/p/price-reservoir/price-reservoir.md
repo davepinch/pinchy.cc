@@ -5,7 +5,7 @@ lake in:
   - Clark County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/35089827"
-tributary of: Washuburn Creek
+tributary of: Woodburn Creek
 tags:
   - lake
   - reservoir
