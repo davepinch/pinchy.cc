@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q49951546"
 tags:
   - cape
   - disambiguation
+  - no Wikipedia article
 ---

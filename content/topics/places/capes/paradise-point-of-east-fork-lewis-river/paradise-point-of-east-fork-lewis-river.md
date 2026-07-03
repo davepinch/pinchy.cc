@@ -11,4 +11,5 @@ tags:
   - cape
   - disambiguation
   - no Wikidata record
+  - no Wikipedia article
 ---
