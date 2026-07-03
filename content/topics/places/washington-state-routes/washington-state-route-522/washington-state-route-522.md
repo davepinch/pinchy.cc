@@ -12,12 +12,15 @@ route:
   - Snohomish River
   - Monroe, Washington
   - U.S. Route 2
-highway of:
+state route in:
   - King County, Washington
   - Snohomish County, Washington
-state highway of: Washington
+  - Washington
+state route of: Washington State Department of Transportation
+TODO: Change the route of SR 522 to a sequence
 wikidata: "https://www.wikidata.org/wiki/Q836747"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_State_Route_522"
 tags:
-  - state highway
+  - Washington State Route
+  - TODO
 ---

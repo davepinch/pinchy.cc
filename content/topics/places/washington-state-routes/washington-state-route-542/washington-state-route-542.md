@@ -1,23 +1,21 @@
 ---
 title: "Washington State Route 542"
-crosses: Nooksack River
-eastbound route:
+state route in:
   - Bellingham, Washington
   - Deming, Washington
   - Welcome, Washington
   - Kendall, Washington
   - Maple Falls, Washington
   - Glacier, Washington
-  - Mount Baker
-highway of:
   - Whatcom County, Washington
+  - Washington
+state route of:
+  - Washington State Department of Transportation
   - Mount Baker
-near: Interstate 5
-TODO: Update collate.ps1 so that if a page crosses another, it is crossed back.
-state highway of: Washington
+  - Nooksack River
+vicinity to: Interstate 5
 wikidata: "https://www.wikidata.org/wiki/Q836816"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_State_Route_542"
 tags:
-  - TODO
-  - state highway
+  - Washington State Route
 ---
