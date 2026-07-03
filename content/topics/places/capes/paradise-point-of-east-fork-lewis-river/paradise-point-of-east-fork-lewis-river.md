@@ -7,6 +7,7 @@ cape in:
   - Washington
 cape of: East Fork Lewis River
 disambiguation of: Paradise Point
+openstreetmap: "https://www.openstreetmap.org/way/365034300 (parking)"
 tags:
   - cape
   - disambiguation
