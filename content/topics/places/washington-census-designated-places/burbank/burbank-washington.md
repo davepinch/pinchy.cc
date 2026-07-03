@@ -11,6 +11,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/237414"
 western terminus of: Washington State Route 124
 wikidata: "https://www.wikidata.org/wiki/Q1505383"
 tags:
-  - city
+  - census-designated place
   - no Wikimedia category
 ---
