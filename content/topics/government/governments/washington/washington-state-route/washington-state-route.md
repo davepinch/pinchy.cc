@@ -11,4 +11,6 @@ tag requires property:
   - wikipedia
 wikidata: "https://www.wikidata.org/wiki/Q98939901"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:State_highways_in_Washington_(state)"
+tags:
+  - type of highway
 ---
