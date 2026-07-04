@@ -9,7 +9,7 @@ adjacent to:
   - West Woodland, Seattle
   - Whittier Heights, Seattle
 apple maps: "https://maps.apple/p/T_EzXsHUSN02zL"
-neighborhood of: Seattle
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150978653"
 wikidata: "https://www.wikidata.org/wiki/Q7186393"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Phinney_Ridge,_Seattle,_Washington"
