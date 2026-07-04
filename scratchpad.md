@@ -2,6 +2,14 @@
 title: "Scratchpad"
 draft: true
 ---
+7/3
+Ages:
+- The Age of Film
+  - first film
+  - first color film
+  - etc.
+- The Age of Artificial Intelligence
+
 6/2
 https://news.ycombinator.com/item?id=48369980
 
