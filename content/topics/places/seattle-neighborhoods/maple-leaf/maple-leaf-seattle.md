@@ -1,6 +1,6 @@
 ---
 title: "Maple Leaf, Seattle"
-borders:
+adjacent to:
   - Lake City, Seattle
   - Licton Springs, Seattle
   - Meadowbrook, Seattle
@@ -9,7 +9,8 @@ borders:
   - Victory Heights, Seattle
   - Washington State Route 522
   - Wedgwood, Seattle
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/7a6PAhVtC3dcy6"
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150946177"
 part of: Northgate, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q6753924"

@@ -3,13 +3,14 @@ title: "Interbay, Seattle"
 across the canal:
   - Ballard, Seattle
   - Adams, Seattle
-borders:
+adjacent to:
   - Belltown, Seattle
   - Lake Washington Ship Canal
   - Magnolia, Seattle
   - Queen Anne, Seattle
   - Salmon Bay
-neighborhood of:
+apple maps: "https://maps.apple/p/gQ__uEnQTDp.aj"
+neighborhood in:
   - Seattle
   - Elliott Bay
   - Puget Sound

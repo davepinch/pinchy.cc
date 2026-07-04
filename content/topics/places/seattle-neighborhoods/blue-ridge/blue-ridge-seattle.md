@@ -1,6 +1,6 @@
 ---
 title: "Blue Ridge, Seattle"
-borders:
+adjacent to:
   - Ballard, Seattle
   - Broadview, Seattle
   - Carkeek Park
@@ -8,7 +8,8 @@ borders:
   - Golden Gardens Park
   - Loyal Heights, Seattle
   - Sunset Hill, Seattle
-neighborhood of:
+apple maps: "https://maps.apple/p/9E2RWtH-i.a7TD"
+neighborhood in:
   - Seattle
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150979529"

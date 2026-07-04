@@ -1,6 +1,6 @@
 ---
 title: "View Ridge, Seattle"
-borders:
+adjacent to:
   - Bryant, Seattle
   - Hawthorne Hills, Seattle
   - Matthews Beach, Seattle
@@ -8,7 +8,8 @@ borders:
   - Lake City, Seattle
   - Wedgwood, Seattle
   - Windermere, Seattle
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/YiztNI0Njf3QUZ"
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150955075"
 wikidata: "https://www.wikidata.org/wiki/Q7928753"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:View_Ridge,_Seattle,_Washington"

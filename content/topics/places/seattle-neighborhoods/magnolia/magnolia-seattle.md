@@ -3,10 +3,11 @@ title: "Magnolia, Seattle"
 across the canal:
   - Ballard, Seattle
   - Sunset Hill, Seattle
-borders:
+adjacent to:
   - Interbay, Seattle
   - Lake Washington Ship Canal
-neighborhood of:
+apple maps: "https://maps.apple/p/FsuSixKGNiGDHq"
+neighborhood in:
   - Seattle
   - Elliott Bay
   - Shilshole Bay

@@ -1,12 +1,13 @@
 ---
 title: "Capitol Hill, Seattle"
-borders:
+adjacent to:
   - Central District, Seattle
   - First Hill, Seattle
   - Montlake, Seattle
   - Squire Park, Seattle
   - incomplete list
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/uB1j.rfGR3vL_9"
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150939846"
 places:
   - Cal Anderson Park

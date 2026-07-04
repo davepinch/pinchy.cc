@@ -1,6 +1,6 @@
 ---
 title: "Bryant, Seattle"
-borders:
+adjacent to:
   - Hawthorne Hills, Seattle
   - Laurelhurst, Seattle
   - Ravenna, Seattle
@@ -8,7 +8,8 @@ borders:
   - View Ridge, Seattle
   - Wedgwood, Seattle
   - Windermere, Seattle
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/7LzBVU6zdUWc6e"
+neighborhood in: Seattle
 overlaps: Hawthorne Hills, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q4980534"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bryant,_Seattle,_Washington"

@@ -1,11 +1,14 @@
 ---
 title: "Rainier View, Seattle"
-borders:
+adjacent to:
   - Rainier Beach, Seattle
   - Bryn Mawr-Skyway
   - Tukwila, Washington
+apple maps: "https://maps.apple/p/mCTHBCtpnd9hGM"
 neighborhood of: Rainier Valley, Seattle
-near:
+note: >-
+  Rainier View is sometimes considered part of the Rainier Beach neighborhood. It does not have its own Wikipedia entry, although it is shown as a distinct neighborhood on Bing maps.
+vicinity to:
   - Interstate 5
   - Lake Washington
 tags:
@@ -13,4 +16,3 @@ tags:
   - no Wikidata record
   - no Wikipedia article
 ---
-Rainier View is sometimes considered part of the Rainier Beach neighborhood. It does not have its own Wikipedia entry, although it is shown as a distinct neighborhood on Bing maps.

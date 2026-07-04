@@ -1,13 +1,14 @@
 ---
 title: "South Beacon Hill, Seattle"
-borders:
+adjacent to:
   - Beacon Hill, Seattle
   - Brighton, Seattle
   - Dunlap, Seattle
   - Georgetown, Seattle
   - Rainier Beach, Seattle
   - Tukwila, Washington
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/-~h90N8nNEPb.x"
+neighborhood in: Seattle
 roadways:
   - Interstate 5
   - incomplete list

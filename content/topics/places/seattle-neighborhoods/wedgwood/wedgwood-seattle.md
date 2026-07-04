@@ -1,7 +1,7 @@
 ---
 title: "Wedgwood, Seattle"
 big rock in the neighborhood: Wedgwood Rock
-borders:
+adjacent to:
   - Bryant, Seattle
   - Lake City, Seattle
   - Maple Leaf, Seattle
@@ -11,7 +11,8 @@ borders:
   - Roosevelt, Seattle
   - View Ridge, Seattle
   - Washington State Route 522
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/5YbPHxt.aagD4x"
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/13915552"
 wikidata: "https://www.wikidata.org/wiki/Q7979189"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wedgwood,_Seattle,_Washington"

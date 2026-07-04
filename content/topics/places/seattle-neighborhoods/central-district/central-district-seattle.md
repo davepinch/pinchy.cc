@@ -1,12 +1,13 @@
 ---
 title: "Central District, Seattle"
-borders:
+adjacent to:
   - Capitol Hill, Seattle
   - Leschi, Seattle
   - Madrona, Seattle
   - Mount Baker, Seattle
   - incomplete list
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/-3UyUBpFgFhw7N"
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/1999382370"
 wikidata: "https://www.wikidata.org/wiki/Q5060713"
 tags:

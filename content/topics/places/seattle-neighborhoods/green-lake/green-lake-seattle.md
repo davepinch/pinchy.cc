@@ -1,6 +1,6 @@
 ---
 title: "Green Lake, Seattle"
-borders:
+adjacent to:
   - Greenwood, Seattle
   - Licton Springs, Seattle
   - Phinney Ridge, Seattle
@@ -8,7 +8,8 @@ borders:
   - Wallingford, Seattle
   - Woodland Park
   - incomplete list
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/WJLBGx.DHFJCKv"
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150939088"
 wikidata: "https://www.wikidata.org/wiki/Q5602737"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Green_Lake,_Seattle,_Washington"

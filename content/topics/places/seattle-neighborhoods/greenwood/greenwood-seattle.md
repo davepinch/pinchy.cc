@@ -1,6 +1,6 @@
 ---
 title: "Greenwood, Seattle"
-borders:
+adjacent to:
   - Ballard, Seattle
   - Bitter Lake, Seattle
   - Broadview, Seattle
@@ -8,7 +8,8 @@ borders:
   - Green Lake, Seattle
   - Phinney Ridge, Seattle
   - Whittier Heights, Seattle
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/zZI_xEUf~Y9QZj"
+neighborhood in: Seattle
 northeast corner: Haller Lake, Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150977294"
 wikidata: "https://www.wikidata.org/wiki/Q5604954"

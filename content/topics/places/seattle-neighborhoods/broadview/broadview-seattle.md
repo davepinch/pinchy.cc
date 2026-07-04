@@ -1,11 +1,12 @@
 ---
 title: "Broadview, Seattle"
-borders:
+adjacent to:
   - Bitter Lake, Seattle
   - Blue Ridge, Seattle
   - Greenwood, Seattle
   - Shoreline, Washington
-neighborhood of:
+apple maps: "https://maps.apple/p/jaZ0SXC~~nrS__"
+neighborhood in:
   - Seattle
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150962740"

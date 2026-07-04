@@ -1,18 +1,19 @@
 ---
 title: "Dunlap, Seattle"
-borders:
+adjacent to:
   - Brighton, Seattle
   - Lake Washington
   - Rainier Beach, Seattle
   - Seward Park, Seattle
   - South Beacon Hill, Seattle
+apple maps: "https://maps.apple/p/i.hDY_0TCirA-j"
 boundaries:
   - S Kenyon St (north)
   - S Fletcher St and Rainer Ave S (south)
   - Lake Washington (east)
   - Martin Luther King, Jr. Way S (west)
 district: Rainier Valley, Seattle
-neighborhood of: Seattle
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150937668"
 wikidata: "https://www.wikidata.org/wiki/Q5315406"
 tags:

@@ -1,10 +1,11 @@
 ---
 title: "Pioneer Square, Seattle"
-borders:
+adjacent to:
   - Downtown Seattle
   - incomplete list
+apple maps: "https://maps.apple/p/ICCvy-t0N_hoHe"
+neighborhood in: Seattle
 neighborhood of:
-  - Seattle
   - Elliott Bay
   - Puget Sound
 wikidata: "https://www.wikidata.org/wiki/Q3388921"

@@ -1,11 +1,12 @@
 ---
 title: "West Seattle"
-borders:
+adjacent to:
   - Burien, Washington
   - White Center, Washington
   - incomplete list
+apple maps: "https://maps.apple/p/mG~_QMR552itX.z"
+neighborhood in: Seattle
 neighborhood of:
-  - Seattle
   - Elliott Bay
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150970845"

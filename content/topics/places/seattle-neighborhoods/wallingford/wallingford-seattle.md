@@ -1,6 +1,6 @@
 ---
 title: "Wallingford, Seattle"
-borders:
+adjacent to:
   - Fremont, Seattle
   - Green Lake, Seattle
   - Interstate 5
@@ -9,7 +9,8 @@ borders:
   - Washington State Route 99
   - Woodland Park
   - incomplete list
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/tBwYyMJcVjZ4zK"
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150973716"
 wikidata: "https://www.wikidata.org/wiki/Q2341532"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wallingford,_Seattle,_Washington"

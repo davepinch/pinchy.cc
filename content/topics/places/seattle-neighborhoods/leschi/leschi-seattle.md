@@ -1,13 +1,14 @@
 ---
 title: "Leschi, Seattle"
-borders:
+adjacent to:
   - Central District, Seattle
   - Interstate 90
   - Lake Washington
   - Madrona, Seattle
   - Mount Baker, Seattle
+apple maps: "https://maps.apple/p/GjkeG-RAs0PbFY"
 namesake of: Chief Leschi
-neighborhood of: Seattle
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/1998438951"
 wikidata: "https://www.wikidata.org/wiki/Q6530303"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Leschi,_Seattle,_Washington"

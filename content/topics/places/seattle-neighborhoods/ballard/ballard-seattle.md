@@ -3,7 +3,7 @@ title: "Ballard, Seattle"
 across the canal:
   - Interbay, Seattle
   - Magnolia, Seattle
-borders:
+adjacent to:
   - Blue Ridge, Seattle
   - Crown Hill, Seattle
   - Fremont, Seattle
@@ -11,7 +11,8 @@ borders:
   - Lake Washington Ship Canal
   - Phinney Ridge, Seattle
   - Salmon Bay
-neighborhood of:
+apple maps: "https://maps.apple/p/rTSRU.1LCKqAJ_"
+neighborhood in:
   - Seattle
   - Shilshole Bay
   - Puget Sound

@@ -1,6 +1,6 @@
 ---
 title: "Lake City, Seattle"
-borders:
+adjacent to:
   - Lake Forest Park, Washington
   - Lake Washington
   - Maple Leaf, Seattle
@@ -10,7 +10,8 @@ borders:
   - Shoreline, Washington
   - View Ridge, Seattle
   - Wedgwood, Seattle
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/ZAVdsYtzkJnW4U"
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150938688"
 wikidata: "https://www.wikidata.org/wiki/Q6475354"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_City,_Seattle,_Washington"

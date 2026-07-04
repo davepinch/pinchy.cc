@@ -1,6 +1,7 @@
 ---
 title: "Fauntleroy, Seattle"
-neighborhood of:
+apple maps: "https://maps.apple/p/6bm0tcCy0vdMC5"
+neighborhood in:
   - West Seattle
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/node/150951616"

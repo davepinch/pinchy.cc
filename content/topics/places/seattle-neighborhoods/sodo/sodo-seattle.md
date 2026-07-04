@@ -1,10 +1,11 @@
 ---
 title: "SoDo, Seattle"
-borders:
+adjacent to:
   - Beacon Hill, Seattle
   - Downtown Seattle
   - incomplete list
-neighborhood of:
+apple maps: "https://maps.apple/p/6KJA0w47N551Hx"
+neighborhood in:
   - Seattle
   - Elliott Bay
 wikidata: "https://www.wikidata.org/wiki/Q7548990"

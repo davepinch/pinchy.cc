@@ -1,13 +1,14 @@
 ---
 title: "Matthews Beach, Seattle"
-borders:
+adjacent to:
   - Cedar Park, Seattle
   - Lake Washington
   - Meadowbrook, Seattle
   - Sand Point, Seattle
   - View Ridge, Seattle
   - Wedgwood, Seattle
-neighborhood of: Lake City, Seattle
+apple maps: "https://maps.apple/p/xDVp_-syDmT4MD"
+neighborhood in: Lake City, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q6791486"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Matthews_Beach,_Seattle,_Washington"
 tags:

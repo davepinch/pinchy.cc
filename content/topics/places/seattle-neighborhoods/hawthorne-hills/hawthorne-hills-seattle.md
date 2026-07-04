@@ -1,12 +1,13 @@
 ---
 title: "Hawthorne Hills, Seattle"
-borders:
+adjacent to:
   - Bryant, Seattle
   - Laurelhurst, Seattle
   - Sand Point, Seattle
   - View Ridge, Seattle
   - Windermere, Seattle
-neighborhood of: Seattle
+apple maps: "https://maps.apple/p/x5h6Vpg665oJpU"
+neighborhood in: Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150954000"
 overlaps: Windermere, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q5685611"

@@ -1,12 +1,15 @@
 ---
 title: "Loyal Heights, Seattle"
-borders:
+adjacent to:
   - Adams, Seattle
   - Blue Ridge, Seattle
   - Crown Hill, Seattle
   - Sunset Hill, Seattle
   - Whittier Heights, Seattle
-neighborhood of: Ballard, Seattle
+apple maps: "https://maps.apple/p/FmXn.uRzs.Ge8f"
+neighborhood in:
+  - Ballard, Seattle
+  - Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150976427"
 southeast corner: West Woodland, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q26729260"

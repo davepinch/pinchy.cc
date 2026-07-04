@@ -1,11 +1,12 @@
 ---
 title: "Belltown, Seattle"
-borders:
+adjacent to:
   - Downtown Seattle
   - Interbay, Seattle
   - Queen Anne, Seattle
   - incomplete list
-neighborhood of:
+apple maps: "https://maps.apple/p/byh6ib4N8qEgJI"
+neighborhood in:
   - Seattle
   - Elliott Bay
   - Puget Sound
