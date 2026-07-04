@@ -1,6 +1,7 @@
 ---
 title: "Carkeek Park"
-borders: Pipers Creek Natural Area
+apple maps: "https://maps.apple/p/M3UD2anWMm_kH-"
+adjacent to: Pipers Creek Natural Area
 city park in:
   - Broadview, Seattle
   - Seattle
