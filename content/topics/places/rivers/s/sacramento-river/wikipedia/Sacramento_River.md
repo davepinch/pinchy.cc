@@ -1,0 +1,13 @@
+---
+title: "Sacramento River (Wikipedia)"
+excerpt: >-
+  The **Sacramento River** (Spanish: Río Sacramento) is the principal river of Northern California in the United States and is the largest river in California. Rising in the Klamath Mountains, the river flows south for 400 miles (640 km) before reaching the Sacramento–San Joaquin River Delta and San Francisco Bay. The river drains about 26,500 square miles (69,000 km2) in 19 California counties, mostly within the fertile agricultural region bounded by the Coast Ranges and Sierra Nevada known as the Sacramento Valley, but also extending as far as the volcanic plateaus of Northeastern California. Historically, its watershed has reached as far north as south-central Oregon where the now, primarily, endorheic (closed) Goose Lake rarely experiences southerly outflow into the Pit River, the most northerly tributary of the Sacramento.
+license: CC BY-SA 4.0
+retrieved: 2026-07-04
+type: website
+url: /en.wikipedia.org/wiki/Sacramento_River/
+website: "https://en.wikipedia.org/wiki/Sacramento_River"
+wikipedia of: Sacramento River
+tags:
+  - Wikipedia
+---
