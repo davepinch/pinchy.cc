@@ -1,5 +1,6 @@
 ---
 title: "Leschi Park"
+apple maps: "https://maps.apple/p/5_LSinZ65cdeiZ"
 city park in:
   - Leschi, Seattle
   - Seattle

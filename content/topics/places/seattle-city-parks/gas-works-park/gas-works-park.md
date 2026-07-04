@@ -1,5 +1,6 @@
 ---
 title: "Gas Works Park"
+apple maps: "https://maps.apple/p/DBY1jtuxgvLSt3"
 city park in:
   - Northlake, Seattle
   - Wallingford, Seattle

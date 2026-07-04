@@ -1,6 +1,7 @@
 ---
 title: "Freeway Park"
 adjacent to: Interstate 5
+apple maps: "https://maps.apple/p/h5nS8Yb7TF.Nzg"
 city park in:
   - First Hill, Seattle
   - Seattle

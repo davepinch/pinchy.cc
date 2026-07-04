@@ -1,5 +1,6 @@
 ---
 title: "Kingfisher Natural Area"
+apple maps: "https://maps.apple/p/dIq4bpccRhCaqD"
 city park in:
   - Victory Heights, Seattle
   - Seattle

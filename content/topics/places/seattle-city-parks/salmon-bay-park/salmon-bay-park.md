@@ -1,5 +1,6 @@
 ---
 title: "Salmon Bay Park"
+apple maps: "https://maps.apple/p/wvETTBE.2I8a~a"
 around the canal of: VISIT SOMEWHERE NEW
 city park in:
   - Loyal Heights, Seattle

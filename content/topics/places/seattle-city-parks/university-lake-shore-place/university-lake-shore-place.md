@@ -1,5 +1,6 @@
 ---
 title: "University Lake Shore Place"
+apple maps: "https://maps.apple/p/UQHkY1o2Y0SXjp"
 city park in:
   - Cedar Park, Seattle
   - Seattle

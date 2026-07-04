@@ -1,5 +1,6 @@
 ---
 title: "Seward Park"
+apple maps: "https://maps.apple/p/XtAIT_Loy6fGd9"
 city park in:
   - Seward Park, Seattle
   - Seattle

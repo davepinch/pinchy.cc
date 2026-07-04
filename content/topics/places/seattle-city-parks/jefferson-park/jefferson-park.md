@@ -1,6 +1,7 @@
 ---
 title: "Jefferson Park"
 adjacent to: Beacon Food Forest
+apple maps: "https://maps.apple/p/KN3r_tpou4CFbd"
 city park in:
   - Beacon Hill, Seattle
   - Seattle

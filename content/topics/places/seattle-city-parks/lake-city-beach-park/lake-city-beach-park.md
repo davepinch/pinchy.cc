@@ -3,6 +3,7 @@ title: "Lake City Beach Park"
 adjacent to:
   - Burk-Gillman Trail
   - Lake Washington
+apple maps: "https://maps.apple/p/tY-AbaG8WJRUEo"
 city park in:
   - Cedar Park, Seattle
   - Seattle

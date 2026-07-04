@@ -1,5 +1,6 @@
 ---
 title: "Plymouth Pillars Park"
+apple maps: "https://maps.apple/p/XqzjgJp-XLUAVi"
 city park in:
   - Capitol Hill, Seattle
   - Seattle

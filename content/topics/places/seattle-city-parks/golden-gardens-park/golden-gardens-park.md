@@ -1,6 +1,7 @@
 ---
 title: "Golden Gardens Park"
-borders:
+apple maps: "https://maps.apple/p/DHDbPojURG1S_n"
+adjacent to:
   - Blue Ridge, Seattle
   - Shilshole Bay
   - Sunset Hill, Seattle

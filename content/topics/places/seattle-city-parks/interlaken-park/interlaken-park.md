@@ -4,6 +4,7 @@ adjacent to:
   - Montlake, Seattle
   - Stevens, Seattle
   - Capitol Hill, Seattle
+apple maps: "https://maps.apple/p/wFyq-m7Uvy0iD3"
 city park in:
   - Capitol Hill, Seattle
   - Seattle

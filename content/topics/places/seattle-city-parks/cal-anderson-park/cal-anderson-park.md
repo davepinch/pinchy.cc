@@ -1,5 +1,6 @@
 ---
 title: "Cal Anderson Park"
+apple maps: "https://maps.apple/p/fFpPpctHUd~T1T"
 city park in:
   - Capitol Hill, Seattle
   - Seattle

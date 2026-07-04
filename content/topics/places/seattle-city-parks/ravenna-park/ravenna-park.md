@@ -1,5 +1,6 @@
 ---
 title: "Ravenna Park"
+apple maps: "https://maps.apple/p/aoDCjR2ZQR1TRv"
 city park in:
   - Ravenna, Seattle
   - Seattle

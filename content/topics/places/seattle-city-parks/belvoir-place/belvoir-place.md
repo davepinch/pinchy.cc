@@ -1,6 +1,7 @@
 ---
 title: "Belvoir Place"
 adjacent to: Union Bay
+apple maps: "https://maps.apple/p/99JmVgeCKmzuHG"
 city park in:
   - Laurelhurst, Seattle
   - Seattle

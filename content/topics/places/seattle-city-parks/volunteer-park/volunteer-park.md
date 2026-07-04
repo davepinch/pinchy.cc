@@ -1,5 +1,6 @@
 ---
 title: "Volunteer Park"
+apple maps: "https://maps.apple/p/.U-pIPsyvY9YKq"
 city park in:
   - Capitol Hill, Seattle
   - Seattle

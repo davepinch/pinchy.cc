@@ -1,5 +1,6 @@
 ---
 title: "Denny Blaine Park"
+apple maps: "https://maps.apple/p/vz~Zf8WGa~R4Da"
 beach of: Lake Washington
 city park in:
   - Denny-Blaine, Seattle

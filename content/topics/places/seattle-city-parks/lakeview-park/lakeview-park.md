@@ -1,5 +1,6 @@
 ---
 title: "Lakeview Park"
+apple maps: "https://maps.apple/p/.P6XIWUcS5RETX"
 city park in:
   - Denny-Blaine, Seattle
   - Seattle

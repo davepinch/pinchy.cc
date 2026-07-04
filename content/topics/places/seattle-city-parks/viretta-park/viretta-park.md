@@ -1,5 +1,6 @@
 ---
 title: "Viretta Park"
+apple maps: "https://maps.apple/p/nCTnNHQeY9tTNR"
 city park in:
   - Denny-Blaine, Seattle
   - Seattle

@@ -1,12 +1,13 @@
 ---
 title: "Green Lake Park"
+apple maps: "https://maps.apple/p/8CY-cTpYkbVyPG"
 city park in:
   - Green Lake, Seattle
   - Seattle
   - King County, Washington
-connected to: Woodland Park
+city park of: Green Lake
+connects to: Woodland Park
 openstreetmap: "https://www.openstreetmap.org/relation/6580044"
-surrounds: Green Lake
 wikidata: "https://www.wikidata.org/wiki/Q123146717"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Green_Lake_Park_(Seattle)"
 wikipedia: "https://en.wikipedia.org/wiki/Green_Lake_(Seattle)#Green_Lake_Park"
