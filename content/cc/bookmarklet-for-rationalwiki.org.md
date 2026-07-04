@@ -1,8 +1,13 @@
 ---
-title: "Wikipedia Bookmarklet"
+title: "Bookmarklet for RationalWiki"
+bookmarklet of: RationalWiki
+description: >-
+  This bookmarklet creates a set of YAML front matter based on the current rationalwiki.org page. To use, save the bookmarklet on the bookmarks toolbar of your browser. The toolbar allows you to access the bookmarklet as a button. Then, navigate to a page on rationalwiki.org and click the button. The bookmarklet will generate YAML front matter and copy to the clipboard. If you get an error, try again. There is a known issue when the page does not have focus.
+license: public domain
+modified version of: Bookmarklet for Wikipedia
 note: >-
-  I used Copilot to generate a bookmarklet that extracts Wikipedia information to the front matter format used by this blog. It was surprisingly easy and only took a few iterations. Most of these iterations were due to oversights on my part when writing the initial prompt.
-when: 2026-06-21
+  This is a copy of the Wikimedia bookmarklet, modified for rationalwiki.org.
+when: 2026-07-04
 tags:
   - generative AI
 ---
@@ -10,9 +15,9 @@ tags:
 ```javascript
 javascript:(async function(){
   try{
-    /* Ensure this is a Wikipedia article */
-    if(!location.hostname.includes("wikipedia.org")||!location.pathname.startsWith("/wiki/")){
-      alert("This only works on Wikipedia article pages.");
+    /* Ensure this is a RationalWiki article */
+    if(!location.hostname.includes("rationalwiki.org")||!location.pathname.startsWith("/wiki/")){
+      alert("This only works on rationalwiki.org article pages.");
       return;
     }
 
@@ -66,17 +71,18 @@ javascript:(async function(){
 
     /* Build YAML */
     var yaml="---\n"
-      +"title: \""+title+" (Wikipedia)\"\n"
+      +"title: \""+title+" (rationalwiki.org)\"\n"
       +"excerpt: >-\n"
       +"  "+firstPara.replace(/\n/g,"\n  ")+"\n"
-      +"license: CC BY-SA 4.0\n"
+      +"license: CC BY-SA 3.0\n"
+      +"rationalwiki of: "+title+"\n"
       +"retrieved: "+date+"\n"
       +"type: website\n"
       +"url: /"+location.hostname+"/wiki/"+wikiPath+"/\n"
       +"website: \""+fullUrl+"\"\n"
-      +"wikipedia of: "+title+"\n"
       +"tags:\n"
-      +"  - Wikipedia\n"
+      +"  - website\n"
+      +"  - RationalWiki\n"
       +"---";
 
     await navigator.clipboard.writeText(yaml);
