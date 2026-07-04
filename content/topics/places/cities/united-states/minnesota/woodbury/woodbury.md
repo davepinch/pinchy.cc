@@ -1,6 +1,6 @@
 ---
 title: "Woodbury, Minnesota"
-borders:
+adjacent to:
   - Afton, Minnesota
   - Cottage Grove, Minnesota
   - Lake Elmo, Minnesota
@@ -8,9 +8,10 @@ borders:
   - Maplewood, Minnesota
   - Newport, Minnesota
   - Oakdale, Minnesota
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of:
   - Minnesota State Highway 95
   - Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/136632"
