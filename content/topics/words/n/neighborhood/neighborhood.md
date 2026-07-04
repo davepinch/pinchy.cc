@@ -7,7 +7,7 @@ see also:
   - downtown
   - township
 tag requires property:
-  - neighborhood of
+  - neighborhood in
   - Wikidata
   - Wikipedia
 tags:
