@@ -11,3 +11,4 @@ url: /data.census.gov/profile/Burbank_CDP,_Washington/g=160XX00US5308780/
 website: "https://data.census.gov/profile/Burbank_CDP,_Washington?g=160XX00US5308780"
 tags:
   - website
+---
