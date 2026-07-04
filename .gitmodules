@@ -1,0 +1,3 @@
+[submodule "content/submodules/rationalwiki.org"]
+	path = content/submodules/rationalwiki.org
+	url = https://github.com/davepinch/cc-rationalwiki.org.git
