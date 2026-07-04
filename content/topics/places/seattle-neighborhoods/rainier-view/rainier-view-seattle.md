@@ -5,7 +5,9 @@ adjacent to:
   - Bryn Mawr-Skyway
   - Tukwila, Washington
 apple maps: "https://maps.apple/p/mCTHBCtpnd9hGM"
-neighborhood of: Rainier Valley, Seattle
+neighborhood in:
+  - Rainier Valley, Seattle
+  - Seattle
 note: >-
   Rainier View is sometimes considered part of the Rainier Beach neighborhood. It does not have its own Wikipedia entry, although it is shown as a distinct neighborhood on Bing maps.
 vicinity to:
