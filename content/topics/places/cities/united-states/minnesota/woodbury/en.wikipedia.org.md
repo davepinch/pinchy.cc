@@ -1,9 +1,9 @@
 ---
 title: "Woodbury, Minnesota (Wikipedia)"
 excerpt: >-
-  **Woodbury** is a city in [Washington County](/en.wikipedia.org/wiki/Washington_County,_Minnesota), [Minnesota](/en.wikipedia.org/wiki/Minnesota), [United States](/en.wikipedia.org/wiki/United_States), eight miles (13 km) east of [Saint Paul](/en.wikipedia.org/wiki/Saint_Paul,_Minnesota) along [Interstate 94](/en.wikipedia.org/wiki/Interstate_94/). It is part of the Minneapolis–Saint Paul metropolitan area. The population was 75,102 at the 2020 census, making it Minnesota's eighth most populous city.
+  **Woodbury** (/ˈwʊdbɛri/ *WUUD-berr-ee*) is a city in Washington County, Minnesota, United States, eight miles (13 km) east of Saint Paul along Interstate 94. It is part of the Minneapolis–Saint Paul metropolitan area. The population was 75,102 at the 2020 census, and was estimated at 80,596 in 2024, making it Minnesota's seventh-most populous city.
 license: CC BY-SA 4.0
-retrieved: 2023-11-22
+retrieved: 2026-07-04
 type: website
 url: /en.wikipedia.org/wiki/Woodbury,_Minnesota/
 website: "https://en.wikipedia.org/wiki/Woodbury,_Minnesota"
