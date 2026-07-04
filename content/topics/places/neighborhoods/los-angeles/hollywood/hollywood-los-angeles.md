@@ -1,6 +1,6 @@
 ---
 title: "Hollywood, Los Angeles"
-neighborhood of: Los Angeles
+neighborhood in: Los Angeles
 wikidata: "https://www.wikidata.org/wiki/Q34006"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Hollywood,_Los_Angeles"
 wikipedia: "https://en.wikipedia.org/wiki/Hollywood,_Los_Angeles"

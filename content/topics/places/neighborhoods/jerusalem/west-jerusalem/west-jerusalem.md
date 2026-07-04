@@ -1,6 +1,6 @@
 ---
 title: "West Jerusalem"
-neighborhood of: Jerusalem
+neighborhood in: Jerusalem
 opposite: East Jerusalem
 urban area of: Israel
 wikidata: "https://www.wikidata.org/wiki/Q2213440"

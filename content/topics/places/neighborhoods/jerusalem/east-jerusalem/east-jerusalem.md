@@ -1,6 +1,6 @@
 ---
 title: "East Jerusalem"
-neighborhood of:
+neighborhood in:
   - Jerusalem
   - West Bank
   - Palestine
