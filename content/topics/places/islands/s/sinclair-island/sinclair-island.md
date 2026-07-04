@@ -10,7 +10,6 @@ island in:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/13317309"
 wikidata: "https://www.wikidata.org/wiki/Q5649441"
-wikipedia: "https://en.wikipedia.org/wiki/Sinclair_Island_%28Washington%29"
 tags:
   - island
   - no Wikimedia category
