@@ -3,7 +3,7 @@ title: "Palouse River"
 openstreetmap: "https://www.openstreetmap.org/relation/19537247"
 river in:
   - Idaho
-  - Latah County, Idaho
+#  - Latah County, Idaho
   - Nez Perce-Clearwater National Forests
   - Potlatch, Idaho
   - Washington
