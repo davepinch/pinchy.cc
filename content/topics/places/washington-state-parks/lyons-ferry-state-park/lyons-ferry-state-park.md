@@ -13,4 +13,5 @@ state park of:
 wikidata: "https://www.wikidata.org/wiki/Q6709786"
 tags:
   - state park
+  - no Wikimedia category
 ---
