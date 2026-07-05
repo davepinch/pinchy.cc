@@ -2,7 +2,7 @@
 title: "Tucannon River"
 openstreetmap: "https://www.openstreetmap.org/relation/10955063"
 river in:
-  - Wenaha-Tucannon Wilderness
+  - Wenaha–Tucannon Wilderness
   - W. T. Wooten Wildlife Area Unit
   - Umatilla National Forest
   - Columbia County, Washington
