@@ -2,7 +2,7 @@
 title: "Cub Creek"
 creek in:
   - Okanogan–Wenatchee National Forest
-  - Rendezvous Wildlife Area
+  - Rendezvous Wildlife Area Unit
   - Okanogan County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/10887516"
