@@ -14,6 +14,6 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:New_York_Harbor"
 wikipedia: "https://en.wikipedia.org/wiki/New_York_Harbor"
 tags:
   - bay
-  - no OpenStreetMap 
+  - no OpenStreetMap element
   - TODO
 ---
