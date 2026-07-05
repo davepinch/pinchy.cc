@@ -4,7 +4,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/19537247"
 river in:
   - Idaho
   - Latah County, Idaho
-  - Nez Pierce-Clearwater National Forests
+  - Nez Perce-Clearwater National Forests
   - Potlatch, Idaho
   - Washington
   - Whitman County, Washington
