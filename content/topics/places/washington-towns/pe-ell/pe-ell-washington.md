@@ -9,6 +9,7 @@ town of: Chehalis River
 openstreetmap:
   - "[node](https://www.openstreetmap.org/node/132620071)"
   - "[relation](https://www.openstreetmap.org/relation/238079)"
+vicinity to: Rock Creek (Chehalis River tributary in Pacific and Lewis Counties)
 wikidata: "https://www.wikidata.org/wiki/Q1505719"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pe_Ell,_Washington"
 tags:
