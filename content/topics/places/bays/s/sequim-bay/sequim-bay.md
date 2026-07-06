@@ -1,6 +1,7 @@
 ---
 title: "Sequim Bay"
 also known as: Washington Harbor
+apple maps: "https://maps.apple/p/djpwCE3HisrZha"
 bay in:
   - Strait of Juan de Fuca
   - Clallam County, Washington
