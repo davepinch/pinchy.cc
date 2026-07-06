@@ -1,7 +1,6 @@
 ---
 title: "Sammamish River"
 alongside: Sammamish River Trail
-mouth: Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/8406651"
 river in:
   - King County, Washington
@@ -11,8 +10,10 @@ river in:
   - Kenmore, Washington
   - Washington
 source: Lake Sammamish
+tributary of: Lake Washington
 wikidata: "https://www.wikidata.org/wiki/Q7409639"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Sammamish_River"
 tags:
   - river
+  - tributary
 ---
