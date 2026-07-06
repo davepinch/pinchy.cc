@@ -1,5 +1,5 @@
 ---
-title: "Rock Creek (Chehalis River tributary in Grays County)"
+title: "Rock Creek (Chehalis River tributary in Grays Harbor County)"
 creek in:
   - Lower Chehalis Block
   - Grays Harbor County, Washington
