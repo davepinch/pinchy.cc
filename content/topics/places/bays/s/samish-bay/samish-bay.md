@@ -13,5 +13,4 @@ wikidata: "https://www.wikidata.org/wiki/Q49390687"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Samish_Bay"
 tags:
   - bay
-  - no Wikipedia article
 ---
