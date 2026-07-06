@@ -8,6 +8,7 @@ river in:
   - Whatcom County, Washington
   - Washington
   - Cascade Range
+tributary of: Bellingham Bay
 vicinity to: Mount Baker
 wikidata: "https://www.wikidata.org/wiki/Q1996433"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Nooksack_River"
