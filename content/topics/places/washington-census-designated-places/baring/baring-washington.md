@@ -3,7 +3,10 @@ title: "Baring, Washington"
 census-designated place in:
   - King County, Washington
   - Washington
-census-designated place of: United States Census Bureau
+census-designated place of:
+  - United States Census Bureau
+  - Index Creek
+  - South Fork Skykomish River
 census profile: "https://data.census.gov/profile/Baring_CDP,_Washington?g=160XX00US5304300"
 openstreetmap: "https://www.openstreetmap.org/node/150971801"
 vicinity to:
