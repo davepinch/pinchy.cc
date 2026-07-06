@@ -1,5 +1,6 @@
 ---
 title: "Discovery Bay"
+apple maps: "https://maps.apple/p/Hm5Ad12nNtN4eu"
 bay in:
   - Clallam County, Washington
   - Jefferson County, Washington
