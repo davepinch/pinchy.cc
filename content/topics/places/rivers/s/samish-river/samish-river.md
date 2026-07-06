@@ -11,7 +11,6 @@ tributary of:
   - Samish Bay
 wikidata: "https://www.wikidata.org/wiki/Q2217202"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Samish_River"
-wikipedia: "https://en.wikipedia.org/wiki/Samish_River"
 tags:
   - river
   - VISIT SOMEWHERE NEW
