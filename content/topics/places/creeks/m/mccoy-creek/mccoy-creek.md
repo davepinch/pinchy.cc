@@ -6,7 +6,9 @@ creek in:
   - Washington
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/471624613"
+tributary of: Skykomish River
 tags:
   - creek
+  - tributary
   - no Wikidata record
 ---
