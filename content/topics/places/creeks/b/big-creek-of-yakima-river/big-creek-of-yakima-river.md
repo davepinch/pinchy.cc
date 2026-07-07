@@ -6,6 +6,7 @@ creek in:
   - Washington
 disambiguation of: Big Creek
 openstreetmap: "https://www.openstreetmap.org/relation/10997330"
+tributary of: Yakima River
 wikidata: "https://www.wikidata.org/wiki/Q49856916"
 tags:
   - creek
