@@ -16,6 +16,7 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:North_Creek_(Washington)
 wikipedia: "https://en.wikipedia.org/wiki/North_Creek,_Washington#Geography"
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---
