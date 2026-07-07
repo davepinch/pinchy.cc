@@ -12,4 +12,6 @@ tributary of: Wallace River
 wikidata: "https://www.wikidata.org/wiki/Q26689477"
 tags:
   - creek
+  - rockhounding site
+  - tributary
 ---

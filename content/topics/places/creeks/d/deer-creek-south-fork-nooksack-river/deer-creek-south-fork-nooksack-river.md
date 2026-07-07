@@ -9,6 +9,7 @@ tributary of: South Fork Nooksack River
 wikidata: "https://www.wikidata.org/wiki/Q49892629"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

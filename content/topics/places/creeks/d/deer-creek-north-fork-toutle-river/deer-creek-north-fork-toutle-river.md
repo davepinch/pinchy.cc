@@ -13,6 +13,7 @@ tributary of: North Fork Toutle River
 wikidata: "https://www.wikidata.org/wiki/Q49892609"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

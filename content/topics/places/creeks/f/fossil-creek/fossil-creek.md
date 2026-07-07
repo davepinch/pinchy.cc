@@ -10,4 +10,5 @@ openstreetmap: "https://www.openstreetmap.org/way/369195558"
 tributary of: Kalama River
 tags:
   - creek
+  - tributary
 ---

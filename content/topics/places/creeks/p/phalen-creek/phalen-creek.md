@@ -10,6 +10,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/19761242"
 tributary of: Mississippi River
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---

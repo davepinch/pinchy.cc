@@ -8,6 +8,7 @@ tributary of: Samish River
 vicinity of: Washington State Route 9
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article

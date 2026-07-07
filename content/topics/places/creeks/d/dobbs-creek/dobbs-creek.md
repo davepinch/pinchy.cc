@@ -11,6 +11,7 @@ tributary of: Bar Creek
 wikidata: "https://www.wikidata.org/wiki/Q49894532"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

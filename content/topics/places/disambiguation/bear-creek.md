@@ -1,5 +1,5 @@
 ---
 title: "Bear Creek"
 tags:
-  - disambiguation
+  - disambiguate
 ---

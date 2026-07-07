@@ -14,5 +14,6 @@ vicinity of:
 wikidata: "https://www.wikidata.org/wiki/Q123503955"
 tags:
   - creek
+  - tributary
   - no Wikipedia article
 ---

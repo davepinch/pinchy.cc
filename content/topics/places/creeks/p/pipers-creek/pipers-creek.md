@@ -27,4 +27,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Pipers_Creek_(Seattle)"
 wikipedia: "https://en.wikipedia.org/wiki/Pipers_Creek_(Seattle)"
 tags:
   - creek
+  - tributary
 ---

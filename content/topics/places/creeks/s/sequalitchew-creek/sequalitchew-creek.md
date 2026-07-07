@@ -17,4 +17,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7452428"
 wikipedia: "https://en.wikipedia.org/wiki/Sequalitchew_Creek"
 tags:
   - creek
+  - tributary
 ---

@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q18155178"
 wikipedia: "https://en.wikipedia.org/wiki/McAleer_Creek"
 tags:
   - creek
+  - tributary
 ---

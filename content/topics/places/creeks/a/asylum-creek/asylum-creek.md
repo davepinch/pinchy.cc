@@ -13,6 +13,7 @@ tributary of:
   - Chambers Creek
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---

@@ -12,5 +12,6 @@ tributary of: Puget Sound
 wikidata: "https://www.wikidata.org/wiki/Q49892636"
 tags:
   - creek
+  - tributary
   - no Wikipedia article
 ---

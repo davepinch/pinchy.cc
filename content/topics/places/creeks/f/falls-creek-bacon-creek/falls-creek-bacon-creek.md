@@ -14,6 +14,7 @@ tributary of: Bacon Creek
 wikidata: "https://www.wikidata.org/wiki/Q49908625"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

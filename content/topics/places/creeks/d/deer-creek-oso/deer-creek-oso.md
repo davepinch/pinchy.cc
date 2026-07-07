@@ -22,4 +22,6 @@ vicinity to: Pilchuck Creek
 wikidata: "https://www.wikidata.org/wiki/Q49892642"
 tags:
   - creek
+  - disambiguation
+  - tributary
 ---

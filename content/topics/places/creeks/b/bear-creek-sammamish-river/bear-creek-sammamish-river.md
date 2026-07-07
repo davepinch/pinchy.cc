@@ -17,4 +17,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Bear_Creek_(Washington)"
 wikipedia: "https://en.wikipedia.org/wiki/Bear_Creek_(Washington)"
 tags:
   - creek
+  - tributary
 ---

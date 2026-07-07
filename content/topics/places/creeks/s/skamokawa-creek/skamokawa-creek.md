@@ -11,5 +11,6 @@ wikidata: "https://www.wikidata.org/wiki/Q105378768"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Skamokawa_Creek"
 tags:
   - creek
+  - tributary
   - no Wikipedia article
 ---

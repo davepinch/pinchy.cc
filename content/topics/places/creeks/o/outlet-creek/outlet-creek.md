@@ -7,5 +7,6 @@ TODO: Examine this expanded structure and determine whether to use it
 tributary of: Toutle Creek
 tags:
   - creek
+  - tributary
   - TODO
 ---

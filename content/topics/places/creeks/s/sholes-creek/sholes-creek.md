@@ -13,6 +13,7 @@ vicinity of:
   - Wells Creek Road
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article

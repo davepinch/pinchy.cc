@@ -14,6 +14,7 @@ tributary of: Pacific Ocean
 vicinity of: Point of Arches
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia category

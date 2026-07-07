@@ -16,6 +16,7 @@ tributary of: Elwha River
 wikidata: "https://www.wikidata.org/wiki/Q49865226"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

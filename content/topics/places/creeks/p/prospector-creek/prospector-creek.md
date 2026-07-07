@@ -8,5 +8,6 @@ openstreetmap: "https://www.openstreetmap.org/way/547327757"
 tributary of: Washougal River
 tags:
   - creek
+  - tributary
   - no Wikidata record
 ---

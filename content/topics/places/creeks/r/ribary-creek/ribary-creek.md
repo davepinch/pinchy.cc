@@ -21,6 +21,7 @@ openstreetmap:
 tributary of: South Fork Snoqualmie River
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---

@@ -13,5 +13,6 @@ tributary of: Little Bridge Creek
 wikidata: "https://www.wikidata.org/wiki/Q49892620"
 tags:
   - creek
+  - tributary
   - no OpenStreetMap element
 ---

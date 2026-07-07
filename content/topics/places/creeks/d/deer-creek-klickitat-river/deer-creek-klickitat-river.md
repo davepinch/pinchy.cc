@@ -11,6 +11,7 @@ tributary of: Klickitat River
 wikidata: "https://www.wikidata.org/wiki/Q49892658"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

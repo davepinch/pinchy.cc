@@ -25,5 +25,6 @@ wikidata: "https://www.wikidata.org/wiki/Q5135880"
 wikipedia: "https://en.wikipedia.org/wiki/Clover_Creek_(Washington)"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
 ---

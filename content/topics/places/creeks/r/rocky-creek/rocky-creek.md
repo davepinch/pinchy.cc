@@ -10,6 +10,7 @@ TODO: There are a lot (excessively) of *Rocky Creeks* in Australia and New Zeala
 tributary of: Clearwater Creek
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
   - TODO

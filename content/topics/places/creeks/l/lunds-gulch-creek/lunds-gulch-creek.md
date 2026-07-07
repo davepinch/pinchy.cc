@@ -16,6 +16,7 @@ tributary of:
 url: /lunds-gulch-creek/
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---

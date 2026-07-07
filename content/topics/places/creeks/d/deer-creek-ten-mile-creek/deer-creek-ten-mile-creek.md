@@ -11,6 +11,7 @@ tributary of: Ten Mile Creek
 wikidata: "https://www.wikidata.org/wiki/Q49892654"
 tags:
   - creek
+  - tributary
   - no OpenStreetMap element
   - no Wikimedia category
   - no Wikipedia article

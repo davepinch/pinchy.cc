@@ -9,5 +9,6 @@ tributary of: Middle Fork Nooksack River
 wikidata: "https://www.wikidata.org/wiki/Q49938203"
 tags:
   - creek
+  - tributary
   - no Wikipedia article
 ---

@@ -13,6 +13,7 @@ tributary of: Skagit River
 wikidata: "https://www.wikidata.org/wiki/Q49892652"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

@@ -10,6 +10,7 @@ tributary of: East Fork Lewis River
 wikidata: "https://www.wikidata.org/wiki/Q113266696"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

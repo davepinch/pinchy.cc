@@ -10,6 +10,7 @@ tributary of: Sequim Bay
 wikidata: "https://www.wikidata.org/wiki/Q49891066"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

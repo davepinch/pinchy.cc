@@ -11,4 +11,5 @@ tributary of: Big Creek (Lake Cushman)
 wikidata: "https://www.wikidata.org/wiki/Q100233728"
 tags:
   - creek
+  - tributary
 ---

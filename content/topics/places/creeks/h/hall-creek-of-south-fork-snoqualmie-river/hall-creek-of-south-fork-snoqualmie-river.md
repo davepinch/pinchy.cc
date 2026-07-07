@@ -13,4 +13,5 @@ tributary of: South Fork Snoqualmie River
 wikidata: "https://www.wikidata.org/wiki/Q123498734"
 tags:
   - creek
+  - tributary
 ---

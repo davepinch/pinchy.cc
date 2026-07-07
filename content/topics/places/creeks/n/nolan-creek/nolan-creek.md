@@ -11,6 +11,7 @@ tributary of: Hoh River
 wikidata: "https://www.wikidata.org/wiki/Q113662764"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

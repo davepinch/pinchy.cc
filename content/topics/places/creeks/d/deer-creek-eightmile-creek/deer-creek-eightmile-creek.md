@@ -10,6 +10,8 @@ openstreetmap: "https://www.openstreetmap.org/relation/10931822"
 tributary of: Eightmile Creek (Chewuch River tributary)
 wikidata: "https://www.wikidata.org/wiki/Q49892622"
 tags:
+  - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

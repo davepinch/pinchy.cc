@@ -10,6 +10,7 @@ openstreetmap:
 tributary of: Bear Creek (Sammamish River)
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article

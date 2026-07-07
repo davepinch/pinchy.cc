@@ -9,5 +9,6 @@ openstreetmap: "https://www.openstreetmap.org/way/32070023"
 tributary of: Struve Creek
 tags:
   - creek
+  - tributary
   - no Wikidata record
 ---

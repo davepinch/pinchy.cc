@@ -12,7 +12,7 @@ openstreetmap: "https://www.openstreetmap.org/way/122705601"
 tributary of: Pipers Creek
 wikidata: "https://www.wikidata.org/wiki/Q15885760"
 tags:
-  - tributary
   - creek
+  - tributary
   - no Wikidata record
 ---

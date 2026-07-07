@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q123458992"
 tags:
   - creek
   - disambiguation
+  - tributary
 ---

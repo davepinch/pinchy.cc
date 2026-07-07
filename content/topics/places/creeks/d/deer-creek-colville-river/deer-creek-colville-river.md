@@ -20,6 +20,7 @@ tributary of: Colville River
 wikidata: "https://www.wikidata.org/wiki/Q49892645"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

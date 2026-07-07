@@ -12,6 +12,7 @@ tributary of: Twisp River
 wikidata: "https://www.wikidata.org/wiki/Q49940861"
 tags:
   - creek
+  - tributary
   - no OpenStreetMap element
   - no Wikimedia category
   - no Wikipedia article

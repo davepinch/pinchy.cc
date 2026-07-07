@@ -10,6 +10,7 @@ tributary of: Chewuch River
 wikidata: "https://www.wikidata.org/wiki/Q49903923"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

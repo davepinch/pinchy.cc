@@ -13,6 +13,8 @@ openstreetmap:
 tributary of: Lake Ballinger
 url: /halls-creek/
 tags:
+  - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---

@@ -8,6 +8,7 @@ openstreetmap: "https://www.openstreetmap.org/way/549086141"
 tributary of: Lewis River
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article

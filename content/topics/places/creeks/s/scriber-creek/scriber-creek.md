@@ -10,6 +10,7 @@ openstreetmap:
 tributary of: Swamp Creek
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---

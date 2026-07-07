@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q7991681"
 wikipedia: "https://en.wikipedia.org/wiki/Whatcom_Creek"
 tags:
   - creek
+  - tributary
 ---

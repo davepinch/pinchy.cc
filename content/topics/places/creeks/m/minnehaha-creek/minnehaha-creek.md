@@ -15,4 +15,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnehaha_Creek"
 wikipedia: "https://en.wikipedia.org/wiki/Minnehaha_Creek"
 tags:
   - creek
+  - tributary
 ---

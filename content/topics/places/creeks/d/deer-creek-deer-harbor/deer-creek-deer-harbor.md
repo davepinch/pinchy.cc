@@ -10,6 +10,7 @@ tributary of: Deer Harbor
 wikidata: "https://www.wikidata.org/wiki/Q49892617"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

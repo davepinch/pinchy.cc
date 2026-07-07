@@ -21,6 +21,7 @@ tributary of: Skookumchuck River
 wikidata: "https://www.wikidata.org/wiki/Q49892616"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

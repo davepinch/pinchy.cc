@@ -10,6 +10,7 @@ tributary of: Vesta Creek
 wikidata: "https://www.wikidata.org/wiki/Q49892611"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

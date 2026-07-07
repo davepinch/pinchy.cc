@@ -19,4 +19,6 @@ vicinity to:
 wikidata: "https://www.wikidata.org/wiki/Q49893113"
 tags:
   - creek
+  - rockhounding site
+  - tributary
 ---

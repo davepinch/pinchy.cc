@@ -15,6 +15,7 @@ tributary of: South Fork Chehalis River
 wikidata: "https://www.wikidata.org/wiki/Q49892612"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

@@ -9,6 +9,7 @@ tributary of: Toats Coulee Creek
 wikidata: "https://www.wikidata.org/wiki/Q49892623"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

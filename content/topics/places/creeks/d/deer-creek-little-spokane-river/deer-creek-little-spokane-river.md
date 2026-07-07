@@ -18,6 +18,7 @@ tributary of: Little Spokane River
 wikidata: "https://www.wikidata.org/wiki/Q49892644"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

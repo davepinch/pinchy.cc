@@ -12,6 +12,7 @@ tributary of: Middle Fork Nooksack River
 vicinity of: Mount Baker
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---

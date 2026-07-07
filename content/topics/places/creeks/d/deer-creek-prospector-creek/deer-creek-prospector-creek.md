@@ -16,6 +16,7 @@ vicinity to: Greenleaf Trail
 wikidata: "https://www.wikidata.org/wiki/Q49892631"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

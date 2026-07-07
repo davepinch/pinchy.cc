@@ -11,6 +11,7 @@ tributary of: Pearrygin Lake
 wikidata: "https://www.wikidata.org/wiki/Q49926073"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

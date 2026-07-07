@@ -35,4 +35,5 @@ tributary of: Sammamish River
 wikidata: "https://www.wikidata.org/wiki/Q7653323"
 tags:
   - creek
+  - tributary
 ---

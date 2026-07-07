@@ -10,6 +10,7 @@ vicinity to: Summit Prairie Trail
 wikidata: "https://www.wikidata.org/wiki/Q49892633"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

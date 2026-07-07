@@ -15,4 +15,5 @@ tributary of:
 wikidata: "https://www.wikidata.org/wiki/Q5069637"
 tags:
   - creek
+  - tributary
 ---

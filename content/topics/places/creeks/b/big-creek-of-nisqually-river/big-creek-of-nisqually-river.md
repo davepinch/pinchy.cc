@@ -11,6 +11,6 @@ tributary of: Nisqually River
 wikidata: "https://www.wikidata.org/wiki/Q49856920"
 tags:
   - creek
-  - tributary
   - disambiguation
+  - tributary
 ---

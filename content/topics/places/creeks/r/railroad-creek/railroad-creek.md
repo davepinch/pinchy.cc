@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q27986985"
 wikipedia: "https://en.wikipedia.org/wiki/Railroad_Creek"
 tags:
   - creek
+  - tributary
 ---

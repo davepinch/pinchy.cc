@@ -16,6 +16,7 @@ tributary of: Skykomish River
 wikidata: "https://www.wikidata.org/wiki/Q49892639"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

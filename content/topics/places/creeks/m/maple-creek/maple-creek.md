@@ -15,6 +15,7 @@ openstreetmap:
 tributary of: North Fork Nooksack River
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia page

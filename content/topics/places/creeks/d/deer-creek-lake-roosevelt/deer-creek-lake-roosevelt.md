@@ -15,6 +15,7 @@ tributary of:
 wikidata: "https://www.wikidata.org/wiki/Q49892647"
 tags:
   - creek
+  - tributary
   - no OpenStreetMap element
   - no Wikimedia category
   - no Wikipedia article

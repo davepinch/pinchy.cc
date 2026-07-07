@@ -16,5 +16,6 @@ wikidata: "https://www.wikidata.org/wiki/Q27986933"
 wikipedia: "https://en.wikipedia.org/wiki/Davis_Creek_(Pend_Oreille_River_tributary)"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
 ---

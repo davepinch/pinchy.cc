@@ -9,6 +9,7 @@ tributary of: Silver Lake (Cowlitz County, Washington)
 wikidata: "https://www.wikidata.org/wiki/Q111249742"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

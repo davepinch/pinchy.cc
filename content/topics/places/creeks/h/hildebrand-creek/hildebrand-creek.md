@@ -11,6 +11,7 @@ tributary of: Green Creek
 vicinity to: Mount Baker
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---

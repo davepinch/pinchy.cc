@@ -9,6 +9,7 @@ tributary of: North River
 wikidata: "https://www.wikidata.org/wiki/Q107084796"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

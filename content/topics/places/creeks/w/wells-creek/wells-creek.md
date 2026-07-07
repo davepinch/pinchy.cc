@@ -8,9 +8,10 @@ creek in:
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/way/182802026"
 tributary of: North Fork Nooksack River
-vicinity of: Mount Baker
+vicinity to: Mount Baker
 wikidata: "https://www.wikidata.org/wiki/Q7981636"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
 ---

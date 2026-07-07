@@ -12,4 +12,5 @@ tributary of: Venema Creek
 wikidata: "https://www.wikidata.org/wiki/Q15885623"
 tags:
   - creek
+  - tributary
 ---

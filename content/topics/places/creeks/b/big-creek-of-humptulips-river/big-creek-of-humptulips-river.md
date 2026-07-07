@@ -9,6 +9,6 @@ tributary of: Humptulips River
 wikidata: "https://www.wikidata.org/wiki/Q49856901"
 tags:
   - creek
-  - tributary
   - disambiguation
+  - tributary
 ---

@@ -9,6 +9,7 @@ openstreetmap: "https://www.openstreetmap.org/way/437660604"
 tributary of: McAleer Creek
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikipedia article
 ---

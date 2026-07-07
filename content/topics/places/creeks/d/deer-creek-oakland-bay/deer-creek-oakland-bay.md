@@ -11,6 +11,7 @@ tributary of: Oakland Bay
 wikidata: "https://www.wikidata.org/wiki/Q49892619"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

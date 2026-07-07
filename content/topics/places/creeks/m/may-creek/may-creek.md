@@ -12,5 +12,6 @@ tributary of: Wallace River
 wikidata: "https://www.wikidata.org/wiki/Q114437581"
 tags:
   - creek
+  - tributary
   - no Wikipedia article
 ---

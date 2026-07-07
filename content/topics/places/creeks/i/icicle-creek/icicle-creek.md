@@ -13,4 +13,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Icicle_Creek"
 wikipedia: "https://en.wikipedia.org/wiki/Icicle_Creek"
 tags:
   - creek
+  - tributary
 ---

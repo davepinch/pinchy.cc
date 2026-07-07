@@ -11,4 +11,5 @@ tributary of: Mississippi River
 wikidata: "https://www.wikidata.org/wiki/Q34652890"
 tags:
   - creek
+  - tributary
 ---

@@ -15,4 +15,6 @@ tributary of: Lewis River
 wikidata: "https://www.wikidata.org/wiki/Q49856932"
 tags:
   - creek
+  - disambiguation
+  - tributary
 ---

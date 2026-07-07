@@ -5,8 +5,8 @@ creek in:
   - Southwest County Olympic View Park
   - Snohomish County, Washington
   - Washington
-empties in: Browns Bay
 openstreetmap: "https://www.openstreetmap.org/way/238372772"
+tributary of: Browns Bay
 tags:
   - creek
   - no Wikidata record

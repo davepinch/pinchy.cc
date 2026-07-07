@@ -11,5 +11,6 @@ vicinity of: Mount Baker
 wikidata: "https://www.wikidata.org/wiki/Q49880913"
 tags:
   - creek
+  - tributary
   - no Wikipedia article
 ---

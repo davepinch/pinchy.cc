@@ -10,5 +10,6 @@ tributary of: Chehalis River
 wikidata: "https://www.wikidata.org/wiki/Q99336106"
 tags:
   - creek
+  - tributary
   - VISIT SOMEWHERE NEW
 ---

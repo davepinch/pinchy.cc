@@ -12,5 +12,6 @@ vicinity of: Tinkham Road
 wikidata: "https://www.wikidata.org/wiki/Q49838888"
 tags:
   - creek
+  - tributary
   - no Wikipedia article
 ---

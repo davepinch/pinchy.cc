@@ -12,6 +12,7 @@ openstreetmap:
 tributary of: Yakima River
 tags:
   - creek
+  - tributary
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article

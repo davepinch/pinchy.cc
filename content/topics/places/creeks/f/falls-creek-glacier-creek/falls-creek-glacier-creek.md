@@ -12,6 +12,7 @@ tributary of: Glacier Creek (North Fork Nooksack River tributary)
 wikidata: "https://www.wikidata.org/wiki/Q49908631"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---

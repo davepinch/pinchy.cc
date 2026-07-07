@@ -14,5 +14,6 @@ vicinity of: Newhalem, Washington
 wikidata: "https://www.wikidata.org/wiki/Q49923662"
 tags:
   - creek
+  - tributary
   - no Wikipedia article
 ---

@@ -12,4 +12,5 @@ tributary of: Hamma Hamma River
 wikidata: "https://www.wikidata.org/wiki/Q104525040"
 tags:
   - creek
+  - tributary
 ---
