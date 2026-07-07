@@ -16,8 +16,10 @@ vantage point of:
   - Lacamas and Round Lakes Upper Dam
   - Lacamas Creek
   - Mill Pond
+  - Missoula Boulder
   - Pothole Falls
   - Round Lake
+  - Round Lakee Dock
 tags:
   - trail
 ---
