@@ -2,6 +2,7 @@
 title: "Lake River"
 flows: north from Lake Vancouver
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1506055"
+openstreetmap: "https://www.openstreetmap.org/way/130195980"
 river in:
   - Clark County, Washington
   - Washington
