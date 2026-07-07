@@ -1,7 +1,10 @@
 ---
 title: "Round Lake"
 apple maps: "https://maps.apple/p/8eii3DRgXJ_z_3"
-connects to: Lacamas Lake
+connects to:
+  - Lacamas Lake
+  - Mill Pond
+description: A lake in the watercourse of Lacamas Creek in Lacamas Regional Park in Clark County, Washington.
 lake in:
   - Lacamas Regional Park
   - Camas, Washington
