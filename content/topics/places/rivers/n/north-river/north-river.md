@@ -10,7 +10,6 @@ river in:
 tributary of: Willapa Bay
 vicinity of: Raymond, Washington
 wikidata: "https://www.wikidata.org/wiki/Q7056521"
-wikipedia: "https://en.wikipedia.org/wiki/North_River_(Washington)"
 tags:
   - river
   - no Wikimedia category
