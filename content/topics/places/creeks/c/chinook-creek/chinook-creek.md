@@ -13,9 +13,11 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/699285231 (inside Mather Memorial Parkway switchback)"
   - "https://www.openstreetmap.org/way/699285230 (Mather Memorial Parkway to Washington S.R. 123)"
   - "https://www.openstreetmap.org/way/699285234 (Washington S.R. 123 to Ohanapecosh River)"
+tributary of: Ohanapecosh River
 wikidata: "https://www.wikidata.org/wiki/Q49879273"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---
