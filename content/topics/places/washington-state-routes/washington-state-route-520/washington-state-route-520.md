@@ -6,7 +6,7 @@ state route in:
 state route of:
   - Washington State Department of Transportation
   - Lake Washington
-  - Microsoft Campus
+  - Microsoft campus
   - Sammamish River
   - Union Bay
 wikidata: "https://www.wikidata.org/wiki/Q836740"
