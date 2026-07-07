@@ -9,9 +9,11 @@ gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/15
 openstreetmap: "https://www.openstreetmap.org/relation/10752775"
 opposite: Toats Coulee Creek
 TODO: Wikidata indicates this creek is located in the Okanogan-Wenatchee National Forest but this is not supported by OpenStreetMap. OpenStreetMap indicates the creek is partially in the Colville National Forest.
+tributary of: Toats Coulee Creek
 wikidata: "https://www.wikidata.org/wiki/Q111727343"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---
