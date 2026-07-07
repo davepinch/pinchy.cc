@@ -10,7 +10,7 @@ type: snippet
 url: /en.wikipedia.org/wiki/Washington_State_Route_520/@route-and-description-3-4/
 washington state route 520 of:
   - Sammamish River
-  - Bear Creek (Sammamish River)
+  - Bear Creek (Sammamish River tributary)
   - Marymoor Park
 tags:
   - snippet

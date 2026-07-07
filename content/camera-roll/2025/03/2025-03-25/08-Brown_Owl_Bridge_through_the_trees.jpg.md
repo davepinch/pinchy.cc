@@ -3,7 +3,7 @@ title: "Brown Owl Bridge through the trees.jpg (Wikimedia Commons)"
 apple maps: "https://maps.apple.com/place?/&ll=47.790121666666664%2C-122.38461333333333"
 author: David Pinch
 bridge of:
-  - Deer Creek (Woodway)
+  - Deer Creek (Puget Sound tributary)
   - Deer Creek Park
   - Woodway, Washington
 description: "Looking through the trees toward Brown Owl Bridge from Deer Creek Park in Woodway, Washington. It is early spring, and the greenery has not obscured the view yet."

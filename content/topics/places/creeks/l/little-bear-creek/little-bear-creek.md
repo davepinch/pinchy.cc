@@ -10,7 +10,7 @@ creek in:
   - Washington
 creek of:
   - Sammamish River Trail
-not to be confused with: Bear Creek (Sammamish River)
+not to be confused with: Bear Creek (Sammamish River tributary)
 openstreetmap:
   - "https://www.openstreetmap.org/way/28247267"
   - "https://www.openstreetmap.org/way/314938045"

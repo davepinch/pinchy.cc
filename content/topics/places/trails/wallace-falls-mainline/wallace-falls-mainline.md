@@ -8,7 +8,7 @@ trail of:
   - Snohomish County, Washington
   - Washington
 vantage point of:
-  - Bear Creek (Wallace River)
+  - Bear Creek (Wallace River tributary)
   - Olney Creek
   - Olney Falls
   - North Fork Wallace River

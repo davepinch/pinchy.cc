@@ -11,7 +11,7 @@ sequence:
   - Woodinville, Washington
   - Sammamish River
   - Cottage Lake, Washington
-  - Bear Creek (Sammamish River)
+  - Bear Creek (Sammamish River tributary)
   - Struve Creek
   - Union Hill-Novelty Hill, Washington
   - Kathryn Taylor Equestrian Park

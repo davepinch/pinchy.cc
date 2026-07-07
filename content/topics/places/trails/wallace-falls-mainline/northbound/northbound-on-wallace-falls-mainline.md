@@ -2,7 +2,7 @@
 title: "northbound on Wallace Falls Mainline"
 sequence:
   - Oxbow Wetland Restoration
-  - Bear Creek (Wallace River)
+  - Bear Creek (Wallace River tributary)
   - Olney Creek
   - Wallace Falls State Park
   - Greg Ball Trail

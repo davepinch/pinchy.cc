@@ -5,7 +5,7 @@ lake in:
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/28079732"
-tributary of: Bear Creek (Sammamish River)
+tributary of: Bear Creek (Sammamish River tributary)
 vicinity of: Paradise Valley Conservation Area
 wikidata: "https://www.wikidata.org/wiki/Q19979255"
 wikipedia: "https://en.wikipedia.org/wiki/Paradise_Lake_(Washington)"

@@ -6,7 +6,7 @@ description: "Standing on the Brown Owl Bridge in Woodway, Washington, looking d
 license: CC BY 4.0
 LOOK AROUND of: Brown Owl Bridge
 looking down of:
-  - Deer Creek (Woodway)
+  - Deer Creek (Puget Sound tributary)
   - Woodway, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/ce/Looking_down_on_Deer_Creek_in_Woodway.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Looking_down_on_Deer_Creek_in_Woodway.jpg/500px-Looking_down_on_Deer_Creek_in_Woodway.jpg"
