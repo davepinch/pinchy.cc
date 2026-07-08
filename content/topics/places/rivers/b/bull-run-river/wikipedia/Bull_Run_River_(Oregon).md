@@ -8,7 +8,7 @@ retrieved: 2026-07-07
 type: website
 url: /en.wikipedia.org/wiki/Bull_Run_River_(Oregon)/
 website: "https://en.wikipedia.org/wiki/Bull_Run_River_(Oregon)"
-wikipedia of: Bull Run River (Oregon)
+wikipedia of: Bull Run River
 tags:
   - Wikipedia
 ---
