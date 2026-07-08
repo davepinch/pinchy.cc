@@ -1,6 +1,7 @@
 ---
 title: "Lower Falls"
 google maps: "https://maps.app.goo.gl/RDG6EREJhDeswCn27"
+mapy: "https://mapy.com/s/locahajofo"
 openstreetmap: "https://www.openstreetmap.org/node/3948562266"
 waterfall in:
   - Lacamas Creek
