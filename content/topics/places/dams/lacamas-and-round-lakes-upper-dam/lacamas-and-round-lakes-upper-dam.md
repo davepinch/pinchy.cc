@@ -11,6 +11,7 @@ dam of:
   - Round Lake
   - Round Lake Loop
 description: The upper of two dams in Lacamas Regional Park in Camas, Clark County, Washington.
+mapy: "https://mapy.com/s/lasulekope"
 openstreetmap: "https://www.openstreetmap.org/way/391631893"
 vantage point of:
   - Mill Pond
