@@ -7,7 +7,6 @@ creek in:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/14339877"
 wikidata: "https://www.wikidata.org/wiki/Q3001934"
-wikipedia: "https://en.wikipedia.org/wiki/Crab_Creek"
 tags:
   - creek
   - no Wikimedia category
