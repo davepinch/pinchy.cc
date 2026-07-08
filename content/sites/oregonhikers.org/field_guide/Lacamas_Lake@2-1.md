@@ -1,6 +1,6 @@
 ---
 title: "polution of Lacamas Lake (OregonHikers.org)"
-excerpt: "The waters of the lake are notoriously polluted by agricultural runoff."
+✂️: "The waters of the lake are notoriously polluted by agricultural runoff."
 polution of: Lacamas Lake
 snippet of: Lacamas Lake (OregonHikers.org)
 type: snippet
