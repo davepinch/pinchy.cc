@@ -5,8 +5,14 @@ excerpt: >-
 pdf: "https://clark.wa.gov/sites/default/files/dept/files/public-works/Parks/trail%20guide%2010-08.pdf"
 trail guide by: Clark County (clark.wa.gov)
 trail guide of:
-  - Round Lake
   - Round Lake Loop
+  - Mill Pond
+  - Missoula Boulder
+  - Missoula Floods
+  - Pothole Falls
+  - Round Lake
+  - Round Lake Dam
+  - Troutdale Formation
 type: pdf
 url: "/clark.wa.gov/sites/default/files/dept/files/public-works/Parks/trail guide 10-08.pdf/"
 tags:
