@@ -9,6 +9,7 @@ disambiguation of: Fossil Creek
 note: A tiny sliver is located in the Merrill Lake Wildlife Area Unit based on OpenStreetMap definitions.
 openstreetmap: "https://www.openstreetmap.org/way/369195558"
 tributary of: Kalama River
+wikidata: "https://www.wikidata.org/wiki/Q49915336"
 tags:
   - creek
   - disambiguation
