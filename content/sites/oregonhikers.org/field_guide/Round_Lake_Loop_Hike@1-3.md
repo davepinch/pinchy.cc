@@ -8,5 +8,6 @@ snippet of: Round Lake Loop Hike (OregonHikers.org)
 type: snippet
 url: /www.oregonhikers.org/field_guide/Round_Lake_Loop_Hike/@1-3/
 tags:
+  - location
   - snippet
 ---
