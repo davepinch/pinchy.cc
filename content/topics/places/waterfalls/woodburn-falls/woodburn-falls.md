@@ -1,5 +1,6 @@
 ---
 title: "Woodburn Falls"
+mapy: "https://mapy.com/s/dovuzomodo"
 openstreetmap: "https://www.openstreetmap.org/node/3915191018"
 waterfall in:
   - Lacamas Regional Park
