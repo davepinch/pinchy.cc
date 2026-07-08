@@ -1,7 +1,7 @@
 ---
 title: "Pothole Falls"
 apple maps: "https://maps.apple/p/ZcA5ZRci8iF-3o"
-mapy: "https://mapy.com/s/cenogavera"
+mapy: "https://mapy.com/s/fudusefere"
 openstreetmap: "https://www.openstreetmap.org/node/4356732909"
 waterfall in:
   - Lacamas Creek
