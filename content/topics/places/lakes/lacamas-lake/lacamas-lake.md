@@ -9,6 +9,7 @@ lake in the watercourse of: Lacamas Creek
 lake of:
   - Camas, Washington
   - Camp Currie Park
+mapy: "https://mapy.com/s/depuhovofe"
 note:
   - According to OpenStreetMap, the lake is directly surrounded on three sides of Camas, Washington.
   - The north side of the lake borders Camp Currie, a Clark County-owned park property.
