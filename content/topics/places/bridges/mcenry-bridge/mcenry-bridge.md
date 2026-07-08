@@ -16,4 +16,5 @@ vantage point of:
 tags:
   - bridge
   - no Wikidata record
+  - no Wikipedia article
 ---
