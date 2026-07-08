@@ -25,4 +25,6 @@ openstreetmap: "https://www.openstreetmap.org/way/391631887"
   - Since this dam is on Round Lake (not Lacamas Lake), *Round Lake Dam* is the preferred name.
 tags:
   - dam
+  - no Wikidata record
+  - no Wikipedia article
 ---
