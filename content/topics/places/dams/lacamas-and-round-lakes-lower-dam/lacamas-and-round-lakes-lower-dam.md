@@ -8,6 +8,7 @@ dam in:
   - Clark County, Washington
   - Washington
 description: The lower of two dams on Mill Pond in Lacamas Regional Park in Camas, Clark County, Washington.
+mapy: "https://mapy.com/s/pelolajubu"
 openstreetmap: "https://www.openstreetmap.org/way/391631890"
 vantage point of: Mill Pond
 vicinity to: Lacamas and Round Lakes Upper Dam
