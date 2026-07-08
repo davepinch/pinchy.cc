@@ -1,5 +1,6 @@
 ---
 title: "Camas, Washington"
+across the Columbia from: Troutdale, Oregon
 adjacent to:
   - Proebstel, Washington
   - Washougal, Washington
