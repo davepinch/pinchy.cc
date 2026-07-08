@@ -7,4 +7,5 @@ namesake of: Troutdale, Oregon
 tags:
   - geological formation
   - no Wikidata record
+  - no Wikipedia article
 ---
