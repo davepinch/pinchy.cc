@@ -11,6 +11,7 @@ lake in:
   - Clark County, Washington
   - Washington
 lake in the watercourse of: Lacamas Creek
+mapy: "https://mapy.com/s/nenurozapo"
 openstreetmap: "https://www.openstreetmap.org/way/1214480718"
 wikidata: "https://www.wikidata.org/wiki/Q7331678"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Round_Lake_(Washington)"
