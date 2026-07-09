@@ -1,6 +1,7 @@
 ---
 title: "Horse Creek (Little Rattlesnake Creek tributary)"
 creek in:
+  - Okanogan–Wenatchee National Forest
   - Yakima County, Washington
   - Washington
 disambiguation of: Horse Creek
