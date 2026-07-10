@@ -1,0 +1,15 @@
+---
+title: "Blue Creek (Brush Creek tributary)"
+creek in:
+  - Yakima Indian Reservation
+  - Yakima County, Washington
+  - Washington
+disambiguation of: Blue Creek
+openstreetmap: "https://www.openstreetmap.org/way/549043506"
+tributary of: Brush Creek
+wikidata: "https://www.wikidata.org/wiki/Q49862701"
+tags:
+  - creek
+  - disambiguation
+  - tributary
+---
