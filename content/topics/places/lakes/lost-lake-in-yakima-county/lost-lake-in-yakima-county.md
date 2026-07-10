@@ -7,6 +7,10 @@ lake in:
   - Yakima County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/438388470"
+vantage point of:
+  - Divide Ridge
+  - Jumpoff Joe
+  - Jumpoff Joe Lookout
 tags:
   - lake
   - disambiguation
