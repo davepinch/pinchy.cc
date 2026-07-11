@@ -3,7 +3,7 @@ title: "Cyclists cut through Red Tape at Lacamas Regional Park (columbian.com)"
 author: Dameon Pesanti
 excerpt: >-
   A dirt trail in Lacamas Regional Park, unofficially known as Red Tape, is being closed to foot traffic and designated as a one-way, downhill mountain bike route.
-mention of: Camas Lilly Field
+mention of: Camas Lilly Fields
 news of:
   - Red Tape
   - Lacamas Regional Park
