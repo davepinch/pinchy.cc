@@ -1,7 +1,7 @@
 ---
 title: "Rock Creek (Chiwawa River tributary)"
 creek in:
-  - Glacer Peak Wilderness
+  - Glacier Peak Wilderness
   - Okanogan–Wenatchee National Forest
   - Chelan County, Washington
   - Washington
