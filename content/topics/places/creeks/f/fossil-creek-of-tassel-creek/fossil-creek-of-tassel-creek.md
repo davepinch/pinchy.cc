@@ -8,6 +8,7 @@ gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/15
 openstreetmap: "https://www.openstreetmap.org/way/37327929"
 tributary of: Tassel Creek
 vicinity to: Forks, Washington
+wikidata: "https://www.wikidata.org/wiki/Q49915332"
 tags:
   - creek
   - disambiguation
