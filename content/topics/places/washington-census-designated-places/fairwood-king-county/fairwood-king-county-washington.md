@@ -3,6 +3,7 @@ title: "Fairwood, King County, Washington"
 census-designated place in:
   - King County, Washington
   - Washington
+census-designated place of: United States Census Bureau
 disambiguation of: Fairwood, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/238167"
 wikidata: "https://www.wikidata.org/wiki/Q1515735"
