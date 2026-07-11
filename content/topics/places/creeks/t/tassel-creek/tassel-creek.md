@@ -13,4 +13,5 @@ tributary of: Sol Duc River
 tags:
   - creek
   - tributary
+  - no Wikidata record
 ---
