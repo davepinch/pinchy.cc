@@ -6,7 +6,7 @@ connects to:
 trail in:
   - Snow Mountain Ranch
   - Yakima County, Washington
-  - Washingon
+  - Washington
 openstreetmap: "https://www.openstreetmap.org/way/639842095"
 tags:
   - trail
