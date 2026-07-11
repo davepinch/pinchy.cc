@@ -5,7 +5,7 @@ basalt of: Long Lake Trail
 snippet of: Jumpoff Lookout (wta.org)
 start of trail near: Lost Lake (Yakima County, Washington)
 type: snippet
-url: /www.wta.org/go-hiking/hikes/jumpoff-joe-lookout/@3-2/
+url: /www.wta.org/go-hiking/hikes/jumpoff-joe-lookout/@3-5/
 tags:
   - basalt
   - snippet
