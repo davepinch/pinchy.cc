@@ -4,7 +4,7 @@ apple maps: "Apple Maps does not show this dam. It does show the Lacamas and Rou
 bing maps: "Bing Maps does not show this dam or any of the dams in Lacamas Regional Park (July 2026)."
 dam in:
   - Lacamas Regional Park
-  - Camas, Warhingon
+  - Camas, Washington
   - Clark County, Washington
   - Washington
 dam of:
