@@ -8,6 +8,7 @@ creek in:
   - Washington
 disambiguation of: Rattlesnake Creek
 openstreetmap: "https://www.openstreetmap.org/way/372784299"
+tributary of: Naches River
 tags:
   - creek
   - disambiguation
