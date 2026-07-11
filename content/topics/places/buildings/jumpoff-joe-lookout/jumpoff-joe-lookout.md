@@ -10,4 +10,5 @@ tags:
   - building
   - lookout
   - no Wikidata record
+  - no Wikipedia article
 ---
