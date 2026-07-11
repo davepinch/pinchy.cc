@@ -1,5 +1,6 @@
 ---
 title: "Bald Mountain (Snohomish County, Washington)"
+disambiguation of: Bald Mountain
 mountain in:
   - Boulder River Wilderness
   - Snohomish County, Washington
@@ -14,6 +15,7 @@ usgs map: Silverton
 wikidata: "https://www.wikidata.org/wiki/Q49010233"
 tags:
   - mountain
+  - disambiguation
   - no Wikimedia category
   - no Wikipedia article
 ---
