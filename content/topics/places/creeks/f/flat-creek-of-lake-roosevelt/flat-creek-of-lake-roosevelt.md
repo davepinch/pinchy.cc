@@ -6,6 +6,7 @@ creek in:
   - Stevens County, Washington
   - Washington
 disambiguation of: Flat Creek
+gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1519641"
 openstreetmap: "https://www.openstreetmap.org/way/821264203"
 tributary of:
   - Lake Roosevelt
