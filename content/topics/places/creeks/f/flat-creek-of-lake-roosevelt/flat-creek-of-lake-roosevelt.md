@@ -10,6 +10,7 @@ openstreetmap: "https://www.openstreetmap.org/way/821264203"
 tributary of:
   - Lake Roosevelt
   - Columbia River
+wikidata: "https://www.wikidata.org/wiki/Q27986941"
 tags:
   - creek
   - disambiguation
