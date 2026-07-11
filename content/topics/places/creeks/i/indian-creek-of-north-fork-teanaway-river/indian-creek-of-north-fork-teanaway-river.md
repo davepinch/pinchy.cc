@@ -3,7 +3,7 @@ title: "Indian Creek (North Fork Teanaway River tributary)"
 creek in:
   - Teanaway Community Forest
   - Okanogan–Wenatchee National Forest
-  - Kittittas County, Washington
+  - Kittitas County, Washington
   - Washington
 disambiguation of: Indian Creek
 openstreetmap: "https://www.openstreetmap.org/relation/16946558"
