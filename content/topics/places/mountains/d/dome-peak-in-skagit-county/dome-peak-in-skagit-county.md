@@ -6,6 +6,7 @@ mountain in:
   - Cascade Range
   - Skagit County, Washington
   - Washington
+openstreetmap: "https://www.openstreetmap.org/node/348816078"
 wikidata: "https://www.wikidata.org/wiki/Q767515"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Dome_Peak"
 tags:
