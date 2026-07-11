@@ -8,6 +8,7 @@ creek in:
   - Cascade Range
 creek of: Tinkham Road
 disambiguation of: Rock Creek
+gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1525116"
 openstreetmap: "https://www.openstreetmap.org/relation/16736314"
 tributary of: South Fork Snoqualmie River
 wikidata: "https://www.wikidata.org/wiki/Q123505840"
