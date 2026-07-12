@@ -7,6 +7,7 @@ king county natural area in:
   - King County, Washington
   - Washington
 king county natural area of: Judd Creek
+not to be confused with: Paradise Valley Conservation Area
 note: This natural area is identified in OpenStreetMap comments as a King County Natural Area, but the site is not listed on the King County website as a natural area.
 openstreetmap: "https://www.openstreetmap.org/way/26937797"
 tags:
