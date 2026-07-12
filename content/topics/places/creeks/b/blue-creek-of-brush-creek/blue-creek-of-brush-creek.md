@@ -1,7 +1,7 @@
 ---
 title: "Blue Creek (Brush Creek tributary)"
 creek in:
-  - Yakima Indian Reservation
+  - Yakama Indian Reservation
   - Yakima County, Washington
   - Washington
 disambiguation of: Blue Creek
