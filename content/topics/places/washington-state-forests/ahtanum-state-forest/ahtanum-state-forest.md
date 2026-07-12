@@ -5,6 +5,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/6534533"
 state forest in:
   - Yakima County, Washington
   - Washington
+state forest of: Washington Department of Natural Resources
 wikidata: "https://www.wikidata.org/wiki/Q110088426"
 tags:
   - Washington State Forest
