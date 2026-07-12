@@ -6,6 +6,7 @@ creek in:
   - Okanogan County, Washington
   - Washington
 disambiguation of: Cedar Creek
+gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1517538"
 openstreetmap: "https://www.openstreetmap.org/relation/10887517"
 tributary of: Cub Creek
 wikidata: "https://www.wikidata.org/wiki/Q49875816"
