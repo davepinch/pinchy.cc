@@ -7,7 +7,7 @@ retrieved: 2026-07-06
 type: website
 url: /en.wikipedia.org/wiki/Salmon_Creek_(Clark_County,_Washington)/
 website: "https://en.wikipedia.org/wiki/Salmon_Creek_(Clark_County,_Washington)"
-wikipedia of: Salmon Creek (Lake River tributary
+wikipedia of: Salmon Creek (Lake River tributary)
 tags:
   - Wikipedia
 ---
