@@ -1,7 +1,7 @@
 ---
 title: "Indian Creek (Rattlesnake Creek tributary)"
 creek in:
-  - White Salmon National Wild and Scenic River
+  - White Salmon Wild and Scenic River
   - White Salmon Oak Natural Resources Conservation Area
   - Klickitat County, Washington
   - Washington
