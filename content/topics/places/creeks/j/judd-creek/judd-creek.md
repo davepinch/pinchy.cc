@@ -3,6 +3,7 @@ title: "Judd Creek"
 creek in:
   - Island Center Forest
   - Judd Creek Natural Area
+  - Paradise Valley Natural Area
   - Vashon Island
   - Vashon, Washington
   - King County, Washington
