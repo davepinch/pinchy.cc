@@ -1,6 +1,6 @@
 ---
 title: "Island Center Forest"
-borders: Island Center Forest Natural Area
+adjacent to: Island Center Forest Natural Area
 forest of:
   - King County, Washington
   - Vashon, Washington
