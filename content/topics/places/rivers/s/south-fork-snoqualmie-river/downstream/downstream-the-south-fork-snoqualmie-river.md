@@ -18,7 +18,7 @@ sequence:
   - Carter Creek
   - Harris Creek
   - Rock Creek (South Fork Snoqualmie River tributary)
-  - Mason Creek
+  - Mason Creek (South Fork Snoqualmie River tributary)
   - Alice Creek
   - Wood Creek
   - Mine Creek

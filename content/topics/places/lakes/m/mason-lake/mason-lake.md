@@ -7,7 +7,7 @@ lake in:
   - Washington
   - Cascade Range
 openstreetmap: "https://www.openstreetmap.org/relation/11611018"
-tributary of: Mason Creek
+tributary of: Mason Creek (South Fork Snoqualmie River tributary)
 vicinity to:
   - Bandera Mountain
   - Snoqualmie Pass
