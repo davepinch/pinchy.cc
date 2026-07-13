@@ -12,7 +12,6 @@ river in:
 tributary of: Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q3567788"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:White_Salmon_River"
-wikipedia: "https://en.wikipedia.org/wiki/White_Salmon_River"
 tags:
   - river
 ---
