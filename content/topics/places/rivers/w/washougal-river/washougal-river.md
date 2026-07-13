@@ -13,7 +13,6 @@ river in:
 tributary of: Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q7972626"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Washougal_River"
-wikipedia: "https://en.wikipedia.org/wiki/Washougal_River"
 tags:
   - river
 ---
