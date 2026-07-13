@@ -7,6 +7,7 @@ creek in:
   - Washington
   - Cascade Range
 disambiguation of: Mason Creek
+gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1522792"
 openstreetmap: "https://www.openstreetmap.org/relation/16735577"
 tributary of: South Fork Snoqualmie River
 vicinity of:
