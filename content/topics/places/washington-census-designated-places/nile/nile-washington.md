@@ -7,7 +7,7 @@ census-designated place of:
   - Dry Creek (Naches River tributary)
   - Naches River
   - Nile Creek
-  - Nile Springs Wildlife Area
+  - Nile Springs Wildlife Area Unit
   - Rattlesnake Creek (Naches River tributary)
 openstreetmap: "https://www.openstreetmap.org/relation/18398413"
 wikidata: "https://www.wikidata.org/wiki/Q6043065"
