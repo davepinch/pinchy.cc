@@ -5,7 +5,7 @@ city in:
   - Walla Walla County, Washington
   - Washington
 city of:
-  - Copper Creek
+  - Coppei Creek
   - Touchet River
   - Washington State Route 124
 eastern terminus of: Washington State Route 124
