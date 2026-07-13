@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q124829584"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Patterson_Lake"
 tags:
   - lake
+  - no Wikipedia article
 ---
