@@ -1,7 +1,7 @@
 ---
 title: "Rattlesnake Creek (White Salmon River tributary)"
 creek in:
-  - White Salmon National Wild and Scenic River
+  - White Salmon Wild and Scenic River
   - Klickitat County, Washington
   - Washington
 disambiguation of: Rattlesnake Creek
