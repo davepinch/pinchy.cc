@@ -17,7 +17,7 @@ wildlife area unit of:
   - Bethel Ridge
   - Cabin Creek (Tieton River tributary)
   - Carmack Canyon
-  - Cougar Canyon (Naches River tributary)
+  - Cougar Canyon
   - Counterfeit Creek
   - Indian Creek (Oak Creek tributary)
   - Meloy Canyon
