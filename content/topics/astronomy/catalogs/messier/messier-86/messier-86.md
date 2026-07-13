@@ -2,6 +2,7 @@
 title: "Messier 86"
 ⬅️: Messier 85
 ➡️: Messier 87
+discovered by: Charles Messier
 galaxy of:
   - Virgo
   - Virgo Cluster
