@@ -1,7 +1,7 @@
 ---
 title: "Wolf Creek (Methow River tributary)"
 creek in:
-  - Lake Chelan Sawtooth Wilderness
+  - Lake Chelan-Sawtooth Wilderness
   - Methow Trails
   - Okanogan–Wenatchee National Forest
   - Okanogan County, Washington
