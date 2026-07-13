@@ -3,7 +3,7 @@ title: "Messier 49 (Wikipedia)"
 excerpt: >-
   **Messier 49** (also known as **M49** or **NGC 4472**) is a giant elliptical galaxy about 56 million light-years away in the equatorial constellation of Virgo. This galaxy was discovered by astronomer Charles Messier in 1777.
 license: CC BY-SA 4.0
-retrieved: 2024-11-07
+retrieved: 2026-07-13
 type: website
 url: /en.wikipedia.org/wiki/Messier_49/
 website: "https://en.wikipedia.org/wiki/Messier_49"
