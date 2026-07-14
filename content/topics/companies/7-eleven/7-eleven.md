@@ -1,6 +1,7 @@
 ---
 title: "7-Eleven"
 company of: United States
+headquarters in: Dallas, Texas
 youtube: "https://www.youtube.com/@7eleven"
 wikidata: "https://www.wikidata.org/wiki/Q259340"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:7-Eleven"
