@@ -1,7 +1,7 @@
 ---
 title: "Pierce County, Washington"
 ASCEND: Mount Rainier
-borders:
+adjacent to:
   - King County, Washington
   - Kitsap County, Washington
   - Kittitas County, Washington
