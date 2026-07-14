@@ -10,6 +10,7 @@ adjacent to:
   - Fort Lewis, Washington
   - North Fort Lewis, Washington
   - Steilacoom, Washington
+apple maps: "https://maps.apple/p/Q2VoWFqrKPnzIi"
 census profile: "https://data.census.gov/profile/Lakewood_city,_Washington?g=160XX00US5338038"
 city of:
   - Pierce County, Washington
