@@ -1,10 +1,9 @@
 ---
 title: "Gospel of John (Wikipedia)"
 excerpt: >-
-  The **Gospel of John** (Ancient Greek: Εὐαγγέλιον κατὰ Ἰωάννην, romanized: *Euangélion katà Iōánnēn*) is the fourth of the four canonical gospels. It contains a highly schematic account of the ministry of [Jesus](/en.wikipedia.org/wiki/Jesus), with seven "signs" culminating in the raising of Lazarus (foreshadowing the resurrection of Jesus) and seven "I am" discourses (concerned with issues of the church–synagogue debate at the time of composition) culminating in Thomas' proclamation of the risen Jesus as "my Lord and my God". The gospel's concluding verses set out its purpose, "that you may believe that Jesus is the Christ, the Son of God, and that believing you may have life in his name."
+  The **Gospel of John** is the fourth gospel of the canonical gospels in the New Testament. The first section of the gospel presents a schematic account of the ministry of Jesus, with seven signs that culminate in the raising of Lazarus and validate the truth of his words. The second part of the text portrays the final week of Jesus’s life, recounting the Farewell Discourse and the passion and resurrection narratives.
 license: CC BY-SA 4.0
-related: John 1:1 KJV
-retrieved: 2023-08-01
+retrieved: 2026-07-13
 type: website
 url: /en.wikipedia.org/wiki/Gospel_of_John/
 website: "https://en.wikipedia.org/wiki/Gospel_of_John"
