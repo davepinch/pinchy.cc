@@ -5,7 +5,7 @@ creek in:
   - Thurston County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/11765907"
-tributary of: BUdd Inlet
+tributary of: Budd Inlet
 wikidata: "https://www.wikidata.org/wiki/Q19979247"
 tags:
   - creek
