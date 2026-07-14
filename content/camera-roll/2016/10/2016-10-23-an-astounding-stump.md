@@ -1,10 +1,10 @@
 ---
 title: "An astounding stump!"
+astounding of: stump
 license: CC BY-SA 4.0
 next: "Field of stumps at Keechelus Lake"
 photograph of:
   - Keechelus Lake
-  - stump
   - grass
   - windy
   - Interstate 90
