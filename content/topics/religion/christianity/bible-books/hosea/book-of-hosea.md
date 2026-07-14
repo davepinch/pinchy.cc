@@ -10,7 +10,6 @@ book of:
   - Bible
 wikidata: "https://www.wikidata.org/wiki/Q184030"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Book_of_Hosea"
-wikipedia: "https://en.wikipedia.org/wiki/Book_of_Hosea"
 wikiquote: "https://en.wikiquote.org/wiki/Book_of_Hosea"
 wikisource: "https://en.wikisource.org/wiki/Hosea_(Bible)"
 tags:
