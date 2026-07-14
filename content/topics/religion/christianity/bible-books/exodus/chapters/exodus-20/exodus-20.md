@@ -1,5 +1,6 @@
 ---
 title: "Exodus 20"
+➡️: Exodus 21
 chapter of: Book of Exodus
 wikidata: "https://www.wikidata.org/wiki/Q12490590"
 wikipedia: "https://en.wikipedia.org/wiki/Exodus_20"
