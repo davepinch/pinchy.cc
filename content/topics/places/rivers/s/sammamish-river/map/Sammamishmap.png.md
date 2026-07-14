@@ -21,8 +21,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/1/13/Sammamishmap.png"
 related:
   - Sammamish River (Wikipedia)
   - Lake Sammamish (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sammamishmap.png/449px-Sammamishmap.png
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Sammamishmap.png/250px-Sammamishmap.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Sammamishmap.png/
 website: "https://commons.wikimedia.org/wiki/File:Sammamishmap.png"
