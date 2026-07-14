@@ -8,7 +8,6 @@ lake in:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/25100667"
 wikidata: "https://www.wikidata.org/wiki/Q7334174"
-wikipedia: "https://en.wikipedia.org/wiki/Waughop_Lake"
 tags:
   - lake
   - no Wikimedia category
