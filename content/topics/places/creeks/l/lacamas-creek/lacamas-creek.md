@@ -8,7 +8,7 @@ creek in:
   - Camas, Washington
   - Clark County, Washington
   - Washington
-creek of: Lacmas Heritage Trail
+creek of: Lacamas Heritage Trail
 openstreetmap: "https://www.openstreetmap.org/relation/14899258"
 tributary of: Washougal River
 wikidata: "https://www.wikidata.org/wiki/Q14709031"
