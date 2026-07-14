@@ -7,6 +7,7 @@ adjacent to:
   - unnamed Pierce County, Washington
   - Cormorant Passage
   - Nisqually Reach
+apple maps: "https://maps.apple/p/t~pt.iPgxfHtG1"
 census profile: "https://data.census.gov/profile/Steilacoom_town,_Washington?g=160XX00US5367770"
 city of:
   - Pierce County, Washington
