@@ -29,8 +29,7 @@ map of:
   - Wynoochee River
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b5/Chehaliswamap-01.png"
 related: Chehalis River (Washington) (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Chehaliswamap-01.png/527px-Chehaliswamap-01.png
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Chehaliswamap-01.png/330px-Chehaliswamap-01.png"
 type: picture
 url: /commons.wikimedia.org/wiki/Chehaliswamap-01.png/
 website: "https://commons.wikimedia.org/wiki/File:Chehaliswamap-01.png"
