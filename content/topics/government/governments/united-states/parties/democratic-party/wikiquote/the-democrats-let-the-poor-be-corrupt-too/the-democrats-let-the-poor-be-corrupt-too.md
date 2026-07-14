@@ -4,6 +4,7 @@ attribution: Oscar Levant, as quoted in "Oscar the Magnificent" by Burt Prelutsk
 corruption of:
   - Democratic Party
   - Republican Party
+quote in: Democratic Party (United States) (Wikiquote)
 type: quote
 tags:
   - quote
