@@ -7,6 +7,7 @@ lake in:
   - Clark County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/366898640"
+vicinity to: Widgeon Lake
 wikidata: "https://www.wikidata.org/wiki/Q49300258"
 tags:
   - lake
