@@ -13,6 +13,7 @@ county in:
   - Washington
   - Interstate 5
 county seat: Tacoma, Washington
+disambiguation of: Pierce County
 northbound on interstate 5: King County, Washington
 official website: "https://www.piercecountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153347"
