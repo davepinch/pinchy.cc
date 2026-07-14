@@ -1,5 +1,6 @@
 ---
 title: "Waughop Lake"
+apple maps: "https://maps.apple/p/UUfAR~A8diVDvH"
 lake in:
   - Fort Steilacoom Park
   - Lakewood, Washington
