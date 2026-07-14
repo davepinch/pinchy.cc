@@ -7,8 +7,9 @@ note: A higher resolution version is available on the website
 oath of office of:
   - Lyndon B. Johnson
   - airplane
-picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lyndon_B._Johnson_taking_the_oath_of_office%2C_November_1963.jpg/2560px-Lyndon_B._Johnson_taking_the_oath_of_office%2C_November_1963.jpg"
+picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lyndon_B._Johnson_taking_the_oath_of_office%2C_November_1963.jpg/3840px-Lyndon_B._Johnson_taking_the_oath_of_office%2C_November_1963.jpg"
 source: "http://www.lbjlibrary.net/collections/photo-archive/photolab-detail.html?id=29"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Lyndon_B._Johnson_taking_the_oath_of_office%2C_November_1963.jpg/330px-Lyndon_B._Johnson_taking_the_oath_of_office%2C_November_1963.jpg"
 type: picture
 url: /en.wikipedia.org/wiki/Lyndon_B._Johnson_taking_the_oath_of_office,_November_1963.jpg/
 website: "https://en.wikipedia.org/wiki/File:Lyndon_B._Johnson_taking_the_oath_of_office,_November_1963.jpg"
