@@ -5,8 +5,12 @@ river in:
   - Humptulips-Grass Creek Wildlife Area Unit
   - Grays Harbor County, Washington
   - Washington
+tributary of:
+  - North Bay (Grays Harbor)
+  - Grays Harbor
 wikidata: "https://www.wikidata.org/wiki/Q1267685"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Humptulips_River"
 tags:
   - river
+  - tributary
 ---
