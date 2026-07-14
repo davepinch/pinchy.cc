@@ -2,6 +2,7 @@
 title: "Humptulips River"
 openstreetmap: "https://www.openstreetmap.org/relation/12550812"
 river in:
+  - Humptulips-Grass Creek Wildlife Area Unit
   - Grays Harbor County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q1267685"
