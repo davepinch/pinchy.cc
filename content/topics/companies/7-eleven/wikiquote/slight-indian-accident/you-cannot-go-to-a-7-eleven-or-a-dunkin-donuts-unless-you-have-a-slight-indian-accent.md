@@ -5,6 +5,7 @@ attribution: >-
 citation: >-
   7-Eleven. (2026, March 15). *Wikiquote*. Retrieved July 14, 2026, from https://en.wikiquote.org/w/index.php?title=7-Eleven&oldid=3911530.
 emmigration of: India
+quotes of: 7-Eleven (Wikiquote)
 slight Indian accent of:
   - Delaware
   - 7-Eleven
