@@ -9,4 +9,5 @@ website: "https://en.wikiquote.org/wiki/Democratic_Party_(United_States)"
 wikiquote of: Democratic Party
 tags:
   - website
+  - Wikiquote
 ---
