@@ -14,6 +14,7 @@ tributary of: Humptulips River
 wikidata: "https://www.wikidata.org/wiki/Q49901271"
 tags:
   - river
+  - tributary
   - no Wikimedia category
   - no Wikipedia article
 ---
