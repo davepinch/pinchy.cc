@@ -8,14 +8,13 @@ adjacent to:
   - Cormorant Passage
   - Nisqually Reach
 apple maps: "https://maps.apple/p/t~pt.iPgxfHtG1"
-census profile: "https://data.census.gov/profile/Steilacoom_town,_Washington?g=160XX00US5367770"
-city of:
-  - Pierce County, Washington
-  - Washington
 namesake of: Steilacoom People
 openstreetmap: "https://www.openstreetmap.org/relation/237267"
+town of:
+  - Pierce County, Washington
+  - Washington
 wikidata: "https://www.wikidata.org/wiki/Q1507851"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Steilacoom,_Washington"
 tags:
-  - city
+  - town
 ---
