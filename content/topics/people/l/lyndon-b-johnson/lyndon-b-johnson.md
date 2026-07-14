@@ -12,6 +12,7 @@ member of: Democratic Party
 president of: United States
 type: person
 wikidata: "https://www.wikidata.org/wiki/Q9640"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lyndon_B._Johnson"
 tags:
   - president of the United States
   - human being
