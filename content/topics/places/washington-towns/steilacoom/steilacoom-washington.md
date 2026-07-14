@@ -10,7 +10,7 @@ adjacent to:
 apple maps: "https://maps.apple/p/t~pt.iPgxfHtG1"
 namesake of: Steilacoom People
 openstreetmap: "https://www.openstreetmap.org/relation/237267"
-town of:
+town in:
   - Pierce County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q1507851"
