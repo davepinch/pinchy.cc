@@ -6,7 +6,7 @@ citation: >-
 inspiration of: The Stand
 influence of: Earth Abides
 snippet of: Earth Abides (Wikipedia)
-url: /en.wikipedia.org/wiki/Earth_Abides/legacy-and-homages-1/
+url: /en.wikipedia.org/wiki/Earth_Abides/@legacy-and-homages-1/
 type: snippet
 tags:
   - snippet
