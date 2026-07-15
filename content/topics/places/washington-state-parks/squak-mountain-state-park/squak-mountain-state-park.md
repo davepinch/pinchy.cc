@@ -9,7 +9,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/5960704"
 state park in:
   - King County, Washington
   - Washington
-  - Cascade Range
 state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q49564994"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Squak_Mountain_State_Park"
