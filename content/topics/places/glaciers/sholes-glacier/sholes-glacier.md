@@ -7,7 +7,7 @@ glacier in:
   - Washington
   - Cascade Range
 glacier of: Mount Baker
-namesake of: Charles H. Sholes
+namesake of: Charles Henry Sholes
 openstreetmap: "https://www.openstreetmap.org/relation/15310454"
 wikidata: "https://www.wikidata.org/wiki/Q7500225"
 tags:
