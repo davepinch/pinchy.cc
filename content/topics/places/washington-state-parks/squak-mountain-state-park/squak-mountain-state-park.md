@@ -1,9 +1,9 @@
 ---
 title: "Squak Mountain State Park"
-apple maps: "https://maps.apple/p/W78H02ro4PXF3j"
-borders:
+adjacent to:
   - Cougar Mountain Regional Wildland Park
   - Issaquah, Washington
+apple maps: "https://maps.apple/p/W78H02ro4PXF3j"
 found dead here: Alena Stathopoulos
 openstreetmap: "https://www.openstreetmap.org/relation/5960704"
 state park in:
