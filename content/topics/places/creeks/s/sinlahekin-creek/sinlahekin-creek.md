@@ -8,6 +8,7 @@ creek in:
   - Washington
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1525817"
 openstreetmap: "https://www.openstreetmap.org/relation/10726556"
+tributary of: Palmer Lake (Okanogan County, Washington)
 wikidata: "https://www.wikidata.org/wiki/Q49926291"
 tags:
   - creek
