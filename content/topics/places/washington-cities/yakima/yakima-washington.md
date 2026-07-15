@@ -13,6 +13,8 @@ city of:
   - Columbia Plateau
 openstreetmap: "https://www.openstreetmap.org/relation/237752"
 vicinity to:
+  - Cowiche Canyon Trail System
+  - Cowiche Canyon Uplands
   - Gleed, Washington
   - Moxee, Washington
   - Parker, Washington
