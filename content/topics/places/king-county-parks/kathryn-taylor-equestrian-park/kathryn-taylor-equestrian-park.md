@@ -1,9 +1,10 @@
 ---
 title: "Kathryn Taylor Equestrian Park"
 adjacent to: Tolt Pipeline Trail
-county park of:
-  - King County, Washington
+county park in:
   - Union Hill-Novelty Hill, Washington
+  - King County, Washington
+  - Washington
 namesake of: Kathryn Taylor
 openstreetmap: "https://www.openstreetmap.org/way/32919331"
 wikimedia:

@@ -1,12 +1,14 @@
 ---
 title: "Maury Island Marine Park"
-county park of:
-  - King County, Washington
+county park in:
   - Vashon, Washington
+  - King County, Washington
+  - Washington
+county park of:
   - Maury Island
   - East Passage
   - Puget Sound
-not to be confused with: "Maury Island Natural Area"
+not to be confused with: Maury Island Natural Area
 openstreetmap: "https://www.openstreetmap.org/relation/3886756"
 postal address: "SW 244th St, Vashon, WA 98070"
 tags:
