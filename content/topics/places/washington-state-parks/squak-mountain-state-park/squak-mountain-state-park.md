@@ -16,7 +16,8 @@ state park of:
   - Chybinski Trail
   - Coal Mine Trail
   - High Valley Trail
-  - Huckleberry Trail
+  - Huckleberry 
+  - May Valley Loop
   - McDonald Creek (Issaquah Creek tributary)
   - Old Griz Trail
   - Perimeter Loop Trail
