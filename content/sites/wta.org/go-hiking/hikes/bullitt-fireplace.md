@@ -13,6 +13,7 @@ url: /www.wta.org/go-hiking/hikes/bullitt-fireplace/
 washington trails association of:
   - Bullitt Fireplace
   - Bullitt Fireplace Trail
+  - Cougar/Squak Corridor
   - Squak Mountain
   - Squak Mountain State Park
 website: "https://www.wta.org/go-hiking/hikes/bullitt-fireplace"
