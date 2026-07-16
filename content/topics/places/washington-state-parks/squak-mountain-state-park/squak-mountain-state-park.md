@@ -24,6 +24,7 @@ state park of:
   - Phil's Creek
   - Phil's Creek Trail
   - Pretzel Tree Trail
+  - South Access Road
   - Summit Trail
   - Sycamore Access Trail
   - West Access Trail
