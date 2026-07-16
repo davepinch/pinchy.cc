@@ -1,6 +1,8 @@
 ---
 title: "West Tiger Mountain Natural Resources Conservation Area"
-adjacent to: Tiger Mountain State Forest
+adjacent to:
+  - Squak/Tiger Corridor
+  - Tiger Mountain State Forest
 conservation area in:
   - King County, Washington
   - Washington
