@@ -4,7 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2023, December 23). Squak Mountain. In Wikipedia, The Free Encyclopedia. Retrieved July 2, 2024, from https://en.wikipedia.org/w/index.php?title=Squak_Mountain&oldid=1191376323
 license: CC BY-SA 4.0
-murder of: Squak Mountain
+murder in: Squak Mountain
 type: snippet
 url: /en.wikipedia.org/wiki/Squak_Mountain/@history-7-1/
 website: "https://en.wikipedia.org/wiki/Squak_Mountain"
