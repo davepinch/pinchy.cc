@@ -20,6 +20,7 @@ state park of:
   - Perimeter Loop Trail
   - Phil's Creek
   - Pretzel Tree Trail
+  - Summit Trail
   - Sycamore Access Trail
   - West Access Trail
   - West Peak Trail
