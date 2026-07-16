@@ -1,6 +1,8 @@
 ---
 title: "Alena Stathopoulos"
-found dead in: Squak Mountain
+found dead in:
+  - Squak Mountain
+  - Squak Mountain State Park
 tags:
   - human being
   - dead at the moment
