@@ -1,6 +1,7 @@
 ---
 title: "Squak Mountain State Park"
 adjacent to:
+  - Cougar/Squak Corridor
   - Cougar Mountain Regional Wildland Park
   - Issaquah, Washington
 apple maps: "https://maps.apple/p/W78H02ro4PXF3j"
