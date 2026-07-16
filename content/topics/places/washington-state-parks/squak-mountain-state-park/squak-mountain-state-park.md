@@ -17,6 +17,7 @@ state park of:
   - Coal Mine Trail
   - High Valley Trail
   - McDonald Creek (Issaquah Creek tributary)
+  - Old Griz Trail
   - Perimeter Loop Trail
   - Phil's Creek
   - Pretzel Tree Trail
