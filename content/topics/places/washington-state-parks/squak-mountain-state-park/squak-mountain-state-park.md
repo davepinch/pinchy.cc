@@ -11,6 +11,7 @@ state park in:
   - King County, Washington
   - Washington
 state park of:
+  - Bullitt Gorge Trail
   - Perimeter Loop Trail
   - West Peak Trail
 wikidata: "https://www.wikidata.org/wiki/Q49564994"
