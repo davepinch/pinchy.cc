@@ -17,6 +17,7 @@ state park of:
   - McDonald Creek
   - Perimeter Loop Trail
   - Phil's Creek
+  - Pretzel Tree Trail
   - West Access Trail
   - West Peak Trail
 wikidata: "https://www.wikidata.org/wiki/Q49564994"
