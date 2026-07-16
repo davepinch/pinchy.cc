@@ -14,7 +14,7 @@ state park of:
   - Bullitt Gorge Trail
   - Chybinski Trail
   - Coal Mine Trail
-  - McDonald Creek
+  - McDonald Creek (Issaquah Creek tributary)
   - Perimeter Loop Trail
   - Phil's Creek
   - Pretzel Tree Trail
