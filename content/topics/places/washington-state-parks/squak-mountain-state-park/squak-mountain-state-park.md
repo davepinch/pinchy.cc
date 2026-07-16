@@ -21,6 +21,7 @@ state park of:
   - Old Griz Trail
   - Perimeter Loop Trail
   - Phil's Creek
+  - Phil's Creek Trail
   - Pretzel Tree Trail
   - Summit Trail
   - Sycamore Access Trail
