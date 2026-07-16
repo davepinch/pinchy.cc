@@ -10,7 +10,9 @@ trail in:
   - Squak Mountain State Park
   - King County, Washington
   - Washington
-trail of: Squak Mountain West Peak
+trail of:
+  - Squak Mountain
+  - Squak Mountain West Peak
 tags:
   - trail
 ---
