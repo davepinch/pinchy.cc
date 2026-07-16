@@ -11,6 +11,7 @@ state park in:
   - King County, Washington
   - Washington
 state park of:
+  - Perimeter Loop Trail
   - West Peak Trail
 wikidata: "https://www.wikidata.org/wiki/Q49564994"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Squak_Mountain_State_Park"
