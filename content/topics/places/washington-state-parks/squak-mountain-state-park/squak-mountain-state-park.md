@@ -13,6 +13,7 @@ state park in:
 state park of:
   - Bullitt Fireplace
   - Bullitt Gorge Trail
+  - Central Peak Trail
   - Chybinski Trail
   - Coal Mine Trail
   - High Valley Trail
