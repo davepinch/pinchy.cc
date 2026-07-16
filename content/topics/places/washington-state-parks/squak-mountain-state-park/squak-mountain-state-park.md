@@ -12,6 +12,7 @@ state park in:
   - Washington
 state park of:
   - Bullitt Gorge Trail
+  - Chybinski Trail
   - Perimeter Loop Trail
   - West Peak Trail
 wikidata: "https://www.wikidata.org/wiki/Q49564994"
