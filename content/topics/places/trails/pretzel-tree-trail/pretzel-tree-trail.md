@@ -1,6 +1,6 @@
 ---
 title: "Pretzel Tree Trail"
-connects to: South Access Road
+connects to: SSquak Mountain Road Southeast
 openstreetmap: "https://www.openstreetmap.org/way/220187315"
 trail in:
   - Squak Mountain State Park
