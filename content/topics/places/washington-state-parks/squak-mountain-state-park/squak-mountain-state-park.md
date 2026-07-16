@@ -14,7 +14,9 @@ state park of:
   - Bullitt Gorge Trail
   - Chybinski Trail
   - Coal Mine Trail
+  - McDonald Creek
   - Perimeter Loop Trail
+  - Phil's Creek
   - West Access Trail
   - West Peak Trail
 wikidata: "https://www.wikidata.org/wiki/Q49564994"
