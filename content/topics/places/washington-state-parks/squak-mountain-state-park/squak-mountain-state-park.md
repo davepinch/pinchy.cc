@@ -17,6 +17,7 @@ state park of:
   - Chybinski Trail
   - Coal Mine Trail
   - East Ridge Trail
+  - East Side Trail
   - Equestrian Loop
   - High Valley Trail
   - Horse Connector
