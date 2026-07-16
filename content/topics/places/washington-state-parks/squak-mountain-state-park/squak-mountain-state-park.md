@@ -32,6 +32,7 @@ state park of:
   - Phil's Creek Trail
   - Pretzel Tree Trail
   - South Access Road
+  - Squak Mountain Access Trail
   - Summit Trail
   - Sycamore Access Trail
   - West Access Trail
