@@ -11,6 +11,7 @@ state park in:
   - King County, Washington
   - Washington
 state park of:
+  - Bullitt Fireplace
   - Bullitt Gorge Trail
   - Chybinski Trail
   - Coal Mine Trail
