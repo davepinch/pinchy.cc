@@ -12,6 +12,7 @@ state park in:
   - Washington
 state park of:
   - Bullitt Fireplace
+  - Bullitt Fireplace Trail
   - Bullitt Gorge Trail
   - Central Peak Trail
   - Chybinski Trail
