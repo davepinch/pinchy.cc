@@ -13,6 +13,7 @@ state park in:
 state park of:
   - Bullitt Gorge Trail
   - Chybinski Trail
+  - Coal Mine Trail
   - Perimeter Loop Trail
   - West Access Trail
   - West Peak Trail
