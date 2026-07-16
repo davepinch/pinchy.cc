@@ -4,6 +4,7 @@ adjacent to:
   - Cougar/Squak Corridor
   - Cougar Mountain Regional Wildland Park
   - Issaquah, Washington
+  - Squak/Tiger Corridor
 apple maps: "https://maps.apple/p/W78H02ro4PXF3j"
 openstreetmap: "https://www.openstreetmap.org/relation/5960704"
 state park by: Washington State Parks and Recreation Commission
@@ -23,6 +24,7 @@ state park of:
   - High Valley Trail
   - Horse Connector
   - Huckleberry 
+  - Issaquah Creek
   - May Valley Loop
   - McDonald Creek (Issaquah Creek tributary)
   - Old Griz Trail
