@@ -16,6 +16,7 @@ state park of:
   - Central Peak Trail
   - Chybinski Trail
   - Coal Mine Trail
+  - East Ridge Trail
   - High Valley Trail
   - Horse Connector
   - Huckleberry 
