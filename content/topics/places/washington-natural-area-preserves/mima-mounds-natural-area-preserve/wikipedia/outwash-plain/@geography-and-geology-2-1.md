@@ -10,7 +10,7 @@ outwash plain of:
   - Vashon Glacier
 snippet of: Mima Mounds Natural Area Preserve (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Mima_Mounds_Natural_Area_Preserve/@history-2-1/
+url: /en.wikipedia.org/wiki/Mima_Mounds_Natural_Area_Preserve/@geography-and-geology-2-1/
 warning: As of July 16, 2026, Wikipedia indicates this statement requires a citation.
 tags:
   - snippet

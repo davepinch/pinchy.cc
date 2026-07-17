@@ -9,7 +9,7 @@ distribution of mounds in:
 size of: Mima Mounds
 snippet of: Mima Mounds Natural Area Preserve (Wikipedia)
 type: snippet
-url: /en.wikipedia.org/wiki/Mima_Mounds_Natural_Area_Preserve/@geography-and-geology-2-2/
+url: /en.wikipedia.org/wiki/Mima_Mounds_Natural_Area_Preserve/@features-1-1/
 tags:
   - snippet
 ---
