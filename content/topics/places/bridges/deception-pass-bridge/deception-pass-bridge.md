@@ -8,6 +8,7 @@ bridge of:
   - Fidalgo Island
   - Skagit County, Washington
   - Washington
+connects to: Canoe Pass Bridge
 openstreetmap: "https://www.openstreetmap.org/way/106177632"
 wikidata: "https://www.wikidata.org/wiki/Q1181772"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Deception_Pass_Bridge"
