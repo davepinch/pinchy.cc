@@ -9,7 +9,6 @@ island in:
 island of:
   - Columbia River
   - Fisher Island Slough
-namesake of: Fisher Island Wildlife Area
 openstreetmap: "https://www.openstreetmap.org/relation/6079658"
 wikidata: "https://www.wikidata.org/wiki/Q49638077"
 tags:
