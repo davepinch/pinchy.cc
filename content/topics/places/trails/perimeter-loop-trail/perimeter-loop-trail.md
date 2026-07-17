@@ -10,6 +10,8 @@ openstreetmap: "https://www.openstreetmap.org/relation/5614950"
 trail in:
   - Cougar/Squak Corridor
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 trail of:

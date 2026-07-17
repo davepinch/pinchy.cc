@@ -8,6 +8,8 @@ openstreetmap: "https://www.openstreetmap.org/relation/5614934"
 TODO: There is a network of small trails like Spuce and Madrona that connect to Margaret's Way in Cougar/Squak Corridor.
 trail in:
   - Cougar/Squak Corridor
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 tags:

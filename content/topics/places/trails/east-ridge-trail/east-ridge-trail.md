@@ -9,6 +9,8 @@ trail in:
   - Issaquah Creek Natural Area
   - Squak/Tiger Corridor
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 tags:

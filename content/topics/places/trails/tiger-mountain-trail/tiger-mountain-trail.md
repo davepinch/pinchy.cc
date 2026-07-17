@@ -8,6 +8,7 @@ trail in:
   - West Tiger Mountain Natural Resources Conservation Area
   - Tiger Mountain Forest
   - Tiger Mountain State Forest
+  - Tiger Mountain
   - King County, Washington
   - Washington
 tags:

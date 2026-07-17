@@ -11,8 +11,10 @@ connects to:
 Note: Labeled as Squak Mountain Road Southeast on OpenStreetMap
 openstreetmap: "https://www.openstreetmap.org/way/220187455"
 trail in:
-  - Squak Mountain Central Peak
   - Squak Mountain State Park
+  - Squak Mountain Central Peak
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 tags:

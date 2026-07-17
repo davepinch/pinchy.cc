@@ -13,6 +13,8 @@ openstreetmap:
   - "[Phil's Creek to Phil's Connector](https://www.openstreetmap.org/way/563959388)"
 trail in:
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 vantage point of: Phil's Creek

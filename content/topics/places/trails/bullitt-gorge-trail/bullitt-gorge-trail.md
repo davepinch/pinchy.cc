@@ -8,6 +8,8 @@ connects to:
 openstreetmap: "https://www.openstreetmap.org/relation/5614951"
 trail in:
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 tags:

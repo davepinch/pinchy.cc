@@ -9,6 +9,8 @@ openstreetmap: "https://www.openstreetmap.org/relation/5614985"
 trail in:
   - Squak/Tiger Corridor
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 tags:

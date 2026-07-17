@@ -9,6 +9,8 @@ connects to:
 openstreetmap: "https://www.openstreetmap.org/relation/5614933"
 trail in:
   - Cougar/Squak Corridor
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 tags:

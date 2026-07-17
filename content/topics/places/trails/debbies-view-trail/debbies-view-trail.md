@@ -6,6 +6,8 @@ note:
 openstreetmap: "https://www.openstreetmap.org/way/226458347"
 trail in:
   - Cougar/Squak Corridor
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 url: /debbies-view-trail/
