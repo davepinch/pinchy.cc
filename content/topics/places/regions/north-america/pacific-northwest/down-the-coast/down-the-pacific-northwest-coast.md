@@ -44,10 +44,10 @@ sequence:
   - Sharpe Cove
   - Bowman Bay
 # - Vista Point
-# - Lighthouse Point
-# - Lottie Bay
+  - Lighthouse Point
+  - Lottie Bay
   - Deception Pass Bridge
-# - Canoe Pass
+  - Canoe Pass
 # - Miller Bay
 # - Similk Bay
 # - Turners Bay
