@@ -13,7 +13,6 @@ trail in:
   - Issaquah Alps
   - King County, Washington
   - Washington
-trail of:
 tags:
   - trail
 ---
