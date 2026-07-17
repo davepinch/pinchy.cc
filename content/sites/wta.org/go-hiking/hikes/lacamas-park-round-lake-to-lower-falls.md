@@ -13,7 +13,7 @@ washington trails association of:
   - Lower Falls
   - Pothole Falls
   - Round Lake
-  - Round Lake Loop Trail
+  - Round Lake Loop
 website: "https://www.wta.org/go-hiking/hikes/lacamas-park-round-lake-to-lower-falls"
 tags:
   - website
