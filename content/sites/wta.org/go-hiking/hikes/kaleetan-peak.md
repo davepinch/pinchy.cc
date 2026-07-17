@@ -5,9 +5,7 @@ excerpt: >-
 retrieved: 2026-04-05
 type: website
 url: /www.wta.org/go-hiking/hikes/kaleetan-peak/
-washington trails association of:
-  - Kaleetan Peak
-  - King County, Washington
+washington trails association of: Kaleetan Peak
 website: "https://www.wta.org/go-hiking/hikes/kaleetan-peak"
 tags:
   - website

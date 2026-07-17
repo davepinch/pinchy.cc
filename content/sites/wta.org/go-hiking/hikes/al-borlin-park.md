@@ -8,7 +8,6 @@ url: /www.wta.org/go-hiking/hikes/al-borlin-park/
 washington trails association of:
   - Al Borlin Park
   - Monroe, Washington
-  - Snohomish County, Washington
   - Skykomish River
 website: "https://www.wta.org/go-hiking/hikes/al-borlin-park"
 tags:

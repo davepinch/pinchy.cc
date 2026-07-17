@@ -9,7 +9,6 @@ washington trails association of:
   - Big Tree Ridge Trail
   - Cougar Mountain Regional Wildland Park
   - Issaquah Alps
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/big-tree-ridge"
 tags:
   - website

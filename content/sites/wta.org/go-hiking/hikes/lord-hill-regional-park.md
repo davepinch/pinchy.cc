@@ -7,7 +7,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/lord-hill-regional-park/
 washington trails association of:
   - Lord Hill Regional Park
-  - Snohomish County, Washington
   - Snohomish River
 website: "https://www.wta.org/go-hiking/hikes/lord-hill-regional-park"
 tags:

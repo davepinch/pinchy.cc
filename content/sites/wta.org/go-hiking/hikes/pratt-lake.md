@@ -11,7 +11,6 @@ washington trails association of:
   - Pratt Lake Trail
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest
-  - King County, Washington
 tags:
   - website
   - Washington Trails Association

@@ -11,7 +11,6 @@ washington trails association of:
   - Marysville Sewage Lagoon
   - Qwuloolt Wetland Reserve
   - Marysville, Washington
-  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/ebey-waterfront-trail"
 tags:
   - website

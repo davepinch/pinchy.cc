@@ -8,8 +8,6 @@ url: /www.wta.org/go-hiking/hikes/iverson-spit/
 washington trails association of:
   - Iverson Spit
   - Iverson Nature Preserve
-  - Island County, Washington
-  - Washington
 website: "https://www.wta.org/go-hiking/hikes/iverson-spit"
 tags:
   - website

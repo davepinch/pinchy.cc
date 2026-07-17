@@ -5,9 +5,7 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/marckworth-forest/
-washington trails association of:
-  - Marckworth State Forest
-  - Snohomish County, Washington
+washington trails association of: Marckworth State Forest
 website: "https://www.wta.org/go-hiking/hikes/marckworth-forest"
 tags:
   - website

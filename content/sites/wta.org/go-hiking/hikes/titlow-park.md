@@ -8,7 +8,6 @@ url: /www.wta.org/go-hiking/hikes/titlow-park/
 washington trails association of:
   - Titlow Park
   - Tacoma, Washington
-  - Pierce County, Washington
 website: "https://www.wta.org/go-hiking/hikes/titlow-park"
 tags:
   - website

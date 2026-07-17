@@ -8,7 +8,6 @@ washington trails association of:
   - Cougar Divide Trail
   - Mount Baker Wilderness
   - Mount Baker–Snoqualmie National Forest
-  - Whatcom County, Washington
 website: "https://www.wta.org/go-hiking/hikes/cougar-divide"
 tags:
   - website

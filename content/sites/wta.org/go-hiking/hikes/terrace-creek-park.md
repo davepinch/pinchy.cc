@@ -9,7 +9,6 @@ washington trails association of:
   - Terrace Creek Park
   - Lyon Creek
   - Mountlake Terrace, Washington
-  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/terrace-creek-park"
 tags:
   - website

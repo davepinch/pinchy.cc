@@ -9,6 +9,8 @@ washington trails association of:
   - Phil's Creek
   - Phil's Creek Trail
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/phils-creek"
 tags:
   - website

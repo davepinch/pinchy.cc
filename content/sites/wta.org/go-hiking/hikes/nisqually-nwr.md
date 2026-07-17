@@ -5,10 +5,7 @@ excerpt: >-
 retrieved: 2026-03-04
 type: website
 url: /www.wta.org/go-hiking/hikes/nisqually-nwr/
-washington trails association of:
-  - Billy Frank Jr. Nisqually National Wildlife Refuge
-  - Pierce County, Washington
-  - Thurston County, Washington
+washington trails association of: Billy Frank Jr. Nisqually National Wildlife Refuge
 website: "https://www.wta.org/go-hiking/hikes/nisqually-nwr"
 tags:
   - website

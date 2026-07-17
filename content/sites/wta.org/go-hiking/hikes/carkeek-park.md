@@ -11,7 +11,6 @@ washington trails association of:
   - Venema Creek
   - Mohlendorph Creek
   - Seattle
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/carkeek-park"
 tags:
   - website

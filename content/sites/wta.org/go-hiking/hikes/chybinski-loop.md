@@ -9,6 +9,7 @@ washington trails association of:
   - Chybinski Loop Trail
   - Cougar/Squak Corridor
   - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/chybinski-loop"
 tags:
   - website

@@ -7,8 +7,9 @@ type: website
 url: /www.wta.org/go-hiking/hikes/bullitt-gorge/
 washington trails association of:
   - Bullitt Gorge Trail
-  - Squak Mountain
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/bullitt-gorge"
 tags:
   - website

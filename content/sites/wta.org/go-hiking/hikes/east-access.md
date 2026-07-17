@@ -9,6 +9,8 @@ washington trails association of:
   - Squak Mountain Access Trail
   - Squak/Tiger Corridor
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/east-access"
 tags:
   - website

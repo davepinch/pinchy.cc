@@ -9,7 +9,6 @@ washington trails association of:
   - Lakeview Trail
   - Lake Ballinger
   - Mountlake Terrace, Washington
-  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/lakeview-trail"
 tags:
   - website

@@ -9,6 +9,8 @@ washington trails association of:
   - Phil's Creek Trail
   - Phil's Creek
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/phils-trail-thrush-gap-loop"
 tags:
   - website

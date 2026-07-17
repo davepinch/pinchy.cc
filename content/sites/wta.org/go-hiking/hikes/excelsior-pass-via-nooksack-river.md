@@ -10,7 +10,6 @@ washington trails association of:
   - Excelsior Pass Trail
   - Mount Baker Wilderness
   - Mount Baker–Snoqualmie National Forest
-  - Whatcom County, Washington
 website: "https://www.wta.org/go-hiking/hikes/excelsior-pass-via-nooksack-river"
 tags:
   - website

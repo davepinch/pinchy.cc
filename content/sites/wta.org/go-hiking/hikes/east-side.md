@@ -9,6 +9,8 @@ washington trails association of:
   - East Side Trail
   - Squak/Tiger Corridor
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/east-side"
 tags:
   - website

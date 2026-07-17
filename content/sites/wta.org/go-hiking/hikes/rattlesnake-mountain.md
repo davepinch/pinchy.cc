@@ -10,7 +10,6 @@ washington trails association of:
   - Raging River State Forest
   - Rattlesnake Ridge
   - Issaquah Alps
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/rattlesnake-mountain"
 tags:
   - website

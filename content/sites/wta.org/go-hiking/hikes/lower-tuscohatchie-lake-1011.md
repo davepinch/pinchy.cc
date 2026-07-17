@@ -9,7 +9,6 @@ washington trails association of:
   - Lower Tuscohatchie Lake
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/lower-tuscohatchie-lake-1011"
 tags:
   - website

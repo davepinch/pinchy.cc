@@ -14,8 +14,9 @@ washington trails association of:
   - Bullitt Fireplace
   - Bullitt Fireplace Trail
   - Cougar/Squak Corridor
-  - Squak Mountain
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/bullitt-fireplace"
 tags:
   - website

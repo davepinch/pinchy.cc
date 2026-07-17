@@ -10,7 +10,6 @@ washington trails association of:
   - Lund's Gulch Creek
   - Meadowdale, Washington
   - Edmonds, Washington
-  - Snohomish County, Washington
   - Possession Sound
   - Browns Bay
 website: "https://www.wta.org/go-hiking/hikes/lunds-gulch-meadowdale-county-park"

@@ -9,7 +9,6 @@ washington trails association of:
   - Gorge Lake
   - Gorge Dam
   - Skagit River
-  - Whatcom County, Washington
 website: "https://www.wta.org/go-hiking/hikes/gorge-lake-overlook"
 tags:
   - website

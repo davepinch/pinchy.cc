@@ -12,7 +12,6 @@ washington trails association of:
   - North Creek
   - Martha Lake, Washington
   - Mill Creek, Washington
-  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/north-creek-park-boardwalk"
 tags:
   - website

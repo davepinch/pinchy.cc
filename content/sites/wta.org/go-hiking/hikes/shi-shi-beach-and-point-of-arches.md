@@ -11,7 +11,6 @@ washington trails association of:
   - Point of Arches
   - Olympic National Park
   - Olympic Peninsula
-  - Clallam County, Washington
   - Pacific Ocean
 website: "https://www.wta.org/go-hiking/hikes/shi-shi-beach-and-point-of-arches"
 tags:

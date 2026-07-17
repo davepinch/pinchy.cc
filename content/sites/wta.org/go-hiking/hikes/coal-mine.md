@@ -9,6 +9,8 @@ washington trails association of:
   - Coal Mine Trail
   - Cougar/Squak Corridor
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/coal-mine"
 tags:
   - website

@@ -8,7 +8,6 @@ url: /www.wta.org/go-hiking/hikes/twin-ponds-park/
 washington trails association of:
   - Twin Ponds Park
   - Shoreline, Washington
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/twin-ponds-park"
 tags:
   - website

@@ -8,7 +8,6 @@ url: /www.wta.org/go-hiking/hikes/burton-acres-park-vashon/
 washington trails association of:
   - Burton Acres Park
   - Vashon Island
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/burton-acres-park-vashon"
 tags:
   - website

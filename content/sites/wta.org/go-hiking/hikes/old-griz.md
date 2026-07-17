@@ -8,6 +8,8 @@ url: /www.wta.org/go-hiking/hikes/old-griz/
 washington trails association of:
   - Old Griz Trail
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/old-griz"
 tags:
   - website

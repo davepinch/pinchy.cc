@@ -12,7 +12,6 @@ washington trails association of:
   - Cottage Lake, Washington
   - Union Hill-Novelty Hill, Washington
   - Duvall, Washington
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/tolt-pipeline-trail"
 tags:
   - website

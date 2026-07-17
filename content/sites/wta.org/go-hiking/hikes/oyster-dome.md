@@ -8,7 +8,6 @@ url: /www.wta.org/go-hiking/hikes/oyster-dome/
 washington trails association of:
   - Oyster Dome
   - Blanchard Mountain
-  - Skagit County, Washington
 website: "https://www.wta.org/go-hiking/hikes/oyster-dome"
 tags:
   - website

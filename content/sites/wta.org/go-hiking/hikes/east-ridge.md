@@ -10,6 +10,8 @@ washington trails association of:
   - Issaquah Creek Natural Area
   - Squak/Tiger Corridor
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/east-ridge"
 tags:
   - website

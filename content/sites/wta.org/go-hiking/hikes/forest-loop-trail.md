@@ -9,7 +9,6 @@ washington trails association of:
   - McCollum Pioneer Park
   - Martha Lake, Washington
   - Mill Creek, Washington
-  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/forest-loop-trail"
 tags:
   - website

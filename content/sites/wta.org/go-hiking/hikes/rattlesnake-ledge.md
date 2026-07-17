@@ -9,7 +9,6 @@ washington trails association of:
   - Rattlesnake Mountain
   - Rattlesnake Ridge
   - Issaquah Alps
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/rattlesnake-ledge"
 tags:
   - website

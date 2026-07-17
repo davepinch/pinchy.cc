@@ -8,7 +8,6 @@ url: /www.wta.org/go-hiking/hikes/ames-lake-forest/
 washington trails association of:
   - Ames Lake Forest
   - Ames Lake
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/ames-lake-forest"
 tags:
   - website

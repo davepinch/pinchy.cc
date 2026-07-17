@@ -10,7 +10,6 @@ washington trails association of:
   - North Fork Wallace River
   - Wallace Lake
   - Wallace Falls State Park
-  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/wallace-falls-state-park-greg-ball-trail-to-wallace-lake"
 tags:
   - website

@@ -13,7 +13,6 @@ washington trails association of:
   - Bothell, Washington
   - Woodinville, Washington
   - Blyth Park
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/sammamish-river-trail"
 tags:
   - website

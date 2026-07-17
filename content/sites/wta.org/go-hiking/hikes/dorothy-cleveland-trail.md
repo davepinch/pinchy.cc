@@ -10,7 +10,6 @@ washington trails association of:
   - Possession Point State Park
   - Possession Point
   - Whidbey Island
-  - Island County, Washington
 website: "https://www.wta.org/go-hiking/hikes/dorothy-cleveland-trail"
 tags:
   - website

@@ -8,6 +8,7 @@ url: /www.wta.org/go-hiking/hikes/squak-mountain-may-valley-trail/
 washington trails association of:
   - May Valley Loop
   - Squak Mountain State Park
+  - Squak Mountain
   - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/squak-mountain-may-valley-trail"
 tags:

@@ -9,7 +9,6 @@ washington trails association of:
   - Saint Edward State Park
   - Kenmore, Washington
   - Kirkland, Washington
-  - King County, Washington
   - Lake Washington
 website: "https://www.wta.org/go-hiking/hikes/north-trail-saint-edward-state-park"
 tags:

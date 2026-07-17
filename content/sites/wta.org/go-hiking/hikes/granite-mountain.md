@@ -10,7 +10,6 @@ washington trails association of:
   - Granite Mountain
   - Granite Mountain Trail
   - Pratt Lake Trail
-  - King County, Washington
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest
 website: "https://www.wta.org/go-hiking/hikes/granite-mountain"

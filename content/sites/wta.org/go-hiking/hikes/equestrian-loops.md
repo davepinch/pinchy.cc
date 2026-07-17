@@ -8,6 +8,8 @@ url: /www.wta.org/go-hiking/hikes/equestrian-loops/
 washington trails association of:
   - Equestrian Loop Trail
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/equestrian-loops"
 tags:
   - website

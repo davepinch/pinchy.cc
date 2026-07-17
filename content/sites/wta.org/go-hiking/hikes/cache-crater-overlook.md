@@ -8,7 +8,6 @@ vicinity: Odessa Craters (wta.org)
 washington trails association of:
   - Cache Crater Overlook
   - Lakeview Recreation Area
-  - Lincoln County, Washington
   - Channeled Scablands
 website: "https://www.wta.org/go-hiking/hikes/cache-crater-overlook"
 tags:

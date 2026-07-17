@@ -10,7 +10,6 @@ washington trails association of:
   - Lake Washington
   - Sand Point, Seattle
   - Seattle
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/magnuson-park"
 tags:
   - website

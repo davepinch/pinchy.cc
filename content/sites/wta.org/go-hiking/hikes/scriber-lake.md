@@ -9,7 +9,6 @@ washington trails association of:
   - Scriber Lake
   - Scriber Lake Park
   - Lynnwood, Washington
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/scriber-lake"
 tags:
   - website

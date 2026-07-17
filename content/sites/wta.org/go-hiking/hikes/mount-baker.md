@@ -7,7 +7,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/mount-baker/
 washington trails association of:
   - Mount Baker
-  - Whatcom County, Washington
   - Mount Baker National Recreation Area
   - Mount Baker Wilderness
   - Mount Baker–Snoqualmie National Forest

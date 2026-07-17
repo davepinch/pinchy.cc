@@ -10,6 +10,8 @@ washington trails association of:
   - Debbie's View
   - Debbie's View Trail
   - Cougar/Squak Corridor
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/margarets-way"
 tags:
   - website

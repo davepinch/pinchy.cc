@@ -8,7 +8,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/denny-mountain/
 washington trails association of:
   - Denny Mountain
-  - King County, Washington
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest
 website: "https://www.wta.org/go-hiking/hikes/denny-mountain"

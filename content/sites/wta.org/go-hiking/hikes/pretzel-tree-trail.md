@@ -8,6 +8,8 @@ url: /www.wta.org/go-hiking/hikes/pretzel-tree-trail/
 washington trails association of:
   - Pretzel Tree Trail
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/pretzel-tree-trail"
 tags:
   - website

@@ -11,7 +11,6 @@ washington trails association of:
   - Gunn Peak Trail
   - Wild Sky Wilderness
   - Mount Baker–Snoqualmie National Forest
-  - Snohomish County, Washington
 website: "https://www.wta.org/go-hiking/hikes/gunn-peak"
 tags:
   - website

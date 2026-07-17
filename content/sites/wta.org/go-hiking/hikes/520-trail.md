@@ -7,7 +7,6 @@ type: website
 url: /www.wta.org/go-hiking/hikes/520-trail/
 washington trails association of:
   - 520 Trail
-  - King County, Washington
   - Washington State Route 520
 website: "https://www.wta.org/go-hiking/hikes/520-trail"
 tags:

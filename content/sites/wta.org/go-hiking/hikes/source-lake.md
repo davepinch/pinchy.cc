@@ -10,7 +10,6 @@ washington trails association of:
   - South Fork Snoqualmie River
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest
-  - King County, Washington
 website: "https://www.wta.org/go-hiking/hikes/source-lake"
 tags:
   - website

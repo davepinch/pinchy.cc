@@ -8,7 +8,6 @@ url: /www.wta.org/go-hiking/hikes/camano-island-state-park/
 washington trails association of:
   - Camano Island State Park
   - Camano Island
-  - Island County, Washington
 website: "https://www.wta.org/go-hiking/hikes/camano-island-state-park"
 tags:
   - website

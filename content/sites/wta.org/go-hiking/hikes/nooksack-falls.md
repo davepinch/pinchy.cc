@@ -8,7 +8,6 @@ url: /www.wta.org/go-hiking/hikes/nooksack-falls/
 washington trails association of:
   - Nooksack Falls
   - Mount Baker–Snoqualmie National Forest
-  - Whatcom County, Washington
 website: "https://www.wta.org/go-hiking/hikes/nooksack-falls"
 tags:
   - website
