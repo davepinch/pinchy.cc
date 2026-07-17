@@ -7,7 +7,7 @@ retrieved: 2026-07-08
 type: website
 url: /www.wta.org/go-hiking/hikes/snow-mountain-ranch/
 washington trails association of:
-  - Snow Mountain Range
+  - Snow Mountain Ranch
   - Balanced Rock Trail
   - Cowiche Mountain
   - Cowiche Mountain Connector
