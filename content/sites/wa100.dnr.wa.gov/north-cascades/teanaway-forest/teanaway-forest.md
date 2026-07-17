@@ -5,7 +5,7 @@ excerpt: >-
 retrieved: 2026-04-04
 type: website
 url: /wa100.dnr.wa.gov/north-cascades/teanaway-forest/
-washington 100 of: Teanaway Forest
+washington 100 of: Teanaway Community Forest
 website: "https://wa100.dnr.wa.gov/north-cascades/teanaway-forest"
 tags:
   - website
