@@ -11,7 +11,6 @@ washington trails association of:
   - Bullitt Fireplace Trail
   - Bullitt Fireplace
   - Central Peak Trail
-  - Central Peak
   - Summit Trail
   - East Ridge Trail
   - Sycamore Access Trail
@@ -19,6 +18,7 @@ washington trails association of:
   - Cougar/Squak Corridor
   - Squak/Tiger Corridor
   - Squak Mountain State Park
+  - Squak Mountain Central Peak
   - Squak Mountain
   - Issaquah Alps
 website: "https://www.wta.org/go-hiking/hikes/squak-mountain-traverse"
