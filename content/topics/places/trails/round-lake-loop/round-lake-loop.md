@@ -19,7 +19,7 @@ vantage point of:
   - Missoula Boulder
   - Pothole Falls
   - Round Lake
-  - Round Lakee Dock
+  - Round Lake Dock
 tags:
   - trail
 ---
