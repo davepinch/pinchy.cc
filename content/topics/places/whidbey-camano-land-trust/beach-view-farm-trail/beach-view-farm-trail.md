@@ -1,6 +1,6 @@
 ---
 title: "Beach View Farm Trail"
-more information: "https://www.wclt.org/protected-properties/"
+property of: Whidbey Camano Land Trust
 trailhead (east):
   - "1411 Wieldraayer, Oak Harbor, WA 98277"
   - "Turn left into Christian Reformed Church parking lot. Park in 8 designated spots on the west side of the lot."
@@ -14,9 +14,8 @@ trail of:
 vantage point of:
   - Strait of Juan de Fuca
   - Olympic Mountains
-vicinity of: Oak Harbor, Washington
+vicinity to: Oak Harbor, Washington
 tags:
   - trail
   - vantage point
-  - Whidbey Camano Land Trust
 ---
