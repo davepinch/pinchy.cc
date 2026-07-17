@@ -1,5 +1,6 @@
 ---
 title: "Local Group"
+adjacent to: Local Void
 ASCEND: Virgo Supercluster
 contains:
   - Andromeda Galaxy
