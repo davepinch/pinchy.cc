@@ -3,7 +3,7 @@ title: "CONFIG.SYS"
 configuration file of:
   - DOS
   - MS-DOS
-  - PC-DOS
+  - PC DOS
   - OS/2
   - Windows 95
   - Windows 98
