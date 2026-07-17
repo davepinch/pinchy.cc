@@ -7,7 +7,7 @@ retrieved: 2026-07-14
 type: website
 url: /en.wikipedia.org/wiki/Palmer_Lake_(Washington)/
 website: "https://en.wikipedia.org/wiki/Palmer_Lake_(Washington)"
-wikipedia of: Palmer Lake (Washington)
+wikipedia of: Palmer Lake (Okanogan County, Washington)
 tags:
   - Wikipedia
 ---
