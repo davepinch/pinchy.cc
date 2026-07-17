@@ -11,7 +11,7 @@ county park of:
   - Chybinski Loop Trail
   - Chybinski Trail
   - Coal Mine Trail
-  - Debies's View
+  - Debbie's View
   - Debbie's View Trail
   - Margaret's Way
   - Perimeter Loop Trail
