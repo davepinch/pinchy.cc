@@ -22,6 +22,7 @@ clockwise around the black sea: Flag_of_Georgia.svg (Wikimedia Commons)
 clockwise around the caspian sea: Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)
 flag of:
   - Russia
+  - Russian Empire
   - horizontal
   - tricolor
   - triband
