@@ -5,9 +5,10 @@ connects to:
   - South Access Road
 openstreetmap: "https://www.openstreetmap.org/relation/5615011"
 trail in:
-  - Squak Mountain
   - Squak Mountain Central Peak
   - Squak Mountain State Park
+  - Squak Mountain
+  - Issaquah Alps
   - King County, Washington
   - Washington
 tags:
