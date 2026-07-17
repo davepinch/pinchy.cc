@@ -1,5 +1,6 @@
 ---
 title: "Apple II"
+computer by: Apple Inc.
 computer of:
   - Apple II series
   - MOS Technology 6502

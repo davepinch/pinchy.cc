@@ -1,5 +1,6 @@
 ---
 title: "Macintosh II"
+computer of: Apple Inc.
 computer of: Motorola 68020
 successor of:
   - Macintosh 512Ke

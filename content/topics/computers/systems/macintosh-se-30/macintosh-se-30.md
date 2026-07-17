@@ -1,5 +1,6 @@
 ---
 title: "Macintosh SE/30"
+computer by: Apple Inc.
 computer of:
   - Compact Macintosh
   - Motorola 68030

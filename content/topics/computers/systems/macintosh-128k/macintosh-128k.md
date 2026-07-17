@@ -1,5 +1,6 @@
 ---
 title: "Macintosh 128K"
+computer by: Apple Inc.
 computer of:
   - Compact Macintosh
   - Motorola 68000

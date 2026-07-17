@@ -1,5 +1,6 @@
 ---
 title: "Macintosh Plus"
+computer by: Apple Inc.
 computer of:
   - Compact Macintosh
   - Motorola 68000

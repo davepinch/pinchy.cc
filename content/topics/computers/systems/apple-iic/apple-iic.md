@@ -1,6 +1,7 @@
 ---
 title: "Apple IIc"
 compact version of: Apple IIe
+computer by: Apple Inc.
 computer of:
   - Apple II series
   - WDC 65C02

@@ -1,5 +1,6 @@
 ---
 title: "Apple IIc Plus"
+computer by: Apple Inc.
 computer of:
   - Apple II series
   - WDC 65C02
