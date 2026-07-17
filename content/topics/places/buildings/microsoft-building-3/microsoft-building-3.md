@@ -9,6 +9,7 @@ building of: Microsoft
 note: The original Microsoft Building 3 was demolished.
 tags:
   - building
+  - no OpenStreetMap element
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article
