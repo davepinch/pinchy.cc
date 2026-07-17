@@ -7,7 +7,7 @@ mima mounds of: Vashon Glaciation
 outwash plain of:
   - Mima Mounds
   - Mima Mounds Natural Area Preserve
-  - Vashon Glacier
+  - Vashon Glaciation
 snippet of: Mima Mounds Natural Area Preserve (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Mima_Mounds_Natural_Area_Preserve/@geography-and-geology-2-1/
