@@ -5,7 +5,7 @@ excerpt: >-
 retrieved: 2026-04-04
 type: website
 url: /wa100.dnr.wa.gov/puget-lowland/mima-mounds/
-washington 100 of: Mima Mounds
+washington 100 of: Mima Mounds Natural Area Preserve
 website: "https://wa100.dnr.wa.gov/puget-lowland/mima-mounds"
 tags:
   - website
