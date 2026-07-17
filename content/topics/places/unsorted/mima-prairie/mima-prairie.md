@@ -7,7 +7,7 @@ prairie in:
   - Olympic Peninsula
   - Thurston County, Washington
   - Washington
-prairie of: Mima mounds (landform)
+prairie of: mima mounds (landform)
 wikidata: "https://www.wikidata.org/wiki/Q49597977"
 tags:
   - prairie

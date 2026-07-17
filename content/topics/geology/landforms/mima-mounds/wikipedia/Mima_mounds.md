@@ -7,7 +7,7 @@ retrieved: 2026-07-16
 type: website
 url: /en.wikipedia.org/wiki/Mima_mounds/
 website: "https://en.wikipedia.org/wiki/Mima_mounds"
-wikipedia of: Mima mounds (landform)
+wikipedia of: mima mounds (landform)
 tags:
   - Wikipedia
 ---

@@ -6,7 +6,7 @@ natural area preserve in:
   - Olympic Peninsula
   - Thurston County, Washington
   - Washington
-natural area preserve of: Mima mounds (landform)
+natural area preserve of: mima mounds (landform)
 openstreetmap: "https://www.openstreetmap.org/relation/14009292"
 wikidata: "https://www.wikidata.org/wiki/Q6861921"
 tags:
