@@ -8,7 +8,7 @@ snippet of: Mima Mounds Natural Area Preserve (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Mima_Mounds_Natural_Area_Preserve/@recreation-1-2/
 vantage point of:
-  - Mount Rainer
+  - Mount Rainier
   - Mount St. Helens
 tags:
   - snippet
