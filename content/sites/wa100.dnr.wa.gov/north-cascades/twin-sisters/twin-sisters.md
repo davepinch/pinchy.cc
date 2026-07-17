@@ -5,7 +5,10 @@ excerpt: >-
 retrieved: 2026-04-04
 type: website
 url: /wa100.dnr.wa.gov/north-cascades/twin-sisters/
-washington 100 of: Twin Sisters Mountain
+washington 100 of:
+  - Twin Sisters Mountain
+  - North Twin
+  - South Twin
 website: "https://wa100.dnr.wa.gov/north-cascades/twin-sisters"
 tags:
   - website
