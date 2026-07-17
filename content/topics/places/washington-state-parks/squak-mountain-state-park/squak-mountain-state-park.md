@@ -23,7 +23,7 @@ state park of:
   - Equestrian Loop
   - High Valley Trail
   - Horse Connector
-  - Huckleberry 
+  - Huckleberry Trail
   - Issaquah Creek
   - May Valley Loop
   - McDonald Creek (Issaquah Creek tributary)
