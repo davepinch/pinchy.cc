@@ -7,7 +7,10 @@ retrieved: 2026-07-16
 type: website
 url: /en.wikipedia.org/wiki/Twin_Sisters_Mountain/
 website: "https://en.wikipedia.org/wiki/Twin_Sisters_Mountain"
-wikipedia of: Twin Sisters Mountain
+wikipedia of:
+  - Twin Sisters Mountain
+  - North Twin
+  - South Twin
 tags:
   - Wikipedia
 ---
