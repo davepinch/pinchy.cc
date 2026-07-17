@@ -1,6 +1,6 @@
 ---
 title: "Apple II series"
-series of: computer
+computer series by: Apple Inc.
 wikidata: "https://www.wikidata.org/wiki/Q201652"
 tags:
   - computer series
