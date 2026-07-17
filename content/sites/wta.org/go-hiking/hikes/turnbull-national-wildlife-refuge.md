@@ -5,7 +5,7 @@ excerpt: >-
 retrieved: 2026-07-14
 type: website
 url: /www.wta.org/go-hiking/hikes/turnbull-national-wildlife-refuge/
-washington trails association of: Turnbill National Wildlife Refuge
+washington trails association of: Turnbull National Wildlife Refuge
 website: "https://www.wta.org/go-hiking/hikes/turnbull-national-wildlife-refuge"
 tags:
   - website
