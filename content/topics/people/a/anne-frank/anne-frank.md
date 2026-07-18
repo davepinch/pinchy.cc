@@ -1,6 +1,8 @@
 ---
 title: "Anne Frank"
-daughter of: Otto Frank
+daughter of:
+  - Otto Frank
+  - Edith Frank
 person of:
   - Amsterdam
   - Netherlands

@@ -1,6 +1,8 @@
 ---
 title: "Margot Frank"
-daughter of: Otto Frank
+daughter of:
+  - Otto Frank
+  - Edith Frank
 person of:
   - Amsterdam
   - Netherlands
