@@ -10,7 +10,7 @@ natural area preserve of: mima mounds (landform)
 openstreetmap: "https://www.openstreetmap.org/relation/14009292"
 vantage point of:
   - Mima Mounds
-  - Mime Prairie
+  - Mima Prairie
   - Mount Rainier
   - Mount St. Helens
 wikidata: "https://www.wikidata.org/wiki/Q6861921"
