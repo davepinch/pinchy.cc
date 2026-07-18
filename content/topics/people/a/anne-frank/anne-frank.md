@@ -1,5 +1,6 @@
 ---
 title: "Anne Frank"
+daughter of: Otto Frank
 person of:
   - Amsterdam
   - Netherlands
@@ -8,6 +9,7 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Anne_Frank"
 younger sister of: Margot Frank
 tags:
   - person
+  - daughter
   - murdered by the Nazis
   - human being
   - dead at the moment
