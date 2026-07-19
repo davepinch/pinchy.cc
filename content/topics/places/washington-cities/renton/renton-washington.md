@@ -9,7 +9,6 @@ adjacent to:
   - Kent, Washington
   - Tukwila, Washington
   - Bryn Mawr-Skyway, Washington
-census profile: "https://data.census.gov/profile/Renton_city,_Washington?g=160XX00US5357745"
 city of:
   - King County, Washington
   - Washington
