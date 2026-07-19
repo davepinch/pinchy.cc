@@ -7,7 +7,6 @@ adjacent to:
   - Edgewood, Washington
   - Fife, Washington
   - Fife Heights, Washington
-census profile: "https://data.census.gov/profile/Milton_city,_Washington?g=160XX00US5346020"
 city of:
   - King County, Washington
   - Pierce County, Washington
