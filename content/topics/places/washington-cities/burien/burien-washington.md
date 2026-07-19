@@ -23,7 +23,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/237342"
 suburb of: Seattle
 wikidata: "https://www.wikidata.org/entity/Q984825"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Burien,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/Burien"
 tags:
   - city
   - suburb
