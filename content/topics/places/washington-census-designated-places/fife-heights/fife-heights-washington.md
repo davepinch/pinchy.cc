@@ -5,7 +5,6 @@ adjacent to:
   - Milton, Washington
   - Fife, Washington
   - Tacoma, Washington
-census profile: "https://data.census.gov/profile/Fife_Heights_CDP,_Washington?g=160XX00US5323830"
 census-designated place in:
   - Pierce County, Washington
   - Washington
