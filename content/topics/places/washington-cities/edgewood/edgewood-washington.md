@@ -15,7 +15,6 @@ city of:
 openstreetmap: "https://www.openstreetmap.org/relation/237259"
 wikidata: "https://www.wikidata.org/wiki/Q1508050"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Edgewood,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Edgewood,_Washington"
 tags:
   - city
 ---
