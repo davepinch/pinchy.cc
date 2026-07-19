@@ -6,7 +6,6 @@ adjacent to:
   - Summit, Washington
   - Clover Creek, Washington
   - Parkland, Washington
-census profile: "https://data.census.gov/profile/Midland_CDP,_Washington?g=160XX00US5345495"
 census-designated place in:
   - Pierce County, Washington
   - Washington
