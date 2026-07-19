@@ -12,7 +12,6 @@ adjacent city:
   - Lakeland South, Washington  
   - Federal Way, Washington
   - Lakeland North, Washington
-census profile: "https://data.census.gov/profile/Auburn_city,_Washington?g=160XX00US5303180"
 city of:
   - King County, Washington
   - Washington
