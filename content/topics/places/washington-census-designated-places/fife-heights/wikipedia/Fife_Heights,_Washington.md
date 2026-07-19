@@ -1,9 +1,9 @@
 ---
 title: "Fife Heights, Washington (Wikipedia)"
 excerpt: >-
-  **Fife Heights** is a census-designated place (CDP) in [Pierce County](/en.wikipedia.org/wiki/Pierce_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/), [United States](/en.wikipedia.org/wiki/United_States/). The population was 1,919 at the 2020 census. The community is bordered by [Federal Way](/en.wikipedia.org/wiki/Federal_Way,_Washington/) on the north, Milton on the east, Fife on the south, and [Tacoma](/en.wikipedia.org/wiki/Tacoma,_Washington/) on the west. It is contained within the Puyallup Indian Reservation.
+  **Fife Heights** is a census-designated place (CDP) in Pierce County, Washington, United States. The population was 1,919 at the 2020 census. The community is bordered by Federal Way on the north, Milton on the east, Fife on the south, and Tacoma on the west. It is contained within the Puyallup Indian Reservation.
 license: CC BY-SA 4.0
-retrieved: 2024-07-10
+retrieved: 2026-07-19
 type: website
 url: /en.wikipedia.org/wiki/Fife_Heights,_Washington/
 website: "https://en.wikipedia.org/wiki/Fife_Heights,_Washington"
