@@ -14,7 +14,6 @@ vicinity to:
   - Ravensdale, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1191152"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Black_Diamond,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Black_Diamond,_Washington"
 tags:
   - city
 ---
