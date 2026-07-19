@@ -11,7 +11,6 @@ city of:
 openstreetmap: "https://www.openstreetmap.org/relation/237589"
 wikidata: "https://www.wikidata.org/wiki/Q514836"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Algona,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Algona,_Washington"
 tags:
   - city
 ---
