@@ -6,7 +6,6 @@ adjacent to:
   - Des Moines, Washington
   - Puget Sound
   - East Passage
-census profile: "https://data.census.gov/profile/Normandy_Park_city,_Washington?g=160XX00US5349415"
 city of:
   - King County, Washington
   - Washington
