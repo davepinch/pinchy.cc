@@ -8,7 +8,6 @@ adjacent to:
   - Puyallup, Washington
   - unnamed Pierce County, Washington
   - Waller, Washington
-census profile: "https://data.census.gov/profile/Fife_city,_Washington?g=160XX00US5323795"
 city of:
   - Pierce County, Washington
   - Washington
