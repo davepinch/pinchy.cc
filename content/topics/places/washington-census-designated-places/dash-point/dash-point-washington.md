@@ -7,7 +7,6 @@ adjacent to:
   - Federal Way, Washington
   - Tacoma, Washington
   - Browns Point, Washington
-census profile: "https://data.census.gov/profile/Dash_Point_CDP,_Washington?g=160XX00US5316760"
 census-designated place in:
   - Pierce County, Washington
   - Washington
