@@ -8,7 +8,6 @@ adjacent to:
   - East Passage
   - Puget Sound
   - Normandy Park, Washington
-census profile: "https://data.census.gov/profile/Des_Moines_city,_Washington?g=160XX00US5317635"
 city of:
   - King County, Washington
   - Washington
