@@ -12,7 +12,6 @@ census-designated place of: United States Census Bureau
 namesake of: Puyallup, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/18419299"
 wikidata: "https://www.wikidata.org/wiki/Q6045237"
-wikipedia: "https://en.wikipedia.org/wiki/North_Puyallup,_Washington"
 tags:
   - census-designated place
 ---
