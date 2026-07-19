@@ -9,7 +9,6 @@ census-designated place in:
   - King County, Washington
   - Washington
 census-designated place of: United States Census Bureau
-census profile: "https://data.census.gov/profile/Boulevard_Park_CDP,_Washington?g=160XX00US5307397"
 openstreetmap: "https://www.openstreetmap.org/relation/6632469"
 wikidata: "https://www.wikidata.org/entity/Q5732835"
 tags:
