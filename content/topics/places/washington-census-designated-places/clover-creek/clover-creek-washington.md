@@ -6,7 +6,6 @@ adjacent to:
   - Summit View, Washington
   - Frederickson, Washington
   - Parkland, Washington
-census profile: "https://data.census.gov/profile/Clover_Creek_CDP,_Washington?g=160XX00US5313215"
 census-designated place in:
   - Pierce County, Washington
   - Washington
