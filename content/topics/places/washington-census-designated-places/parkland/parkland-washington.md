@@ -19,7 +19,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/237510"
 suburb of: Tacoma, Washington
 wikidata: "https://www.wikidata.org/wiki/Q210565"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Parkland,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Parkland,_Washington"
 tags:
   - census-designated place
 ---
