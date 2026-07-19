@@ -7,7 +7,6 @@ adjacent to:
   - unnamed Pierce County, Washington
   - Sumner, Washington
   - Edgewood, Washington
-census profile: "https://data.census.gov/profile/Pacific_city,_Washington?g=160XX00US5352495"
 city of:
   - King County, Washington
   - Pierce County, Washington
