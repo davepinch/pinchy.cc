@@ -17,6 +17,7 @@ adjacent to:
 city of:
   - King County, Washington
   - Washington
+disambiguation of: Kent
 openstreetmap: "https://www.openstreetmap.org/relation/237875"
 suburb of: Seattle
 vicinity to:
