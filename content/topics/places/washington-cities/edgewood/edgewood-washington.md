@@ -8,7 +8,6 @@ adjacent to:
   - North Puyallup, Washington
   - Puyallup, Washington
   - Fife, Washington
-census profile: "https://data.census.gov/profile/Edgewood_city,_Washington?g=160XX00US5320645"
 city of:
   - Pierce County, Washington
   - Washington
