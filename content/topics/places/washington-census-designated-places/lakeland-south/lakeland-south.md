@@ -7,7 +7,6 @@ adjacent to:
   - Edgewood, Washington
   - Milton, Washington
   - Federal Way, Washington
-census profile: "https://data.census.gov/profile/Lakeland_South_CDP,_Washington?g=160XX00US5337430"
 census-designated place in:
   - King County, Washington
   - Washington
