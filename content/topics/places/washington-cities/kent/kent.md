@@ -27,7 +27,6 @@ vicinity to:
   - Shadow Lake, Washington
 wikidata: "https://www.wikidata.org/entity/Q844008"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kent,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/Kent_(Washington)"
 tags:
   - city
   - suburb
