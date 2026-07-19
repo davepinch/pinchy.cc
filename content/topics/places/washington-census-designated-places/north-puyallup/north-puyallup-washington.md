@@ -4,7 +4,6 @@ adjacent to:
   - Edgewood, Washington
   - Sumner, Washington
   - Puyallup, Washington
-census profile: "https://data.census.gov/profile/North_Puyallup_CDP,_Washington?g=160XX00US5350115"
 census-designated place in:
   - Pierce County, Washington
   - Washington
