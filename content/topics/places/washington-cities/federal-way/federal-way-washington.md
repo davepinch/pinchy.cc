@@ -14,7 +14,6 @@ adjacent to:
   - East Passage
   - Puget Sound
   - Salish Sea
-census profile: "https://data.census.gov/profile/Federal_Way_city,_Washington?g=160XX00US5323515"
 city of:
   - King County, Washington
   - Washington
