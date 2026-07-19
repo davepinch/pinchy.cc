@@ -5,7 +5,6 @@ adjacent to:
   - unnamed King County, Washington
   - Auburn, Washington
   - Federal Way, Washington
-census profile: "https://data.census.gov/profile/Lakeland_North_CDP,_Washington?g=160XX00US5337420"
 census-designated place in:
   - King County, Washington
   - Washington
