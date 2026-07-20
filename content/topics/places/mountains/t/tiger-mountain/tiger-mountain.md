@@ -1,5 +1,6 @@
 ---
 title: "Tiger Mountain"
+apple maps: "https://maps.apple/p/KU~UK9V.qjS.0~"
 mountain in:
   - Issaquah Alps
   - King County, Washington
