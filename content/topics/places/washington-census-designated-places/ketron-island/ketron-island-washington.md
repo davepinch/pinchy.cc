@@ -1,6 +1,6 @@
 ---
 title: "Ketron Island, Washington"
-census-designared place in:
+census-designated place in:
   - Ketron Island
   - Pierce County, Washington
   - Washington
