@@ -3,6 +3,7 @@ title: "Cougar/Squak Corridor"
 adjacent to:
   - Squak Mountain State Park
   - Issaquah, Washington
+apple maps: "https://maps.apple/p/WP5HJBmVQeCFjA"
 county park in:
   - King County, Washington
   - Washington
