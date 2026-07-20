@@ -5,8 +5,8 @@ excerpt: >-
 license: CC BY-SA 3.0
 retrieved: 2026-07-19
 type: website
-url: /en.wikivoyage.org/wiki/Tacoma/
-website: "https://en.wikivoyage.org/wiki/Tacoma"
+url: /en.wikivoyage.org/wiki/Tukwila/
+website: "https://en.wikivoyage.org/wiki/Tukwila"
 wikivoyage of: Tukwila, Washington
 tags:
   - website
