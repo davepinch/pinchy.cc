@@ -4,7 +4,7 @@ bay in: Deception Pass
 bay of:
   - Deception Pass State Park
   - Fidalgo Island
-  - Skagit Island, Washington
+  - Skagit County, Washington
   - Washington
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1506340"
 openstreetmap: "https://www.openstreetmap.org/relation/13317042"
