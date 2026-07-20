@@ -1,6 +1,7 @@
 ---
 title: "Tradition Plateau Natural Resources Conservation Area"
 also known as: Tradition Plateau NRCA
+apple maps: "https://maps.apple/p/IFEjYQs9t2U1nq"
 natural resources conservation area in:
   - Issaquah Alps
   - Issaquah, Washington
