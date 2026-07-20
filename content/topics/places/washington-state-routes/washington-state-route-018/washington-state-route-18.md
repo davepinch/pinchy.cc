@@ -10,7 +10,7 @@ state route in:
   - Lake Morton-Berrydale, Washington
   - Covington, Washington
   - Shadow Lake, Washington
-  - Hobart, Wasahington
+  - Hobart, Washington
   - Mirrormont, Washington
   - King County, Washington
   - Washington
