@@ -7,7 +7,6 @@ adjacent to:
   - Summit, Washington
   - Midland, Washington
   - Tacoma, Washington
-census profile: "https://data.census.gov/profile/Waller_CDP,_Washington?g=160XX00US5375905"
 census-designated place in:
   - Pierce County, Washington
   - Washington
