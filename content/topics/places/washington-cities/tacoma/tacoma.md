@@ -28,7 +28,6 @@ vicinity to:
 wikidata: "https://www.wikidata.org/entity/Q199797"
 wikimedia: "https://commons.wikimedia.org/wiki/Tacoma,_Washington"
 wikisource: "https://en.wikisource.org/wiki/Portal:Tacoma,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/Tacoma"
 tags:
   - city
 ---
