@@ -6,7 +6,6 @@ adjacent to:
   - South Hill, Washington
   - Frederickson, Washington
   - Clover Creek, Washington
-census profile: "https://data.census.gov/profile/Summit_View_CDP,_Washington?g=160XX00US5368410"
 census-designated place in:
   - Pierce County, Washington
   - Washington
