@@ -1,5 +1,6 @@
 ---
 title: "Fall City, Washington"
+apple maps: "https://maps.apple/p/ZGPMm28u.u.bqh"
 census-designated place in:
   - King County, Washington
   - Washington
