@@ -2,6 +2,7 @@
 title: "Edith Frank with Margot and Anne, 1933.jpg (Wikimedia Commons)"
 excerpt: >-
   Edith Frank with her daughters Anne and Margot. Photo is taken in a photo booth at Tietz department store in Frankfurt, Germany, 1933. (Photo collection Anne Frank House, Amsterdam. Public Domain Work)
+license: public domain
 photo booth of:
   - Edith Frank
   - Anne Frank
