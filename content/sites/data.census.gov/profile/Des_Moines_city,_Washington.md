@@ -1,7 +1,7 @@
 ---
 title: "Des Moines city, Washington (data.census.gov)"
 census profile of: Des Moines, Washington
-city of: Census Bureau Data (data.census.gov)"
+city of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Des Moines city, Washington is a city, town, place equivalent, or township located in Washington. Des Moines city, Washington has a land area of 6.4 square miles.
 license: public domain

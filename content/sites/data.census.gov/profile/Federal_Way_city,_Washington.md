@@ -1,7 +1,7 @@
 ---
 title: "Federal Way city, Washington (data.census.gov)"
 census profile of: Federal Way, Washington
-census-designated place of: Census Bureau Data (data.census.gov)"
+census-designated place of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Federal Way city, Washington is a city, town, place equivalent, or township located in Washington. Federal Way city, Washington has a land area of 22.3 square miles.
 license: public domain

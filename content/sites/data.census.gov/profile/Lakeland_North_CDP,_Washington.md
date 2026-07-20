@@ -1,7 +1,7 @@
 ---
 title: "Lakeland North CDP, Washington (data.census.gov)"
 census profile of: Lakeland North, Washington
-census-designated place of: Census Profile Data (data.census.gov)"
+census-designated place of: Census Profile Data (data.census.gov)
 excerpt: >-
   Lakeland North CDP, Washington is a city, town, place equivalent, or township located in Washington. Lakeland North CDP, Washington has a land area of 3.2 square miles.
 license: public domain

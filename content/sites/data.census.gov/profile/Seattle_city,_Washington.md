@@ -1,6 +1,6 @@
 ---
 title: "Seattle city, Washington (data.census.gov)"
-census profile of: Seattle, Washington
+census profile of: Seattle
 city of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Seattle city, Washington is a city, town, place equivalent, or township located in Washington. Seattle city, Washington has a land area of 83.9 square miles.
