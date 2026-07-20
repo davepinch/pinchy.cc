@@ -1,5 +1,6 @@
 ---
 title: "Squak Mountain"
+apple maps: "https://maps.apple/p/L-rKj1EpmNtmFB"
 found dead here: Alena Stathopoulos
 mountain in:
   - Squak Mountain State Park
