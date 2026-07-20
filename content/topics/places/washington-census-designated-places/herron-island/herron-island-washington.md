@@ -5,6 +5,7 @@ census-designated place in:
   - Pierce County, Washington
   - Washington
 census-designated place of: United States Census Bureau
+openstreetmap: "https://www.openstreetmap.org/relation/18376256"
 wikidata: "https://www.wikidata.org/wiki/Q5896467"
 tags:
   - census-designated place
