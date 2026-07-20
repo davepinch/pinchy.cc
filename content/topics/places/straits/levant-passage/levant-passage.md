@@ -1,5 +1,6 @@
 ---
 title: "Levant Passage"
+connects to: Padilla Bay
 openstreetmap: "https://www.openstreetmap.org/relation/20144961"
 strait in:
   - Skagit County, Washington
