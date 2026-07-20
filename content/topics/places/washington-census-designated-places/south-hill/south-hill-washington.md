@@ -7,7 +7,6 @@ adjacent to:
   - Graham, Washington
   - Frederickson, Washington
   - Summit View, Washington
-census profile: "https://data.census.gov/profile/South_Hill_CDP,_Washington?g=160XX00US5365922"
 census-designated place in:
   - Pierce County, Washington
   - Washington
