@@ -6,6 +6,7 @@ adjacent to:
   - Newcastle, Washington
   - Squak Mountain State Park
   - incomplete list
+apple maps: "https://maps.apple/p/RyCLwz0iDJY0~W"
 county park in:
   - King County, Washington
   - Washington
