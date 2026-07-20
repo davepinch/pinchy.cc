@@ -1,6 +1,6 @@
 ---
 title: "Shadow Lake, Washington"
-census-designated place im:
+census-designated place in:
   - King County, Washington
   - Washington
 census-designated place of: United States Census Bureau
