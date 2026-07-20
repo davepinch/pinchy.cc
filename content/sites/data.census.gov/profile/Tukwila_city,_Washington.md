@@ -7,7 +7,8 @@ excerpt: >-
 license: public domain
 retrieved: 2026-07-18
 type: website
-website: "https://data.census.gov/profile/Tukwila_city,_Washington/g=160XX00US5372625"
+url: /data.census.gov/profile/Tukwila_city,_Washington/g=160XX00US5372625/
+website: "https://data.census.gov/profile/Tukwila_city,_Washington?g=160XX00US5372625"
 tags:
   - website
 ---
