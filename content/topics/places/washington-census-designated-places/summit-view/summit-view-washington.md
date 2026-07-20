@@ -13,7 +13,6 @@ census-designated place in:
 census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18395591"
 wikidata: "https://www.wikidata.org/wiki/Q6135507"
-wikipedia: "https://en.wikipedia.org/wiki/Summit_View,_Washington"
 tags:
   - census-designated place
   - no Wikimedia category
