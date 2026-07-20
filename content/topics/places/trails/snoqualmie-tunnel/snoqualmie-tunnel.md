@@ -1,5 +1,6 @@
 ---
 title: "Snoqualmie Tunnel"
+apple maps: "https://maps.apple/p/Bq17p9pQKIqnaG"
 openstreetmap: "https://www.openstreetmap.org/way/6521128"
 trail of:
   - Palouse to Cascades State Park
