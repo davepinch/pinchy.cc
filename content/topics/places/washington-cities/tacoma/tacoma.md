@@ -14,7 +14,6 @@ adjacent to:
   - Lakewood, Washington
   - University Place, Washington
   - Fircrest, Washington
-census profile: "https://data.census.gov/profile/Tacoma_city,_Washington?g=160XX00US5370000"
 city in:
   - Pierce County, Washington
   - Washington
