@@ -1,6 +1,7 @@
 ---
 title: "Snoqualmie, Washington"
 adjacent to: North Bend, Washington
+apple maps: "https://maps.apple/p/DQM0qtT.Ls.B-d"
 city of:
   - King County, Washington
   - Washington
