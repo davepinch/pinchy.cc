@@ -9,7 +9,6 @@ adjacent to:
   - Steilacoom, Washington
   - Chambers Bay
   - Nisqually Reach
-census profile: "https://data.census.gov/profile/University_Place_city,_Washington?g=160XX00US5373465"
 city of:
   - Pierce County, Washington
   - Washington
