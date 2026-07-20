@@ -1,5 +1,6 @@
 ---
 title: "Rattlesnake Lake"
+apple maps: "https://maps.apple/p/4RzL41P0vXXKRJ"
 lake in:
   - King County, Washington
   - Washington
