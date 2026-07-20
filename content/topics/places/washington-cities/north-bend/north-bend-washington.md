@@ -4,6 +4,7 @@ adjacent to:
   - Snoqualmie, Washington
   - Riverpoint, Washington
   - Riverbend, Washington
+apple maps: "https://maps.apple/p/GZGyJs5kAaSpPf"
 census profile: "https://data.census.gov/profile/North_Bend_city,_Washington?g=160XX00US5349485"
 city of:
   - King County, Washington
