@@ -5,7 +5,6 @@ creek in:
   - North Bend, Washington
   - King County, Washington
   - Washington
-  - Cascade Range
 openstreetmap:
   - "[headwaters in Rattlesnake Mountain Scenic Area](https://www.openstreetmap.org/way/645131510)"
   - "[culvert under track in Rattlesnake Mountain Scenic Area](https://www.openstreetmap.org/way/1423372642)"
