@@ -14,6 +14,7 @@ vicinity of:
   - Keechelus Lake
   - Snoqualmie Pass
 wikidata: "https://www.wikidata.org/wiki/Q7548051"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Snoqualmie_Tunnel"
 tags:
   - trail
   - railray tunnel
