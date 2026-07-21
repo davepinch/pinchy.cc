@@ -1,5 +1,6 @@
 ---
 title: "John Horgan (The Science Writer) (johnhorgan.org)"
+blog of: science
 excerpt: >-
   Everything on this site is free, including Cross-Check and the books My Quantum Experiment and Mind-Body Problems. If you want to donate to a worthy cause, check out WORLDBEYONDWAR.ORG.
 type: website
@@ -9,5 +10,4 @@ tags:
   - John Horgan
   - blog
   - bookmark
-  - science
 ---
