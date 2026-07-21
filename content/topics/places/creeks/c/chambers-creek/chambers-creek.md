@@ -2,6 +2,7 @@
 title: "Chambers Creek"
 around Tacoma of: VISIT SOMEWHERE NEW
 creek in:
+  - South Puget Sound Wildlife Area Unit
   - Lakewood, Washington
   - University Place, Washington
   - Pierce County, Washington
