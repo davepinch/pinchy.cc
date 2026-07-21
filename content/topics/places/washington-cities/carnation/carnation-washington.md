@@ -1,9 +1,11 @@
 ---
 title: "Carnation, Washington"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - Snoqualmie River
+  - Tolt River
 openstreetmap: "https://www.openstreetmap.org/relation/237871"
 vicinity to: Ames Lake, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1191413"
