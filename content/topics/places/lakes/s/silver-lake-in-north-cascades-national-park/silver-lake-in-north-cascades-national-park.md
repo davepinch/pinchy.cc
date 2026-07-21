@@ -9,6 +9,7 @@ lake in:
   - Washington
   - Cascade Range
 lake of: silver
+not to be confused with: Silver Lake (Whatcom County, Washington)
 openstreetmap: "https://www.openstreetmap.org/way/258727190"
 tributary of: Silver Creek (North Cascades National Park)
 wikidata: "https://www.wikidata.org/wiki/Q14713895"

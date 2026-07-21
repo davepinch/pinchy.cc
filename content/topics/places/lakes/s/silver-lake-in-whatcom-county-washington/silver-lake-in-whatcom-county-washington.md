@@ -7,6 +7,7 @@ lake in:
   - Cascade Range
 lake of: silver
 north of: Maple Falls, Washington
+not to be confused with: Silver Lake (North Cascades National Park)
 openstreetmap: "https://www.openstreetmap.org/relation/7612270"
 tributary of: Maple Creek
 wikidata: "https://www.wikidata.org/wiki/Q124829391"
