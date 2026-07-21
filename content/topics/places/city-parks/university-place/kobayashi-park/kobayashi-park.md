@@ -10,6 +10,7 @@ city park of:
   - Chambers Creek
   - Leach Creek
 note: The southern area of the park extends into Lakewood, but this is a University Place city park.
+official website: "https://cityofup.com/Facilities/Facility/Details/Kobayashi-Park-11"
 openstreetmap: "https://www.openstreetmap.org/way/545602084"
 wikidata: "https://www.wikidata.org/wiki/Q6424276"
 tags:
