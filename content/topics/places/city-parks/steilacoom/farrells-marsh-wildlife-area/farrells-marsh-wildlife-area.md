@@ -4,6 +4,7 @@ apple maps: "https://maps.apple/p/8QNmwcUWfsW8ja"
 city park in:
   - Steilacoom, Washington
   - Pierce County, Washington
+city park of: wetland
 map: "https://townofsteilacoom.org/DocumentCenter/View/2203/Farrells-Marsh-Map---Final-V6"
 official website: "https://townofsteilacoom.org/258/Farrells-Marsh"
 openstreetmap: "https://www.openstreetmap.org/way/31229241"
