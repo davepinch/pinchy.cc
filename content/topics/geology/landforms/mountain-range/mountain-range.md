@@ -1,5 +1,6 @@
 ---
 title: "mountain range"
+plural: mountain ranges
 range of: mountain
 tag requires property:
   - mountain range in
