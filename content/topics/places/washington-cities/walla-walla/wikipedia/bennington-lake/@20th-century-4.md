@@ -5,6 +5,7 @@ bennington lake of: Walla Walla, Washington
 citation: >-
   Wikipedia contributors. (2024, November 17). Walla Walla, Washington. In *Wikipedia, The Free Encyclopedia*. Retrieved 00:56, November 26, 2024, from https://en.wikipedia.org/w/index.php?title=Walla_Walla,_Washington&oldid=1257963765
 origin of: Bennington Lake
+overflow of: Mill Creek (Walla Walla River tributary)
 snippet of: Walla Walla, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Walla_Walla,_Washington/@20th-century-4/
