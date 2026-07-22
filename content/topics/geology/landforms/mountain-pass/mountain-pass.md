@@ -3,6 +3,7 @@ title: "mountain pass"
 navigatable route of:
   - mountain
   - mountain range
+plural: mountain passes
 tag requires property:
   - Wikidata
   - Wikimedia
