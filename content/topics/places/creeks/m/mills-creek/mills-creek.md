@@ -3,7 +3,7 @@ title: "Mills Creek"
 creek in:
   - Skagit County, Washington
   - Washington
-not to be confused with: Mill Creek, Washington
+disambiguation of: Mill Creek
 openstreetmap: "https://www.openstreetmap.org/way/374746728"
 tributary of: Samish River
 tags:
