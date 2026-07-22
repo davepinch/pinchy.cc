@@ -5,7 +5,7 @@ connects to:
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/14071040"
 trail in:
-  - Palouse to Scades State Park
+  - Palouse to Cascades State Park
   - King County, Washington
   - Kittitas County, Washington
   - Grant County, Washington
