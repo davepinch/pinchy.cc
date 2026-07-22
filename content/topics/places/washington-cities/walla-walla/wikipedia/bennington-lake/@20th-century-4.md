@@ -8,6 +8,7 @@ origin of: Bennington Lake
 snippet of: Walla Walla, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Walla_Walla,_Washington/@20th-century-4/
+when: 1931-03-31
 tags:
   - snippet
 ---
