@@ -1,5 +1,6 @@
 ---
 title: "Whitman Mission National Historic Site"
+adjacent to: Swegle Road Wildlife Area Unit
 national historic site in:
   - Walla Walla County, Washington
   - Washington
