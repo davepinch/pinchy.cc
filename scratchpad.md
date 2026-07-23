@@ -2,6 +2,10 @@
 title: "Scratchpad"
 draft: true
 ---
+
+7/22
+facebook: "https://www.facebook.com/groups/105660393253/"
+
 7/3
 Ages:
 - The Age of Film
