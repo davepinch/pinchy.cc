@@ -5,7 +5,7 @@ river in:
   - Blue Mountains
   - Umatilla National Forest
   - Wenaha–Tucannon Wilderness
-  - W. T. Wooten Wildlife Area Unit
+  - W.T. Wooten Wildlife Area Unit
   - Columbia County, Washington
   - Garfield County, Washington
   - Washington
