@@ -2,7 +2,7 @@
 title: "Sinlahekin Creek"
 creek in:
   - Colville National Forest
-  - Loomis Natural Resources Conservations Area
+  - Loomis Natural Resources Conservation Area
   - Sinlahekin Wildlife Area Unit
   - Okanogan County, Washington
   - Washington
