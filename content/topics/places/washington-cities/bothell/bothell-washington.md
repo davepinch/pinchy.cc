@@ -8,7 +8,6 @@ adjacent to:
   - Kenmore, Washington
   - Bothell West, Washington
 apple maps: "https://maps.apple/p/_qUiE-nkL7~jYf"
-census profile: "https://data.census.gov/profile/Bothell_city,_Washington?g=160XX00US5307380"
 city of:
   - King County, Washington
   - Snohomish County, Washington
