@@ -1,5 +1,6 @@
 ---
 title: "South Fork Skykomish River"
+not to be confused with: South Fork Skokomish River
 openstreetmap: "https://www.openstreetmap.org/relation/14650593"
 river in:
   - Mount Baker–Snoqualmie National Forest
