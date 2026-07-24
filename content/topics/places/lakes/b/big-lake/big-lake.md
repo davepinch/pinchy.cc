@@ -1,5 +1,6 @@
 ---
 title: "Big Lake"
+another big lake: Big Stone Lake
 lake in:
   - Big Lake, Washington
   - Skagit County, Washington
