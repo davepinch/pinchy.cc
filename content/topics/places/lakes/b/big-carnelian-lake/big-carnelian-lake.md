@@ -1,5 +1,6 @@
 ---
 title: "Big Carnelian Lake"
+another big lake: Big Four Lake
 lake in:
   - Stillwater Township
   - Washington County, Minnesota
