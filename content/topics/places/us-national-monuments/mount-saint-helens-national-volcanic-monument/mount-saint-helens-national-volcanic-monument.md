@@ -14,7 +14,6 @@ national monument of: United States Forest Service
 openstreetmap: "https://www.openstreetmap.org/relation/2455766"
 wikidata: "https://www.wikidata.org/wiki/Q3326044"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mount_St._Helens_National_Volcanic_Monument"
-wikipedia: "https://en.wikipedia.org/wiki/Mount_St._Helens_National_Volcanic_Monument"
 tags:
   - national monument
 ---
