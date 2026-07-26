@@ -14,7 +14,6 @@ peninsula of:
   - Strait of Juan de Fuca
   - U.S. Route 101
 wikidata: "https://www.wikidata.org/wiki/Q6859218"
-wikipedia: "https://en.wikipedia.org/wiki/Miller_Peninsula"
 tags:
   - peninsula
   - no Wikimedia category
