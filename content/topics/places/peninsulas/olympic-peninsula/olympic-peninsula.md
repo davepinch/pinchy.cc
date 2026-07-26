@@ -1,6 +1,6 @@
 ---
 title: "Olympic Peninsula"
-borders:
+adjacent to:
   - Pacific Ocean
   - Puget Sound
   - Strait of Juan de Fuca
