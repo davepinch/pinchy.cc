@@ -19,7 +19,6 @@ facebook: "https://www.facebook.com/cityofcamas"
 openstreetmap: "https://www.openstreetmap.org/relation/237272"
 wikidata: "https://www.wikidata.org/wiki/Q1507709"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Camas,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/Camas_(Washington)"
 tags:
   - city
 ---
