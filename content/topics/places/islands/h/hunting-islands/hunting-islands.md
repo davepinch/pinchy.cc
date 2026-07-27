@@ -1,5 +1,6 @@
 ---
 title: "Hunting Islands"
+across the Elochoman Slough to the southeast: Cathlamet, Washington
 description: A pair of islands in the Cathlamet Channel of the Columbia River at the mouth of the Elochoman River
 island in:
   - Julia Butler Hansen Refuge for the Columbian White-Tailed Deer
