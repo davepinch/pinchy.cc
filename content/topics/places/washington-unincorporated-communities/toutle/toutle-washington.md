@@ -6,6 +6,7 @@ unincorporated community in:
   - Washington
 vicinity to: Toutle River
 wikidata: "https://www.wikidata.org/wiki/Q3474827"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Toutle,_Washington"
 tags:
   - unincorporated community
 ---
