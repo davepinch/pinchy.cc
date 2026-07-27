@@ -16,7 +16,6 @@ namesake of: Washougal River
 openstreetmap: "https://www.openstreetmap.org/relation/237271"
 wikidata: "https://www.wikidata.org/wiki/Q986371"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Washougal,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Washougal,_Washington"
 tags:
   - city
 ---
