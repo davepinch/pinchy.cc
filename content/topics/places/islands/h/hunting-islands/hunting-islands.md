@@ -1,5 +1,6 @@
 ---
 title: "Hunting Islands"
+across the Columbia River to the west: Tenasillahe Island
 across the Elochoman Slough to the southeast: Cathlamet, Washington
 description: A pair of islands in the Cathlamet Channel of the Columbia River at the mouth of the Elochoman River
 island in:
