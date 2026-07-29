@@ -9,6 +9,7 @@ creek in:
   - Whitman County, Washington
   - Washington
 disambiguation of: Rock Creek
+gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1507847"
 openstreetmap: "https://www.openstreetmap.org/relation/14337459"
 tributary of: Palouse River
 wikidata: "https://www.wikidata.org/wiki/Q7354364"
