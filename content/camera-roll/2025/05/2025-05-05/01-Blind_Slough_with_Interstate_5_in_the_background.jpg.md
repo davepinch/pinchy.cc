@@ -6,7 +6,7 @@ description: >-
 slough of: Smith Island (Snohomish River)
 smith island (snohomish river) of: Interstate 5
 license: CC BY 4.0
-photograph of: Blind Slough
+photograph of: Blind Slough (Snohomish River)
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/b8/Blind_Slough_with_Interstate_5_in_the_background.jpg"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Blind_Slough_with_Interstate_5_in_the_background.jpg/330px-Blind_Slough_with_Interstate_5_in_the_background.jpg"
 truck of: red
