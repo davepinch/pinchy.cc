@@ -5,7 +5,7 @@ creek in:
   - Clatsop County, Oregon
   - Oregon
 openstreetmap: "https://www.openstreetmap.org/way/546498803"
-tributary of: Gnat Creek
+tributary of: McNary Creek
 tags:
   - creek
   - no Wikidata record
