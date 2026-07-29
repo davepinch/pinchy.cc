@@ -8,6 +8,7 @@ creek in:
 disambiguation of:
   - Rock Creek
   - Rock Creek (Columbia River tributary)
+gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1513195"
 openstreetmap: "https://www.openstreetmap.org/relation/10830445"
 tributary of: Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q104899654"
