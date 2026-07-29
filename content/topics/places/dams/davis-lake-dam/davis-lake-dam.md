@@ -5,7 +5,7 @@ dam in:
   - Washington
 dam of:
   - Davis Lake
-  - Davis Creek
+  - Davis Creek (Pend Oreille River tributary)
 openstreetmap: "https://www.openstreetmap.org/node/356549057"
 TODO: The OSM entry has an invalid GNIS ID - fix.
 wikidata: "https://www.wikidata.org/wiki/Q48984459"

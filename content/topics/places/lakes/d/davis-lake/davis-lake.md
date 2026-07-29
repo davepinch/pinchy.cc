@@ -5,7 +5,7 @@ lake in:
   - Pend Oreille County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/224044426"
-tributary of: Davis Creek
+tributary of: Davis Creek (Pend Oreille River tributary)
 wikidata: "https://www.wikidata.org/wiki/Q49700475"
 tags:
   - lake
