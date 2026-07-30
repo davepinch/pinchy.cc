@@ -10,9 +10,9 @@ slough in:
   - Wahkiakum County, Washington
   - Washington
 slough of:
-  - Jackson Island
   - Whites Island
   - Puget Island
+  - Jackson Island
 wikidata: "https://www.wikidata.org/wiki/Q116478047"
 tags:
   - slough
