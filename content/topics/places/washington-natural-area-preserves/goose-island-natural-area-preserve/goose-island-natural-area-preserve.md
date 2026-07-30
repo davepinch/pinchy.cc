@@ -1,6 +1,7 @@
 ---
 title: "Goose Island Natural Area Preserve"
 natural area preserve in:
+  - Goose Island (Grays Harbor)
   - Grays Harbor
   - Grays Harbor County, Washington
   - Washington
