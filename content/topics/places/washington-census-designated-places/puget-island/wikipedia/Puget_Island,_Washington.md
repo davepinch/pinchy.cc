@@ -7,7 +7,9 @@ retrieved: 2026-07-27
 type: website
 url: /en.wikipedia.org/wiki/Puget_Island,_Washington/
 website: "https://en.wikipedia.org/wiki/Puget_Island,_Washington"
-wikipedia of: Puget Island, Washington
+wikipedia of:
+  - Puget Island
+  - Puget Island, Washington
 tags:
   - Wikipedia
 ---
