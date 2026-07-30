@@ -4,6 +4,7 @@ across the Clifton Channel to the northeast: Fitzpatrick Island
 across the unnamed channel to the southeast: Quinns Island
 disambiguation of: Grassy Island
 island in:
+  - Lewis and Clark National Wildlife Refuge
   - Clatsop County, Oregon
   - Oregon
 island of:
