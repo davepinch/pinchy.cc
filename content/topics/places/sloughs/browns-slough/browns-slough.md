@@ -1,6 +1,7 @@
 ---
 title: "Browns Slough"
 connects to: Hall Slough
+not to be confused with: Brown Slough
 openstreetmap: "https://www.openstreetmap.org/relation/14436768"
 slough in:
   - Fir Island Farm Reserve Wildlife Area Unit
