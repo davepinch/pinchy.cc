@@ -9,6 +9,7 @@ island of:
   - Bernie Slough
   - Cathlamet Channel
   - Columbia River
+  - Washington State Route 409
 openstreetmap: "https://www.openstreetmap.org/relation/15407808"
 wikidata: "https://www.wikidata.org/wiki/Q49653253"
 tagS:
