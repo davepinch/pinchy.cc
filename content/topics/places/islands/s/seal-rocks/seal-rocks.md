@@ -5,6 +5,7 @@ description: >-
 island in:
   - San Francisco
   - Pacific Ocean
+not to be confused with: Seal Island
 openstreetmap:
   - "https://www.openstreetmap.org/way/969197373"
   - "https://www.openstreetmap.org/way/969197372"
