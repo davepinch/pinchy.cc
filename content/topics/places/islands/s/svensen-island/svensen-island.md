@@ -7,6 +7,7 @@ island in:
 island of:
   - Lewis and Clark National Wildlife Refuge
   - Prairie Channel
+  - Svensen Slough
   - Columbia River
 openstreetmap: "https://www.openstreetmap.org/relation/7796257"
 wikidata: "https://www.wikidata.org/wiki/Q130310961"
