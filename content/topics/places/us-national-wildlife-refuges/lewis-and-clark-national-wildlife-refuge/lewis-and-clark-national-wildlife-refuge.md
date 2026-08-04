@@ -24,7 +24,7 @@ national wildlife refuge of:
   - Seal Island
   - Russian Island
   - Miller Sands
-  - Green Island
+  - Green Island (Columbia River)
   - McGregor Island
   - Grassy Island (Prairie Channel of the Columbia River)
   - Cathlamet Bay
