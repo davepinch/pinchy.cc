@@ -7,7 +7,7 @@ iceberg lettuce in: Mexico
 snippet of: Cyclosporiasis (Wikipedia)
 timeline of:
   - 2026 United States Cyclosporiasis outbreak
-  - Talor Farms
+  - Taylor Farms
 type: snippet
 url: /en.wikipedia.org/wiki/Cyclosporiasis/@2026-cyclosporiasis-outbreak-1-2/
 when: 2026-07-17
