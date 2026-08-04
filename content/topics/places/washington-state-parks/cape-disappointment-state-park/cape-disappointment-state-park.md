@@ -9,7 +9,6 @@ state park in:
 state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q1034391"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Cape_Disappointment_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Cape_Disappointment_State_Park"
 tags:
   - state park
 ---
