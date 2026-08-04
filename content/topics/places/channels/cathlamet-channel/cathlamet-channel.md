@@ -1,5 +1,6 @@
 ---
 title: "Cathlamet Channel"
+apple maps: "https://maps.apple/p/f2v.hjBq~F1ZZS"
 channel in:
   - Columbia River
   - Wahkiakum County, Washington

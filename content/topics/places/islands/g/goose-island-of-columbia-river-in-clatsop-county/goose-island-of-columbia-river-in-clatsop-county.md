@@ -1,5 +1,6 @@
 ---
 title: "Goose Island (Columbia River in Clatsop County, Oregon)"
+apple maps: "https://maps.apple/p/nCmcYnVjeBF3_v"
 disambiguation of: Goose Island
 island in:
   - Lewis and Clark National Wildlife Refuge

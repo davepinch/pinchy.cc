@@ -1,5 +1,6 @@
 ---
 title: "Prairie Channel"
+apple maps: "https://maps.apple/p/FNMVfjjW9bD9aX"
 channel in:
   - Columbia River
   - Clatsop County, Oregon

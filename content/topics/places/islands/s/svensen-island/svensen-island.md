@@ -1,5 +1,6 @@
 ---
 title: "Svensen Island"
+apple maps: "https://maps.apple/p/3pXTa-iZ~j0ndq"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1127781"
 island in:
   - Clatsop County, Oregon

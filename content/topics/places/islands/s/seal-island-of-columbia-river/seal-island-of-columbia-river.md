@@ -1,5 +1,6 @@
 ---
 title: "Seal Island (Columbia River)"
+apple maps: "https://maps.apple/p/K1NEq99Rj3CBT3"
 disambiguation of: Seal Island
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1126710"
 island in:

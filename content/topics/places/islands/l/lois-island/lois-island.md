@@ -1,5 +1,6 @@
 ---
 title: "Lois Island"
+apple maps: "https://maps.apple/p/z-hQEQV8PfA~N0"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1123360"
 island in:
   - Lewis and Clark National Wildlife Refuge

@@ -2,6 +2,7 @@
 title: "Price Island"
 across the Columbia River to the southwest: Welch Island
 across the Steamboat Slough to the east: Skamokawa Valley, Washington
+apple maps: "https://maps.apple/p/MEwuc1ANRfvpef"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1533053"
 openstreetmap: "https://www.openstreetmap.org/relation/11642746"
 island in:

@@ -1,5 +1,6 @@
 ---
 title: "Marsh Island (Columbia River)"
+apple maps: "https://maps.apple/p/3VVFLjYEsUdBH0"
 disambiguation of: Marsh Island
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/gaz-record/1123785"
 island in:

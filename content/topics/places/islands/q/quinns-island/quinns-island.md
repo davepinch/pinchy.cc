@@ -5,6 +5,7 @@ across the Clifton Channel to the east: Welch Island
 across the Clifton Channel to the southeast: Tenasillahe Island
 across the Columbia River to the north: Fitzpatrick Island
 across the Prairie Channel to the south: Clatsop State Forest
+apple maps: "https://maps.apple/p/J_1dLaJKIPwzII"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1125757"
 island in:
   - Lewis and Clark National Wildlife Refuge

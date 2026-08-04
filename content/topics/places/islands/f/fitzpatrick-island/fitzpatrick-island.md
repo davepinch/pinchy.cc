@@ -6,6 +6,7 @@ across the Clifton Channel to the southeast: Welch Island
 across the Columbia River to the north:
   - Wahkiakum County, Washington
   - Washington
+apple maps: "https://maps.apple/p/2gm1SdsQFmMrQ7"
 island in:
   - Lewis and Clark National Wildlife Refuge
   - Clatsop County, Oregon

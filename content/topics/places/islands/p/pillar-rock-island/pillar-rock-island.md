@@ -1,5 +1,6 @@
 ---
 title: "Pillar Rock Island"
+apple maps: "https://maps.apple/p/ixEPRPtAJRQ2LZ"
 island in:
   - Clatsop County, Oregon
   - Oregon

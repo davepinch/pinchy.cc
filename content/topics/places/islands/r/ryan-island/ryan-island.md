@@ -1,5 +1,6 @@
 ---
 title: "Ryan Island"
+apple maps: "https://maps.apple/p/Ym0hMgvY6r2zbc"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1531549"
 island in:
   - Wahkiakum County, Washington

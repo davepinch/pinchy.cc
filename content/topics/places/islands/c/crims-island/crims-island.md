@@ -1,5 +1,6 @@
 ---
 title: "Crims Island"
+apple maps: "https://maps.apple/p/53j-ogAkWFAgmY"
 connects to: Gull Island
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1119548"
 island in:

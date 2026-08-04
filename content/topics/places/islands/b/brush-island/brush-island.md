@@ -1,6 +1,7 @@
 ---
 title: "Brush Island"
 adjacent to: Horseshoe Island
+apple maps: "https://maps.apple/p/maBL~H6-nufhCS"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1118156"
 island in:
   - Lewis and Clark National Wildlife Refuge

@@ -1,6 +1,7 @@
 ---
 title: "Horseshoe Island"
 adjacent to: Brush Island
+apple maps: "https://maps.apple/p/Shv~k26CJ3SGkm"
 island in:
   - Lewis and Clark National Wildlife Refuge
   - Clatsop County, Oregon

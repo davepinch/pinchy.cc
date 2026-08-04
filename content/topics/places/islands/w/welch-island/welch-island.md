@@ -4,6 +4,7 @@ across the Clifton Channel to the west: Quinns Island
 across the Columbia River to the northeast: Price Island
 across the Columbia River to the northwest: Fitzpatrick Island
 across the unnamed channel to the south: Tenasillahe Island
+apple maps: "https://maps.apple/p/fYx~.TBowhttGa"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1128783"
 island in:
   - Lewis and Clark National Wildlife Refuge

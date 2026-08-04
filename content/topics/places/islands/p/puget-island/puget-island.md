@@ -6,6 +6,7 @@ across Jackson Inlet to the northeast: Jackson Island
 across Net Rack Slough to the south:
   - Whites Island
   - White Island Wildlife Area Unit
+apple maps: "https://maps.apple/p/s67J6bHPaZo~Ai"
 island in:
   - Puget Island, Washington
   - Wahkiakum County, Washington
