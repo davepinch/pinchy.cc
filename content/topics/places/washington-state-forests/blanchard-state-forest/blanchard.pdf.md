@@ -3,6 +3,7 @@ title: "Blanchard Trail System (PDF) (dnr.wa.gov)"
 description: A PDF map from the Washington Department of Natural Resources. It shows the roads and trails around the Blanchard State Forest, including the well-known Oyster Dome.
 map of:
   - Blanchard State Forest
+  - Bear Creek (Friday Creek tributary)
   - Lily Lake (Skagit County, Washington)
   - Lizard Lake
   - Oyster Dome
