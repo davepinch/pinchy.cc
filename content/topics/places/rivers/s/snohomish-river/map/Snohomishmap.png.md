@@ -6,8 +6,7 @@ map of:
   - Snohomish River
   - Snohomish River (Wikipedia)
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/44/Snohomishmap.png"
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Snohomishmap.png/540px-Snohomishmap.png
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Snohomishmap.png/330px-Snohomishmap.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/Snohomishmap.png/
 website: "https://commons.wikimedia.org/wiki/File:Snohomishmap.png"
