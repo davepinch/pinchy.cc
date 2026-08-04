@@ -10,6 +10,7 @@ disambiguation of: Cummings Creek
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1504300"
 openstreetmap: "https://www.openstreetmap.org/relation/10955930"
 tributary of: Tucannon River
+wikidata: "https://www.wikidata.org/wiki/Q112762241"
 tags:
   - creek
   - tributary
