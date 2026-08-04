@@ -6,7 +6,7 @@ apple maps: "https://maps.apple/p/iYACwwb8ro7hzy"
 description: A pair of islands in the Cathlamet Channel of the Columbia River at the mouth of the Elochoman River
 island in:
   - Julia Butler Hansen Refuge for the Columbian White-Tailed Deer
-  - Wahkiuakum County, Washington
+  - Wahkiakum County, Washington
   - Washington
 island of:
   - Cathlamet Channel
