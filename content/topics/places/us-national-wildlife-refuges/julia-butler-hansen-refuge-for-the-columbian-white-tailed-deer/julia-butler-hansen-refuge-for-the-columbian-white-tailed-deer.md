@@ -14,7 +14,6 @@ national wildlife refuge in:
   - Clatsop County, Oregon
   - Columbia County, Oregon
   - Oregon
-namesake of: Julia Butler Hansen
 openstreetmap: "https://www.openstreetmap.org/relation/5403492"
 vicinity to:
   - Cathlamet, Washington
