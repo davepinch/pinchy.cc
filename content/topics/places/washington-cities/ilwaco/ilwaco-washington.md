@@ -5,6 +5,7 @@ city in:
   - Washington
 city of:
   - Baker Bay
+  - Cape Disappointment State Park
   - Columbia River
 openstreetmap: "https://www.openstreetmap.org/relation/237964"
 wikidata: "https://www.wikidata.org/wiki/Q1207455"
