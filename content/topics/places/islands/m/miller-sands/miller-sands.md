@@ -3,7 +3,7 @@ title: "Miller Sands"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1124205"
 island in:
   - Lewis and Clark National Wildlife Refuge
-  - Clatstop County, Oregon
+  - Clatsop County, Oregon
   - Oregon
 island of:
   - Woody Island Channel
