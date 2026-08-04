@@ -1,5 +1,6 @@
 ---
 title: "Fidalgo Bay"
+apple maps: "https://maps.apple/p/N~zwkfWvPfvK7o"
 bay in:
   - Skagit County, Washington
   - Washington

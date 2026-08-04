@@ -1,5 +1,6 @@
 ---
 title: "Rosario Strait"
+apple maps: "https://maps.apple/p/Ct9d-xCn.Dx3DU"
 connects to:
   - Strait of Georgia
   - Strait of Juan de Fuca

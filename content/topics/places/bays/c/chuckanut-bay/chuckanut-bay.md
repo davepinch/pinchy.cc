@@ -1,5 +1,6 @@
 ---
 title: "Chuckanut Bay"
+apple maps: "https://maps.apple/p/uo~eduLfJu~vfn"
 bay in:
   - Bellingham Bay
   - Salish Sea

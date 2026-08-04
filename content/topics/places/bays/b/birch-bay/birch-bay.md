@@ -1,5 +1,6 @@
 ---
 title: "Birch Bay"
+apple maps: "https://maps.apple/p/n5krZ.MyRjtHQY"
 bay in:
   - Strait of Georgia
   - Salish Sea

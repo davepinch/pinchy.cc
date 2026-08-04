@@ -1,5 +1,6 @@
 ---
 title: "Lake Erie"
+apple maps: "https://maps.apple/p/LXw7uQpr6iLxRA"
 lake in: North America
 openstreetmap: "https://www.openstreetmap.org/relation/4039900"
 wikidata: "https://www.wikidata.org/wiki/Q5492"

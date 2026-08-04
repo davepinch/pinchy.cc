@@ -4,6 +4,7 @@ adjacent to:
   - "note: the west side is Rosario Strait and the east side is Bellingham Channel"
   - Rosario Strait
   - Bellingham Channel
+apple maps: "https://maps.apple/p/cMEochPqC~uy3J"
 island in:
   - Salish Sea
   - Skagit County, Washington

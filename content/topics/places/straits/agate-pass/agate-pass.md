@@ -1,5 +1,6 @@
 ---
 title: "Agate Pass"
+apple maps: "https://maps.apple/p/BetXG9nw8vpx8H"
 connects to:
   - Port Madison
   - Port Orchard

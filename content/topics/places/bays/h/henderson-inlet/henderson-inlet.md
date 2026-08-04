@@ -1,5 +1,6 @@
 ---
 title: "Henderson Inlet"
+apple maps: "https://maps.apple/p/a3dZ4F63A.y~m4"
 bay in:
   - Thurston County, Washington
   - Washington

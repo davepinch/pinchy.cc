@@ -1,5 +1,6 @@
 ---
 title: "Lake Lawrence"
+apple maps: "https://maps.apple/p/DP7gEqsw_-an1u"
 lake in:
   - Thurston County, Washington
   - Washington

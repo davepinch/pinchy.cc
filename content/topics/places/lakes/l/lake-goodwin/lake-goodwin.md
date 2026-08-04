@@ -1,5 +1,6 @@
 ---
 title: "Lake Goodwin"
+apple maps: "https://maps.apple/p/WJKWxWoT89B3Q~"
 lake in:
   - Snohomish County, Washington
   - Washington

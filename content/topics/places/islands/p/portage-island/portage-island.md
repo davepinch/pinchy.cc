@@ -5,6 +5,7 @@ adjacent to:
   - Bellingham Bay
   - Hale Passage (Whatcom County)
   - Portage Bay
+apple maps: "https://maps.apple/p/r0f-CJJVv2Jn_5"
 island in:
   - Whatcom County, Washington
   - Washington

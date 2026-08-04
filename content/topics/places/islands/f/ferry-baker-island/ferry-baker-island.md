@@ -1,5 +1,6 @@
 ---
 title: "Ferry Baker Island"
+apple maps: "https://maps.apple/p/Xz84xXzVgvZc1T"
 island in:
   - Snohomish River
   - Everett, Washington

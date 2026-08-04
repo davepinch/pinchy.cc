@@ -1,5 +1,6 @@
 ---
 title: "Lake Samish"
+apple maps: "https://maps.apple/p/D~gV59ShbKgWLv"
 lake in:
   - Whatcom County, Washington
   - Washington

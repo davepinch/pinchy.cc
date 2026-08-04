@@ -1,5 +1,6 @@
 ---
 title: "Lake Ballinger"
+apple maps: "https://maps.apple/p/Mamfae5KH5gzSR"
 lake in:
   - Ballinger Park
   - Mountlake Terrace, Washington

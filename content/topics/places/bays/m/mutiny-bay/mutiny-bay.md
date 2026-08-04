@@ -1,5 +1,6 @@
 ---
 title: "Mutiny Bay"
+apple maps: "https://maps.apple/p/I1aEa_RN2DiCMc"
 bay in:
   - Admiralty Inlet
   - Island County, Washington

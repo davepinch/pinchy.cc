@@ -1,5 +1,6 @@
 ---
 title: "Lake Johanna"
+apple maps: "https://maps.apple/p/WYQ_4mS.DHa_pS"
 lake in:
   - Arden Hills, Minnesota
   - Ramsey County, Minnesota

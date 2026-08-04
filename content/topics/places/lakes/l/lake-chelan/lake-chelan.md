@@ -1,5 +1,6 @@
 ---
 title: "Lake Chelan"
+apple maps: "https://maps.apple/p/L6mQqsZQGit16H"
 lake in:
   - Lake Chelan National Recreation Area
   - Glacier Peak Wilderness

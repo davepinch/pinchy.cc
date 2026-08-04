@@ -1,5 +1,6 @@
 ---
 title: "Bloedel Reserve"
+apple maps: "https://maps.apple/p/JJU-v4hYkEw_hf"
 botanical garden of: Bainbridge Island
 openstreetmap: "https://www.openstreetmap.org/relation/5372055"
 wikidata: "https://www.wikidata.org/wiki/Q11335164"

@@ -1,5 +1,6 @@
 ---
 title: "Lake Huron"
+apple maps: "https://maps.apple/p/ZQdhSSYa7ALzkA"
 lake in:
   - Michigan
   - United States

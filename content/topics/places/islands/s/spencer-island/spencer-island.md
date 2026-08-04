@@ -4,6 +4,7 @@ adjacent to:
   - Union Slough
   - Steamboat Slough (Snohomish River)
   - Snohomish River
+apple maps: "https://maps.apple/p/rjA9JcNn1ejGN.z"
 island in:
   - Snohomish County, Washington
   - Washington

@@ -10,6 +10,7 @@ adjacent to:
   - Steamboat Slough (Snohomish River)
   - Union Slough
   - Snohomish River
+apple maps: "https://maps.apple/p/tdYuHExTkxUf8-"
 disambiguation of: Smith Island
 island in:
   - Everett, Washington
@@ -20,5 +21,6 @@ openstreetmap: "https://www.openstreetmap.org/way/1302641091"
 wikidata: "https://www.wikidata.org/wiki/Q134433299"
 tags:
   - island
+  - disambiguation
   - no Wikipedia article
 ---

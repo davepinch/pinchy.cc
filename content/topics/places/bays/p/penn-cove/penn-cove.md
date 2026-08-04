@@ -1,5 +1,6 @@
 ---
 title: "Penn Cove"
+apple maps: "https://maps.apple/p/wSzU-coxw2vDof"
 bay in:
   - Saratoga Passage
   - Puget Sound

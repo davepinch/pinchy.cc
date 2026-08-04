@@ -1,6 +1,7 @@
 ---
 title: "Ozette Lake"
 adjacent to: Daniel J. Evens Wilderness
+apple maps: "https://maps.apple/p/Xp3cgt48b~n5Gi"
 lake in:
   - Olympic National Park
   - Clallam County, Washington

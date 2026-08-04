@@ -3,6 +3,7 @@ title: "Colvos Passage"
 adjacent to:
   - Vashon Island
   - Kitsap Peninsula
+apple maps: "https://maps.apple/p/a6YcxiqHs_KVIH"
 connects to:
   - Dalco Passage
   - Tacoma Narrows

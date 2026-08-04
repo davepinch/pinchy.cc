@@ -1,5 +1,6 @@
 ---
 title: "Blakely Harbor"
+apple maps: "https://maps.apple/p/4JDICeCaS~nUZz"
 bay in:
   - Kitsap County, Washington
   - Washington

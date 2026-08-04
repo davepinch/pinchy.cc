@@ -3,6 +3,7 @@ title: "Samish Bay"
 adjacent to:
   - Bellingham Bay
   - Blanchard State Forest
+apple maps: "https://maps.apple/p/ez7~z7maNtTB8q"
 bay in:
   - Whatcom County, Washington
   - Skagit County, Washington

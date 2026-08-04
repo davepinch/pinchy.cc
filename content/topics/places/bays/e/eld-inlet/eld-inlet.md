@@ -1,5 +1,6 @@
 ---
 title: "Eld Inlet"
+apple maps: "https://maps.apple/p/70mscJr4WKk01N"
 bay in:
   - Thurston County, Washington
   - Washington

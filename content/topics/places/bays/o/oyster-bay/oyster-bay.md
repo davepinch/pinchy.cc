@@ -1,5 +1,6 @@
 ---
 title: "Oyster Bay"
+apple maps: "https://maps.apple/p/ecy8zIjruuH48x"
 bay in:
   - Mason County, Washington
   - Thurston County, Washington

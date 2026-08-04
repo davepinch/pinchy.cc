@@ -1,5 +1,6 @@
 ---
 title: "Lake Crescent"
+apple maps: "https://maps.apple/p/WSrGVz9AJem71V"
 lake in:
   - Olympic Peninsula
   - Clallam County, Washington

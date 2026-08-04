@@ -1,5 +1,6 @@
 ---
 title: "Totten Inlet"
+apple maps: "https://maps.apple/p/vLDNkUfjbRuYP6"
 bay in:
   - Mason County, Washington
   - Thurston County, Washington

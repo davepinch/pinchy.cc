@@ -1,5 +1,6 @@
 ---
 title: "Lake Josephine"
+apple maps: "https://maps.apple/p/UDivHdIUM.6T_0"
 lake in:
   - Arden Hills, Minnesota
   - Roseville, Minnesota

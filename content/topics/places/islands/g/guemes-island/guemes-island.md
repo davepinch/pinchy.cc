@@ -4,6 +4,7 @@ adjacent to:
   - Bellingham Channel
   - Guemes Channel
   - Padilla Bay
+apple maps: "https://maps.apple/p/2EKceaVkvNQjS1"
 island in:
   - Skagit County, Washington
   - Washington

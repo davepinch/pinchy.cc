@@ -1,5 +1,6 @@
 ---
 title: "Lake Stevens"
+apple maps: "https://maps.apple/p/-NS-I-q7-Bf_~_"
 lake in:
   - Lake Stevens, Washington
   - Snohomish County, Washington

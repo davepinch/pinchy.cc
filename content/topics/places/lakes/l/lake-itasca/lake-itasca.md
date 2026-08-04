@@ -1,5 +1,6 @@
 ---
 title: "Lake Itasca"
+apple maps: "https://maps.apple/p/KpjucEYRc0waAq"
 lake in: Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/899441"
 source of: Mississippi River

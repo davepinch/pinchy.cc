@@ -6,6 +6,7 @@ adjacent to:
   - Hale Passage (Whatcom County)
   - Bellingham Bay
   - Rosario Strait
+apple maps: "https://maps.apple/p/.9uso3zwF0GUdw"
 island in:
   - Whatcom County, Washington
   - Washington

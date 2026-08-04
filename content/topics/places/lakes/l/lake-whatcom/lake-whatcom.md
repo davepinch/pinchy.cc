@@ -1,5 +1,6 @@
 ---
 title: "Lake Whatcom"
+apple maps: "https://maps.apple/p/AkGiPKdDICmu2y"
 around Bellingham of: VISIT SOMEWHERE NEW
 lake in:
   - Bellingham, Washington

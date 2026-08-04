@@ -1,5 +1,6 @@
 ---
 title: "East Passage"
+apple maps: "https://maps.apple/p/2YG1Znjwnapy1a"
 connects to:
   - Puget Sound
   - Tramp Harbor

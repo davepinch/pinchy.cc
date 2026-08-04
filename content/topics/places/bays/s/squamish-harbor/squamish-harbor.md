@@ -1,5 +1,6 @@
 ---
 title: "Squamish Harbor"
+apple maps: "https://maps.apple/p/zVmHyqhkufIJDp"
 bay in:
   - Hood Canal
   - Jefferson County, Washington

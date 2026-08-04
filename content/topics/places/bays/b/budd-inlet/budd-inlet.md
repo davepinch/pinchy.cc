@@ -1,5 +1,6 @@
 ---
 title: "Budd Inlet"
+apple maps: "https://maps.apple/p/g-WQLV28.GCB5s"
 bay in:
   - Olympia, Washington
   - Thurston County, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Lake Baikal"
+apple maps: "https://maps.apple/p/t8fVF_YPhYR_1z"
 deepest lake of: Earth
 deepest in world of: lake
 lake in: Russia

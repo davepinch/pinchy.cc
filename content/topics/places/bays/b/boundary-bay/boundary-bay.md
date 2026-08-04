@@ -1,5 +1,6 @@
 ---
 title: "Boundary Bay"
+apple maps: "https://maps.apple/p/pmAeuc1a6Q~hQY"
 bay in:
   - United States
   - Canada

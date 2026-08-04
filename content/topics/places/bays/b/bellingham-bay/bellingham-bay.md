@@ -4,6 +4,7 @@ adjacent to:
   - Samish Bay
   - Sinclair Island
   - incomplete list
+apple maps: "https://maps.apple/p/oKxC0uS8FpRfm~"
 bay in:
   - Salish Sea
   - Bellingham, Washington

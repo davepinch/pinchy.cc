@@ -1,5 +1,6 @@
 ---
 title: "Oak Bay"
+apple maps: "https://maps.apple/p/ZjGwJsfZH5w3u1"
 bay in:
   - Admiralty Inlet
   - Jefferson County, Washington
