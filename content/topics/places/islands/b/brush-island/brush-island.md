@@ -14,4 +14,5 @@ openstreetmap: "https://www.openstreetmap.org/way/159141897"
 wikidata: "https://www.wikidata.org/wiki/Q49633981"
 tags:
   - island
+  - no Wikipedia article
 ---
