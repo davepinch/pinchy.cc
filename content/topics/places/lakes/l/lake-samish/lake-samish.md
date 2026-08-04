@@ -3,6 +3,7 @@ title: "Lake Samish"
 lake in:
   - Whatcom County, Washington
   - Washington
+lake in the watercourse of: Friday Creek
 namesake of: Samish People
 near:
   - Chuckanut Mountains

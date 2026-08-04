@@ -3,12 +3,13 @@ title: "Larrabee State Park"
 apple maps: "https://maps.apple/p/tjX0K.r-utaGR~"
 official website: "https://parks.wa.gov/find-parks/state-parks/larrabee-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3723001"
+state park by: Washington State Parks and Recreation Commission
 state park in:
   - Chuckanut Mountains
   - Whatcom County, Washington
   - Washington
 state park of:
-  - Washington State Parks and Recreation Commission
+  - Friday Creek
   - Samish Bay
 wikidata: "https://www.wikidata.org/wiki/Q1464919"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Larrabee_State_Park"
