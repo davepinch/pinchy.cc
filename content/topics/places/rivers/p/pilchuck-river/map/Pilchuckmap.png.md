@@ -6,8 +6,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 map of: Pilchuck River
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/7a/Pilchuckmap.png"
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pilchuckmap.png/540px-Pilchuckmap.png
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Pilchuckmap.png/330px-Pilchuckmap.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 tributary of: Snohomishmap.png (Wikimedia Commons)
 type: picture
 url: /commons.wikimedia.org/wiki/Pilchuckmap.png/
