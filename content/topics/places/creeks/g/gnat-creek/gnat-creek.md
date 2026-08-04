@@ -10,4 +10,5 @@ openstreetmap:
 tributary of: Blind Slough (Columbia River)
 tags:
   - creek
+  - no Wikidata record
 ---
