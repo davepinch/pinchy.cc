@@ -2,7 +2,7 @@
 title: "South Channel"
 channel in:
   - Columbia River
-  - Clatstop County, Oregon
+  - Clatsop County, Oregon
   - Oregon
 channel of:
   - Lewis and Clark National Wildlife Refuge
