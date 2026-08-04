@@ -1,7 +1,7 @@
 ---
 title: "Supply Creek"
 creek in:
-  - Clatstop State Forest
+  - Clatsop State Forest
   - Clatsop County, Oregon
   - Oregon
 downstream of: Rock Creek (Gnat Creek tributary)
