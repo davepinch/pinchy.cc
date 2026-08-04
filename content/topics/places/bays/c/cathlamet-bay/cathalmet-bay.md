@@ -2,7 +2,7 @@
 title: "Cathlamet Bay"
 bay in:
   - Columbia River
-  - Catsop County, Oregon
+  - Clatsop County, Oregon
   - Oregon
 bay of:
   - Lois Island
