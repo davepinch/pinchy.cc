@@ -7,7 +7,7 @@ island in:
   - Clatsop County, Oregon
   - Oregon
 island of:
-  - Praririe Channel
+  - Prairie Channel
   - Knappa Slough
   - Big Creek Slough
   - Columbia River
