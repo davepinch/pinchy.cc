@@ -8,6 +8,7 @@ peninsula in:
 peninsula of:
   - Long Beach, Washington
   - Ocean Park, Washington
+  - Oysterville, Washington
   - Pacific Ocean
   - Willapa Bay
   - Willapa National Wildlife Refuge
