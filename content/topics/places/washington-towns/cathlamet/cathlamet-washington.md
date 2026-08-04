@@ -1,6 +1,7 @@
 ---
 title: "Cathlamet, Washington"
 apple maps: "https://maps.apple/p/YUu4bMVUf2v_KV"
+official website: "https://townofcathlamet.com"
 openstreetmap: "https://www.openstreetmap.org/relation/237700"
 town in:
   - Wahkiakum County, Washington
