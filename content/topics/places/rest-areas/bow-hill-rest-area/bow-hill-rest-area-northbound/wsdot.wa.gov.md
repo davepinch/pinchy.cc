@@ -3,9 +3,6 @@ title: "Bow Hill Rest Area - I-5 northbound (wsdot.wa.gov)"
 coordinates:
   lat: 48.582330449
   lon: -122.344314042
-near:
-  - Mount Vernon, Washington
-  - Bellingham, Washington
 related: >-
   A 53-year-old Burlington woman who was walking along southbound Interstate 5 early Wednesday near the Bow Hill rest stop was struck and killed by two vehicles, the first of which left the scene.
 retrieved: 2024-04-09
@@ -14,6 +11,9 @@ northbound on interstate 5: "Lake Samish Road exit to Alger"
 opposite: "Bow Hill Rest Area- I-5 southbound (wsdot.wa.gov)"
 type: website
 url: /wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-northbound/
+vicinity to:
+  - Mount Vernon, Washington
+  - Bellingham, Washington
 website: "https://wsdot.wa.gov/travel/roads-bridges/rest-areas/bow-hill-i-5-northbound"
 website of: Bow Hill Rest Area
 tags:
