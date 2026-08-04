@@ -13,7 +13,7 @@ slough in:
 slough of:
   - Clatsop State Forest
   - Minaker Island
-  - Svenson Island
+  - Svensen Island
 wikidata: "https://www.wikidata.org/wiki/Q49871688"
 tags:
   - slough
