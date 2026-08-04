@@ -4,6 +4,7 @@ adjacent to:
   - Long Island Slough
   - Teal Slough Natural Resources Conservation Area
 national wildlife refuge in:
+  - Long Beach Peninsula
   - Pacific County, Washington
   - Washington
   - Pacific Northwest

@@ -2,6 +2,7 @@
 title: "Ocean Park, Washington"
 census-designated place by: United States Census Bureau
 census-designated place in:
+  - Long Beach Peninsula
   - Pacific County, Washington
   - Washington
 census-designated place of:
