@@ -11,5 +11,6 @@ tags:
   - lake
   - disambiguation
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---
