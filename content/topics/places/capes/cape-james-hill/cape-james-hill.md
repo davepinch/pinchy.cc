@@ -8,7 +8,6 @@ cape of:
 namesake of: James J. Hill
 openstreetmap: "https://www.openstreetmap.org/node/13200872444"
 wikidata: "https://www.wikidata.org/wiki/Q24829717"
-wikipedia: "https://en.wikipedia.org/wiki/Cape_James_Hill"
 tags:
   - cape
 ---
