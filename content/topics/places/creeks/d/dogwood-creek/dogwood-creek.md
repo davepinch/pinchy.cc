@@ -1,7 +1,7 @@
 ---
 title: "Dogwood Creek"
 creek in:
-  - Clatstop County, Oregon
+  - Clatsop County, Oregon
   - Oregon
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1132296"
 openstreetmap: "https://www.openstreetmap.org/way/546498796"
