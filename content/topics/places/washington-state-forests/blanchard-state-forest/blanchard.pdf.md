@@ -4,6 +4,7 @@ description: A PDF map from the Washington Department of Natural Resources. It s
 map of:
   - Blanchard State Forest
   - Lily Lake (Skagit County, Washington)
+  - Lizard Lake
   - Oyster Dome
 pdf: "https://www.dnr.wa.gov/publications/blanchard.pdf"
 type: pdf

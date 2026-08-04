@@ -6,6 +6,7 @@ lake in:
   - Skagit County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/57884292"
+vicinity to: Lizard Lake
 tags:
   - lake
   - disambiguation
