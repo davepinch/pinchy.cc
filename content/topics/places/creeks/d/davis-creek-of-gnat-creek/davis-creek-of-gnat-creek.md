@@ -2,7 +2,7 @@
 title: "Davis Creek (Gnat Creek tributary)"
 creek in:
   - Clatsop State Forest
-  - Clatsop, Oregon
+  - Clatsop County, Oregon
   - Oregon
 downstream of: Supply Creek
 disambiguation of: Davis Creek
