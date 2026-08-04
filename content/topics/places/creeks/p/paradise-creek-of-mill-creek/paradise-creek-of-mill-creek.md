@@ -11,7 +11,8 @@ creek in:
   - Walla Walla County, Washington
 disambiguation of: Paradise Creek
 note: >-
-  The main body of Paradise Creek starts in Umatilla County, Oregon. However, the headwaters has two intermittent tributaries that start in Wallowa County, Oregon. 
+  The main body of Paradise Creek starts in Umatilla County, Oregon. However, the headwaters has two intermittent tributaries that start in Wallowa County, Oregon.
+openstreetmap: "https://www.openstreetmap.org/way/437461467"
 tributary of: Mill Creek (Walla Walla River tributary)
 tags:
   - creek
