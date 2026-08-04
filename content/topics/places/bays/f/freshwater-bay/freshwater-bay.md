@@ -1,7 +1,7 @@
 ---
 title: "Freshwater Bay"
 bay in:
-  - Stait of Juan de Fuca
+  - Strait of Juan de Fuca
   - Clallam County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/13321293"
