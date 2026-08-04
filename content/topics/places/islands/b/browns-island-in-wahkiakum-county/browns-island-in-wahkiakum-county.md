@@ -16,4 +16,6 @@ wikidata: "https://www.wikidata.org/wiki/Q49633957"
 tags:
   - island
   - disambiguation
+  - no Wikimedia category
+  - no Wikipedia article
 ---
