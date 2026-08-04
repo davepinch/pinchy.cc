@@ -1,5 +1,6 @@
 ---
 title: "Sand Island"
+apple maps: "https://maps.apple/p/JaYMg_UimfAmT3"
 island in:
   - Clatsop County, Oregon
   - Oregon

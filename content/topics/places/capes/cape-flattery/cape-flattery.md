@@ -1,5 +1,6 @@
 ---
 title: "Cape Flattery"
+apple maps: "https://maps.apple/p/uwnhp_G2Pisrqf"
 cape in:
   - Makah Reservation
   - Clallam County, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Bush Point"
+apple maps: "https://maps.apple/p/ujp9DGBUX8J8sj"
 cape of:
   - Whidbey Island
   - Admiralty Inlet

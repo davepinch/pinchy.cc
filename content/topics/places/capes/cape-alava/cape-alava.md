@@ -1,5 +1,6 @@
 ---
 title: "Cape Alava"
+apple maps: "https://maps.apple/p/4F3gRxcX-KaS.i"
 cape of:
   - Clallam County, Washington
   - Olympic Coast National Marine Sanctuary

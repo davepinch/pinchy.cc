@@ -1,5 +1,6 @@
 ---
 title: "Cape Bridgman"
+apple maps: "https://maps.apple/p/v2RepQ9VwaHEya"
 cape of:
   - Greenland
   - Arctic Ocean
