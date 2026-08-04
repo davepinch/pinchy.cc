@@ -3,7 +3,7 @@ title: "Elochoman Block"
 openstreetmap: "https://www.openstreetmap.org/relation/15411634"
 state forest in:
   - Cowlitz County, Washington
-  - Wahkiakum County, Wsahington
+  - Wahkiakum County, Washington
   - Lewis County, Washington
   - Washington
 state forest of: Washington Department of Natural Resources
