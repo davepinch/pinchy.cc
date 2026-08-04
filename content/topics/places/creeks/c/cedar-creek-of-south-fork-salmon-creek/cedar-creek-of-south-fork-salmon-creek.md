@@ -4,7 +4,7 @@ creek in:
   - Colville National Forest
   - Okanogan County, Washington
   - Washington
-disambigaution of: Cedar Creek
+disambiguation of: Cedar Creek
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1517554"
 openstreetmap: "https://www.openstreetmap.org/way/1079693090"
 tributary of: South Fork Salmon Creek
