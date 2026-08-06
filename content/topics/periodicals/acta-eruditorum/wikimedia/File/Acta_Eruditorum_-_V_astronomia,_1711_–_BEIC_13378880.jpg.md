@@ -10,6 +10,7 @@ southern celestial hemisphere of:
   - Latin
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Acta_Eruditorum_-_V_astronomia%2C_1711_%E2%80%93_BEIC_13378880.jpg/500px-Acta_Eruditorum_-_V_astronomia%2C_1711_%E2%80%93_BEIC_13378880.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
+url: /commons.wikimedia.org/wiki/File/Acta_Eruditorum_-_V_astronomia,_1711_%E2%80%93_BEIC_13378880.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Acta_Eruditorum_-_V_astronomia,_1711_%E2%80%93_BEIC_13378880.jpg"
 tags:
   - website
