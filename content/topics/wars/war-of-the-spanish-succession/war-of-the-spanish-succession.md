@@ -1,5 +1,6 @@
 ---
 title: "War of the Spanish Succession"
+overlaps with: Great Northern War
 war in:
   - Atlantic Ocean
   - Caribbean
