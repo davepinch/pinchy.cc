@@ -8,7 +8,7 @@ island in:
   - Oregon
 island of:
   - Columbia River
-  - Wallace Slough (Columbia River)
+  - Wallace Slough
 openstreetmap: "https://www.openstreetmap.org/way/161318886"
 wikidata: "https://www.wikidata.org/wiki/Q130310704"
 tags:
