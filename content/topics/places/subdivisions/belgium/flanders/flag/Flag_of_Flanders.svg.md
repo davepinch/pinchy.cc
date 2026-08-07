@@ -11,6 +11,7 @@ thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Flag_of_Fl
 type: picture
 url: /commons.wikimedia.org/wiki/File/Flag_of_Flanders.svg/
 website: "https://commons.wikimedia.org/wiki/File:Flag_of_Flanders.svg"
+wikipedia: "https://en.wikipedia.org/wiki/Flag_of_Flanders"
 tags:
   - Wikimedia Commons
   - flag
