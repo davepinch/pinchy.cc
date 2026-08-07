@@ -1,5 +1,6 @@
 ---
 title: "Celtic Sea"
+openstreetmap: "https://www.openstreetmap.org/node/7367542818"
 sea in: Atlantic Ocean
 sea of:
   - Ireland
