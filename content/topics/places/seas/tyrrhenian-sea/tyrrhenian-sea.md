@@ -9,6 +9,7 @@ adjacent to:
   - Tunisia
   - Sardinia
   - Corsica
+apple maps: "https://maps.apple/p/m20xg9Yrcx4YrX"
 connects to:
   - Strait of Bonifacio
   - Strait of Messina

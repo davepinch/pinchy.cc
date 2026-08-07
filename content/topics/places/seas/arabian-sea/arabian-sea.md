@@ -1,5 +1,6 @@
 ---
 title: "Arabian Sea"
+apple maps: "https://maps.apple/p/acR~ndiHk0gY_x"
 borders:
   - Gulf of Aden
   - Gulf of Oman

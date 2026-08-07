@@ -3,6 +3,7 @@ title: "Adriatic Sea"
 adjacent to:
   - Italian Peninsula
   - incomplete list
+apple maps: "https://maps.apple/p/rMACiRIEGpuor7"
 countries:
   - Albania
   - Bosnia and Herzegovina

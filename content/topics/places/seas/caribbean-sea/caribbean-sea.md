@@ -1,5 +1,6 @@
 ---
 title: "Caribbean Sea"
+apple maps: "https://maps.apple/p/NcQIGs3B~zdv1Q"
 borders:
   - Central America
   - Gulf of Mexico

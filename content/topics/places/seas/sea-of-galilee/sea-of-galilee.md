@@ -1,5 +1,6 @@
 ---
 title: "Sea of Galilee"
+apple maps: "https://maps.apple/p/VXiZ0-AQQQq7xe"
 informally of: sea
 lake in:
   - Israel

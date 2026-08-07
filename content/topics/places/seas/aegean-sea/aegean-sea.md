@@ -1,5 +1,6 @@
 ---
 title: "Aegean Sea"
+apple maps: "https://maps.apple/p/NBddigiRHoKvn6"
 openstreetmap: "https://www.openstreetmap.org/relation/4594226"
 sea in: Mediterranean Sea
 wikidata: "https://www.wikidata.org/wiki/Q34575"

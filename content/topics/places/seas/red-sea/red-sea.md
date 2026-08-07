@@ -1,5 +1,6 @@
 ---
 title: "Red Sea"
+apple maps: "https://maps.apple/p/p90-uvC357v0sX"
 between:
   - Africa
   - Asia

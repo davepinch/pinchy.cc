@@ -1,5 +1,6 @@
 ---
 title: "Bering Sea"
+apple maps: "https://maps.apple/p/PnaHxg-ydqCK.F"
 connects to:
   - Arctic Ocean
   - Pacific Ocean

@@ -1,5 +1,6 @@
 ---
 title: "Irminger Sea"
+apple maps: "https://maps.apple/p/VA2ImxbkLuPx6U"
 connects to:
   - Denmark Strait
   - Atlantic Ocean

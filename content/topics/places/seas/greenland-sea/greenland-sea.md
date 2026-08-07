@@ -1,5 +1,6 @@
 ---
 title: "Greenland Sea"
+apple maps: "https://maps.apple/p/_j3WyUfHUGHehq"
 sea in:
   - Arctic Ocean
   - Greenland

@@ -1,11 +1,12 @@
 ---
 title: "Sea of Azov"
-borders:
-  - Russia
-  - Ukraine
+apple maps: "https://maps.apple/p/3Gxi._tbJcvN.k"
 connected to: Black Sea
 openstreetmap: "https://www.openstreetmap.org/relation/5486417"
 sea in: Central Asia
+sea of:
+  - Russia
+  - Ukraine
 wikidata: "https://www.wikidata.org/wiki/Q35000"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Sea_of_Azov"
 tags:

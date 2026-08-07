@@ -1,5 +1,6 @@
 ---
 title: "Wandel Sea"
+apple maps: "https://maps.apple/p/uCtDV0hTPAq4n9"
 openstreetmap: "https://www.openstreetmap.org/node/5837815586"
 sea in:
   - Arctic Ocean

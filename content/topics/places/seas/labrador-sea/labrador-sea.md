@@ -1,5 +1,6 @@
 ---
 title: "Labrador Sea"
+apple maps: "https://maps.apple/p/ny8TYv5ydu3tcf"
 borders:
   - Greenland
   - Newfoundland and Labrador
