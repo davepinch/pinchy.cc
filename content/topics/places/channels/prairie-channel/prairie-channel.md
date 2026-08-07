@@ -16,7 +16,7 @@ channel of:
   - Seal Island (Columbia River)
   - Russian Island
   - Minaker Island
-  - Svenson Island
+  - Svensen Island
   - Grassy Island (Prairie Channel of the Columbia River)
   - Lois Island
   - Mott Island
