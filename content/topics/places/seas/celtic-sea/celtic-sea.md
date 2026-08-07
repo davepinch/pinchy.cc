@@ -1,5 +1,6 @@
 ---
 title: "Celtic Sea"
+apple maps: "https://maps.apple/p/EZGkYAdE0RQ6Dz"
 openstreetmap: "https://www.openstreetmap.org/node/7367542818"
 sea in: Atlantic Ocean
 sea of:
