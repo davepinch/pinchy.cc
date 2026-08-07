@@ -6,6 +6,7 @@ bathymetric map of:
   - Bay of Biscay
   - Celtic Shelf
   - Iroise Sea
+license: CC BY-SA 3.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/c/c1/Celtic_Sea_and_Bay_of_Biscay_bathymetric_map-en.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Celtic_Sea_and_Bay_of_Biscay_bathymetric_map-en.svg/500px-Celtic_Sea_and_Bay_of_Biscay_bathymetric_map-en.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 TODO: Add other items on this map
