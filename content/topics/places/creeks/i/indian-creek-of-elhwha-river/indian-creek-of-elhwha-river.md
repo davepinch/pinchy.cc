@@ -1,5 +1,5 @@
 ---
-title: "Indian Creek (Elhwha River tributary)"
+title: "Indian Creek (Elwha River tributary)"
 creek in:
   - Olympic Peninsula
   - Clallam County, Washington
