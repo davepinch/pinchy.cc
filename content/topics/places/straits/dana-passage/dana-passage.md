@@ -1,5 +1,6 @@
 ---
 title: "Dana Passage"
+apple maps: "https://maps.apple/p/Mu2A9VLdNnecTS"
 connects to:
   - Nisqually Reach
   - Henderson Inlet

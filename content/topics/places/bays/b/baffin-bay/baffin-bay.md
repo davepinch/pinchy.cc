@@ -1,5 +1,6 @@
 ---
 title: "Baffin Bay"
+apple maps: "https://maps.apple/p/C9eFwfraEc5U0H"
 bay in:
   - Labrador Sea
   - Arctic Ocean
