@@ -3,8 +3,9 @@ title: "Pacific County, Washington"
 adjacent to:
    - Grays Harbor County, Washington
    - Lewis County, Washington
-   - Oregon
    - Wahkiakum County, Washington
+   - Clatsop County, Oregon
+   - Oregon
 county in: Washington
 namesake of: Pacific Ocean
 official website: "https://www.co.pacific.wa.us/"
