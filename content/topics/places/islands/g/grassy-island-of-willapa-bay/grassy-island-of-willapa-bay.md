@@ -1,5 +1,5 @@
 ---
-title: "Grassy Island (Pacific County, Washington)"
+title: "Grassy Island (Willapa Bay)"
 disambiguation of: Grassy Island
 island in:
   - Willapa Bay
