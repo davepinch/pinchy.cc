@@ -4,6 +4,7 @@ apple maps: "https://maps.apple/p/kFm8qWLEzkivpX"
 bay in:
   - Columbia River
   - Cape Disappointment State Park
+  - Chinook, Washington
   - Ilwaco, Washington
   - Pacific County, Washington
   - Clatsop County, Oregon
