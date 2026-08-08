@@ -6,6 +6,7 @@ peninsula in:
   - Pacific County, Washington
   - Washington
 peninsula of:
+  - Leadbetter Point State Park
   - Long Beach, Washington
   - Ocean Park, Washington
   - Oysterville, Washington

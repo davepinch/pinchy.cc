@@ -1,6 +1,7 @@
 ---
 title: "Willapa National Wildlife Refuge"
 adjacent to:
+  - Leadbetter Point State Park
   - Long Island Slough
   - Teal Slough Natural Resources Conservation Area
 national wildlife refuge in:
