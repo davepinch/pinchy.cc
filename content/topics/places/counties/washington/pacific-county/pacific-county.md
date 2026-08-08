@@ -1,6 +1,6 @@
 ---
 title: "Pacific County, Washington"
-borders:
+adjacent to:
    - Grays Harbor County, Washington
    - Lewis County, Washington
    - Oregon
