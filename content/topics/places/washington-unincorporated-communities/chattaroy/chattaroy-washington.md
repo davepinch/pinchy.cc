@@ -6,7 +6,6 @@ unincorporated community in:
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q5087915"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Chattaroy,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Chattaroy,_Washington"
 tags:
   - unincorporated community
 ---
