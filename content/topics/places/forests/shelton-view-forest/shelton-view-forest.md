@@ -1,5 +1,6 @@
 ---
 title: "Shelton View Forest"
+connects to: Forsgren Park
 forest of:
   - Bothell, Washington
   - Snohomish County, Washington
