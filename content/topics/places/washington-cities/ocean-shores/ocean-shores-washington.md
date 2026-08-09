@@ -15,7 +15,6 @@ vicinity to:
   - Westport, Washington
 wikidata: "https://www.wikidata.org/wiki/Q423697"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ocean_Shores,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Ocean_Shores,_Washington"
 tags:
   - city
 ---
