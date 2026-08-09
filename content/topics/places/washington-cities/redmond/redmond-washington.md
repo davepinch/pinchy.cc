@@ -7,6 +7,7 @@ adjacent to:
   - Lake Sammamish
   - Sammamish, Washington
   - Union Hill-Novelty Hill, Washington
+apple maps: "https://maps.apple/p/pJpT9PAjxpEkjA"
 city of:
   - King County, Washington
   - Washington

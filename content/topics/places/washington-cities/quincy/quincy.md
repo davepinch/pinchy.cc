@@ -1,5 +1,6 @@
 ---
 title: "Quincy, Washington"
+apple maps: "https://maps.apple/p/Hi8zEEA3fFuMFX"
 city of:
   - Grant County, Washington
   - Washington

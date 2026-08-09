@@ -9,6 +9,7 @@ adjacent to:
   - Kent, Washington
   - Tukwila, Washington
   - Bryn Mawr-Skyway, Washington
+apple maps: "https://maps.apple/p/3eLSKzKnzCN6NL"
 city of:
   - King County, Washington
   - Washington

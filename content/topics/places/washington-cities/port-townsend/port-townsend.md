@@ -1,5 +1,6 @@
 ---
 title: "Port Townsend, Washington"
+apple maps: "https://maps.apple/p/.4M6-hpFUND44u"
 city of:
   - Quimper Peninsula
   - Olympic Peninsula

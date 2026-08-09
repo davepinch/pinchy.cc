@@ -1,5 +1,6 @@
 ---
 title: "Ridgefield, Washington"
+apple maps: "https://maps.apple/p/ik2-tfkGWhyi40"
 city of:
   - Clark County, Washington
   - Washington

@@ -1,5 +1,6 @@
 ---
 title: "Roy, Washington"
+apple maps: "https://maps.apple/p/qnphdsqT_0srh0"
 census profile: "https://data.census.gov/profile/Roy_city,_Washington?g=160XX00US5360160"
 city of:
   - Pierce County, Washington

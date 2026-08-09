@@ -1,5 +1,6 @@
 ---
 title: "Puyallup, Washington"
+apple maps: "https://maps.apple/p/ELctUnfKYex9BF"
 city in:
   - Pierce County, Washington
   - Washington

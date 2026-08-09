@@ -5,6 +5,7 @@ adjacent to:
   - Issaquah, Washington
   - Lake Sammamish
   - Redmond, Washington
+apple maps: "https://maps.apple/p/MA~Akhd705qzSu"
 census profile: "https://data.census.gov/profile/Sammamish_city,_Washington?g=160XX00US5361115"
 city of:
   - King County, Washington

@@ -5,6 +5,7 @@ adjacent to:
   - Tukwila, Washington
   - Kent, Washington
   - Des Moines, Washington
+apple maps: "https://maps.apple/p/oEZeaAVZdvTZVr"
 census profile: "https://data.census.gov/profile/SeaTac_city,_Washington?g=160XX00US5362288"
 city of:
   - King County, Washington

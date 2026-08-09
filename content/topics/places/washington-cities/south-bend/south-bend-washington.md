@@ -1,5 +1,6 @@
 ---
 title: "South Bend, Washington"
+apple maps: "https://maps.apple/p/mxRMjEkqYuvNiX"
 city of:
   - Pacific County, Washington
   - Washington

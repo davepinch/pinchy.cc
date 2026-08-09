@@ -1,5 +1,6 @@
 ---
 title: "Snohomish, Washington"
+apple maps: "https://maps.apple/p/ftDfIYLDinb9yg"
 city of:
   - Snohomish County, Washington
   - Washington

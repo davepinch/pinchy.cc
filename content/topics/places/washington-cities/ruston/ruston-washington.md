@@ -3,6 +3,7 @@ title: "Ruston, Washington"
 adjacent to:
   - Commencement Bay
   - Tacoma, Washington
+apple maps: "https://maps.apple/p/Q.RYEwD-bhvPwI"
 census profile: "https://data.census.gov/profile/Ruston_city,_Washington?g=160XX00US5360510"
 city of:
   - Pierce County, Washington
