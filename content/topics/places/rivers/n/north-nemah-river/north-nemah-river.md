@@ -8,6 +8,7 @@ river in:
   - Pacific County, Washington
   - Washington
 tributary of:
+  - Nemah Tidelines
   - Willapa Bay
 wikidata: "https://www.wikidata.org/wiki/Q104778345"
 tags:
