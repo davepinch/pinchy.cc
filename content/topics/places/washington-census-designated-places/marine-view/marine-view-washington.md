@@ -1,5 +1,6 @@
 ---
 title: "Marine View, Washington"
+apple maps: "https://maps.apple/p/cYBas12ctIbEBr"
 census-designated place in:
   - Grant County, Washington
   - Washington

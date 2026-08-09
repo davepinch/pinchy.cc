@@ -9,6 +9,7 @@ adjacent to:
   - Bothell East, Washington
   - Clearview, Washington
   - Cathcart, Washington
+apple maps: "https://maps.apple/p/P7yDY8pqgZItoo"
 census-designated place in:
   - Snohomish County, Washington
   - Washington

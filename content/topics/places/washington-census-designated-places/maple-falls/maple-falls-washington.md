@@ -1,6 +1,7 @@
 ---
 title: "Maple Falls, Washington"
 adjacent to: Kendall, Washington
+apple maps: "https://maps.apple/p/2TnPpGcTQdTAQG"
 census-designated place in:
   - Whatcom County, Washington
   - Washington

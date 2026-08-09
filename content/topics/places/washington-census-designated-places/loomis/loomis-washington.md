@@ -1,5 +1,6 @@
 ---
 title: "Loomis, Washington"
+apple maps: "https://maps.apple/p/D1rvgZ.SIuv1BQ"
 census-designated place in:
   - Okanogan, Washington
   - Washington

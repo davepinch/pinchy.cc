@@ -3,6 +3,7 @@ title: "Markham, Washington"
 adjacent to:
   - Grays Harbor
   - Ocosta, Washington
+apple maps: "https://maps.apple/p/ZauuZ~W8u7wbzT"
 census-designated place in:
   - Grays Harbor County, Washington
   - Washington

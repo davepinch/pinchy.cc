@@ -4,6 +4,7 @@ adjacent to:
   - Lake Stevens, Washington
   - Bunk Foss, Washingotn
   - Cavalero, Washington
+apple maps: "https://maps.apple/p/sfisSzwWyujeaJ"
 census-designated place in:
   - Snohomish County, Washington
   - Washington

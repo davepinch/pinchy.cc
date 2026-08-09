@@ -1,6 +1,7 @@
 ---
 title: "Malone, Washington"
 adjacent to: Porter, Washington
+apple maps: "https://maps.apple/p/b0r8bSL6Vab1iN"
 census-designated place in:
   - Grays Harbor County, Washington
   - Washington

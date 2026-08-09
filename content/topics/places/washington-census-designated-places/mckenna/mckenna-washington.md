@@ -1,5 +1,6 @@
 ---
 title: "McKenna, Washington"
+apple maps: "https://maps.apple/p/pE0o20weV-Zsxq"
 census-designated place in:
   - Pierce County, Washington
   - Washington

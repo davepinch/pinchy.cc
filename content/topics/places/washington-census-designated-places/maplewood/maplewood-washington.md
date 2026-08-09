@@ -8,6 +8,7 @@ adjacent to:
   - Gig Harbor, Washington
   - Canterwood, Washington
   - Purdy, Washington
+apple maps: "https://maps.apple/p/jgkpZL~GLI26nu"
 disambiguation of: Maplewood
 census-designated place in:
   - Gig Harbor Peninsula

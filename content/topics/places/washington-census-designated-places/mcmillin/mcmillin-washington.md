@@ -6,6 +6,7 @@ adjacent to:
   - Alderton, Washington
   - Tehaleh, Washington
   - Orting, Washington
+apple maps: "https://maps.apple/p/gPN7IhNut0PGID"
 census profile: "https://data.census.gov/profile/McMillin_CDP,_Washington?g=160XX00US5341785"
 census-designated place in:
   - Pierce County, Washington
