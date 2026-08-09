@@ -10,7 +10,6 @@ unincorporated community in:
   - Clark County, Washington
   - Washington
 wikidata: "https://www.wikidata.org/wiki/Q27989065"
-wikipedia: "https://en.wikipedia.org/wiki/Proebstel,_Washington"
 tags:
   - unincorporated community
   - no Wikimedia category
