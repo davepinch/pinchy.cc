@@ -6,6 +6,7 @@ adjacent to:
   - Crocker, Washington
   - Orting, Washington
   - McMillin, Washington
+apple maps: "https://maps.apple/p/ADbDRXDX93UMpG"
 census profile: "https://data.census.gov/profile/Tehaleh_CDP,_Washington?g=160XX00US5370543"
 census-designated place in:
   - Pierce County, Washington

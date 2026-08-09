@@ -1,5 +1,6 @@
 ---
 title: "Rainier, Washington"
+apple maps: "https://maps.apple/p/tYr0QiTBs0U1fT"
 census-designated place in:
   - Thurston County, Washington
   - Washington

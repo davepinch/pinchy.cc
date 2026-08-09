@@ -1,5 +1,6 @@
 ---
 title: "Skokomish, Washington"
+apple maps: "https://maps.apple/p/F5oh_K70oQiejS"
 census-designated place in:
   - Mason County, Washington
   - Olympic Peninsula

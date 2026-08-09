@@ -3,6 +3,7 @@ title: "Satsop, Washington"
 adjacent to:
   - Elma, Washington
   - Brady, Washington
+apple maps: "https://maps.apple/p/ezJfJ2zE02cxj~"
 census-designated place in:
   - Grays Harbor County, Washington
   - Washington

@@ -1,5 +1,6 @@
 ---
 title: "Silvana, Washington"
+apple maps: "https://maps.apple/p/SKLw8tvdSjVyDz"
 census-designated place in:
   - Snohomish County, Washington
   - Washington

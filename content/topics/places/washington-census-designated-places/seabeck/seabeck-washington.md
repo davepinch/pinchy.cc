@@ -1,5 +1,6 @@
 ---
 title: "Seabeck, Washington"
+apple maps: "https://maps.apple/p/dcyjv3~F6rLffQ"
 census-designated place in:
   - Seabeck Bay
   - Kitsap County, Washington

@@ -4,6 +4,7 @@ adjacent to:
   - Arlington, Washington
   - Lake Cassidy, Washington
   - Marysville, Washington
+apple maps: "https://maps.apple/p/R~LiLRDgX-0s8.z"
 census-designated place in:
   - Snohomish County, Washington
   - Washington

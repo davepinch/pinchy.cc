@@ -1,5 +1,6 @@
 ---
 title: "Smokey Point, Washington"
+apple maps: "https://maps.apple/p/tkCYagJpas3CKR"
 census-designated place in:
   - Arlington, Washington
   - Marysville, Washington

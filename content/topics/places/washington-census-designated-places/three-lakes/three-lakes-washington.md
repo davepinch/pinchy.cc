@@ -1,6 +1,7 @@
 ---
 title: "Three Lakes, Washington"
 adjacent to: Chain Lake, Washington
+apple maps: "https://maps.apple/p/Q7MSPntZL8f8KL"
 census-designated place in:
   - Snohomish County, Washington
   - Washington

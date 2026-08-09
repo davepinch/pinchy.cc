@@ -1,6 +1,7 @@
 ---
 title: "Ravensdale, Washington"
 adjacent to: Kent, Washington
+apple maps: "https://maps.apple/p/XE-wrLx_aGd0KN"
 census-designated place in:
   - King County, Washington
   - Washington

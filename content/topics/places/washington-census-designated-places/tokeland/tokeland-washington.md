@@ -1,5 +1,6 @@
 ---
 title: "Tokeland, Washington"
+apple maps: "https://maps.apple/p/YTfMHek8F5f2gK"
 census-designated place in:
   - Pacific County, Washington
   - Washington

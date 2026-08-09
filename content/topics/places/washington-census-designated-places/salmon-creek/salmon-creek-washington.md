@@ -1,5 +1,6 @@
 ---
 title: "Salmon Creek, Washington"
+apple maps: "https://maps.apple/p/G.485Ursw2Dt5N"
 census-designated place in:
   - Clark County, Washington
   - Washington

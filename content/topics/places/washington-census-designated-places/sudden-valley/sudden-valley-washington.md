@@ -1,6 +1,7 @@
 ---
 title: "Sudden Valley, Washington"
 adjacent to: Geneva, Washington
+apple maps: "https://maps.apple/p/ML5uInskhqDaQm"
 census-designated place in:
   - Whatcom County, Washington
   - Washington

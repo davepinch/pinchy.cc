@@ -7,6 +7,7 @@ adjacent to:
   - Summit View, Washington
   - Clover Creek, Washington
   - Midland, Washington
+apple maps: "https://maps.apple/p/.aq8WtgDGVvq48"
 census profile: "https://data.census.gov/profile/Summit_CDP,_Washington?g=160XX00US5368365"
 census-designated place in:
   - Pierce County, Washington

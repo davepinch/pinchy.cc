@@ -1,5 +1,6 @@
 ---
 title: "Terrace Heights, Washington"
+apple maps: "https://maps.apple/p/3K3R26G8Zngg5B"
 census-designated place in:
   - Yakima County, Washington
   - Washington

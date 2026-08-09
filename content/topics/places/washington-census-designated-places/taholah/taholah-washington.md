@@ -1,5 +1,6 @@
 ---
 title: "Taholah, Washington"
+apple maps: "https://maps.apple/p/kQ3xMv.Jah5a~-"
 census-designated place in:
   - Quinault Reservation
   - Grays Harbor County, Washington

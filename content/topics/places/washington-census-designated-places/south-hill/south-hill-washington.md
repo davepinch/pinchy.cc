@@ -7,6 +7,7 @@ adjacent to:
   - Graham, Washington
   - Frederickson, Washington
   - Summit View, Washington
+apple maps: "https://maps.apple/p/U.5bu14sy3YaZW"
 census-designated place in:
   - Pierce County, Washington
   - Washington

@@ -3,6 +3,7 @@ title: "Startup, Washington"
 adjacent to:
   - May Creek, Washington
   - Sultan, Washington
+apple maps: "https://maps.apple/p/duCkUncGBvaEX~"
 census-designated place in:
   - Snohomish County, Washington
   - Washington

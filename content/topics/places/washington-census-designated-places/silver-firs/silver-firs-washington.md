@@ -6,6 +6,7 @@ adjacent to:
   - Clearview, Washington
   - Mill Creek East, Washington
   - Eastmont, Washington
+apple maps: "https://maps.apple/p/3ayeN3HPVK~EDA"
 census-designated place in:
   - Snohomish County, Washington
   - Washington
