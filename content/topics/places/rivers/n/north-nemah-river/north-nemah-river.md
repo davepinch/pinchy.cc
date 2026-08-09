@@ -2,6 +2,7 @@
 title: "North Nemah River"
 gnis feataure: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1507087"
 openstreetmap: "https://www.openstreetmap.org/relation/11088387"
+opposite: South Nemah River
 river in:
   - Nemah River-Estuary Wildlife Area Unit
   - Nemah Tidelands

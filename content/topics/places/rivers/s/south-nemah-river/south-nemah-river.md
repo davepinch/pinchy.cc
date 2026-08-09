@@ -1,6 +1,7 @@
 ---
 title: "South Nemah River"
 openstreetmap: "https://www.openstreetmap.org/relation/11085649"
+opposite: North Nemah River
 river in:
   - South Nemah Natural Resources Conservation Area
   - Nemah River-Estuary Wildlife Area Unit
