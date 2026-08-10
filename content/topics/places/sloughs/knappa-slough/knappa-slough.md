@@ -13,6 +13,7 @@ slough in:
   - Clatsop County, Oregon
   - Oregon
 slough of: Karlson Island
+vicinity to: Knappa, Oregon
 tags:
   - slough
   - no Wikidata record
