@@ -10,6 +10,8 @@ state park in:
   - Pacific County, Washington
   - Washington
 state park of:
+  - Benson Beach
+  - Cape Disappointment
   - Columbia River
   - Fort Canby
 wikidata: "https://www.wikidata.org/wiki/Q1034391"

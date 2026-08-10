@@ -6,6 +6,8 @@ peninsula in:
   - Pacific County, Washington
   - Washington
 peninsula of:
+  - Benson Beach
+  - Fort Canby
   - Leadbetter Point State Park
   - Long Beach, Washington
   - Ocean Park, Washington

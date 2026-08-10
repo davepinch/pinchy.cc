@@ -7,6 +7,7 @@ national park in:
   - Pacific County, Washington
   - Washington
 national park of:
+  - Benson Beach
   - Cape Disappointment
   - Columbia River
   - Pacific Ocean
