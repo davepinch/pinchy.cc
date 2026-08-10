@@ -2,6 +2,7 @@
 title: "Nestucca River"
 openstreetmap: "https://www.openstreetmap.org/relation/16753067"
 river in:
+  - Pacific City, Oregon
   - Tillamook County, Oregon
   - Oregon
 tributary of: Pacific Ocean
