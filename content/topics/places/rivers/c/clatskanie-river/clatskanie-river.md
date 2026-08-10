@@ -7,7 +7,9 @@ openstreetmap:
 river in:
   - Columbia County, Oregon
   - Oregon
-tributary of: Columbia River
+tributary of:
+  - Wallace Slough
+  - Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q5128588"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Clatskanie_River"
 tags:
