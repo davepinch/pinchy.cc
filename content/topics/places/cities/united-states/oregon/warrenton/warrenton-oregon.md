@@ -4,6 +4,7 @@ across the bay from: Astoria, Oregon
 adjacent to:
   - Fort Stevens State Park
   - Lewis and Clark National Historical Park
+apple maps: "https://maps.apple/p/eiF87rPW-_yjys"
 city in:
   - Clatsop County, Oregon
   - Oregon

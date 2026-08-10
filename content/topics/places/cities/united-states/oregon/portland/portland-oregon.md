@@ -1,5 +1,6 @@
 ---
 title: "Portland, Oregon"
+apple maps: "https://maps.apple/p/Trq~L.9xV9gt~n"
 city of: Oregon
 openstreetmap: "https://www.openstreetmap.org/relation/186579"
 wikidata: "https://www.wikidata.org/entity/Q6106"

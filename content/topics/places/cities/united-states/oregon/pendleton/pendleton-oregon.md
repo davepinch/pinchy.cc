@@ -1,5 +1,6 @@
 ---
 title: "Pendleton, Oregon"
+apple maps: "https://maps.apple/p/Zi6Th8VDdUPdXr"
 city in:
   - Umatilla County, Oregon
   - Oregon

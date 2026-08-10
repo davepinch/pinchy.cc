@@ -1,5 +1,6 @@
 ---
 title: "Prineville, Oregon"
+apple maps: "https://maps.apple/p/5quK8SPdDUeAeK"
 city of: Oregon
 openstreetmap: "https://www.openstreetmap.org/relation/186812"
 wikidata: "https://www.wikidata.org/entity/Q330678"

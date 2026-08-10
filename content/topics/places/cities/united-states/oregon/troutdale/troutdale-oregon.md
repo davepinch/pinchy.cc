@@ -1,6 +1,7 @@
 ---
 title: "Troutdale, Oregon"
 across the Columbia from: Camas, Washington
+apple maps: "https://maps.apple/p/EngDcnnVVej9w7"
 city in:
   - Multnomah County, Oregon
   - Oregon

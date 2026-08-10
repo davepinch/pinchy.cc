@@ -1,5 +1,6 @@
 ---
 title: "Saint Helens, Oregon"
+apple maps: "https://maps.apple/p/7JtMwIhgIZ1qWz"
 city in:
   - Columbia County, Oregon
   - Oregon

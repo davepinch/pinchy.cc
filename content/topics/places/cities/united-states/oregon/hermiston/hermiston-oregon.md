@@ -1,5 +1,6 @@
 ---
 title: "Hermiston, Oregon"
+apple maps: "https://maps.apple/p/hoGut.zpr7QqS8"
 city of:
   - Oregon
   - Interstate 82
