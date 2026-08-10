@@ -6,6 +6,7 @@ creek in:
   - Washington
   - Cascade Range
 description: Youngs Creek has two notable waterfalls in the Marckworth State Forest. Both waterfalls are easily accessed from the road. A Discover Pass is required.
+not to be confused with: Youngs River
 TODO: find, create, or edit a comprehensive OpenStreetMap relation/way for Youngs Creek. The current OSM link does not seem to include some parts in the far upper stream section of the creek.
 trip reports:
   - "[Marckworth Forest / Youngs Creek — Sunday, May. 26, 2019 (wta.org)](https://www.wta.org/go-hiking/trip-reports/trip_report.2019-05-26.2035552093)"
