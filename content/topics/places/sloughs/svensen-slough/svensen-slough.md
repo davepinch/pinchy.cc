@@ -7,6 +7,7 @@ connects to:
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1160973"
 slough in:
   - Columbia River
+  - Svensen, Oregon
   - Clatsop County, Oregon
   - Oregon
 slough of: Svensen Island
