@@ -10,7 +10,9 @@ fort of:
   - U.S. Route 101
 note: >-
   Wikipedia discusses this fort under the [Fort Columbia State Park](/en.wikipedia.org/wiki/Fort_Columbia_State_Park/) article. Wikidata and Wikipedia do not have dedicated pages for this fort.
-vicinity to: Fort Canby
+vicinity to:
+  - Fort Canby
+  - Fort Stevens
 tags:
   - decommissioned
   - fort
