@@ -1,7 +1,10 @@
 ---
 title: "Prineville, Oregon"
 apple maps: "https://maps.apple/p/5quK8SPdDUeAeK"
-city of: Oregon
+city of:
+  - Crook County, Oregon
+  - Oregon
+county seat of: Crook County, Oregon
 openstreetmap: "https://www.openstreetmap.org/relation/186812"
 wikidata: "https://www.wikidata.org/entity/Q330678"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Prineville,_Oregon"
