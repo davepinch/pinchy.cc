@@ -7,7 +7,9 @@ retrieved: 2026-08-08
 type: website
 url: /en.wikipedia.org/wiki/Fort_Columbia_State_Park/
 website: "https://en.wikipedia.org/wiki/Fort_Columbia_State_Park"
-wikipedia of: Fort Columbia State Park
+wikipedia of:
+  - Fort Columbia State Park
+  - Fort Columbia
 tags:
   - Wikipedia
 ---
