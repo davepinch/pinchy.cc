@@ -7,7 +7,9 @@ retrieved: 2026-08-04
 type: website
 url: /en.wikipedia.org/wiki/Cape_Disappointment_State_Park/
 website: "https://en.wikipedia.org/wiki/Cape_Disappointment_State_Park"
-wikipedia of: Cape Disappointment State Park
+wikipedia of:
+  - Cape Disappointment State Park
+  - Fort Canby
 tags:
   - Wikipedia
 ---
