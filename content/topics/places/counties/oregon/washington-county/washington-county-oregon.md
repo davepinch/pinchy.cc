@@ -6,4 +6,5 @@ wikidata: "https://www.wikidata.org/wiki/Q484538"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_County,_Oregon"
 tags:
   - county
+  - county in Oregon
 ---
