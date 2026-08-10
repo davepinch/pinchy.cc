@@ -13,6 +13,7 @@ state park of:
   - Benson Beach
   - Cape Disappointment
   - Columbia River
+  - McKenzie Head
   - Fort Canby
 wikidata: "https://www.wikidata.org/wiki/Q1034391"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Cape_Disappointment_State_Park"
