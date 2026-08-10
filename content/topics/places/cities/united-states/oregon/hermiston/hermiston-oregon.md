@@ -2,6 +2,7 @@
 title: "Hermiston, Oregon"
 apple maps: "https://maps.apple/p/hoGut.zpr7QqS8"
 city of:
+  - Umatilla County, Oregon
   - Oregon
   - Interstate 82
 openstreetmap: "https://www.openstreetmap.org/relation/186741"
