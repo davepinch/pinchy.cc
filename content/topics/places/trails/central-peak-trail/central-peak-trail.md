@@ -1,5 +1,6 @@
 ---
 title: "Central Peak Trail"
+apple maps: "https://maps.apple/p/QTBoEcRLg3Ebom"
 connects to:
   - Bullitt Fireplace Trail
   - Old Griz Trail
