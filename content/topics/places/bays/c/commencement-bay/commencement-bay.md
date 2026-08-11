@@ -7,7 +7,7 @@ bay in:
 bay of:
   - Browns Point
   - Browns Point, Washington
-  - Port Defiance Park
+  - Point Defiance Park
   - Ruston, Washington
   - Tacoma, Washington
 connects to:
