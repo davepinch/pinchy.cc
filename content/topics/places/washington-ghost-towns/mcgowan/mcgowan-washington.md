@@ -6,7 +6,7 @@ ghost town in:
   - Washington
 ghost town of:
   - Columbia River
-  - Washington State Route 401
+  - U.S. Route 101
 openstreetmap: "https://www.openstreetmap.org/node/150939631"
 wikidata: "https://www.wikidata.org/wiki/Q15252537"
 tags:
