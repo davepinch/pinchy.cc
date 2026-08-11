@@ -10,7 +10,7 @@ state park in:
   - Long Beach Peninsula
   - Pacific County, Washington
   - Washington
-start park of:
+state park of:
   - Pacific Ocean
   - Willapa Bay
 wikidata: "https://www.wikidata.org/wiki/Q1810449"
