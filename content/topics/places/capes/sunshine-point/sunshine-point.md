@@ -4,7 +4,7 @@ cape in:
   - Pacific County, Washington
   - Washington
 cape of:
-  - Noselle River
+  - Naselle River
   - Willapa Bay
 description: A cape on the mainland of Noselle River across from Paradise Point of Long Island
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1508847"
