@@ -7,7 +7,7 @@ retrieved: 2026-08-11
 type: website
 url: /en.wikipedia.org/wiki/Franklin_D._Roosevelt_Lake/
 website: "https://en.wikipedia.org/wiki/Franklin_D._Roosevelt_Lake"
-wikipedia of: Franklin D. Roosevelt Lake
+wikipedia of: Lake Roosevelt
 tags:
   - Wikipedia
 ---
