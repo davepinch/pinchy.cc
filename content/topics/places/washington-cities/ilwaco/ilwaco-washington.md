@@ -1,5 +1,6 @@
 ---
 title: "Ilwaco, Washington"
+apple maps: "https://maps.apple/p/39CXAJoC_KBzAZ"
 city in:
   - Pacific County, Washington
   - Washington

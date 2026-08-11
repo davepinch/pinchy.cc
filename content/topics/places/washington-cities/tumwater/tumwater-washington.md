@@ -1,6 +1,7 @@
 ---
 title: "Tumwater, Washington"
 adjacent to: Olympia, Washington
+apple maps: "https://maps.apple/p/QSr4wSFvpRE.yR"
 city of:
   - Thurston County, Washington
   - Washington

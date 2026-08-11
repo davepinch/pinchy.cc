@@ -7,6 +7,7 @@ adjacent to:
   - Lake Stickney, Washington
   - Mukilteo, Washington
   - Port Gardner
+apple maps: "https://maps.apple/p/H-xaV.9QNS9yEA"
 census profile: "https://data.census.gov/profile/Everett_city,_Washington?g=160XX00US5322640"
 city of:
   - Snohomish County, Washington

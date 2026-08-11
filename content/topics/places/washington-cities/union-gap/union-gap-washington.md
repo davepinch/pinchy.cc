@@ -1,6 +1,7 @@
 ---
 title: "Union Gap, Washington"
 adjacent to: Yakima, Washington
+apple maps: "https://maps.apple/p/Pc-3c6PiPj0Jyb"
 city of:
   - Yakima County, Washington
   - Washington

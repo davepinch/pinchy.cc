@@ -1,6 +1,7 @@
 ---
 title: "Stanwood, Washington"
 adjacent to: Northwest Stanwood, Washington
+apple maps: "https://maps.apple/p/6Fq3oE9bqG_F1~"
 census profile: "https://data.census.gov/profile/Stanwood_city,_Washington?g=160XX00US5367455"
 city of:
   - Snohomish County, Washington

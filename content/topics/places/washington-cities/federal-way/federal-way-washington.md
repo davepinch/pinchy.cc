@@ -14,6 +14,7 @@ adjacent to:
   - East Passage
   - Puget Sound
   - Salish Sea
+apple maps: "https://maps.apple/p/YIpICpI3s~Lg5U"
 city of:
   - King County, Washington
   - Washington

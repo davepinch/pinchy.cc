@@ -5,6 +5,7 @@ adjacent to:
   - Cougar Mountain Regional Wildland Park
   - Renton, Washington
   - Lake Washington
+apple maps: "https://maps.apple/p/fmJxBk2IbWb0Sk"
 census profile: "https://data.census.gov/profile/Newcastle_city,_Washington?g=160XX00US5348645"
 city of:
   - King County, Washington

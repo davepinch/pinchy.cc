@@ -8,6 +8,7 @@ adjacent to:
   - Lake Forest Park, Washington
   - Mountlake Terrace, Washington
   - Lynnwood, Washington
+apple maps: "https://maps.apple/p/3aSQyerb8SnLsE"
 census profile: "https://data.census.gov/profile/Brier_city,_Washington?g=160XX00US5307940"
 city of:
   - Snohomish County, Washington

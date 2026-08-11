@@ -1,5 +1,6 @@
 ---
 title: "Pasco, Washington"
+apple maps: "https://maps.apple/p/V2E2_H21qPBvLi"
 city of:
   - Franklin County, Washington
   - Washington

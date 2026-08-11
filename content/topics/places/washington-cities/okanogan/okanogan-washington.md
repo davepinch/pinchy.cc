@@ -1,5 +1,6 @@
 ---
 title: "Okanogan, Washington"
+apple maps: "https://maps.apple/p/7H7ohwz~07cBbU"
 city of:
   - Okanogan County, Washington
   - Washington

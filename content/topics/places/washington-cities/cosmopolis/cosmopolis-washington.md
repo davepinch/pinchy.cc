@@ -1,6 +1,7 @@
 ---
 title: "Cosmopolis, Washington"
 adjacent to: Aberdeen, Washington
+apple maps: "https://maps.apple/p/ctQfcAnH6Qt~-c"
 city of:
   - Grays Harbor County, Washington
   - Washington

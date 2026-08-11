@@ -1,5 +1,6 @@
 ---
 title: "Woodland, Washington"
+apple maps: "https://maps.apple/p/H3PFRMMjQna_tm"
 city in:
   - Cowlitz County, Washington
   - Clark County, Washington

@@ -6,6 +6,7 @@ adjacent to:
   - Union Gap, Washington
   - Ahtanum, Washington
   - Summitview, Washington
+apple maps: "https://maps.apple/p/k6VV._sgpVsG-L"
 census profile: "https://data.census.gov/profile/Yakima_city,_Washington?g=160XX00US5380010"
 city of:
   - Yakima County, Washington

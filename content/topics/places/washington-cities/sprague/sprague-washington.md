@@ -1,5 +1,6 @@
 ---
 title: "Sprague, Washington"
+apple maps: "https://maps.apple/p/GwY.XYZBDSBa-3"
 census profile: "https://data.census.gov/profile/Sprague_city,_Washington?g=160XX00US5367175"
 city of:
   - Lincoln County, Washington

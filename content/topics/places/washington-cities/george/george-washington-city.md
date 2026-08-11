@@ -1,5 +1,6 @@
 ---
 title: "George, Washington"
+apple maps: "https://maps.apple/p/z~chTzYyMKz1Bt"
 city of:
   - Grant County, Washington
   - Washington

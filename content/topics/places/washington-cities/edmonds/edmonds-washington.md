@@ -11,6 +11,7 @@ adjacent to:
   - Shoreline, Washington
   - Woodway, Washington
   - Puget Sound
+apple maps: "https://maps.apple/p/H3Z617_RxGvrbh"
 census profile: "https://data.census.gov/profile/Edmonds_city,_Washington?g=160XX00US5320750"
 city of:
   - Snohomish County, Washington

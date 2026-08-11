@@ -1,5 +1,6 @@
 ---
 title: "Long Beach, Washington"
+apple maps: "https://maps.apple/p/HzUkA2F-5AN6-o"
 city in:
   - Long Beach Peninsula
   - Pacific County, Washington

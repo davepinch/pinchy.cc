@@ -11,6 +11,7 @@ adjacent to:
   - Medina, Washington
   - Clyde Hill, Washington
   - Kirkland, Washington
+apple maps: "https://maps.apple/p/pz.z8_pHvTZQ51"
 census profile: "https://data.census.gov/profile/Bellevue_city,_Washington?g=160XX00US5305210"
 city of:
   - King County, Washington

@@ -5,6 +5,7 @@ adjacent to:
   - South Bay
   - Cohassett Beach, Washington
   - Pacific Ocean
+apple maps: "https://maps.apple/p/fg-7AuSR3X3dUK"
 city of:
   - Grays Harbor County, Washington
   - Washington

@@ -7,6 +7,7 @@ adjacent to:
   - unnamed Pierce County, Washington
   - Sumner, Washington
   - Edgewood, Washington
+apple maps: "https://maps.apple/p/1kZyxWy~8-TuyE"
 city of:
   - King County, Washington
   - Pierce County, Washington

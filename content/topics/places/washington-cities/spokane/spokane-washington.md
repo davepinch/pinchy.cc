@@ -1,5 +1,6 @@
 ---
 title: "Spokane, Washington"
+apple maps: "https://maps.apple/p/I4oQii.SW3UX1v"
 city of:
   - Spokane County, Washington
   - Washington

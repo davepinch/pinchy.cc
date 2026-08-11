@@ -3,6 +3,7 @@ title: "Granite Falls, Washington"
 adjacent to:
   - Canyon Creek, Washington
   - Lake Bosworth, Washington
+apple maps: "https://maps.apple/p/bUCzL5To3ohb6_"
 census profile: "https://data.census.gov/profile/Granite_Falls_city,_Washington?g=160XX00US5327995"
 city of:
   - Snohomish County, Washington

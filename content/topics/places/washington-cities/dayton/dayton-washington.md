@@ -1,5 +1,6 @@
 ---
 title: "Dayton, Washington"
+apple maps: "https://maps.apple/p/uD0mCLvqc9bIP9"
 city of:
   - Palouse
   - Columbia County, Washington

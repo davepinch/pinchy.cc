@@ -6,6 +6,7 @@ adjacent to:
   - Kirkland, Washington
   - Bellevue, Washington
   - Medina, Washington
+apple maps: "https://maps.apple/p/7t~NPsP7uoo_JC"
 census profile: "https://data.census.gov/profile/Clyde_Hill_city,_Washington?g=160XX00US5313365"
 city of:
   - King County, Washington

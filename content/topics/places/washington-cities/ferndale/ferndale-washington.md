@@ -1,6 +1,7 @@
 ---
 title: "Ferndale, Washington"
 adjacent to: Marietta-Alderwood, Washington
+apple maps: "https://maps.apple/p/YIpICpI3s~Lg5U"
 census profile: "https://data.census.gov/profile/Ferndale_city,_Washington?g=160XX00US5323620"
 city of:
   - Whatcom County, Washington

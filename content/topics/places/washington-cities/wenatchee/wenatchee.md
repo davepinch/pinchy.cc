@@ -1,5 +1,6 @@
 ---
 title: "Wenatchee, Washington"
+apple maps: "https://maps.apple/p/Ta7ZR3F20DBSW0"
 city of:
   - BNSF Columbia River Subdivision
   - BNSF Scenic Subdivision

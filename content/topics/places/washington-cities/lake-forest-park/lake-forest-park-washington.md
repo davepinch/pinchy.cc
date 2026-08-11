@@ -10,6 +10,7 @@ adjacent to:
   - Lake City, Seattle
   - Cedar Park, Seattle
   - Shoreline, Washington
+apple maps: "https://maps.apple/p/qjNPEp_RnQszUd"
 census profile: "https://data.census.gov/profile/Lake_Forest_Park_city,_Washington?g=160XX00US5337270"
 city of:
   - King County, Washington

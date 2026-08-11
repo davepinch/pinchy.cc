@@ -1,5 +1,6 @@
 ---
 title: "Castle Rock, Washington"
+apple maps: "https://maps.apple/p/8nmzTysk~t1_cm"
 city of:
   - Cowlitz County, Washington
   - Washington

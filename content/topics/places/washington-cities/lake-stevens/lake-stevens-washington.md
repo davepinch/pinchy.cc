@@ -6,6 +6,7 @@ adjacent to:
   - Machias, Washington
   - Cavalero, Washington
   - Bunk Foss, Washington
+apple maps: "https://maps.apple/p/E17Xo2m0ecIxc2"
 census profile: "https://data.census.gov/profile/Lake_Stevens_city,_Washington?g=160XX00US5337900"
 city of:
   - Snohomish County, Washington

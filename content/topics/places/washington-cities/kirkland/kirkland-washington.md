@@ -11,6 +11,7 @@ adjacent to:
   - Yarrow Point, Washington
   - Hunts Point, Washington
   - Medina, Washington
+apple maps: "https://maps.apple/p/DuBTUoMyG37TxF"
 census profile: "https://data.census.gov/profile/Kirkland_city,_Washington?g=160XX00US5335940"
 city of:
   - King County, Washington

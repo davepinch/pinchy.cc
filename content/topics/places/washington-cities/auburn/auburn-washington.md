@@ -12,6 +12,7 @@ adjacent city:
   - Lakeland South, Washington  
   - Federal Way, Washington
   - Lakeland North, Washington
+apple maps: "https://maps.apple/p/J8bGIkGN_xivn6"
 city of:
   - King County, Washington
   - Washington

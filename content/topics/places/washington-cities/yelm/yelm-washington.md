@@ -1,6 +1,7 @@
 ---
 title: "Yelm, Washington"
 adjacent to: North Yelm, Washington
+apple maps: "https://maps.apple/p/dD2zYSSPwkwpyv"
 census profile: "https://data.census.gov/profile/Yelm_city,_Washington?g=160XX00US5380220"
 city in:
   - Thurston County, Washington

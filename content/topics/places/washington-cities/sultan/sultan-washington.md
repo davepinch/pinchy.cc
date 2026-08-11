@@ -4,6 +4,7 @@ adjacent to:
   - Startup, Washington
   - Skykomish River
   - North Sultan, Washington
+apple maps: "https://maps.apple/p/jSwYrHfLoNzPtq"
 census profile: "https://data.census.gov/profile/Sultan_city,_Washington?g=160XX00US5368260"
 city of:
   - Skykomish River

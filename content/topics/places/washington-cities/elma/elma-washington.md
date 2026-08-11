@@ -1,6 +1,7 @@
 ---
 title: "Elma, Washington"
 adjacent to: Satsop, Washington
+apple maps: "https://maps.apple/p/84C-MR5I32L3yB"
 city of:
   - Grays Harbor County, Washington
   - Washington

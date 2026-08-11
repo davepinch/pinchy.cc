@@ -5,6 +5,7 @@ adjacent to:
   - Sammamish, Washington
   - Squak Mountain State Park
   - Bellevue, Washington
+apple maps: "https://maps.apple/p/wD0~InzdmDE9M0"
 city in:
   - King County, Washington
   - Washington

@@ -8,6 +8,7 @@ adjacent to:
   - Puyallup, Washington
   - unnamed Pierce County, Washington
   - Waller, Washington
+apple maps: "https://maps.apple/p/Ht-Jdy1QXrYT1a"
 city of:
   - Pierce County, Washington
   - Washington

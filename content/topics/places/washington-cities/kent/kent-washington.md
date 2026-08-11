@@ -14,6 +14,7 @@ adjacent to:
   - Maple Valley, Washington
   - Black Diamond, Washington
   - Ravensdale, Washington
+apple maps: "https://maps.apple/p/Hq2IMqeY4f_x_W"
 city of:
   - King County, Washington
   - Washington

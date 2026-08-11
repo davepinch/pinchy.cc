@@ -5,6 +5,7 @@ adjacent to:
   - Hunts Point, Washington
   - Clyde Hill, Washington
   - Bellevue, Washington
+apple maps: "https://maps.apple/p/JgpT_AkJwKiQ0Q"
 census profile: "https://data.census.gov/profile/Medina_city,_Washington?g=160XX00US5344725"
 city of:
   - King County, Washington

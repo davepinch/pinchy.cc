@@ -9,6 +9,7 @@ adjacent to:
   - Shoreline, Washington
   - Point Wells
   - Puget Sound
+apple maps: "https://maps.apple/p/Rbmz5eZz.5ipoC"
 census profile: "https://data.census.gov/profile/Woodway_city,_Washington?g=160XX00US5379835"
 city of:
   - Snohomish County, Washington

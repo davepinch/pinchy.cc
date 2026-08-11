@@ -1,5 +1,6 @@
 ---
 title: "Bremerton, Washington"
+apple maps: "https://maps.apple/p/U~LamxU~856QW9"
 city of:
   - Kitsap County, Washington
   - Washington

@@ -1,5 +1,6 @@
 ---
 title: "Langley, Washington"
+apple maps: https://maps.apple/p/HMFzIRVDiDK_qg
 city of:
   - Island County, Washington
   - Washington

@@ -1,6 +1,7 @@
 ---
 title: "Chehalis, Washington"
 adjacent to: Centralia, Washington
+apple maps: "https://maps.apple/p/Wc43~jU~gjYPKy"
 city of:
   - Lewis County, Washington
   - Washington

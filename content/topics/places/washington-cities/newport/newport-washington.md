@@ -1,5 +1,6 @@
 ---
 title: "Newport, Washington"
+apple maps: "https://maps.apple/p/EFFTVMh4P0r9i5"
 city of:
   - Pend Oreille County, Washington
   - Washington

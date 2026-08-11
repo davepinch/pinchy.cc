@@ -1,5 +1,6 @@
 ---
 title: "Carnation, Washington"
+apple maps: "https://maps.apple/p/NkZt33aBjaa7cW"
 city in:
   - King County, Washington
   - Washington

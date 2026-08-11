@@ -4,6 +4,7 @@ adjacent to:
   - Kent, Washington
   - Maple Valley, Washington
   - Lake Morton-Berrydale, Washington
+apple maps: "https://maps.apple/p/m8Qve.zjLxyG_L"
 city of:
   - King County, Washington
   - Washington

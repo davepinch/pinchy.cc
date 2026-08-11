@@ -1,6 +1,7 @@
 ---
 title: "Blaine, Washington"
 adjacent to: Birch Bay, Washington
+apple maps: "https://maps.apple/p/NdQ~Wh37XNgr10"
 census profile: "https://data.census.gov/profile/Blaine_city,_Washington?g=160XX00US5306505"
 city of:
   - Whatcom County, Washington

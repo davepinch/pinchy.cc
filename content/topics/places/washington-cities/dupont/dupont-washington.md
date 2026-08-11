@@ -6,6 +6,7 @@ adjacent to:
   - Joint Base Lewis-McChord
   - North Fort Lewis, Washington
   - Billy Frank Jr. Nisqually National Wildlife Refuge
+apple maps: "https://maps.apple/p/MuRgajUEiPRrt9"
 census profile: "https://data.census.gov/profile/DuPont_city,_Washington?g=160XX00US5318965"
 city of:
   - Pierce County, Washington

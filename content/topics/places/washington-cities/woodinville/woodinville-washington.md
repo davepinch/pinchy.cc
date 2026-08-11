@@ -6,6 +6,7 @@ adjacent to:
   - Cottage Lake, Washington
   - Kirkland, Washington
   - Bothell, Washington
+apple maps: "https://maps.apple/p/tis-f3Y8orkt1T"
 census profile: "https://data.census.gov/profile/Woodinville_city,_Washington?g=160XX00US5379590"
 city of:
   - King County, Washington

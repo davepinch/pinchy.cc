@@ -12,6 +12,7 @@ adjacent to:
   - SeaTac, Washington
   - Burien, Washington
   - Boulevard Park, Washington
+apple maps: "https://maps.apple/p/CdIFw4DimJnSv7"
 city of:
   - King County, Washington
   - Washington

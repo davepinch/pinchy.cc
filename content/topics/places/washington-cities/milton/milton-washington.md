@@ -7,6 +7,7 @@ adjacent to:
   - Edgewood, Washington
   - Fife, Washington
   - Fife Heights, Washington
+apple maps: "https://maps.apple/p/378EtiDP~dDUyY"
 city of:
   - King County, Washington
   - Pierce County, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Leavenworth, Washington"
+apple maps: "https://maps.apple/p/0QAAMxC5NmfI2B"
 city of:
   - Chelan County, Washington
   - Washington

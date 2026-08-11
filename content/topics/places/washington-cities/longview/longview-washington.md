@@ -1,5 +1,6 @@
 ---
 title: "Longview, Washington"
+apple maps: "https://maps.apple/p/9Vd9vdTQvqkXLT"
 city of:
   - Columbia River
   - Cowlitz County, Washington

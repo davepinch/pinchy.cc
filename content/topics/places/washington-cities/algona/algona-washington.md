@@ -4,6 +4,7 @@ adjacent to:
   - Auburn, Washington
   - Pacific, Washington
   - Lakeland South, Washington
+apple maps: "https://maps.apple/p/3I2yUjEWPdvKdX"
 city of:
   - King County, Washington
   - Washington

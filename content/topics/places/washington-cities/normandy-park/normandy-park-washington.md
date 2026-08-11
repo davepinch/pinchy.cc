@@ -6,6 +6,7 @@ adjacent to:
   - Des Moines, Washington
   - Puget Sound
   - East Passage
+apple maps: "https://maps.apple/p/jNS_K8XfLgvI6w"
 city of:
   - King County, Washington
   - Washington

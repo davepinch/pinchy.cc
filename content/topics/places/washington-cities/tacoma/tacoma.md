@@ -14,6 +14,7 @@ adjacent to:
   - Lakewood, Washington
   - University Place, Washington
   - Fircrest, Washington
+apple maps: "https://maps.apple/p/Io.XstTR9pFVIN"
 city in:
   - Pierce County, Washington
   - Washington

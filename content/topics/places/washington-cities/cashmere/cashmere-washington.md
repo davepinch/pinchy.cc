@@ -1,5 +1,6 @@
 ---
 title: "Cashmere, Washington"
+apple maps: "https://maps.apple/p/kJsxLq5SjQ2TC7"
 city of:
   - Chelan County, Washington
   - Washington

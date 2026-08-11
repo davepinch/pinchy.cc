@@ -8,6 +8,7 @@ adjacent to:
   - Kirkland, Washington
   - Lake Washington
   - Lake Forest Park, Washington
+apple maps: "https://maps.apple/p/VWuHfsuhwuvoQK"
 census profile: "https://data.census.gov/profile/Kenmore_city,_Washington?g=160XX00US5335170"
 city of:
   - King County, Washington

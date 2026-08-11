@@ -1,5 +1,6 @@
 ---
 title: "Walla Walla, Washington"
+apple maps: "https://maps.apple/p/Q09E3uyWmz~TvC"
 city of:
   - Walla Walla County, Washington
   - Washington

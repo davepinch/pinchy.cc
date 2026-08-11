@@ -1,5 +1,6 @@
 ---
 title: "Port Angeles, Washington"
+apple maps: "https://maps.apple/p/tg42fas.Aa6RM.z"
 city of:
   - Strait of Juan de Fuca
   - Clallam County, Washington

@@ -1,5 +1,6 @@
 ---
 title: "College Place, Washington"
+apple maps: "https://maps.apple/p/qnPFZZoDu9Vh5A"
 city of:
   - Walla Walla County, Washington
   - Washington

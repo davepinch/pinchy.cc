@@ -1,5 +1,6 @@
 ---
 title: "Ellensburg, Washington"
+apple maps: "https://maps.apple/p/bjGydojw6j5d.i"
 city of:
   - Kittitas County, Washington
   - Washington

@@ -6,6 +6,7 @@ adjacent to:
   - Silver Firs, Washington
   - Mill Creek East, Washington
   - Martha Lake, Washington
+apple maps: "https://maps.apple/p/HYdxNaG.HHgfh6"
 census profile: "https://data.census.gov/profile/Mill_Creek_city,_Washington?g=160XX00US5345865"
 city of:
   - Snohomish County, Washington

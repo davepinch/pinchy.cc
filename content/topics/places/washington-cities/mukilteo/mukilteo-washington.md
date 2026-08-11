@@ -5,6 +5,7 @@ adjacent to:
   - Paine Field
   - Picnic Point, Washington
   - Puget Sound
+apple maps: "https://maps.apple/p/LvsgFZc2WrJTQx"
 census profile: "https://data.census.gov/profile/Mukilteo_city,_Washington?g=160XX00US5347735"
 city of:
   - Snohomish County, Washington

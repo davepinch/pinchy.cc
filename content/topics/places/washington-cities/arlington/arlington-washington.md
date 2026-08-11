@@ -3,6 +3,7 @@ title: "Arlington, Washington"
 adjacent to:
   - Sisco Heights, Washington
   - Marysville, Washington
+apple maps: "https://maps.apple/p/HG~PejVzd0gvLT"
 census profile: "https://data.census.gov/profile/Arlington_city,_Washington?g=160XX00US5302585"
 city of:
   - Snohomish County, Washington

@@ -1,6 +1,7 @@
 ---
 title: "Sumas, Washington"
 adjacent to: Canada
+apple maps: "https://maps.apple/p/yNkhjRqvxb9L1N"
 census profile: "https://data.census.gov/profile/Sumas_city,_Washington?g=160XX00US5368330"
 city of:
   - Whatcom County, Washington

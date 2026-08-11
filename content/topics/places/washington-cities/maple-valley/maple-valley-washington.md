@@ -7,6 +7,7 @@ adjacent to:
   - Lake Morton-Berrydale, Washington
   - Covington, Washington
   - Shadow Lake, Washington
+apple maps: "https://maps.apple/p/W_QvkxAptpMj~f"
 city of:
   - King County, Washington
   - Washington

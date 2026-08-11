@@ -1,11 +1,13 @@
 ---
 title: "Burlington, Washington"
-borders:
+adjacent to:
   - Mount Vernon, Washington
   - Skagit River
-city of:
+apple maps: "https://maps.apple/p/zWg5d8ajdgrocL"
+city in:
   - Skagit County, Washington
   - Washington
+city of:
   - Interstate 5
   - Washington State Route 20
 openstreetmap: "https://www.openstreetmap.org/relation/237329"

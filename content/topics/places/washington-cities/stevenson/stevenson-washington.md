@@ -1,5 +1,6 @@
 ---
 title: "Stevenson, Washington"
+apple maps: "https://maps.apple/p/gBd0n78P6UzYRn"
 city in:
   - Columbia River Gorge National Scenic Area
   - Skamania County, Washington

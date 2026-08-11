@@ -1,6 +1,7 @@
 ---
 title: "Montesano, Washington"
 adjacent to: Brady, Washington
+apple maps: "https://maps.apple/p/xC11qo0a07yA3P"
 city of:
   - Grays Harbor County, Washington
   - Washington

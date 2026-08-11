@@ -10,6 +10,7 @@ adjacent to:
   - Puyallup, Washington
   - North Puyallup, Washington
   - Edgewood, Washington
+apple maps: "https://maps.apple/p/EkcXg~U4H0c.cG"
 census profile: "https://data.census.gov/profile/Sumner_city,_Washington?g=160XX00US5368435"
 city of:
   - Pierce County, Washington

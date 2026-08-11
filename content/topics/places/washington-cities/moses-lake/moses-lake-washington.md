@@ -1,5 +1,6 @@
 ---
 title: "Moses Lake, Washington"
+apple maps: "https://maps.apple/p/77hwnrvy.EJgYv"
 city of:
   - Grant County, Washington
   - Washington

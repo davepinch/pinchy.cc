@@ -8,6 +8,7 @@ adjacent to:
   - North Puyallup, Washington
   - Puyallup, Washington
   - Fife, Washington
+apple maps: "https://maps.apple/p/JdQkNWbwfLya3j"
 city of:
   - Pierce County, Washington
   - Washington

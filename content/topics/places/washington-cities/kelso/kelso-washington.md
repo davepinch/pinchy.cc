@@ -1,6 +1,7 @@
 ---
 title: "Kelso, Washington"
 adjacent to: Longview, Washington
+apple maps: "https://maps.apple/p/kk3WXrbu~n39Nk"
 city in:
   - Cowlitz County, Washington
   - Washington

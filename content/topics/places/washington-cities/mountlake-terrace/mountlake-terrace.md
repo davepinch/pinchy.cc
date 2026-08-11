@@ -8,6 +8,7 @@ adjacent to:
   - Shoreline, Washington
   - Edmonds, Washington
   - Lynnwood, Washington
+apple maps: "https://maps.apple/p/7SRS2Da_dQuvXb"
 census profile: "https://data.census.gov/profile/Mountlake_Terrace_city,_Washington?g=160XX00US5347490"
 city of:
   - Snohomish County, Washington

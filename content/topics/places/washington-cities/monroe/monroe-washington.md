@@ -4,6 +4,7 @@ adjacent to:
   - Monroe North, Washington
   - Chain Lake, Washington
   - Woods Creek, Washington
+apple maps: "https://maps.apple/p/C5qo3SuHuo820Y"
 census profile: "https://data.census.gov/profile/Monroe_city,_Washington?g=160XX00US5346685"
 city of:
   - Snohomish County, Washington

@@ -6,6 +6,7 @@ adjacent to:
   - Lake Cassidy, Washington
   - Lake Stevens, Washington
   - Everett, Washington
+apple maps: "https://maps.apple/p/9MTLB6U2IchbHV"
 census profile: "https://data.census.gov/profile/Marysville_city,_Washington?g=160XX00US5343955"
 city of:
   - Snohomish County, Washington

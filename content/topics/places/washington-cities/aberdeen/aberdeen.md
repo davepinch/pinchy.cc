@@ -3,6 +3,7 @@ title: "Aberdeen, Washington"
 adjacent to:
   - Cosmopolis, Washington
   - Hoquiam, Washington
+apple maps: "https://maps.apple/p/qe1jG6GzD~z~E4"
 city of:
   - Grays Harbor County, Washington
   - Washington

@@ -3,6 +3,7 @@ title: "Bellingham, Washington"
 adjacent to:
   - Marietta-Alderwood, Washington
   - Geneva, Washington
+apple maps: "https://maps.apple/p/nznh2EyW31CWq3"
 census profile: "https://data.census.gov/profile/Bellingham_city,_Washington?g=160XX00US5305280"
 city of:
   - Whatcom County, Washington
