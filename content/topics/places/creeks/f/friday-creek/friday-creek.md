@@ -2,7 +2,7 @@
 title: "Friday Creek"
 creek in:
   - Washington
-  - Whatom County, Washington
+  - Whatcom County, Washington
   - Pine Lake Wildlife Area Unit
   - Larrabee State Park
   - Skagit County, Washington
