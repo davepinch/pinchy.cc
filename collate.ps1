@@ -628,9 +628,9 @@ function Update-OfProperties($page, $suffix = "of") {
             else {
                 #
                 # The index does not exist. This is OK if the 
-                # value is a hyperlink. Otherwise issue a warning.
+                # value is a hyperlink or note. Otherwise issue a warning.
                 #
-                if ($propvalue -notmatch "^https?://") {
+                if ($propvalue -notmatch "^https?://|note:") {
                     Debug-Page `
                         $page `
                         "Property '$propkey' references non-existent title '$propvalue'"
