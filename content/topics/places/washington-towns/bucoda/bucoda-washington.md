@@ -10,7 +10,6 @@ town in:
 vicinity to: Tenino, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1510567"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bucoda,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Bucoda,_Washington"
 tags:
   - town
 ---
