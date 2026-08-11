@@ -6,6 +6,7 @@ city in:
   - Washington
 census profile: "https://data.census.gov/profile/Rainier_city,_Washington?g=160XX00US5357220"
 official website: "https://cityofrainierwa.org/"
+not to be confused with: Rainier, Oregon
 openstreetmap: "https://www.openstreetmap.org/relation/238004"
 vicinity of:
   - Deschutes River
