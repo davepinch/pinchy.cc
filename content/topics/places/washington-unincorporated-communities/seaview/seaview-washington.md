@@ -1,6 +1,7 @@
 ---
 title: "Seaview, Washington"
 unincorporated community in:
+  - Long Beach Peninsula
   - Pacific County, Washington
   - Washington
 unincorporated community of: Pacific Ocean
