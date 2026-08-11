@@ -7,7 +7,7 @@ retrieved: 2026-08-09
 type: website
 url: /en.wikipedia.org/wiki/Bear_River_(Washington)/
 website: "https://en.wikipedia.org/wiki/Bear_River_(Washington)"
-wikipedia of: Bear River (Washington)
+wikipedia of: Bear River
 tags:
   - Wikipedia
 ---
