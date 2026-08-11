@@ -1,5 +1,5 @@
 ---
-title: "Tolt MacDonald Park and Campground"
+title: "Tolt-MacDonald Park and Campground"
 also known as: John MacDonald Tolt River Park
 county park in:
   - Carnation, Washington
