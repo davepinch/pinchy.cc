@@ -7,7 +7,7 @@ retrieved: 2026-08-09
 type: website
 url: /en.wikipedia.org/wiki/Breakers_station/
 website: "https://en.wikipedia.org/wiki/Breakers_station"
-wikipedia of: Breakers station
+wikipedia of: Breakers Station
 tags:
   - Wikipedia
 ---
