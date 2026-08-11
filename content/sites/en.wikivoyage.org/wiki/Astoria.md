@@ -8,7 +8,7 @@ retrieved: 2026-08-10
 type: website
 url: /en.wikivoyage.org/wiki/Astoria/
 website: "https://en.wikivoyage.org/wiki/Astoria"
-wikivoyage of: Asotria, Oregon
+wikivoyage of: Astoria, Oregon
 tags:
   - website
   - Wikivoyage
