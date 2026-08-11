@@ -9,7 +9,7 @@ glacial erratic of:
 license: CC BY 4.0
 photograph by: David Pinch
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/4b/Possible_glacial_erratic_in_Scriber_Lake_Park.jpg"
-possible of: glacial erratic
+possibly of: glacial erratic
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Possible_glacial_erratic_in_Scriber_Lake_Park.jpg/330px-Possible_glacial_erratic_in_Scriber_Lake_Park.jpg"
 TODO: get a closeup of the boulder so someone can investigate remotely
 type: picture
