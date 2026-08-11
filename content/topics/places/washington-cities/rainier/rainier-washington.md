@@ -13,7 +13,6 @@ vicinity of:
   - Yelm, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1502285"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rainier,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/Rainier,_Washington"
 tags:
   - city
 ---
