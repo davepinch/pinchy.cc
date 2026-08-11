@@ -1,9 +1,10 @@
 ---
 title: "Naselle, Washington"
+census-designated place by: United States Census Bureau
 census-designated place in:
   - Pacific County, Washington
   - Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Washington State Route 401
 openstreetmap: "https://www.openstreetmap.org/relation/238186"
 vicinity to:
   - Naselle Highlights Natural Resources Conservation Area
