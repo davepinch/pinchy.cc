@@ -1,7 +1,7 @@
 ---
 title: "Klipsan Beach Life Saving Station"
 apple maps: "https://maps.apple/p/wJxgn.t8ppG009"
-building in:
+building of:
   - Long Beach Peninsula
   - Pacific County, Washington
   - Washington
