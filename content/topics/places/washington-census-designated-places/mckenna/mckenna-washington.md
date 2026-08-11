@@ -1,10 +1,11 @@
 ---
 title: "McKenna, Washington"
 apple maps: "https://maps.apple/p/pE0o20weV-Zsxq"
+census-designated place by: United States Census Bureau
 census-designated place in:
   - Pierce County, Washington
   - Washington
-census-designated place of: United States Census Bureau
+census-designated place of: Washington State Route 507
 census profile: "https://data.census.gov/profile/McKenna_CDP,_Washington?g=160XX00US5341645"
 openstreetmap: "https://www.openstreetmap.org/relation/18398570"
 vicinity to:

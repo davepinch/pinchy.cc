@@ -2,9 +2,10 @@
 title: "Roy, Washington"
 apple maps: "https://maps.apple/p/qnphdsqT_0srh0"
 census profile: "https://data.census.gov/profile/Roy_city,_Washington?g=160XX00US5360160"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
+city of: Washington State Route 507
 openstreetmap: "https://www.openstreetmap.org/relation/237685"
 vicinity to: Yelm, Washington
 wikidata: "https://www.wikidata.org/wiki/Q1515481"
