@@ -1,5 +1,5 @@
 ---
-title: "Spring Bloom for South Africa"
+title: "Spring Bloom for South Africa (visiblearth.nasa.gov)"
 author: "NASA Earth Observatory image by Lauren Dauphin, using MODIS data from NASA EOSDIS/LANCE and GIBS/Worldview. Story by Michael Carlowicz."
 excerpt: >-
   Large phytoplankton blooms tend to occur at intersections: between land and sea, between different ocean currents, and between seasons.
