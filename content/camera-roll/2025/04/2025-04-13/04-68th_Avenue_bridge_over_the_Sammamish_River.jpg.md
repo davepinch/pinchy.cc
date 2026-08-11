@@ -8,8 +8,8 @@ author: David Pinch
 description: "Standing on a dock on the Sammamish River at Rhododendron Park alongside the 68th Avenue bridge."
 license: CC BY 4.0
 other side of: Kenmore Boat Launch
-picture: "https://upload.wikimedia.org/wikipedia/commons/6/68/68th_Avenue_bridge_over_the_Sammamish_River.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/68th_Avenue_bridge_over_the_Sammamish_River.jpg/320px-68th_Avenue_bridge_over_the_Sammamish_River.jpg"
+picture: "https://upload.wikimedia.org/wikipedia/commons/6/68/68th_Avenue_bridge_over_the_Sammamish_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/68th_Avenue_bridge_over_the_Sammamish_River.jpg/330px-68th_Avenue_bridge_over_the_Sammamish_River.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/68th_Avenue_bridge_over_the_Sammamish_River.jpg/
 website: "https://commons.wikimedia.org/wiki/File:68th_Avenue_bridge_over_the_Sammamish_River.jpg"
