@@ -1,7 +1,7 @@
 ---
 title: "Fort Canby"
 fort in:
-  - Cape Disapointment State Park
+  - Cape Disappointment State Park
   - Long Beach Peninsula
   - Pacific County, Washington
   - Washington
