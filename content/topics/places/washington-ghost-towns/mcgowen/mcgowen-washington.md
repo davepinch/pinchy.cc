@@ -1,5 +1,5 @@
 ---
-title: "McGowen, Washington"
+title: "McGowan, Washington"
 ghost town in:
   - Lewis and Clark National Historical Park
   - Pacific County, Washington
