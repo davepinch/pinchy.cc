@@ -1,5 +1,6 @@
 ---
 title: "North Head"
+apple maps: "https://maps.apple/p/B3.n3LLtPE2T~6"
 cape in:
   - Cape Disappointment State Park
   - Long Beach Peninsula
