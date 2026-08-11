@@ -48,7 +48,7 @@ tourism map (1915) of:
   - Loomis Station
   - McKenzie Head
   - Megler, Washington
-  - McGowen, Washington
+  - McGowan, Washington
   - Nahcotta, Washington
   - Naselle River
   - Nehalem, Oregon
