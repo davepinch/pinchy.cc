@@ -3,7 +3,7 @@ title: "Robeson Channel"
 connects to:
   - Arctic Ocean
   - Hall Basin
-most northerly park of: Nares Strait
+most northerly part of: Nares Strait
 openstreetmap: "https://www.openstreetmap.org/relation/13828097"
 strait in:
   - Nares Strait
