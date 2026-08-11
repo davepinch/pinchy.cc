@@ -4,6 +4,7 @@ apple maps: "https://maps.apple/p/tYr0QiTBs0U1fT"
 city in:
   - Thurston County, Washington
   - Washington
+city of: Washington State Route 507
 census profile: "https://data.census.gov/profile/Rainier_city,_Washington?g=160XX00US5357220"
 official website: "https://cityofrainierwa.org/"
 not to be confused with: Rainier, Oregon
