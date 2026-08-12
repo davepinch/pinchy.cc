@@ -1,5 +1,5 @@
 ---
-title: "Rock Creek (East Fork Humtulips River tributary)"
+title: "Rock Creek (East Fork Humptulips River tributary)"
 creek in:
   - Rayonier Forest Resources
   - Olympic Peninsula
@@ -8,7 +8,7 @@ creek in:
 disambiguation of: Rock Creek
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1525115"
 openstreetmap: "https://www.openstreetmap.org/relation/12613999"
-tributary of: East Fork Humtulips River
+tributary of: East Fork Humptulips River
 wikidata: "https://www.wikidata.org/wiki/Q106504936"
 tags:
   - creek
