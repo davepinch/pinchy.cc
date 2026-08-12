@@ -7,7 +7,7 @@ retrieved: 2026-08-11
 type: website
 url: /en.wikiquote.org/wiki/John_F._Kennedy/
 website: "https://en.wikiquote.org/wiki/John_F._Kennedy"
-wikiquote of: John F> Kennedy
+wikiquote of: John F. Kennedy
 tags:
   - website
   - Wikiquote
