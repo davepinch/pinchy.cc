@@ -16,7 +16,6 @@ state of:
 up the atlantic coast: Maryland
 wikidata: "https://www.wikidata.org/wiki/Q1370"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Virginia"
-wikivoyage: "https://en.wikivoyage.org/wiki/Virginia"
 tags:
   - state
   - coastal state
