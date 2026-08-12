@@ -1,6 +1,6 @@
 ---
 title: "Togo"
-borders:
+adjacent to:
   - Benin
   - Burkina Faso
   - Ghana

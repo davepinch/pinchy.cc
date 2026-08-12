@@ -1,6 +1,6 @@
 ---
 title: "Birchwood Village, Minnesota"
-borders:
+adjacent to:
   - Mahtomedi, Minnesota
   - White Bear Lake
   - White Bear Lake, Minnesota

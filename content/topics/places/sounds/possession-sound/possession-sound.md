@@ -1,10 +1,10 @@
 ---
 title: "Possession Sound"
-apple maps: "https://maps.apple/p/0Wek1kZRM0Bth3"
-borders:
+adjacent to:
   - Snohomish County, Washington
   - Whidbey Island
   - incomplete list
+apple maps: "https://maps.apple/p/0Wek1kZRM0Bth3"
 sound of:
   - Puget Sound
   - Washington

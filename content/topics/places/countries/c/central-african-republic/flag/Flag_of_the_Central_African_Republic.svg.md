@@ -1,13 +1,13 @@
 ---
 title: "Flag of the Central African Republic (Wikimedia Commons)"
-author: "[Nightstallion](https://commons.wikimedia.org/wiki/User:Nightstallion)"
-borders:
+adjacent to:
   - Flag of Cameroon (Wikimedia Commons)
   - Flag of Chad (Wikimedia Commons)
   - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of the Republic of the Congo (Wikimedia Commons)
   - Flag of South Sudan (Wikimedia Commons)
   - Flag of Sudan (Wikimedia Commons)
+author: "[Nightstallion](https://commons.wikimedia.org/wiki/User:Nightstallion)"
 flag of:
   - Central African Republic
   - SVG

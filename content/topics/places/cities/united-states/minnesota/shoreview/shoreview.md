@@ -1,6 +1,6 @@
 ---
 title: "Shoreview, Minnesota"
-borders:
+adjacent to:
   - Arden Hills, Minnesota
   - Blaine, Minnesota
   - Circle Pines, Minnesota

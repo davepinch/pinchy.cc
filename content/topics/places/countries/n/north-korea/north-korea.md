@@ -1,6 +1,6 @@
 ---
 title: "North Korea"
-borders:
+adjacent to:
   - China
   - Russia
   - South Korea

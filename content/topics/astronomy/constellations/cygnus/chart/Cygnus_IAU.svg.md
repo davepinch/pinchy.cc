@@ -1,6 +1,6 @@
 ---
 title: "Cygnus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Cepheus_IAU.svg (Wikimedia Commons)
   - Draco_IAU.svg (Wikimedia Commons)
   - Lacerta_IAU.svg (Wikimedia Commons)

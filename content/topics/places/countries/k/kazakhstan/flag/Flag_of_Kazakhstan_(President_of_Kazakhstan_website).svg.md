@@ -1,7 +1,6 @@
 ---
 title: "Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)"
-author: akorda.kz
-borders:
+adjacent to:
   - Flag_of_Astrakhan_Oblast.svg (Wikimedia Commons)
   - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)
   - Flag_of_Kyrgyzstan.svg (Wikimedia Commons)
@@ -9,6 +8,7 @@ borders:
   - Flag_of_Turkmenistan.svg (Wikimedia Commons)
   - Flag_of_Uzbekistan.svg (Wikimedia Commons)
   - Flag_of_Volgograd_Oblast.svg (Wikimedia Commons)
+author: akorda.kz
 clockwise around the caspian sea: Flag_of_Turkmenistan.svg (Wikimedia Commons)
 flag of: Kazakhstan
 license: not protected by copyright (see page)

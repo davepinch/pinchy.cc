@@ -1,6 +1,6 @@
 ---
 title: "Maplewood, Minnesota"
-borders:
+adjacent to:
   - Little Canada, Minnesota
   - Newport, Minnesota
   - North Saint Paul, Minnesota

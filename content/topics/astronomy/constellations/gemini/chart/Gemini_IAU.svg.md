@@ -1,6 +1,6 @@
 ---
 title: "Gemini_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Auriga_IAU.svg (Wikimedia Commons)
   - Cancer_IAU.svg (Wikimedia Commons)
   - Canis_Minor_IAU.svg (Wikimedia Commons)

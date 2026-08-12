@@ -1,6 +1,6 @@
 ---
 title: "Andorra"
-borders:
+adjacent to:
   - France
   - Spain
 country of:

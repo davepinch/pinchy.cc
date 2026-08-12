@@ -1,6 +1,6 @@
 ---
 title: "Auriga"
-borders:
+adjacent to:
   - Camelopardalis
   - Gemini
   - Lynx

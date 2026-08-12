@@ -1,6 +1,6 @@
 ---
 title: "Lake of the Woods"
-borders:
+adjacent to:
   - Manitoba
   - Minnesota
   - Ontario

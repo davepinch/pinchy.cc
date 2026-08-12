@@ -1,6 +1,6 @@
 ---
 title: "Mongolia"
-borders:
+adjacent to:
   - China
   - Russia
 country of:

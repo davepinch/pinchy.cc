@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Ontario.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Manitoba.svg (Wikimedia Commons)
   - Flag_of_Michigan.svg (Wikimedia Commons)
   - Flag_of_Minnesota.svg (Wikimedia Commons)

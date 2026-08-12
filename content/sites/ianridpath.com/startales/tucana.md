@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Tucana (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Eridanus (ianridpath.com)
   - Star Tales - Grus (ianridpath.com)
   - Star Tales - Hydrus (ianridpath.com)

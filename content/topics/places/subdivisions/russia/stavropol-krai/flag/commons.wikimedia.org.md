@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)"
-borders:
+adjacent to:
   - Flag_of_the_Chechen_Republic.svg (Wikimedia Commons)
   - Flag_of_Dagestan.svg (Wikimedia Commons)
   - Flag_of_Kalmykia.svg (Wikimedia Commons)

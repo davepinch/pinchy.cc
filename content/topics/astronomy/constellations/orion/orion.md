@@ -1,6 +1,6 @@
 ---
 title: "Orion"
-borders:
+adjacent to:
   - Eridanus
   - Gemini
   - Lepus

@@ -1,6 +1,6 @@
 ---
 title: "New England"
-borders:
+adjacent to:
   - Atlantic Ocean
   - incomplete list
 region of: United States

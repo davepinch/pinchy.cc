@@ -1,6 +1,6 @@
 ---
 title: "Roseville, Minnesota"
-borders:
+adjacent to:
   - Arden Hills, Minnesota
   - Falcon Heights, Minnesota
   - Hennepin County, Minnesota

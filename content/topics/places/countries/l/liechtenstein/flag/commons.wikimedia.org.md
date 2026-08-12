@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Liechtenstein.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Austria.svg (Wikimedia Commons)
   - Flag_of_Switzerland_(Pantone).svg (Wikimedia Commons)
 flag of:

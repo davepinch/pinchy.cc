@@ -1,6 +1,6 @@
 ---
 title: "Monoceros"
-borders:
+adjacent to:
   - Canis Major
   - Canis Minor
   - Gemini

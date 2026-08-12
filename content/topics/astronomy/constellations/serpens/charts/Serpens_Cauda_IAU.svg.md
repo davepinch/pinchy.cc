@@ -1,6 +1,6 @@
 ---
 title: "Serpens_Cauda_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Aquila_IAU.svg (Wikimedia Commons)
   - Ophiuchus_IAU.svg (Wikimedia Commons)
   - Sagittarius_IAU.svg (Wikimedia Commons)

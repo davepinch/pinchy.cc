@@ -1,6 +1,6 @@
 ---
 title: "Flag of Morocco (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Algeria (Wikimedia Commons)
   - Bandera_de_España.svg (Wikimedia Commons)
   - incomplete list

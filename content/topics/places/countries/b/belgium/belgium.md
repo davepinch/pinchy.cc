@@ -1,6 +1,6 @@
 ---
 title: "Belgium"
-borders:
+adjacent to:
   - France
   - Germany
   - Luxembourg

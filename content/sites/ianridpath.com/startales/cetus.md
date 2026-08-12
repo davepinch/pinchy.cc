@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Cetus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Aquarius (ianridpath.com)
   - Star Tales - Aries (ianridpath.com)
   - Star Tales - Eridanus (ianridpath.com)

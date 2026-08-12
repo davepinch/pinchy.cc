@@ -1,6 +1,6 @@
 ---
 title: "Boötes"
-borders:
+adjacent to:
   - Canes Venatici
   - Coma Berenices
   - Corona Borealis

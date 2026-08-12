@@ -1,6 +1,6 @@
 ---
 title: "Reticulum"
-borders:
+adjacent to:
   - Dorado
   - Horologium
   - Hydrus

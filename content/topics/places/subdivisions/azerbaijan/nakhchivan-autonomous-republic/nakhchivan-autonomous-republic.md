@@ -1,6 +1,6 @@
 ---
 title: "Nakhchivan Autonomous Republic"
-borders:
+adjacent to:
   - Armedia
   - Iran
   - Turkey

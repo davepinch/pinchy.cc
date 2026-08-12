@@ -1,6 +1,6 @@
 ---
 title: "Horologium"
-borders:
+adjacent to:
   - Caelum
   - Dorado
   - Eridanus

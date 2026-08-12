@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Telescopium (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Ara (ianridpath.com)
   - Star Tales - Corona Australis (ianridpath.com)
   - Star Tales - Indus (ianridpath.com)

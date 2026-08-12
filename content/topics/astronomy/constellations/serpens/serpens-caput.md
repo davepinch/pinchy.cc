@@ -1,6 +1,6 @@
 ---
 title: "Serpens Caput"
-borders:
+adjacent to:
   - Boötes
   - Corona Borealis
   - Hercules

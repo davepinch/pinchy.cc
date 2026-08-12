@@ -1,6 +1,6 @@
 ---
 title: "Belarus"
-borders:
+adjacent to:
   - Latvia
   - Lithuania
   - Poland

@@ -1,6 +1,6 @@
 ---
 title: "Grant County, Washington"
-borders:
+adjacent to:
   - Adams County, Washington
   - Benton County, Washington
   - Douglas County, Washington

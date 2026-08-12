@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Ecuador.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Colombia.svg (Wikimedia Commons)
   - Flag_of_Peru.svg (Wikimedia Commons)
 flag of:

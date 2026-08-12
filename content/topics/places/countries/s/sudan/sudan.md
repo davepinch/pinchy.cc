@@ -1,6 +1,6 @@
 ---
 title: "Sudan"
-borders:
+adjacent to:
   - Central African Republic
   - Chad
   - Egypt

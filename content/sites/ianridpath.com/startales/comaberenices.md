@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Coma Berenices (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Boötes (ianridpath.com)
   - Star Tales - Canes Venatici (ianridpath.com)
   - Star Tales - Leo (ianridpath.com)

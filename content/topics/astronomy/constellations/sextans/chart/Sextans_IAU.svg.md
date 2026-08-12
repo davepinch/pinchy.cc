@@ -1,6 +1,6 @@
 ---
 title: "Sextans_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Crater_IAU.svg (Wikimedia Commons)
   - Hydra_IAU.svg (Wikimedia Commons)
   - Leo_IAU.svg (Wikimedia Commons)

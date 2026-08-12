@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Venezuela.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Brazil.svg (Wikimedia Commons)
   - Flag_of_Colombia.svg (Wikimedia Commons)
   - Flag_of_Guyana.svg (Wikimedia Commons)

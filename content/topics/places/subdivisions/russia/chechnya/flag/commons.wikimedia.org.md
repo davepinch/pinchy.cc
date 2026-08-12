@@ -1,11 +1,11 @@
 ---
 title: "Flag_of_the_Chechen_Republic.svg (Wikimedia Commons)"
-author: "[Lokal Profil](https://commons.wikimedia.org/wiki/User:Lokal_Profil)"
-borders:
+adjacent to:
   - Flag_of_Dagestan.svg (Wikimedia Commons)
   - Flag_of_Georgia.svg (Wikimedia Commons)
   - Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)
   - incomplete list
+author: "[Lokal Profil](https://commons.wikimedia.org/wiki/User:Lokal_Profil)"
 flag of:
   - Chechnya
   - horizontal

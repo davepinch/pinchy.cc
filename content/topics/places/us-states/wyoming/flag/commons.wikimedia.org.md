@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Wyoming.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Colorado.svg (Wikimedia Commons)
   - Flag_of_Idaho.svg (Wikimedia Commons)
   - Flag_of_Montana.svg (Wikimedia Commons)

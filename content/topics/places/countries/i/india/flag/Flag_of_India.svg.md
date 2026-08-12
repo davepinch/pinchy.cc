@@ -1,10 +1,8 @@
 ---
 title: "Flag_of_India.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons) #china
   - Flag_of_Pakistan.svg (Wikimedia Commons)
-  - incomplete list
-borders (maritime):
   - Flag_of_Thailand.svg (Wikimedia Commons)
   - incomplete list
 flag of:

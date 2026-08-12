@@ -1,6 +1,6 @@
 ---
 title: "Auriga_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Camelopardalis_IAU.svg (Wikimedia Commons)
   - Gemini_IAU.svg (Wikimedia Commons)
   - Lynx_IAU.svg (Wikimedia Commons)

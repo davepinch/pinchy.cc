@@ -1,6 +1,6 @@
 ---
 title: "Capricornus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Aquarius_IAU.svg (Wikimedia Commons)
   - Aquila_IAU.svg (Wikimedia Commons)
   - Microscopium_IAU.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Missouri"
-borders:
+adjacent to:
   - Arkansas
   - Illinois
   - Iowa

@@ -1,6 +1,6 @@
 ---
 title: "Flag of Botswana (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Namibia (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)

@@ -1,11 +1,11 @@
 ---
 title: "Howard Miller Steelhead Park"
-along state route 20 of: VISIT SOMEWHERE NEW
-apple maps: "https://maps.apple/p/nLxJL-R~KEKNgw"
-borders:
+adjacent to:
   - Rockport State Park
   - Rockport, Washington
   - Skagit River
+along state route 20 of: VISIT SOMEWHERE NEW
+apple maps: "https://maps.apple/p/nLxJL-R~KEKNgw"
 county park of:
   - Skagit County, Washington
   - Rockport, Washington

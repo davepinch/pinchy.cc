@@ -1,6 +1,6 @@
 ---
 title: "Coon Rapids, Minnesota"
-borders:
+adjacent to:
   - Blaine, Minnesota
   - Brooklyn Park, Minnesota
   - Champlin, Minnesota

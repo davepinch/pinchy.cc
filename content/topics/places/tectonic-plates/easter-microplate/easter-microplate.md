@@ -1,9 +1,9 @@
 ---
 title: "Easter Microplate"
-another microplate: Galápagos Microplate
-borders:
+adjacent to:
   - Nazca Plate
   - Pacific Plate
+another microplate: Galápagos Microplate
 tectonic plate of: Pacific Ocean
 west of: Easter Island
 wikidata: "https://www.wikidata.org/wiki/Q1344950"

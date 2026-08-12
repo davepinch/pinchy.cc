@@ -1,6 +1,6 @@
 ---
 title: "Idaho"
-borders:
+adjacent to:
   - British Columbia
   - Canada
   - Montana

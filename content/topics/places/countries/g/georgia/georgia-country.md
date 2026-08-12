@@ -1,6 +1,6 @@
 ---
 title: "Georgia (country)"
-borders:
+adjacent to:
   - Armenia
   - Azerbaijan
   - Black Sea

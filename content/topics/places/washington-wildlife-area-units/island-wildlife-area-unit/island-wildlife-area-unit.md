@@ -1,6 +1,6 @@
 ---
 title: "Island Wildlife Area Unit"
-borders:
+adjacent to:
   - Freshwater Slough
   - Deepwater Slough
   - Steamboat Slough (Skagit River)

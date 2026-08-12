@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Lyra (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Cygnus (ianridpath.com)
   - Star Tales - Draco (ianridpath.com)
   - Star Tales - Hercules (ianridpath.com)

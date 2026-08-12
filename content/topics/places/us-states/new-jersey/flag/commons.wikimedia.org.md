@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_New_Jersey.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Delaware.svg (Wikimedia Commons)
   - Flag_of_New_York.svg (Wikimedia Commons)
   - Flag_of_Pennsylvania.svg (Wikimedia Commons)

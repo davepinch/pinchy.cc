@@ -1,6 +1,6 @@
 ---
 title: "Lithuania"
-borders:
+adjacent to:
   - Baltic Sea
   - Belarus
   - Latvia

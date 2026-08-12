@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Fornax (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Cetus (ianridpath.com)
   - Star Tales - Eridanus (ianridpath.com)
   - Star Tales - Phoenix (ianridpath.com)

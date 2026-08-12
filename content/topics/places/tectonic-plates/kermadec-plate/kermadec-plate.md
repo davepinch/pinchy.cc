@@ -1,6 +1,6 @@
 ---
 title: "Kermadec Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Pacific Plate
   - Tonga Plate

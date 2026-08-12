@@ -1,10 +1,9 @@
 ---
 title: "Flag of Eritrea (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Djibouti (commons.wikimedia.org
   - Flag of Ethiopia (Wikimedia Commons)
   - Flag of Sudan (Wikimedia Commons)
-borders (maritime):
   - Flag_of_Yemen.svg (Wikimedia Commons)
 clockwise around the red sea: Flag of Sudan (Wikimedia Commons)
 flag of:

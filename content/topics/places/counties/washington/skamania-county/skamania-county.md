@@ -1,6 +1,6 @@
 ---
 title: "Skamania County, Washington"
-borders:
+adjacent to:
   - Clark County, Washington
   - Cowlitz County, Washington
   - Klickitat County, Washington

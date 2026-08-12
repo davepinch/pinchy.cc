@@ -1,6 +1,6 @@
 ---
 title: "Gem Lake, Minnesota"
-borders:
+adjacent to:
   - Vadnais Heights, Minnesota
   - White Bear Lake, Minnesota
   - White Bear Township

@@ -1,6 +1,6 @@
 ---
 title: "Chelan County, Washington"
-borders:
+adjacent to:
   - Douglas County, Washington
   - King County, Washington
   - Kittitas County, Washington

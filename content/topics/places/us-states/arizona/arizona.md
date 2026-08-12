@@ -1,6 +1,6 @@
 ---
 title: "Arizona"
-borders:
+adjacent to:
   - Baja California
   - California
   - Colorado

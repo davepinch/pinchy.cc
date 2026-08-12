@@ -1,6 +1,6 @@
 ---
 title: "Vadnais Heights, Minnesota"
-borders:
+adjacent to:
   - Gem Lake, Minnesota
   - Little Canada, Minnesota
   - Maplewood, Minnesota

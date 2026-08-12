@@ -1,7 +1,6 @@
 ---
 title: "Flag_of_Manitoba.svg (Wikimedia Commons)"
-author: James Leigh
-borders:
+adjacent to:
   - Flag_of_Minnesota.svg (Wikimedia Commons)
   - Flag_of_North_Dakota.svg (Wikimedia Commons)
   - Flag_of_the_Northwest_Territories.svg (Wikimedia Commons)
@@ -9,6 +8,7 @@ borders:
   - Flag_of_Ontario.svg (Wikimedia Commons)
   - Flag_of_Saskatchewan.svg (Wikimedia Commons)
   - Flag_of_the_United_States.svg (Wikimedia Commons)
+author: James Leigh
 flag of:
   - Manitoba
   - SVG

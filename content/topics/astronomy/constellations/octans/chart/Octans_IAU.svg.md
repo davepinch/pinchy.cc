@@ -1,6 +1,6 @@
 ---
 title: "Octans_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Apus_IAU.svg (Wikimedia Commons)
   - Chamaeleon_IAU.svg (Wikimedia Commons)
   - Hydrus_IAU.svg (Wikimedia Commons)

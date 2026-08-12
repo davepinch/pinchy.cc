@@ -1,6 +1,6 @@
 ---
 title: "Hydrus"
-borders:
+adjacent to:
   - Dorado
   - Eridanus
   - Horologium

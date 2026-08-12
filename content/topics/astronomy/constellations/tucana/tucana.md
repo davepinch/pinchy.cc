@@ -1,6 +1,6 @@
 ---
 title: "Tucana"
-borders:
+adjacent to:
   - Eridanus
   - Grus
   - Hydrus

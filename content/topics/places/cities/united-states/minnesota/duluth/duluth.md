@@ -1,6 +1,6 @@
 ---
 title: "Duluth, Minnesota"
-borders:
+adjacent to:
   - Lake Superior
   - Wisconsin
 city of:

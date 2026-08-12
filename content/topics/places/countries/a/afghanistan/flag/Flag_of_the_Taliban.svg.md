@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_the_Taliban.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)
   - Flag_of_Iran.svg (Wikimedia Commons)
   - Flag_of_Pakistan.svg (Wikimedia Commons)

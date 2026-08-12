@@ -1,11 +1,10 @@
 ---
 title: "Nicaragua"
-borders:
+adjacent to:
   - Caribbean Sea
   - Costa Rica
   - Honduras
   - Pacific Ocean
-borders (maritime):
   - Colombia
   - El Salvador
 country of:

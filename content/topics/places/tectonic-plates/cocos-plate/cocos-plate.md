@@ -1,6 +1,6 @@
 ---
 title: "Cocos Plate"
-borders:
+adjacent to:
   - Caribbean Plate
   - Galápagos Microplate
   - Nazca Plate

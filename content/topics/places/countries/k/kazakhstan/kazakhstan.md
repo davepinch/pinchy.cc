@@ -1,6 +1,6 @@
 ---
 title: "Kazakhstan"
-borders:
+adjacent to:
   - Astrakhan Oblast
   - Caspian Sea
   - China

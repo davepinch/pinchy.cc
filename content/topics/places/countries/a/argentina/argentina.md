@@ -1,6 +1,6 @@
 ---
 title: "Argentina"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Bolivia
   - Brazil

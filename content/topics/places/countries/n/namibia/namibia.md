@@ -1,6 +1,6 @@
 ---
 title: "Namibia"
-borders:
+adjacent to:
   - Angola
   - Atlantic Ocean
   - Botswana

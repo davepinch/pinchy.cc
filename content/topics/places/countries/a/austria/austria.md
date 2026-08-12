@@ -1,6 +1,6 @@
 ---
 title: "Austria"
-borders:
+adjacent to:
   - Czech Republic
   - Germany
   - Hungary

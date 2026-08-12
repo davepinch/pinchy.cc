@@ -1,6 +1,6 @@
 ---
 title: "Coma_Berenices_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Boötes_IAU.svg (Wikimedia Commons)
   - Canes_Venatici_IAU.svg (Wikimedia Commons)
   - Leo_IAU.svg (Wikimedia Commons)

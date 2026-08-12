@@ -1,6 +1,6 @@
 ---
 title: "Astrakhan Oblast"
-borders:
+adjacent to:
   - Caspian Sea
   - Kalmykia
   - Kazakhstan

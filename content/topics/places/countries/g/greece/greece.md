@@ -1,10 +1,6 @@
 ---
 title: "Greece"
-country of:
-  - Southeast Europe
-  - Europe
-  - Mediterranean Sea
-land borders:
+adjacent to:
   - Aegean Sea
   - Albania
   - Bulgaria
@@ -12,10 +8,12 @@ land borders:
   - Mediterranean Sea
   - North Macedonia
   - Turkey
-  - incomplete list
-maritime borders:
   - Libya
   - incomplete list
+country of:
+  - Southeast Europe
+  - Europe
+  - Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/192307"
 wikidata: "https://www.wikidata.org/wiki/Q41"
 tags:

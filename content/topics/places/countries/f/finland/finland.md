@@ -1,6 +1,6 @@
 ---
 title: "Finland"
-borders:
+adjacent to:
   - Baltic Sea
   - Norway
   - Russia

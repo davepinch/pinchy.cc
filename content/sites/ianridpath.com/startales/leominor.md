@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Leo Minor (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Cancer (ianridpath.com)
   - Star Tales - Leo (ianridpath.com)
   - Star Tales - Lynx (ianridpath.com)

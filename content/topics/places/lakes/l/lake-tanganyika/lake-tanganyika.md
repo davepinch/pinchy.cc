@@ -1,6 +1,6 @@
 ---
 title: "Lake Tanganyika"
-borders:
+adjacent to:
   - Burundi
   - Tanzania
   - Zambia

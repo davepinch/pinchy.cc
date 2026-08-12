@@ -1,6 +1,6 @@
 ---
 title: "Afton, Minnesota"
-borders:
+adjacent to:
   - Lakeland, Minnesota
   - Saint Croix River
   - Woodbury, Minnesota

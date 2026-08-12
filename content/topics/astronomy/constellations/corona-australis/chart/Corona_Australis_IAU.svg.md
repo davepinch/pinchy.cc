@@ -1,6 +1,6 @@
 ---
 title: "Corona_Australis_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Ara_IAU.svg (Wikimedia Commons)
   - Sagittarius_IAU.svg (Wikimedia Commons)
   - Scorpius_IAU.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Colombia"
-borders:
+adjacent to:
   - Brazil
   - Caribbean Sea
   - Central America

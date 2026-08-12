@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Grus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Indus (ianridpath.com)
   - Star Tales - Microscopium (ianridpath.com)
   - Star Tales - Phoenix (ianridpath.com)

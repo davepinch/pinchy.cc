@@ -1,6 +1,6 @@
 ---
 title: "Portugal"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Spain
 country of:

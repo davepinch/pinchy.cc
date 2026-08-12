@@ -1,6 +1,6 @@
 ---
 title: "Camelopardalis"
-borders:
+adjacent to:
   - Auriga
   - Cassiopeia
   - Cepheus

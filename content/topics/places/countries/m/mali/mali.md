@@ -1,6 +1,6 @@
 ---
 title: "Mali"
-borders:
+adjacent to:
   - Algeria
   - Burkina Faso
   - Ivory Coast

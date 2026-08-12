@@ -1,6 +1,6 @@
 ---
 title: "Denmark"
-borders:
+adjacent to:
   - Baltic Sea
   - Germany
   - Iceland

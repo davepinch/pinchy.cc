@@ -1,6 +1,6 @@
 ---
 title: "Norma"
-borders:
+adjacent to:
   - Ara
   - Circinus
   - Lupus

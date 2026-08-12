@@ -1,6 +1,6 @@
 ---
 title: "Sagitta"
-borders:
+adjacent to:
   - Aquila
   - Delphinus
   - Hercules

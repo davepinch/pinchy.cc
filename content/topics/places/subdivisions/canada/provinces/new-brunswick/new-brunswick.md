@@ -1,6 +1,6 @@
 ---
 title: "New Brunswick"
-borders:
+adjacent to:
   - Gulf of St. Lawrence
   - Maine
   - Nova Scotia

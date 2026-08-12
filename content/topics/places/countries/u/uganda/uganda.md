@@ -1,6 +1,6 @@
 ---
 title: "Uganda"
-borders:
+adjacent to:
   - Democratic Republic of the Congo
   - Kenya
   - Lake Victoria

@@ -1,6 +1,6 @@
 ---
 title: "Skagit Valley Provincial Park"
-borders:
+adjacent to:
   - E. C. Manning Provincial Park
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/2230183"

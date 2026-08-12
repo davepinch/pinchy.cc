@@ -1,13 +1,13 @@
 ---
 title: "Europe"
-an even bigger continent: Antarctica
-borders:
+adjacent to:
   - Arctic Ocean
   - Asia
   - Atlantic Ocean
   - Mediterranean Sea
   - Strait of Gibraltar
   - incomplete list
+an even bigger continent: Antarctica
 continent of:
   - Eurasia
   - Northern Hemisphere

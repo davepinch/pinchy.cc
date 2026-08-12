@@ -1,6 +1,6 @@
 ---
 title: "Uzbekistan"
-borders:
+adjacent to:
   - Afghanistan
   - Kazakhstan
   - Kyrgyzstan

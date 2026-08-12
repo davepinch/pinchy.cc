@@ -1,6 +1,6 @@
 ---
 title: "Bulgaria"
-borders:
+adjacent to:
   - Black Sea
   - Greece
   - North Macedonia

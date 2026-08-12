@@ -1,6 +1,6 @@
 ---
 title: "Afghanistan"
-borders:
+adjacent to:
   - China
   - Iran
   - Pakistan

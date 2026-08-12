@@ -1,6 +1,6 @@
 ---
 title: "Georgia"
-borders:
+adjacent to:
   - Alabama
   - Florida
   - North Carolina

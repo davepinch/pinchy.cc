@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Capricornus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Aquarius (ianridpath.com)
   - Star Tales - Aquila (ianridpath.com)
   - Star Tales - Microscopium (ianridpath.com)

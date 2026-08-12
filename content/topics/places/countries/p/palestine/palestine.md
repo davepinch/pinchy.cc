@@ -1,6 +1,6 @@
 ---
 title: "Palestine"
-borders:
+adjacent to:
   - Dead Sea
   - Egypt
   - Israel

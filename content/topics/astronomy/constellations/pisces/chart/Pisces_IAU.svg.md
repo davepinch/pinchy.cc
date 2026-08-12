@@ -1,6 +1,6 @@
 ---
 title: "Pisces_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Andromeda_IAU.svg (Wikimedia Commons)
   - Aquarius_IAU.svg (Wikimedia Commons)
   - Aries_IAU.svg (Wikimedia Commons)

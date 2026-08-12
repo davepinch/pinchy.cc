@@ -1,6 +1,6 @@
 ---
 title: "Eurasian Plate"
-borders:
+adjacent to:
   - Aegean Sea Plate
   - African Plate
   - Amurian Microplate

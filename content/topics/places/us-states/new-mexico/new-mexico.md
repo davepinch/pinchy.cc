@@ -1,6 +1,6 @@
 ---
 title: "New Mexico"
-borders:
+adjacent to:
   - Arizona
   - Colorado
   - Mexico

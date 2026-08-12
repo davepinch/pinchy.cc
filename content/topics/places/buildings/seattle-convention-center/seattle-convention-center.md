@@ -1,6 +1,6 @@
 ---
 title: "Seattle Convention Center"
-borders:
+adjacent to:
   - First Hill, Seattle
   - Freeway Park
   - Interstate 5

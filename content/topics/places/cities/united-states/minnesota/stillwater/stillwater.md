@@ -1,6 +1,6 @@
 ---
 title: "Stillwater, Minnesota"
-borders:
+adjacent to:
   - Oak Park Heights, Minnesota
   - Saint Croix River
   - Stillwater Township

@@ -1,6 +1,6 @@
 ---
 title: "Flag of South Africa (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Botswana (Wikimedia Commons)
   - Flag of Eswatini (Wikimedia Commons)
   - Flag of Lesotho (Wikimedia Commons)

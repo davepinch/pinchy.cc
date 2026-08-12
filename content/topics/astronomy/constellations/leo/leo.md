@@ -1,6 +1,6 @@
 ---
 title: "Leo"
-borders:
+adjacent to:
   - Cancer
   - Coma Berenices
   - Crater

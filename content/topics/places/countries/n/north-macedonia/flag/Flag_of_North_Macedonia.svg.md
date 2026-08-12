@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_North_Macedonia.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Albania.svg (Wikimedia Commons)
   - Flag_of_Bulgaria.svg (Wikimedia Commons)
   - Flag_of_Greece.svg (Wikimedia Commons)

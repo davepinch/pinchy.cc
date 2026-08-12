@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Iceland.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Denmark.svg (Wikimedia Commons)
   - incomplete list
 flag of:

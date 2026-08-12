@@ -1,6 +1,6 @@
 ---
 title: "Oregon"
-borders:
+adjacent to:
   - California
   - Columbia River
   - Idaho

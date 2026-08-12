@@ -1,6 +1,6 @@
 ---
 title: "Kitsap County, Washington"
-borders:
+adjacent to:
   - Island County, Washington
   - Jefferson County, Washington
   - King County, Washington

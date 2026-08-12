@@ -1,6 +1,6 @@
 ---
 title: "Cepheus"
-borders:
+adjacent to:
   - Camelopardalis
   - Cassiopeia
   - Cygnus

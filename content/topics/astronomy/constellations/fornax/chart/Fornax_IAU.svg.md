@@ -1,6 +1,6 @@
 ---
 title: "Fornax_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Cetus_IAU.svg (Wikimedia Commons)
   - Eridanus_IAU.svg (Wikimedia Commons)
   - Phoenix_IAU.svg (Wikimedia Commons)

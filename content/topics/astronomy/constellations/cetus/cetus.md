@@ -1,6 +1,6 @@
 ---
 title: "Cetus"
-borders:
+adjacent to:
   - Aquarius
   - Aries
   - Eridanus

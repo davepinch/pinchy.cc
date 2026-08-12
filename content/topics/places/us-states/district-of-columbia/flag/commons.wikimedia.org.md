@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_the_District_of_Columbia.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Maryland.svg (Wikimedia Commons)
   - Flag_of_Virginia.svg (Wikimedia Commons)
 flag of:

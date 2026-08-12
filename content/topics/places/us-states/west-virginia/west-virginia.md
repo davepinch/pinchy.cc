@@ -1,6 +1,6 @@
 ---
 title: "West Virginia"
-borders:
+adjacent to:
   - Kentucky
   - Maryland
   - Ohio

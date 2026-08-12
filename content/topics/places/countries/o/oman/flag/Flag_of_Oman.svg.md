@@ -1,10 +1,9 @@
 ---
 title: "Flag_of_Oman.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
   - Flag_of_the_United_Arab_Emirates.svg (commons.wikimedia.org
   - Flag_of_Yemen.svg (Wikimedia Commons)
-borders (maritime):
   - Flag_of_Iran.svg (Wikimedia Commons)
   - Flag_of_Pakistan.svg (Wikimedia Commons)
 flag of:

@@ -1,6 +1,6 @@
 ---
 title: "Cassiopeia"
-borders:
+adjacent to:
   - Andromeda
   - Camelopardalis
   - Cepheus

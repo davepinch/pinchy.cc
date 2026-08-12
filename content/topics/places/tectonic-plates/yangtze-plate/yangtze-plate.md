@@ -1,6 +1,6 @@
 ---
 title: "Yangtze Plate"
-borders:
+adjacent to:
   - Amurian Microplate
   - Eurasian Plate
   - Okinawa Plate

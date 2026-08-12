@@ -1,6 +1,6 @@
 ---
 title: "Minnesota"
-borders:
+adjacent to:
   - Canada
   - Iowa
   - Lake of the Woods

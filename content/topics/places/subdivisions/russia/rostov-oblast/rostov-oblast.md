@@ -1,6 +1,6 @@
 ---
 title: "Rostov Oblast"
-borders:
+adjacent to:
   - Kalmykia
   - Stavropol Krai
   - Ukraine

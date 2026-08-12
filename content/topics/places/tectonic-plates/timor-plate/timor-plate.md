@@ -1,6 +1,6 @@
 ---
 title: "Timor Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Banda Sea Plate
   - Sunda Plate

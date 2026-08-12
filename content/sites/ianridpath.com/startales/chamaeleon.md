@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Chamaeleon (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Apus (ianridpath.com)
   - Star Tales - Carina (ianridpath.com)
   - Star Tales - Mensa (ianridpath.com)

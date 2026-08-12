@@ -1,6 +1,6 @@
 ---
 title: "Belize"
-borders:
+adjacent to:
   - Caribbean Sea
   - Guatemala
   - Mexico

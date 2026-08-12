@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Gemini (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Auriga (ianridpath.com)
   - Star Tales - Cancer (ianridpath.com)
   - Star Tales - Canis Minor (ianridpath.com)

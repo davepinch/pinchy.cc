@@ -1,6 +1,6 @@
 ---
 title: "United States"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Canada
   - Gulf of Mexico

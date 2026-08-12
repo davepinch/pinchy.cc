@@ -1,6 +1,6 @@
 ---
 title: "Guinea-Bissau"
-borders:
+adjacent to:
   - Senegal
   - Guinea
 country of:

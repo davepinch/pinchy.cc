@@ -1,10 +1,10 @@
 ---
 title: "Steamboat Rock State Park"
-apple maps: "https://maps.apple/p/vHf~jqCr4D5pX3"
-borders:
+adjacent to:
   - Banks Lake
   - Banks Lake Wildlife Area Unit
   - Castle Rock Natural Area Preserve
+apple maps: "https://maps.apple/p/vHf~jqCr4D5pX3"
 namesake of: Steamboat Rock
 official website: "https://parks.wa.gov/find-parks/state-parks/steamboat-rock-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5903817"

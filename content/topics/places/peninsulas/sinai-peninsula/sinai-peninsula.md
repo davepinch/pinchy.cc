@@ -1,6 +1,6 @@
 ---
 title: "Sinai Peninsula"
-borders:
+adjacent to:
   - Egypt
   - Gulf of Aqaba
   - Gulf of Suez

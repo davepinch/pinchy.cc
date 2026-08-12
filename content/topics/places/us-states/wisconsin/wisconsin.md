@@ -1,6 +1,6 @@
 ---
 title: "Wisconsin"
-borders:
+adjacent to:
   - Illinois
   - Iowa
   - Lake Michigan

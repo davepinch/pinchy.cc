@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Crux (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Centaurus (ianridpath.com)
   - Star Tales - Musca (ianridpath.com)
 excerpt: >-

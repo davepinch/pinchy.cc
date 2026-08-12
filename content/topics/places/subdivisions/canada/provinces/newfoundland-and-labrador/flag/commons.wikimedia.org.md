@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Newfoundland_and_Labrador.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Nunavut.svg (Wikimedia Commons)
   - Flag_of_Quebec.svg (Wikimedia Commons)
 borders (maritime):

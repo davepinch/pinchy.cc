@@ -1,6 +1,6 @@
 ---
 title: "Flag of Uganda (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Kenya (Wikimedia Commons)
   - Flag of Rwanda (Wikimedia Commons)

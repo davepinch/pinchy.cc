@@ -1,6 +1,6 @@
 ---
 title: "Wyoming"
-borders:
+adjacent to:
   - Colorado
   - Idaho
   - Montana

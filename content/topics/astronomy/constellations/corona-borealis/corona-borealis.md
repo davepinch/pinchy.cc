@@ -1,6 +1,6 @@
 ---
 title: "Corona Borealis"
-borders:
+adjacent to:
   - Boötes
   - Hercules
   - Serpens Caput

@@ -1,6 +1,6 @@
 ---
 title: "Sunda Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Banda Sea Plate
   - Bird's Head Plate

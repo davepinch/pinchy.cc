@@ -1,6 +1,6 @@
 ---
 title: "Louisiana"
-borders:
+adjacent to:
   - Arkansas
   - Mississippi
   - Mississippi River

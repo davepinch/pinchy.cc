@@ -1,6 +1,6 @@
 ---
 title: "South Asia"
-borders:
+adjacent to:
   - Central Asia
   - East Asia
   - Southeast Asia

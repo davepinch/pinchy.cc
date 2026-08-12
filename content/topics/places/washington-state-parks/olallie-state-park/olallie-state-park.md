@@ -1,11 +1,11 @@
 ---
 title: "Olallie State Park"
-apple maps: "https://maps.apple/p/dxedQMFg~~_V44"
-borders:
+adjacent to:
   - Cedar River Municipal Watershed
   - Middle Fork Snoqualmie Natural Resources Conservation Area
   - Mount Baker–Snoqualmie National Forest
   - Palouse to Cascades State Park
+apple maps: "https://maps.apple/p/dxedQMFg~~_V44"
 official website: "https://parks.wa.gov/find-parks/state-parks/olallie-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5970526"
 state park in:

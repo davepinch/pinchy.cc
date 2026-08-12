@@ -1,6 +1,6 @@
 ---
 title: "Manus Plate"
-borders:
+adjacent to:
   - North Bismarck Plate
   - South Bismarck Plate
 tectonic plate of: Pacific Ocean

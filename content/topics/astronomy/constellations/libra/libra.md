@@ -1,6 +1,6 @@
 ---
 title: "Libra"
-borders:
+adjacent to:
   - Centaurus
   - Hydra
   - Lupus

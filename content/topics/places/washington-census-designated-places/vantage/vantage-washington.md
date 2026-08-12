@@ -1,6 +1,6 @@
 ---
 title: "Vantage, Washington"
-borders: Columbia River
+adjacent to: Columbia River
 census-designated place in:
   - Kittitas County, Washington
   - Washington

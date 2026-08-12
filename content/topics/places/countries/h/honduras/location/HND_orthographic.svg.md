@@ -1,10 +1,9 @@
 ---
 title: "HND_orthographic.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - El Salvador (orthographic projection).svg (Wikimedia Commons)
   - Guatemala (orthographic projection).svg (Wikimedia Commons)
   - NIC_orthographic.svg (Wikimedia Commons)
-borders (maritime):
   - BLZ orthographic.svg (Wikimedia Commons)
 license: CC BY-SA 3.0
 location of: Honduras

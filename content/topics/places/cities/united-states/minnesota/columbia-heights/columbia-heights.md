@@ -1,6 +1,6 @@
 ---
 title: "Columbia Heights, Minnesota"
-borders:
+adjacent to:
   - Fridley, Minnesota
   - Hilltop, Minnesota
   - Minneapolis, Minnesota

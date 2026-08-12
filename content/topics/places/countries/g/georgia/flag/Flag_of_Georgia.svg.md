@@ -1,13 +1,13 @@
 ---
 title: "Flag_of_Georgia.svg (Wikimedia Commons)"
-author: SKopp, MapGrid
-borders:
+adjacent to:
   - Flag_of_Armenia.svg (Wikimedia Commons)
   - Flag of Azerbaijan.svg (Wikimedia Commons)
   - Flag_of_the_Chechen_Republic.svg (Wikimedia Commons)
   - Flag_of_Dagestan.svg (Wikimedia Commons)
   - Flag_of_Russia.svg (Wikimedia Commons)
   - Flag_of_Turkey.svg (Wikimedia Commons)
+author: SKopp, MapGrid
 clockwise around the black sea: Flag_of_Turkey.svg (Wikimedia Commons)
 flag of:
   - Georgia (country)

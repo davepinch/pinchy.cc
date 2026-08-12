@@ -1,6 +1,6 @@
 ---
 title: "Utah"
-borders:
+adjacent to:
   - Arizona
   - Colorado
   - Idaho

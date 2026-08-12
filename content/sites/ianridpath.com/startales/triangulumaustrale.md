@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Triangulum Australe (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Apus (ianridpath.com)
   - Star Tales - Ara (ianridpath.com)
   - Star Tales - Circinus (ianridpath.com)

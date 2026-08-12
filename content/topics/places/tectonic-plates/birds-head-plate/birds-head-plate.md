@@ -1,6 +1,6 @@
 ---
 title: "Bird's Head Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Banda Sea Plate
   - Caroline Plate

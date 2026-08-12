@@ -1,6 +1,6 @@
 ---
 title: "Chamaeleon"
-borders:
+adjacent to:
   - Apus
   - Carina
   - Mensa

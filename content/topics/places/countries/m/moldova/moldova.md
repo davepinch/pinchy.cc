@@ -1,6 +1,6 @@
 ---
 title: "Moldova"
-borders:
+adjacent to:
   - Romania
   - Transnistria
   - Ukraine

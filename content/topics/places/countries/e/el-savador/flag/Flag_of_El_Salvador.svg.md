@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_El_Salvador.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Guatemala.svg (Wikimedia Commons)
   - Flag of Honduras.svg (Wikimedia Commons)
 flag of:

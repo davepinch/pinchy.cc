@@ -1,6 +1,6 @@
 ---
 title: "Indus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Microscopium_IAU.svg (Wikimedia Commons)
   - Octans_IAU.svg (Wikimedia Commons)
   - Pavo_IAU.svg (Wikimedia Commons)

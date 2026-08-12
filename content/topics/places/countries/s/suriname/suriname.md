@@ -1,6 +1,6 @@
 ---
 title: "Suriname"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Brazil
   - French Guiana

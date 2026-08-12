@@ -1,6 +1,6 @@
 ---
 title: "Benton County, Washington"
-borders:
+adjacent to:
   - Grant County, Washington
   - Franklin County, Washington
   - Oregon

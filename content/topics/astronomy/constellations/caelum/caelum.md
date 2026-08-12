@@ -1,6 +1,6 @@
 ---
 title: "Caelum"
-borders:
+adjacent to:
   - Columba
   - Dorado
   - Eridanus

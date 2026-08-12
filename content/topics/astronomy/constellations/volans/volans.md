@@ -1,6 +1,6 @@
 ---
 title: "Volans"
-borders:
+adjacent to:
   - Carina
   - Chamaeleon 
   - Dorado
@@ -9,7 +9,6 @@ borders:
 constellation of:
   - flying fish
   - southern celestial hemisphere
-type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q10437"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Volans_(constellation)"
 tags:

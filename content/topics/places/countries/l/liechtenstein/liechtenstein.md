@@ -1,6 +1,6 @@
 ---
 title: "Liechtenstein"
-borders:
+adjacent to:
   - Austria
   - Switzerland
 country of:

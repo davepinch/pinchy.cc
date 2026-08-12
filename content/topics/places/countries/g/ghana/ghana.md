@@ -1,6 +1,6 @@
 ---
 title: "Ghana"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Burkina Faso
   - Gulf of Guinea

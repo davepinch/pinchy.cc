@@ -1,6 +1,6 @@
 ---
 title: "Canis Minor"
-borders:
+adjacent to:
   - Cancer
   - Gemini
   - Hydra

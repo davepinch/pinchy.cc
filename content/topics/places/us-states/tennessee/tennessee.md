@@ -1,6 +1,6 @@
 ---
 title: "Tennessee"
-borders:
+adjacent to:
   - Alabama
   - Arkansas
   - Georgia

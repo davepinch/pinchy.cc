@@ -1,6 +1,6 @@
 ---
 title: "Myanmar"
-borders:
+adjacent to:
   - Bangladesh
   - China
   - India

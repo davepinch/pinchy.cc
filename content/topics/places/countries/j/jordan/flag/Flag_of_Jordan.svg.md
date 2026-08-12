@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Jordan.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Iraq.svg (Wikimedia Commons)
   - Flag_of_Israel.svg (Wikimedia Commons)
   - Flag_of_Palestine.svg (Wikimedia Commons)

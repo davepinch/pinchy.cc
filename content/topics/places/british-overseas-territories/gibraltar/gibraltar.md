@@ -1,6 +1,6 @@
 ---
 title: "Gibraltar"
-borders: Spain
+adjacent to: Spain
 british overseas territory in: Mediterranean Sea
 british overseas territory of: United Kingdom
 openstreetmap: "https://www.openstreetmap.org/relation/1278736"

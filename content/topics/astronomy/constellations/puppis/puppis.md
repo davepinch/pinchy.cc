@@ -1,6 +1,6 @@
 ---
 title: "Puppis"
-borders:
+adjacent to:
   - Canis Major
   - Carina
   - Columba

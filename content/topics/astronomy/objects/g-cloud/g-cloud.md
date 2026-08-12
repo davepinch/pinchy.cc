@@ -1,7 +1,7 @@
 ---
 title: "G-Cloud"
+adjacent to: Local Interstellar Cloud
 ASCEND: Local Bubble
-borders: Local Interstellar Cloud
 interstellar cloud of:
   - Local Bubble
 wikidata: "https://www.wikidata.org/wiki/Q5511885"

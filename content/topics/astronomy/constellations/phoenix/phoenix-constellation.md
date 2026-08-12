@@ -1,6 +1,6 @@
 ---
 title: "Phoenix (constellation)"
-borders:
+adjacent to:
   - Eridanus
   - Fornax
   - Grus

@@ -1,6 +1,6 @@
 ---
 title: "Boötes_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Canes_Venatici_IAU.svg (Wikimedia Commons)
   - Coma_Berenices_IAU.svg (Wikimedia Commons)
   - Corona_Borealis_IAU.svg (Wikimedia Commons)

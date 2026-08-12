@@ -1,6 +1,6 @@
 ---
 title: "Northlake, Seattle"
-borders:
+adjacent to:
   - Fremont, Seattle
   - Lake Union
   - University District, Seattle

@@ -1,6 +1,6 @@
 ---
 title: "Camelopardalis_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Auriga_IAU.svg (Wikimedia Commons)
   - Cassiopeia_IAU.svg (Wikimedia Commons)
   - Cepheus_IAU.svg (Wikimedia Commons)

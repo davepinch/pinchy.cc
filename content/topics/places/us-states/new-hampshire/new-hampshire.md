@@ -1,6 +1,6 @@
 ---
 title: "New Hampshire"
-borders:
+adjacent to:
   - Canada
   - Maine
   - Massachusetts

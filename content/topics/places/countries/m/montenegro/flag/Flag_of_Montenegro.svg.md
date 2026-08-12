@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Montenegro.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Albania.svg (Wikimedia Commons)
   - Flag_of_Bosnia_and_Herzegovina.svg (Wikimedia Commons)
   - Flag_of_Croatia.svg (Wikimedia Commons)

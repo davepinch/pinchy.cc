@@ -1,6 +1,6 @@
 ---
 title: "Piscis Austrinus"
-borders:
+adjacent to:
   - Aquarius
   - Capricornus
   - Grus

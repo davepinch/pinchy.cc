@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Perseus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Andromeda (ianridpath.com)
   - Star Tales - Aries (ianridpath.com)
   - Star Tales - Auriga (ianridpath.com)

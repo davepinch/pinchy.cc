@@ -1,6 +1,6 @@
 ---
 title: "Delphinus"
-borders:
+adjacent to:
   - Aquarius
   - Aquila
   - Equuleus

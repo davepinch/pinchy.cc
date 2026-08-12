@@ -1,6 +1,6 @@
 ---
 title: "Futuna Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Niuafo'ou Plate
   - Pacific Plate

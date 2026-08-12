@@ -1,6 +1,6 @@
 ---
 title: "Yukon"
-borders:
+adjacent to:
   - Alaska
   - British Columbia
   - Northwest Territories

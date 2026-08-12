@@ -1,6 +1,6 @@
 ---
 title: "Garfield County, Washington"
-borders:
+adjacent to:
   - Asotin County, Washington
   - Columbia County, Washington
   - Oregon

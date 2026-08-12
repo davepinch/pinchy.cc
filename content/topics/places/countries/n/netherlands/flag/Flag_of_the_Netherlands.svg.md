@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_the_Netherlands.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Belgium.svg (Wikimedia Commons)
   - Flag_of_Germany.svg (Wikimedia Commons)
   - Flag_of_the_Netherlands.svg (Wikimedia Commons)

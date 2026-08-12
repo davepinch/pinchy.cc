@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Dagestan.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Azerbaijan.svg (Wikimedia Commons)
   - Flag_of_the_Chechen_Republic.svg (Wikimedia Commons)
   - Flag_of_Georgia.svg (Wikimedia Commons)

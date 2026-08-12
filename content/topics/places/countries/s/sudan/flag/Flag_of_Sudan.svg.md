@@ -1,6 +1,6 @@
 ---
 title: "Flag of Sudan (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of the Central African Republic (Wikimedia Commons)
   - Flag of Chad (Wikimedia Commons)
   - Flag of Egypt (Wikimedia Commons)

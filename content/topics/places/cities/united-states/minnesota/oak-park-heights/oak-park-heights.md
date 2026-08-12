@@ -1,6 +1,6 @@
 ---
 title: "Oak Park Heights, Minnesota"
-borders:
+adjacent to:
   - Baytown Township
   - Lake Elmo, Minnesota
   - Saint Croix River

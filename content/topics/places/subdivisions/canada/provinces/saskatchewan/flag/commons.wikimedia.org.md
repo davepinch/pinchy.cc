@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Saskatchewan.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Alberta.svg (Wikimedia Commons)
   - Flag_of_Manitoba.svg (Wikimedia Commons)
   - Flag_of_Montana.svg (Wikimedia Commons)

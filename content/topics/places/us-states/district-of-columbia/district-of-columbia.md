@@ -1,6 +1,6 @@
 ---
 title: "District of Columbia"
-borders:
+adjacent to:
   - Maryland
   - Virginia
 namesake of: George Washington

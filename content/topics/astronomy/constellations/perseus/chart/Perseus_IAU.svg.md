@@ -1,6 +1,6 @@
 ---
 title: "Perseus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Andromeda_IAU.svg (Wikimedia Commons)
   - Aries_IAU.svg (Wikimedia Commons)
   - Auriga_IAU.svg (Wikimedia Commons)

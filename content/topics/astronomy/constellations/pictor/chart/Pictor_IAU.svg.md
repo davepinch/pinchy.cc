@@ -1,6 +1,6 @@
 ---
 title: "Pictor_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Caelum_IAU.svg (Wikimedia Commons)
   - Carina_IAU.svg (Wikimedia Commons)
   - Columba_IAU.svg (Wikimedia Commons)

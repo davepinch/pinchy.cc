@@ -1,6 +1,6 @@
 ---
 title: "Antlia_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Centaurus_IAU.svg (Wikimedia Commons)
   - Hydra_IAU.svg (Wikimedia Commons)
   - Pyxis_IAU.svg (Wikimedia Commons)

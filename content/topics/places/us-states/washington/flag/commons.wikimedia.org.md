@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Washington.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_British_Columbia.svg (Wikimedia Commons)
   - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
   - Flag_of_Idaho.svg (Wikimedia Commons)

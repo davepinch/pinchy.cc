@@ -1,6 +1,6 @@
 ---
 title: "San Marino"
-borders: Italy
+adjacent to: Italy
 country of:
   - Italian Peninsula
   - Europe

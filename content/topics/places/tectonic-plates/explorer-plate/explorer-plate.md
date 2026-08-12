@@ -1,6 +1,6 @@
 ---
 title: "Explorer Plate"
-borders:
+adjacent to:
   - Juan de Fuca Plate
   - North American Plate
   - Pacific Plate

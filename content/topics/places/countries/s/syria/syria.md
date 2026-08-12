@@ -1,6 +1,6 @@
 ---
 title: "Syria"
-borders:
+adjacent to:
   - Iraq
   - Israel
   - Jordan

@@ -1,6 +1,6 @@
 ---
 title: "Dockton Natural Area"
-borders:
+adjacent to:
   - Dockton Forest
   - Dockton Park
 king county natural area of:

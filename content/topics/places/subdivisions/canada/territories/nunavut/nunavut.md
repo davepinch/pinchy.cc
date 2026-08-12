@@ -1,6 +1,6 @@
 ---
 title: "Nunavut"
-borders:
+adjacent to:
   - Greenland
   - Hudson Bay
   - Manitoba

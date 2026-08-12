@@ -1,6 +1,6 @@
 ---
 title: "White Bear Lake, Minnesota"
-borders:
+adjacent to:
   - Bellaire, Minnesota
   - Birchwood Village, Minnesota
   - Gem Lake, Minnesota

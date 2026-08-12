@@ -1,6 +1,6 @@
 ---
 title: "Mississippi"
-borders:
+adjacent to:
   - Alabama
   - Arkansas
   - Louisiana

@@ -9,13 +9,12 @@ flag of:
   - tricolor
   - triband
   - SVG
-land borders:
+adjacent to:
   - Flag_of_Bosnia_and_Herzegovina.svg (Wikimedia Commons)
   - Flag_of_Hungary.svg (Wikimedia Commons)
   - Flag_of_Montenegro.svg (Wikimedia Commons)
   - Flag_of_Serbia.svg (Wikimedia Commons)
   - Flag_of_Slovenia.svg (Wikimedia Commons)
-maritime borders:
   - Flag_of_Italy.svg (Wikimedia Commons)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Croatia.svg"

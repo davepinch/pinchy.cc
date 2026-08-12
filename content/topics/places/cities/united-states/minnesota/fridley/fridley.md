@@ -1,6 +1,6 @@
 ---
 title: "Fridley, Minnesota"
-borders:
+adjacent to:
   - Blaine, Minnesota
   - Brooklyn Center, Minnesota
   - Brooklyn Park, Minnesota

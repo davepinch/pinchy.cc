@@ -1,6 +1,6 @@
 ---
 title: "Cameroon"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Central African Republic
   - Chad

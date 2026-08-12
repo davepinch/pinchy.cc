@@ -1,6 +1,6 @@
 ---
 title: "Lewis County, Washington"
-borders:
+adjacent to:
   - Cowlitz County, Washington
   - Grays Harbor County, Washington
   - Pacific County, Washington

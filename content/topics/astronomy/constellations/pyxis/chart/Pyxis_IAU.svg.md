@@ -1,6 +1,6 @@
 ---
 title: "Pyxis_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Antlia_IAU.svg (Wikimedia Commons)
   - Hydra_IAU.svg (Wikimedia Commons)
   - Puppis_IAU.svg (Wikimedia Commons)

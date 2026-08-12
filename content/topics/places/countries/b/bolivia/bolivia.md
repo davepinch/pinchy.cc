@@ -1,6 +1,6 @@
 ---
 title: "Bolivia"
-borders:
+adjacent to:
   - Argentina
   - Brazil
   - Chile

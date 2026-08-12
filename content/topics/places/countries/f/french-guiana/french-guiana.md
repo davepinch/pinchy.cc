@@ -1,6 +1,6 @@
 ---
 title: "French Guiana"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Brazil
   - Suriname

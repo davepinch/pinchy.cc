@@ -1,6 +1,6 @@
 ---
 title: "Cygnus"
-borders:
+adjacent to:
   - Cepheus
   - Draco
   - Lacerta

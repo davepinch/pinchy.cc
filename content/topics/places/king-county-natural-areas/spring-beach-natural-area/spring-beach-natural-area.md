@@ -1,6 +1,6 @@
 ---
 title: "Spring Beach Natural Area"
-borders: Spring Beach Park
+adjacent to: Spring Beach Park
 king county natural area of:
   - King County, Washington
   - Vashon, Washington

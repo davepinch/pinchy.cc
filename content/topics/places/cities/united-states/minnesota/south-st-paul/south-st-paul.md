@@ -1,6 +1,6 @@
 ---
 title: "South St. Paul, Minnesota"
-borders:
+adjacent to:
   - Mississippi River
   - Saint Paul, Minnesota
   - West St. Paul, Minnesota

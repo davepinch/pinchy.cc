@@ -1,6 +1,6 @@
 ---
 title: "Anatolian Sub-Plate"
-borders:
+adjacent to:
   - Aegean Sea Plate
   - African Plate
   - Arabian Plate

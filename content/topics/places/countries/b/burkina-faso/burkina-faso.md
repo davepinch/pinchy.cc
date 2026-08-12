@@ -1,6 +1,6 @@
 ---
 title: "Burkina Faso"
-borders:
+adjacent to:
   - Benin
   - Ghana
   - Ivory Coast

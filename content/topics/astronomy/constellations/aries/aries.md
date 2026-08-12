@@ -1,6 +1,6 @@
 ---
 title: "Aries"
-borders:
+adjacent to:
   - Cetus
   - Perseus
   - Pisces

@@ -1,6 +1,6 @@
 ---
 title: "Iceland"
-borders:
+adjacent to:
   - Denmark
   - incomplete list
 country of:

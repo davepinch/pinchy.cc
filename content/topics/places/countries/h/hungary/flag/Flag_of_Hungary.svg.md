@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Hungary.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Austria.svg (Wikimedia Commons)
   - Flag_of_Croatia.svg (Wikimedia Commons)
   - Flag_of_Romania.svg (Wikimedia Commons)

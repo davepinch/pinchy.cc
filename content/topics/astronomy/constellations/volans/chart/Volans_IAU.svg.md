@@ -1,6 +1,6 @@
 ---
 title: "Volans_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Carina_IAU.svg (Wikimedia Commons)
   - Chamaeleon_IAU.svg (Wikimedia Commons)
   - Dorado_IAU.svg (Wikimedia Commons)

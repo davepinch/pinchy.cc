@@ -1,6 +1,6 @@
 ---
 title: "Arabian Plate"
-borders:
+adjacent to:
   - African Plate
   - Anatolian Sub-Plate
   - Eurasian Plate

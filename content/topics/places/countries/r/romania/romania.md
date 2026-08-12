@@ -1,6 +1,6 @@
 ---
 title: "Romania"
-borders:
+adjacent to:
   - Black Sea
   - Bulgaria
   - Hungary

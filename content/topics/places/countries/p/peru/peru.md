@@ -1,6 +1,6 @@
 ---
 title: "Peru"
-borders:
+adjacent to:
   - Bolivia
   - Brazil
   - Chile

@@ -1,6 +1,6 @@
 ---
 title: "Crux_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Centaurus_IAU.svg (Wikimedia Commons)
   - Musca_IAU.svg (Wikimedia Commons)
 chart of:

@@ -1,6 +1,6 @@
 ---
 title: "Molucca Sea Collision Zone"
-borders:
+adjacent to:
   - Banda Sea Plate (Wikipedia)
   - Bird's Head Plate (Wikipedia)
   - Sunda Plate (Wikipedia)

@@ -1,6 +1,6 @@
 ---
 title: "White Bear Township"
-borders:
+adjacent to:
   - Dellwood, Minnesota
   - Gem Lake, Minnesota
   - Lino Lakes, Minnesota

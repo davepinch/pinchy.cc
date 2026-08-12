@@ -1,6 +1,6 @@
 ---
 title: "Shinglemill Creek Natural Area"
-borders: Fern Cove Park
+adjacent to: Fern Cove Park
 king county natural area of:
   - King County, Washington
   - Vashon, Washington

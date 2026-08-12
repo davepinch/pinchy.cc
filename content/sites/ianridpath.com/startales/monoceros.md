@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Monoceros (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Canis Major (ianridpath.com)
   - Star Tales - Canis Minor (ianridpath.com)
   - Star Tales - Gemini (ianridpath.com)

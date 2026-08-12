@@ -1,11 +1,11 @@
 ---
 title: "Flag_of_Kyrgyzstan.svg (Wikimedia Commons)"
-author: Shakiev N.T., Primov U.B.
-borders:
+adjacent to:
   - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)
   - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)
   - Flag_of_Tajikistan.svg (Wikimedia Commons)
   - Flag_of_Uzbekistan.svg (Wikimedia Commons)
+author: Shakiev N.T., Primov U.B.
 flag of:
   - Kyrgyzstan
   - SVG

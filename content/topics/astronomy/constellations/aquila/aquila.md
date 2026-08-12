@@ -1,6 +1,6 @@
 ---
 title: "Aquila"
-borders:
+adjacent to:
   - Aquarius
   - Capricornus
   - Delphinus

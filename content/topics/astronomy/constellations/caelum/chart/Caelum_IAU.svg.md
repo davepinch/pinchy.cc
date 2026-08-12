@@ -1,6 +1,6 @@
 ---
 title: "Caelum_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Columba_IAU.svg (Wikimedia Commons)
   - Dorado_IAU.svg (Wikimedia Commons)
   - Eridanus_IAU.svg (Wikimedia Commons)

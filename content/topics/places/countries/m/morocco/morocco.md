@@ -1,6 +1,6 @@
 ---
 title: "Morocco"
-borders:
+adjacent to:
   - Algeria
   - Atlantic Ocean
   - Mediterranean Sea

@@ -1,6 +1,6 @@
 ---
 title: "Northwest Territories"
-borders:
+adjacent to:
   - Alberta
   - British Columbia
   - Manitoba

@@ -1,6 +1,6 @@
 ---
 title: "Circle Pines, Minnesota"
-borders:
+adjacent to:
   - Blaine, Minnesota
   - Lino Lakes, Minnesota
   - Shoreview, Minnesota

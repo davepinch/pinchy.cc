@@ -1,6 +1,6 @@
 ---
 title: "Transnistria"
-borders:
+adjacent to:
   - Moldova
   - Ukraine
 openstreetmap: "https://www.openstreetmap.org/relation/65335"

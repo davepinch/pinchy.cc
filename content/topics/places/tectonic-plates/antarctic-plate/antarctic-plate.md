@@ -1,6 +1,6 @@
 ---
 title: "Antarctic Plate"
-borders:
+adjacent to:
   - African Plate
   - Australian Plate
   - Juan Fernández Plate

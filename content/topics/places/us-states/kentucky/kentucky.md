@@ -1,6 +1,6 @@
 ---
 title: "Kentucky"
-borders:
+adjacent to:
   - Illinois
   - Indiana
   - Mississippi River

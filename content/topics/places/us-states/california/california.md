@@ -1,6 +1,6 @@
 ---
 title: "California"
-borders:
+adjacent to:
   - Arizona
   - Baja California
   - Mexico

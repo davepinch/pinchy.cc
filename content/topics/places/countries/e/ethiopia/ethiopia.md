@@ -1,6 +1,6 @@
 ---
 title: "Ethiopia"
-borders:
+adjacent to:
   - Djibouti
   - Eritrea
   - Kenya

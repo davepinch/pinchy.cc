@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Auriga (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Camelopardalis (ianridpath.com)
   - Star Tales - Gemini (ianridpath.com)
   - Star Tales - Lynx (ianridpath.com)

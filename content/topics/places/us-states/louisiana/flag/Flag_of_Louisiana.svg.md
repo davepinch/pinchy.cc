@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Louisiana.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Arkansas.svg (Wikimedia Commons)
   - Flag_of_Mississippi.svg (Wikimedia Commons)
   - Flag_of_Texas.svg (Wikimedia Commons)

@@ -1,9 +1,9 @@
 ---
 title: "Guillemot Cove Nature Reserve"
-apple maps: "https://maps.apple/p/wHm0IIXJ3Ytczp"
-borders:
+adjacent to:
   - Hood Canal
   - Stavis Natural Resources Conservation Area
+apple maps: "https://maps.apple/p/wHm0IIXJ3Ytczp"
 county park of:
   - Kitsap County, Washington
   - Hood Canal

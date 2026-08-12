@@ -1,6 +1,6 @@
 ---
 title: "Massachusetts"
-borders:
+adjacent to:
   - Connecticut
   - New Hampshire
   - New York

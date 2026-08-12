@@ -1,11 +1,10 @@
 ---
 title: "Honduras"
-borders:
+adjacent to:
   - El Salvador
   - Guatemala
   - Nicaragua
   - Pacific Ocean
-borders (maritime):
   - Belize
 country of:
   - Central America

@@ -1,6 +1,6 @@
 ---
 title: "Indus"
-borders:
+adjacent to:
   - Microscopium
   - Octans
   - Pavo

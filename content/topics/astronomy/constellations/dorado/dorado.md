@@ -1,6 +1,6 @@
 ---
 title: "Dorado"
-borders:
+adjacent to:
   - Caelum
   - Horologium
   - Hydrus

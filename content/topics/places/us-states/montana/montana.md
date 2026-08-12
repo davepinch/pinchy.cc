@@ -1,6 +1,6 @@
 ---
 title: "Montana"
-borders:
+adjacent to:
   - Alberta
   - British Columbia
   - Canada

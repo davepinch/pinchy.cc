@@ -1,6 +1,6 @@
 ---
 title: "British Columbia"
-borders:
+adjacent to:
   - Alaska
   - Alberta
   - Idaho

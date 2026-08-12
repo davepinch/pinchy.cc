@@ -1,6 +1,6 @@
 ---
 title: "Bandera_de_España.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Andorra.svg (Wikimedia Commons)
   - Flag_of_France.svg (Wikimedia Commons)
   - Flag_of_Gibraltar.svg (Wikimedia Commons)

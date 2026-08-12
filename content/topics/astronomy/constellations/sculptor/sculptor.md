@@ -1,6 +1,6 @@
 ---
 title: "Sculptor"
-borders:
+adjacent to:
   - Aquarius
   - Cetus
   - Fornax

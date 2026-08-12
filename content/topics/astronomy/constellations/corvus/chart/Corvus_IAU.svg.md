@@ -1,6 +1,6 @@
 ---
 title: "Corvus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Crater_IAU.svg (Wikimedia Commons)
   - Hydra_IAU.svg (Wikimedia Commons)
   - Virgo_IAU.svg (Wikimedia Commons)

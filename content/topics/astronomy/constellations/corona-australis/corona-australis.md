@@ -1,6 +1,6 @@
 ---
 title: "Corona Australis"
-borders:
+adjacent to:
   - Ara
   - Sagittarius
   - Scorpius

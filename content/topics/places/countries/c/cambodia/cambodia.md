@@ -1,6 +1,6 @@
 ---
 title: "Cambodia"
-borders:
+adjacent to:
   - Laos
   - Thailand
   - Vietnam

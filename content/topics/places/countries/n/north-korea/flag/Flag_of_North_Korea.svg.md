@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_North_Korea.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)
   - Flag_of_Russia.svg (Wikimedia Commons)
   - Flag_of_South_Korea.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Delphinus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Aquarius (ianridpath.com)
   - Star Tales - Aquila (ianridpath.com)
   - Star Tales - Equuleus (ianridpath.com)

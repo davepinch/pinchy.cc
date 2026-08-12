@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Oklahoma.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Arkansas.svg (Wikimedia Commons)
   - Flag_of_Colorado.svg (Wikimedia Commons)
   - Flag_of_Kansas.svg (Wikimedia Commons)

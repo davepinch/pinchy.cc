@@ -1,9 +1,9 @@
 ---
 title: "Flag_of_Greenland.svg (Wikimedia Commons)"
-author: Jeffrey Connell
-borders:
+adjacent to:
   - Flag_of_Newfoundland_and_Labrador.svg (Wikimedia Commons)
   - incomplete list
+author: Jeffrey Connell
 flag of: Greenland
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/09/Flag_of_Greenland.svg"

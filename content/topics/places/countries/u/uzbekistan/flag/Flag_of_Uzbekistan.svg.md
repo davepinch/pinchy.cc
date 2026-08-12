@@ -1,13 +1,13 @@
 ---
 title: "Flag_of_Uzbekistan.svg (Wikimedia Commons)"
-author: Oʻzbekiston Respublikasining Davlat bayrogʻi
-borders:
+adjacent to:
 # Afghanistan:
   - Flag_of_the_Taliban.svg (Wikimedia Commons)
   - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)
   - Flag_of_Kyrgyzstan.svg (Wikimedia Commons)
   - Flag_of_Tajikistan.svg (Wikimedia Commons)
   - Flag_of_Turkmenistan.svg (Wikimedia Commons)
+author: Oʻzbekiston Respublikasining Davlat bayrogʻi
 flag of:
   - Uzbekistan
   - horizontal

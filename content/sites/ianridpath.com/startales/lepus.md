@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Lepus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Caelum (ianridpath.com)
   - Star Tales - Canis Major (ianridpath.com)
   - Star Tales - Columba (ianridpath.com)

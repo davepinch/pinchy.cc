@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Sextans (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Crater (ianridpath.com)
   - Star Tales - Hydra (ianridpath.com)
   - Star Tales - Leo (ianridpath.com)

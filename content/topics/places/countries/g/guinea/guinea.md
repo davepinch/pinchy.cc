@@ -1,6 +1,6 @@
 ---
 title: "Guinea"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Guinea-Bissau
   - Senegal

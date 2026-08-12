@@ -1,6 +1,6 @@
 ---
 title: "Cetus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Aquarius_IAU.svg (Wikimedia Commons)
   - Aries_IAU.svg (Wikimedia Commons)
   - Eridanus_IAU.svg (Wikimedia Commons)

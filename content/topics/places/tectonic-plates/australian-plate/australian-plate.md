@@ -1,6 +1,6 @@
 ---
 title: "Australian Plate"
-borders:
+adjacent to:
   - Antarctic Plate
   - Balmoral Reef Plate
   - Banda Sea Plate

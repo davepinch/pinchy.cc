@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Piscis Austrinus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Aquarius (ianridpath.com)
   - Star Tales - Capricornus (ianridpath.com)
   - Star Tales - Grus (ianridpath.com)

@@ -1,6 +1,6 @@
 ---
 title: "Spring Beach Park"
-borders:
+adjacent to:
   - Colvos Passage
   - Puget Sound
   - Spring Beach Natural Area

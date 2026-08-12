@@ -1,6 +1,6 @@
 ---
 title: "Baytown Township"
-borders:
+adjacent to:
   - Bayport, Minnesota
   - Lake Elmo, Minnesota
   - Oak Park Heights, Minnesota

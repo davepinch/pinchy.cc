@@ -1,6 +1,6 @@
 ---
 title: "Canis Major"
-borders:
+adjacent to:
   - Columba
   - Lepus
   - Monoceros

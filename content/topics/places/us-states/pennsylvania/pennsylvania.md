@@ -1,6 +1,6 @@
 ---
 title: "Pennsylvania"
-borders:
+adjacent to:
   - Canada
   - Delaware
   - Maryland

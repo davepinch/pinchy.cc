@@ -1,6 +1,6 @@
 ---
 title: "Manitoba"
-borders:
+adjacent to:
   - Hudson Bay
   - Lake of the Woods
   - Minnesota

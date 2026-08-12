@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Nebraska.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Colorado.svg (Wikimedia Commons)
   - Flag_of_Iowa.svg (Wikimedia Commons)
   - Flag_of_Kansas.svg (Wikimedia Commons)

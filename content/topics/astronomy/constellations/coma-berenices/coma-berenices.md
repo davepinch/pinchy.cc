@@ -1,6 +1,6 @@
 ---
 title: "Coma Berenices"
-borders:
+adjacent to:
   - Boötes
   - Canes Venatici
   - Leo

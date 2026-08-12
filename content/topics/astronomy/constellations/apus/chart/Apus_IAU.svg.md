@@ -1,6 +1,6 @@
 ---
 title: "Apus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Ara_IAU.svg (Wikimedia Commons)
   - Chamaeleon_IAU.svg (Wikimedia Commons)
   - Circinus_IAU.svg (Wikimedia Commons)

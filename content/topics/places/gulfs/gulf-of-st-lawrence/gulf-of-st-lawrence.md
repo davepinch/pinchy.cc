@@ -1,6 +1,6 @@
 ---
 title: "Gulf of St. Lawrence"
-borders:
+adjacent to:
   - New Brunswick
   - Newfoundland and Labrador
   - Nova Scotia

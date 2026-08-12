@@ -1,6 +1,6 @@
 ---
 title: "Andromeda"
-borders:
+adjacent to:
   - Cassiopeia
   - Lacerta
   - Pegasus

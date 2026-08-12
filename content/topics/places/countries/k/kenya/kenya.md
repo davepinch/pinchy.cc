@@ -1,6 +1,6 @@
 ---
 title: "Kenya"
-borders:
+adjacent to:
   - Ethiopia
   - Indian Ocean
   - Somalia

@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Bolivia.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Argentina.svg (Wikimedia Commons)
   - Flag_of_Brazil.svg (Wikimedia Commons)
   - Flag_of_Chile.svg (Wikimedia Commons)

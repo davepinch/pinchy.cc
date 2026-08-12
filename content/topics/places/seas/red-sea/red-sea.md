@@ -1,10 +1,6 @@
 ---
 title: "Red Sea"
-apple maps: "https://maps.apple/p/p90-uvC357v0sX"
-between:
-  - Africa
-  - Asia
-borders:
+adjacent to:
   - Bab-el-Mandeb
   - Djibouti
   - Egypt
@@ -15,6 +11,10 @@ borders:
   - Sinai Peninsula
   - Sudan
   - incomplete list
+apple maps: "https://maps.apple/p/p90-uvC357v0sX"
+between:
+  - Africa
+  - Asia
 clockwise around the red sea:
   - Bab-el-Mandeb
   - Djibouti

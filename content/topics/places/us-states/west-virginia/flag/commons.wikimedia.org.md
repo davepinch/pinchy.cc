@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_West_Virginia.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Kentucky.svg (Wikimedia Commons)
   - Flag_of_Maryland.svg (Wikimedia Commons)
   - Flag_of_Ohio.svg (Wikimedia Commons)

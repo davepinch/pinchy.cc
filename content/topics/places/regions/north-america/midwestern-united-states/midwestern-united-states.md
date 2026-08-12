@@ -1,6 +1,6 @@
 ---
 title: "Midwestern United States"
-borders:
+adjacent to:
   - Canada
   - Western United States
   - incomplete list

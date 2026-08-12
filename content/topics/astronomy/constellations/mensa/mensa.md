@@ -1,6 +1,6 @@
 ---
 title: "Mensa"
-borders:
+adjacent to:
   - Chamaeleon
   - Dorado
   - Hydrus

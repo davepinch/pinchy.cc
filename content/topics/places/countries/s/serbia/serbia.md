@@ -1,6 +1,6 @@
 ---
 title: "Serbia"
-borders:
+adjacent to:
   - Bosnia and Herzegovina
   - Bulgaria
   - Croatia

@@ -1,6 +1,6 @@
 ---
 title: "Bangladesh"
-borders:
+adjacent to:
   - India
   - incomplete list
 country of:

@@ -1,6 +1,6 @@
 ---
 title: "Lincoln County, Washington"
-borders:
+adjacent to:
   - Adams County, Washington
   - Ferry County, Washington
   - Grant County, Washington

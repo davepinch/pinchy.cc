@@ -1,6 +1,6 @@
 ---
 title: "Delaware"
-borders:
+adjacent to:
   - Maryland
   - New Jersey
   - Pennsylvania

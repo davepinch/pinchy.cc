@@ -1,6 +1,6 @@
 ---
 title: "Mariana Plate"
-borders:
+adjacent to:
   - Pacific Plate
   - Philippine Sea Plate
   - Caroline Plate

@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Scutum (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Aquila (ianridpath.com)
   - Star Tales - Sagittarius (ianridpath.com)
   - Star Tales - Serpens (ianridpath.com)

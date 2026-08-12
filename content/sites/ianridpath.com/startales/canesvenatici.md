@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Canes Venatici (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Boötes (ianridpath.com)
   - Star Tales - Coma Berenices (ianridpath.com)
   - Star Tales - Ursa Major (ianridpath.com)

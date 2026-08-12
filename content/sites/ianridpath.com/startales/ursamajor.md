@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Ursa Major (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Boötes (ianridpath.com)
   - Star Tales - Camelopardalis (ianridpath.com)
   - Star Tales - Canes Venatici (ianridpath.com)

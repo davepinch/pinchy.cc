@@ -1,6 +1,6 @@
 ---
 title: "White Bear Lake"
-borders:
+adjacent to:
   - Bellaire, Minnesota
   - Birchwood Village, Minnesota
   - Dellwood, Minnesota

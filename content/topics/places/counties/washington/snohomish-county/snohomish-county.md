@@ -1,6 +1,6 @@
 ---
 title: "Snohomish County, Washington"
-borders:
+adjacent to:
   - Chelan County, Washington
   - Island County, Washington
   - King County, Washington

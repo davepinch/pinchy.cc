@@ -1,6 +1,6 @@
 ---
 title: "Netherlands"
-borders:
+adjacent to:
   - Belgium
   - Germany
   - North Sea

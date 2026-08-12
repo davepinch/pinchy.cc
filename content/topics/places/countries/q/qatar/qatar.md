@@ -1,10 +1,9 @@
 ---
 title: "Qatar"
-borders:
+adjacent to:
   - Gulf of Bahrain
   - Persian Gulf
   - Saudi Arabia
-borders (maritime):
   - United Arab Emirates
 country of:
   - Middle East

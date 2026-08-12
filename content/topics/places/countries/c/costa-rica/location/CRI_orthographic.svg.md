@@ -1,11 +1,10 @@
 ---
 title: "CRI_orthographic.svg (Wikimedia Commons)"
-author: "[Addicted04](https://commons.wikimedia.org/wiki/User:Addicted04)"
-borders:
+adjacent to:
   - NIC_orthographic.svg (Wikimedia Commons)
   - PAN_orthographic.svg (Wikimedia Commons)
-borders (maritime):
   - ECU_orthographic.svg (Wikimedia Commons)
+author: "[Addicted04](https://commons.wikimedia.org/wiki/User:Addicted04)"
 license: CC BY-SA 3.0
 location of: Costa Rica
 picture: "https://upload.wikimedia.org/wikipedia/commons/8/89/CRI_orthographic.svg"

@@ -1,6 +1,6 @@
 ---
 title: "Jefferson County, Washington"
-borders:
+adjacent to:
   - Clallam County, Washington
   - Grays Harbor County, Washington
   - Hood Canal

@@ -1,11 +1,10 @@
 ---
 title: "Serpens Cauda"
-borders:
+adjacent to:
   - Aquila
   - Ophiuchus
   - Sagittarius
   - Scutum
-type: constellation
 tags:
   - Serpens
 ---

@@ -1,9 +1,8 @@
 ---
 title: "BLZ orthographic.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Guatemala (orthographic projection).svg (Wikimedia Commons)
   - MEX_orthographic.svg (Wikimedia Commons)
-borders (maritime):
   - HND_orthographic.svg (Wikimedia Commons)
 author: "[Addicted04](https://commons.wikimedia.org/wiki/User:Addicted04)"
 license: CC BY-SA 3.0

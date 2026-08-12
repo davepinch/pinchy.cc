@@ -1,6 +1,6 @@
 ---
 title: "Pavo_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Apus_IAU.svg (Wikimedia Commons)
   - Ara_IAU.svg (Wikimedia Commons)
   - Indus_IAU.svg (Wikimedia Commons)

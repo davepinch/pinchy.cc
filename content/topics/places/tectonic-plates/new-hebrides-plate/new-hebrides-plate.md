@@ -1,6 +1,6 @@
 ---
 title: "New Hebrides Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Balmoral Reef Plate
   - Conway Reef Plate

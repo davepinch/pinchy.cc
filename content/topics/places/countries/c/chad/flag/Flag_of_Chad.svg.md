@@ -1,6 +1,6 @@
 ---
 title: "Flag of Chad (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Cameroon (Wikimedia Commons)
   - Flag of the Central African Republic (Wikimedia Commons)
   - Flag of Libya (Wikimedia Commons)

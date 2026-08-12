@@ -1,6 +1,6 @@
 ---
 title: "Río de la Plata"
-borders:
+adjacent to:
   - Argentina
   - Uruguay
 empties into: Atlantic Ocean

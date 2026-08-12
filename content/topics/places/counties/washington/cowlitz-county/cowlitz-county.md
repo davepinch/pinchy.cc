@@ -1,6 +1,6 @@
 ---
 title: "Cowlitz County, Washington"
-borders:
+adjacent to:
   - Clark County, Washington
   - Lewis County, Washington
   - Oregon

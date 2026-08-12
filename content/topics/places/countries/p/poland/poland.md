@@ -1,6 +1,6 @@
 ---
 title: "Poland"
-borders:
+adjacent to:
   - Baltic Sea
   - Belarus
   - Czech Republic

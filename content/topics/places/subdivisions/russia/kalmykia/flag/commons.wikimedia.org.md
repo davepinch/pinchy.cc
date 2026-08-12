@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Kalmykia.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Astrakhan_Oblast.svg (Wikimedia Commons)
   - Flag_of_Dagestan.svg (Wikimedia Commons)
   - Flag_of_Rostov_Oblast.svg (Wikimedia Commons)

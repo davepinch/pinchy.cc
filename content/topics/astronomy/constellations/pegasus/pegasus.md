@@ -1,6 +1,6 @@
 ---
 title: "Pegasus"
-borders:
+adjacent to:
   - Andromeda
   - Aquarius
   - Cygnus

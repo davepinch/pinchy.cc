@@ -1,6 +1,6 @@
 ---
 title: "Alberta"
-borders:
+adjacent to:
   - British Columbia
   - Montana
   - Northwest Territories

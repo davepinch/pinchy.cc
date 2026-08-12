@@ -1,6 +1,6 @@
 ---
 title: "Rwanda"
-borders:
+adjacent to:
   - Burundi
   - Democratic Republic of the Congo
   - Tanzania

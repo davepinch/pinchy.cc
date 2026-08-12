@@ -1,6 +1,6 @@
 ---
 title: "Cabinda"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Democratic Republic of the Congo
   - Republic of the Congo

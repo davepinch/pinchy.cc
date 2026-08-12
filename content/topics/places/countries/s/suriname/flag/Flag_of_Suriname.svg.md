@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Suriname.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Brazil.svg (Wikimedia Commons)
   - French Guiana does not have its own flag
   - Flag_of_Guyana.svg (Wikimedia Commons)

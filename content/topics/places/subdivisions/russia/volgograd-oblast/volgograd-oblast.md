@@ -1,6 +1,6 @@
 ---
 title: "Volgograd Oblast"
-borders:
+adjacent to:
   - Astrakhan Oblast
   - Kalmykia
   - Kazakhstan

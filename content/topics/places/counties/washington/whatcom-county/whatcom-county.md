@@ -1,6 +1,6 @@
 ---
 title: "Whatcom County, Washington"
-borders:
+adjacent to:
   - British Columbia
   - Okanogan County, Washington
   - Pacific Ocean

@@ -1,6 +1,6 @@
 ---
 title: "Gaza Strip"
-borders:
+adjacent to:
   - Egypt
   - Israel
   - Mediterranean Sea

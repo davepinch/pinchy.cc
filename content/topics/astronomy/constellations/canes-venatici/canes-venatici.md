@@ -1,6 +1,6 @@
 ---
 title: "Canes Venatici"
-borders:
+adjacent to:
   - Boötes
   - Coma Berenices
   - Ursa Major

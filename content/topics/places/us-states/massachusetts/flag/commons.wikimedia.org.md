@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Massachusetts.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Connecticut.svg (Wikimedia Commons)
   - Flag_of_New_Hampshire.svg (Wikimedia Commons)
   - Flag_of_New_York.svg (Wikimedia Commons)

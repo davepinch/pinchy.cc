@@ -1,6 +1,6 @@
 ---
 title: "Slovakia"
-borders:
+adjacent to:
   - Austria
   - Czech Republic
   - Hungary

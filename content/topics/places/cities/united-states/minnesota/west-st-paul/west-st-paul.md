@@ -1,6 +1,6 @@
 ---
 title: "West St. Paul, Minnesota"
-borders:
+adjacent to:
   - Mendota Heights, Minnesota
   - Saint Paul, Minnesota
   - South St. Paul, Minnesota

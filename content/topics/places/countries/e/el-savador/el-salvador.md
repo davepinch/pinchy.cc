@@ -1,6 +1,6 @@
 ---
 title: "El Salvador"
-borders:
+adjacent to:
   - Guatemala
   - Honduras
   - Pacific Ocean

@@ -1,6 +1,6 @@
 ---
 title: "Scutum"
-borders:
+adjacent to:
   - Aquila
   - Sagittarius
   - Serpens Cauda

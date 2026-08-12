@@ -1,6 +1,6 @@
 ---
 title: "Pend Oreille County, Washington"
-borders:
+adjacent to:
   - British Columbia
   - Idaho
   - Spokane County, Washington

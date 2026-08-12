@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Russia.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Azerbaijan.svg (Wikimedia Commons)
   - Flag_of_Belarus.svg (Wikimedia Commons)
   - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)

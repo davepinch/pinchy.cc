@@ -1,6 +1,6 @@
 ---
 title: "Juan de Fuca Plate"
-borders:
+adjacent to:
   - Explorer Plate
   - Gorda Plate
   - North American Plate

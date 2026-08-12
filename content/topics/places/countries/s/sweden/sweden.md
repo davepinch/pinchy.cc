@@ -1,6 +1,6 @@
 ---
 title: "Sweden"
-borders:
+adjacent to:
   - Baltic Sea
   - Denmark
   - Finland

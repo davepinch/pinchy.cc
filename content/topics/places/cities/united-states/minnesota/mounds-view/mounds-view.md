@@ -1,6 +1,6 @@
 ---
 title: "Mounds View, Minnesota"
-borders:
+adjacent to:
   - Arden Hills, Minnesota
   - Blaine, Minnesota
   - Fridley, Minnesota

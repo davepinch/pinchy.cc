@@ -1,6 +1,6 @@
 ---
 title: "Scutum_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Aquila_IAU.svg (Wikimedia Commons)
   - Sagittarius_IAU.svg (Wikimedia Commons)
   - Serpens_Cauda_IAU.svg (Wikimedia Commons)

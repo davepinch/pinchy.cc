@@ -1,6 +1,6 @@
 ---
 title: "Bayport, Minnesota"
-borders:
+adjacent to:
   - Baytown Township
   - Oak Park Heights, Minnesota
   - Saint Croix River

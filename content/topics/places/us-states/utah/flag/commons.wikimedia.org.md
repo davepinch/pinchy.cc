@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Utah.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Arizona.svg (Wikimedia Commons)
   - Flag_of_Colorado.svg (Wikimedia Commons)
   - Flag_of_Idaho.svg (Wikimedia Commons)

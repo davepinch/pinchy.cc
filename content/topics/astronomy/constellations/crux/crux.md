@@ -1,6 +1,6 @@
 ---
 title: "Crux"
-borders:
+adjacent to:
   - Centaurus
   - Musca
 constellation of: southern celestial hemisphere

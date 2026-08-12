@@ -1,6 +1,6 @@
 ---
 title: "Monaco"
-borders:
+adjacent to:
   - France
   - Mediterranean Sea
 country of:

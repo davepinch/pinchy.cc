@@ -1,6 +1,6 @@
 ---
 title: "Iowa"
-borders:
+adjacent to:
   - Illinois
   - Missouri
   - Minnesota

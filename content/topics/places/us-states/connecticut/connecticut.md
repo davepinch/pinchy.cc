@@ -1,6 +1,6 @@
 ---
 title: "Connecticut"
-borders:
+adjacent to:
   - Massachusetts
   - New York
   - Rhode Island

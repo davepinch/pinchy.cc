@@ -1,6 +1,6 @@
 ---
 title: "Serpens_Caput_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Boötes_IAU.svg (Wikimedia Commons)
   - Corona_Borealis_IAU.svg (Wikimedia Commons)
   - Hercules_IAU.svg (Wikimedia Commons)

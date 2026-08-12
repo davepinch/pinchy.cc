@@ -1,6 +1,6 @@
 ---
 title: "Flag of Cameroon (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of the Central African Republic (Wikimedia Commons)
   - Flag of Chad (Wikimedia Commons)
   - Flag of Equatorial Guinea (Wikimedia Commons)

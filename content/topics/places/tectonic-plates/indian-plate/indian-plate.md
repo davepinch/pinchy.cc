@@ -1,6 +1,6 @@
 ---
 title: "Indian Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Arabian Plate
   - Burma Plate

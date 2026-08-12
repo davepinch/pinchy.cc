@@ -1,6 +1,6 @@
 ---
 title: "Chechnya"
-borders:
+adjacent to:
   - Dagestan
   - Georgia (country)
   - Stavropol Krai

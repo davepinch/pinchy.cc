@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_San_Marino.svg (Wikimedia Commons)"
+adjacent to: Flag_of_Italy.svg (Wikimedia Commons)
 author: "https://commons.wikimedia.org/wiki/User:Zscout370"
-borders: Flag_of_Italy.svg (Wikimedia Commons)
 flag of:
   - San Marino
   - SVG

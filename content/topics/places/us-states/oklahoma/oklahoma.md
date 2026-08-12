@@ -1,6 +1,6 @@
 ---
 title: "Oklahoma"
-borders:
+adjacent to:
   - Arkansas
   - Colorado
   - Kansas

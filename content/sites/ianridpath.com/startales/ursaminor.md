@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Ursa Minor (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Draco (ianridpath.com)
   - Star Tales - Camelopardalis (ianridpath.com)
   - Star Tales - Cepheus (ianridpath.com)

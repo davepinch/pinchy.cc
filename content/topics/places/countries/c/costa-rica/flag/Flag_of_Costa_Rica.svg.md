@@ -1,9 +1,8 @@
 ---
 title: "Flag_of_Costa_Rica.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Nicaragua.svg (Wikimedia Commons)
   - Flag_of_Panama.svg (Wikimedia Commons)
-borders (maritime):
   - Flag_of_Ecuador.svg (Wikimedia Commons)
 flag of:
   - Costa Rica

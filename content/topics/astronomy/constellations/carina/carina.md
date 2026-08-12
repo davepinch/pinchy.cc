@@ -1,6 +1,6 @@
 ---
 title: "Carina"
-borders:
+adjacent to:
   - Centaurus
   - Chamaeleon
   - Musca

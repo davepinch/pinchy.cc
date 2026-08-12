@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Puppis (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Canis Major (ianridpath.com)
   - Star Tales - Carina (ianridpath.com)
   - Star Tales - Columba (ianridpath.com)

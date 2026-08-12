@@ -1,6 +1,6 @@
 ---
 title: "Leo Minor"
-borders:
+adjacent to:
   - Cancer
   - Leo
   - Lynx

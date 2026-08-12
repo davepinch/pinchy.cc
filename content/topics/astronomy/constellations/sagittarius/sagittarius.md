@@ -1,6 +1,6 @@
 ---
 title: "Sagittarius"
-borders:
+adjacent to:
   - Aquila
   - Capricornus
   - Corona Australis

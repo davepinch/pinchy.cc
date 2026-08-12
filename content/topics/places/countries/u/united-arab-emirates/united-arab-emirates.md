@@ -1,12 +1,11 @@
 ---
 title: "United Arab Emirates"
-borders:
+adjacent to:
   - Gulf of Oman
   - Oman
   - Persian Gulf
   - Saudi Arabia
   - Strait of Hormuz
-borders (maritime):
   - Iran
   - Qatar
 country of:

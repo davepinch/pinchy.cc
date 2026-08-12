@@ -1,6 +1,6 @@
 ---
 title: "Ara_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Apus_IAU.svg (Wikimedia Commons)
   - Corona_Australis_IAU.svg (Wikimedia Commons)
   - Norma_IAU.svg (Wikimedia Commons)

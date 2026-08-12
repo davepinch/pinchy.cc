@@ -1,6 +1,6 @@
 ---
 title: "Juan Fernández Plate"
-borders:
+adjacent to:
   - Antarctic Plate
   - Nazca Plate
   - Pacific Plate

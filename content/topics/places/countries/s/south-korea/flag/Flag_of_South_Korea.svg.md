@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_South_Korea.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_North_Korea.svg (Wikimedia Commons)
   - incomplete list
 flag of:

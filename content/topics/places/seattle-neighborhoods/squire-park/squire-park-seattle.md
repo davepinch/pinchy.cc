@@ -1,6 +1,6 @@
 ---
 title: "Squire Park, Seattle"
-borders:
+adjacent to:
   - Capitol Hill, Seattle
   - First Hill, Seattle
   - Yesler Terrace, Seattle

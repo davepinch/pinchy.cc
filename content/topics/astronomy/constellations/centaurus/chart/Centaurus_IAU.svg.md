@@ -1,6 +1,6 @@
 ---
 title: "Centaurus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Antlia_IAU.svg (Wikimedia Commons)
   - Carina_IAU.svg (Wikimedia Commons)
   - Circinus_IAU.svg (Wikimedia Commons)

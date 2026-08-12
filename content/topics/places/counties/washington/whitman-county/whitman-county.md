@@ -1,6 +1,6 @@
 ---
 title: "Whitman County, Washington"
-borders:
+adjacent to:
   - Adams County, Washington
   - Asotin County, Washington
   - Columbia County, Washington

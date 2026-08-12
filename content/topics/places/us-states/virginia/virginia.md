@@ -1,6 +1,6 @@
 ---
 title: "Virginia"
-borders:
+adjacent to:
   - District of Columbia
   - Kentucky
   - Maryland

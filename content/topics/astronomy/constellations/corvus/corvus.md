@@ -1,6 +1,6 @@
 ---
 title: "Corvus"
-borders:
+adjacent to:
   - Crater
   - Hydra
   - Virgo

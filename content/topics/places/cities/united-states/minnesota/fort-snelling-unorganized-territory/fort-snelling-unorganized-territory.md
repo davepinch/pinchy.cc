@@ -1,6 +1,6 @@
 ---
 title: "Fort Snelling unorganized territory"
-borders:
+adjacent to:
   - Mendota Heights, Minnesota
   - Minneapolis
   - Minnesota River

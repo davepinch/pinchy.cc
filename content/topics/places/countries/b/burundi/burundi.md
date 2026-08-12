@@ -1,6 +1,6 @@
 ---
 title: "Burundi"
-borders:
+adjacent to:
   - Democratic Republic of the Congo
   - Lake Tanganyika
   - Rwanda

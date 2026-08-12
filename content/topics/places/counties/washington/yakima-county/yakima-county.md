@@ -1,6 +1,6 @@
 ---
 title: "Yakima County, Washington"
-borders:
+adjacent to:
   - Benton County, Washington
   - Grant County, Washington
   - Kittitas County, Washington

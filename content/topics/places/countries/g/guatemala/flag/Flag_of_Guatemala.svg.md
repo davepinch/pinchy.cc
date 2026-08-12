@@ -1,11 +1,11 @@
 ---
 title: "Flag of Guatemala.svg (Wikimedia Commons)"
-author: "[K21edgo](https://commons.wikimedia.org/wiki/User:K21edgo)"
-borders:
+adjacent to:
   - Flag of Belize.svg (Wikimedia Commons)
   - Flag_of_El_Salvador.svg (Wikimedia Commons)
   - Flag of Honduras.svg (Wikimedia Commons)
   - Flag_of_Mexico.svg (Wikimedia Commons)
+author: "[K21edgo](https://commons.wikimedia.org/wiki/User:K21edgo)"
 flag of:
   - Guatemala
   - SVG

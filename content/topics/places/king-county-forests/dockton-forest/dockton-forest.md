@@ -1,6 +1,6 @@
 ---
 title: "Dockton Forest"
-borders:
+adjacent to:
   - Dockton Natural Area
   - Dockton Park
   - Maury Island Natural Area

@@ -1,6 +1,6 @@
 ---
 title: "Guyana"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Brazil
   - Suriname

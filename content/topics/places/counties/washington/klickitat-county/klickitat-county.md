@@ -1,6 +1,6 @@
 ---
 title: "Klickitat County, Washington"
-borders:
+adjacent to:
   - Benton County, Washington
   - Oregon
   - Skamania County, Washington

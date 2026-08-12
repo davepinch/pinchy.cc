@@ -1,6 +1,6 @@
 ---
 title: "Flag of Mauritania (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Algeria (Wikimedia Commons)
   - Flag of Mali (Wikimedia Commons)
   - incomplete list

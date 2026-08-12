@@ -1,6 +1,6 @@
 ---
 title: "Okanogan–Wenatchee National Forest"
-borders:
+adjacent to:
   - Camas Meadows Natural Area Preserve
   - Entiat Slopes Natural Area Preserve
   - incomplete list

@@ -1,6 +1,6 @@
 ---
 title: "West Bank"
-borders:
+adjacent to:
   - Dead Sea
   - Israel
   - Jordan

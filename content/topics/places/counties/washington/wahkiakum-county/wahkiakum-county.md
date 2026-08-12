@@ -1,6 +1,6 @@
 ---
 title: "Wahkiakum County, Washington"
-borders:
+adjacent to:
   - Cowlitz County, Washington
   - Lewis County, Washington
   - Oregon

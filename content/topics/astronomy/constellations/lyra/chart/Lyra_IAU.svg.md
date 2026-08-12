@@ -1,6 +1,6 @@
 ---
 title: "Lyra_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Cygnus_IAU.svg (Wikimedia Commons)
   - Draco_IAU.svg (Wikimedia Commons)
   - Hercules_IAU.svg (Wikimedia Commons)

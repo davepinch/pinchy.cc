@@ -1,6 +1,6 @@
 ---
 title: "Kyrgyzstan"
-borders:
+adjacent to:
   - China
   - Kazakhstan
   - Tajikistan

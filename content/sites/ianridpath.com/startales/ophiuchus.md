@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Ophiuchus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Aquila (ianridpath.com)
   - Star Tales - Hercules (ianridpath.com)
   - Star Tales - Libra (ianridpath.com)

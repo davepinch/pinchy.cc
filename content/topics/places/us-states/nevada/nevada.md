@@ -1,6 +1,6 @@
 ---
 title: "Nevada"
-borders:
+adjacent to:
   - Arizona
   - California
   - Idaho

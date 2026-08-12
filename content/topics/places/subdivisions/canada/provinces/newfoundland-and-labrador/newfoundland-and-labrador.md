@@ -1,6 +1,6 @@
 ---
 title: "Newfoundland and Labrador"
-borders:
+adjacent to:
   - Gulf of St. Lawrence
   - Labrador Sea
   - Nunavut

@@ -1,6 +1,6 @@
 ---
 title: "Pictor"
-borders:
+adjacent to:
   - Caelum
   - Carina
   - Columba

@@ -1,6 +1,6 @@
 ---
 title: "Grant, Minnesota"
-borders:
+adjacent to:
   - Dellwood, Minnesota
   - Mahtomedi, Minnesota
   - incomplete list

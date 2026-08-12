@@ -1,6 +1,6 @@
 ---
 title: "Tucana_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Eridanus_IAU.svg (Wikimedia Commons)
   - Grus_IAU.svg (Wikimedia Commons)
   - Hydrus_IAU.svg (Wikimedia Commons)

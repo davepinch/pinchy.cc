@@ -1,6 +1,6 @@
 ---
 title: "Trinidad and Tobago"
-borders:
+adjacent to:
   - Barbados
   - Grenada
   - Venezuela

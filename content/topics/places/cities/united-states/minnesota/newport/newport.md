@@ -1,6 +1,6 @@
 ---
 title: "Newport, Minnesota"
-borders:
+adjacent to:
   - Maplewood, Minnesota
   - Mississippi River
   - Woodbury, Minnesota

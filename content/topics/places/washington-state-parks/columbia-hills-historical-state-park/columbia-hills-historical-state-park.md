@@ -1,10 +1,10 @@
 ---
 title: "Columbia Hills Historical State Park"
-apple maps: "https://maps.apple/p/s92oqRs67nIxsc"
-borders:
+adjacent to:
   - Columbia River
   - Columbia Hills Natural Area Preserve
   - Gifford Pinchot National Forest
+apple maps: "https://maps.apple/p/s92oqRs67nIxsc"
 official website: "https://parks.wa.gov/find-parks/state-parks/columbia-hills-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/8151008"
 state park in:

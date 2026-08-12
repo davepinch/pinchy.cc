@@ -1,6 +1,6 @@
 ---
 title: "Paraguay"
-borders:
+adjacent to:
   - Argentina
   - Bolivia
   - Brazil

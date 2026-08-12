@@ -1,6 +1,6 @@
 ---
 title: "Thurston County, Washington"
-borders:
+adjacent to:
   - Grays Harbor County, Washington
   - Lewis County, Washington
   - Mason County, Washington

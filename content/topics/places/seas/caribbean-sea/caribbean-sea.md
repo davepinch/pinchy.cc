@@ -1,10 +1,10 @@
 ---
 title: "Caribbean Sea"
-apple maps: "https://maps.apple/p/NcQIGs3B~zdv1Q"
-borders:
+adjacent to:
   - Central America
   - Gulf of Mexico
   - incomplete list
+apple maps: "https://maps.apple/p/NcQIGs3B~zdv1Q"
 openstreetmap: "https://www.openstreetmap.org/node/305640123"
 sea in:
   - Caribbean

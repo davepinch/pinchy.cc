@@ -1,6 +1,6 @@
 ---
 title: "Azerbaijan"
-borders:
+adjacent to:
   - Armenia
   - Caspian Sea
   - Dagestan

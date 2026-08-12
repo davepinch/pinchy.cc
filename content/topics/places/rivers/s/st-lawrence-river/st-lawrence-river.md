@@ -1,6 +1,6 @@
 ---
 title: "St. Lawrence River"
-borders:
+adjacent to:
   - Ontario
   - Quebec
   - New York

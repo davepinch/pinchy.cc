@@ -1,6 +1,6 @@
 ---
 title: "Tajikistan"
-borders:
+adjacent to:
   - Afghanistan
   - China
   - Kyrgyzstan

@@ -1,6 +1,6 @@
 ---
 title: "Switzerland"
-borders:
+adjacent to:
   - Austria
   - France
   - Germany

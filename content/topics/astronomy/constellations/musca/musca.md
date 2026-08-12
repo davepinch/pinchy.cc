@@ -1,6 +1,6 @@
 ---
 title: "Musca"
-borders:
+adjacent to:
   - Apus
   - Carina
   - Centaurus

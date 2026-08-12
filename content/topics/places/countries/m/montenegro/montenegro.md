@@ -1,6 +1,6 @@
 ---
 title: "Montenegro"
-borders:
+adjacent to:
   - Adriatic Sea
   - Albania
   - Bosnia and Herzegovina

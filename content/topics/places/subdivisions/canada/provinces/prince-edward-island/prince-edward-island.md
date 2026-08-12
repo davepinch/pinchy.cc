@@ -1,6 +1,6 @@
 ---
 title: "Prince Edward Island"
-borders:
+adjacent to:
   - Gulf of St. Lawrence
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/391115"

@@ -1,6 +1,6 @@
 ---
 title: "Akrotiri and Dhekelia"
-borders:
+adjacent to:
   - Cyprus
   - Mediterranean Sea
 british overseas territory in: Middle East

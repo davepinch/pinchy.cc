@@ -1,6 +1,6 @@
 ---
 title: "Hennepin County, Minnesota"
-borders:
+adjacent to:
   - Ramsey County, Minnesota
   - incomplete list
 county in: Minnesota

@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Mensa (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Chamaeleon (ianridpath.com)
   - Star Tales - Dorado (ianridpath.com)
   - Star Tales - Hydrus (ianridpath.com)

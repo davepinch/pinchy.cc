@@ -1,6 +1,6 @@
 ---
 title: "Alaska"
-borders:
+adjacent to:
   - British Columbia
   - Canada
   - Russia

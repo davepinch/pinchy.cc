@@ -1,6 +1,6 @@
 ---
 title: "Flag of Algeria (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Libya (Wikimedia Commons)
   - Flag of Mali (Wikimedia Commons)
   - Flag of Mauritania (Wikimedia Commons)

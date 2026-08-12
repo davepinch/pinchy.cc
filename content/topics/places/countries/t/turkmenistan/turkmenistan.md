@@ -1,6 +1,6 @@
 ---
 title: "Turkmenistan"
-borders:
+adjacent to:
   - Afghanistan
   - Caspian Sea
   - Iran

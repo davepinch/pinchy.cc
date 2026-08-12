@@ -1,6 +1,6 @@
 ---
 title: "Beacon Food Forest"
-borders: Jefferson Park
+adjacent to: Jefferson Park
 food forest of:
   - Beacon Hill, Seattle
   - Seattle

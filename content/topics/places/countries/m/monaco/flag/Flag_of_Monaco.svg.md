@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Monaco.svg (Wikimedia Commons)"
-borders: Flag_of_France.svg (Wikimedia Commons)
+adjacent to: Flag_of_France.svg (Wikimedia Commons)
 clockwise around the mediterranean:
   - Flag_of_France.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)

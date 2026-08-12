@@ -1,6 +1,6 @@
 ---
 title: "Canes_Venatici_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Boötes_IAU.svg (Wikimedia Commons)
   - Coma_Berenices_IAU.svg (Wikimedia Commons)
   - Ursa_Major_IAU.svg (Wikimedia Commons)

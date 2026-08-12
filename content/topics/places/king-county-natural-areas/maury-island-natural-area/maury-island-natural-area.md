@@ -1,6 +1,6 @@
 ---
 title: "Maury Island Natural Area"
-borders:
+adjacent to:
   - Dockton Forest
   - Puget Sound
 king county natural area of:

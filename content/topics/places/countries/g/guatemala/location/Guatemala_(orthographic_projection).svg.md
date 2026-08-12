@@ -1,11 +1,11 @@
 ---
 title: "Guatemala (orthographic projection).svg (Wikimedia Commons)"
-author: "[Addicted04](https://commons.wikimedia.org/wiki/User:Addicted04)"
-borders:
+adjacent to:
   - BLZ orthographic.svg (Wikimedia Commons)
   - El Salvador (orthographic projection).svg (Wikimedia Commons)
   - HND_orthographic.svg (Wikimedia Commons)
   - MEX_orthographic.svg (Wikimedia Commons)
+author: "[Addicted04](https://commons.wikimedia.org/wiki/User:Addicted04)"
 license: CC BY-SA 4.0
 location of: Guatemala
 picture: "https://upload.wikimedia.org/wikipedia/commons/7/70/Guatemala_%28orthographic_projection%29.svg"

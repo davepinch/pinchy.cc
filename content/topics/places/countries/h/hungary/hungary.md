@@ -1,6 +1,6 @@
 ---
 title: "Hungary"
-borders:
+adjacent to:
   - Austria
   - Croatia
   - Romania

@@ -1,10 +1,10 @@
 ---
 title: "Labrador Sea"
-apple maps: "https://maps.apple/p/ny8TYv5ydu3tcf"
-borders:
+adjacent to:
   - Greenland
   - Newfoundland and Labrador
   - incomplete list
+apple maps: "https://maps.apple/p/ny8TYv5ydu3tcf"
 openstreetmap: "https://www.openstreetmap.org/node/10965586396"
 sea in:
   - Atlantic Ocean

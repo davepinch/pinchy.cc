@@ -1,6 +1,6 @@
 ---
 title: "Lauderdale, Minnesota"
-borders:
+adjacent to:
   - Falcon Heights, Minnesota
   - Minneapolis, Minnesota
   - Roseville, Minnesota

@@ -1,6 +1,6 @@
 ---
 title: "Circinus"
-borders:
+adjacent to:
   - Apus
   - Centaurus
   - Lupus

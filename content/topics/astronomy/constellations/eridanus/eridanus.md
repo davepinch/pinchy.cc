@@ -1,6 +1,6 @@
 ---
 title: "Eridanus"
-borders:
+adjacent to:
   - Caelum
   - Cetus
   - Fornax

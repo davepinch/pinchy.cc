@@ -1,6 +1,6 @@
 ---
 title: "Maryland"
-borders:
+adjacent to:
   - Delaware
   - District of Columbia
   - Pennsylvania

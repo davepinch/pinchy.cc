@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Yukon.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Alaska.svg (Wikimedia Commons)
   - Flag_of_British_Columbia.svg (Wikimedia Commons)
   - Flag_of_the_Northwest_Territories.svg (Wikimedia Commons)

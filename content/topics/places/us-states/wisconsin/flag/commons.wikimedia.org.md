@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Wisconsin.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Illinois.svg (Wikimedia Commons)
   - Flag_of_Iowa.svg (Wikimedia Commons)
   - Flag_of_Michigan.svg (Wikimedia Commons)

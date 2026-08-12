@@ -1,6 +1,6 @@
 ---
 title: "E. C. Manning Provincial Park"
-borders:
+adjacent to:
   - Skagit Valley Provincial Park
   - Washington
   - United States

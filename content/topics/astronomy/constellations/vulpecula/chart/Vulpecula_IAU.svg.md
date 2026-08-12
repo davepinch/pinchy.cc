@@ -1,6 +1,6 @@
 ---
 title: "Vulpecula_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Cygnus_IAU.svg (Wikimedia Commons)
   - Delphinus_IAU.svg (Wikimedia Commons)
   - Hercules_IAU.svg (Wikimedia Commons)

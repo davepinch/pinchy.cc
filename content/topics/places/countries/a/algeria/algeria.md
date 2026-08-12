@@ -1,6 +1,6 @@
 ---
 title: "Algeria"
-borders:
+adjacent to:
   - Libya
   - Mali
   - Mauritania

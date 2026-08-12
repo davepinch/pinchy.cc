@@ -1,6 +1,6 @@
 ---
 title: "Maine"
-borders:
+adjacent to:
   - Canada
   - New Brunswick
   - New Hampshire

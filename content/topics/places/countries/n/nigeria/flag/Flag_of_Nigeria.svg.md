@@ -1,11 +1,11 @@
 ---
 title: "Flag of Nigeria (Wikimedia Commons)"
-author: Jon Harald Søby
-borders:
+adjacent to:
   - Flag of Benin (Wikimedia Commons)
   - Flag of Cameroon (Wikimedia Commons)
   - Flag of Chad (Wikimedia Commons)
   - Flag of Niger (Wikimedia Commons)
+author: Jon Harald Søby
 flag of:
   - Nigeria
   - triband

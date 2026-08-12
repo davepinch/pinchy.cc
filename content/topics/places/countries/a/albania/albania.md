@@ -1,6 +1,6 @@
 ---
 title: "Albania"
-borders:
+adjacent to:
   - Adriatic Sea
   - Greece
   - Ionian Sea

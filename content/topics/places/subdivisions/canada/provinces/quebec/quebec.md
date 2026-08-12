@@ -1,6 +1,6 @@
 ---
 title: "Quebec"
-borders:
+adjacent to:
   - Gulf of St. Lawrence
   - Hudson Bay
   - Hudson Strait

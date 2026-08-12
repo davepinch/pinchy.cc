@@ -1,6 +1,6 @@
 ---
 title: "Saint Paul, Minnesota"
-borders:
+adjacent to:
   - Falcon Heights, Minnesota
   - Fort Snelling (unorganized territory)
   - Lauderdale, Minnesota

@@ -1,6 +1,6 @@
 ---
 title: "Democratic Republic of the Congo"
-borders:
+adjacent to:
   - Angola
   - Atlantic Ocean
   - Burundi

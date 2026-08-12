@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Pegasus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Andromeda (ianridpath.com)
   - Star Tales - Aquarius (ianridpath.com)
   - Star Tales - Cygnus (ianridpath.com)

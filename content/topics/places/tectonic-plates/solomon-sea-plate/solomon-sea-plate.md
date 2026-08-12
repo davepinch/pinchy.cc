@@ -1,6 +1,6 @@
 ---
 title: "Solomon Sea Plate"
-borders:
+adjacent to:
   - North Bismarck Plate
   - Pacific Plate
   - South Bismarck Plate

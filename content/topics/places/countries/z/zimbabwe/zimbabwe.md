@@ -1,6 +1,6 @@
 ---
 title: "Zimbabwe"
-borders:
+adjacent to:
   - Botswana
   - Mozambique
   - South Africa

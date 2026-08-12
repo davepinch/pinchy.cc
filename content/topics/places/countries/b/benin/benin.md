@@ -1,6 +1,6 @@
 ---
 title: "Benin"
-borders:
+adjacent to:
   - Burkina Faso
   - Gulf of Guinea
   - Niger

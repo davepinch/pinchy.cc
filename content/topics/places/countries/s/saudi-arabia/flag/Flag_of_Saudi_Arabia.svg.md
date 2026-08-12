@@ -4,7 +4,7 @@ across the red sea:
   - Flag of Egypt (Wikimedia Commons)
   - Flag of Eritrea (Wikimedia Commons)
   - Flag of Sudan (Wikimedia Commons)
-borders:
+adjacent to:
   - Flag_of_Iraq.svg (Wikimedia Commons)
   - Flag_of_Jordan.svg (Wikimedia Commons)
   - Flag_of_Kuwait.svg (Wikimedia Commons)

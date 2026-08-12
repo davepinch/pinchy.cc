@@ -1,6 +1,6 @@
 ---
 title: "Caroline Plate"
-borders:
+adjacent to:
   - Bird's Head Plate
   - North Bismarck Plate
   - Pacific Plate

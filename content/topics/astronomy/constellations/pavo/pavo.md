@@ -1,6 +1,6 @@
 ---
 title: "Pavo"
-borders:
+adjacent to:
   - Apus
   - Ara
   - Indus

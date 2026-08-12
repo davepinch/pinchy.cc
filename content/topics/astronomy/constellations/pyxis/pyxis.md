@@ -1,6 +1,6 @@
 ---
 title: "Pyxis"
-borders:
+adjacent to:
   - Antlia
   - Hydra
   - Puppis

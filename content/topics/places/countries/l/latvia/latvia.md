@@ -1,6 +1,6 @@
 ---
 title: "Latvia"
-borders:
+adjacent to:
   - Baltic Sea
   - Belarus
   - Estonia

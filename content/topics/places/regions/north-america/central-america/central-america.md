@@ -1,6 +1,6 @@
 ---
 title: "Central America"
-borders:
+adjacent to:
   - Caribbean Sea
   - Colombia
   - Mexico

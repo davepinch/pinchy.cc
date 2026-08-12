@@ -1,6 +1,6 @@
 ---
 title: "Champlin, Minnesota"
-borders:
+adjacent to:
   - Anoka, Minnesota
   - Dayton, Minnesota
   - Brooklyn Park, Minnesota

@@ -1,6 +1,6 @@
 ---
 title: "South Africa"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Botswana
   - Eswatini

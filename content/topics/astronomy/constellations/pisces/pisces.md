@@ -1,6 +1,6 @@
 ---
 title: "Pisces"
-borders:
+adjacent to:
   - Andromeda
   - Aquarius
   - Aries

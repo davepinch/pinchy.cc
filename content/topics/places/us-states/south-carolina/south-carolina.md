@@ -1,6 +1,6 @@
 ---
 title: "South Carolina"
-borders:
+adjacent to:
   - Georgia
   - North Carolina
 coastal state of: Atlantic Ocean

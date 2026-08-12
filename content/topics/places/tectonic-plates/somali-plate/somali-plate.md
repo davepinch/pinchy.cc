@@ -1,6 +1,6 @@
 ---
 title: "Somali Plate"
-borders:
+adjacent to:
   - African Plate
   - Antarctic Plate
   - Arabian Plate

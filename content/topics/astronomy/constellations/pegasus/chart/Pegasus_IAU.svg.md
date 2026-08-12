@@ -1,6 +1,6 @@
 ---
 title: "Pegasus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Andromeda_IAU.svg (Wikimedia Commons)
   - Aquarius_IAU.svg (Wikimedia Commons)
   - Cygnus_IAU.svg (Wikimedia Commons)

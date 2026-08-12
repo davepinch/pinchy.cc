@@ -1,6 +1,6 @@
 ---
 title: "Microscopium"
-borders:
+adjacent to:
   - Capricornus
   - Grus
   - Indus

@@ -1,6 +1,6 @@
 ---
 title: "Andromeda_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Cassiopeia_IAU.svg (Wikimedia Commons)
   - Lacerta_IAU.svg (Wikimedia Commons)
   - Pegasus_IAU.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Niger"
-borders:
+adjacent to:
   - Algeria
   - Benin
   - Burkina Faso

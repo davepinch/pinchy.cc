@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Denmark.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Germany.svg (Wikimedia Commons)
   - Flag_of_Iceland.svg (Wikimedia Commons)
   - Flag_of_Norway.svg (Wikimedia Commons)

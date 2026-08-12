@@ -1,6 +1,6 @@
 ---
 title: "Asotin County, Washington"
-borders:
+adjacent to:
   - Garfield County, Washington
   - Idaho
   - Oregon

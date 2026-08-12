@@ -1,6 +1,6 @@
 ---
 title: "Musca_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Apus_IAU.svg (Wikimedia Commons)
   - Carina_IAU.svg (Wikimedia Commons)
   - Centaurus_IAU.svg (Wikimedia Commons)

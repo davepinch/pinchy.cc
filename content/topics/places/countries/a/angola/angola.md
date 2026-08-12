@@ -1,6 +1,6 @@
 ---
 title: "Angola"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Democratic Republic of the Congo
   - Namibia

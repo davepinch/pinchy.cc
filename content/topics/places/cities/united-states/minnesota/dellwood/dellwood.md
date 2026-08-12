@@ -1,6 +1,6 @@
 ---
 title: "Dellwood, Minnesota"
-borders:
+adjacent to:
   - Grant, Minnesota
   - Mahtomedi, Minnesota
   - White Bear Lake

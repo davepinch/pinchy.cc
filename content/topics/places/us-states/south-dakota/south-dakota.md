@@ -1,6 +1,6 @@
 ---
 title: "South Dakota"
-borders:
+adjacent to:
   - Iowa
   - Minnesota
   - Montana

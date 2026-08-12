@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Minnesota.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
   - Flag_of_Iowa.svg (Wikimedia Commons)
   - Flag_of_Manitoba.svg (Wikimedia Commons)

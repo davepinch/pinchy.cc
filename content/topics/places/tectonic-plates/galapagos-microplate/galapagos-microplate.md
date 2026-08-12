@@ -1,7 +1,7 @@
 ---
 title: "Galápagos Microplate"
 another microplate: Okhotsk Microplate
-borders:
+adjacent to:
   - Cocos Plate
   - Nazca Plate
   - Pacific Plate

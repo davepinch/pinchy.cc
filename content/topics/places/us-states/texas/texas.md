@@ -1,6 +1,6 @@
 ---
 title: "Texas"
-borders:
+adjacent to:
   - Arkansas
   - Louisiana
   - Mexico

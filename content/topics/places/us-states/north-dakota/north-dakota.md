@@ -1,6 +1,6 @@
 ---
 title: "North Dakota"
-borders:
+adjacent to:
   - Canada
   - Manitoba
   - Minnesota

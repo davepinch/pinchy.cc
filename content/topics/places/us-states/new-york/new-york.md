@@ -1,6 +1,6 @@
 ---
 title: "New York"
-borders:
+adjacent to:
   - Canada
   - Connecticut
   - Massachusetts

@@ -1,6 +1,6 @@
 ---
 title: "Jordan"
-borders:
+adjacent to:
   - Dead Sea
   - Gulf of Aqaba
   - Iraq

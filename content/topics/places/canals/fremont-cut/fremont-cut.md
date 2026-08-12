@@ -1,6 +1,6 @@
 ---
 title: "Fremont Cut"
-borders:
+adjacent to:
   - Fremont, Seattle
   - Queen Anne, Seattle
 canal of:

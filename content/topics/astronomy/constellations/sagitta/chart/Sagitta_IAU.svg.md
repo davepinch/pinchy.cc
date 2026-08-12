@@ -1,6 +1,6 @@
 ---
 title: "Sagitta_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Aquila_IAU.svg (Wikimedia Commons)
   - Delphinus_IAU.svg (Wikimedia Commons)
   - Hercules_IAU.svg (Wikimedia Commons)

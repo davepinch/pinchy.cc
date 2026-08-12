@@ -1,6 +1,6 @@
 ---
 title: "Lynx"
-borders:
+adjacent to:
   - Auriga
   - Camelopardalis
   - Cancer

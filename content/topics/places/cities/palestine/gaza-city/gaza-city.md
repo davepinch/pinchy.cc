@@ -1,6 +1,6 @@
 ---
 title: "Gaza City"
-borders:
+adjacent to:
   - Israel
   - Mediterranean Sea
 city of:

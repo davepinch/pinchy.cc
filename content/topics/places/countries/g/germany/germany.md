@@ -1,6 +1,6 @@
 ---
 title: "Germany"
-borders:
+adjacent to:
   - Alps
   - Austria
   - Baltic Sea

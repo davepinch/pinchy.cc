@@ -1,6 +1,6 @@
 ---
 title: "South Korea"
-borders:
+adjacent to:
   - North Korea
   - incomplete list
 country of:

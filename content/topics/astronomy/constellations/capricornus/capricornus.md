@@ -1,6 +1,6 @@
 ---
 title: "Capricornus"
-borders:
+adjacent to:
   - Aquarius
   - Aquila
   - Microscopium

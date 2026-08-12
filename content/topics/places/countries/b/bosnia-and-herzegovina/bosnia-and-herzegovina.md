@@ -1,6 +1,6 @@
 ---
 title: "Bosnia and Herzegovina"
-borders:
+adjacent to:
   - Adriatic Sea
   - Croatia
   - Montenegro

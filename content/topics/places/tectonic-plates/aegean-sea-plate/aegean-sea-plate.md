@@ -1,6 +1,6 @@
 ---
 title: "Aegean Sea Plate"
-borders:
+adjacent to:
   - African Plate
   - Anatolian Sub-Plate
   - Eurasian Plate

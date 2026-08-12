@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Germany.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Austria.svg (Wikimedia Commons)
   - Flag_of_Belgium.svg (Wikimedia Commons)
   - Flag_of_the_Czech_Republic.svg (Wikimedia Commons)

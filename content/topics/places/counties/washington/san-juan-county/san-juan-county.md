@@ -1,6 +1,6 @@
 ---
 title: "San Juan County, Washington"
-borders:
+adjacent to:
   - Canada
   - Clallam County, Washington
   - Island County, Washington

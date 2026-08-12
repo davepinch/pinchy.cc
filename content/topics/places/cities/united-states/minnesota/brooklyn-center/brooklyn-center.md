@@ -1,6 +1,6 @@
 ---
 title: "Brooklyn Center, Minnesota"
-borders:
+adjacent to:
   - Brooklyn Park, Minnesota
   - Fridley, Minnesota
   - Minneapolis, Minnesota

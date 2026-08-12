@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Portugal.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Bandera_de_España.svg (Wikimedia Commons)
 flag of:
   - Portugal

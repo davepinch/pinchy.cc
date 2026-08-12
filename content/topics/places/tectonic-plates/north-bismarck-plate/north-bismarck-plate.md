@@ -1,6 +1,6 @@
 ---
 title: "North Bismarck Plate"
-borders:
+adjacent to:
   - Caroline Plate
   - Manus Plate
   - Pacific Plate

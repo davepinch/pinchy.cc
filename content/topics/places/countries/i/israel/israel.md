@@ -1,6 +1,6 @@
 ---
 title: "Israel"
-borders:
+adjacent to:
   - Dead Sea
   - Egypt
   - Gaza Strip

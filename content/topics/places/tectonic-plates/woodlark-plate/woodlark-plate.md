@@ -1,6 +1,6 @@
 ---
 title: "Woodlark Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Bird's Head Plate
   - Caroline Plate

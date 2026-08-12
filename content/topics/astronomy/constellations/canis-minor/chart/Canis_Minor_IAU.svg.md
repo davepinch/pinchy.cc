@@ -1,6 +1,6 @@
 ---
 title: "Canis_Minor_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Cancer_IAU.svg (Wikimedia Commons)
   - Gemini_IAU.svg (Wikimedia Commons)
   - Hydra_IAU.svg (Wikimedia Commons)

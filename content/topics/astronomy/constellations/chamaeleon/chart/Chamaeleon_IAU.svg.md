@@ -1,6 +1,6 @@
 ---
 title: "Chamaeleon_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Apus_IAU.svg (Wikimedia Commons)
   - Carina_IAU.svg (Wikimedia Commons)
   - Mensa_IAU.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Ivory Coast"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Burkina Faso
   - Ghana

@@ -1,11 +1,11 @@
 ---
 title: "Flag of Zimbabwe (Wikimedia Commons)"
-author: multiple (see website)
-borders:
+adjacent to:
   - Flag of Botswana (Wikimedia Commons)
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)
+author: multiple (see website)
 flag of:
   - Zimbabwe
   - triangle

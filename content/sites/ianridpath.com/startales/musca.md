@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Musca (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Apus (ianridpath.com)
   - Star Tales - Carina (ianridpath.com)
   - Star Tales - Centaurus (ianridpath.com)

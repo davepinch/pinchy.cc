@@ -1,6 +1,6 @@
 ---
 title: "Apus"
-borders:
+adjacent to:
   - Ara
   - Chamaeleon
   - Circinus

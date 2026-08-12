@@ -1,7 +1,7 @@
 ---
 title: "Clallam County, Washington"
 across the strait: Vancouver Island
-borders:
+adjacent to:
   - Jefferson County, Washington
   - Pacific Ocean
   - Strait of Juan de Fuca

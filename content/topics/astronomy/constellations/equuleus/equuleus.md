@@ -1,6 +1,6 @@
 ---
 title: "Equuleus"
-borders:
+adjacent to:
   - Aquarius
   - Delphinus
   - Pegasus

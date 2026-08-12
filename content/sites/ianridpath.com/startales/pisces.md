@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Pisces (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Andromeda (ianridpath.com)
   - Star Tales - Aquarius (ianridpath.com)
   - Star Tales - Aries (ianridpath.com)

@@ -1,6 +1,6 @@
 ---
 title: "North American Plate"
-borders:
+adjacent to:
   - African Plate
   - Caribbean Plate
   - Cocos Plate

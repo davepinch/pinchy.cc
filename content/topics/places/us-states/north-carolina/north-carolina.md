@@ -1,6 +1,6 @@
 ---
 title: "North Carolina"
-borders:
+adjacent to:
   - Georgia
   - South Carolina
   - Tennessee

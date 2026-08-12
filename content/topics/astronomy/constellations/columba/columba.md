@@ -1,6 +1,6 @@
 ---
 title: "Columba"
-borders:
+adjacent to:
   - Caelum
   - Canis Major
   - Lepus

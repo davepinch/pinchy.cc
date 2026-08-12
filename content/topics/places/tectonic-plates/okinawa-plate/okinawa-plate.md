@@ -1,6 +1,6 @@
 ---
 title: "Okinawa Plate"
-borders:
+adjacent to:
   - Amurian Microplate
   - Philippine Sea Plate
   - Yangtze Plate

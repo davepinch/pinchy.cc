@@ -1,6 +1,6 @@
 ---
 title: "Flag of Kenya (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Ethiopia (Wikimedia Commons)
   - Flag of Somalia (Wikimedia Commons)
   - Flag of South Sudan (Wikimedia Commons)

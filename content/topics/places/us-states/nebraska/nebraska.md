@@ -1,6 +1,6 @@
 ---
 title: "Nebraska"
-borders:
+adjacent to:
   - Colorado
   - Iowa
   - Kansas

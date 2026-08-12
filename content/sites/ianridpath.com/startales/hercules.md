@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Hercules (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Aquila (ianridpath.com)
   - Star Tales - Boötes (ianridpath.com)
   - Star Tales - Corona Borealis (ianridpath.com)

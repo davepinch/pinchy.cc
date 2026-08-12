@@ -1,6 +1,6 @@
 ---
 title: "Oakdale, Minnesota"
-borders:
+adjacent to:
   - Interstate 94
   - Lake Elmo, Minnesota
   - Landfall, Minnesota

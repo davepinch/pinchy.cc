@@ -1,6 +1,6 @@
 ---
 title: "Hercules_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Aquila_IAU.svg (Wikimedia Commons)
   - Boötes_IAU.svg (Wikimedia Commons)
   - Corona_Borealis_IAU.svg (Wikimedia Commons)

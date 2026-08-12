@@ -1,6 +1,6 @@
 ---
 title: "Ophiuchus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Aquila_IAU.svg (Wikimedia Commons)
   - Hercules_IAU.svg (Wikimedia Commons)
   - Libra_IAU.svg (Wikimedia Commons)

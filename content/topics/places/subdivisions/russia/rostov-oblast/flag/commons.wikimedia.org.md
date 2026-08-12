@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Rostov_Oblast.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Kalmykia.svg (Wikimedia Commons)
   - Flag_of_Stavropol_Krai.svg (commons.wikipedia.org)
   - Flag_of_Ukraine.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Puppis_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Canis_Major_IAU.svg (Wikimedia Commons)
   - Carina_IAU.svg (Wikimedia Commons)
   - Columba_IAU.svg (Wikimedia Commons)

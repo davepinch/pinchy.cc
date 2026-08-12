@@ -1,6 +1,6 @@
 ---
 title: "Saint Anthony Village, Minnesota"
-borders:
+adjacent to:
   - Columbia Heights, Minnesota
   - Minneapolis, Minnesota
   - New Brighton, Minnesota

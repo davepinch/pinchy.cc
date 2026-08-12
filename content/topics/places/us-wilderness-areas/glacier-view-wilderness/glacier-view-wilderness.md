@@ -1,6 +1,6 @@
 ---
 title: "Glacier View Wilderness"
-borders:
+adjacent to:
   - Gifford Pinchot National Forest
   - Mount Rainier Wilderness
   - Mount Rainier National Park

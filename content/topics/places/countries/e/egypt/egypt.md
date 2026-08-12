@@ -1,6 +1,6 @@
 ---
 title: "Egypt"
-borders:
+adjacent to:
   - Gaza Strip
   - Gulf of Aqaba
   - Israel

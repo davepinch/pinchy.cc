@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Kosovo.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Albania.svg (Wikimedia Commons)
   - Flag_of_Montenegro.svg (Wikimedia Commons)
   - Flag_of_North_Macedonia.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Ontario"
-borders:
+adjacent to:
   - Hudson Bay
   - James Bay
   - Lake of the Woods

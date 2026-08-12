@@ -1,6 +1,6 @@
 ---
 title: "Ferry County, Washington"
-borders:
+adjacent to:
   - British Columbia
   - Lincoln County, Washington
   - Okanogan County, Washington

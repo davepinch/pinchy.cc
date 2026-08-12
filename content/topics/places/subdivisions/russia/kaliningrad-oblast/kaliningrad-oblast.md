@@ -1,6 +1,6 @@
 ---
 title: "Kaliningrad Oblast"
-borders:
+adjacent to:
   - Baltic Sea
   - incomplete list
 clockwise around the baltic sea: Poland

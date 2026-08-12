@@ -1,10 +1,10 @@
 ---
 title: "Ionian Sea"
-apple maps: "https://maps.apple/p/qRxdE_mSa5U4uQ"
-borders:
+adjacent to:
   - Albania
   - Greece
   - Italy
+apple maps: "https://maps.apple/p/qRxdE_mSa5U4uQ"
 connected to: Adriatic Sea
 openstreetmap: "https://www.openstreetmap.org/relation/4497545"
 sea in: Mediterranean Sea

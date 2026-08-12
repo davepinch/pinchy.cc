@@ -1,6 +1,6 @@
 ---
 title: "Flag of Equatorial Guinea (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Cameroon (Wikimedia Commons)
   - Flag of Gabon (Wikimedia Commons)
 flag of:

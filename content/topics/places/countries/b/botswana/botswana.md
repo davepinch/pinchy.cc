@@ -1,6 +1,6 @@
 ---
 title: "Botswana"
-borders:
+adjacent to:
   - South Africa
   - Namibia
   - Zambia

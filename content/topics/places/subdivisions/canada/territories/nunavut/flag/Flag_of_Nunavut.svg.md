@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Nunavut.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Manitoba.svg (Wikimedia Commons)
   - Flag_of_Newfoundland_and_Labrador.svg (Wikimedia Commons)
   - Flag_of_the_Northwest_Territories.svg (Wikimedia Commons)

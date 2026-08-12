@@ -1,6 +1,6 @@
 ---
 title: "Iran"
-borders:
+adjacent to:
   - Afghanistan
   - Arabian Sea
   - Armenia
@@ -14,7 +14,6 @@ borders:
   - Strait of Hormuz
   - Turkey
   - Turkmenistan
-borders (maritime):
   - Oman
   - United Arab Emirates
   - incomplete list

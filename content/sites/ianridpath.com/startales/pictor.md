@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Pictor (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Caelum (ianridpath.com)
   - Star Tales - Carina (ianridpath.com)
   - Star Tales - Columba (ianridpath.com)

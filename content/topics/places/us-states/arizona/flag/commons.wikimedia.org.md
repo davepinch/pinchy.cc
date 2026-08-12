@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Arizona.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_California.svg (Wikimedia Commons)
   - Flag_of_Colorado.svg (Wikimedia Commons)
   - Flag_of_Mexico.svg (Wikimedia Commons)

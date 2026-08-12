@@ -1,6 +1,6 @@
 ---
 title: "Bahrain"
-borders: Gulf of Bahrain
+adjacent to: Gulf of Bahrain
 borders (maritime): Saudi Arabia
 country of:
   - island

@@ -1,13 +1,12 @@
 ---
 title: "Pakistan"
-borders:
+adjacent to:
   - Afghanistan
   - Arabian Sea
   - China
   - Gulf of Oman
   - India
   - Iran
-borders (maritime):
   - Oman
 country of:
   - Commonwealth of Nations

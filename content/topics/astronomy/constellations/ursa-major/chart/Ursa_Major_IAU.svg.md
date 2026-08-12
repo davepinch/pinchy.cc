@@ -1,6 +1,6 @@
 ---
 title: "Ursa_Major_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Boötes_IAU.svg (Wikimedia Commons)
   - Camelopardalis_IAU.svg (Wikimedia Commons)
   - Canes_Venatici_IAU.svg (Wikimedia Commons)

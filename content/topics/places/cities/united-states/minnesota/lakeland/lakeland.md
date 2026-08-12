@@ -1,6 +1,6 @@
 ---
 title: "Lakeland, Minnesota"
-borders:
+adjacent to:
   - Afton, Minnesota
   - incomplete list
 city of:

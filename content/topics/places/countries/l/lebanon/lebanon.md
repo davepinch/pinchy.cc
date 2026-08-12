@@ -1,6 +1,6 @@
 ---
 title: "Lebanon"
-borders:
+adjacent to:
   - Israel
   - Mediterranean Sea
   - Syria

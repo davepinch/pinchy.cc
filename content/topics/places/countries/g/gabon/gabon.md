@@ -1,6 +1,6 @@
 ---
 title: "Gabon"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Cameroon
   - Equatorial Guinea

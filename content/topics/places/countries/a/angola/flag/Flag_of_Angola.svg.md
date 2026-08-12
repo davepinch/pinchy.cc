@@ -1,6 +1,6 @@
 ---
 title: "Flag of Angola (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Namibia (Wikimedia Commons)
   - Flag of the Republic of the Congo (Wikimedia Commons)

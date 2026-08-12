@@ -1,6 +1,6 @@
 ---
 title: "Virgo_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Boötes_IAU.svg (Wikimedia Commons)
   - Coma_Berenices_IAU.svg (Wikimedia Commons)
   - Corvus_IAU.svg (Wikimedia Commons)

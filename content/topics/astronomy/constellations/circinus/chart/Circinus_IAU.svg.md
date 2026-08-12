@@ -1,6 +1,6 @@
 ---
 title: "Circinus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Apus_IAU.svg (Wikimedia Commons)
   - Centaurus_IAU.svg (Wikimedia Commons)
   - Lupus_IAU.svg (Wikimedia Commons)

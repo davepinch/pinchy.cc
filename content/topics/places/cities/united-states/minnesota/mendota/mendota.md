@@ -1,6 +1,6 @@
 ---
 title: "Mendota, Minnesota"
-borders:
+adjacent to:
   - Lilydale, Minnesota
   - Mendota Heights, Minnesota
   - Minnesota River

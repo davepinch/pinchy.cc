@@ -1,6 +1,6 @@
 ---
 title: "Caribbean Plate"
-borders:
+adjacent to:
   - Cocos Plate
   - North American Plate
   - North Andes Plate

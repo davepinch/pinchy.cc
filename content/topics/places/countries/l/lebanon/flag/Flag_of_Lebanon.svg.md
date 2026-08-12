@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Lebanon.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Israel.svg (Wikimedia Commons)
   - Flag_of_Syria.svg (Wikimedia Commons)
 clockwise around the mediterranean: Flag_of_Israel.svg (Wikimedia Commons)

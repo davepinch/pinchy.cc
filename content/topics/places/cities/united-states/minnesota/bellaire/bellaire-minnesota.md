@@ -1,6 +1,6 @@
 ---
 title: "Bellaire, Minnesota"
-borders:
+adjacent to:
   - Birchwood Village, Minnesota
   - White Bear Lake
   - White Bear Lake, Minnesota

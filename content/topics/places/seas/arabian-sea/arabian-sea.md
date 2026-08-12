@@ -1,7 +1,7 @@
 ---
 title: "Arabian Sea"
 apple maps: "https://maps.apple/p/acR~ndiHk0gY_x"
-borders:
+adjacent to:
   - Gulf of Aden
   - Gulf of Oman
   - India

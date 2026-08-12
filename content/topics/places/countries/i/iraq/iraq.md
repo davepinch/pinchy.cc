@@ -1,6 +1,6 @@
 ---
 title: "Iraq"
-borders:
+adjacent to:
   - Iran
   - Jordan
   - Kuwait

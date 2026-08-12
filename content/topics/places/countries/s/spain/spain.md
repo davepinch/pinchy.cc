@@ -1,6 +1,6 @@
 ---
 title: "Spain"
-borders:
+adjacent to:
   - Andorra
   - Atlantic Ocean
   - France

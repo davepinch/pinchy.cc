@@ -1,6 +1,6 @@
 ---
 title: "Stavropol Krai"
-borders:
+adjacent to:
   - Chechnya
   - Dagestan
   - Rostov Oblast

@@ -4,7 +4,7 @@ across the red sea:
   - Egypt
   - Eritrea
   - Sudan
-borders:
+adjacent to:
   - Gulf of Aqaba
   - Gulf of Bahrain
   - Iraq

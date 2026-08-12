@@ -1,6 +1,6 @@
 ---
 title: "Panama"
-borders:
+adjacent to:
   - Caribbean Sea
   - Colombia
   - Costa Rica

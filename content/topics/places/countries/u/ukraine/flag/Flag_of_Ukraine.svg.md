@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Ukraine.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Belarus.svg (Wikimedia Commons)
   - Flag_of_Hungary.svg (Wikimedia Commons)
   - Flag_of_Moldova.svg (Wikimedia Commons)

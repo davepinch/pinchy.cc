@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_North_Carolina.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
   - Flag_of_South_Carolina.svg (Wikimedia Commons)
   - Flag_of_Tennessee.svg (Wikimedia Commons)

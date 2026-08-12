@@ -1,6 +1,6 @@
 ---
 title: "Florida"
-borders:
+adjacent to:
   - Alabama
   - Georgia
 clockwise on the Gulf of Mexico: Cuba

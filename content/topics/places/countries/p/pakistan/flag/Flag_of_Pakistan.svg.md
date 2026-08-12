@@ -1,13 +1,12 @@
 ---
 title: "Flag_of_Pakistan.svg (Wikimedia Commons)"
-author: "[Zscout370](https://commons.wikimedia.org/wiki/User:Zscout370)"
-borders:
+adjacent to:
   - Flag_of_the_Taliban.svg (Wikimedia Commons) #afghanistan
   - Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons) #china
   - Flag_of_India.svg (Wikimedia Commons)
   - Flag_of_Iran.svg (Wikimedia Commons)
-borders (maritime):
   - Flag_of_Oman.svg (Wikimedia Commons)
+author: "[Zscout370](https://commons.wikimedia.org/wiki/User:Zscout370)"
 flag of:
   - Pakistan
   - five-pointed star

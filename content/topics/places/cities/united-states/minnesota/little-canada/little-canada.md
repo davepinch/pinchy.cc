@@ -1,6 +1,6 @@
 ---
 title: "Little Canada, Minnesota"
-borders:
+adjacent to:
   - Maplewood, Minnesota
   - Roseville, Minnesota
   - Shoreview, Minnesota

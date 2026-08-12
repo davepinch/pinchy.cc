@@ -1,6 +1,6 @@
 ---
 title: "Draco"
-borders:
+adjacent to:
   - Boötes
   - Camelopardalis
   - Cepheus

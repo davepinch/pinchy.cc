@@ -1,6 +1,6 @@
 ---
 title: "Armenia"
-borders:
+adjacent to:
   - Azerbaijan
   - Georgia (country)
   - Iran

@@ -1,6 +1,6 @@
 ---
 title: "Luxembourg"
-borders:
+adjacent to:
   - Belgium
   - France
   - Germany

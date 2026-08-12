@@ -1,6 +1,6 @@
 ---
 title: "New Brighton, Minnesota"
-borders:
+adjacent to:
   - Arden Hills, Minnesota
   - Columbia Heights, Minnesota
   - Fridley, Minnesota

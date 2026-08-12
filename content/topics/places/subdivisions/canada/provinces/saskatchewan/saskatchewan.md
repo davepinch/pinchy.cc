@@ -1,6 +1,6 @@
 ---
 title: "Saskatchewan"
-borders:
+adjacent to:
   - Alberta
   - Manitoba
   - Montana

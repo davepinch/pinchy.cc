@@ -1,6 +1,6 @@
 ---
 title: "Sonora"
-borders:
+adjacent to:
   - Arizona
   - Baja California
   - New Mexico

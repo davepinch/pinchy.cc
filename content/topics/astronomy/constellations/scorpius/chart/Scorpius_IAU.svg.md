@@ -1,6 +1,6 @@
 ---
 title: "Scorpius_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Ara_IAU.svg (Wikimedia Commons)
   - Corona_Australis_IAU.svg (Wikimedia Commons)
   - Libra_IAU.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Octans"
-borders:
+adjacent to:
   - Apus
   - Chamaeleon
   - Hydrus

@@ -1,6 +1,6 @@
 ---
 title: "Flag of Ghana (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Burkina Faso (Wikimedia Commons)
   - Flag of Côte d'Ivoire (Wikimedia Commons)
   - Flag of Togo (Wikimedia Commons)

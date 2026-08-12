@@ -1,6 +1,6 @@
 ---
 title: "Mauritania"
-borders:
+adjacent to:
   - Algeria
   - Atlantic Ocean
   - Mali

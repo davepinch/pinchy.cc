@@ -1,6 +1,6 @@
 ---
 title: "Mozambique"
-borders:
+adjacent to:
   - Eswatini
   - Indian Ocean
   - Malawi

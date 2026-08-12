@@ -1,6 +1,6 @@
 ---
 title: "Scotia Plate"
-borders:
+adjacent to:
   - Antarctic Plate
   - Shetland Plate
   - South American Plate

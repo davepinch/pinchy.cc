@@ -1,6 +1,6 @@
 ---
 title: "Stevens County, Washington"
-borders:
+adjacent to:
   - British Columbia
   - Ferry County, Washington
   - Lincoln County, Washington

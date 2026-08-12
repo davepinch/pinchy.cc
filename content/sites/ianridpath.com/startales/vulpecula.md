@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Vulpecula (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Cygnus (ianridpath.com)
   - Star Tales - Delphinus (ianridpath.com)
   - Star Tales - Hercules (ianridpath.com)

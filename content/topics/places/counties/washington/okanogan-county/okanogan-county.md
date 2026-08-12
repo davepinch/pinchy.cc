@@ -1,6 +1,6 @@
 ---
 title: "Okanogan County, Washington"
-borders:
+adjacent to:
   - British Columbia
   - Chelan County, Washington
   - Douglas County, Washington

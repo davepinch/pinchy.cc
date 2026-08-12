@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_the_People's_Republic_of_China.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_the_Taliban.svg (Wikimedia Commons) # Afghanistan
   - Flag_of_India.svg (Wikimedia Commons) #India
   - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)

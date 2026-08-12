@@ -1,6 +1,6 @@
 ---
 title: "Dagestan"
-borders:
+adjacent to:
   - Azerbaijan
   - Caspian Sea
   - Chechnya

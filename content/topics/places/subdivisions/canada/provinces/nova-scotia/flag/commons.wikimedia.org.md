@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Nova_Scotia.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_New_Brunswick.svg (Wikimedia Commons)
   - incomplete list
 flag of:

@@ -1,6 +1,6 @@
 ---
 title: "Ramsey County, Minnesota"
-borders:
+adjacent to:
   - Hennepin County, Minnesota
   - Washington County, Minnesota
   - incomplete list

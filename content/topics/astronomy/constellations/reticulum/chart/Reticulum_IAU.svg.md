@@ -1,6 +1,6 @@
 ---
 title: "Reticulum_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Dorado_IAU.svg (Wikimedia Commons)
   - Horologium_IAU.svg (Wikimedia Commons)
   - Hydrus_IAU.svg (Wikimedia Commons)

@@ -1,9 +1,8 @@
 ---
 title: "Flag_of_the_United_Arab_Emirates.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Oman.svg (Wikimedia Commons)
   - Flag_of_Saudi_Arabia.svg (Wikimedia Commons)
-borders (maritime):
   - Flag_of_Iran.svg (Wikimedia Commons)
   - Flag_of_Qatar.svg (Wikimedia Commons)
 flag of:

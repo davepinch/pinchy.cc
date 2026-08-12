@@ -1,6 +1,6 @@
 ---
 title: "Piscis_Austrinus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Aquarius_IAU.svg (Wikimedia Commons)
   - Capricornus_IAU.svg (Wikimedia Commons)
   - Grus_IAU.svg (Wikimedia Commons)

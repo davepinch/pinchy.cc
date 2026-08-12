@@ -1,6 +1,6 @@
 ---
 title: "Zambia"
-borders:
+adjacent to:
   - Angola
   - Botswana
   - Democratic Republic of the Congo

@@ -1,6 +1,6 @@
 ---
 title: "Western Sahara"
-borders:
+adjacent to:
   - Algeria
   - Atlantic Ocean
   - Mauritania

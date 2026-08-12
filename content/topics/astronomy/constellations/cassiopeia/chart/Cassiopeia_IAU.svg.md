@@ -1,6 +1,6 @@
 ---
 title: "Cassiopeia_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Camelopardalis_IAU.svg (Wikimedia Commons)
   - Cepheus_IAU.svg (Wikimedia Commons)
   - Lacerta_IAU.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "North Andes Plate"
-borders:
+adjacent to:
   - Caribbean Plate
   - Nazca Plate
   - Panama Plate

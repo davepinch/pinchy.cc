@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Dorado (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Caelum (ianridpath.com)
   - Star Tales - Horologium (ianridpath.com)
   - Star Tales - Hydrus (ianridpath.com)

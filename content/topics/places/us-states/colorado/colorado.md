@@ -1,6 +1,6 @@
 ---
 title: "Colorado"
-borders:
+adjacent to:
   - Arizona
   - Kansas
   - Nebraska

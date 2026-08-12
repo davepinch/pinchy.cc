@@ -1,6 +1,6 @@
 ---
 title: "Blaine, Minnesota"
-borders:
+adjacent to:
   - Circle Pines, Minnesota
   - Coon Rapids, Minnesota
   - Fridley, Minnesota

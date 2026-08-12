@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Microscopium (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Capricornus (ianridpath.com)
   - Star Tales - Grus (ianridpath.com)
   - Star Tales - Indus (ianridpath.com)

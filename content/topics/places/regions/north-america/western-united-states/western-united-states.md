@@ -1,6 +1,6 @@
 ---
 title: "Western United States"
-borders:
+adjacent to:
   - Mississippi River
   - incomplete list
 region of: United States

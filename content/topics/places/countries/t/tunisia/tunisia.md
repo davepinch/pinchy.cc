@@ -1,15 +1,14 @@
 ---
 title: "Tunisia"
-country of:
-  - Africa
-  - North Africa
-land borders:
+adjacent to: 
   - Algeria
   - Libya
   - Mediterranean Sea
-maritime borders:
   - Italy
   - Malta
+country of:
+  - Africa
+  - North Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192757"
 wikidata: "https://www.wikidata.org/wiki/Q948"
 tags:

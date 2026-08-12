@@ -1,6 +1,6 @@
 ---
 title: "Lake Washington Ship Canal"
-borders:
+adjacent to:
   - Adams, Seattle
   - Ballard, Seattle
   - Fremont, Seattle

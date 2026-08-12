@@ -1,6 +1,6 @@
 ---
 title: "Central African Republic"
-borders:
+adjacent to:
   - Cameroon
   - Chad
   - Democratic Republic of the Congo

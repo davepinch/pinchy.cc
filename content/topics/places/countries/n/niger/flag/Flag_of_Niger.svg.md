@@ -1,6 +1,6 @@
 ---
 title: "Flag of Niger (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Algeria (Wikimedia Commons)
   - Flag of Benin (Wikimedia Commons)
   - Flag of Burkina Faso (Wikimedia Commons)

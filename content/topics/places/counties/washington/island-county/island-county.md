@@ -1,6 +1,6 @@
 ---
 title: "Island County, Washington"
-borders:
+adjacent to:
   - Jefferson County, Washington
   - Kitsap County, Washington
   - San Juan County, Washington

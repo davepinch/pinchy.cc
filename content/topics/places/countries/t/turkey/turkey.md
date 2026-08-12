@@ -1,6 +1,6 @@
 ---
 title: "Turkey"
-borders:
+adjacent to:
   - Aegean Sea
   - Armenia
   - Azerbaijan

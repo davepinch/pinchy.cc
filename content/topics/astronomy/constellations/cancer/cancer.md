@@ -1,6 +1,6 @@
 ---
 title: "Cancer"
-borders:
+adjacent to:
   - Canis Major
   - Hydra
   - Gemini

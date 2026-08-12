@@ -1,14 +1,12 @@
 ---
 title: "India"
-borders:
+adjacent to:
   - Arabian Sea
   - Bangladesh
   - Bhutan
   - China
   - Indian Ocean
   - Pakistan
-  - incomplete list
-borders (maritime):
   - Thailand
   - incomplete list
 country of:

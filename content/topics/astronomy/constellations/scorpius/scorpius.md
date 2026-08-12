@@ -1,6 +1,6 @@
 ---
 title: "Scorpius"
-borders:
+adjacent to:
   - Ara
   - Corona Australis
   - Libra

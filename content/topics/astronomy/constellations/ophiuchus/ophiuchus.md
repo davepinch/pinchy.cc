@@ -1,6 +1,6 @@
 ---
 title: "Ophiuchus"
-borders:
+adjacent to:
   - Aquila
   - Hercules
   - Libra

@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Colombia.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Brazil.svg (Wikimedia Commons)
   - Flag_of_Ecuador.svg (Wikimedia Commons)
   - Flag_of_Panama.svg (Wikimedia Commons)

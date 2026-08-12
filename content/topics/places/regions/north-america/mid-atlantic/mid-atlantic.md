@@ -1,6 +1,6 @@
 ---
 title: "Mid-Atlantic United States"
-borders:
+adjacent to:
   - Atlantic Ocean
   - incomplete list
 region of: United States

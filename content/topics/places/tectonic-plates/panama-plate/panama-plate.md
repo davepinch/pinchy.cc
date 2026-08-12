@@ -1,6 +1,6 @@
 ---
 title: "Panama Plate"
-borders:
+adjacent to:
   - Caribbean Plate
   - Cocos Plate
   - Nazca Plate

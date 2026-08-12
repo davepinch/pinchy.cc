@@ -1,7 +1,6 @@
 ---
 title: "Illinois"
-ascend: Willis Tower
-borders:
+adjacent to:
   - Indiana
   - Iowa
   - Kentucky
@@ -9,6 +8,7 @@ borders:
   - Mississippi River
   - Missouri
   - Wisconsin
+ASCEND: Willis Tower
 down the mississippi: Missouri
 state of:
   - Midwestern United States

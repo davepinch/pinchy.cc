@@ -1,6 +1,6 @@
 ---
 title: "Spokane County, Washington"
-borders:
+adjacent to:
   - Idaho
   - Lincoln County, Washington
   - Pend Oreille County, Washington

@@ -1,6 +1,6 @@
 ---
 title: "Centaurus"
-borders:
+adjacent to:
   - Antlia
   - Carina
   - Circinus

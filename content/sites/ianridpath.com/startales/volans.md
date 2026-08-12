@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Volans (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Carina (ianridpath.com)
   - Star Tales - Chamaeleon (ianridpath.com)
   - Star Tales - Dorado (ianridpath.com)

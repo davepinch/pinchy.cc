@@ -1,6 +1,6 @@
 ---
 title: "Ukraine"
-borders:
+adjacent to:
   - Belarus
   - Black Sea
   - Hungary

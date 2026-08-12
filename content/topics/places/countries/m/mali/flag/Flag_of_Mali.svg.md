@@ -1,6 +1,6 @@
 ---
 title: "Flag of Mali (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Algeria (Wikimedia Commons)
   - Flag of Burkina_Faso (Wikimedia Commons)
   - Flag of Côte d'Ivoire (Wikimedia Commons)

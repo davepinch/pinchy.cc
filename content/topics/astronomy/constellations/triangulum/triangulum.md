@@ -1,6 +1,6 @@
 ---
 title: "Triangulum"
-borders:
+adjacent to:
   - Andromeda
   - Aries
   - Perseus

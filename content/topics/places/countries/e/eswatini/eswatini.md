@@ -1,6 +1,6 @@
 ---
 title: "Eswatini"
-borders:
+adjacent to:
   - Mozambique
   - South Africa
 country of:

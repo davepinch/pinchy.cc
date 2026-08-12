@@ -1,6 +1,6 @@
 ---
 title: "Gulf of Aden"
-borders:
+adjacent to:
   - Arabian Sea
   - Bab-el-Mandeb
   - Djibouti

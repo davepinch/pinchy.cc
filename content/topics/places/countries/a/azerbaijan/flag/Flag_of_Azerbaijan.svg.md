@@ -1,6 +1,6 @@
 ---
 title: "Flag of Azerbaijan.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Armenia.svg (Wikimedia Commons)
   - Flag_of_Dagestan.svg (Wikimedia Commons)
   - Flag_of_Georgia.svg (Wikimedia Commons)

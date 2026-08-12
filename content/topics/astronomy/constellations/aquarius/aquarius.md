@@ -1,6 +1,6 @@
 ---
 title: "Aquarius"
-borders:
+adjacent to:
   - Aquila
   - Capricornus
   - Cetus

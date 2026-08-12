@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Vela (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Antlia (ianridpath.com)
   - Star Tales - Carina (ianridpath.com)
   - Star Tales - Centaurus (ianridpath.com)

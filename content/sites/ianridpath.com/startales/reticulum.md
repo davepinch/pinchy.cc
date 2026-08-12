@@ -1,8 +1,6 @@
 ---
 title: "Star Tales - Reticulum (ianridpath.com)"
-archive: >-
-  https://web.archive.org/web/20231101011329/http://www.ianridpath.com/startales/reticulum.html
-borders:
+adjacent to:
   - Star Tales - Dorado (ianridpath.com)
   - Star Tales - Horologium (ianridpath.com)
   - Star Tales - Hydrus (ianridpath.com)

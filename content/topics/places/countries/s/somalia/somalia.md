@@ -1,6 +1,6 @@
 ---
 title: "Somalia"
-borders:
+adjacent to:
   - Arabian Sea
   - Ethiopia
   - Djibouti

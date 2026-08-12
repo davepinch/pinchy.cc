@@ -1,6 +1,6 @@
 ---
 title: "Hercules"
-borders:
+adjacent to:
   - Aquila
   - Boötes
   - Corona Borealis

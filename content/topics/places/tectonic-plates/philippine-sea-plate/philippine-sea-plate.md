@@ -1,6 +1,6 @@
 ---
 title: "Philippine Sea Plate"
-borders:
+adjacent to:
   - Amurian Microplate
   - Bird's Head Plate
   - Caroline Plate

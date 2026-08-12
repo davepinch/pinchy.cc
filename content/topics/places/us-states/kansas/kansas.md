@@ -1,6 +1,6 @@
 ---
 title: "Kansas"
-borders:
+adjacent to:
   - Colorado
   - Missouri
   - Nebraska

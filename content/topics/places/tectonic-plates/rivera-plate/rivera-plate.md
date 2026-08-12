@@ -1,6 +1,6 @@
 ---
 title: "Rivera Plate"
-borders:
+adjacent to:
   - Cocos Plate
   - North American Plate
   - Pacific Plate

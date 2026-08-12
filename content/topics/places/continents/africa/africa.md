@@ -1,7 +1,7 @@
 ---
 title: "Africa"
 an even bigger continent: Asia
-borders:
+adjacent to:
   - Strait of Gibraltar
   - incomplete list
 continent of:

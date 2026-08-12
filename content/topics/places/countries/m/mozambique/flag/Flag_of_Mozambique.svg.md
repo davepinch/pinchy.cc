@@ -1,6 +1,6 @@
 ---
 title: "Flag of Mozambique (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Eswatini (Wikimedia Commons)
   - Flag of Malawi (Wikimedia Commons)
   - Flag of South Africa (Wikimedia Commons)

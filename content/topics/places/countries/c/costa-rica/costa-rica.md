@@ -1,11 +1,10 @@
 ---
 title: "Costa Rica"
-borders:
+adjacent to:
   - Caribbean Sea
   - Nicaragua
   - Pacific Ocean
   - Panama
-borders (maritime):
   - Ecuador
 country of:
   - Central America

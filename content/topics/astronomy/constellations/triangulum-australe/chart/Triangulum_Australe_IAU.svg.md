@@ -1,6 +1,6 @@
 ---
 title: "Triangulum_Australe_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Apus_IAU.svg (Wikimedia Commons)
   - Ara_IAU.svg (Wikimedia Commons)
   - Circinus_IAU.svg (Wikimedia Commons)

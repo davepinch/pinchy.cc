@@ -1,6 +1,6 @@
 ---
 title: "Virgo"
-borders:
+adjacent to:
   - Boötes
   - Coma Berenices
   - Corvus
@@ -15,7 +15,6 @@ constellation of:
   - southern celestial hemisphere
   - Ptolemy
 passage through the ecliptic: Libra
-type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8842"
 tags:
   - constellation

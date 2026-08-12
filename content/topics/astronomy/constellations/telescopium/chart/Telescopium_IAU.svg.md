@@ -1,6 +1,6 @@
 ---
 title: "Telescopium_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Ara_IAU.svg (Wikimedia Commons)
   - Corona_Australis_IAU.svg (Wikimedia Commons)
   - Indus_IAU.svg (Wikimedia Commons)

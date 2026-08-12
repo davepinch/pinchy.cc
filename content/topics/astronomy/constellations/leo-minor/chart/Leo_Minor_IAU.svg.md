@@ -1,6 +1,6 @@
 ---
 title: "Leo_Minor_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Cancer_IAU.svg (Wikimedia Commons)
   - Leo_IAU.svg (Wikimedia Commons)
   - Lynx_IAU.svg (Wikimedia Commons)

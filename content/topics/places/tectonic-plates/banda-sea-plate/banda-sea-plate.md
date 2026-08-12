@@ -1,6 +1,6 @@
 ---
 title: "Banda Sea Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Bird's Head Plate
   - Molucca Sea Collision Zone

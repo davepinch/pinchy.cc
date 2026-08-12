@@ -1,6 +1,6 @@
 ---
 title: "Maoke Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Bird's Head Plate
   - Woodlark Plate

@@ -1,6 +1,6 @@
 ---
 title: "Liberia"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Guinea
   - Ivory Coast

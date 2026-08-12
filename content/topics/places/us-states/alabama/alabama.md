@@ -1,6 +1,6 @@
 ---
 title: "Alabama"
-borders:
+adjacent to:
   - Florida
   - Georgia
   - Mississippi

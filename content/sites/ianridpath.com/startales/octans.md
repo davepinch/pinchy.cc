@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Octans (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Apus (ianridpath.com)
   - Star Tales - Chamaeleon (ianridpath.com)
   - Star Tales - Hydrus (ianridpath.com)

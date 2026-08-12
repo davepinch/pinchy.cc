@@ -1,6 +1,6 @@
 ---
 title: "Lino Lakes, Minnesota"
-borders:
+adjacent to:
   - Blaine, Minnesota
   - Circle Pines, Minnesota
   - Shoreview, Minnesota

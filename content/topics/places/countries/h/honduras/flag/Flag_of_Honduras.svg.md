@@ -1,6 +1,6 @@
 ---
 title: "Flag of Honduras.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Nicaragua.svg (Wikimedia Commons)
   - incomplete list
 flag of:

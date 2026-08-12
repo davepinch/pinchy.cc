@@ -1,6 +1,6 @@
 ---
 title: "Columbia County, Washington"
-borders:
+adjacent to:
   - Franklin County, Washington
   - Garfield County, Washington
   - Oregon

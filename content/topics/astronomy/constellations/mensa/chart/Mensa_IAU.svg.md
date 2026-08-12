@@ -1,6 +1,6 @@
 ---
 title: "Mensa_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Chamaeleon_IAU.svg (Wikimedia Commons)
   - Dorado_IAU.svg (Wikimedia Commons)
   - Hydrus_IAU.svg (Wikimedia Commons)

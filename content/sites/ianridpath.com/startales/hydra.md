@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Hydra (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Antlia (ianridpath.com)
   - Star Tales - Cancer (ianridpath.com)
   - Star Tales - Canis Minor (ianridpath.com)

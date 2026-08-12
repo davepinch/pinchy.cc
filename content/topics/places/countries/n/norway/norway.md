@@ -1,6 +1,6 @@
 ---
 title: "Norway"
-borders:
+adjacent to:
   - Denmark
   - Finland
   - Russia

@@ -1,6 +1,6 @@
 ---
 title: "Vela_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Antlia_IAU.svg (Wikimedia Commons)
   - Carina_IAU.svg (Wikimedia Commons)
   - Centaurus_IAU.svg (Wikimedia Commons)

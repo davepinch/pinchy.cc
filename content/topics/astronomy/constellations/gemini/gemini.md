@@ -1,6 +1,6 @@
 ---
 title: "Gemini"
-borders:
+adjacent to:
   - Auriga
   - Cancer
   - Canis Minor

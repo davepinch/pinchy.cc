@@ -1,6 +1,6 @@
 ---
 title: "Grus"
-borders:
+adjacent to:
   - Indus
   - Microscopium
   - Phoenix (constellation)

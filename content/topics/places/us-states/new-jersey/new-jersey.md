@@ -1,6 +1,6 @@
 ---
 title: "New Jersey"
-borders:
+adjacent to:
   - Delaware
   - New York
   - Pennsylvania

@@ -1,6 +1,6 @@
 ---
 title: "France"
-borders:
+adjacent to:
   - Andorra
   - Belgium
   - German

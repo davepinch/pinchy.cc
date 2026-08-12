@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Turkey.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Armenia.svg (Wikimedia Commons)
   - Flag of Azerbaijan.svg (Wikimedia Commons)
   - Flag_of_Bulgaria.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Lupus"
-borders:
+adjacent to:
   - Centaurus
   - Circinus
   - Hydra

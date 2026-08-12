@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Cygnus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Cepheus (ianridpath.com)
   - Star Tales - Draco (ianridpath.com)
   - Star Tales - Lacerta (ianridpath.com)

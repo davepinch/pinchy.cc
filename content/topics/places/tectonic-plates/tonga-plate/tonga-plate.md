@@ -1,6 +1,6 @@
 ---
 title: "Tonga Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Kermadec Plate
   - Niuafo'ou Plate

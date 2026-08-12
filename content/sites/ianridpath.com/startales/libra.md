@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Libra (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Centaurus (ianridpath.com)
   - Star Tales - Hydra (ianridpath.com)
   - Star Tales - Lupus (ianridpath.com)

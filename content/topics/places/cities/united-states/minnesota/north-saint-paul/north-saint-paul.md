@@ -1,6 +1,6 @@
 ---
 title: "North Saint Paul, Minnesota"
-borders:
+adjacent to:
   - Maplewood, Minnesota
   - Oakdale, Minnesota
   - Washington County, Minnesota

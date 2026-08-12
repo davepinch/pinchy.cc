@@ -1,6 +1,6 @@
 ---
 title: "Nigeria"
-borders:
+adjacent to:
   - Benin
   - Cameroon
   - Chad

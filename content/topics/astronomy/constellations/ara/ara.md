@@ -1,6 +1,6 @@
 ---
 title: "Ara"
-borders:
+adjacent to:
   - Apus
   - Corona Australis
   - Norma

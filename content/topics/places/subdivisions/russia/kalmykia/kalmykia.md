@@ -1,6 +1,6 @@
 ---
 title: "Kalmykia"
-borders:
+adjacent to:
   - Astrakhan Oblast
   - Caspian Sea
   - Dagestan

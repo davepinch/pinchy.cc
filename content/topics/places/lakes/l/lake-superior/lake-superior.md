@@ -1,6 +1,6 @@
 ---
 title: "Lake Superior"
-borders:
+adjacent to:
   - Duluth, Minnesota
   - Michigan
   - Minnesota

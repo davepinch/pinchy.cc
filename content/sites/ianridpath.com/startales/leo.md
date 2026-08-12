@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Leo (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Cancer (ianridpath.com)
   - Star Tales - Coma Berenices (ianridpath.com)
   - Star Tales - Crater (ianridpath.com)

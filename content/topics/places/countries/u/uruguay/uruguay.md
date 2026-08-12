@@ -1,6 +1,6 @@
 ---
 title: "Uruguay"
-borders:
+adjacent to:
   - Argentina
   - Atlantic Ocean
   - Brazil

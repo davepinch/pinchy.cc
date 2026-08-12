@@ -1,6 +1,6 @@
 ---
 title: "Antlia"
-borders:
+adjacent to:
   - Centaurus
   - Hydra
   - Pyxis

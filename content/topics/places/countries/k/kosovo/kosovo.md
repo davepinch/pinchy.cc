@@ -1,6 +1,6 @@
 ---
 title: "Kosovo"
-borders:
+adjacent to:
   - Albania
   - Montenegro
   - North Macedonia

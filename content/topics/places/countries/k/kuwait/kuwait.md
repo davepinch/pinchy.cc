@@ -1,6 +1,6 @@
 ---
 title: "Kuwait"
-borders:
+adjacent to:
   - Iraq
   - Iran
   - Saudi Arabia

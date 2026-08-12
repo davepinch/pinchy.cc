@@ -1,6 +1,6 @@
 ---
 title: "Flag of Transnistria (state).svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Moldova.svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
 flag of:

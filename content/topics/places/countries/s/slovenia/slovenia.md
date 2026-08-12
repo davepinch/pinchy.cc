@@ -1,6 +1,6 @@
 ---
 title: "Slovenia"
-borders:
+adjacent to:
   - Adriatic Sea
   - Austria
   - Croatia

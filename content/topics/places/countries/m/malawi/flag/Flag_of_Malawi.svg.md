@@ -1,6 +1,6 @@
 ---
 title: "Flag of Malawi (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Mozambique (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)
   - Flag of Zambia (Wikimedia Commons)

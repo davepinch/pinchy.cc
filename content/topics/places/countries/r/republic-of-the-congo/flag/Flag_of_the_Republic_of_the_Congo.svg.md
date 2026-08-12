@@ -1,6 +1,6 @@
 ---
 title: "Flag of the Republic of the Congo (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Angola (Wikimedia Commons)
   - Flag of Cameroon (Wikimedia Commons)
   - Flag of the Central African Republic (Wikimedia Commons)

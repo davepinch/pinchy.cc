@@ -1,6 +1,6 @@
 ---
 title: "Pine Springs, Minnesota"
-borders:
+adjacent to:
   - Lake Elmo, Minnesota
   - Oakdale, Minnesota
   - Mahtomedi, Minnesota

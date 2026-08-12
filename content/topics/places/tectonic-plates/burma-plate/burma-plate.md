@@ -1,6 +1,6 @@
 ---
 title: "Burma Plate"
-borders:
+adjacent to:
   - Australian Plate
   - Eurasian Plate
   - Indian Plate

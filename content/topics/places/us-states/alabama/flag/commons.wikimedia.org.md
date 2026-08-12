@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Alabama.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Florida.svg (Wikimedia Commons)
   - Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
   - Flag_of_Mississippi.svg (Wikimedia Commons)

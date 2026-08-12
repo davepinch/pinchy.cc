@@ -1,6 +1,6 @@
 ---
 title: "Chad"
-borders:
+adjacent to:
   - Cameroon
   - Central African Republic
   - Libya

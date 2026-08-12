@@ -1,13 +1,12 @@
 ---
 title: "Flag of Libya (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Algeria (Wikimedia Commons)
   - Flag of Chad (Wikimedia Commons)
   - Flag of Egypt (Wikimedia Commons)
   - Flag of Niger (Wikimedia Commons)
   - Flag of Sudan (Wikimedia Commons)
   - Flag of Tunisia (Wikimedia Commons)
-borders (maritime):
   - Flag_of_Greece.svg (Wikimedia Commons)
   - Flag_of_Italy.svg (Wikimedia Commons)
   - Flag_of_Malta.svg (Wikimedia Commons)

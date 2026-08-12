@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Caelum (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Columba (ianridpath.com)
   - Star Tales - Dorado (ianridpath.com)
   - Star Tales - Eridanus (ianridpath.com)

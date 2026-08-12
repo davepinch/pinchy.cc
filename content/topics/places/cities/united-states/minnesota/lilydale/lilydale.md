@@ -1,6 +1,6 @@
 ---
 title: "Lilydale, Minnesota"
-borders:
+adjacent to:
   - Mendota, Minnesota
   - Mendota Heights, Minnesota
   - Mississippi River

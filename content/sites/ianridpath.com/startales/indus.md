@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Indus (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Microscopium (ianridpath.com)
   - Star Tales - Octans (ianridpath.com)
   - Star Tales - Pavo (ianridpath.com)

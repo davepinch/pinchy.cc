@@ -1,6 +1,6 @@
 ---
 title: "Hydra"
-borders:
+adjacent to:
   - Antlia
   - Cancer
   - Canis Minor

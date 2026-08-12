@@ -1,6 +1,6 @@
 ---
 title: "Ballard Locks"
-borders:
+adjacent to:
   - Ballard, Seattle
   - Magnolia, Seattle
   - Salmon Bay

@@ -1,6 +1,6 @@
 ---
 title: "Hydra_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Antlia_IAU.svg (Wikimedia Commons)
   - Cancer_IAU.svg (Wikimedia Commons)
   - Canis_Minor_IAU.svg (Wikimedia Commons)

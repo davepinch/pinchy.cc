@@ -1,6 +1,6 @@
 ---
 title: "Washington County, Minnesota"
-borders:
+adjacent to:
   - Ramsey County, Minnesota
   - Saint Croix River
 county in: Minnesota

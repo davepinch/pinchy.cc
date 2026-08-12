@@ -1,6 +1,6 @@
 ---
 title: "Senegal"
-borders:
+adjacent to:
   - Mali
   - Mauritania
   - incomplete list

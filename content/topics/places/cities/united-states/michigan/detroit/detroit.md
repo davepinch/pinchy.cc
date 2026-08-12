@@ -1,6 +1,6 @@
 ---
 title: "Detroit"
-borders:
+adjacent to:
   - Canada
   - Detroit River
 city of: Michigan

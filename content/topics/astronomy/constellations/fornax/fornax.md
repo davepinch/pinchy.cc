@@ -1,6 +1,6 @@
 ---
 title: "Fornax"
-borders:
+adjacent to:
   - Cetus
   - Eridanus
   - Phoenix (constellation)

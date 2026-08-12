@@ -1,6 +1,6 @@
 ---
 title: "Malawi"
-borders:
+adjacent to:
   - Mozambique
   - Tanzania
   - Zambia

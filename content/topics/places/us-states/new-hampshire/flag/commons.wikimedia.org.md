@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_New_Hampshire.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
   - Flag_of_the_State_of_Maine.svg (Wikimedia Commons)
   - Flag_of_Massachusetts.svg (Wikimedia Commons)

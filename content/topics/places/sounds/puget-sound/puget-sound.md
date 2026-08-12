@@ -1,6 +1,6 @@
 ---
 title: "Puget Sound"
-borders:
+adjacent to:
   - Burien, Washington
   - Des Moines, Washington
   - Everett, Washington

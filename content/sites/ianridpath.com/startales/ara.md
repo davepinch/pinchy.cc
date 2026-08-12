@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Ara (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Apus (ianridpath.com)
   - Star Tales - Corona Australis (ianridpath.com)
   - Star Tales - Norma (ianridpath.com)

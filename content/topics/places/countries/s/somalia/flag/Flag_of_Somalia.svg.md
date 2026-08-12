@@ -1,10 +1,9 @@
 ---
 title: "Flag of Somalia (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Djibouti (Wikimedia Commons)
   - Flag of Ethiopia (Wikimedia Commons)
   - Flag of Kenya (Wikimedia Commons)
-borders (maritime):
   - Flag_of_Yemen.svg (Wikimedia Commons)
 flag of:
   - Somalia

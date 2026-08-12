@@ -1,6 +1,6 @@
 ---
 title: "Sierra Leone"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Liberia
   - Guinea

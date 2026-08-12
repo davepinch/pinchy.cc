@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Corona Australis (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Ara (ianridpath.com)
   - Star Tales - Sagittarius (ianridpath.com)
   - Star Tales - Scorpius (ianridpath.com)

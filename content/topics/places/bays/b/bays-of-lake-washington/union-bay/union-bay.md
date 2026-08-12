@@ -1,12 +1,12 @@
 ---
 title: "Union Bay"
-bay in:
-  - Lake Washington
-  - Seattle
-borders:
+adjacent to:
   - Laurelhurst, Seattle
   - Madison Park, Seattle
   - Montlake, Seattle
+bay in:
+  - Lake Washington
+  - Seattle
 cruise eastbound on the canal: Lake Washington
 cruise westbound on the canal: Montlake Cut
 openstreetmap: "https://www.openstreetmap.org/node/369029411"

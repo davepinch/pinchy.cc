@@ -1,12 +1,12 @@
 ---
 title: "Amurian Microplate"
-another microplate: Easter Microplate
-borders:
+adjacent to:
   - Eurasian Plate
   - Okhotsk Microplate
   - Okinawa Plate
   - Philippine Sea Plate
   - Yangtze Plate
+another microplate: Easter Microplate
 tectonic plate of:
   - China
   - Japan

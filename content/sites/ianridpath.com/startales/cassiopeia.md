@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Cassiopeia (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Andromeda (ianridpath.com)
   - Star Tales - Camelopardalis (ianridpath.com)
   - Star Tales - Cepheus (ianridpath.com)

@@ -1,6 +1,6 @@
 ---
 title: "Nazca Plate"
-borders:
+adjacent to:
   - Antarctic Plate
   - Cocos Plate
   - Easter Microplate

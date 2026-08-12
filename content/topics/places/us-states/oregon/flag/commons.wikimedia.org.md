@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Oregon.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_California.svg (Wikimedia Commons)
   - Flag_of_Idaho.svg (Wikimedia Commons)
   - Flag_of_Nevada.svg (Wikimedia Commons)

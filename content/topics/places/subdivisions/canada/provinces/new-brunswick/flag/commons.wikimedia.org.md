@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_New_Brunswick.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_the_State_of_Maine.svg (Wikimedia Commons)
   - Flag_of_Nova_Scotia.svg (Wikimedia Commons)
   - Flag_of_Quebec.svg (Wikimedia Commons)

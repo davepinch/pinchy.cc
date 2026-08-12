@@ -1,6 +1,6 @@
 ---
 title: "Douglas County, Washington"
-borders:
+adjacent to:
   - Chelan County, Washington
   - Grant County, Washington
   - Kittitas County, Washington

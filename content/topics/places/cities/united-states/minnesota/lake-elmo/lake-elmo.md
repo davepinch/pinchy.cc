@@ -1,6 +1,6 @@
 ---
 title: "Lake Elmo, Minnesota"
-borders:
+adjacent to:
   - Baytown Township
   - Oak Park Heights, Minnesota
   - Oakdale, Minnesota

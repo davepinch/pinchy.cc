@@ -1,13 +1,13 @@
 ---
 title: "Kittitas County, Washington"
-ASCEND: Mount Daniel
-borders:
+adjacent to:
   - Chelan County, Washington
   - Douglas County, Washington
   - Grant County, Washington
   - King County, Washington
   - Pierce County, Washington
   - Yakima County, Washington
+ASCEND: Mount Daniel
 county in:
   - Washington
   - Cascade Range

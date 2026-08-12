@@ -1,6 +1,6 @@
 ---
 title: "Czech Republic"
-borders:
+adjacent to:
   - Austria
   - Germany
   - Poland

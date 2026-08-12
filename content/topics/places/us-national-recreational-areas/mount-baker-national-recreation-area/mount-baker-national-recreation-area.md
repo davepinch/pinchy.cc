@@ -1,6 +1,6 @@
 ---
 title: "Mount Baker National Recreation Area"
-borders:
+adjacent to:
   - Mount Baker Wilderness
   - Mount Baker–Snoqualmie National Forest
 national recreation area of:

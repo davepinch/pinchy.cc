@@ -1,6 +1,6 @@
 ---
 title: "Guatemala"
-borders:
+adjacent to:
   - Belize
   - El Salvador
   - Honduras

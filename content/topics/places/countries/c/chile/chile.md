@@ -1,6 +1,6 @@
 ---
 title: "Chile"
-borders:
+adjacent to:
   - Argentina
   - Bolivia
   - Drake Passage

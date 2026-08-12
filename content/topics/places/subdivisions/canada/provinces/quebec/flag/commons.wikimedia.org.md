@@ -1,7 +1,6 @@
 ---
 title: "Flag_of_Quebec.svg (Wikimedia Commons)"
-author: "[Krun (original)](https://commons.wikimedia.org/wiki/User:Krun)"
-borders:
+adjacent to:
   - Flag_of_the_State_of_Maine.svg (Wikimedia Commons)
   - Flag_of_New_Brunswick.svg (Wikimedia Commons)
   - Flag_of_New_Hampshire.svg (Wikimedia Commons)
@@ -10,6 +9,7 @@ borders:
   - Flag_of_Ontario.svg (Wikimedia Commons)
   - Flag_of_the_United_States.svg (Wikimedia Commons)
   - Flag_of_Vermont.svg (Wikimedia Commons)
+author: "[Krun (original)](https://commons.wikimedia.org/wiki/User:Krun)"
 flag of:
   - Quebec
   - cross

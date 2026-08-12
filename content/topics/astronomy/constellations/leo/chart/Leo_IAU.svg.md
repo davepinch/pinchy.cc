@@ -1,6 +1,6 @@
 ---
 title: "Leo_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Cancer_IAU.svg (Wikimedia Commons)
   - Coma_Berenices_IAU.svg (Wikimedia Commons)
   - Crater_IAU.svg (Wikimedia Commons)

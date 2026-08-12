@@ -1,6 +1,6 @@
 ---
 title: "Flag of Ethiopia (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Djibouti (Wikimedia Commons)
   - Flag of Eritrea (Wikimedia Commons)
   - Flag of Kenya (Wikimedia Commons)

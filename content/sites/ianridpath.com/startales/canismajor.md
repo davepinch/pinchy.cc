@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Canis Major (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Columba (ianridpath.com)
   - Star Tales - Lepus (ianridpath.com)
   - Star Tales - Monoceros (ianridpath.com)

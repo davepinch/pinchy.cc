@@ -1,6 +1,6 @@
 ---
 title: "Draco_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Boötes_IAU.svg (Wikimedia Commons)
   - Camelopardalis_IAU.svg (Wikimedia Commons)
   - Cepheus_IAU.svg (Wikimedia Commons)

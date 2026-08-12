@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Belarus.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Latvia.svg (Wikimedia Commons)
   - Flag_of_Lithuania.svg (Wikimedia Commons)
   - Flag_of_Poland.svg (Wikimedia Commons)

@@ -1,6 +1,6 @@
 ---
 title: "Ohio"
-borders:
+adjacent to:
   - Canada
   - Kentucky
   - Indiana

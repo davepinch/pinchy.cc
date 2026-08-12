@@ -1,12 +1,12 @@
 ---
 title: "Flag_of_Romania.svg (Wikimedia Commons)"
-author: "https://commons.wikimedia.org/wiki/User:AdiJapan"
-borders:
+adjacent to:
   - Flag_of_Bulgaria.svg (Wikimedia Commons)
   - Flag_of_Hungary.svg (Wikimedia Commons)
   - Flag_of_Moldova.svg (Wikimedia Commons)
   - Flag_of_Serbia.svg (Wikimedia Commons)
   - Flag_of_Ukraine.svg (Wikimedia Commons)
+author: "https://commons.wikimedia.org/wiki/User:AdiJapan"
 clockwise around the black sea: Flag_of_Moldova.svg (Wikimedia Commons)
 flag of:
   - Romania

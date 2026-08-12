@@ -1,6 +1,6 @@
 ---
 title: "Oman"
-borders:
+adjacent to:
   - Arabian Sea
   - Gulf of Oman
   - Persian Gulf
@@ -8,7 +8,6 @@ borders:
   - Strait of Hormuz
   - United Arab Emirates
   - Yemen
-borders (maritime):
   - Iran
   - Pakistan
 country of:

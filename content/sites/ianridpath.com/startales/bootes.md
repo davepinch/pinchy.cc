@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Boötes (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Canes Venatici (ianridpath.com)
   - Star Tales - Coma Berenices (ianridpath.com)
   - Star Tales - Corona Borealis (ianridpath.com)

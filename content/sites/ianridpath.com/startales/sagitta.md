@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Sagitta (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Aquila (ianridpath.com)
   - Star Tales - Delphinus (ianridpath.com)
   - Star Tales - Hercules (ianridpath.com)

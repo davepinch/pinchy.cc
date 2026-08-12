@@ -1,6 +1,6 @@
 ---
 title: "Columba_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Caelum_IAU.svg (Wikimedia Commons)
   - Canis_Major_IAU.svg (Wikimedia Commons)
   - Lepus_IAU.svg (Wikimedia Commons)

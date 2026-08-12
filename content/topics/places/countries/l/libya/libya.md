@@ -1,6 +1,6 @@
 ---
 title: "Libya"
-borders:
+adjacent to:
   - Algeria
   - Chad
   - Egypt
@@ -8,7 +8,6 @@ borders:
   - Niger
   - Sudan
   - Tunisia
-borders (maritime):
   - Greece
   - Italy
   - Malta

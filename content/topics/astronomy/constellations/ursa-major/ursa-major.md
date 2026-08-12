@@ -1,6 +1,6 @@
 ---
 title: "Ursa Major"
-borders:
+adjacent to:
   - Boötes
   - Camelopardalis
   - Canes Venatici
@@ -16,7 +16,6 @@ constellation of:
 related:
   - Big Dipper
   - Ursa Minor
-type: constellation
 wikidata: "https://www.wikidata.org/wiki/Q8918"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ursa_Major_(constellation)"
 tags:

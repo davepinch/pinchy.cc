@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Iraq.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Iran.svg (Wikimedia Commons)
   - Flag_of_Jordan.svg (Wikimedia Commons)
   - Flag_of_Kuwait.svg (Wikimedia Commons)

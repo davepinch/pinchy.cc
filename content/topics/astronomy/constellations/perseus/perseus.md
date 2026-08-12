@@ -1,6 +1,6 @@
 ---
 title: "Perseus"
-borders:
+adjacent to:
   - Andromeda
   - Aries
   - Auriga

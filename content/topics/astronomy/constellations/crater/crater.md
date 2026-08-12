@@ -1,6 +1,6 @@
 ---
 title: "Crater"
-borders:
+adjacent to:
   - Corvus
   - Hydra
   - Leo

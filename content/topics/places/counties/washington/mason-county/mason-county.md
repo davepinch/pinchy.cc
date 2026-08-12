@@ -1,6 +1,6 @@
 ---
 title: "Mason County, Washington"
-borders:
+adjacent to:
   - Jefferson County, Washington
   - Kitsap County, Washington
   - Pierce County, Washington

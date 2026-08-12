@@ -1,13 +1,13 @@
 ---
 title: "Flag_of_Arkansas.svg (Wikimedia Commons)"
-author: Originally from openclipart.org, specifically usa_arkansas.svg, by Steve Hall
-borders:
+adjacent to:
   - Flag_of_Louisiana.svg (Wikimedia Commons)
   - Flag_of_Mississippi.svg (Wikimedia Commons)
   - Flag_of_Missouri.svg (Wikimedia Commons)
   - Flag_of_Oklahoma.svg (Wikimedia Commons)
   - Flag_of_Tennessee.svg (Wikimedia Commons)
   - Flag_of_Texas.svg (Wikimedia Commons)
+author: Originally from openclipart.org, specifically usa_arkansas.svg, by Steve Hall
 flag of:
   - Arkansas
   - five-pointed star

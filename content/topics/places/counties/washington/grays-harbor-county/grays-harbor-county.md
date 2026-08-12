@@ -1,6 +1,6 @@
 ---
 title: "Grays Harbor County, Washington"
-borders:
+adjacent to:
   - Jefferson County, Washington
   - Lewis County, Washington
   - Mason County, Washington

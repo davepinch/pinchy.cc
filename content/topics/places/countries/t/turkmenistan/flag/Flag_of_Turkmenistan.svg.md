@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Turkmenistan.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_the_Taliban.svg (Wikimedia Commons) #Afghanistan
   - Flag_of_Iran.svg (Wikimedia Commons)
   - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)

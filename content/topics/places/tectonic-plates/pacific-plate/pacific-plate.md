@@ -1,6 +1,6 @@
 ---
 title: "Pacific Plate"
-borders:
+adjacent to:
   - Antarctic Plate
   - Australian Plate
   - Balmoral Reef Plate

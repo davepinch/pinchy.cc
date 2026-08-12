@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Volgograd_Oblast.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Astrakhan_Oblast.svg (Wikimedia Commons)
   - Flag_of_Kalmykia.svg (Wikimedia Commons)
   - Flag_of_Kazakhstan_(President_of_Kazakhstan_website).svg (Wikimedia Commons)

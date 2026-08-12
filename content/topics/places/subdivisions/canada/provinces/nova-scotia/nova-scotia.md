@@ -1,6 +1,6 @@
 ---
 title: "Nova Scotia"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Gulf of St. Lawrence
   - New Brunswick

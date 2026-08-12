@@ -1,6 +1,6 @@
 ---
 title: "Russia"
-borders:
+adjacent to:
   - Azerbaijan
   - Baltic Sea
   - Belarus

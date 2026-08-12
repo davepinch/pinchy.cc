@@ -1,6 +1,6 @@
 ---
 title: "Horologium_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Caelum_IAU.svg (Wikimedia Commons)
   - Dorado_IAU.svg (Wikimedia Commons)
   - Eridanus_IAU.svg (Wikimedia Commons)

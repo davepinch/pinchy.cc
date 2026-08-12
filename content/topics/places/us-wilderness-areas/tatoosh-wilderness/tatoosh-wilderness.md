@@ -1,6 +1,6 @@
 ---
 title: "Tatoosh Wilderness"
-borders:
+adjacent to:
   - Mount Rainier National Park
   - Mount Rainier Wilderness
 openstreetmap: "https://www.openstreetmap.org/relation/6109264"

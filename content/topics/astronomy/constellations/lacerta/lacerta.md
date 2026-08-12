@@ -1,6 +1,6 @@
 ---
 title: "Lacerta"
-borders:
+adjacent to:
   - Andromeda
   - Cassiopeia
   - Cepheus

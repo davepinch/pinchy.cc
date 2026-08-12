@@ -1,6 +1,6 @@
 ---
 title: "Orion_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Eridanus_IAU.svg (Wikimedia Commons)
   - Gemini_IAU.svg (Wikimedia Commons)
   - Lepus_IAU.svg (Wikimedia Commons)

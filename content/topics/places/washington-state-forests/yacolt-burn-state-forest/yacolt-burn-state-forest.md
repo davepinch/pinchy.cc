@@ -1,6 +1,6 @@
 ---
 title: "Yacolt Burn State Forest"
-borders: Table Mountain Natural Resources Conservation Area
+adjacent to: Table Mountain Natural Resources Conservation Area
 namesake of: Yacolt Burn
 official website: "https://dnr.wa.gov/forest-and-trust-lands/yacolt-burn-state-forest"
 openstreetmap: "https://www.openstreetmap.org/relation/10384404"

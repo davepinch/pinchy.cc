@@ -1,6 +1,6 @@
 ---
 title: "Lyra"
-borders:
+adjacent to:
   - Cygnus
   - Draco
   - Hercules

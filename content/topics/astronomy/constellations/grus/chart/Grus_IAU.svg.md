@@ -1,6 +1,6 @@
 ---
 title: "Grus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Indus_IAU.svg (Wikimedia Commons)
   - Microscopium_IAU.svg (Wikimedia Commons)
   - Phoenix_IAU.svg (Wikimedia Commons)

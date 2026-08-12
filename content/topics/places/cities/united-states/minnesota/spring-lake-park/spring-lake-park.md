@@ -1,6 +1,6 @@
 ---
 title: "Spring Lake Park, Minnesota"
-borders:
+adjacent to:
   - Blaine, Minnesota
   - Fridley, Minnesota
   - Mounds View, Minnesota

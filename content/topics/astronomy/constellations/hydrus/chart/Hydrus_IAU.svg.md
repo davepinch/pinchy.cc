@@ -1,6 +1,6 @@
 ---
 title: "Hydrus_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Dorado_IAU.svg (Wikimedia Commons)
   - Eridanus_IAU.svg (Wikimedia Commons)
   - Horologium_IAU.svg (Wikimedia Commons)

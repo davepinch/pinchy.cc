@@ -1,6 +1,6 @@
 ---
 title: "North Oaks, Minnesota"
-borders:
+adjacent to:
   - Lino Lakes, Minnesota
   - Shoreview, Minnesota
   - Vadnais Heights, Minnesota

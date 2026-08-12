@@ -1,6 +1,6 @@
 ---
 title: "South Sandwich Plate"
-borders:
+adjacent to:
   - Antarctic Plate
   - Scotia Plate
   - South American Plate

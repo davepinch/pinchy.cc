@@ -1,21 +1,20 @@
 ---
 title: "Flag_of_Italy.svg (Wikimedia Commons)"
-capital: Flag_of_Rome.svg (Wikimedia Commons)
-clockwise around the mediterranean: Flag_of_Slovenia.svg (Wikimedia Commons)
-flag of: Italy
-land borders:
+adjacent to:
   - Flag of Austria.svg (Wikimedia Commons)
   - Flag_of_France.svg (Wikimedia Commons)
   - Flag_of_San_Marino.svg (Wikimedia Commons)
   - Flag_of_Slovenia.svg (Wikimedia Commons)
   - Flag_of_Switzerland_(Pantone).svg (Wikimedia Commons)
   - Flag_of_the_Vatican_City_(2023–present).svg (Wikimedia Commons)
-license: public domain
-maritime borders:
   - Flag_of_Croatia.svg (Wikimedia Commons)
   - Flag of Libya (Wikimedia Commons)
   - Flag of Tunisia (Wikimedia Commons)
   - incomplete list
+capital: Flag_of_Rome.svg (Wikimedia Commons)
+clockwise around the mediterranean: Flag_of_Slovenia.svg (Wikimedia Commons)
+flag of: Italy
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/en/0/03/Flag_of_Italy.svg"
 type: picture
 url: /en.wikipedia.org/wiki/Flag_of_Italy.svg/

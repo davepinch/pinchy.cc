@@ -1,11 +1,11 @@
 ---
 title: "Washington"
-ASCEND: Mount Rainier
-borders:
+adjacent to:
   - Canada
   - Columbia River
   - Idaho
   - Oregon
+ASCEND: Mount Rainier
 coastal state of: Pacific Ocean
 down the pacific coast: Oregon
 namesake of: George Washington

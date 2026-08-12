@@ -1,13 +1,12 @@
 ---
 title: "Yemen"
-borders:
+adjacent to:
   - Arabian Sea
   - Bab-el-Mandeb
   - Gulf of Aden
   - Indian Ocean
   - Oman
   - Saudi Arabia
-borders (maritime):
   - Eritrea
   - Djibouti
   - Somalia

@@ -1,6 +1,6 @@
 ---
 title: "Microscopium_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Capricornus_IAU.svg (Wikimedia Commons)
   - Grus_IAU.svg (Wikimedia Commons)
   - Indus_IAU.svg (Wikimedia Commons)

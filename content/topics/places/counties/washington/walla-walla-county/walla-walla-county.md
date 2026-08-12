@@ -1,6 +1,6 @@
 ---
 title: "Walla Walla County, Washington"
-borders:
+adjacent to:
   - Benton County, Washington
   - Columbia County, Washington
   - Franklin County, Washington

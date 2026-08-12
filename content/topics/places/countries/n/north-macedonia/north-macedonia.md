@@ -1,6 +1,6 @@
 ---
 title: "North Macedonia"
-borders:
+adjacent to:
   - Albania
   - Bulgaria
   - Greece

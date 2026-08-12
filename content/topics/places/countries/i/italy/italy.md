@@ -1,13 +1,6 @@
 ---
 title: "Italy"
-capital: Rome
-country of:
-  - Italian Peninsula
-  - Southern Europe
-  - Western Europe
-  - Europe
-  - Mediterranean Sea
-land borders:
+adjacent to:
   - Austria
   - France
   - Ionian Sea
@@ -16,11 +9,17 @@ land borders:
   - Slovenia
   - Switzerland
   - Vatican City
-maritime borders:
   - Croatia
   - Libya
   - Tunisia
   - incomplete list
+capital: Rome
+country of:
+  - Italian Peninsula
+  - Southern Europe
+  - Western Europe
+  - Europe
+  - Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/365331"
 wikidata: "https://www.wikidata.org/wiki/Q38"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Italy"

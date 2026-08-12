@@ -1,6 +1,6 @@
 ---
 title: "Falcon Heights, Minnesota"
-borders:
+adjacent to:
   - Lauderdale, Minnesota
   - Roseville, Minnesota
   - Saint Paul, Minnesota

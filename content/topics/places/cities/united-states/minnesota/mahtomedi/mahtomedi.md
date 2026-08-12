@@ -1,6 +1,6 @@
 ---
 title: "Mahtomedi, Minnesota"
-borders:
+adjacent to:
   - Birchwood Village, Minnesota
   - Dellwood, Minnesota
   - Grant, Minnesota

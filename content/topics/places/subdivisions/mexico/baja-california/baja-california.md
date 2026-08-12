@@ -1,6 +1,6 @@
 ---
 title: "Baja California"
-borders:
+adjacent to:
   - Arizona
   - California
   - United States

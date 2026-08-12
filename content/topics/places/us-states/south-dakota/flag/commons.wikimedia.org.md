@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_South_Dakota.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Iowa.svg (Wikimedia Commons)
   - Flag_of_Minnesota.svg (Wikimedia Commons)
   - Flag_of_Montana.svg (Wikimedia Commons)

@@ -1,8 +1,6 @@
 ---
 title: "Michigan"
-clockwise around lake superior: Wisconsin
-# need to verify water borders
-borders:
+adjacent to:
   - Canada
   - Indiana
   - Lake Michigan
@@ -11,6 +9,8 @@ borders:
   - Ontario
   - Ohio
   - Wisconsin
+clockwise around lake superior: Wisconsin
+# need to verify water borders
 state of:
   - Upper Midwest
   - Midwestern United States

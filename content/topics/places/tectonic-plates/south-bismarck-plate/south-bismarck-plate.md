@@ -1,6 +1,6 @@
 ---
 title: "South Bismarck Plate"
-borders:
+adjacent to:
   - Manus Plate
   - North Bismarck Plate
   - Solomon Sea Plate

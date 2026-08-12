@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Orion (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Eridanus (ianridpath.com)
   - Star Tales - Gemini (ianridpath.com)
   - Star Tales - Lepus (ianridpath.com)

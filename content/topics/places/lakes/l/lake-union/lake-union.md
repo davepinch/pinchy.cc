@@ -1,6 +1,6 @@
 ---
 title: "Lake Union"
-borders:
+adjacent to:
   - Eastlake, Seattle
   - Gas Works Park
   - Northlake, Seattle

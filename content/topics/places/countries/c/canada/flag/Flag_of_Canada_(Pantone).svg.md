@@ -1,9 +1,7 @@
 ---
 title: "Flag_of_Canada_(Pantone).svg (Wikimedia Commons)"
-borders:
-  - Flag_of_Detroit.svg (Wikimedia Commons)
-down the atlantic coast:
-  - Flag_of_the_State_of_Maine.svg (Wikimedia Commons)
+adjacent to: Flag_of_Detroit.svg (Wikimedia Commons)
+down the atlantic coast: Flag_of_the_State_of_Maine.svg (Wikimedia Commons)
 down the pacific coast:
   - Flag_of_the_United_States.svg (Wikimedia Commons)
   - Flag_of_Washington.svg (Wikimedia Commons)

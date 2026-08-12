@@ -1,6 +1,6 @@
 ---
 title: "Canis_Major_IAU.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Columba_IAU.svg (Wikimedia Commons)
   - Lepus_IAU.svg (Wikimedia Commons)
   - Monoceros_IAU.svg (Wikimedia Commons)

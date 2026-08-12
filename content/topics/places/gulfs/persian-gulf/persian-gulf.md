@@ -1,6 +1,6 @@
 ---
 title: "Persian Gulf"
-borders:
+adjacent to:
   - Bahrain
   - Iraq
   - Iran

@@ -1,13 +1,13 @@
 ---
 title: "Skagit County, Washington"
-ASCEND: Buckner Mountain
-borders:
+adjacent to:
   - Chelan County, Washington
   - Island County, Washington
   - Okanogan County, Washington
   - San Juan County, Washington
   - Snohomish County, Washington
   - Whatcom County, Washington
+ASCEND: Buckner Mountain
 county in:
   - Washington
   - Cascade Range

@@ -1,6 +1,6 @@
 ---
 title: "Flag of Rwanda (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag of Burundi (Wikimedia Commons)
   - Flag of the Democratic Republic of the Congo (Wikimedia Commons)
   - Flag of Tanzania (Wikimedia Commons)

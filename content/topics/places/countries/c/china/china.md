@@ -1,6 +1,6 @@
 ---
 title: "China"
-borders:
+adjacent to:
   - Afghanistan
   - Bhutan
   - India

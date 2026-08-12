@@ -1,6 +1,6 @@
 ---
 title: "Venezuela"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Brazil
   - Caribbean Sea

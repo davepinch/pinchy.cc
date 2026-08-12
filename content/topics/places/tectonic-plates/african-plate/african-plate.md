@@ -1,6 +1,6 @@
 ---
 title: "African Plate"
-borders:
+adjacent to:
   - North American Plate
   - South American Plate
   - incomplete list

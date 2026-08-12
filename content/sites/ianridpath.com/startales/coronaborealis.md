@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Corona Borealis (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Boötes (ianridpath.com)
   - Star Tales - Hercules (ianridpath.com)
   - Star Tales - Serpens (ianridpath.com)

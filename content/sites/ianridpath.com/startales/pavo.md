@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Pavo (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Apus (ianridpath.com)
   - Star Tales - Ara (ianridpath.com)
   - Star Tales - Indus (ianridpath.com)

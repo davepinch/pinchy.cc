@@ -1,6 +1,6 @@
 ---
 title: "South Sudan"
-borders:
+adjacent to:
   - Central African Republic
   - Democratic Republic of the Congo
   - Ethiopia

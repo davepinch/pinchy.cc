@@ -1,6 +1,6 @@
 ---
 title: "Ecuador"
-borders:
+adjacent to:
   - Colombia
   - Pacific Ocean
   - Peru

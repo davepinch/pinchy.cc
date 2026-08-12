@@ -1,6 +1,6 @@
 ---
 title: "Tanzania"
-borders:
+adjacent to:
   - Burundi
   - Democratic Republic of the Congo
   - Indian Ocean

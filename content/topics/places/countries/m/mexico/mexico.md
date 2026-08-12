@@ -1,6 +1,6 @@
 ---
 title: "Mexico"
-borders:
+adjacent to:
   - Atlantic Ocean
   - Belize
   - Caribbean Sea

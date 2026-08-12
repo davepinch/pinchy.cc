@@ -1,6 +1,6 @@
 ---
 title: "Shetland Plate"
-borders:
+adjacent to:
   - Antarctic Plate
   - Scotia Plate
 tectonic plate of:

@@ -1,6 +1,6 @@
 ---
 title: "Indiana"
-borders:
+adjacent to:
   - Illinois
   - Kentucky
   - Lake Michigan

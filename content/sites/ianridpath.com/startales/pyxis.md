@@ -1,6 +1,6 @@
 ---
 title: "Star Tales - Pyxis (ianridpath.com)"
-borders:
+adjacent to:
   - Star Tales - Antlia (ianridpath.com)
   - Star Tales - Hydra (ianridpath.com)
   - Star Tales - Puppis (ianridpath.com)

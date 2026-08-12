@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Trinidad_and_Tobago.svg (Wikimedia Commons)"
-borders:
+adjacent to:
   - Flag_of_Venezuela.svg (Wikimedia Commons)
   - incomplete list
 flag of:

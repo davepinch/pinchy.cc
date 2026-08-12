@@ -1,7 +1,6 @@
 ---
 title: "Flag_of_Detroit.svg (Wikimedia Commons)"
-borders:
-  - Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
+adjacent to: Flag_of_Canada_(Pantone).svg (Wikimedia Commons)
 flag of: Detroit
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ea/Flag_of_Detroit.svg"
