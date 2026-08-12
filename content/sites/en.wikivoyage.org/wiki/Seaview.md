@@ -7,7 +7,7 @@ retrieved: 2026-07-26
 type: website
 url: /en.wikivoyage.org/wiki/Seaview/
 website: "https://en.wikivoyage.org/wiki/Seaview"
-wikivoyage: Seaview, Washington
+wikivoyage of: Seaview, Washington
 tags:
   - website
   - Wikivoyage
