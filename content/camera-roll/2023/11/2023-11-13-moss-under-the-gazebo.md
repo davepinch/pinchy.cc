@@ -5,11 +5,11 @@ when: 2023-11-13
 license: CC BY-SA 4.0
 photograph of:
   - gazebo
-  - moss
   - leaf
 picture: content/camera-roll/2023/11/2023-11-13-moss-under-the-gazebo/moss-under-the-gazebo.jpg
 thumbnail: content/camera-roll/2023/11/2023-11-13-moss-under-the-gazebo/moss-under-the-gazebo.thumbnail.jpg
 type: picture
+under the gazebo of: moss
 tags:
   - photograph
   - looking down
