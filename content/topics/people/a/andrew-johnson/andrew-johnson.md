@@ -9,7 +9,6 @@ member of: Democratic Party
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q8612"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Andrew_Johnson"
-wikiquote: "https://en.wikiquote.org/wiki/Andrew_Johnson"
 tags:
   - president of the United States
   - human being
