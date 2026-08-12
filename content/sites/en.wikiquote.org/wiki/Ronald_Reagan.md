@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-08-11
 type: website
+url: /en.wikiquote.org/wiki/Ronald_Reagan/
 website: "https://en.wikiquote.org/wiki/Ronald_Reagan"
 wikiquote of: Ronald Reagan
 tags:

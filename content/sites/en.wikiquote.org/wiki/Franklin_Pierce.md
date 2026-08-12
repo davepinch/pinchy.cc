@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-08-11
 type: website
+url: /en.wikiquote.org/wiki/Franklin_Pierce/
 website: "https://en.wikiquote.org/wiki/Franklin_Pierce"
 wikiquote of: Franklin Pierce
 tags:
