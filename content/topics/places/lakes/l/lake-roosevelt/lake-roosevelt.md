@@ -1,5 +1,12 @@
 ---
 title: "Lake Roosevelt"
+lake in:
+  - Ferry County, Washington
+  - Stevens County, Washington
+  - Lincoln County, Washington
+  - Okanogan County, Washington
+  - Grant County, Washington
+  - Washington
 lake in the watercourse of: Columbia River
 namesake of: Franklin D. Roosevelt
 note: >-
