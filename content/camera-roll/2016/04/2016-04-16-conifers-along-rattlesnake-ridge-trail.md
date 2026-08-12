@@ -5,7 +5,6 @@ license: CC BY-SA 4.0
 photograph of:
   - Rattlesnake Ridge
   - forest
-  - moss
   - trail
   - tree
 picture: content/camera-roll/2016/04/2016-04-16-conifers-along-rattlesnake-ridge-trail/20160416_161203450_iOS.jpg
