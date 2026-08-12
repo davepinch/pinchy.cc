@@ -6,6 +6,7 @@ title: "Code of Hammurabi § 231 (King translation)"
 King translation of: Code of Hammurabi § 231
 license: public domain
 snippet of: Codex Hammurabi (King translation)
+toppled house of: slave
 type: snippet
 url: /code-of-hammurabi/231/king-translation/
 tags:
