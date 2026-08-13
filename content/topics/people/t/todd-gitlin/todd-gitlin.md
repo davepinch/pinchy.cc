@@ -1,5 +1,9 @@
 ---
 title: "Todd Gitlin"
+born in:
+  - Manhattan
+  - New York City
+  - New York
 member of: Students for a Democratic Society
 wikidata: "https://www.wikidata.org/wiki/Q2438434"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Todd_Gitlin"
