@@ -1,5 +1,6 @@
 ---
 title: "Spiro Agnew"
+vice president of: Richard Nixon
 wikidata: "https://www.wikidata.org/wiki/Q203433"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Spiro_Agnew"
 tags:
