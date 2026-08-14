@@ -8,6 +8,7 @@ license: CC BY-SA 4.0
 snippet of: James Earl Ray (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/James_Earl_Ray/@early-life-1-1/
+when: 1928-03-10
 tags:
   - snippet
 ---
