@@ -2,7 +2,7 @@
 title: "Our decision is irrevocable. Our consciences do not permit us to participate in this senseless and immoral war. We are sure that tens of thousands of students throughout the country will join us in resistance."
 attribution: Two-thirds of the men in the senior class at Reed College (1968)
 note: The date is approximate based on the April 1, 1968 publication in *Helix*.
-page 6 of: Helix, volume 3, number 6
+page 8 of: Helix, volume 3, number 6
 pledge of resistance (1968) in: Reed College
 senseless and immoral of: Vietnam War
 quotation in: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 8).jpg"
