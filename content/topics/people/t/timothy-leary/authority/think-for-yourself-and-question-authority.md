@@ -9,7 +9,9 @@ some people who questioned authority:
   - Socrates
   - Galileo Galilei
   - Martin Luther King, Jr.
+TODO: start a list/sequence of people who questioned authority
 type: quote
 tags:
   - quote
+  - TODO
 ---
