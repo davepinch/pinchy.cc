@@ -1,5 +1,6 @@
 ---
 title: "Timothy Leary"
+advocate of: psychedelic drug
 born in:
   - Massachusetts
   - United States
