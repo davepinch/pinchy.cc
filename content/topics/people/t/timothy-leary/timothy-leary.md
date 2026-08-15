@@ -5,6 +5,7 @@ born in:
   - Massachusetts
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q211731"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Timothy_Leary"
 tags:
   - American
   - psychonaut
