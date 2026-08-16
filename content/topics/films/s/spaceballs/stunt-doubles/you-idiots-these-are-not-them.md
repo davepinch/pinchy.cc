@@ -4,6 +4,7 @@ title: >-
 attribution: Captain of the Guard, *Spaceballs*
 citation: >-
   Spaceballs. (2023, December 13). *Wikiquote*. Retrieved June 23, 2024 from https://en.wikiquote.org/w/index.php?title=Spaceballs&oldid=3419253.
+quote of: Spaceballs (Wikiquote)
 stunt doubles of: Spaceballs
 type: quote
 tags:

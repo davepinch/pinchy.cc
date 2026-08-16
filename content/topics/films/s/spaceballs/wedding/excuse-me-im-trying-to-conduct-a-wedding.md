@@ -3,6 +3,7 @@ title: "Excuse me. I'm trying to conduct a wedding here which has nothing to do 
 attribution: "Druidian Priest, *Spaceballs*"
 citation: >-
   Spaceballs. (2024, September 10). *Wikiquote*. Retrieved 23:17, March 1, 2025 from https://en.wikiquote.org/w/index.php?title=Spaceballs&oldid=3578143.
+quote of: Spaceballs (Wikiquote)
 type: quote
 wedding of:
   - Spaceballs
