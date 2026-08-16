@@ -1,6 +1,6 @@
 ---
 title: "Stalker (film)"
-director: Andrei Tarkovsky
+directed by: Andrei Tarkovsky
 film of: science fiction
 see also: Solaris (film)
 wikidata: "https://www.wikidata.org/wiki/Q200437"
