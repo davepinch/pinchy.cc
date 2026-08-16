@@ -1,0 +1,13 @@
+---
+title: "Planet of the Apes (1968 film) (Wikipedia)"
+excerpt: >-
+  ***Planet of the Apes*** is a 1968 American science-fiction film directed by Franklin J. Schaffner from a screenplay by Michael Wilson and Rod Serling, loosely based on the 1963 novel by Pierre Boulle. The film stars Charlton Heston, Roddy McDowall, Kim Hunter, Maurice Evans, James Whitmore, James Daly, and Linda Harrison. In the film, an astronaut crew crash-lands on a strange planet in the distant future. Although the planet appears desolate at first, the surviving crew members stumble upon a society in which apes have evolved into creatures with human-like intelligence and speech. The apes have assumed the role of the dominant species and humans are mute primitives wearing animal skins.
+license: CC BY-SA 4.0
+retrieved: 2026-08-16
+type: website
+url: /en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)/
+website: "https://en.wikipedia.org/wiki/Planet_of_the_Apes_(1968_film)"
+wikipedia of: Planet of the Apes (1968 film)
+tags:
+  - Wikipedia
+---
