@@ -12,6 +12,7 @@ parody of:
   - The Wizard of Oz
   - "2001: A Space Odyssey"
 wikidata: "https://www.wikidata.org/wiki/Q498442"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Spaceballs"
 tags:
   - parody
 ---
