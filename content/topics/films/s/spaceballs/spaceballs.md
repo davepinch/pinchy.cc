@@ -7,6 +7,7 @@ film of:
 directed by: Mel Brooks
 parody of:
   - Alien (film)
+  - Planet of the Apes (1968 film)
   - Star Wars (film)
   - The Wizard of Oz
   - "2001: A Space Odyssey"
