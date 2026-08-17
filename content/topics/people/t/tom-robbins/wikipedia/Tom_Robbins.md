@@ -1,17 +1,13 @@
 ---
 title: "Tom Robbins (Wikipedia)"
 excerpt: >-
-  **Thomas Eugene Robbins** (born July 22, 1932) is a best-selling and prolific American novelist. His most notable works are "seriocomedies" (also known as "comedy drama"), such as *Even Cowgirls Get the Blues*. Tom Robbins has lived in [La Conner](/en.wikipedia.org/wiki/La_Conner,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/) since 1970, where he has written nine best-selling books. His latest work, published in 2014, is *Tibetan Peach Pie*, which is a self-declared "un-memoir". *Even Cowgirls Get the Blues* has been adapted into a movie that shares the same name by Gus Van Sant in 1993.
+  **Thomas Eugene Robbins** (July 22, 1932 – February 9, 2025) was an American novelist. His most notable works are "seriocomedies" (also known as "comedy dramas"). His 1976 novel Even Cowgirls Get the Blues was adapted into the 1993 film version by Gus Van Sant. His last work, published in 2014, was Tibetan Peach Pie, a self-declared "un-memoir". From 1970, Robbins lived in La Conner, Washington, where he wrote nine of his books.
 license: CC BY-SA 4.0
-related:
-  - La Conner, Washington (Wikipedia)
-  - Timothy Leary (Wikipedia)
-retrieved: 2023-06-23
+retrieved: 2026-08-16
 type: website
 url: /en.wikipedia.org/wiki/Tom_Robbins/
 website: "https://en.wikipedia.org/wiki/Tom_Robbins"
 wikipedia of: Tom Robbins
 tags:
-  - La Conner, Washington (Wikipedia)
   - Wikipedia
 ---
