@@ -9,5 +9,5 @@ tags:
   - writer
   - human being
   - La Conner
-  - alive at the moment
+  - dead at the moment
 ---
