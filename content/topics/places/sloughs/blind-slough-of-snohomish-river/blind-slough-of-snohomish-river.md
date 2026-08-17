@@ -1,6 +1,7 @@
 ---
 title: "Blind Slough (Snohomish River)"
 around Everett of: VISIT SOMEWHERE NEW
+disambiguation of: Blind Slough
 openstreetmap: "https://www.openstreetmap.org/way/541956025"
 slough in:
   - Langus Riverfront Park
