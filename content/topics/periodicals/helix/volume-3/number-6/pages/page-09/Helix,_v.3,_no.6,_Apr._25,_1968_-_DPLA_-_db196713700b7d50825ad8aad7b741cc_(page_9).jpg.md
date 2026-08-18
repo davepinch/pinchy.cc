@@ -18,7 +18,7 @@ mention of:
   - White House
 newspaper article of:
   - American Civil Liberties Union
-  - Central District
+  - Central District, Seattle
   - Herbert Marcuse
   - Robert Francis Kennedy
   - United States Army
