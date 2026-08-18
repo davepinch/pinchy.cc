@@ -4,7 +4,7 @@ apple maps: "https://maps.apple/p/8DKE0WT1C6GxWM"
 disambiguation of: Spring Lake
 lake in:
   - Spring Lake/Lake Desire Park
-  - Maple Heights-Lake Desire
+  - Maple Heights-Lake Desire, Washington
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/26023097"
