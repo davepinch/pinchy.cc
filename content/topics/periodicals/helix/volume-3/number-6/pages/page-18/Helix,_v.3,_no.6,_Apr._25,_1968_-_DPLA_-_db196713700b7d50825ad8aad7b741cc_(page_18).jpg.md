@@ -5,7 +5,7 @@ title: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741c
 license: public domain
 mention of:
   - Adolf Hilter
-  - Central Inteligence Agency
+  - Central Intelligence Agency
   - Supreme Court of the United States
 newspaper article of: Sergeant Sunshine
 next: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 19).jpg (Wikimedia Commons)"
