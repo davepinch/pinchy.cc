@@ -21,6 +21,10 @@ function alertQueued() {
     [console]::beep(200, 50)
 }
 
+function alertStalled() {
+    [console]::beep(100, 500)
+}
+
 # wayback() - Gets the status of a page from the Wayback Machine.
 #
 # The API returns a JSON response with information about the closest archived snapshot.
@@ -283,11 +287,22 @@ function walk() {
         Write-Host "save($url)"
         $response = save($url)
 
-        if ($null -eq $response.job_id) {
-            # Write-Host "Already archived: $url"
+        if ($response.status_ext -eq "error:user-session-limit") {
+            # {
+            #   "status":"error",
+            #   "status_ext":"error:user-session-limit",
+            #   "message":"You have already reached the limit of active Save Page Now sessions. Please wait for a minute and then try again."
+            # }
+            Write-Host $response.message
+            Write-Host "Delaying 1 minute..."
+            alertStalled
+            Start-Sleep -Seconds 60
+        }
+        elseif ($null -eq $response.job_id) {
             Write-Host $response.message
             alertAlreadySaved
-        } else {
+        }
+        else {
             alertSaved
         }
         
