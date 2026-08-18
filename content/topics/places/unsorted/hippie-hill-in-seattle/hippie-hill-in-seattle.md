@@ -1,5 +1,5 @@
 ---
-title: "Hippie Hill, Seattle"
+title: "Hippie Hill (Seattle)"
 disambiguation of: Hippie Hill
 gathering place in:
   - Parrington Lawn
