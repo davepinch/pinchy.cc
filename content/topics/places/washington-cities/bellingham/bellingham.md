@@ -4,13 +4,13 @@ adjacent to:
   - Marietta-Alderwood, Washington
   - Geneva, Washington
 apple maps: "https://maps.apple/p/nznh2EyW31CWq3"
-census profile: "https://data.census.gov/profile/Bellingham_city,_Washington?g=160XX00US5305280"
-city of:
+city in:
   - Whatcom County, Washington
   - Washington
+  - Pacific Northwest
+city of:
   - Interstate 5
   - Mount Baker Highway
-  - Pacific Northwest
   - Washington State Route 542
 openstreetmap: "https://www.openstreetmap.org/relation/237440"
 vicinity to:
