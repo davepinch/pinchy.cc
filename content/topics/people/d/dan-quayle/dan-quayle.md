@@ -1,5 +1,8 @@
 ---
 title: "Dan Quayle"
+born in:
+  - Indianapolis, Indiana
+  - Indiana
 wikidata: "https://www.wikidata.org/wiki/Q49214"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Dan_Quayle"
 wikisource: "https://en.wikisource.org/wiki/Author:James_Danforth_Quayle"
