@@ -3,7 +3,6 @@ title: "chicken"
 see also: rooster
 wikidata: "https://www.wikidata.org/wiki/Q780"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Chickens"
-wikiquote: "https://en.wikiquote.org/wiki/Chickens"
 tags:
   - bird
 ---
