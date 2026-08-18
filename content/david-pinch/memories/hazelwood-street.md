@@ -3,6 +3,7 @@ title: "I grew up near this street. On this street I walked to John Glenn Middle
 memory by: David Pinch
 memory of: Hazelwood Street
 type: memory
+url: /david-pinch/hazelwood-street/
 tags:
   - memory
 ---
