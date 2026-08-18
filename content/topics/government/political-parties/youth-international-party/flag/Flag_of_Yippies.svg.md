@@ -13,4 +13,5 @@ website: "https://commons.wikimedia.org/wiki/File:Flag_of_Yippies.svg"
 tags:
   - Wikimedia Commons
   - flag
+  - no Wikipedia article
 ---
