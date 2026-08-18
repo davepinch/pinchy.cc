@@ -1,0 +1,13 @@
+---
+title: "Oakland, California (Wikipedia)"
+excerpt: >-
+  **Oakland** is a city in the East Bay region of the San Francisco Bay Area in the U.S. state of California. It is the county seat of and the most populous city in Alameda County, California, with a population of 440,646 in 2020. A major West Coast port, Oakland is the most populous city in the East Bay, the third most populous city in the Bay Area, and the eighth most populous city in California. It serves as the Bay Area's trade center: the Port of Oakland is the busiest port in Northern California, and the fifth- or sixth-busiest in the United States. A charter city, Oakland was incorporated on May 4, 1852, in the wake of the state's increasing population due to the California gold rush.
+license: CC BY-SA 4.0
+retrieved: 2026-08-17
+type: website
+url: /en.wikipedia.org/wiki/Oakland,_California/
+website: "https://en.wikipedia.org/wiki/Oakland,_California"
+wikipedia of: Oakland, California
+tags:
+  - Wikipedia
+---
