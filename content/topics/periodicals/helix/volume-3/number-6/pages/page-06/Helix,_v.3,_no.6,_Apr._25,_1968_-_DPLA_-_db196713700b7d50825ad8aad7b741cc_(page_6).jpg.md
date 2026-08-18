@@ -2,7 +2,7 @@
 title: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 6).jpg (Wikimedia Commons)"
 ➡️: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 7).jpg (Wikimedia Commons)"
 ⬅️: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 5).jpg (Wikimedia Commons)"
-draft resistance in: Sammammish, Washington
+draft resistance in: Sammamish, Washington
 license: public domain
 newspaper article of: Students for a Democratic Society
 next: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 7).jpg (Wikimedia Commons)"
