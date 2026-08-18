@@ -7,7 +7,7 @@ retrieved: 2026-08-12
 type: website
 url: /en.wikipedia.org/wiki/Soul_on_Ice_(book)/
 website: "https://en.wikipedia.org/wiki/Soul_on_Ice_(book)"
-wikipedia of: Soul on Ice (book)
+wikipedia of: Soul on Ice
 tags:
   - Wikipedia
 ---
