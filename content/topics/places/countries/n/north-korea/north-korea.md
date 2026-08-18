@@ -5,9 +5,12 @@ adjacent to:
   - Russia
   - South Korea
   - incomplete list
-country of:
+country in:
   - East Asia
   - Asia
+country of:
+  - Sea of Japan
+  - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/192734"
 wikidata: "https://www.wikidata.org/wiki/Q423"
 tags:

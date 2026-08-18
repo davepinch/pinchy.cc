@@ -23,13 +23,15 @@ adjacent to:
 clockwise around the baltic sea: Estonia
 clockwise around the black sea: Georgia (country)
 clockwise around the caspian sea: Kazakhstan
-country of:
+country in:
   - Europe
   - Asia
+country of:
   - Black Sea
   - Baltic Sea
   - Atlantic Ocean
   - Pacific Ocean
+  - Sea of Japan
 openstreetmap: "https://www.openstreetmap.org/relation/60189"
 people:
   - Alexander Lebedev
