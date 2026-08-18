@@ -1,6 +1,7 @@
 ---
 title: "John Glenn Middle School"
 school of:
+  - Hazelwood Street
   - Maplewood, Minnesota
   - Ramsey County, Minnesota
   - Independent School District 622
