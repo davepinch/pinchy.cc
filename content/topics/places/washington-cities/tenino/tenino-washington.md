@@ -1,7 +1,6 @@
 ---
 title: "Tenino, Washington"
 apple maps: "https://maps.apple/p/YH4d.6vWVJgM9d"
-census profile: "https://data.census.gov/profile/Tenino_city,_Washington?g=160XX00US5370630"
 city in:
   - Thurston County, Washington
   - Washington
