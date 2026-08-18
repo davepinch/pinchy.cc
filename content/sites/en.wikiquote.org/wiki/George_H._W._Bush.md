@@ -7,7 +7,7 @@ retrieved: 2026-08-11
 type: website
 url: /en.wikiquote.org/wiki/George_H._W._Bush/
 website: "https://en.wikiquote.org/wiki/George_H._W._Bush"
-wikiquote of: Geroge H.W. Bush
+wikiquote of: George H.W. Bush
 tags:
   - website
   - Wikiquote
