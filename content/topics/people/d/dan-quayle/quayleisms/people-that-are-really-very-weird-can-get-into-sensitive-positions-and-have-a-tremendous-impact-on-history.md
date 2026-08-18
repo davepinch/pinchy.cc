@@ -6,7 +6,8 @@ citation: >-
   Dan Quayle. (2023, November 25). *Wikiquote*. Retrieved March 29, 2024 from https://en.wikiquote.org/w/index.php?title=Dan_Quayle&oldid=3407047.
 foresight of: Republicans are weird
 mention of: Grigori Rasputin
-quote of: Dan Quayle
+quayleisms of: Dan Quayle
+quote of: Dan Quayle (en.wikiquote.org)
 see also: JD Vance
 type: quote
 tags:
