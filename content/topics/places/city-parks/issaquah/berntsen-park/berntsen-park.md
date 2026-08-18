@@ -5,6 +5,7 @@ city park in:
   - Issaquah, Washington
   - King County, Washington
 city park of: Issaquah Creek
+downstream of: Confluence Park
 official website: "https://www.issaquahwa.gov/facilities/facility/details/berntsen-park-16"
 openstreetmap: "https://www.openstreetmap.org/way/300411024"
 tags:
