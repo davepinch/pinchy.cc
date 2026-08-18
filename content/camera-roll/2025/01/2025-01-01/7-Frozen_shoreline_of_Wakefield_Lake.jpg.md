@@ -8,7 +8,7 @@ photograph of:
   - shoreline
   - lake
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/39/Frozen_shoreline_of_Wakefield_Lake.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frozen_shoreline_of_Wakefield_Lake.jpg/320px-Frozen_shoreline_of_Wakefield_Lake.jpg"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Frozen_shoreline_of_Wakefield_Lake.jpg/330px-Frozen_shoreline_of_Wakefield_Lake.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/Frozen_shoreline_of_Wakefield_Lake.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Frozen_shoreline_of_Wakefield_Lake.jpg"
