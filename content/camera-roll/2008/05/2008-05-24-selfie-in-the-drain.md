@@ -2,10 +2,10 @@
 title: "Selfie in the drain"
 photograph of:
   - spray paint
-  - drain
   - Lake Phalen
   - urban exploration
 picture: content/camera-roll/2008/05/2008-05-24-selfie-in-the-drain/recon-2-045.jpg
+selfie of: drain
 thumbnail: content/camera-roll/2008/05/2008-05-24-selfie-in-the-drain/recon-2-045-thumbnail.jpg
 type: picture
 when: 2008-05-24
