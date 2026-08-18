@@ -8,7 +8,7 @@ mention of:
   - Central Intelligence Agency
   - Clay Shaw
   - David Ferrie
-  - Gorden Novel
+  - Gordon Novel
   - Lee Harvey Oswald
   - Texas School Book Depository
   - Zaprunder film
