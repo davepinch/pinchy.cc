@@ -1,6 +1,6 @@
 ---
 title: "Plaza Hotel"
-building in:
+building of:
   - Manhattan
   - New York City
   - New York
