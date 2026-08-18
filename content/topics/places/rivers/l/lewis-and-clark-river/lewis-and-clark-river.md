@@ -6,7 +6,7 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/32995768"
   - "https://www.openstreetmap.org/way/905085011"
 river in:
-  - Saddie Mountain State Natural Area
+  - Saddle Mountain State Natural Area
   - Clatsop County, Oregon
   - Oregon
 tributary of:
