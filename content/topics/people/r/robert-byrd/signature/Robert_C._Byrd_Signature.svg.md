@@ -10,6 +10,8 @@ signature of:
   - SVG
 source: "http://www.disclosureproject.org/responses/08-01-01-SEN-WV-Robert-C-Byrd.jpg"
 type: picture
+url: /commons.wikimedia.org/wiki/File/Robert_C._Byrd_Signature.svg/
+website: "https://commons.wikimedia.org/wiki/File:Robert_C._Byrd_Signature.svg"
 tags:
   - Wikimedia Commons
   - signature
