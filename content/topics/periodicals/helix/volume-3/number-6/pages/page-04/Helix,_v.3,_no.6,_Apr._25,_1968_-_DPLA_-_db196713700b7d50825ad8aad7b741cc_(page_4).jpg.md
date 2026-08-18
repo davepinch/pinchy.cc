@@ -6,7 +6,7 @@ excerpt: "Page 4 article discusses the formation of the Seattle Black Panther Pa
 license: public domain
 newspaper article of:
   - Bobby Hutton
-  - Elridge Cleaver
+  - Eldridge Cleaver
   - Black Panther Party
   - Aaron Dixon
   - Seattle Chapter of the Black Panther Party
