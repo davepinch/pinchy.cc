@@ -7,7 +7,7 @@ retrieved: 2026-08-14
 type: website
 url: /en.wikipedia.org/wiki/Marijuana_(word)/
 website: "https://en.wikipedia.org/wiki/Marijuana_(word)"
-wikipedia of: Marijuana (word)
+wikipedia of: marijuana
 tags:
   - Wikipedia
 ---
