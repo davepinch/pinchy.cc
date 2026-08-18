@@ -1,5 +1,6 @@
 ---
 title: "City Hall Park"
+apple maps: "https://maps.apple/p/jF7myg4FMYbTgK"
 city park in:
   - Seattle
   - King County, Washington
