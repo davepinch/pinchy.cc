@@ -1,5 +1,5 @@
 ---
-title: "George Edward Talor"
+title: "George Edward Taylor"
 employed by: University of Washington
 wikidata: "https://www.wikidata.org/wiki/Q5538798"
 tags:
