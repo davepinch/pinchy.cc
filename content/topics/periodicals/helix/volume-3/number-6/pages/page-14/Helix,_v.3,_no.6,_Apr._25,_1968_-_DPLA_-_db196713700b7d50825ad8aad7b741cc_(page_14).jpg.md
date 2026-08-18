@@ -5,7 +5,7 @@ title: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741c
 dumptruck baby by: John Cunnick
 license: public domain
 mention of:
-  - Ayn Ryan
+  - Ayn Rand
   - Cuba
   - Drew Pearson
   - Eric Starvo Galt
