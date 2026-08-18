@@ -6,5 +6,5 @@ quote of: "https://www.marxists.org/history//erol//periodicals/guardian-sustaine
 type: quote
 url: /hands-off-russia/
 tags:
-  - snippet
+  - quote
 ---
