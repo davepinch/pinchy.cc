@@ -1,0 +1,14 @@
+---
+title: "Atom (en.wikiquote.org)"
+excerpt: >-
+  An **atom** is the smallest unit of ordinary matter that forms a chemical element. Every solid, liquid, gas, and plasma is composed of neutral or ionized atoms. Atoms are extremely small, typically around 100 picometers across. They are so small that accurately predicting their behavior using classical physics—as if they were tennis balls, for example—is not possible due to quantum effects.
+license: CC BY-SA 4.0
+retrieved: 2026-08-18
+type: website
+url: /en.wikiquote.org/wiki/Atom/
+website: "https://en.wikiquote.org/wiki/Atom"
+wikiquote of: atom
+tags:
+  - website
+  - Wikiquote
+---
