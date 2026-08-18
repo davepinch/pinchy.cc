@@ -6,7 +6,7 @@ excerpt: "Page 5 article highlights Eldridge and Kathleen Cleaver."
 license: public domain
 newspaper article of: Soul on Ice
 newspaper photo of:
-  - Elridge Cleaver
+  - Eldridge Cleaver
   - Kathleen Cleaver
 next: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 6).jpg (Wikimedia Commons)"
 page 5 of: Helix, volume 3, number 6
