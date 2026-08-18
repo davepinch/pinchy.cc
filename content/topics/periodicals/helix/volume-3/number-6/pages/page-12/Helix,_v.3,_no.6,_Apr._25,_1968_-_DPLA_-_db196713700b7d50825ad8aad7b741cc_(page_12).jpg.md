@@ -10,7 +10,7 @@ license: public domain
 mention of:
   - Central Intelligence Agency
   - LSD
-  - Lynden B. Johnson
+  - Lyndon B. Johnson
   - meditation
   - Plaza Hotel
   - Timothy Leary
