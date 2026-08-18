@@ -29,7 +29,7 @@ country of:
   - Black Sea
   - Baltic Sea
   - Atlantic Ocean
-near: Alaska
+  - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/60189"
 people:
   - Alexander Lebedev
@@ -41,6 +41,7 @@ people:
   - Ramzan Kadyrov
   - Vladimir Putin
 TODO: get remaining Russia country borders (https://en.wikipedia.org/wiki/Borders_of_Russia)
+vicinity to: Alaska
 wikidata: "https://www.wikidata.org/wiki/Q159"
 tags:
   - Russian
