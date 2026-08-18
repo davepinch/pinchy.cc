@@ -3,7 +3,7 @@ title: "Spring Lake (King County, Washington)"
 apple maps: "https://maps.apple/p/8DKE0WT1C6GxWM"
 disambiguation of: Spring Lake
 lake in:
-  - Spring Lake/Lake Desire Park
+  - Spring Lake/Lake Desire Park, Washington
   - Maple Heights-Lake Desire, Washington
   - King County, Washington
   - Washington
