@@ -7,7 +7,7 @@ retrieved: 2026-08-12
 type: website
 url: /en.wikiquote.org/wiki/Eldridge_Cleaver/
 website: "https://en.wikiquote.org/wiki/Eldridge_Cleaver"
-wikiquote of: Elridge Cleaver
+wikiquote of: Eldridge Cleaver
 tags:
   - website
   - Wikiquote
