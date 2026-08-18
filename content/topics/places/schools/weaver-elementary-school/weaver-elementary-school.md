@@ -5,6 +5,7 @@ openstreetmap: "https://www.openstreetmap.org/way/796346403"
 school of:
   - Independent School District 622
   - Maplewood, Minnesota
+  - Ramsey County, Minnesota
 tags:
   - school
 ---
