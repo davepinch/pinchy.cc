@@ -7,4 +7,6 @@ tags:
   - student
   - human being
   - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
