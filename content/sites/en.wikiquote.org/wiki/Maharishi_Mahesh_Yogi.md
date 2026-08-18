@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-08-14
 type: website
+url: /en.wikiquote.org/wiki/Maharishi_Mahesh_Yogi/
 website: "https://en.wikiquote.org/wiki/Maharishi_Mahesh_Yogi"
 wikiquote of: Maharishi Mahesh Yogi
 tags:
