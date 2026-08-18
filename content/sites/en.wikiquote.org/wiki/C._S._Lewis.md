@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-08-17
 type: website
+url: /en.wikiquote.org/wiki/C._S._Lewis/
 website: "https://en.wikiquote.org/wiki/C._S._Lewis"
 wikiquote of: C. S. Lewis
 tags:
