@@ -2,11 +2,15 @@
 title: "Vladimir Putin"
 born in: Soviet Union
 born on: 1952-10-07
+person of:
+  - Russia
+  - Soviet Union
 president of: Russia
 wikidata: "https://www.wikidata.org/wiki/Q7747"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Vladimir_Putin"
 wikisource: "https://en.wikisource.org/wiki/Author:Vladimir_Putin"
 tags:
+  - person
   - politician
   - Russian
   - president

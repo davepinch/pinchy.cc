@@ -1,10 +1,11 @@
 ---
 title: "Andrei Tarkovsky"
 also died in paris: André the Giant
-from: Russia
+person of: Russia
 wikidata: "https://www.wikidata.org/wiki/Q853"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Andrey_Tarkovsky"
 tags:
+  - person
   - Russian
   - director
   - screenwriter

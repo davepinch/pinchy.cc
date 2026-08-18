@@ -33,15 +33,6 @@ country of:
   - Pacific Ocean
   - Sea of Japan
 openstreetmap: "https://www.openstreetmap.org/relation/60189"
-people:
-  - Alexander Lebedev
-  - Andrei Tarkovsky
-  - Ayn Rand
-  - Dmitiry Muratov
-  - Leo Tolstoy
-  - Pyotr Ilyich Tchaikovsky
-  - Ramzan Kadyrov
-  - Vladimir Putin
 TODO: get remaining Russia country borders (https://en.wikipedia.org/wiki/Borders_of_Russia)
 vicinity to: Alaska
 wikidata: "https://www.wikidata.org/wiki/Q159"
