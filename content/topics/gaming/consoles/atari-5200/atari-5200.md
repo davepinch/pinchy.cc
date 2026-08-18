@@ -4,6 +4,7 @@ video game console of:
   - Atari
   - MOS Technology 6502
 wikidata: "https://www.wikidata.org/wiki/Q743222"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Atari_5200"
 tags:
   - video game console
 ---
