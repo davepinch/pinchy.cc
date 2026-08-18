@@ -1,7 +1,7 @@
 ---
 title: "Anthem Blue Cross Blue Shield"
 company of: United States
-headquarters in: Indianapolis
+headquarters in: Indianapolis, Indiana
 wikidata: "https://www.wikidata.org/wiki/Q677488"
 tags:
   - healthcare 

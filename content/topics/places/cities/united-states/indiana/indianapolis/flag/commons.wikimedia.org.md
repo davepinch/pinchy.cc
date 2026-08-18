@@ -1,6 +1,6 @@
 ---
 title: "Flag_of_Indianapolis.svg (Wikimedia Commons)"
-flag of: Indianapolis
+flag of: Indianapolis, Indiana
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Indianapolis.svg"
 related: Indianapolis (Wikipedia)

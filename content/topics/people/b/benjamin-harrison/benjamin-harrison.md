@@ -6,7 +6,7 @@ born in:
   - Ohio
   - United States
 died in:
-  - Indianapolis
+  - Indianapolis, Indiana
   - Indiana
   - United States
 member of: Republican Party

@@ -7,7 +7,7 @@ retrieved: 2023-05-20
 type: website
 url: /en.wikipedia.org/wiki/Indianapolis/
 website: "https://en.wikipedia.org/wiki/Indianapolis"
-wikipedia of: Indianapolis
+wikipedia of: Indianapolis, Indiana
 tags:
   - Wikipedia
 ---

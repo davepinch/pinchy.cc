@@ -11,5 +11,5 @@ when: 1992-06-09
 tags:
   - quote
   - Southern Baptist Convention
-  - Indianapolis
+  - Indianapolis, Indiana
 ---
