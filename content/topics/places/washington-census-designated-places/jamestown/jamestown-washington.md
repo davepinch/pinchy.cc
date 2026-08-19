@@ -5,6 +5,7 @@ census-designated place in:
   - Olympic Peninsula
   - Washington
 census-designated place of: United States Census Bureau
+namesake of: James Balch
 openstreetmap: "https://www.openstreetmap.org/relation/18399567"
 wikidata: "https://www.wikidata.org/wiki/Q5925910"
 tags:
