@@ -9,7 +9,7 @@ adjacent to:
 county in:
   - Washington
   - Cascade Range
-county seat: Everett, Washington
+county of: Pacific Ocean
 northbound on interstate 5: Skagit County, Washington
 not to be confused with:
   - Snohomish, Washington
