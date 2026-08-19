@@ -7,7 +7,7 @@ history of:
   - Pacific Northwest
 license: CC BY-NC-ND 4.0
 tag requires property:
-  - author
+  - essay by
   - essay number
   - historylink.org of
   - license
