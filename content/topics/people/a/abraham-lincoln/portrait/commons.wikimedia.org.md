@@ -7,7 +7,7 @@ illustration of: Abraham Lincoln (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg"
 portrait of: Abraham Lincoln
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/465px-Abraham_Lincoln_O-77_matte_collodion_print.jpg"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Abraham_Lincoln_O-77_matte_collodion_print.jpg/500px-Abraham_Lincoln_O-77_matte_collodion_print.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/Abraham_Lincoln_O-77_matte_collodion_print.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Abraham_Lincoln_O-77_matte_collodion_print.jpg"
