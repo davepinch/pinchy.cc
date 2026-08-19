@@ -11,7 +11,7 @@ ASCEND: Buckner Mountain
 county in:
   - Washington
   - Cascade Range
-county seat: Mount Vernon, Washington
+county of: Pacific Ocean
 northbound on interstate 5: Whatcom County, Washington
 official website: "https://www.skagitcounty.net/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153763"
