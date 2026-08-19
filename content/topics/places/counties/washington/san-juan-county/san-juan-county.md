@@ -9,6 +9,7 @@ adjacent to:
   - Skagit County, Washington
   - Whatcom County, Washington
 county in: Washington
+county of: Pacific Ocean
 official website: "https://www.sanjuancountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1162038"
 wikidata: "https://www.wikidata.org/wiki/Q484146"

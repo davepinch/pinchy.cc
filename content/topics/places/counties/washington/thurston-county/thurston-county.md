@@ -8,7 +8,7 @@ adjacent to:
 county in:
   - Washington
   - Interstate 5
-county seat: Olympia, Washington
+county of: Pacific Ocean
 northbound on interstate 5: Pierce County, Washington
 official website: "https://www.thurstoncountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153508"

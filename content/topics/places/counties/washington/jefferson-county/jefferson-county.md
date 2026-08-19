@@ -9,6 +9,7 @@ adjacent to:
   - Mason County, Washington
   - Pacific Ocean
 county in: Washington
+county of: Pacific Ocean
 county seat: Port Townsend, Washington
 created from: Thurston County, Washington
 namesake of: Thomas Jefferson

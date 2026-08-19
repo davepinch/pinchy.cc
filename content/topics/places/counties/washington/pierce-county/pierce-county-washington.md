@@ -12,7 +12,7 @@ adjacent to:
 county in:
   - Washington
   - Interstate 5
-county seat: Tacoma, Washington
+county of: Pacific Ocean
 disambiguation of: Pierce County
 northbound on interstate 5: King County, Washington
 official website: "https://www.piercecountywa.gov/"

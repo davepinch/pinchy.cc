@@ -7,6 +7,7 @@ adjacent to:
   - Thurston County, Washington
   - Grays Harbor County, Washington
 county in: Washington
+county of: Pacific Ocean
 official website: "https://masoncountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153637"
 wikidata: "https://www.wikidata.org/wiki/Q111904"

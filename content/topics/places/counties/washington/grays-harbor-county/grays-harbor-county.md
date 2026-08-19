@@ -8,6 +8,7 @@ adjacent to:
   - Pacific County, Washington
   - Pacific Ocean
 county in: Washington
+county of: Pacific Ocean
 official website: "https://www.graysharbor.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153401"
 wikidata: "https://www.wikidata.org/wiki/Q493222"

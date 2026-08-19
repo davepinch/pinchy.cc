@@ -10,7 +10,7 @@ ASCEND: Mount Daniel
 county in:
   - Washington
   - Cascade Range
-county seat: Seattle
+county of: Pacific Ocean
 eastbound on interstate 90: Kittitas County, Washington
 namesake of: Martin Luther King Jr.
 northbound on interstate 5: Snohomish County, Washington

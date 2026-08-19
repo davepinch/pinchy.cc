@@ -6,7 +6,7 @@ adjacent to:
   - Pacific Ocean
   - Strait of Juan de Fuca
 county in: Washington
-county seat: Port Angeles, Washington
+county of: Pacific Ocean
 official website: "https://www.clallamcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153923"
 westernmost county in:
