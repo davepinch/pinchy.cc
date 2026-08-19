@@ -1,5 +1,6 @@
 ---
 title: "Clatsop County, Oregon"
+apple maps: "https://maps.apple/p/sTST~FVBS2NXb8"
 county in: Oregon
 county of: Pacific Ocean
 official website: "https://www.clatsopcounty.gov/"

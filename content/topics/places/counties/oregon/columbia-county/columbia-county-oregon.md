@@ -1,5 +1,6 @@
 ---
 title: "Columbia County, Oregon"
+apple maps: "https://maps.apple/p/UwjaLnKKyJR_SU"
 county in: Oregon
 official website: "https://www.columbiacountyor.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837107"

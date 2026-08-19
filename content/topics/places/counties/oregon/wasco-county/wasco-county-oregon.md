@@ -9,6 +9,7 @@ adjacent to:
   - Marion County, Oregon
   - Clackamas County, Oregon
   - Hood River County, Oregon
+apple maps: "https://maps.apple/p/4tE9-9~iX-eajX"
 county in: Oregon
 official website: "https://www.wascocountyor.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837132"

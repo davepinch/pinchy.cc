@@ -8,6 +8,7 @@ adjacent to:
   - Union County, Oregon
   - Grant County, Washington
   - Morrow County, Oregon
+apple maps: "https://maps.apple/p/u~Jhidt_qPRamq"
 county in: Oregon
 namesake of: Umatilla River
 official website: "https://www.co.umatilla.or.us/"

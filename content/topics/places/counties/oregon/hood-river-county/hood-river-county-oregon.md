@@ -6,6 +6,7 @@ adjacent to:
   - Wasco County, Oregon
   - Clackamas County, Oregon
   - Multnomah County, Oregon
+apple maps: "https://maps.apple/p/XPIdp7g5j.H1Qp"
 county in: Oregon
 official website: "https://www.hoodrivercounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837115"

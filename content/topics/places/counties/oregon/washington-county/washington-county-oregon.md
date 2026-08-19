@@ -1,5 +1,6 @@
 ---
 title: "Washington County, Oregon"
+apple maps: "https://maps.apple/p/Jy29cyD6~n9w7U"
 county in: Oregon
 official website: "https://www.washingtoncountyor.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837133"

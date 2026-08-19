@@ -4,6 +4,7 @@ adjacent to:
   - Klickitat County, Washington
   - Gilliam County, Oregon
   - Wasco County, Oregon
+apple maps: "https://maps.apple/p/Biu4B58oHUk58W"
 county in: Oregon
 official website: "https://www.sherman-county.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150095"

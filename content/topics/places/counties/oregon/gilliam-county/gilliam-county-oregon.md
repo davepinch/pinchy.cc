@@ -6,6 +6,7 @@ adjacent to:
   - Wheeler County, Oregon
   - Wasco County, Oregon
   - Sherman County, Oregon
+apple maps: "https://maps.apple/p/GCQm5N4.ehDLPJ"
 county in: Oregon
 official website: "https://www.gilliamcountyor.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150096"

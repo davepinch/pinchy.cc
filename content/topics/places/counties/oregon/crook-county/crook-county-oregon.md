@@ -6,6 +6,7 @@ adjacent to:
   - Grant County, Oregon
   - Harney County, Oregon
   - Deschutes County, Oregon
+apple maps: "https://maps.apple/p/BP74bqaNcd3vTG"
 county in: Oregon
 official website: "https://crookcountyor.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837109"

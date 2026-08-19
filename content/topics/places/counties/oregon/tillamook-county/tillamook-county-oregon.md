@@ -1,5 +1,6 @@
 ---
 title: "Tillamook County, Oregon"
+apple maps: "https://maps.apple/p/bUtVNzoI2iFP_e"
 county in: Oregon
 county of: Pacific Ocean
 official website: "https://www.tillamookcounty.gov/"
