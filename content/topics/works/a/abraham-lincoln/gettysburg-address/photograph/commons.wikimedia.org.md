@@ -11,8 +11,7 @@ photograph of:
   - Gettysburg Address
 picture: >-
   https://upload.wikimedia.org/wikipedia/commons/archive/1/10/20221118144934%21Lincolnatgettysburg.jpg
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lincolnatgettysburg.jpg/589px-Lincolnatgettysburg.jpg
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lincolnatgettysburg.jpg/330px-Lincolnatgettysburg.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 website: "https://commons.wikimedia.org/wiki/File:Lincolnatgettysburg.jpg"
 tags:
