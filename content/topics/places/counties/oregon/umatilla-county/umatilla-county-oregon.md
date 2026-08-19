@@ -15,7 +15,6 @@ official website: "https://www.co.umatilla.or.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1837129"
 wikidata: "https://www.wikidata.org/wiki/Q495344"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Umatilla_County,_Oregon"
-wikipedia: "https://en.wikipedia.org/wiki/Umatilla_County,_Oregon"
 tags:
   - county
   - county in Oregon
