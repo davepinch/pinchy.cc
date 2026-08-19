@@ -14,7 +14,6 @@ census-designated place of:
   - Jimmycomelately Creek
 openstreetmap: "https://www.openstreetmap.org/relation/238137"
 wikidata: "https://www.wikidata.org/wiki/Q886893"
-wikipedia: "https://en.wikipedia.org/wiki/Blyn,_Washington"
 tags:
   - census-designated place
   - no Wikimedia category
