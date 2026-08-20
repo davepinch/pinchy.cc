@@ -1,15 +1,14 @@
 ---
 title: "Robeson Channel"
 apple maps: "https://maps.apple/p/QDeKesvqxMbq.g"
-connects to:
-  - Arctic Ocean
-  - Hall Basin
+connects to (north): Arctic Ocean
+connects to (south): Hall Basin
 most northerly part of: Nares Strait
 openstreetmap: "https://www.openstreetmap.org/relation/13828097"
 strait in:
   - Nares Strait
-  - Canada
   - Nunavut
+  - Canada
   - Greenland
 wikidata: "https://www.wikidata.org/wiki/Q1152327"
 tags:
