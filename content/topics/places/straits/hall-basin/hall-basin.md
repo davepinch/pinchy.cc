@@ -1,10 +1,9 @@
 ---
 title: "Hall Basin"
-connects to:
-  - Robeson Channel
-  - Petermann Fjord
-  - Kennedy Channel
-  - Lady Franklin Bay
+connects to (east): Petermann Fjord
+connects to (north): Robeson Channel
+connects to (south): Kennedy Channel
+connects to (west): Lady Franklin Bay
 openstreetmap: "https://www.openstreetmap.org/relation/13828091"
 strait in:
   - Nares Strait
