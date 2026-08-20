@@ -11,5 +11,6 @@ strait in:
 wikidata: "https://www.wikidata.org/wiki/Q1510928"
 tags:
   - strait
+  - no Apple Maps place
   - no Wikimedia category
 ---
