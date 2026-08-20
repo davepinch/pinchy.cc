@@ -1,5 +1,6 @@
 ---
 title: "Haro Strait"
+apple maps: "https://maps.apple/p/6hvn3BqBiL~JU-"
 connects to:
   - Boundary Pass
   - San Juan Channel
