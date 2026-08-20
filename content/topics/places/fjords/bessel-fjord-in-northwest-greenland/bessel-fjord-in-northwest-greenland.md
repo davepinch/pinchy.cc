@@ -1,5 +1,6 @@
 ---
 title: "Bessel Fjord (northwest Greenland)"
+apple maps: "https://maps.apple/p/VLdunPrbChtWhD"
 connects to (west): Kennedy Channel
 disambiguate of: Bessel Fjord
 fjord in: Greenland
