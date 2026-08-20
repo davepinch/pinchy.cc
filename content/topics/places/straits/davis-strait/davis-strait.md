@@ -1,5 +1,6 @@
 ---
 title: "Davis Strait"
+apple maps: "https://maps.apple/p/~kLXEUcotDAZH9"
 connects to (north): Baffin Bay
 connects to (south): Labrador Sea
 namesake of: John Davis
