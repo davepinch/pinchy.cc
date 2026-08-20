@@ -1,6 +1,7 @@
 ---
 title: "Ellesmere Island"
 island in:
+  - Queen Elizabeth Islands
   - Nunavut
   - Canada
 island of:
