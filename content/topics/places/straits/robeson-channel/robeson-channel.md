@@ -1,7 +1,9 @@
 ---
 title: "Robeson Channel"
 apple maps: "https://maps.apple/p/QDeKesvqxMbq.g"
-connects to (north): Arctic Ocean
+connects to (north):
+  - Lincoln Sea
+  - Arctic Ocean
 connects to (south): Hall Basin
 most northerly part of: Nares Strait
 openstreetmap: "https://www.openstreetmap.org/relation/13828097"
