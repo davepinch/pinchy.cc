@@ -1,9 +1,8 @@
 ---
 title: "Nares Strait"
 apple maps: "https://maps.apple/p/x2EszLPWSSTs~~"
-connects to:
-  - Lincoln Sea
-  - Baffin Bay
+connects to (north): Lincoln Sea
+connects to (south): Baffin Bay
 openstreetmap: "https://www.openstreetmap.org/?mlat=80&mlon=-70&zoom=11&layers=M"
 strait in:
   - Canada
