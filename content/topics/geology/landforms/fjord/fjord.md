@@ -4,6 +4,7 @@ see also:
   - bay
   - sound
 tag requires property:
+  - apple maps
   - fjord of
   - OpenStreetMap
   - Wikidata
