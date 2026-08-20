@@ -294,9 +294,9 @@ function walk() {
             #   "message":"You have already reached the limit of active Save Page Now sessions. Please wait for a minute and then try again."
             # }
             Write-Host $response.message
-            Write-Host "Delaying 1 minute..."
+            Write-Host "Delaying 2 minutes..."
             alertStalled
-            Start-Sleep -Seconds 60
+            Start-Sleep -Seconds 120
         }
         elseif ($null -eq $response.job_id) {
             Write-Host $response.message
