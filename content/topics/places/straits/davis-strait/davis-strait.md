@@ -1,8 +1,7 @@
 ---
 title: "Davis Strait"
-connects to:
-  - Baffin Bay
-  - Labrador Sea
+connects to (north): Baffin Bay
+connects to (south): Labrador Sea
 openstreetmap: "https://www.openstreetmap.org/node/10965586395"
 strait in:
   - Arctic Ocean
