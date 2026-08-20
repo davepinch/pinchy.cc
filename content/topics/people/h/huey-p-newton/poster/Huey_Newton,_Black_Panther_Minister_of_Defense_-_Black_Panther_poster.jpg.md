@@ -10,7 +10,7 @@ license: public domain
 note: A higher resolution picture is available on Wikimedia Commons.
 picture: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg/3840px-Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
 poster of:
-  - Huey Newton
+  - Huey P. Newton
   - Black Panther Party
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg/500px-Huey_Newton%2C_Black_Panther_Minister_of_Defense_-_Black_Panther_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
