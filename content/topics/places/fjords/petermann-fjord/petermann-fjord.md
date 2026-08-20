@@ -1,10 +1,8 @@
 ---
 title: "Petermann Fjord"
 apple maps: "https://maps.apple/p/7As2KiHikgqtqg"
-fjord of:
-  - Greenland
-  - Kennedy Channel
-  - Hall Basin
+connects to: Hall Basin
+fjord of: Greenland
 namesake of: August Heinrich Petermann
 openstreetmap: "https://www.openstreetmap.org/relation/13828092"
 wikidata: "https://www.wikidata.org/wiki/Q24842707"
