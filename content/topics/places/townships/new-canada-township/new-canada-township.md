@@ -9,4 +9,5 @@ former township of:
   - Ramsey County, Minnesota
 tags:
   - township
+  - no Wikidata record
 ---
