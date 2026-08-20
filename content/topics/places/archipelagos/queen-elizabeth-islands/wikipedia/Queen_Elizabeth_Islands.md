@@ -1,0 +1,13 @@
+---
+title: "Queen Elizabeth Islands (Wikipedia)"
+excerpt: >-
+  The **Queen Elizabeth Islands** (French: Îles de la Reine-Élisabeth) are the northernmost cluster of islands in Canada's Arctic Archipelago, split between Nunavut and the Northwest Territories in Northern Canada. The Queen Elizabeth Islands contain approximately 14% of the global glacier and ice cap area (excluding the inland and shelf ice sheets of Greenland and Antarctica). The southern islands are called the Parry Islands or Parry Archipelago.
+license: CC BY-SA 4.0
+retrieved: 2026-08-20
+type: website
+url: /en.wikipedia.org/wiki/Queen_Elizabeth_Islands/
+website: "https://en.wikipedia.org/wiki/Queen_Elizabeth_Islands"
+wikipedia of: Queen Elizabeth Islands
+tags:
+  - Wikipedia
+---
