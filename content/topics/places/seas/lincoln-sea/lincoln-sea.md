@@ -1,6 +1,9 @@
 ---
 title: "Lincoln Sea"
 apple maps: "https://maps.apple/p/r6BpCu3oF0vc3p"
+connects to (south):
+  - Robeson Channel
+  - Nares Strait
 namesake of: Robert Todd Lincoln
 openstreetmap: "https://www.openstreetmap.org/relation/13828096"
 sea in:
