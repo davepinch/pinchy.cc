@@ -1,5 +1,6 @@
 ---
 title: "Thor Fjord"
+apple maps: "https://maps.apple/p/_m1UEuP35DaXAP"
 fjord of:
   - Greenland
   - Arctic Ocean

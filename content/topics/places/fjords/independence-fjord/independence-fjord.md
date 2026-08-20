@@ -1,5 +1,6 @@
 ---
 title: "Independence Fjord"
+apple maps: "https://maps.apple/p/Leg~26392JdwIY"
 fjord of:
   - Greenland
   - Arctic Ocean

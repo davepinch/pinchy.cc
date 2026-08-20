@@ -1,5 +1,6 @@
 ---
 title: "De Long Fjord"
+apple maps: "https://maps.apple/p/~Qi1g-FA2gbMfX"
 fjord of:
   - Greenland
   - Arctic Ocean

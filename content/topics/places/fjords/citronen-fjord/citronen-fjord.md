@@ -9,4 +9,5 @@ wikidata: "https://www.wikidata.org/wiki/Q85752568"
 wikipedia: "https://en.wikipedia.org/wiki/Citronen_Fjord"
 tags:
   - fjord
+  - no Apple Maps place
 ---

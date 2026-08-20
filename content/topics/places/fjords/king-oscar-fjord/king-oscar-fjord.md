@@ -1,5 +1,6 @@
 ---
 title: "King Oscar Fjord"
+apple maps: "https://maps.apple/p/S-f-QZgJvoIF0o"
 fjord of:
   - Greenland
 openstreetmap: "https://www.openstreetmap.org/relation/16783991"

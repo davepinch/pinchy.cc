@@ -9,4 +9,5 @@ wikidata: "https://www.wikidata.org/wiki/Q24831173"
 wikipedia: "https://en.wikipedia.org/wiki/Hunt_Fjord"
 tags:
   - fjord
+  - no Apple Maps place
 ---

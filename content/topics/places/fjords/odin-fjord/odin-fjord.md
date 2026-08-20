@@ -1,5 +1,6 @@
 ---
 title: "Odin Fjord"
+apple maps: "https://maps.apple/p/Sc2_uAVfIZS.~K"
 fjord of:
   - Greenland
   - Arctic Ocean

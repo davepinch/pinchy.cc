@@ -1,5 +1,6 @@
 ---
 title: "Frigg Fjord"
+apple maps: "https://maps.apple/p/y7FBZ01Ds0njjh"
 fjord of:
   - Greenland
   - Arctic Ocean

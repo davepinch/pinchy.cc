@@ -1,5 +1,6 @@
 ---
 title: "Petermann Fjord"
+apple maps: "https://maps.apple/p/7As2KiHikgqtqg"
 fjord of:
   - Greenland
   - Kennedy Channel

@@ -1,5 +1,6 @@
 ---
 title: "Hood Canal"
+apple maps: "https://maps.apple/p/PxrWfiqyFB~_Fj"
 connects to:
   - Admiralty Inlet
   - Races Cove

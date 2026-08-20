@@ -1,5 +1,6 @@
 ---
 title: "Frederick E. Hyde Fjord"
+apple maps: "https://maps.apple/p/CEPYWmi-Wt81o_"
 fjord of:
   - Arctic Ocean
   - Greenland

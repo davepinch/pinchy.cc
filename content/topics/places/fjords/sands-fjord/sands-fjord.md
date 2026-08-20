@@ -1,5 +1,6 @@
 ---
 title: "Sands Fjord"
+apple maps: "https://maps.apple/p/BAUJbdVPkVP3z-"
 fjord of:
   - Greenland
   - Arctic Ocean

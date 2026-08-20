@@ -1,5 +1,6 @@
 ---
 title: "Hagen Fjord"
+apple maps: "https://maps.apple/p/H-6-ubaADW5mZe"
 fjord of:
   - Independence Fjord
   - Greenland

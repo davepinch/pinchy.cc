@@ -1,5 +1,6 @@
 ---
 title: "Benedict Fjord"
+apple maps: "https://maps.apple/p/P_4cE~6S~T9GBo"
 fjord of:
   - Greenland
   - Atlantic Ocean

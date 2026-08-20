@@ -1,5 +1,6 @@
 ---
 title: "Freja Fjord"
+apple maps: "https://maps.apple/p/MWX8Luaz-ndJFo"
 fjord of:
   - Greenland
   - Arctic Ocean
