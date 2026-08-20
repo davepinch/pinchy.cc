@@ -1,5 +1,6 @@
 ---
 title: "Hall Basin"
+apple maps: "https://maps.apple/p/hxxxa34cSTr2EZ"
 connects to (east): Petermann Fjord
 connects to (north): Robeson Channel
 connects to (south): Kennedy Channel
