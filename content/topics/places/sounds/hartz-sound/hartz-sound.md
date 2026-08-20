@@ -1,0 +1,12 @@
+---
+title: "Hartz Sound"
+connects to (northwest): Saint George Fjord
+connects to (east): Sherard Osborn Fjord
+openstreetmap: "https://www.openstreetmap.org/relation/13828101"
+sound in: Greenland
+tags:
+  - sound
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
+---
