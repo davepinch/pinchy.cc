@@ -45,6 +45,7 @@ sequence:
   - Newman Bay
   - Saint George Fjord
   - Hartz Sound
+  - Sherard Osborn Fjord
 # back to the north
   - De Long Fjord
   - Hunt Fjord
