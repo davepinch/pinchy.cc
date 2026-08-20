@@ -12,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Spits"
 wikipedia: "https://en.wikipedia.org/wiki/Spit_(landform)"
 tags:
   - landform
+  - extends into water
 ---

@@ -11,4 +11,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Peninsulas"
 wikipedia: "https://en.wikipedia.org/wiki/Peninsula"
 tags:
   - landform
+  - extends into water
 ---
