@@ -41,6 +41,7 @@ sequence:
   - Cape Morton
   - Petermann Fjord
   - Robeson Channel
+  - Newman Bay
 # back to the north
   - De Long Fjord
   - Hunt Fjord
