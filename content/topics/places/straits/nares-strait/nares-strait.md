@@ -1,5 +1,6 @@
 ---
 title: "Nares Strait"
+apple maps: "https://maps.apple/p/x2EszLPWSSTs~~"
 connects to:
   - Lincoln Sea
   - Baffin Bay
