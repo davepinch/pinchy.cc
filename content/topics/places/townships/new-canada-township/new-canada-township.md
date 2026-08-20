@@ -1,7 +1,12 @@
 ---
 title: "New Canada Township"
-former township of: Ramsey County, Minnesota
+former township of:
+  - Little Canada, Minnesota
+  - Maplewood, Minnesota
+  - North Saint Paul, Minnesota
+  - Roseville, Minnesota
+  - Gladstone, Minnesota
+  - Ramsey County, Minnesota
 tags:
   - township
 ---
-An old township that was split into [Little Canada](/little-canada/), [Maplewood](/maplewood/), [North Saint Paul](/north-saint-paul/), and [Roseville](/roseville/).
