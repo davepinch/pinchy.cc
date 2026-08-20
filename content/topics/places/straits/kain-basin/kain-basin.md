@@ -1,9 +1,8 @@
 ---
 title: "Kain Basin"
-connects to:
-  - Kennedy Channel
-  - Peabody Bay
-  - Smith Sound
+connects to (east): Peabody Bay
+connects to (north): Kennedy Channel
+connects to (south): Smith Sound
 openstreetmap: "https://www.openstreetmap.org/relation/13828255"
 strait in:
   - Canada

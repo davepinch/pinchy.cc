@@ -1,8 +1,7 @@
 ---
 title: "Smith Sound"
-connects to:
-  - Kain Basin
-  - Baffin Bay
+connects to (north): Kain Basin
+connects to (south): Baffin Bay
 openstreetmap: "https://www.openstreetmap.org/relation/13828246"
 strait in:
   - Nares Strait
