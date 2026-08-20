@@ -7,7 +7,7 @@ retrieved: 2026-08-17
 type: website
 url: /en.wikiquote.org/wiki/J._R._R._Tolkien/
 website: "https://en.wikiquote.org/wiki/J._R._R._Tolkien"
-wikiquote of: J. R. R> Tolkien
+wikiquote of: J. R. R. Tolkien
 tags:
   - website
   - Wikiquote
