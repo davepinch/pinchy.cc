@@ -44,6 +44,7 @@ sequence:
   - Lincoln Sea
   - Newman Bay
   - Saint George Fjord
+  - Hartz Sound
 # back to the north
   - De Long Fjord
   - Hunt Fjord
