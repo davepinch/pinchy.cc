@@ -6,6 +6,7 @@ description: The glacier of Petermann Fjord in Greenland that feeds ice into Hal
 feeds ice into: Hall Basin
 glacier in:
   - Petermann Fjord
+  - Greenland Ice Sheet
   - Greenland
 namesake of: August Heinrich Petermann
 wikidata: "https://www.wikidata.org/wiki/Q546312"
