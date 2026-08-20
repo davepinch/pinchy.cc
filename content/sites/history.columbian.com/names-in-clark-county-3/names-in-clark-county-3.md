@@ -1,6 +1,7 @@
 ---
 title: "Names in Clark County (history.columbian.com)"
 excerpt: "Clark County names. Where did they come from?"
+information provided by: Pat Jollota
 names in: Clark County, Washington
 retrieved: 2026-06-19
 type: website

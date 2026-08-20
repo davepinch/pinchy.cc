@@ -2,6 +2,7 @@
 title: "Washougal (history.columbian.com)"
 ✂️: "**Washougal**: Named after the Washougal River. Indians named the river Washougal, which means “rushing water.” Early names for the area were Parker’s Landing, Point Vancouver and Washoughally Camp."
 credit: Information from The Columbian’s archives and “Naming Clark County” by Pat Jollota, courtesy of the Clark County Historical Museum
+information provided by: Pat Jollota
 names in Clark County of:
   - Washougal River
   - Washougal, Washington
