@@ -41,7 +41,9 @@ sequence:
   - Cape Morton
   - Petermann Fjord
   - Robeson Channel
+  - Lincoln Sea
   - Newman Bay
+  - Saint George Fjord
 # back to the north
   - De Long Fjord
   - Hunt Fjord
