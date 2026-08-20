@@ -1,5 +1,6 @@
 ---
 title: "Hartz Sound"
+apple maps: "https://maps.apple/p/4_bmGq9Kf8zFWm"
 connects to (northwest): Saint George Fjord
 connects to (east): Sherard Osborn Fjord
 openstreetmap: "https://www.openstreetmap.org/relation/13828101"
