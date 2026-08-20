@@ -167,6 +167,14 @@ function links($url) {
             continue
         }
 
+        if ($link.href -match "^https://en\.wikivoyage\.org") {
+            # 
+            # Same with Wikivoyage links
+            #
+            Write-Host "SKIP: $($link.href)"
+            continue
+        }
+
         if ($link.href -match "^https://www\.openstreetmap\.org") {
             #
             # Not sure whether OpenStreetMap link archival is useful.
