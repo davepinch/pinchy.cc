@@ -36,6 +36,7 @@ sequence:
   - Smith Sound
   - Kain Basin
   - Kennedy Channel
+  - Bessel Fjord (northwest Greenland)
   - Hall Basin
   - Cape Morton
   - Petermann Fjord
