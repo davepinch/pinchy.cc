@@ -1,7 +1,7 @@
 ---
 title: "Multnomah County, Oregon (data.census.gov)"
 census profile of: Multnomah County, Oregon
-county of: Census Bureau Data (data.census.gov)
+county in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Multnomah County, Oregon has 431.0 square miles of land area and is the 36th largest county in Oregon by total area. Multnomah County, Oregon is bordered by Hood River County, Oregon, Washington County, Oregon, Clackamas County, Oregon, Clark County, Washington, Columbia County, Oregon, and Skamania County, Washington.
 license: public domain

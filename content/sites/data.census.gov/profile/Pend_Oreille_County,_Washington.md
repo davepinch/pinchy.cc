@@ -1,7 +1,7 @@
 ---
 title: "Pend Oreille County, Washington (data.census.gov)"
 census profile of: Pend Oreille County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Pend Oreille County, Washington has 1,400.2 square miles of land area and is the 25th largest county in Washington by total area. Pend Oreille County, Washington is bordered by Boundary County, Idaho, Stevens County, Washington, Spokane County, Washington, and Bonner County, Idaho.
 license: public domain

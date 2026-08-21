@@ -1,7 +1,7 @@
 ---
 title: "Hood River County, Oregon (data.census.gov)"
 census profile of: Hood River County, Oregon
-county of: Census Bureau Data (data.census.gov)
+county in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Hood River County, Oregon has 522.2 square miles of land area and is the 35th largest county in Oregon by total area. Hood River County, Oregon is bordered by Multnomah County, Oregon, Clackamas County, Oregon, Wasco County, Oregon, Skamania County, Washington, and Klickitat County, Washington.
 license: public domain

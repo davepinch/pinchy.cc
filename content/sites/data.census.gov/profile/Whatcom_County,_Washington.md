@@ -1,7 +1,7 @@
 ---
 title: "Whatcom County, Washington (data.census.gov)"
 census profile of: Whatcom County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Whatcom County, Washington has 2,107.9 square miles of land area and is the 12th largest county in Washington by total area. Whatcom County, Washington is bordered by Skagit County, Washington, Okanogan County, Washington, and San Juan County, Washington.
 license: public domain

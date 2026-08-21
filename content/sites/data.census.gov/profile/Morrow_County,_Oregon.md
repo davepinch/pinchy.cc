@@ -1,7 +1,7 @@
 ---
 title: "Morrow County, Oregon (data.census.gov)"
 census profile of: Morrow County, Oregon
-county of: Census Bureau Data (data.census.gov)
+county in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Morrow County, Oregon has 2,030.5 square miles of land area and is the 17th largest county in Oregon by total area. Morrow County, Oregon is bordered by Gilliam County, Oregon, Wheeler County, Oregon, Grant County, Oregon, Umatilla County, Oregon, Klickitat County, Washington, and Benton County, Washington.
 license: public domain

@@ -1,7 +1,7 @@
 ---
 title: "Anoka County, Minnesota (data.census.gov)"
 census profile of: Anoka County, Minnesota
-county of: Census Bureau Data (data.census.gov)
+county in Minnesota of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Anoka County, Minnesota has 422.0 square miles of land area and is the 81st largest county in Minnesota by total area. Anoka County, Minnesota is bordered by Sherburne County, Minnesota, Hennepin County, Minnesota, Ramsey County, Minnesota, Chisago County, Minnesota, Washington County, Minnesota, and Isanti County, Minnesota.
 license: public domain

@@ -1,7 +1,7 @@
 ---
 title: "Island County, Washington (data.census.gov)"
 census profile of: Island County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Island County, Washington has 208.5 square miles of land area and is the 38th largest county in Washington by total area. Island County, Washington is bordered by Skagit County, Washington, Kitsap County, Washington, Jefferson County, Washington, Snohomish County, Washington, and San Juan County, Washington.
 license: public domain

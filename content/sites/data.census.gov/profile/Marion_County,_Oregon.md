@@ -1,7 +1,7 @@
 ---
 title: "Marion County, Oregon (data.census.gov)"
 census profile of: Marion County, Oregon
-county of: Census Bureau Data (data.census.gov)
+county in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Marion County, Oregon has 1,180.8 square miles of land area and is the 25th largest county in Oregon by total area. Marion County, Oregon is bordered by Linn County, Oregon, Yamhill County, Oregon, Clackamas County, Oregon, Wasco County, Oregon, Polk County, Oregon, and Jefferson County, Oregon.
 license: public domain

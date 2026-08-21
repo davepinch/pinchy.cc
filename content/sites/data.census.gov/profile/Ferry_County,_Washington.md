@@ -1,7 +1,7 @@
 ---
 title: "Ferry County, Washington (data.census.gov)"
 census profile of: Ferry County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Ferry County, Washington has 2,203.2 square miles of land area and is the 9th largest county in Washington by total area. Ferry County, Washington is bordered by Lincoln County, Washington, Stevens County, Washington, and Okanogan County, Washington.
 license: public domain

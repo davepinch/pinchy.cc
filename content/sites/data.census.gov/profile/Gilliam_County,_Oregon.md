@@ -1,7 +1,7 @@
 ---
 title: "Gilliam County, Oregon (data.census.gov)"
 census profile of: Gilliam County, Oregon
-county of: Census Bureau Data (data.census.gov)
+county in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Gilliam County, Oregon has 1,204.7 square miles of land area and is the 24th largest county in Oregon by total area. Gilliam County, Oregon is bordered by Wheeler County, Oregon, Wasco County, Oregon, Morrow County, Oregon, Sherman County, Oregon, and Klickitat County, Washington.
 license: public domain

@@ -1,7 +1,7 @@
 ---
 title: "Washington County, Oregon (data.census.gov)"
 census profile of: Washington County, Oregon
-county of: Census Bureau Data (data.census.gov)
+county in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Washington County, Oregon has 724.3 square miles of land area and is the 31st largest county in Oregon by total area. Washington County, Oregon is bordered by Clatsop County, Oregon, Columbia County, Oregon, Multnomah County, Oregon, Clackamas County, Oregon, Yamhill County, Oregon, and Tillamook County, Oregon.
 license: public domain

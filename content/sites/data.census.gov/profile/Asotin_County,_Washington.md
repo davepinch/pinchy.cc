@@ -1,7 +1,7 @@
 ---
 title: "Asotin County, Washington (data.census.gov)"
 census profile of: Asotin County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Asotin County, Washington has 636.1 square miles of land area and is the 34th largest county in Washington by total area. Asotin County, Washington is bordered by Nez Perce County, Idaho, Garfield County, Washington, Wallowa County, Oregon, and Whitman County, Washington.
 license: public domain

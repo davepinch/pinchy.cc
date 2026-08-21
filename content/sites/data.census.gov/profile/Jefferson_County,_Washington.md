@@ -1,7 +1,7 @@
 ---
 title: "Jefferson County, Washington (data.census.gov)"
 census profile of: Jefferson County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Jefferson County, Washington has 1,803.7 square miles of land area and is the 18th largest county in Washington by total area. Jefferson County, Washington is bordered by Grays Harbor County, Washington, Kitsap County, Washington, Clallam County, Washington, Island County, Washington, Mason County, Washington, and San Juan County, Washington.
 license: public domain

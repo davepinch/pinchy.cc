@@ -1,7 +1,7 @@
 ---
 title: "Kittitas County, Washington (data.census.gov)"
 census profile of: Kittitas County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Kittitas County, Washington has 2,297.3 square miles of land area and is the 8th largest county in Washington by total area. Kittitas County, Washington is bordered by Chelan County, Washington, King County, Washington, Pierce County, Washington, Douglas County, Washington, Yakima County, Washington, and Grant County, Washington.
 license: public domain

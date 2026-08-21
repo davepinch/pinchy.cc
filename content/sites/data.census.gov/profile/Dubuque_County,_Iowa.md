@@ -1,7 +1,7 @@
 ---
 title: "Dubuque County, Iowa (data.census.gov)"
 census profile of: Dubuque County, Iowa
-county of: Census Bureau Data (data.census.gov)
+county in Iowa of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Dubuque County, Iowa has 608.3 square miles of land area and is the 21st largest county in Iowa by total area. Dubuque County, Iowa is bordered by Grant County, Wisconsin, Clayton County, Iowa, Delaware County, Iowa, Jo Daviess County, Illinois, Jackson County, Iowa, and Jones County, Iowa.
 license: public domain

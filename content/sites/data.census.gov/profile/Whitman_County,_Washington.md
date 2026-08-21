@@ -1,7 +1,7 @@
 ---
 title: "Whitman County, Washington (data.census.gov)"
 census profile of: Whitman County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Whitman County, Washington has 2,159.3 square miles of land area and is the 10th largest county in Washington by total area. Whitman County, Washington is bordered by Adams County, Washington, Latah County, Idaho, Nez Perce County, Idaho, Lincoln County, Washington, Benewah County, Idaho, Franklin County, Washington, Spokane County, Washington, Garfield County, Washington, Columbia County, Washington, and Asotin County, Washington.
 license: public domain

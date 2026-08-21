@@ -1,7 +1,7 @@
 ---
 title: "Clark County, Washington (data.census.gov)"
 census profile of: Clark County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Clark County, Washington has 628.5 square miles of land area and is the 35th largest county in Washington by total area. Clark County, Washington is bordered by Cowlitz County, Washington, Multnomah County, Oregon, Columbia County, Oregon, and Skamania County, Washington.
 license: public domain

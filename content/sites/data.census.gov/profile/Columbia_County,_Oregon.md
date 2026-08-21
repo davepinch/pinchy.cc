@@ -1,7 +1,7 @@
 ---
 title: "Columbia County, Oregon (data.census.gov)"
 census profile of: Columbia County, Oregon
-county of: Census Bureau Data (data.census.gov)
+county in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Columbia County, Oregon has 658.7 square miles of land area and is the 34th largest county in Oregon by total area. Columbia County, Oregon is bordered by Cowlitz County, Washington, Washington County, Oregon, Multnomah County, Oregon, Clark County, Washington, Tillamook County, Oregon, Clatsop County, Oregon, and Wahkiakum County, Washington.
 license: public domain

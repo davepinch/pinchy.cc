@@ -1,7 +1,7 @@
 ---
 title: "Benton County, Washington (data.census.gov)"
 census profile of: Benton County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Benton County, Washington has 1,700.1 square miles of land area and is the 22nd largest county in Washington by total area. Benton County, Washington is bordered by Walla Walla County, Washington, Franklin County, Washington, Morrow County, Oregon, Umatilla County, Oregon, Yakima County, Washington, Klickitat County, Washington, and Grant County, Washington.
 license: public domain

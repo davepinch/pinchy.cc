@@ -1,7 +1,7 @@
 ---
 title: "Sherman County, Oregon (data.census.gov)"
 census profile of: Sherman County, Oregon
-county of: Census Bureau Data (data.census.gov)
+county in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Sherman County, Oregon has 823.6 square miles of land area and is the 29th largest county in Oregon by total area. Sherman County, Oregon is bordered by Gilliam County, Oregon, Wasco County, Oregon, and Klickitat County, Washington.
 license: public domain

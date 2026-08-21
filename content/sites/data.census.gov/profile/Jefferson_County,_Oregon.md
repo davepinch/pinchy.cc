@@ -1,7 +1,7 @@
 ---
 title: "Jefferson County, Oregon (data.census.gov)"
 census profile of: Jefferson County, Oregon
-county of: Census Bureau Data (data.census.gov)
+county in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Jefferson County, Oregon has 1,781.7 square miles of land area and is the 19th largest county in Oregon by total area. Jefferson County, Oregon is bordered by Wheeler County, Oregon, Crook County, Oregon, Linn County, Oregon, Marion County, Oregon, Wasco County, Oregon, and Deschutes County, Oregon.
 license: public domain

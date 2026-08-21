@@ -1,7 +1,7 @@
 ---
 title: "Adams County, Washington (data.census.gov)"
 census profile of: Adams County, Washington
-county of: Census Bureau Data (data.census.gov)
+county in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Adams County, Washington has 1,925.0 square miles of land area and is the 14th largest county in Washington by total area. Adams County, Washington is bordered by Lincoln County, Washington, Franklin County, Washington, Whitman County, Washington, and Grant County, Washington.
 license: public domain
