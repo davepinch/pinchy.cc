@@ -1,7 +1,7 @@
 ---
 title: "Chandler Fjord"
 connects to: Conybeare Fjord
-fjord in:
+fjord of:
   - Ellesmere Island
   - Nunavut
   - Canada
