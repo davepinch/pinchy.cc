@@ -9,7 +9,7 @@ snippet in: Holocene sea-ice dynamics in Petermann Fjord in relation to ice tong
 snippet of: ice calving
 submarine melting of: Petermann Glacier
 type: snippet
-url: /tc.copernicus.org/articles/15/4357/2021/@introduction-2-7/
+url: /tc.copernicus.org/articles/15/4357/2021/@introduction-2-9/
 tags:
   - snippet
 ---
