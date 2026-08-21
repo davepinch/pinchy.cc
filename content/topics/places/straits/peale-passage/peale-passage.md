@@ -1,5 +1,6 @@
 ---
 title: "Peale Passage"
+apple maps: "https://maps.apple/p/vtREF8TeNVzSeD"
 connects to:
   - "note: from north to south"
   - Pickering Passage

@@ -5,6 +5,7 @@ adjacent to:
   - Sicily (region)
   - Italy
   - Italian Peninsula
+apple maps: "https://maps.apple/p/WwYnp88Qa_k5k.z"
 connects to:
   - Tyrrhenian Sea
   - Ionian Sea

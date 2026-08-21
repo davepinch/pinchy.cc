@@ -1,5 +1,6 @@
 ---
 title: "Bab-el-Mandeb"
+apple maps: "https://maps.apple/p/mo8G.P_nQDMTUB"
 clockwise around the red sea: Djibouti
 connects to:
   - Red Sea

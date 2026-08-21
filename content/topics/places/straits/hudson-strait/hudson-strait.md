@@ -1,5 +1,6 @@
 ---
 title: "Hudson Strait"
+apple maps: "https://maps.apple/p/WEQPfD7ng811mD"
 connects to:
   - Foxe Channel
   - Atlantic Ocean

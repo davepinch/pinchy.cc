@@ -1,6 +1,7 @@
 ---
 title: "Bering Strait"
 title in Russian: Берингов пролив
+apple maps: "https://maps.apple/p/dAzcW3PAhjzrjt"
 connects to:
   - Arctic Ocean
   - Pacific Ocean

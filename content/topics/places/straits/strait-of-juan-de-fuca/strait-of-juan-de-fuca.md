@@ -6,6 +6,7 @@ adjacent to:
   - Canada
   - Olympic Peninsula
   - United States
+apple maps: "https://maps.apple/p/1VRpHwnkVdJ2zb"
 connects to:
   - Pacific Ocean
   - Haro Strait

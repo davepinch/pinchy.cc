@@ -1,5 +1,6 @@
 ---
 title: "Hale Passage (Whatcom County)"
+apple maps: "https://maps.apple/p/zLuJAHCCi4Ue4Y"
 connects to:
   - Bellingham Bay
   - Lummi Bay

@@ -1,5 +1,6 @@
 ---
 title: "Pitt Passage"
+apple maps: "https://maps.apple.com/place?auid=12084602081178146362&lsp=9902"
 connects to:
   - "note: north to south"
   - Carr Inlet

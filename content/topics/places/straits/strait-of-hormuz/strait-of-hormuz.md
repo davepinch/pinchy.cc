@@ -1,5 +1,6 @@
 ---
 title: "Strait of Hormuz"
+apple maps: "https://maps.apple/p/LsiWwSXgTS5.-9"
 connects to:
   - Persian Gulf
   - Gulf of Oman

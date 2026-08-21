@@ -1,5 +1,6 @@
 ---
 title: "Boundary Pass"
+apple maps: "https://maps.apple/p/6UKW1Em~In-Fw9"
 connects to:
   - Strait of Georgia
   - President Channel

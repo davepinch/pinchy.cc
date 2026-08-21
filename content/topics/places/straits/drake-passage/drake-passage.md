@@ -16,4 +16,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Drake_Passage"
 tags:
   - body of water
   - strait
+  - no Apple Maps place
 ---

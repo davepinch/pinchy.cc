@@ -1,5 +1,6 @@
 ---
 title: "Deception Pass"
+apple maps: "https://maps.apple/p/q9p_EZouVvqHoC"
 connects to:
   - Northwest Pass
   - Lottie Bay

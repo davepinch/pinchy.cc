@@ -1,5 +1,6 @@
 ---
 title: "Denmark Strait"
+apple maps: "https://maps.apple/p/HeZ3gf6sBphB5x"
 connects to:
   - Greenland Sea
   - Irminger Sea

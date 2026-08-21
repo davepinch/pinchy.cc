@@ -1,5 +1,6 @@
 ---
 title: "President Channel"
+apple maps: "https://maps.apple/p/2GRvFeBUR~4.-f"
 connects to:
   - Strait of Georgia
   - Spring Passage

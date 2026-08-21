@@ -4,6 +4,7 @@ adjacent to:
   - Tacoma
   - Point Defiance Park
   - Vashon Island
+apple maps: "https://maps.apple/p/cPzMTX-o9esiL3"
 connects to:
   - Colvos Passage
   - Tacoma Narrows

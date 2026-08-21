@@ -1,5 +1,6 @@
 ---
 title: "Admiralty Inlet"
+apple maps: "https://maps.apple/p/8um6rNyJ_qaCE0"
 connects to:
   - "note: from north to south"
   - Strait of Juan de Fuca

@@ -1,5 +1,6 @@
 ---
 title: "Strait of Georgia"
+apple maps: "https://maps.apple/p/hDKng-hu25bWat"
 connects to:
   - Boundary Bay
   - Birch Bay

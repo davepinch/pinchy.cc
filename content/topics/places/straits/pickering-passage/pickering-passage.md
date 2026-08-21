@@ -6,6 +6,7 @@ adjacent to:
   - Harstine Island
   - Squaxin Island
   - Hope Island
+apple maps: "https://maps.apple/p/5~A1XFg4m1bTX4"
 connects to:
   - "note: from northeast to south"
   - Case Inlet

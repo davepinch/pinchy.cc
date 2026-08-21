@@ -1,5 +1,6 @@
 ---
 title: "Drayton Passage"
+apple maps: "https://maps.apple/p/ubIvYVSCtw0h8I"
 connects to:
   - Pitt Passage
   - Balch Passage

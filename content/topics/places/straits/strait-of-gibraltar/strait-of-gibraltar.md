@@ -1,5 +1,6 @@
 ---
 title: "Strait of Gibraltar"
+apple maps: "https://maps.apple/p/aLnxqvfPWDodJZ"
 connects to:
   - Atlantic Ocean
   - Mediterranean Sea

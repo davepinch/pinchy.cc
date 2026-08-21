@@ -1,5 +1,6 @@
 ---
 title: "Saratoga Passage"
+apple maps: "https://maps.apple/p/jjvPsrFpWjF~-.z"
 connects to:
   - Skagit Bay
   - Possession Sound

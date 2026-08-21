@@ -1,5 +1,6 @@
 ---
 title: "Hale Passage (Pierce County)"
+apple maps: "https://maps.apple/p/iev0cmb3jdU8sh"
 connects to:
   - "note: from east to west"
   - Tacoma Narrows

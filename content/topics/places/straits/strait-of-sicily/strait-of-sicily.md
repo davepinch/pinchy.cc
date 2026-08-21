@@ -4,6 +4,7 @@ adjacent to:
   - Sicily (island)
   - Sicily (region)
   - Tunisia
+apple maps: "https://maps.apple/p/~X2pibAV3DD4fE"
 connects to:
   - Libyan Sea
   - Tyrrhenian Sea

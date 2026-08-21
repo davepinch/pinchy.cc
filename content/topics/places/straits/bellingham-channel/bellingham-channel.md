@@ -1,5 +1,6 @@
 ---
 title: "Bellingham Channel"
+apple maps: "https://maps.apple/p/aq-Gw4szKKbEkS"
 connects to:
   - Rosario Strait
   - Guemes Channel

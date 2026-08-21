@@ -4,6 +4,7 @@ adjacent to:
   - DuPont, Washington
   - Steilacoom, Washington
   - incomplete list
+apple maps: "https://maps.apple/p/8P7kxkfFTivQs0"
 connects to:
   - "note: from east to west"
   - Tacoma Narrows

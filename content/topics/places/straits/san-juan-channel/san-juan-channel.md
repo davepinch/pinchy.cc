@@ -1,5 +1,6 @@
 ---
 title: "San Juan Channel"
+apple maps: "https://maps.apple/p/xooYqyJIeNy.4k"
 connects to:
   - Boundary Pass
   - Cowlitz Bay

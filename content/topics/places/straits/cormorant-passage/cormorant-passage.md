@@ -1,5 +1,6 @@
 ---
 title: "Cormorant Passage"
+apple maps: "https://maps.apple/p/J9pXSqQWiL6VJx"
 connects to:
   - Nisqually Reach
   - Tacoma Narrows

@@ -1,5 +1,6 @@
 ---
 title: "Canoe Pass"
+apple maps: "https://maps.apple/p/1p5zmIMdUtBccQ"
 connects to: Deception Pass
 description: A strait between Pass Island and Fidalgo Island that connects to Deception Pass on both sides
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1503778"

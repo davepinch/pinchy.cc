@@ -18,4 +18,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Tacoma_Narrows"
 wikipedia: "https://en.wikipedia.org/wiki/Tacoma_Narrows"
 tags:
   - strait
+  - no Apple Maps place
 ---

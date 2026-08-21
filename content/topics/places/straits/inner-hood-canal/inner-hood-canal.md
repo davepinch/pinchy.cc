@@ -12,6 +12,7 @@ strait in:
   - Washington
 tags:
   - strait
+  - no Apple Maps place
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article

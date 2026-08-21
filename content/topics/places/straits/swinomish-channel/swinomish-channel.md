@@ -4,6 +4,7 @@ adjacent to:
   - La Conner, Washington
   - Fidalgo Island
   - Swinomish Reservation
+apple maps: "https://maps.apple/p/sIhKZz7tuonvKx"
 connects to:
   - Padilla Bay
   - Skagit Bay

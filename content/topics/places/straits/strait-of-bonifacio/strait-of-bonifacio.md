@@ -3,6 +3,7 @@ title: "Strait of Bonifacio"
 adjacent to:
   - Corsica
   - Sardinia
+apple maps: "https://maps.apple/p/FZ1SeKwIb4~_Rh"
 connects to:
   - Tyrrhenian Sea
   - Mediterranean Sea

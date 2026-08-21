@@ -1,5 +1,6 @@
 ---
 title: "Squaxin Passage"
+apple maps: "https://maps.apple/p/Ry4N8~tnd.5fgJ"
 connects to:
   - "note: from north to south"
   - Pickering Passage

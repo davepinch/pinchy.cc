@@ -1,5 +1,6 @@
 ---
 title: "East River"
+apple maps: "https://maps.apple/p/~pNt6y9qx4VAwP"
 connects to:
   - Upper New York Bay
   - Long Island SOund

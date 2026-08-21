@@ -1,5 +1,6 @@
 ---
 title: "Balch Passage"
+apple maps: "https://maps.apple/p/LaY7gi0.NsYvK4"
 connects to:
   - Nisqually Reach
   - Drayton Passage
