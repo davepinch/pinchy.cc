@@ -6,6 +6,7 @@ note: On both Wikimedia and Wikipedia, links to Palouse Falls State Park are red
 openstreetmap: "https://www.openstreetmap.org/relation/5904247"
 state park by: Washington State Parks and Recreation Commission
 state park in:
+  - Palouse
   - Franklin County, Washington
   - Whitman County, Washington
   - Washington
