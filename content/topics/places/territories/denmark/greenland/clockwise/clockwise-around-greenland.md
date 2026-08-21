@@ -46,6 +46,7 @@ sequence:
   - Saint George Fjord
   - Hartz Sound
   - Sherard Osborn Fjord
+  - Victoria Fjord
 # back to the north
   - De Long Fjord
   - Hunt Fjord
