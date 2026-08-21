@@ -1,5 +1,6 @@
 ---
 title: "Chandler Fjord"
+apple maps: "https://maps.apple/p/Zy_Y1ceDEjctgg"
 connects to: Conybeare Fjord
 fjord of:
   - Ellesmere Island
