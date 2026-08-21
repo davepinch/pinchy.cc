@@ -8,4 +8,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Bonner_County,_Idaho"
 wikipedia: "https://en.wikipedia.org/wiki/Bonner_County,_Idaho"
 tags:
   - county
+  - county in Idaho
 ---
