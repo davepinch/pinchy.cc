@@ -3,7 +3,7 @@ title: "Bessel Fjord (northwest Greenland)"
 apple maps: "https://maps.apple/p/VLdunPrbChtWhD"
 connects to (west): Kennedy Channel
 disambiguate of: Bessel Fjord
-fjord in: Greenland
+fjord of: Greenland
 not to be confused with: Bessel Fjord (northeast Greenland)
 openstreetmap: "https://www.openstreetmap.org/relation/13828090"
 url: /bessel-fjord-in-northwest-greenland/
