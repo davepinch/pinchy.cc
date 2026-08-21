@@ -1,5 +1,6 @@
 ---
 title: "Bessel Fjord (northeast Greenland)"
+apple maps: "https://maps.apple/p/2sUuSpGwnG1Md-"
 disambiguation of: Bessel Fjord
 fjord of: Greenland
 not to be confused with: Bessel Fjord (northwest Greenland)
