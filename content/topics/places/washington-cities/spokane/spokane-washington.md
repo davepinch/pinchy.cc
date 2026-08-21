@@ -1,9 +1,11 @@
 ---
 title: "Spokane, Washington"
 apple maps: "https://maps.apple/p/I4oQii.SW3UX1v"
-city of:
+city in:
+  - Palouse
   - Spokane County, Washington
   - Washington
+city of:
   - BNSF Columbia River Subdivision
   - Columbia Plateau
   - Interstate 90
