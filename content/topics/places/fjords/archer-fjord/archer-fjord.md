@@ -1,5 +1,6 @@
 ---
 title: "Archer Fjord"
+apple maps: "https://maps.apple/p/SLRNkvHECAUkC5"
 connects to (northwest): Lake Franklin Bay
 fjord in:
   - Nunavit
