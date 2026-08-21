@@ -2,6 +2,7 @@
 title: "Colfax, Washington"
 apple maps: "https://maps.apple/p/S6EbP09LvQcvPU"
 city in:
+  - Palouse
   - Whitman County, Washington
   - Washington
 city of:
