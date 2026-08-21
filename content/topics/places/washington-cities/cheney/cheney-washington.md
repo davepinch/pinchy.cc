@@ -2,6 +2,7 @@
 title: "Cheney, Washington"
 apple maps: "https://maps.apple/p/fI9a.Ts2W4_F~J"
 city in:
+  - Palouse
   - Spokane County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237993"
