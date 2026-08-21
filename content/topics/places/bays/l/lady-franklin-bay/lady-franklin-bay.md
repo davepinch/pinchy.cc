@@ -1,7 +1,7 @@
 ---
 title: "Lady Franklin Bay"
 bay in:
-  - Nunavit
+  - Nunavut
   - Canada
 bay of: Ellesmere Island
 connects to (east): Hall Basin

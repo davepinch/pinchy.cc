@@ -4,7 +4,7 @@ apple maps: "https://maps.apple/p/~w_jo5SXvWE0x4"
 connects to (east): Lake Franklin Bay
 connects to (northwest): Chandler Fjord
 fjord in:
-  - Nunavit
+  - Nunavut
   - Canada
 fjord of: Ellesmere Island
 openstreetmap: "https://www.openstreetmap.org/relation/13824881"

@@ -3,7 +3,7 @@ title: "Archer Fjord"
 apple maps: "https://maps.apple/p/SLRNkvHECAUkC5"
 connects to (northwest): Lake Franklin Bay
 fjord in:
-  - Nunavit
+  - Nunavut
   - Canada
 fjord of: Ellesmere Island
 openstreetmap: "https://www.openstreetmap.org/relation/13824886"
