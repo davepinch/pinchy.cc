@@ -1,6 +1,7 @@
 ---
 title: "Conybeare Fjord"
 connects to (east): Lake Franklin Bay
+connects to (northwest): Chandler Fjord
 fjord in:
   - Nunavit
   - Canada
