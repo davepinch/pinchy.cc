@@ -6,6 +6,7 @@ city of:
   - Idaho
 openstreetmap: "https://www.openstreetmap.org/relation/121430"
 wikidata: "https://www.wikidata.org/wiki/Q499927"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Moscow,_Idaho"
 tags:
   - city
 ---
