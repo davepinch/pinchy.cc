@@ -1,7 +1,7 @@
 ---
 title: "Bonner County, Idaho (data.census.gov)"
 census profile of: Bonner County, Idaho
-county of: Census Bureau Data (data.census.gov)
+county in Idaho of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Bonner County, Idaho has 1,733.2 square miles of land area and is the 19th largest county in Idaho by total area. Bonner County, Idaho is bordered by Lincoln County, Montana, Boundary County, Idaho, Shoshone County, Idaho, Spokane County, Washington, Sanders County, Montana, Kootenai County, Idaho, and Pend Oreille County, Washington.
 license: public domain
