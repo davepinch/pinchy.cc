@@ -9,5 +9,6 @@ tributary of: Chandler Fjord
 wikidata: "https://www.wikidata.org/wiki/Q7378585"
 tags:
   - river
+  - tributary
   - no Wikimedia category
 ---
