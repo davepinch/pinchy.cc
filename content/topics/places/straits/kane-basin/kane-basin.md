@@ -1,5 +1,5 @@
 ---
-title: "Kain Basin"
+title: "Kane Basin"
 connects to (east): Peabody Bay
 connects to (north): Kennedy Channel
 connects to (south): Smith Sound

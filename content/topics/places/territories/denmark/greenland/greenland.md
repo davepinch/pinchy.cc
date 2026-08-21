@@ -5,7 +5,7 @@ adjacent to:
   - Denmark Strait
   - Greenland Sea
   - Hall Basin
-  - Kain Basin
+  - Kane Basin
   - Labrador Sea
   - Lincoln Sea
   - Melville Bay

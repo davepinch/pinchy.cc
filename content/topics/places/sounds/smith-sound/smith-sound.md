@@ -1,6 +1,6 @@
 ---
 title: "Smith Sound"
-connects to (north): Kain Basin
+connects to (north): Kane Basin
 connects to (south): Baffin Bay
 openstreetmap: "https://www.openstreetmap.org/relation/13828246"
 strait in:

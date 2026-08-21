@@ -11,7 +11,7 @@ island of:
   - Robeson Channel
   - Hall Basin
   - Kennedy Channel
-  - Kain Basin
+  - Kane Basin
   - Smith Sound
   - Baffin Bay
   - incomplete list

@@ -34,7 +34,7 @@ sequence:
   - Baffin Bay
 # northwest
   - Smith Sound
-  - Kain Basin
+  - Kane Basin
   - Kennedy Channel
   - Bessel Fjord (northwest Greenland)
   - Hall Basin
