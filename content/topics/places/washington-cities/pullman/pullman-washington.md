@@ -3,6 +3,7 @@ title: "Pullman, Washington"
 apple maps: "https://maps.apple/p/FNit1ow3CeI2o3"
 census profile: "https://data.census.gov/profile/Pullman_city,_Washington?g=160XX00US5356625"
 city of:
+  - Palouse
   - Whitman County, Washington
   - Washington
   - Columbia Plateau
