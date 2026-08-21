@@ -2,6 +2,7 @@
 title: "strait"
 plural: straits
 tag requires property:
+  - apple maps
   - connects to
   - strait in
   - OpenStreetMap
