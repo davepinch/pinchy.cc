@@ -11,7 +11,6 @@ river in:
   - Cascade Range
 tributary of: White River
 wikidata: "https://www.wikidata.org/wiki/Q5130960"
-wikipedia: "https://en.wikipedia.org/wiki/Clearwater_River_(White_River_tributary)"
 tags:
   - river
   - no Wikimedia category
