@@ -5,6 +5,7 @@ interstate highway of:
   - Arkansas
   - Missouri
   - Illinois
+openstreetmap: "https://www.openstreetmap.org/relation/403154"
 wikidata: "https://www.wikidata.org/wiki/Q94369"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Interstate_57"
 tags:
