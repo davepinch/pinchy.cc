@@ -1,6 +1,7 @@
 ---
 title: "Big Carnelian Lake"
 another big lake: Big Four Lake
+apple maps: "https://maps.apple/p/.TZXbHivrMuRtt"
 lake in:
   - May Township
   - Washington County, Minnesota
