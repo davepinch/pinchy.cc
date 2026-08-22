@@ -2,8 +2,10 @@
 title: "Kamiah, Idaho"
 apple maps: "https://maps.apple/p/L.Y1nLGJjh1CEG"
 city in:
+  - Nez Perce Indian Reservation
   - Lewis County, Idaho
   - Idaho County, Idaho
+  - Idaho
 city of:
   - Clearwater River (Snake River tributary)
   - U.S. Route 12

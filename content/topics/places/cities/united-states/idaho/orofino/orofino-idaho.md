@@ -2,6 +2,7 @@
 title: "Orofino, Idaho"
 apple maps: "https://maps.apple/p/7R-dgXjVerY_0b"
 city in:
+  - Nez Perce Indian Reservation
   - Clearwater County, Idaho
   - Idaho
 city of:
