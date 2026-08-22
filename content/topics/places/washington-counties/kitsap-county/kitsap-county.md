@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q484159"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kitsap_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

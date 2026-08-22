@@ -22,4 +22,5 @@ wikidata: "https://www.wikidata.org/wiki/Q156459"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pierce_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

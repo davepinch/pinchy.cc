@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q483990"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pacific_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

@@ -16,4 +16,5 @@ wikidata: "https://www.wikidata.org/wiki/Q484146"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:San_Juan_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

@@ -15,5 +15,6 @@ wikidata: "https://www.wikidata.org/wiki/Q156273"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Adams_County,_Washington"
 tags:
   - county
+  - county in Washington
   - disambiguation
 ---

@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q695782"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Garfield_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

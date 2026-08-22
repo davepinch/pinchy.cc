@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q156216"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Benton_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q156287"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Clark_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

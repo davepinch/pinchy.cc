@@ -20,4 +20,5 @@ wikidata: "https://www.wikidata.org/wiki/Q110403"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Snohomish_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

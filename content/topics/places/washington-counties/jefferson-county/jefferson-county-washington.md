@@ -21,5 +21,6 @@ wikidata: "https://www.wikidata.org/wiki/Q384737"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Jefferson_County,_Washington"
 tags:
   - county
+  - county in Washington
   - disambiguation
 ---

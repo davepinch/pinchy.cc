@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q118716"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Franklin_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

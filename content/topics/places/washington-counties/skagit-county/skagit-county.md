@@ -24,4 +24,5 @@ wikidata: "https://www.wikidata.org/wiki/Q113892"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Skagit_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

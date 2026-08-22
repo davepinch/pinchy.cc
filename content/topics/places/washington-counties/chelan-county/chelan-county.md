@@ -17,4 +17,5 @@ wikidata: "https://www.wikidata.org/wiki/Q493236"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Chelan_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q485301"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pend_Oreille_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

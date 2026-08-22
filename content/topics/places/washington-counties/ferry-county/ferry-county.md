@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q493228"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ferry_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

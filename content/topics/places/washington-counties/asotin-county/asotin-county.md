@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q156295"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Asotin_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

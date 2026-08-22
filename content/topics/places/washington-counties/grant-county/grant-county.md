@@ -18,4 +18,5 @@ wikidata: "https://www.wikidata.org/wiki/Q281681"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Grant_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

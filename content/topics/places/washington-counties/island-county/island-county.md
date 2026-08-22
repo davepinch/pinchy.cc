@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q493243"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Island_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

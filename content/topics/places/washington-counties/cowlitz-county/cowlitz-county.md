@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q156276"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Cowlitz_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

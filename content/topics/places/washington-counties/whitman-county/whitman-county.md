@@ -16,4 +16,5 @@ wikidata: "https://www.wikidata.org/wiki/Q484153"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Whitman_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

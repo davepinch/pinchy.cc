@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q111904"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mason_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

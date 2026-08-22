@@ -23,4 +23,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:King_County,_Washington"
 wikivoyage: "https://en.wikivoyage.org/wiki/King_County"
 tags:
   - county
+  - county in Washington
 ---

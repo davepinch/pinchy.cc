@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q483954"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Stevens_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

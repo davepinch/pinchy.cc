@@ -17,4 +17,5 @@ wikidata: "https://www.wikidata.org/wiki/Q485276"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Spokane_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

@@ -20,4 +20,5 @@ wikidata: "https://www.wikidata.org/wiki/Q484150"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lincoln_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

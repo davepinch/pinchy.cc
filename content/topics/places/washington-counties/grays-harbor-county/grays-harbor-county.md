@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q493222"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Grays_Harbor_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

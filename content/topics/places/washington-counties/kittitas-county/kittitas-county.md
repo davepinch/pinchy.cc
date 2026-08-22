@@ -19,4 +19,5 @@ wikidata: "https://www.wikidata.org/wiki/Q111540"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kittitas_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

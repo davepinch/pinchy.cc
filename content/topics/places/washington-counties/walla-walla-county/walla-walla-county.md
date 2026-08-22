@@ -14,5 +14,6 @@ wikidata: "https://www.wikidata.org/wiki/Q485305"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Walla_Walla_County,_Washington"
 tags:
   - county
+  - county in Washington
   - disambiguation
 ---

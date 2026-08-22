@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q304791"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Skamania_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---

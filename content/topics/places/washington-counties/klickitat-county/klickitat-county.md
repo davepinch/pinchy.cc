@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q820502"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Klickitat_County,_Washington"
 tags:
   - county
+  - county in Washington
 ---
