@@ -1,7 +1,7 @@
 ---
 title: "Hobart CDP, Washington (data.census.gov)"
 census profile of: Hobart, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Hobart CDP, Washington is a city, town, place equivalent, or township located in Washington. Hobart CDP, Washington has a land area of 18.8 square miles.
 license: public domain

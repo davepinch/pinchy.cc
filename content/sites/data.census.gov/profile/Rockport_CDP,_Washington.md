@@ -1,7 +1,7 @@
 ---
 title: "Rockport CDP, Washington (data.census.gov)"
 census profile of: Rockport, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Rockport CDP, Washington is a city, town, place equivalent, or township located in Washington. Rockport CDP, Washington has a land area of 0.4 square miles.
 license: public domain

@@ -1,7 +1,7 @@
 ---
 title: "Midland CDP, Washington (data.census.gov)"
 census profile of: Midland, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Midland CDP, Washington is a city, town, place equivalent, or township located in Washington. Midland CDP, Washington has a land area of 3.0 square miles.
 license: public domain

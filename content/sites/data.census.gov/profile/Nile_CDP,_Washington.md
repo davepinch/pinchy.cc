@@ -1,7 +1,7 @@
 ---
 title: "Nile CDP, Washington (data.census.gov)"
 census profile of: Nile, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Nile CDP, Washington is a city, town, place equivalent, or township located in Washington. Nile CDP, Washington has a land area of 0.8 square miles.
 license: public domain

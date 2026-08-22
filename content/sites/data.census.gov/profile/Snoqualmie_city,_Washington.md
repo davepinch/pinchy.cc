@@ -1,7 +1,7 @@
 ---
 title: "Snoqualmie city, Washington (data.census.gov)"
 census profile of: Snoqualmie, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Snoqualmie city, Washington is a city, town, place equivalent, or township located in Washington. Snoqualmie city, Washington has a land area of 7.2 square miles.
 license: public domain

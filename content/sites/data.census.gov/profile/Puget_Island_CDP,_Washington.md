@@ -1,7 +1,7 @@
 ---
 title: "Puget Island CDP, Washington (data.census.gov)"
 census profile of: Puget Island, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Puget Island CDP, Washington is a city, town, place equivalent, or township located in Washington. Puget Island CDP, Washington has a land area of 7.6 square miles.
 license: public domain

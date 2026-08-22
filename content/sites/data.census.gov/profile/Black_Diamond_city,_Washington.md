@@ -1,7 +1,7 @@
 ---
 title: "Black Diamond city, Washington (data.census.gov)"
 census profile of: Black Diamond, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Black Diamond city, Washington is a city, town, place equivalent, or township located in Washington. Black Diamond city, Washington has a land area of 6.5 square miles.
 license: public domain

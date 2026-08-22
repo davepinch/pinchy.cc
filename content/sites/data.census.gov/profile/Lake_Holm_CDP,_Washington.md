@@ -1,7 +1,7 @@
 ---
 title: "Lake Holm CDP, Washington (data.census.gov)"
 census profile of: Lake Holm, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Lake Holm CDP, Washington is a city, town, place equivalent, or township located in Washington. Lake Holm CDP, Washington has a land area of 8.4 square miles.
 license: public domain

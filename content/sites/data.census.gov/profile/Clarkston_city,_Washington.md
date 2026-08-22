@@ -1,7 +1,7 @@
 ---
 title: "Clarkston city, Washington (data.census.gov)"
 census profile of: Clarkston, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Clarkston city, Washington is a city, town, place equivalent, or township located in Washington. Clarkston city, Washington has a land area of 2.1 square miles.
 license: public domain

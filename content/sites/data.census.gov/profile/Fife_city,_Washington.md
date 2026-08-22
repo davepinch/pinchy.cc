@@ -1,7 +1,7 @@
 ---
 title: "Fife city, Washington (data.census.gov)"
 census profile of: Fife, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Fife city, Washington is a city, town, place equivalent, or township located in Washington. Fife city, Washington has a land area of 5.7 square miles.
 license: public domain

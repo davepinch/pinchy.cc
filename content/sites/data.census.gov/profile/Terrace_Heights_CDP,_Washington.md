@@ -1,7 +1,7 @@
 ---
 title: "Terrace Heights CDP, Washington (data.census.gov)"
 census profile of: Terrace Heights, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Terrace Heights CDP, Washington is a city, town, place equivalent, or township located in Washington. Terrace Heights CDP, Washington has a land area of 8.0 square miles.
 license: public domain

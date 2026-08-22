@@ -1,7 +1,7 @@
 ---
 title: "Custer CDP, Montana (data.census.gov)"
 census profile of: Custer, Montana
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Custer CDP, Montana is a city, town, place equivalent, or township located in Montana. Custer CDP, Montana has a land area of 0.3 square miles.
 license: public domain

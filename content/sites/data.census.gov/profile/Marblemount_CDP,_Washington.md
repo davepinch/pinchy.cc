@@ -1,7 +1,7 @@
 ---
 title: "Marblemount CDP, Washington (data.census.gov)"
 census profile of: Marblemount, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Marblemount CDP, Washington is a city, town, place equivalent, or township located in Washington. Marblemount CDP, Washington has a land area of 2.2 square miles.
 license: public domain

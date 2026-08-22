@@ -1,7 +1,7 @@
 ---
 title: "Fircrest city, Washington (data.census.gov)"
 census profile of: Fircrest, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Fircrest city, Washington is a city, town, place equivalent, or township located in Washington. Fircrest city, Washington has a land area of 1.6 square miles.
 license: public domain

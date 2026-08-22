@@ -1,7 +1,7 @@
 ---
 title: "Tokeland CDP, Washington (data.census.gov)"
 census profile of: Tokeland, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Tokeland CDP, Washington is a city, town, place equivalent, or township located in Washington. Tokeland CDP, Washington has a land area of 0.5 square miles.
 license: public domain

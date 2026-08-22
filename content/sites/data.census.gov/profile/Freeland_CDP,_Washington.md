@@ -1,7 +1,7 @@
 ---
 title: "Freeland CDP, Washington (data.census.gov)"
 census profile of: Freeland, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Freeland CDP, Washington is a city, town, place equivalent, or township located in Washington. Freeland CDP, Washington has a land area of 3.9 square miles.
 license: public domain

@@ -2,7 +2,7 @@
 title: "South Bend city, Washington (data.census.gov)"
 adjacent to: Raymond city, Washington (data.census.gov)
 census profile of: South Bend, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   South Bend city, Washington is a city, town, place equivalent, or township located in Washington. South Bend city, Washington has a land area of 1.6 square miles.
 license: public domain

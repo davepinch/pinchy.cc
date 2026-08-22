@@ -1,7 +1,7 @@
 ---
 title: "Pacific City CDP, Oregon (data.census.gov)"
 census profile of: Pacific City, Oregon
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Oregon of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Pacific City CDP, Oregon is a city, town, place equivalent, or township located in Oregon. Pacific City CDP, Oregon has a land area of 3.7 square miles.
 license: public domain

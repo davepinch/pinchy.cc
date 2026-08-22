@@ -1,7 +1,7 @@
 ---
 title: "Hat Island CDP, Washington (data.census.gov)"
 census profile of: Hat Island, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Hat Island CDP, Washington is a city, town, place equivalent, or township located in Washington. Hat Island CDP, Washington has a land area of 0.7 square miles.
 license: public domain

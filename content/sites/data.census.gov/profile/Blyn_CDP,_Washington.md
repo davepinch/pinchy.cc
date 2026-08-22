@@ -1,7 +1,7 @@
 ---
 title: "Blyn, Washington (data.census.gov)"
 census profile of: Blyn, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Blyn CDP, Washington is a city, town, place equivalent, or township located inWashington. Blyn CDP, Washington has a land area of 4.7 square miles.
 license: public domain

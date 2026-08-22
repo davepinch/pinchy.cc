@@ -1,7 +1,7 @@
 ---
 title: "Salmon Creek CDP, Washington (data.census.gov)"
 census profile of: Salmon Creek, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Salmon Creek CDP, Washington is a city, town, place equivalent, or township located in Washington. Salmon Creek CDP, Washington has a land area of 6.3 square miles.
 license: public domain

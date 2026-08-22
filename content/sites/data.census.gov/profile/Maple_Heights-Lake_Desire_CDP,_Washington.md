@@ -1,7 +1,7 @@
 ---
 title: "Maple Heights-Lake Desire CDP, Washington (data.census.gov)"
 census profile of: Maple Heights-Lake Desire, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Maple Heights-Lake Desire CDP, Washington is a city, town, place equivalent, or township located in Washington. Maple Heights-Lake Desire CDP, Washington has a land area of 4.1 square miles.
 license: public domain

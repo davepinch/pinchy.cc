@@ -1,7 +1,7 @@
 ---
 title: "Boulevard Park CDP, Washington (data.census.gov)"
 census profile of: Boulevard Park, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Boulevard Park CDP, Washington is a city, town, place equivalent, or township located in Washington. Boulevard Park CDP, Washington has a land area of 1.2 square miles.
 license: public domain

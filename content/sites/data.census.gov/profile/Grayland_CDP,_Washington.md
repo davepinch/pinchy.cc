@@ -1,7 +1,7 @@
 ---
 title: "Grayland CDP, Washington (data.census.gov)"
 census profile of: Grayland, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Grayland CDP, Washington is a city, town, place equivalent, or township located in Washington. Grayland CDP, Washington has a land area of 6.8 square miles.
 license: public domain

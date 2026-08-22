@@ -1,7 +1,7 @@
 ---
 title: "Covington city, Washington (data.census.gov)"
 census profile of: Covington, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Covington city, Washington is a city, town, place equivalent, or township located in Washington. Covington city, Washington has a land area of 5.9 square miles.
 license: public domain

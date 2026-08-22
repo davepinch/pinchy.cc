@@ -1,7 +1,7 @@
 ---
 title: "Issaquah city, Washington (data.census.gov)"
 census profile of: Issaquah, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Issaquah city, Washington is a city, town, place equivalent, or township located in Washington. Issaquah city, Washington has a land area of 12.1 square miles.
 license: public domain

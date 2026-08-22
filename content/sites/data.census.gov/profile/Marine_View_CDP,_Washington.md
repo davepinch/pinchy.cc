@@ -1,6 +1,6 @@
 ---
 title: "Marine View CDP, Washington (data.census.gov)"
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 census profile of: Marine View, Washington
 excerpt: >-
   Marine View CDP, Washington is a city, town, place equivalent, or township located in Washington.

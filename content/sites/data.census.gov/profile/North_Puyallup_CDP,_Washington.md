@@ -1,7 +1,7 @@
 ---
 title: "North Puyallup CDP, Washington (data.census.gov)"
 census profile of: North Puyallup, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   North Puyallup CDP, Washington is a city, town, place equivalent, or township located in Washington. North Puyallup CDP, Washington has a land area of 1.0 square miles.
 license: public domain

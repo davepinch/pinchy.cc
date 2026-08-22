@@ -1,7 +1,7 @@
 ---
 title: "Pendleton city, Oregon (data.census.gov)"
 census profile of: Pendleton, Oregon
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Pendleton city, Oregon is a city, town, place equivalent, or township located in Oregon. Pendleton city, Oregon has a land area of 11.7 square miles.
 license: public domain

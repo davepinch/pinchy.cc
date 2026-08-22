@@ -1,7 +1,7 @@
 ---
 title: "Maple Valley city, Washington (data.census.gov)"
 census profile of: Maple Valley, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Maple Valley city, Washington is a city, town, place equivalent, or township located in Washington. Maple Valley city, Washington has a land area of 6.0 square miles.
 license: CC BY-SA 4.0

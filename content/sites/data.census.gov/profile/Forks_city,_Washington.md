@@ -1,7 +1,7 @@
 ---
 title: "Forks city, Washington (data.census.gov)"
 census profile of: Forks, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Forks city, Washington is a city, town, place equivalent, or township located in Washington. Forks city, Washington has a land area of 4.1 square miles.
 license: public domain

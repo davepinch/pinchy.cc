@@ -1,7 +1,7 @@
 ---
 title: "Cowiche CDP, Washington (data.census.gov)"
 census profile of: Cowiche, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Cowiche CDP, Washington is a city, town, place equivalent, or township located in Washington. Cowiche CDP, Washington has a land area of 0.5 square miles.
 license: public domain

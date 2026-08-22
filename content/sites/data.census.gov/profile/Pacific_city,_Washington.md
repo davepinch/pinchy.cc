@@ -1,7 +1,7 @@
 ---
 title: "Pacific city, Washington (data.census.gov)"
 census profile of: Pacific, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Pacific city, Washington is a city, town, place equivalent, or township located in Washington. Pacific city, Washington has a land area of 2.4 square miles.
 license: public domain

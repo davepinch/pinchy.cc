@@ -1,7 +1,7 @@
 ---
 title: "Eden Prairie city, Minnesota (data.census.gov)"
 census profile of: Eden Prairie, Minnesota
-city of: Census Bureau Data (data.census.gov)
+city in Minnesota of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Eden Prairie city, Minnesota is a city, town, place equivalent, or township located in Minnesota. Eden Prairie city, Minnesota has a land area of 32.5 square miles.
 license: public domain

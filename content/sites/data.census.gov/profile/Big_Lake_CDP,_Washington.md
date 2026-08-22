@@ -1,7 +1,7 @@
 ---
 title: "Big Lake CDP, Washington (data.census.gov)"
 census profile of: Big Lake, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Big Lake CDP, Washington is a city, town, place equivalent, or township located in Washington. Big Lake CDP, Washington has a land area of 3.8 square miles.
 license: public domain

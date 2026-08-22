@@ -1,7 +1,7 @@
 ---
 title: "Acme CDP, Washington (data.census.gov)"
 census profile of: Acme, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Acme CDP, Washington is a city, town, place equivalent, or township located in Washington. Acme CDP, Washington has a land area of 6.1 square miles.
 license: public domain

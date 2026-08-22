@@ -1,7 +1,7 @@
 ---
 title: "Tukwila city, Washington (data.census.gov)"
 census profile of: Tukwila, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Tukwila city, Washington is a city, town, place equivalent, or township located in Washington. Tukwila city, Washington has a land area of 9.2 square miles.
 license: public domain

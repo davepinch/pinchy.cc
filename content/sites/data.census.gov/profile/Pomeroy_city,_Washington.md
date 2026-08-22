@@ -1,7 +1,7 @@
 ---
 title: "Pomeroy city, Washington (data.census.gov)"
 census profile of: Pomeroy, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Pomeroy city, Washington is a city, town, place equivalent, or township located in Washington. Pomeroy city, Washington has a land area of 1.8 square miles.
 license: public domain

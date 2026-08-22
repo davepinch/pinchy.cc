@@ -1,7 +1,7 @@
 ---
 title: "Colfax city, Washington (data.census.gov)"
 census profile of: Colfax, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Colfax city, Washington is a city, town, place equivalent, or township located in Washington. Colfax city, Washington has a land area of 3.8 square miles.
 license: public domain

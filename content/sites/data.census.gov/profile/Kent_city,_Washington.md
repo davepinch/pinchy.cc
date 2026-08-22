@@ -1,7 +1,7 @@
 ---
 title: "Kent city, Washington (data.census.gov)"
 census profile of: Kent, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Kent city, Washington is a city, town, place equivalent, or township located in Washington. Kent city, Washington has a land area of 33.7 square miles.
 license: public domain

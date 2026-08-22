@@ -1,7 +1,7 @@
 ---
 title: "Cheney city, Washington (data.census.gov)"
 census profile of: Cheney, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Cheney city, Washington is a city, town, place equivalent, or township located in Washington. Cheney city, Washington has a land area of 4.3 square miles.
 license: public domain

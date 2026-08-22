@@ -1,7 +1,7 @@
 ---
 title: "Edgewood city, Washington (data.census.gov)"
 census profile of: Edgewood, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Edgewood city, Washington is a city, town, place equivalent, or township located in Washington. Edgewood city, Washington has a land area of 8.4 square miles.
 license: public domain

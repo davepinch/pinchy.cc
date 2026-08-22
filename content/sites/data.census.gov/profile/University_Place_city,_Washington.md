@@ -1,7 +1,7 @@
 ---
 title: "University Place city, Washington (data.census.gov)"
 census profile of: University Place, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   University Place city, Washington is a city, town, place equivalent, or township located in Washington. University Place city, Washington has a land area of 8.3 square miles.
 license: public domain

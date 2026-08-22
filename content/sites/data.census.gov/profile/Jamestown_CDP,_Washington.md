@@ -1,7 +1,7 @@
 ---
 title: "Jamestown CDP, Washington (data.census.gov)"
 census profile of: Jamestown, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Jamestown CDP, Washington is a city, town, place equivalent, or township located in Washington. Jamestown CDP, Washington has a land area of 0.6 square miles.
 license: public domain

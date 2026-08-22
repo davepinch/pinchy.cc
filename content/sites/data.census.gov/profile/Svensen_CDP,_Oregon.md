@@ -1,7 +1,7 @@
 ---
 title: "Svensen CDP, Oregon (data.census.gov)"
 census profile of: Svensen, Oregon
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Svensen CDP, Oregon is a city, town, place equivalent, or township located in Oregon.
 license: public domain

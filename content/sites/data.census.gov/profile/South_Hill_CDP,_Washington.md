@@ -1,7 +1,7 @@
 ---
 title: "South Hill CDP, Washington (data.census.gov)"
 census profile of: South Hill, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   South Hill CDP, Washington is a city, town, place equivalent, or township located in Washington. South Hill CDP, Washington has a land area of 18.4 square miles.
 license: public domain

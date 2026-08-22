@@ -1,7 +1,7 @@
 ---
 title: "Renton city, Washington (data.census.gov)"
 census profile of: Renton, Washington
-city of: Census Bureau Data (data.census.gov)
+city in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Renton city, Washington is a city, town, place equivalent, or township located in Washington. Renton city, Washington has a land area of 23.4 square miles.
 license: public domain

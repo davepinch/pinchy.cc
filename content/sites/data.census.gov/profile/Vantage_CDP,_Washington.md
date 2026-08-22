@@ -1,7 +1,7 @@
 ---
 title: "Vantage CDP, Washington (data.census.gov)"
 census profile of: Vantage, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Vantage CDP, Washington is a city, town, place equivalent, or township located in Washington. Vantage CDP, Washington has a land area of 0.3 square miles.
 license: public domain

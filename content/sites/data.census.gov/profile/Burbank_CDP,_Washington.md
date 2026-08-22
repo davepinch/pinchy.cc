@@ -1,7 +1,7 @@
 ---
 title: "Burbank CDP, Washington (data.census.gov)"
 census profile of: Burbank, Washington
-census-designated place of: Census Bureau Data (data.census.gov)
+census-designated place in Washington of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Burbank CDP, Washington is a city, town, place equivalent, or township located in Washington. Burbank CDP, Washington has a land area of 13.2 square miles.
 license: public domain
