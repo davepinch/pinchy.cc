@@ -14,7 +14,6 @@ vicinity to:
   - Olympic National Park
   - Daniel J. Evans Wilderness
 wikidata: "https://www.wikidata.org/wiki/Q5130956"
-wikipedia: "https://en.wikipedia.org/wiki/Clearwater_River_(Queets_River_tributary)"
 tags:
   - river
   - no Wikimedia category
