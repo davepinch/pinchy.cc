@@ -5,6 +5,10 @@ openstreetmap:
   - "https://www.openstreetmap.org/relation/17876953"
   - "Note: the OpenStreetMap link excludes the North, South and Middle forks"
 river in: Idaho
+river of:
+  - Kamiah, Idaho
+  - Orofino, Idaho
+  - Lewiston, Idaho
 tributary of: Snake River
 wikidata: "https://www.wikidata.org/wiki/Q1099574"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Clearwater_River_(Idaho)"
