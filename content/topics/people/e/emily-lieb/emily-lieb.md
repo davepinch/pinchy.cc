@@ -1,0 +1,12 @@
+---
+title: "Emily Lieb"
+TODO: confirm the Wikidata link is correct
+wikidata: "https://www.wikidata.org/wiki/Q130630159"
+writer of: HistoryLink.org
+tags:
+  - person
+  - historian
+  - writer
+  - human being
+  - TODO
+---
