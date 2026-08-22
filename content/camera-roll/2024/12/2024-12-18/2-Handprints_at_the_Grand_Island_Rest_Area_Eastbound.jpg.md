@@ -4,7 +4,7 @@ author: David Pinch
 description: >-
   I did not make these prints. I found these at the Grand Island Rest Area on eastbound Interstate 80. It was getting late and my partner and I had decided to take shifts driving to Georgia. At 10:36 PM in Nebraska, we still had a long way to go. There is some story behind these prints but lacking any further context, it becomes a matter of personal interpretation.
 handprints of:
-  - Grant Island Rest Area Eastbound
+  - Grand Island Rest Area Eastbound
   - Interstate 80
   - Nebraska
 license: public domain
