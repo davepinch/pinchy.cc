@@ -7,6 +7,8 @@ city in:
 city of: Snake River
 openstreetmap: "https://www.openstreetmap.org/relation/121282"
 wikidata: "https://www.wikidata.org/entity/Q505539"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lewiston,_Idaho"
+wikisource: "https://en.wikisource.org/wiki/Portal:Lewiston,_Idaho"
 tags:
   - city
 ---
