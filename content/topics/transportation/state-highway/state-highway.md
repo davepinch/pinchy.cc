@@ -1,5 +1,6 @@
 ---
 title: "state highway"
+plural: state highways
 subnational of: highway
 tag requires property:
   - state highway of
