@@ -7,7 +7,7 @@ retrieved: 2026-08-22
 type: website
 url: /en.wikipedia.org/wiki/West_Point_(Seattle)/
 website: "https://en.wikipedia.org/wiki/West_Point_(Seattle)"
-wikipedia of: West Point (Seattle)
+wikipedia of: West Point
 tags:
   - Wikipedia
 ---
