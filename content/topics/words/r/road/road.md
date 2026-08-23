@@ -1,3 +1,4 @@
 ---
 title: "road"
+plural: roads
 ---
