@@ -7,6 +7,7 @@ cape in:
   - Seattle
   - King County, Washington
   - Washington
+cape of: Puget Sound
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1506604"
 openstreetmap: "https://www.openstreetmap.org/node/13436471476"
 wikidata: "https://www.wikidata.org/wiki/Q137714531"
