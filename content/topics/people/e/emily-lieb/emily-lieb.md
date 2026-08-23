@@ -9,4 +9,6 @@ tags:
   - writer
   - human being
   - TODO
+  - no Wikimedia category
+  - no Wikipedia article
 ---
