@@ -3,6 +3,7 @@ title: "Meadow Point"
 apple maps: "https://maps.apple/p/JGd0UaWoB47XCu"
 cape in:
   - Golden Gardens Park
+  - Ballard
   - Seattle
   - King County, Washington
   - Washington
