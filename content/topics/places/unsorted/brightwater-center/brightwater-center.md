@@ -1,5 +1,6 @@
 ---
 title: "Brightwater Center"
+official website: "https://kingcounty.gov/en/dept/dnrp/waste-services/wastewater-treatment/facilities/brightwater"
 wastewater treatment plant of:
   - Woodinville, Washington
   - Snohomish County, Washington
