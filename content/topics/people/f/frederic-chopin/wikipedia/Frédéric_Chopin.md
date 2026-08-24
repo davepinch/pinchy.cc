@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2024-04-30
 type: website
 url: /en.wikipedia.org/wiki/Frédéric_Chopin/
-website: "https://en.wikipedia.org/wiki/Frédéric_Chopin"
+website: "https://en.wikipedia.org/wiki/Fr%C3%A9d%C3%A9ric_Chopin"
 wikipedia of: Frédéric Chopin
 tags:
   - Wikipedia
