@@ -7,6 +7,9 @@ died in:
   - San Francisco
   - California
   - United States
+person of:
+  - New York City
+  - San Francisco
 wikidata: "https://www.wikidata.org/wiki/Q11093"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Valerie_Solanas"
 tags:
