@@ -7,7 +7,7 @@ license: CC BY 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ed/Western_shore_of_Smith_Island_in_Everett.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
 thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Western_shore_of_Smith_Island_in_Everett.jpg/330px-Western_shore_of_Smith_Island_in_Everett.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Western_shore_of_Smith_Island_in_Everett.jpg/
+url: /commons.wikimedia.org/wiki/File/Western_shore_of_Smith_Island_in_Everett.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Western_shore_of_Smith_Island_in_Everett.jpg"
 western shore of:
   - Smith Island (Snohomish River)
