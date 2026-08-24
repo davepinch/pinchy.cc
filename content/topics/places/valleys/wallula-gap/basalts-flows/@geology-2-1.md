@@ -6,7 +6,7 @@ basalts flows of:
   - Horse Heaven Hills
   - Miocene
 citation: >-
-  Wikipedia contributors. (2026, May 20). Wallula Gap. In **Wikipedia, The Free Encyclopedia**. Retrieved 01:25, June 14, 2026, from https://en.wikipedia.org/w/index.php?title=Wallula_Gap&oldid=1355147522
+  Wikipedia contributors. (2026, May 20). Wallula Gap. In *Wikipedia, The Free Encyclopedia*. Retrieved 01:25, June 14, 2026, from https://en.wikipedia.org/w/index.php?title=Wallula_Gap&oldid=1355147522
 license: CC BY-SA 4.0
 snippet of: Wallula Gap (Wikipedia)
 type: snippet
