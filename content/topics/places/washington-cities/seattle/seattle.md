@@ -19,6 +19,7 @@ city of:
   - Lake Washington
   - Puget Sound
   - Interstate 90
+namesake of: Chief Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/237385"
 up the pacific coast: Shoreline, Washington
 vicinity to:
