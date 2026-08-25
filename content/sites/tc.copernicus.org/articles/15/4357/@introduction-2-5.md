@@ -6,7 +6,7 @@ title: "TC, 15, 4357–4380, 2021 @ Introduction ¶ 2, sentence 5 (tc.copernicus
 ⬅️: TC, 15, 4357–4380, 2021 @ Introduction ¶ 4, sentence 1 (tc.copernicus.org)
 drainage of: Greenland Ice Sheet
 drainage of Greenland Ice Sheet of:
-  - Patermann Glacier
+  - Petermann Glacier
   - Hall Basin
   - Nares Strait
 license: CC BY 4.0
