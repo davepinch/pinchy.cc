@@ -15,5 +15,6 @@ tributary of: Skagit Bay
 wikidata: "https://www.wikidata.org/wiki/Q113470552"
 tags:
   - slough
+  - no Apple Maps place
   - no Wikipedia article
 ---

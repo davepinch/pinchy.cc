@@ -19,4 +19,5 @@ vicinity of: Milltown Boat Launch
 wikidata: "https://www.wikidata.org/wiki/Q113472692"
 tags:
   - slough
+  - no Apple Maps slough
 ---

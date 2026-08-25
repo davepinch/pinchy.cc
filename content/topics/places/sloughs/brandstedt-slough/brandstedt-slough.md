@@ -20,6 +20,7 @@ slough of:
 wikidata: "https://www.wikidata.org/wiki/Q49866833"
 tags:
   - slough
+  - no Apple Maps place
   - no Wikimedia category
   - no Wikipedia article
 ---

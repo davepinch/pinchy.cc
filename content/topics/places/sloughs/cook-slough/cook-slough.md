@@ -12,5 +12,6 @@ vicinity of:
   - Arlington, Washington
 tags:
   - slough
+  - no Apple Maps place
   - no Wikidata record
 ---

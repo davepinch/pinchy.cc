@@ -1,5 +1,6 @@
 ---
 title: "Isohis Slough"
+apple maps: "https://maps.apple/p/rCh3D06T~49DHu"
 connects to: Steamboat Slough (Skagit River)
 description: >-
   Isohis Slough is part of the Skagit River Delta on Fir Island in Skagit County. It branches off Steamboat Slough, briefly entering Snohomish County before returning to Skagit County and entering Skagit Bay. It is both adjacent and within the Skagit Bay Estuary Wildlife Area Unit.

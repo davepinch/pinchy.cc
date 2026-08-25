@@ -1,5 +1,6 @@
 ---
 title: "Brown Slough"
+apple maps: "https://maps.apple/p/sBKNKHkCQqe9w2"
 connects to:
   - Columbia River
   - Duncan Slough

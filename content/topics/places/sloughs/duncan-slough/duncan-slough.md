@@ -1,5 +1,6 @@
 ---
 title: "Duncan Slough"
+apple maps: "https://maps.apple/p/NGozRcifvn3jI1"
 connects to: Brown Slough
 openstreetmap: "https://www.openstreetmap.org/relation/15408784"
 slough in:

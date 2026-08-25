@@ -10,6 +10,7 @@ slough of:
   - Columbia River
 tags:
   - slough
+  - no Apple Maps place
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article

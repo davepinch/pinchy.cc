@@ -1,5 +1,6 @@
 ---
 title: "Big Creek Slough"
+apple maps: "https://maps.apple/p/PDNbRxxSfB0xpN"
 connects to:
   - Prairie Channel
   - Calendar Slough

@@ -1,5 +1,6 @@
 ---
 title: "Cut-Off Slough"
+apple maps: "https://maps.apple/p/DnKxLdztXe-Yxr"
 connects to:
   - Jackson Inlet
   - Cathlamet Channel

@@ -1,5 +1,6 @@
 ---
 title: "Blind Slough (Columbia River)"
+apple maps: "https://maps.apple/p/o6_V90LTVvk62u"
 connects to:
   - Saspal Slough
   - Gnat Creek

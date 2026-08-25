@@ -1,5 +1,6 @@
 ---
 title: "Garden Slough"
+apple maps: "https://maps.apple/p/QB.duW8TDJ5DKQ"
 connects to:
   - Bernie Slough
   - Grove Slough

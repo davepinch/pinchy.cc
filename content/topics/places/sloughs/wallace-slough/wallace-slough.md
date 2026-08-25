@@ -1,5 +1,6 @@
 ---
 title: "Wallace Slough"
+apple maps: "https://maps.apple/p/2rPCbnL_4kevST"
 slough in:
   - Columbia River
   - Clatsop County, Oregon

@@ -1,5 +1,6 @@
 ---
 title: "Hall Slough"
+apple maps: "https://maps.apple/p/LuLuicxqS1M7vp"
 connects to: Browns Slough
 openstreetmap: "https://www.openstreetmap.org/relation/14436767"
 slough in:

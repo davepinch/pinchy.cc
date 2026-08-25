@@ -1,5 +1,6 @@
 ---
 title: "South Slough"
+apple maps: "https://maps.apple/p/PFDSSW2TLts8tX"
 openstreetmap: "https://www.openstreetmap.org/way/539883598"
 slough in:
   - Snohomish County, Washington

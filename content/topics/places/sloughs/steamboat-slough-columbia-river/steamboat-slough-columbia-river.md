@@ -1,5 +1,6 @@
 ---
 title: "Steamboat Slough (Columbia River)"
+apple maps: "https://maps.apple/p/7X--rdg7u~Rw8V"
 disambiguate of: Steamboat Slough
 openstreetmap: "https://www.openstreetmap.org/relation/12300962"
 slough in:

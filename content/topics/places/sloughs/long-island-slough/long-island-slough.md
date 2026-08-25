@@ -4,6 +4,7 @@ adjacent to:
   - Stanley Peninsula
   - Willapa National Wildlife Refuge
   - Long Island (Willapa Bay)
+apple maps: "https://maps.apple/p/Dkw6SNCywxexGD"
 connects to:
   - Willapa Bay
   - Chetlo Harbor

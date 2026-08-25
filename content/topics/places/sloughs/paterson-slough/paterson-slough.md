@@ -1,5 +1,6 @@
 ---
 title: "Paterson Slough"
+apple maps: "https://maps.apple/p/U3YZwJPB0jPaAU"
 openstreetmap: "https://www.openstreetmap.org/relation/12211214"
 slough in:
   - Klickitat County, Washington

@@ -1,5 +1,6 @@
 ---
 title: "Westport Slough"
+apple maps: "https://maps.apple/p/kHsQQ.xJEcV0rk"
 connects to:
   - Kerry Slough
 openstreetmap:

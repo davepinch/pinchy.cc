@@ -1,5 +1,6 @@
 ---
 title: "Calendar Slough"
+apple maps: "https://maps.apple/p/.NKjzNq1-6BJhD"
 connects to:
   - Knappa Slough
   - Big Creek Slough

@@ -1,5 +1,6 @@
 ---
 title: "Bernie Slough"
+apple maps: "https://maps.apple/p/Rh3M~Y_YRr7Ran"
 connects to:
   - Cathlamet Channel
   - Jackson Inlet

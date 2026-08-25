@@ -1,5 +1,6 @@
 ---
 title: "Dry Slough"
+apple maps: "https://maps.apple/p/ZIoV88yk2dhUzk"
 openstreetmap: "https://www.openstreetmap.org/relation/14436766"
 slough in:
   - Fir Island Farm Reserve Wildlife Area Unit

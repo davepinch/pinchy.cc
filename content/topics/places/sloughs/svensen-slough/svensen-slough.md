@@ -1,5 +1,6 @@
 ---
 title: "Svensen Slough"
+apple maps: "https://maps.apple/p/Zn2h1tK3_7ZrAW"
 connects to:
   - Calendar Slough
   - Prairie Channel

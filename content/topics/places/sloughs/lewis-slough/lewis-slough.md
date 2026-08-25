@@ -10,6 +10,7 @@ slough of: Long Island (Willapa Bay)
 wikidata: "https://www.wikidata.org/wiki/Q49934170"
 tags:
   - slough
+  - no Apple Maps slough
   - no Wikimedia category
   - no Wikipedia article
 ---

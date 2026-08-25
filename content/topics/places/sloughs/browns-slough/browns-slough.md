@@ -1,5 +1,6 @@
 ---
 title: "Browns Slough"
+apple maps: "https://maps.apple/p/T53paj0cPrvoog"
 connects to: Hall Slough
 not to be confused with: Brown Slough
 openstreetmap: "https://www.openstreetmap.org/relation/14436768"

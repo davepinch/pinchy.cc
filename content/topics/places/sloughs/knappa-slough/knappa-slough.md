@@ -1,5 +1,6 @@
 ---
 title: "Knappa Slough"
+apple maps: "https://maps.apple/p/2ITs2wSVMPkp8N"
 connects to:
   - Prairie Channel
   - Blind Slough (Columbia River)

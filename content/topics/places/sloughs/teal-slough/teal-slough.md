@@ -3,6 +3,7 @@ title: "Teal Slough"
 adjacent to:
   - Teal Slough Natural Resources Conservation Area
   - Stanley Peninsula
+apple maps: "https://maps.apple/p/rtff1oHfbpEvcU"
 connects to: Chetlo Harbor
 description: >-
   Teal Slough is near the end of the Naselle River as it discharges into the sloughy area near Willapa Bay. The slough can be divided into two parts: (1) a stream that runs through the Willapa National Wildlife Refuge, and (2) a bay that sits between the Stanley Peninsula and the Teal Slough Natural Resources Conservation Area. The headwaters can be reached from a trail near Ellen Worth Road south of the wildlife refuge, and the mouth can be accessed from a trailhead along U.S. Route 101, which crosses the stream as it widens into a bay.

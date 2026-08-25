@@ -7,5 +7,6 @@ slough in:
   - Oregon
 tags:
   - slough
+  - no Apple Maps place
   - no Wikidata record
 ---

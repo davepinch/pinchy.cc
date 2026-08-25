@@ -1,6 +1,7 @@
 ---
 title: "Deepwater Slough"
 adjacent to: Island Wildlife Area Unit
+apple maps: "https://maps.apple/p/FmprU9fVWyxvXY"
 connects to:
   - Freshwater Slough
   - Old River

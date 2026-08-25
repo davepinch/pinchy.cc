@@ -1,5 +1,6 @@
 ---
 title: "Grove Slough"
+apple maps: "https://maps.apple/p/6eUaZQGsrTP-~a"
 connects to:
   - Garden Slough
   - Columbia River

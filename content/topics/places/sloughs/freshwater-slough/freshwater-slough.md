@@ -1,5 +1,6 @@
 ---
 title: "Freshwater Slough"
+apple maps: "https://maps.apple/p/VmYY2WrJAXcUrq"
 connects to:
   - Deepwater Slough
   - Steamboat Slough (Skagit River)

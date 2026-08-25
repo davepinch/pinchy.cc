@@ -1,5 +1,6 @@
 ---
 title: "Grizzly Slough"
+apple maps: "https://maps.apple/p/_BWScdbpJMVxkJ"
 connects to: Blind Slough (Columbia River)
 openstreetmap:
   - "[stream east of Barendse Road](https://www.openstreetmap.org/way/546498781)"

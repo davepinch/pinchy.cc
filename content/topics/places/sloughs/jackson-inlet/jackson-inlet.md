@@ -18,4 +18,5 @@ slough of:
 wikidata: "https://www.wikidata.org/wiki/Q116478150"
 tags:
   - slough
+  - no Apple Maps place
 ---

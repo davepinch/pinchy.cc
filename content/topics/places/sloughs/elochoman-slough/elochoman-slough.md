@@ -1,5 +1,6 @@
 ---
 title: "Elochoman Slough"
+apple maps: "https://maps.apple/p/eQizQdPhEHw~P3"
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1504745"
 openstreetmap: "https://www.openstreetmap.org/relation/15397581"
 slough in:

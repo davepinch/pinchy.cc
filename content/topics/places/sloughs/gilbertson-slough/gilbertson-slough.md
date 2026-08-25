@@ -1,5 +1,6 @@
 ---
 title: "Gilbertson Slough"
+apple maps: "https://maps.apple/p/X9UmyT6PiCn32Z"
 connects to:
   - Bernie Slough
   - Sturgeon Pen Slough
