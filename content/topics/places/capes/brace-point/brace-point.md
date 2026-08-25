@@ -3,7 +3,7 @@ title: "Brace Point"
 cape in:
   - Seattle
   - King County, Washington
-  - Washingotn
+  - Washington
 cape of:
   - East Passage
   - Puget Sound
