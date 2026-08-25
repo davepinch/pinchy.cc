@@ -17,4 +17,5 @@ slough of:
   - Clatskanie River
 tags:
   - slough
+  - no Wikidata record
 ---
