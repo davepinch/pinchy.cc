@@ -1,6 +1,6 @@
 ---
 title: "Fragments of a Dream on July 16, 2026"
-next: "we were exploring a flood building"
+next: "we were exploring a flooded building"
 type: title
 when: 2026-07-15
 tags:
