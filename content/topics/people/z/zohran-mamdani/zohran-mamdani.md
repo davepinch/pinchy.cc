@@ -1,8 +1,11 @@
 ---
 title: "Zohran Mamdani"
+born in: Uganda
 mayor of: New York City
 member of: Democratic Party
-person of: New York City
+person of:
+  - New York City
+  - Uganda
 wikidata: "https://www.wikidata.org/wiki/Q28034971"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Zohran_Mamdani"
 wikisource: "https://en.wikisource.org/wiki/Author:Zohran_Mamdani"
