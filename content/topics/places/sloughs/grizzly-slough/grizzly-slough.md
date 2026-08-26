@@ -7,7 +7,7 @@ openstreetmap:
   - "[Barendse Road to Penttila Lane](https://www.openstreetmap.org/way/546498799)"
   - "[culvert under Penttila Lane](https://www.openstreetmap.org/way/546498794)"
   - "[Penttila Lane to Blind Slough](https://www.openstreetmap.org/way/546498795)"
-slough in:
+slough of:
   - Clatsop County, Oregon
   - Oregon
 tags:
