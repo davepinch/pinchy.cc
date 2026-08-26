@@ -4,7 +4,7 @@ plural: sloughs
 tag requires property:
   - apple maps
   - openstreetmap
-  - slough in
+  - slough of
   - wikidata
   - tags
 wikidata: "https://www.wikidata.org/wiki/Q7541461"
