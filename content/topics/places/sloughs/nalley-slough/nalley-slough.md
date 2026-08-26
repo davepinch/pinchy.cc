@@ -20,7 +20,7 @@ slough of:
   - Hood Canal
 tags:
   - slough
-  - no Apple Maps slough
+  - no Apple Maps place
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article
