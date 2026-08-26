@@ -18,6 +18,7 @@ slough of:
   - Skagit River
   - Skagit River Delta
 tributary of: Skagit Bay
+wikidata: "https://www.wikidata.org/wiki/Q49864405"
 tags:
   - slough
   - no Apple Maps place
