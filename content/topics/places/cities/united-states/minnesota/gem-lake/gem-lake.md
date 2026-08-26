@@ -3,7 +3,7 @@ title: "Gem Lake, Minnesota"
 adjacent to:
   - Vadnais Heights, Minnesota
   - White Bear Lake, Minnesota
-  - White Bear Township
+  - White Bear Township, Minnesota
 city of:
   - Ramsey County, Minnesota
   - Minnesota

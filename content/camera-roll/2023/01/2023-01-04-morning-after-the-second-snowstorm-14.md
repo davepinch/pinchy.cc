@@ -8,7 +8,7 @@ photograph of:
   - snow blower
   - snow covered trees
   - winter
-  - Stillwater Township
+  - Stillwater Township, Minnesota
 picture: >-
   content/camera-roll/2023/01/2023-01-04-morning-after-the-second-snowstorm-14/20230104_172145471_iOS.jpg
 thumbnail: >-

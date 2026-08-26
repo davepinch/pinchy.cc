@@ -4,7 +4,7 @@ adjacent to:
   - Mahtomedi, Minnesota
   - White Bear Lake
   - White Bear Lake, Minnesota
-  - White Bear Township
+  - White Bear Township, Minnesota
 city of:
   - Washington County, Minnesota
   - Minnesota

@@ -1,7 +1,7 @@
 ---
 title: "Oak Park Heights, Minnesota"
 adjacent to:
-  - Baytown Township
+  - Baytown Township, Minnesota
   - Lake Elmo, Minnesota
   - Saint Croix River
   - Stillwater, Minnesota

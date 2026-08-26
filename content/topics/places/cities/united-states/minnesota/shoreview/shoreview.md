@@ -10,7 +10,7 @@ adjacent to:
   - North Oaks, Minnesota
   - Roseville, Minnesota
   - Vadnais Heights, Minnesota
-  - White Bear Township
+  - White Bear Township, Minnesota
 city of:
   - Ramsey County, Minnesota
   - Minnesota

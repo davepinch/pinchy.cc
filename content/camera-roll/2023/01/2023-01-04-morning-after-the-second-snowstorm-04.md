@@ -7,7 +7,7 @@ photograph of:
   - snow
   - snow covered trees
   - winter
-  - Stillwater Township
+  - Stillwater Township, Minnesota
 picture: >-
   content/camera-roll/2023/01/2023-01-04-morning-after-the-second-snowstorm-04/20230104_145125616_iOS.jpg
 thumbnail: >-

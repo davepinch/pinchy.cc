@@ -8,12 +8,12 @@ adjacent to:
   - Maplewood, Minnesota
   - Vadnais Heights, Minnesota
   - White Bear Lake
-  - White Bear Township
+  - White Bear Township, Minnesota
 city of:
   - Ramsey County, Minnesota
   - Washington County, Minnesota
   - Minnesota
-clockwise around white bear lake: White Bear Township
+clockwise around white bear lake: White Bear Township, Minnesota
 named after the lake: White Bear Lake
 openstreetmap: "https://www.openstreetmap.org/relation/137417"
 suburb of:

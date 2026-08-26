@@ -16,5 +16,5 @@ tags:
   - snow blower
   - snow covered trees
   - winter
-  - Stillwater Township
+  - Stillwater Township, Minnesota
 ---

@@ -6,7 +6,7 @@ photograph of:
   - driveway
   - snow
   - winter
-  - Stillwater Township
+  - Stillwater Township, Minnesota
 picture: >-
   content/camera-roll/2023/01/2023-01-04-morning-after-the-second-snowstorm-15/20230104_172223549_iOS.jpg
 thumbnail: >-

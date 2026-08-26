@@ -6,7 +6,7 @@ adjacent to:
   - Dellwood, Minnesota
   - Mahtomedi, Minnesota
   - White Bear Lake, Minnesota
-  - White Bear Township
+  - White Bear Township, Minnesota
 lake in:
   - Ramsey County, Minnesota
   - Minnesota

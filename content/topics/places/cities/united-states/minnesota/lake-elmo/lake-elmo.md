@@ -1,7 +1,7 @@
 ---
 title: "Lake Elmo, Minnesota"
 adjacent to:
-  - Baytown Township
+  - Baytown Township, Minnesota
   - Oak Park Heights, Minnesota
   - Oakdale, Minnesota
   - Pine Springs, Minnesota

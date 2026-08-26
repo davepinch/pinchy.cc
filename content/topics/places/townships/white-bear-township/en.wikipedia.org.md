@@ -7,7 +7,7 @@ retrieved: 2024-06-01
 type: website
 url: /en.wikipedia.org/wiki/White_Bear_Township,_Ramsey_County,_Minnesota/
 website: "https://en.wikipedia.org/wiki/White_Bear_Township,_Ramsey_County,_Minnesota"
-wikipedia of: White Bear Township
+wikipedia of: White Bear Township, Minnesota
 tags:
   - Wikipedia
 ---

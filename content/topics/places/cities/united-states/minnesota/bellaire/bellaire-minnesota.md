@@ -6,7 +6,7 @@ adjacent to:
   - White Bear Lake, Minnesota
 clockwise around white bear lake: White Bear Lake, Minnesota
 TODO: link to Minnesota. Quality townships with the State.
-unincorporated community of: White Bear Township
+unincorporated community of: White Bear Township, Minnesota
 tags:
   - unincorporated community
   - TODO

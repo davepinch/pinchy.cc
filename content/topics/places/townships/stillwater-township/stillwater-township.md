@@ -1,5 +1,5 @@
 ---
-title: "Stillwater Township"
+title: "Stillwater Township, Minnesota"
 adjacent to: May Township, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/15788952"
 township of:

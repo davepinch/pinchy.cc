@@ -4,7 +4,7 @@ adjacent to:
   - Grant, Minnesota
   - Mahtomedi, Minnesota
   - White Bear Lake
-  - White Bear Township
+  - White Bear Township, Minnesota
 city of:
   - Washington County, Minnesota
   - Minnesota

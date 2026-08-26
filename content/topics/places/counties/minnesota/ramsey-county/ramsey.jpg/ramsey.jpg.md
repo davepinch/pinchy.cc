@@ -13,7 +13,7 @@ map of:
   - Mississippi River
   - Mounds View, Minnesota
   - New Brighton, Minnesota
-  - New Canada Township
+  - New Canada Township, Minnesota
   - North Saint Paul, Minnesota
   - Pleasant Lake
   - Saint Paul, Minnesota

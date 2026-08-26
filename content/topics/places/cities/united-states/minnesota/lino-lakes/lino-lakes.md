@@ -4,7 +4,7 @@ adjacent to:
   - Blaine, Minnesota
   - Circle Pines, Minnesota
   - Shoreview, Minnesota
-  - White Bear Township
+  - White Bear Township, Minnesota
   - incomplete list
 city of:
   - Anoka County, Minnesota

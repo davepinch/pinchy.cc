@@ -1,5 +1,5 @@
 ---
-title: "New Canada Township"
+title: "New Canada Township, Minnesota"
 former township of:
   - Little Canada, Minnesota
   - Maplewood, Minnesota

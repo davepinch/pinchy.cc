@@ -15,6 +15,6 @@ tags:
   - snow covered trees
   - tree
   - winter
-  - Stillwater Township
+  - Stillwater Township, Minnesota
 ---
 We made our way to the road and walked around.

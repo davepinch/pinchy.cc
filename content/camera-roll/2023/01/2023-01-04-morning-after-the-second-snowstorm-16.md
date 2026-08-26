@@ -15,5 +15,5 @@ tags:
   - snow
   - snow blower
   - winter
-  - Stillwater Township
+  - Stillwater Township, Minnesota
 ---

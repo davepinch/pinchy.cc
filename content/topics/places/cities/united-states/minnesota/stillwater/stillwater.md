@@ -3,7 +3,7 @@ title: "Stillwater, Minnesota"
 adjacent to:
   - Oak Park Heights, Minnesota
   - Saint Croix River
-  - Stillwater Township
+  - Stillwater Township, Minnesota
   - incomplete list
 city of:
   - Washington County, Minnesota

@@ -1,5 +1,5 @@
 ---
-title: "Baytown Township"
+title: "Baytown Township, Minnesota"
 adjacent to:
   - Bayport, Minnesota
   - Lake Elmo, Minnesota

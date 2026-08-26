@@ -1,5 +1,5 @@
 ---
-title: "White Bear Township"
+title: "White Bear Township, Minnesota"
 adjacent to:
   - Dellwood, Minnesota
   - Gem Lake, Minnesota
@@ -10,6 +10,7 @@ adjacent to:
   - White Bear Lake, Minnesota
   - incomplete list
 clockwise around white bear lake: Dellwood, Minnesota
+only remaining township of: Ramsey County, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/11822742"
 township of:
   - White Bear Lake, Minnesota
