@@ -8,6 +8,7 @@ person of:
 wikidata: "https://www.wikidata.org/wiki/Q2919440"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Danny_Danon"
 wikisource: "https://en.wikisource.org/wiki/Author:Danny_Danon"
+𝕏: "https://x.com/dannydanon"
 tags:
   - person
   - Israeli
