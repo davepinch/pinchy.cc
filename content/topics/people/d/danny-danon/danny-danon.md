@@ -1,6 +1,7 @@
 ---
 title: "Danny Danon"
 ambassador of: Israel
+called a right-wing thorn of: Benjamin Netanyahu
 person of:
   - Israel
   - United Nations
