@@ -8,7 +8,7 @@ license: public domain
 note: various restored/cleaned up versions of the picture are available on Wikimedia Commons
 picture: "https://upload.wikimedia.org/wikipedia/commons/b/bc/Hon._John_Q._Adams_-_NARA_-_528668.jpg"
 portrait of: John Quincy Adams
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hon._John_Q._Adams_-_NARA_-_528668.jpg/386px-Hon._John_Q._Adams_-_NARA_-_528668.jpg"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hon._John_Q._Adams_-_NARA_-_528668.jpg/500px-Hon._John_Q._Adams_-_NARA_-_528668.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/Hon._John_Q._Adams_-_NARA_-_528668.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Hon._John_Q._Adams_-_NARA_-_528668.jpg"
