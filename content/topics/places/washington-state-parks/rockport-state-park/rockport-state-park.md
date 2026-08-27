@@ -19,7 +19,6 @@ state park of:
 vicinity of: Rockport, Washington
 wikidata: "https://www.wikidata.org/wiki/Q2160759"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rockport_State_Park_(Washington)"
-wikipedia: "https://en.wikipedia.org/wiki/Rockport_State_Park_(Washington)"
 tags:
   - state park
   - Discover Pass required
