@@ -1,6 +1,6 @@
 ---
 title: "Mohammad Reza Pahlavi"
-type: person
+person of: Iran
 wikidata: "https://www.wikidata.org/wiki/Q128245"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mohammad_Reza_Pahlavi"
 wikipedia: "https://en.wikipedia.org/wiki/Mohammad_Reza_Pahlavi"
