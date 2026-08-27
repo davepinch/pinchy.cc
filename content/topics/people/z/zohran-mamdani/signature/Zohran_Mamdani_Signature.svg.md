@@ -1,5 +1,7 @@
 ---
 title: "Zohran Mamdani Signature.svg (Wikimedia Commons)"
+description: "Signature of Zohran Mamdani"
+license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/4/41/Zohran_Mamdani_Signature.svg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
 signature by: Zohran Mamdani
 signature of: SVG
