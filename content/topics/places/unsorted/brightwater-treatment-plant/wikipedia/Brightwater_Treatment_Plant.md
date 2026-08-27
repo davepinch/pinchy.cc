@@ -7,7 +7,7 @@ retrieved: 2026-08-23
 type: website
 url: /en.wikipedia.org/wiki/Brightwater_Treatment_Plant/
 website: "https://en.wikipedia.org/wiki/Brightwater_Treatment_Plant"
-wikipedia of: Brightwater Center
+wikipedia of: Brightwater Treatment Plant
 tags:
   - Wikipedia
 ---

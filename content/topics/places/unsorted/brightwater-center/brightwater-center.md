@@ -1,16 +1,15 @@
 ---
 title: "Brightwater Center"
-official website: "https://kingcounty.gov/en/dept/dnrp/waste-services/wastewater-treatment/facilities/brightwater"
-wastewater treatment plant in:
-  - Woodinville, Washington
+apple maps: "https://maps.apple/p/jrYhb6q.bo~kw3"
+community center in:
+  - Brightwater Treatment Plant
+  - Maltby, Washington
   - Snohomish County, Washington
-  - King County, Washington
-  - Washington
-wastewater treatment plant of:
-  - Washington State Route 9
-  - Washington State Route 522
-wikidata: "https://www.wikidata.org/wiki/Q4967814"
-wikimedia: "https://commons.wikimedia.org/wiki/Category:Brightwater_treatment_plant"
+official website: "https://kingcounty.gov/en/dept/dnrp/waste-services/wastewater-treatment/facilities/brightwater"
+openstreetmap: "https://www.openstreetmap.org/way/154584702"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Brightwater_Center"
 tags:
-  - wastewater treatment plant
+  - community center
+  - no Wikidata record
+  - no Wikipedia article
 ---
