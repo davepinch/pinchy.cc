@@ -13,7 +13,6 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1207"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:North%20Dakota"
-wikivoyage: "https://en.wikivoyage.org/wiki/North_Dakota"
 tags:
   - state
 ---
