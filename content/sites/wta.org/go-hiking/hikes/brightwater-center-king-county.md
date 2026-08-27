@@ -8,6 +8,7 @@ type: website
 url: /www.wta.org/go-hiking/hikes/brightwater-center-king-county/
 washington trails association of:
   - Brightwater Center
+  - Brightwater Treatment Plant
   - Maltby, Washington
   - King County, Washington
   - Snohomish County, Washington
