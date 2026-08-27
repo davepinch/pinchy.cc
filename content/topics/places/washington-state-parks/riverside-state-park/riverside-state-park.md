@@ -17,7 +17,6 @@ state park of:
 vicinity to: Spokane, Washington
 wikidata: "https://www.wikidata.org/wiki/Q7338614"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Riverside_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Riverside_State_Park"
 tags:
   - state park
 ---
