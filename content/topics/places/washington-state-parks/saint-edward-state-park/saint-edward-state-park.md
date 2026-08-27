@@ -12,7 +12,6 @@ state park in:
 state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q7401195"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Saint_Edward_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Saint_Edward_State_Park"
 tags:
   - state park
   - Discover Pass required
