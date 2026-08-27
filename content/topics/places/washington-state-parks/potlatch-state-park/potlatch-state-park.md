@@ -8,7 +8,6 @@ state park in:
   - Washington
 state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q7234974"
-wikipedia: "https://en.wikipedia.org/wiki/Potlatch_State_Park"
 tags:
   - state park
   - Discover Pass required
