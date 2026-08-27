@@ -1,5 +1,6 @@
 ---
 title: "from the perspective of reality, you are a blob of atoms"
+blob of: atom
 next: "you could be making a noise that means hello"
 type: fragment
 url: /from-the-perspective-of-reality-you-are-a-blob-of-atoms/
