@@ -7,7 +7,7 @@ retrieved: 2026-08-26
 type: website
 url: /en.wikipedia.org/wiki/Cape_Town/
 website: "https://en.wikipedia.org/wiki/Cape_Town"
-wikipedia of: Cape Town
+wikipedia of: Cape Town, South Africa
 tags:
   - Wikipedia
 ---
