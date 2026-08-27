@@ -11,7 +11,6 @@ state park of:
   - Chehalis River
 wikidata: "https://www.wikidata.org/wiki/Q2127910"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rainbow_Falls_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Rainbow_Falls_State_Park"
 tags:
   - state park
   - Discover Pass required
