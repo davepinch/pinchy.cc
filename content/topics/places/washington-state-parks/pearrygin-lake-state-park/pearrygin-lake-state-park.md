@@ -14,7 +14,6 @@ state park of:
 vicinity to: Winthrop, Washington
 wikidata: "https://www.wikidata.org/wiki/Q7158277"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pearrygin_Lake_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Pearrygin_Lake_State_Park"
 tags:
   - state park
 ---
