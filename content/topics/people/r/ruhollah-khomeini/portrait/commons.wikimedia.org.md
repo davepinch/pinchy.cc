@@ -1,13 +1,13 @@
 ---
-title: "Portrait of Ruhollah Khomeini (Wikimedia Commons)"
+title: "Portrait of Ruhollah Khomeini By Ali Kaveh.jpg (Wikimedia Commons)"
 illustration of: Ruhollah Khomeini (Wikipedia)
 license: public domain
 portrait of: Ruhollah Khomeini
-picture: "https://upload.wikimedia.org/wikipedia/commons/c/cb/Portrait_of_Ruhollah_Khomeini.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Portrait_of_Ruhollah_Khomeini.jpg/348px-Portrait_of_Ruhollah_Khomeini.jpg"
+picture: "https://upload.wikimedia.org/wikipedia/commons/b/b3/Portrait_of_Ruhollah_Khomeini_By_Ali_Kaveh.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=original"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Portrait_of_Ruhollah_Khomeini_By_Ali_Kaveh.jpg/500px-Portrait_of_Ruhollah_Khomeini_By_Ali_Kaveh.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
-url: /en.wikipedia.org/wiki/Portrait_of_Ruhollah_Khomeini.jpg/
-website: "https://en.wikipedia.org/wiki/File:Portrait_of_Ruhollah_Khomeini.jpg"
+url: /commons.wikimedia.org/wiki/File/Portrait_of_Ruhollah_Khomeini_By_Ali_Kaveh.jpg/
+website: "https://commons.wikimedia.org/wiki/File:Portrait_of_Ruhollah_Khomeini_By_Ali_Kaveh.jpg"
 tags:
   - portrait
   - Wikimedia Commons
