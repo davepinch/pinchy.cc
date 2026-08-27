@@ -3,7 +3,6 @@ title: "Mohammad Reza Pahlavi"
 person of: Iran
 wikidata: "https://www.wikidata.org/wiki/Q128245"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mohammad_Reza_Pahlavi"
-wikiquote: "https://en.wikiquote.org/wiki/Mohammad_Reza_Pahlavi"
 tags:
   - Iranian
   - Shah of Iran
