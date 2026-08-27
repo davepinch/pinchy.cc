@@ -13,7 +13,7 @@ evolution of the universe of:
   - universe
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/6f/CMB_Timeline300_no_WMAP.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/320px-CMB_Timeline300_no_WMAP.jpg"
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/CMB_Timeline300_no_WMAP.jpg/330px-CMB_Timeline300_no_WMAP.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/CMB_Timeline300_no_WMAP.jpg/
 website: "https://commons.wikimedia.org/wiki/File:CMB_Timeline300_no_WMAP.jpg"
