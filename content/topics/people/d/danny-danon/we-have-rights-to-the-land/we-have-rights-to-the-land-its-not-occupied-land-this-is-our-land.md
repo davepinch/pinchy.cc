@@ -1,5 +1,5 @@
 ---
-title: "Danny Danon 
+title: "Danny Danon"
 according to Danny Danon of:
   - West Bank
   - Israel
