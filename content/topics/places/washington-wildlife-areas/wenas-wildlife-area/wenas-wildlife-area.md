@@ -8,6 +8,7 @@ vicinity of:
 wikidata: "https://www.wikidata.org/wiki/Q7982276"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wenas_Wildlife_Area"
 wikipedia: "https://en.wikipedia.org/wiki/Wenas_Wildlife_Area"
+wildlife area by: Washington Department of Fish and Wildlife
 wildlife area of:
   - Kittitas County, Washington
   - Yakima County, Washington
