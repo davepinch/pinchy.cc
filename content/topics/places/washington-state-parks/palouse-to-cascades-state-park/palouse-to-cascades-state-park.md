@@ -1,5 +1,6 @@
 ---
 title: "Palouse to Cascades State Park"
+apple maps: "https://maps.apple/p/bI2qtH3S5fqt35"
 official website: "https://parks.wa.gov/find-parks/state-parks/palouse-cascades-state-park-trail"
 openstreetmap: "https://www.openstreetmap.org/relation/5972280"
 state park in:
