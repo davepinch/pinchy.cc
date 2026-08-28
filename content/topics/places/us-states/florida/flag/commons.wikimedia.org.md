@@ -17,8 +17,7 @@ flag of:
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/f/f7/Flag_of_Florida.svg"
 related: Florida (Wikipedia)
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/320px-Flag_of_Florida.svg.png
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Flag_of_Florida.svg/330px-Flag_of_Florida.svg.png?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 up the atlantic coast: Flag_of_the_State_of_Georgia.svg (Wikimedia Commons)
 url: /commons.wikimedia.org/wiki/Flag_of_Florida.svg/
