@@ -1,5 +1,5 @@
 ---
-title: "Danny Danon"
+title: "Danny Danon - We are not going anywhere! (x.com)"
 according to Danny Danon of:
   - West Bank
   - Israel
