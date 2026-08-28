@@ -4,6 +4,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/10644419"
 wikidata: "https://www.wikidata.org/wiki/Q49583116"
 wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - W.T. Wooten Wildlife Area
   - Columbia County, Washington
   - Garfield County, Washington
   - Washington

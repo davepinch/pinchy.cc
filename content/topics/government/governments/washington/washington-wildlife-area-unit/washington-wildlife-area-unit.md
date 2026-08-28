@@ -5,7 +5,8 @@ tag requires property:
   - official website
   - OpenStreetMap
   - wikidata
-  - wildlife area unit of
+  - wildlife area unit by
+  - wildlife area unit in
 type of protected area of:
   - Washington Department of Fish and Wildlife
   - Washington

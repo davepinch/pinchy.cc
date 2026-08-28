@@ -7,15 +7,14 @@ adjacent to:
   - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/10616896"
 wikidata: "https://www.wikidata.org/wiki/Q49562139"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Skagit Wildlife Area
   - Skagit Bay
   - Skagit County, Washington
   - Snohomish County, Washington
   - Island County, Washington
   - Washington
-wildlife area unit of:
-  - Skagit Wildlife Area
-  - Washington Department of Fish and Wildlife
 tags:
   - Washington Wildlife Area Unit
   - Discover Pass required

@@ -6,13 +6,12 @@ adjacent to:
 namesake of: Merrill Lake
 openstreetmap: "https://www.openstreetmap.org/relation/10570436"
 wikidata: "https://www.wikidata.org/wiki/Q111272364"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Mount Saint Helens Wildlife Area
   - Merrill Lake
   - Cowlitz County, Washington
   - Washington
-wildlife area unit of:
-  - Mount Saint Helens Wildlife Area
-  - Washington Department of Fish and Wildlife
 tags:
   - Washington Wildlife Area Unit
   - Discover Pass required

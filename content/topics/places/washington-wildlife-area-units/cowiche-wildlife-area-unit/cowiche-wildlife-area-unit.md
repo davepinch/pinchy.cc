@@ -7,7 +7,9 @@ adjacent to:
 openstreetmap: "https://www.openstreetmap.org/relation/9569614"
 parking: "https://www.openstreetmap.org/way/780110894"
 wikidata: "https://www.wikidata.org/wiki/Q113056847"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Oak Creek Wildlife Area
   - Yakima County, Washington
   - Washington
 wildlife area unit of:
@@ -17,7 +19,6 @@ wildlife area unit of:
   - Entry Trail
   - Reynolds Creek
   - South Fork Cowiche Creek
-  - Washington Department of Fish and Wildlife
 tags:
   - Washington Wildlife Area Unit
   - Discover Pass required

@@ -6,14 +6,13 @@ vicinity to:
   - Sun Lakes Dry Falls State Park
   - Sun Lakes Wildlife Area Unit
   - Wilson Creek, Washington
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Columbia Basin Wildlife Area
   - Billy Clapp Lake
   - Brook Lake (Grant County)
   - Grant County, Washington
   - Washington
-wildlife area unit of:
-  - Columbia Basin Wildlife Area
-  - Washington Department of Fish and Wildlife
 wikidata: "https://www.wikidata.org/wiki/Q49566806"
 tags:
   - Washington Wildlife Area Unit

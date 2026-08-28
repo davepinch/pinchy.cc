@@ -10,12 +10,11 @@ vicinity to:
   - Methow, Washington
   - Okanogan–Wenatchee National Forest
   - Washington State Route 153
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Methow Wildlife Area
   - Okanogan County, Washington
   - Washington
-wildlife area unit of:
-  - Methow Wildlife Area
-  - Washington Department of Fish and Wildlife
 tags:
   - Washington Wildlife Area Unit
   - Discover Pass required

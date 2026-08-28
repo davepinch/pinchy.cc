@@ -5,13 +5,13 @@ note: >-
 openstreetmap: "https://www.openstreetmap.org/relation/10816147"
 TODO: document creeks in the Rock Creek Wildlife Area Unit
 wikidata: "https://www.wikidata.org/wiki/Q113057803"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Oak Creek Wildlife Area
   - Okanogan–Wenatchee National Forest
   - Kittitas County, Washington
   - Washington
 wildlife area unit of:
-  - Oak Creek Wildlife Area
-  - Washington Department of Fish and Wildlife
   - Bald Mountain (Kittitas County, Washington)
 tags:
   - Washington Wildlife Area Unit

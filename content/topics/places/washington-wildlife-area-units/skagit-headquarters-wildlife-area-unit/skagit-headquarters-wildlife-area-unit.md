@@ -9,13 +9,13 @@ vicinity to:
   - Island Wildlife Area Unit
   - Skagit Bay
 wikidata: "https://www.wikidata.org/wiki/Q113468534"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Skagit Wildlife Area
   - Fir Island
   - Skagit County, Washington
   - Washington
 wildlife area unit of:
-  - Skagit Wildlife Area
-  - Washington Department of Fish and Wildlife
   - Freshwater Slough
 tags:
   - Washington Wildlife Area Unit

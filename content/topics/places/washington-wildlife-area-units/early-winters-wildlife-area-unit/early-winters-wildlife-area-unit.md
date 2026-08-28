@@ -11,12 +11,12 @@ vicinity to:
   - Rendezvous Mountain
   - Washington State Route 20
 wikidata: "https://www.wikidata.org/wiki/Q111783674"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Methow Wildlife Area
   - Okanogan County, Washington
   - Washington
 wildlife area unit of:
-  - Methow Wildlife Area
-  - Washington Department of Fish and Wildlife
   - Methow River
 tags:
   - Washington Wildlife Area Unit

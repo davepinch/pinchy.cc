@@ -5,10 +5,9 @@ official website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/south-puget-s
 openstreetmap: "https://www.openstreetmap.org/relation/10552634"
 vicinity to: Kobayashi Park
 wikidata: "https://www.wikidata.org/wiki/Q49563790"
-wildlife area unit of:
-  - South Puget Sound Wildlife Area
-  - Washington Department of Fish and Wildlife
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - South Puget Sound Wildlife Area
   - Lakewood, Washington
   - Pierce County, Washington
   - Washington

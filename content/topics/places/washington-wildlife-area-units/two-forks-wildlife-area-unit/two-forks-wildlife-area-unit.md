@@ -5,12 +5,12 @@ vicinity to:
   - Interstate 5
   - Paradise Point State Park
 wikidata: "https://www.wikidata.org/wiki/Q113286567"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
   - Mount Saint Helens Wildlife Area
   - Clark County, Washington
   - Washington
 wildlife area unit of:
-  - Washington Department of Fish and Wildlife
   - East Fork Lewis River
   - Lewis River
 tags:

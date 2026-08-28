@@ -7,12 +7,12 @@ openstreetmap:
   - "https://www.openstreetmap.org/way/478752558"
   - "https://www.openstreetmap.org/way/915549421"
 vicinity to: Mount Vernon, Washington
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Skagit Wildlife Area
   - Skagit County, Washington
   - Washington
 wildlife area unit of:
-  - Skagit Wildlife Area
-  - Washington Department of Fish and Wildlife
   - Skagit River
   - North Fork Skagit River
   - South Fork Skagit River

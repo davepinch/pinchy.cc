@@ -4,6 +4,7 @@ openstreetmap: "https://www.openstreetmap.org/relation/10554135"
 wikidata: "https://www.wikidata.org/wiki/Q49535629"
 wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Olympic Wildlife Area
   - Olympic Peninsula
   - Grays Harbor County, Washington
   - Washington

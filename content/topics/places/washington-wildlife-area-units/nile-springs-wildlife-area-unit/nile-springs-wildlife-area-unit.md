@@ -8,14 +8,13 @@ vicinity to:
   - Naches River
   - Nile Creek
 wikidata: "https://www.wikidata.org/wiki/Q113057406"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Oak Creek Wildlife Area
   - Okanogan–Wenatchee National Forest
   - Nile, Washington
   - Yakima County, Washington
   - Washington
-wildlife area unit of:
-  - Oak Creek Wildlife Area
-  - Washington Department of Fish and Wildlife
 tags:
   - Washington Wildlife Area Unit
   - Discover Pass required

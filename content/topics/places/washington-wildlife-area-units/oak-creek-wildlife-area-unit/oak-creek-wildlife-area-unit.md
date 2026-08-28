@@ -9,11 +9,12 @@ openstreetmap: "https://www.openstreetmap.org/relation/10822154"
 vicinity to:
   - The Cave
 wikidata: "https://www.wikidata.org/wiki/Q49533893"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Oak Creek Wildlife Area
   - Yakima County, Washington
   - Washington
 wildlife area unit of:
-  - Oak Creek Wildlife Area
   - Bethel Ridge
   - Cabin Creek (Tieton River tributary)
   - Carmack Canyon
@@ -30,7 +31,6 @@ wildlife area unit of:
   - Sentinel Creek
   - Tepee Creek
   - Tieton River
-  - Washington Department of Fish and Wildlife
   - Waterworks Canyon
 tags:
   - Washington Wildlife Area Unit

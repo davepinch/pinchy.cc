@@ -12,14 +12,13 @@ vicinity to:
   - Moses Lake, Washington
   - Potholes State Park
 wikidata: "https://www.wikidata.org/wiki/Q49482930"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Columbia Basin Wildlife Area
   - Potholes Reservoir
   - Potholes State Park
   - Grant County, Washington
   - Washington
-wildlife area unit of:
-  - Columbia Basin Wildlife Area
-  - Washington Department of Fish and Wildlife
 tags:
   - Washington Wildlife Area Unit
   - Discover Pass required

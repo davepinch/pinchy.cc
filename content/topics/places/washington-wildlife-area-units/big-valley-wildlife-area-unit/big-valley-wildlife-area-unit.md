@@ -10,12 +10,12 @@ vicinity to:
   - Rendezvous Wildlife Area Unit
   - Winthrop, Washington
 wikidata: "https://www.wikidata.org/wiki/Q111783792"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Methow Wildlife Area
   - Okanogan County, Washington
   - Washington
 wildlife area unit of:
-  - Methow Wildlife Area
-  - Washington Department of Fish and Wildlife
   - Methow River
 tags:
   - Washington Wildlife Area Unit

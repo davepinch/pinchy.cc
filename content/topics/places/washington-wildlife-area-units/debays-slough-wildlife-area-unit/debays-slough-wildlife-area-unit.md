@@ -7,12 +7,12 @@ vicinity to:
   - Mount Vernon, Washington
   - Washington State Route 9
 wikidata: "https://www.wikidata.org/wiki/Q113464158"
+wildlife area unit by: Washington Department of Fish and Wildlife
 wildlife area unit in:
+  - Skagit Wildlife Area
   - Skagit County, Washington
   - Washington
 wildlife area unit of:
-  - Skagit Wildlife Area
-  - Washington Department of Fish and Wildlife
   - Skagit River
   - Debay's Slough
 tags:
