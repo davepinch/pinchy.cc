@@ -16,6 +16,7 @@ country of:
   - Mediterranean Sea
 openstreetmap: "https://www.openstreetmap.org/relation/1311341"
 wikidata: "https://www.wikidata.org/wiki/Q29"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Spain"
 tags:
   - Spanish
   - country
