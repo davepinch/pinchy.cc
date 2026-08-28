@@ -4,6 +4,7 @@ apple maps: "https://maps.apple/p/aLnxqvfPWDodJZ"
 connects to:
   - Atlantic Ocean
   - Mediterranean Sea
+namesake of: Rock of Gibraltar
 strait in:
   - Morocco
   - Africa
