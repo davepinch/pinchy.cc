@@ -3,6 +3,7 @@ title: "I looked the man in the eye. I found him to be very straightforward and 
 attribution: "George W. Bush press conference with Vladimir Putin"
 citation: >-
   George W. Bush. (2024, September 20). *Wikiquote*. Retrieved October 3, 2024 from https://en.wikiquote.org/w/index.php?title=George_W._Bush&oldid=3584148.
+quote of: George W. Bush (Wikiquote)
 type: quote
 vladimir putin of: George W. Bush
 when: 2001-06-16
