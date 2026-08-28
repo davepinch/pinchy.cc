@@ -10,7 +10,6 @@ prison of:
   - Cuba
 wikidata: "https://www.wikidata.org/wiki/Q357"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Guantanamo_Bay_detainment_camp"
-wikipedia: "https://en.wikipedia.org/wiki/Guantanamo_Bay_detention_camp"
 tags:
   - prison
   - TODO
