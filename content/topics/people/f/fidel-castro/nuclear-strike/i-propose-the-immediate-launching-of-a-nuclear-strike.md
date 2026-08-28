@@ -9,6 +9,7 @@ nuclear strike of:
   - Fidel Castro
   - United States
   - Cuba
+quote of: Fidel Castro (Wikiquote)
 type: quote
 when: 1992-10-23
 tags:
