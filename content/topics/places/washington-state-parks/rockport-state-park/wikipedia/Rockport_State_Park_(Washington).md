@@ -7,7 +7,7 @@ retrieved: 2026-08-26
 type: website
 url: /en.wikipedia.org/wiki/Rockport_State_Park_(Washington)/
 website: "https://en.wikipedia.org/wiki/Rockport_State_Park_(Washington)"
-wikipedia of: Rockport State Park (Washington)
+wikipedia of: Rockport State Park
 tags:
   - Wikipedia
 ---
