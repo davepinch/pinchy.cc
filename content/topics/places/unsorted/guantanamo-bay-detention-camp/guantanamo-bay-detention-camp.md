@@ -1,5 +1,6 @@
 ---
 title: "Guantanamo Bay detention camp"
+established by: George W. Bush
 openstreetmap:
   - "https://www.openstreetmap.org/way/38843037 (potential duplicates)"
   - "https://www.openstreetmap.org/way/39212444"
