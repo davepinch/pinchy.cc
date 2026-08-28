@@ -7,6 +7,7 @@ retrieved: 2026-05-19
 type: website
 url: /wdfw.wa.gov/places-to-go/wildlife-areas/humptulips-grass-creek-wildlife-area-unit/
 website: "https://wdfw.wa.gov/places-to-go/wildlife-areas/humptulips-grass-creek-wildlife-area-unit"
+wildlife area unit of: Johns River Wildlife Area (wdfw.wa.gov)
 tags:
   - website
 ---
