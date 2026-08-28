@@ -5,8 +5,7 @@ picture: "https://upload.wikimedia.org/wikipedia/commons/9/93/Arte_Joven.jpg"
 related:
   - "During the first five months of 1901, Picasso lived in Madrid, where he and his anarchist friend Francisco de Asís Soler founded the magazine Arte Joven (Young Art), which published five issues."
   - '"Arte Joven": 1901 a modernist magazine (revistas.um.es)'
-thumbnail: >-
-  https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Arte_Joven.jpg/349px-Arte_Joven.jpg
+thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Arte_Joven.jpg/500px-Arte_Joven.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/Arte_Joven.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Arte_Joven.jpg"
