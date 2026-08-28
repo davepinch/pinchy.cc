@@ -3,7 +3,6 @@ title: "Kate Kershner"
 writer of: HistoryLink.org
 tags:
   - person
-  - historian
   - writer
   - human being
   - no Wikidata record

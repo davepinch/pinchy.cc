@@ -4,7 +4,6 @@ note: There is a Wikidata record for an Alyssa Burrows but it is not clear wheth
 writer of: HistoryLink.org
 tags:
   - person
-  - historian
   - writer
   - human being
   - no Wikidata record

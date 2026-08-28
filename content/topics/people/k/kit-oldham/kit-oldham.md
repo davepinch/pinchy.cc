@@ -3,7 +3,6 @@ title: "Kit Oldham"
 writer of: HistoryLink.org
 tags:
   - person
-  - historian
   - writer
   - human being
   - no Wikidata record
