@@ -3,7 +3,7 @@ title: "Gloyd Seeps Wildlife Area Unit"
 openstreetmap: "https://www.openstreetmap.org/relation/9568718"
 wikidata: "https://www.wikidata.org/wiki/Q49532314"
 wildlife area unit by: Washington Department of Fish and Wildlife
-wildlife area in:
+wildlife area unit in:
   - Columbia Basin Wildlife Area
   - Grant County, Washington
   - Washington
