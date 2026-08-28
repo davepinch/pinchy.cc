@@ -9,13 +9,14 @@ fort of:
   - Columbia River
   - U.S. Route 101
 note: >-
-  Wikipedia discusses this fort under the [Fort Columbia State Park](/en.wikipedia.org/wiki/Fort_Columbia_State_Park/) article. Wikidata and Wikipedia do not have dedicated pages for this fort.
+  Wikipedia discusses this fort under the [Fort Columbia State Park](/en.wikipedia.org/wiki/Fort_Columbia_State_Park/) article. Wikidata and Wikipedia do not have dedicated pages for this fort. OpenStreetMap has a relation to the park but not the fort itself.
 vicinity to:
   - Fort Canby
   - Fort Stevens
 tags:
   - decommissioned
   - fort
+  - no OpenStreetMap element
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article
