@@ -5,5 +5,4 @@ type: title
 url: /he-lived-in-a-cave-in-the-darkness/
 tags:
   - title
-  - footer
 ---
