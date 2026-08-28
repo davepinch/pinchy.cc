@@ -18,7 +18,6 @@ vicinity to:
   - Lucia Falls Park
   - Yacolt, Washington
 wikidata: "https://www.wikidata.org/wiki/Q117100849"
-wikipedia: "https://en.wikipedia.org/wiki/Moulton_Falls_Regional_Park"
 tags:
   - county park
   - no Wikimedia category
