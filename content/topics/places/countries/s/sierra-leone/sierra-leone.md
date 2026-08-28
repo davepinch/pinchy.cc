@@ -11,6 +11,7 @@ country of:
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/192777"
 wikidata: "https://www.wikidata.org/wiki/Q1044"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sierra_Leone"
 tags:
   - country
 ---

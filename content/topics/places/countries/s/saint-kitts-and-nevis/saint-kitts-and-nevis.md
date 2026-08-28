@@ -6,6 +6,7 @@ country of:
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/536899"
 wikidata: "https://www.wikidata.org/wiki/Q763"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Saint_Kitts_and_Nevis"
 tags:
   - island country
   - country

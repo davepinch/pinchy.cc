@@ -15,6 +15,7 @@ country of:
   - North Africa
 openstreetmap: "https://www.openstreetmap.org/relation/192789"
 wikidata: "https://www.wikidata.org/wiki/Q1049"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sudan"
 tags:
   - country
 ---

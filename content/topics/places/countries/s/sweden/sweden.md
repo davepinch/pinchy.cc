@@ -13,6 +13,7 @@ country of:
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/52822"
 wikidata: "https://www.wikidata.org/wiki/Q34"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sweden"
 tags:
   - Swedish
   - country

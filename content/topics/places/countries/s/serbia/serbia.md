@@ -15,6 +15,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/1741311"
 wikidata: "https://www.wikidata.org/wiki/Q403"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Serbia"
 tags:
   - landlocked
   - country

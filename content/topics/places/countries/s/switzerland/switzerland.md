@@ -13,6 +13,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/51701"
 wikidata: "https://www.wikidata.org/wiki/Q39"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Switzerland"
 tags:
   - Swiss
   - landlocked

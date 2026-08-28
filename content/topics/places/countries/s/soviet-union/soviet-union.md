@@ -18,6 +18,7 @@ succeeded by:
   - Ukraine
   - Uzbekistan
 wikidata: "https://www.wikidata.org/wiki/Q15180"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Soviet_Union"
 tags:
   - former country
 ---

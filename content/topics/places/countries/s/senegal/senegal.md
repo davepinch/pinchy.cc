@@ -10,6 +10,7 @@ country of:
   - Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/192775"
 wikidata: "https://www.wikidata.org/wiki/Q1041"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Senegal"
 tags:
   - country
 ---

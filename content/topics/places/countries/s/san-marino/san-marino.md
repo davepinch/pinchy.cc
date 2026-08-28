@@ -6,6 +6,7 @@ country of:
   - Europe
 openstreetmap: "https://www.openstreetmap.org/relation/54624"
 wikidata: "https://www.wikidata.org/wiki/Q238"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:San_Marino"
 tags:
   - landlocked
   - country

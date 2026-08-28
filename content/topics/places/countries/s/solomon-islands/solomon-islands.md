@@ -8,6 +8,7 @@ country of:
   - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/1857436"
 wikidata: "https://www.wikidata.org/wiki/Q685"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Solomon_Islands"
 tags:
   - archipelagic state
   - island country

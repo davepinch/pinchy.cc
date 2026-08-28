@@ -11,6 +11,7 @@ country of:
   - Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/307756"
 wikidata: "https://www.wikidata.org/wiki/Q884"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:South_Korea"
 tags:
   - country
 ---

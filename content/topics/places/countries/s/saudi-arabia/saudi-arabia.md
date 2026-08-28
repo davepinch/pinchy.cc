@@ -25,6 +25,7 @@ country of:
 near: Bahrain
 openstreetmap: "https://www.openstreetmap.org/relation/307584"
 wikidata: "https://www.wikidata.org/wiki/Q851"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Saudi_Arabia"
 tags:
   - Saudi
   - country
