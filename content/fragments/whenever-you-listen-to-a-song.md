@@ -5,5 +5,4 @@ type: fragment
 when: 2026-05-10
 tags:
   - fragment
-  - footer
 ---
