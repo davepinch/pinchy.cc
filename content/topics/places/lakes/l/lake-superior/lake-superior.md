@@ -10,6 +10,7 @@ empties into: Lake Huron
 lake in:
   - Canada
   - United States
+  - North America
 near: Lake Michigan
 openstreetmap: "https://www.openstreetmap.org/relation/4039486"
 VISIT SOMEWHERE NEW: listen to the waves at night
