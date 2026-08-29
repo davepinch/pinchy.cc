@@ -1,6 +1,6 @@
 ---
 title: "Sean Nicholas Margetis"
-died in: Moultan Falls
+died in: Moulton Falls
 died of: drowning
 tags:
   - person
