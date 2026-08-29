@@ -1,9 +1,9 @@
 ---
 title: "Eukaryote (Wikipedia)"
 excerpt: >-
-  The **eukaryotes** (/juːˈkærioʊts, -əts/) constitute the [domain](/en.wikipedia.org/wiki/Domain_(biology)/) of **Eukarya**, organisms whose cells have a nucleus. All [animals](/en.wikipedia.org/wiki/Animal), [plants](/en.wikipedia.org/wiki/Plant), [fungi](/en.wikipedia.org/wiki/Fungus), and many unicellular organisms are eukaryotes. They constitute a major group of life forms alongside the two groups of prokaryotes: the Bacteria and the Archaea. Eukaryotes represent a small minority of the number of organisms, but due to their generally much larger size, their collective global biomass is much larger than that of prokaryotes.
+  The **eukaryotes** (/juːˈkærioʊts, -əts/) are cellular organisms of the domain Eukaryota or Eukarya, which have a distinct cell nucleus (formed by a nuclear membrane), membrane-bound organelles and organization supported by a cytoskeleton. Extant eukaryotes are traditionally grouped into four kingdoms, namely animals, plants, fungi and protists.
 license: CC BY-SA 4.0
-retrieved: 2023-09-24
+retrieved: 2026-08-29
 type: website
 url: /en.wikipedia.org/wiki/Eukaryote/
 website: "https://en.wikipedia.org/wiki/Eukaryote"
@@ -11,4 +11,3 @@ wikipedia of: eukaryote
 tags:
   - Wikipedia
 ---
-
