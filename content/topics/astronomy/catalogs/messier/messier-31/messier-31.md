@@ -6,7 +6,7 @@ title: "Messier 31"
 galaxy of:
   - Andromeda
   - Local Group
-near: Milky Way
+vicinity to: Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q2469"
 tags:
   - galaxy
