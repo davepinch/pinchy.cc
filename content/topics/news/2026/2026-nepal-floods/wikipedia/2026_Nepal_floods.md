@@ -7,7 +7,7 @@ retrieved: 2026-08-26
 type: website
 url: /en.wikipedia.org/wiki/2026_Nepal_floods/
 website: "https://en.wikipedia.org/wiki/2026_Nepal_floods"
-wikipedia of: 2026 Nepal floods
+wikipedia of: 2026 Nepal Floods
 tags:
   - Wikipedia
 ---
