@@ -5,5 +5,4 @@ type: title
 when: 2026-07-15
 tags:
   - dream log
-  - footer
 ---
