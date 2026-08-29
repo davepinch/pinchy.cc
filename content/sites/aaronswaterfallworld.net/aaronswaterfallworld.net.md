@@ -8,6 +8,7 @@ tag requires property:
   - url
   - website
 type: website
+url: /www.aaronswaterfallworld.net/
 website: "https://www.aaronswaterfallworld.net/"
 tags:
   - website
