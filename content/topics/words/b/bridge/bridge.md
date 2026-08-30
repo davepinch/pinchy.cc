@@ -2,6 +2,8 @@
 title: "bridge"
 plural: bridges
 tag requires property:
+  - Apple Maps
+  - bridge in
   - bridge of
   - OpenStreetMap
   - Wikidata
