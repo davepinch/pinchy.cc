@@ -15,6 +15,7 @@ vantage point of:
   - Lower Falls
 tags:
   - bridge
+  - no Apple Maps place
   - no Wikidata record
   - no Wikipedia article
 ---

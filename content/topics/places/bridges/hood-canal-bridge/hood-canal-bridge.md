@@ -1,5 +1,6 @@
 ---
 title: "Hood Canal Bridge"
+apple maps: "https://maps.apple/p/mELsEJ8FDj5cwa"
 bridge of:
   - Hood Canal
   - Kitsap County, Washington

@@ -10,6 +10,7 @@ vantage point of: Sammamish River
 tags:
   - bridge
   - vantage point
+  - no Apple Maps place
   - no Wikidata record
   - no Wikipedia article
 ---

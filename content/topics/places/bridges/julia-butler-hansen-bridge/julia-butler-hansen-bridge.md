@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q6306250"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Julia_Butler_Hansen_Bridge"
 tags:
   - bridge
+  - no Apple Maps place
 ---

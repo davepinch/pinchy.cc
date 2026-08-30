@@ -1,5 +1,6 @@
 ---
 title: "Deception Pass Bridge"
+apple maps: "https://maps.apple/p/KxR7hku8hWjH7c"
 bridge in:
   - Deception Pass
   - Deception Pass State Park

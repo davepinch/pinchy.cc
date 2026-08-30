@@ -1,7 +1,10 @@
 ---
 title: "Ship Canal Bridge"
+apple maps: "https://maps.apple/p/ScFPtHnN9t-vZB"
 bridge of:
   - Interstate 5
+  - Eastlake, Seattle
+  - University District, Seattle
   - Seattle
   - King County, Washington
   - Washington

@@ -1,5 +1,6 @@
 ---
 title: "Tacoma Narrows Bridge"
+apple maps: "https://maps.apple/p/cvZj-HZhIfCC0m"
 bridge of:
   - Tacoma Narrows
   - Puget Sound

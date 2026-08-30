@@ -1,5 +1,6 @@
 ---
 title: "I-90 Mississippi River Bridge"
+apple maps: "https://maps.apple/p/15DHfpDhCvr3r0"
 bridge of:
   - Interstate 90
   - Mississippi River

@@ -11,6 +11,7 @@ connects to: Deception Pass Bridge
 openstreetmap: "https://www.openstreetmap.org/way/26131788"
 tags:
   - bridge
+  - no Apple Maps place
   - no Wikidata record
   - no Wikipedia article
 ---

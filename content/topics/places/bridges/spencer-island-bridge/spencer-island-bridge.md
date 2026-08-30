@@ -12,6 +12,7 @@ openstreetmap: "https://www.openstreetmap.org/way/6132372"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Spencer_Island_Bridge"
 tags:
   - bridge
+  - no Apple Maps place
   - no Wikidata record
   - no Wikipedia article
 ---

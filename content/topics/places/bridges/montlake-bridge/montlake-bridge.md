@@ -1,5 +1,6 @@
 ---
 title: "Montlake Bridge"
+apple maps: "https://maps.apple/p/VXCRviRqDyV_o0"
 bridge of:
   - Montlake Cut
   - Montlake, Seattle

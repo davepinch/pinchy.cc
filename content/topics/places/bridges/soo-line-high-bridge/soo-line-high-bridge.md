@@ -1,6 +1,7 @@
 ---
 title: "Soo Line High Bridge"
 also known as: Arcola High Bridge
+apple maps: "https://maps.apple/p/6XNcrKd4fuwEUY"
 bridge of:
   - Saint Croix River
   - Minnesota

@@ -1,5 +1,6 @@
 ---
 title: "Hastings Bridge"
+apple maps: "https://maps.apple/p/-.N1.7Ev_C3_JS"
 bridge of:
   - Mississippi River
   - Hastings, Minnesota

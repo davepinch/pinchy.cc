@@ -1,5 +1,6 @@
 ---
 title: "Fremont Bridge"
+apple maps: "https://maps.apple/p/A4HGkLyGyT9kIG"
 bridge of:
   - Fremont, Seattle
   - Queen Anne, Seattle

@@ -10,6 +10,7 @@ see also: Wisconsin Central Bridge Ruins
 tags:
   - former
   - bridge
+  - no Apple Maps place
   - no Wikidata record
   - no Wikipedia article
 ---

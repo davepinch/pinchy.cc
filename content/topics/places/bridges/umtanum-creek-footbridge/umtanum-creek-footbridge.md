@@ -10,6 +10,7 @@ TODO: Look into the Umtanum Creek Recreation Area/Site on the east side of the Y
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Umtanum_Creek_Bridge"
 tags:
   - bridge
+  - no Apple Maps place
   - no Wikidata record
   - no Wikipedia article
   - TODO

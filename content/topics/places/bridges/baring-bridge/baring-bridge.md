@@ -11,4 +11,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Baring_Bridge"
 tags:
   - bridge
   - VISIT SOMEWHERE NEW
+  - no Apple Maps place
 ---

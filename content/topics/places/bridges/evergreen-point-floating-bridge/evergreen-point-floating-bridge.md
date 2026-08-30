@@ -1,6 +1,7 @@
 ---
 title: "Evergreen Point Floating Bridge"
 along 520 of: VISIT SOMEWHERE NEW
+apple maps: "https://maps.apple/p/iL4kAfVmtN~NBu"
 bridge of:
   - Lake Washington
   - Seattle

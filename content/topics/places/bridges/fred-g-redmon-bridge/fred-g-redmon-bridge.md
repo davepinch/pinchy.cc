@@ -10,4 +10,5 @@ westbound on Interstate 82: Selah Creek Rest Area (westbound)
 wikidata: "https://www.wikidata.org/wiki/Q2494863"
 tags:
   - bridge
+  - no Apple Maps place
 ---
