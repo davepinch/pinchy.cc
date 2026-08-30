@@ -1,6 +1,7 @@
 ---
 title: "Baring Bridge"
 bridge in:
+  - Baring, Washington
   - King County, Washington
   - Washington
 bridge of: South Fork Skykomish River
