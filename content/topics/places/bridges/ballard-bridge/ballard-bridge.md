@@ -1,5 +1,6 @@
 ---
 title: "Ballard Bridge"
+apple maps: "https://maps.apple/p/.09zctmpG_mcTx"
 bridge of:
   - Salmon Bay
   - Lake Washington Ship Canal
