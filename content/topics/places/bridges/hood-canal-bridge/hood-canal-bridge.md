@@ -1,13 +1,12 @@
 ---
 title: "Hood Canal Bridge"
 apple maps: "https://maps.apple/p/mELsEJ8FDj5cwa"
-bridge of:
-  - Hood Canal
+bridge in:
   - Kitsap County, Washington
-  - Washington
-connects:
   - Kitsap Peninsula
-  - Olympic Peninsula 
+  - Olympic Peninsula
+  - Washington
+bridge of: Hood Canal
 near: Shine Tidelands State Park
 openstreetmap: "https://www.openstreetmap.org/way/706012934"
 wikidata: "https://www.wikidata.org/wiki/Q5897434"

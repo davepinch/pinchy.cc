@@ -1,12 +1,12 @@
 ---
 title: "Canoe Pass Bridge"
 bridge in:
-  - Canoe Pass
+  - Washington State Route 20
   - Fidalgo Island
   - Pass Island
   - Skagit County, Washington
   - Washington
-bridge of: Washington State Route 20
+bridge of: Canoe Pass
 connects to: Deception Pass Bridge
 openstreetmap: "https://www.openstreetmap.org/way/26131788"
 tags:

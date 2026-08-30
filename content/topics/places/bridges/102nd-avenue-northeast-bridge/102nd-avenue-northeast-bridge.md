@@ -1,10 +1,10 @@
 ---
 title: "102nd Avenue Northeast Bridge"
-bridge of:
-  - Sammamish River
+bridge in:
   - Bothell, Washington
   - King County, Washington
   - Washington
+bridge of: Sammamish River
 openstreetmap: "https://www.openstreetmap.org/way/6509365"
 vantage point of: Sammamish River
 tags:

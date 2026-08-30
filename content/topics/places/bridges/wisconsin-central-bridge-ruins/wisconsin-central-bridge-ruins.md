@@ -1,5 +1,8 @@
 ---
 title: "Wisconsin Central Bridge Ruins"
+bridge in:
+  - Minnesota
+  - Wisconsin
 bridge of: Saint Croix River
 see also:
   - Soo Line High Bridge

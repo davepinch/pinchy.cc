@@ -1,9 +1,9 @@
 ---
 title: "Umtanum Creek Footbridge"
 bridge of:
-  - Yakima River
   - Kittitas County, Washington
   - Washington
+bridge of: Yakima River
 namesake of: Umtanum Creek
 openstreetmap: "https://www.openstreetmap.org/way/30011682"
 TODO: Look into the Umtanum Creek Recreation Area/Site on the east side of the Yakima River.

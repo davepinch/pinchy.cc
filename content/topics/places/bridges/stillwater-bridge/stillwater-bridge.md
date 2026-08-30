@@ -1,12 +1,12 @@
 ---
 title: "Stillwater Bridge"
 apple maps: "https://maps.apple/p/YVTySkd_p6Eqen"
-bridge of:
-  - Saint Croix River
+bridge in:
   - Stillwater, Minnesota
   - Houlton, Wisconsin
   - Minnesota
   - Wisconsin
+bridge of: Saint Croix River
 openstreetmap: "https://www.openstreetmap.org/way/707399033"
 TODO: distinguish between the Stillwater Bridge and Stillwater Life Bridge.
 wikidata: "https://www.wikidata.org/wiki/Q7617281"

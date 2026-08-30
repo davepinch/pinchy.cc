@@ -1,14 +1,14 @@
 ---
 title: "Tacoma Narrows Bridge"
 apple maps: "https://maps.apple/p/cvZj-HZhIfCC0m"
-bridge of:
-  - Tacoma Narrows
+bridge in:
   - Puget Sound
   - Wollochet, Washington
   - Kitsap Peninsula
   - Tacoma, Washington
   - Pierce County, Washington
   - Washington
+bridge of: Tacoma Narrows
 near: Titlow Park
 openstreetmap:
   - "https://www.openstreetmap.org/way/12228251 (eastbound)"

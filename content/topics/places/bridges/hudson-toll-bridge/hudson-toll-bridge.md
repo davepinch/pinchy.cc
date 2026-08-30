@@ -1,10 +1,13 @@
 ---
 title: "Hudson Toll Bridge"
 bridge of:
-  - Saint Croix River
   - Hudson, Wisconsin
+  - Wisconsin
+  - Lakeland, Washington
+  - Washington County, Minnesota
   - Minnesota
-note: the bridge no longer exists, but a pathway remains
+bridge of: Saint Croix River
+note: the bridge no longer exists, but a pathway remains on the Wisconsin side.
 openstreetmap: "https://www.openstreetmap.org/way/45516631"
 see also: Wisconsin Central Bridge Ruins
 tags:

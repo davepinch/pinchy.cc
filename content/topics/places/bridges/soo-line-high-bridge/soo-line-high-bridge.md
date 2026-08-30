@@ -2,10 +2,10 @@
 title: "Soo Line High Bridge"
 also known as: Arcola High Bridge
 apple maps: "https://maps.apple/p/6XNcrKd4fuwEUY"
-bridge of:
-  - Saint Croix River
+bridge in:
   - Minnesota
   - Wisconsin
+bridge of: Saint Croix River
 openstreetmap: "https://www.openstreetmap.org/way/21590910"
 wikidata: "https://www.wikidata.org/wiki/Q7562623"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Soo_Line_High_Bridge"

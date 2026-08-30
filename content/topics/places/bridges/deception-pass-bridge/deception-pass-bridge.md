@@ -2,14 +2,14 @@
 title: "Deception Pass Bridge"
 apple maps: "https://maps.apple/p/KxR7hku8hWjH7c"
 bridge in:
-  - Deception Pass
+  - Washington State Route 20
   - Deception Pass State Park
   - Pass Island
   - Skagit County, Washington
   - Whidbey Island
   - Island County, Washington
   - Washington
-bridge of: Washington State Route 20
+bridge of: Deception Pass
 connects to: Canoe Pass Bridge
 informally not technically in:
   - Fidalgo Island
