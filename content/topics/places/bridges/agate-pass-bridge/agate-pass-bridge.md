@@ -1,5 +1,6 @@
 ---
 title: "Agate Pass Bridge"
+apple maps: "https://maps.apple/p/9yB1TRbSaKzhBD"
 bridge of:
   - Agate Pass
   - Bainbridge Island
