@@ -1,15 +1,15 @@
 ---
 title: "Ballard Bridge"
 apple maps: "https://maps.apple/p/.09zctmpG_mcTx"
-bridge of:
-  - Salmon Bay
-  - Lake Washington Ship Canal
+bridge in:
+  - Ballard, Seattle
+  - Interbay, Seattle
   - Seattle
   - King County, Washington
   - Washington
-connects:
-  - Ballard, Seattle
-  - Interbay, Seattle
+bridge of:
+  - Salmon Bay
+  - Lake Washington Ship Canal
 openstreetmap: "https://www.openstreetmap.org/way/370778208"
 wikidata: "https://www.wikidata.org/wiki/Q4851501"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ballard_Bridge"
