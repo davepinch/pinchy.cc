@@ -16,6 +16,7 @@ vantage point of:
   - Puget Sound
 vicinity of: Burke–Gilman Trail
 wikidata: "https://www.wikidata.org/wiki/Q5579416"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Golden_Gardens_Park"
 tags:
   - city park
   - vantage point
