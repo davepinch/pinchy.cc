@@ -10,6 +10,7 @@ canal of:
   - Washington
 cruise eastbound on the canal: Lake Union
 cruise westbound on the canal: Salmon Bay
+present day of: Ross Creek
 wikidata: "https://www.wikidata.org/wiki/Q5501582"
 tags:
   - canal
