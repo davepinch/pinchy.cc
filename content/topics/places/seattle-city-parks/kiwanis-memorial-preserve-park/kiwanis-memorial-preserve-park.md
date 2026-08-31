@@ -8,4 +8,5 @@ city park in:
 wikidata: "https://www.wikidata.org/wiki/Q6418856"
 tags:
   - city park
+  - no Wikimedia category
 ---
