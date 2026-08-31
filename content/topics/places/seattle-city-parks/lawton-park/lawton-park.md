@@ -10,4 +10,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/629980"
 tags:
   - city park
   - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
