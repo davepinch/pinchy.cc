@@ -12,4 +12,5 @@ official website: "https://www.seattle.gov/parks/parks/belvoir-place"
 openstreetmap: "https://www.openstreetmap.org/way/50419101"
 tags:
   - city park
+  - no Wikidata record
 ---
