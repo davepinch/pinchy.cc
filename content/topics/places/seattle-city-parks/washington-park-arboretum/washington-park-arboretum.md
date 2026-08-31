@@ -6,6 +6,7 @@ city park in:
   - King County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/241864"
 wikidata: "https://www.wikidata.org/wiki/Q7972107"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_Park_Arboretum"
 tags:
   - city park
 ---
