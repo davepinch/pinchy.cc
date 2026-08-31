@@ -10,6 +10,7 @@ adjacent to:
   - Sunset Hill, Seattle
   - West Woodland, Seattle
   - incomplete list
+apple maps: "https://maps.apple/p/czym5A7n-gbDny"
 canal of:
   - Seattle
   - King County, Washington

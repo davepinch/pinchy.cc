@@ -1,5 +1,6 @@
 ---
 title: "Port Townsend Ship Canal"
+apple maps: "https://maps.apple/p/x482hnaiH.PS2w"
 canal of:
   - Port Townsend Bay
   - Oak Bay

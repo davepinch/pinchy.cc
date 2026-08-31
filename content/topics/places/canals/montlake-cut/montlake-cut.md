@@ -1,5 +1,6 @@
 ---
 title: "Montlake Cut"
+apple maps: "https://maps.apple/p/AuTQqb-KyD~MzF"
 canal of:
   - Lake Washington Ship Canal
   - Montlake, Seattle

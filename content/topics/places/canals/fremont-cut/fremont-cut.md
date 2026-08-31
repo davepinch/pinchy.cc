@@ -3,6 +3,7 @@ title: "Fremont Cut"
 adjacent to:
   - Fremont, Seattle
   - Queen Anne, Seattle
+apple maps: "https://maps.apple/p/_g9G3hmLeMj~fK"
 canal of:
   - Lake Washington Ship Canal
   - Seattle
