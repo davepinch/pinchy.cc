@@ -12,4 +12,5 @@ openstreetmap: "https://www.openstreetmap.org/way/293126948"
 wikidata: "https://www.wikidata.org/wiki/Q22073393"
 tags:
   - city park
+  - no Wikimedia category
 ---
