@@ -9,4 +9,6 @@ openstreetmap: "https://www.openstreetmap.org/way/166768711"
 tags:
   - city park
   - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
