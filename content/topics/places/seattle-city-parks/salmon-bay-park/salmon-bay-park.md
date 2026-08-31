@@ -13,5 +13,6 @@ vicinity of: Salmon Bay
 wikidata: "https://www.wikidata.org/wiki/Q49556453"
 tags:
   - city park
+  - no Wikimedia category
   - no Wikipedia article
 ---
