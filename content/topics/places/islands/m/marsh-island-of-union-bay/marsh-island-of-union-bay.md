@@ -1,5 +1,6 @@
 ---
 title: "Marsh Island (Union Bay)"
+connects to: Foster Island
 disambiguation of: Marsh Island
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1509903"
 island in:
