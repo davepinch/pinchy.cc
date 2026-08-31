@@ -7,7 +7,7 @@ retrieved: 2026-08-31
 type: website
 url: /en.wikipedia.org/wiki/Discovery_Park_(Seattle)/
 website: "https://en.wikipedia.org/wiki/Discovery_Park_(Seattle)"
-wikipedia of: Discovery Park (Seattle)
+wikipedia of: Discovery Park
 tags:
   - Wikipedia
 ---
