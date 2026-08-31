@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q14713787"
 tags:
   - city park
   - vantage point
+  - no Wikimedia category
 ---
