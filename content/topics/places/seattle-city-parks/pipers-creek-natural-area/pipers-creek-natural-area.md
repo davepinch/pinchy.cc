@@ -10,4 +10,7 @@ official website: "https://www.seattle.gov/parks/parks/pipers-creek-natural-area
 openstreetmap: "https://www.openstreetmap.org/way/60005585"
 tags:
   - city park
+  - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
