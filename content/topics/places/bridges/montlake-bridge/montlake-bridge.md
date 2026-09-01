@@ -1,7 +1,7 @@
 ---
 title: "Montlake Bridge"
 apple maps: "https://maps.apple/p/VXCRviRqDyV_o0"
-bridge of:
+bridge in:
   - Montlake, Seattle
   - University District, Seattle
   - Seattle
