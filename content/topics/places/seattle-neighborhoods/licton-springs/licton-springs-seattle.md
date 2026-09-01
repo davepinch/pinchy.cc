@@ -8,6 +8,7 @@ adjacent to:
   - Maple Leaf, Seattle
   - Washington State Route 99
 apple maps: "https://maps.apple/p/DCfBJrFy1Rmg62"
+google maps: "https://maps.app.goo.gl/8iTQ6VvUaNLfJdW9A"
 northeast corner: Pinehurst, Seattle
 northwest corner: Bitter Lake, Seattle
 neighborhood in: Northgate, Seattle
