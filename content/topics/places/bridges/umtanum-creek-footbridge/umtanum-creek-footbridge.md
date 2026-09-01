@@ -1,6 +1,6 @@
 ---
 title: "Umtanum Creek Footbridge"
-bridge of:
+bridge in:
   - Kittitas County, Washington
   - Washington
 bridge of: Yakima River
