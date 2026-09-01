@@ -4,7 +4,7 @@ license: public domain
 photograph of: glasses
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/5a/Emile_Zola_1902.jpg"
 portrait of: Émile Zola
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Emile_Zola_1902.jpg/347px-Emile_Zola_1902.jpg"
+thumbnail: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Emile_Zola_1902.jpg/500px-Emile_Zola_1902.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/Emile_Zola_1902.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Emile_Zola_1902.jpg"
