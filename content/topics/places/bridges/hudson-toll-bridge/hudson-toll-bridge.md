@@ -1,6 +1,6 @@
 ---
 title: "Hudson Toll Bridge"
-bridge of:
+bridge in:
   - Hudson, Wisconsin
   - Wisconsin
   - Lakeland, Washington
