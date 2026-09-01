@@ -3,7 +3,7 @@ title: "Hudson Toll Bridge"
 bridge in:
   - Hudson, Wisconsin
   - Wisconsin
-  - Lakeland, Washington
+  - Lakeland, Minnesota
   - Washington County, Minnesota
   - Minnesota
 bridge of: Saint Croix River
