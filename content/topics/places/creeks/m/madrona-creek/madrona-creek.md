@@ -11,8 +11,10 @@ openstreetmap:
   - "[headwaters to East Spring Street](https://www.openstreetmap.org/way/478518426)"
   - "[culvert under East Spring Street entering Madrona Park](https://www.openstreetmap.org/way/478518425)"
   - "[East Spring Street to Lake Washington](https://www.openstreetmap.org/way/478518427)"
+tributary of: Lake Washington
 wikidata: "https://www.wikidata.org/wiki/Q6728667"
 tags:
   - creek
+  - tributary
   - no Wikimedia category
 ---
