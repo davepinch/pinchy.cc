@@ -7,7 +7,7 @@ retrieved: 2026-08-31
 type: website
 url: /en.wikipedia.org/wiki/Foster_Island_(Washington)/
 website: "https://en.wikipedia.org/wiki/Foster_Island_(Washington)"
-wikipedia of: Foster Island (Washington)
+wikipedia of: Foster Island
 tags:
   - Wikipedia
 ---
