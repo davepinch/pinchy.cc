@@ -6,5 +6,6 @@ geological formation of:
 tags:
   - geological formation
   - no Wikidata record
+  - no Wikimedia category
   - no Wikipedia article
 ---
