@@ -1,5 +1,6 @@
 ---
 title: "Freeland Park"
+apple maps: "https://maps.apple/p/M_5Q39koYfh4e9"
 county park of:
   - Island County, Washington
   - Freeland, Washington

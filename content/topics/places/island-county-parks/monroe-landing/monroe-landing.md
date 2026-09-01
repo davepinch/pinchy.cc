@@ -1,5 +1,6 @@
 ---
 title: "Monroe Landing"
+apple maps: "https://maps.apple/p/mn40ndwHRjb~2m"
 county park of:
   - Island County, Washington
   - Whidbey Island

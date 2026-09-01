@@ -1,5 +1,6 @@
 ---
 title: "Double Bluff County Park"
+apple maps: "https://maps.apple/p/LuIR7QZu_3F6Ea"
 county park of:
   - Island County, Washington
   - Whidbey Island
