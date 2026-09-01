@@ -2,7 +2,7 @@
 title: "North Queen Anne Drive Bridge"
 also known as: Queen Anne Drive Bridge
 apple maps:
-  - "note: Apple Maps does not label this bridge. The link is for Queen Anne Drive of the bridge.
+  - "note: Apple Maps does not label this bridge. The link is for Queen Anne Drive of the bridge."
   - "https://maps.apple/p/eWiQRYvnPmfa4i"
 bridge in:
   - Queen Anne, Seattle
