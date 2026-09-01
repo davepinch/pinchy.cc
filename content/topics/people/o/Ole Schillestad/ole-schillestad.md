@@ -1,5 +1,5 @@
 ---
-title: "Ole Shillestad"
+title: "Ole Schillestad"
 pioneer of:
   - Seattle
   - Washington
