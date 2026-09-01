@@ -11,6 +11,7 @@ adjacent to:
 apple maps: "https://maps.apple/p/7~t8d38kA1t7bD"
 district: Rainier Valley, Seattle
 neighborhood in: Seattle
+neighborhood of: Lake Washington
 not to be confused with: Mount Baker
 openstreetmap: "https://www.openstreetmap.org/node/150977763"
 wikidata: "https://www.wikidata.org/wiki/Q12062108"

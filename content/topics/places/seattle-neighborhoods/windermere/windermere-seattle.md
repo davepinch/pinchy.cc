@@ -8,6 +8,7 @@ adjacent to:
   - View Ridge, Seattle
 apple maps: "https://maps.apple/p/3ybTvI5QCQU11c"
 neighborhood in: Seattle
+neighborhood of: Lake Washington
 openstreetmap: "https://www.openstreetmap.org/node/150947631"
 overlaps: Hawthorne Hills, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q8024113"

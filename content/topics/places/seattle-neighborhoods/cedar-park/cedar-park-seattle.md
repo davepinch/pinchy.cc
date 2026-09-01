@@ -14,6 +14,7 @@ google maps: "https://maps.app.goo.gl/U3WFoZ8hy3mC6B7x8"
 neighborhood in:
   - Lake City, Seattle
   - Seattle
+neighborhood of: Lake Washington
 openstreetmap: "https://www.openstreetmap.org/node/150962744"
 wikidata: "https://www.wikidata.org/wiki/Q5056822"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Cedar_Park,_Seattle,_Washington"

@@ -14,6 +14,7 @@ boundaries:
   - Martin Luther King, Jr. Way S (west)
 district: Rainier Valley, Seattle
 neighborhood in: Seattle
+neighborhood of: Lake Washington
 openstreetmap: "https://www.openstreetmap.org/node/150937668"
 wikidata: "https://www.wikidata.org/wiki/Q5315406"
 tags:

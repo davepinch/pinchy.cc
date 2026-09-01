@@ -8,7 +8,10 @@ adjacent to:
   - View Ridge, Seattle
   - Wedgwood, Seattle
 apple maps: "https://maps.apple/p/xDVp_-syDmT4MD"
-neighborhood in: Lake City, Seattle
+neighborhood in:
+  - Lake City, Seattle
+  - Seattle
+neighborhood of: Lake Washington
 wikidata: "https://www.wikidata.org/wiki/Q6791486"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Matthews_Beach,_Seattle,_Washington"
 tags:

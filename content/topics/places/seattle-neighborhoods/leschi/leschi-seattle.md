@@ -9,6 +9,7 @@ adjacent to:
 apple maps: "https://maps.apple/p/GjkeG-RAs0PbFY"
 namesake of: Chief Leschi
 neighborhood in: Seattle
+neighborhood of: Lake Washington
 openstreetmap: "https://www.openstreetmap.org/node/1998438951"
 wikidata: "https://www.wikidata.org/wiki/Q6530303"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Leschi,_Seattle,_Washington"

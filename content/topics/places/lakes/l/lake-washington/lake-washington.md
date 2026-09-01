@@ -8,22 +8,6 @@ lake in:
   - King County, Washington
   - Washington
 near: Washington State Route 522
-neighborhoods:
-  - Cedar Park, Seattle
-  - Denny-Blaine, Seattle
-  - Dunlap, Seattle
-  - Lake City, Seattle
-  - Laurelhurst, Seattle
-  - Leschi, Seattle
-  - Madison Park, Seattle
-  - Madrona, Seattle
-  - Matthews Beach, Seattle
-  - Mount Baker, Seattle
-  - Rainier Beach, Seattle
-  - Sand Point, Seattle
-  - Seward Park, Seattle
-  - Windermere, Seattle
-  - incomplete list
 openstreetmap: "https://www.openstreetmap.org/relation/2793848"
 wikidata: "https://www.wikidata.org/entity/Q1323525"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Washington"

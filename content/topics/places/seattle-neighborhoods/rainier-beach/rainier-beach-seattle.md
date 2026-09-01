@@ -9,6 +9,7 @@ adjacent to:
   - Tukwila, Washington
 apple maps: "https://maps.apple/p/G5LiB2tzMZR9.o"
 neighborhood in: Seattle
+neighborhood of: Lake Washington
 openstreetmap: "https://www.openstreetmap.org/node/6152786234"
 wikidata: "https://www.wikidata.org/wiki/Q7284901"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rainier_Beach,_Seattle,_Washington"

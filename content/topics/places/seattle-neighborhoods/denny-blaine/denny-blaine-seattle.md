@@ -9,6 +9,7 @@ namesake of:
   - Charles Latimer Denny
   - Elbert F. Blaine
 neighborhood in: Seattle
+neighborhood of: Lake Washington
 openstreetmap: "https://www.openstreetmap.org/relation/8064780"
 wikidata: "https://www.wikidata.org/wiki/Q5259147"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Denny-Blaine,_Seattle,_Washington"
