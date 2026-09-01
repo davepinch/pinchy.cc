@@ -1,5 +1,6 @@
 ---
 title: "Western State Hospital"
+apple maps: "https://maps.apple/p/3ic1aSeUH1W3NK"
 former names:
   - Insane Asylum of Washington Territory (1871-1889)
   - Western Washington Hospital for the Insane (1889-1915)
