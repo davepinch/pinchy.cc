@@ -10,6 +10,7 @@ hospital of:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/way/25101011"
 wikidata: "https://www.wikidata.org/wiki/Q7988334"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Western_State_Hospital_(Washington)"
 tags:
   - hospital
 ---
