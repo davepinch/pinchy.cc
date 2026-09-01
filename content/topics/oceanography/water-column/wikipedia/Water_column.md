@@ -7,7 +7,7 @@ retrieved: 2026-08-20
 type: website
 url: /en.wikipedia.org/wiki/Water_column/
 website: "https://en.wikipedia.org/wiki/Water_column"
-wikipedia of: Water column
+wikipedia of: water column
 tags:
   - Wikipedia
 ---
