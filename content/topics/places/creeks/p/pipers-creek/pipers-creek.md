@@ -24,7 +24,6 @@ tributary of: Puget Sound
 vicinity of: Holman Road
 wikidata: "https://www.wikidata.org/wiki/Q7197369"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pipers_Creek_(Seattle)"
-wikipedia: "https://en.wikipedia.org/wiki/Pipers_Creek_(Seattle)"
 tags:
   - creek
   - tributary
