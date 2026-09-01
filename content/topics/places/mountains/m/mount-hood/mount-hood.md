@@ -8,7 +8,7 @@ mountain in:
   - Clackamas County, Oregon
   - Oregon
   - Cascade Range
-  - Pacific Northest
+  - Pacific Northwest
 openstreetmap: "https://www.openstreetmap.org/node/357310459"
 wikidata: "https://www.wikidata.org/wiki/Q275662"
 wikimedia: "https://commons.wikimedia.org/wiki/Mount_Hood"
