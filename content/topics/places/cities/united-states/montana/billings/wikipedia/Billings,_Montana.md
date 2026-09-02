@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2025-01-07
 type: website
 url: /en.wikipedia.org/wiki/Billings%2C_Montana/
-website: "https://en.wikipedia.org/wiki/Billings%2C_Montana"
+website: "https://en.wikipedia.org/wiki/Billings,_Montana"
 wikipedia of: Billings, Montana
 tags:
   - Wikipedia
