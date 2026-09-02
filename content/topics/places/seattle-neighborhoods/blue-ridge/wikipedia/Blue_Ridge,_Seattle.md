@@ -1,9 +1,9 @@
 ---
 title: "Blue Ridge, Seattle (Wikipedia)"
 excerpt: >-
-  **North Beach** / **Blue Ridge** is a neighborhood in the city of Seattle, in the U.S. state of Washington.
+  **North Beach / Blue Ridge** is a neighborhood in the city of Seattle, in the U.S. state of Washington.
 license: CC BY-SA 4.0
-retrieved: 2024-11-29
+retrieved: 2026-09-02
 type: website
 url: /en.wikipedia.org/wiki/Blue_Ridge,_Seattle/
 website: "https://en.wikipedia.org/wiki/Blue_Ridge,_Seattle"
