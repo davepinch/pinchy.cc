@@ -5,7 +5,7 @@ star of:
   - Canis Major
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13411"
-wikipedia: "https://en.wikipedia.org/wiki/Delta_Canis_Majoris"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Delta_Canis_Majoris"
 tags:
   - star
   - Latinized Bayer designation
