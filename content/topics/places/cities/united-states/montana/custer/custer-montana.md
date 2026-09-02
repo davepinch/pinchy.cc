@@ -1,5 +1,6 @@
 ---
 title: "Custer, Montana"
+apple maps: "https://maps.apple/p/B~kIDN6YLM9fG~"
 census-designated place in:
   - Montana
 census-designated place of:

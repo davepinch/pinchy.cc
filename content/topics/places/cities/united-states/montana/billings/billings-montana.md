@@ -1,5 +1,6 @@
 ---
 title: "Billings, Montana"
+apple maps: "https://maps.apple/p/bCW9J9WayiV2VK"
 city of:
   - Montana
   - Interstate 90

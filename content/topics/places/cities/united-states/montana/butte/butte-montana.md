@@ -1,5 +1,6 @@
 ---
 title: "Butte, Montana"
+apple maps: "https://maps.apple/p/zuyWG6xuSrG~uY"
 city of: Montana
 disambiguation of: butte
 openstreetmap: "https://www.openstreetmap.org/relation/6840978"

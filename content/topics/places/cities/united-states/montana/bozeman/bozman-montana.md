@@ -1,5 +1,6 @@
 ---
 title: "Bozeman, Montana"
+apple maps: "https://maps.apple/p/fmA1uCwv4oP3LC"
 city of:
   - Montana
   - Interstate 90
