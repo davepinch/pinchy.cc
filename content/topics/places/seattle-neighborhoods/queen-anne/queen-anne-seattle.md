@@ -1,9 +1,10 @@
 ---
 title: "Queen Anne, Seattle"
 across the canal:
+  - Ballard, Seattle
   - Fremont, Seattle
-  - incomplete list
 adjacent to:
+  - Ballard, Seattle
   - Belltown, Seattle
   - Fremont, Seattle
   - Interbay, Seattle
