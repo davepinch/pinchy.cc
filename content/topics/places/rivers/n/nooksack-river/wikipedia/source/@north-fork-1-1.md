@@ -5,12 +5,12 @@ citation: >-
   Wikipedia contributors. (2023, September 25). Nooksack River. In *Wikipedia, The Free Encyclopedia*. Retrieved February 23, 2024, from https://en.wikipedia.org/w/index.php?title=Nooksack_River&oldid=1177037306
 snippet of: Nooksack River (Wikipedia)
 source of: Nooksack River
+toward the east of: Mount Shuksan
 type: snippet
 url: /en.wikipedia.org/wiki/Nooksack_River/@north-fork-1-1/
 tags:
   - North Fork Nooksack River
   - Nooksack Circue
-  - Mount Shuksan
   - North Cascades National Park
   - Whatcom County, Washington
   - snippet
