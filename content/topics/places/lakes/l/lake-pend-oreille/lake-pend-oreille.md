@@ -1,6 +1,9 @@
 ---
 title: "Lake Pend Oreille"
-lake in: Idaho
+apple maps: "https://maps.apple/p/1VY7C6uuj6x-Gf"
+lake in:
+  - Bonner County, Idaho
+  - Idaho
 openstreetmap: "https://www.openstreetmap.org/relation/2048532"
 tributary of: Pend Oreille River
 wikidata: "https://www.wikidata.org/wiki/Q1632195"
