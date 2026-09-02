@@ -8,7 +8,7 @@ retrieved: 2023-08-02
 type: website
 url: /en.wikipedia.org/wiki/Corvus/
 website: "https://en.wikipedia.org/wiki/Corvus"
-wikipedia of: crow
+wikipedia of: Corvus (genus)
 tags:
   - Wikipedia
 ---
