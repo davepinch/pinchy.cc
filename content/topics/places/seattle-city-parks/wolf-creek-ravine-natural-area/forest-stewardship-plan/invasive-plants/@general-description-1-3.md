@@ -1,5 +1,5 @@
 ---
-title: "trees of Wolf Creek Ravine Natural Area (kingcd.org)"
+title: "invasive plants of Wolf Creek Ravine Natural Area (kingcd.org)"
 ✂️: "The [Wolf Creek Ravine Natural Area] plant community is severely degraded by other invasive species, especially Himalayan blackberry (*Rubus bifrons*) and ivy (*Hedera helix*)."
 degrading plant community of:
   - Rubus bifrons

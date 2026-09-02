@@ -1,5 +1,5 @@
 ---
-title: "trees of Wolf Creek Ravine Natural Area (kingcd.org)"
+title: "invasive trees of Wolf Creek Ravine Natural Area (kingcd.org)"
 ✂️: "Tree regeneration is dominated by several invasive tree species, particularly horse chestnut (*Aesculus hippocastanum*), holly (*Ilex aquifolium*) and cherry laurel (*Prunus laurocerasus*)."
 invasive trees of: Wolf Creek Ravine Natural Area
 snippet of: Wolf Creek Ravine Forest Stewardship Plan (PDF) (kingcd.org)
