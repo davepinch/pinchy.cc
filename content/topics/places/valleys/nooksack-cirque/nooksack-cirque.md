@@ -1,6 +1,7 @@
 ---
 title: "Nooksack Cirque"
 apple maps: "https://maps.apple/p/.dmY82SDA1CmqX"
+eastern slope of: Mount Shuksan
 cirque in:
   - Stephen Mather Wilderness
   - North Cascades National Park
