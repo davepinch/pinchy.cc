@@ -3,6 +3,7 @@ title: "Ballard, Seattle"
 across the canal:
   - Interbay, Seattle
   - Magnolia, Seattle
+  - Queen Anne, Seattle
 adjacent to:
   - Blue Ridge, Seattle
   - Crown Hill, Seattle
