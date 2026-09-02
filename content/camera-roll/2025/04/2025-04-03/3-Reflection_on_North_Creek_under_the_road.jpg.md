@@ -9,7 +9,7 @@ description: >-
 license: CC BY 4.0
 north creek of: Bothell West, Washington
 picture: "https://upload.wikimedia.org/wikipedia/commons/6/64/Reflection_on_North_Creek_under_the_road.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Reflection_on_North_Creek_under_the_road.jpg/320px-Reflection_on_North_Creek_under_the_road.jpg"
+thumbnail: "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Reflection_on_North_Creek_under_the_road.jpg/330px-Reflection_on_North_Creek_under_the_road.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/Reflection_on_North_Creek_under_the_road.jpg/
 vicinity of: Centennial Park
