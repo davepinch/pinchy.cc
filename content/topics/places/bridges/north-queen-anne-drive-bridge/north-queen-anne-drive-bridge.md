@@ -14,6 +14,7 @@ bridge of:
   - Mahteen Creek
 note: Mahteen Creek is also known as Wolf Creek.
 openstreetmap: "https://www.openstreetmap.org/way/6416584"
+vicinity to: McGraw Street Bridge
 wikidata: "https://www.wikidata.org/wiki/Q7056439"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:N._Queen_Anne_Dr._Bridge"
 tags:
