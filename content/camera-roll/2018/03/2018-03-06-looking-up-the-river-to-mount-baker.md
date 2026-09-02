@@ -5,7 +5,6 @@ opposite: Looking down the river near Deming
 photograph of:
   - river
   - mountain
-  - Nooksack River
 picture: content/camera-roll/2018/03/2018-03-06-looking-up-the-river-to-mount-baker/20180306_194838346_iOS.jpg
 related:
   - Nooksack River (Wikipedia)
