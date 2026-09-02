@@ -9,7 +9,6 @@ vicinity of:
   - Missoula, Montana
   - Lolo National Forest
 wikidata: "https://www.wikidata.org/wiki/Q14704717"
-wikipedia: "https://en.wikipedia.org/wiki/Lothrop,_Montana"
 tags:
   - unincorporated community
 ---
