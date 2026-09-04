@@ -5,6 +5,7 @@ city park in:
   - Magnolia, Seattle
   - Seattle
 city park of:
+  - Hidden Valley Trail
   - Shilshole Bay
   - Puget Sound
 openstreetmap: "https://www.openstreetmap.org/relation/4874562"
