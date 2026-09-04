@@ -1,12 +1,13 @@
 ---
 title: "North Beach (Whidbey Island)"
-beach of:
-  - Whidbey Island
-  - Deception Pass
+beach in:
   - Deception Pass State Park
-LOOK AROUND:
+  - Whidbey Island
+  - Island County, Washington
+  - Washington
+beach of:
   - Deception Pass
-  - Deception Pass Bridge
+LOOK AROUND: Deception Pass Bridge
 openstreetmap: "https://www.openstreetmap.org/way/367284616"
 wikidata: "https://www.wikidata.org/wiki/Q49322286"
 tags:
