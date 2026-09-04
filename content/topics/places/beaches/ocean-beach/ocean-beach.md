@@ -11,6 +11,7 @@ near:
   - Sutro Heights Park
 openstreetmap: "https://www.openstreetmap.org/relation/2165532"
 wikidata: "https://www.wikidata.org/wiki/Q2350498"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Ocean_Beach,_San_Francisco"
 tags:
   - beach
 ---
