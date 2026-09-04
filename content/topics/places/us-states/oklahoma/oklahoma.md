@@ -12,7 +12,6 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1649"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Oklahoma"
-wikiquote: "https://en.wikiquote.org/wiki/Oklahoma"
 tags:
   - state
 ---
