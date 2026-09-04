@@ -6,7 +6,7 @@ beach in:
   - King County, Washington
   - Washington
 beach of: Puget Sound
-openstreetmap: "https://www.openstreetmap.org/way/172962727"
+openstreetmap: "https://www.openstreetmap.org/relation/20035106"
 rockhounding site of:
   - agate
   - carnelian
