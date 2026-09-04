@@ -1,5 +1,5 @@
 ---
-title: "Rocky Mountains in the United States (en.wikivoyage.org)"
+title: "Rocky Mountains (United States) (en.wikivoyage.org)"
 excerpt: >-
   The **Rocky Mountains**, the **Rockies** for short, divide the western United States from the Great Plains.
 license: CC BY-SA 3.0
