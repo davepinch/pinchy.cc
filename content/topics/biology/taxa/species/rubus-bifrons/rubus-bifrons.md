@@ -1,5 +1,5 @@
 ---
-title: "Rubis bifrons"
+title: "Rubus bifrons"
 species of: blackberry
 wikidata: "https://www.wikidata.org/wiki/Q15546639"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rubus_bifrons"
