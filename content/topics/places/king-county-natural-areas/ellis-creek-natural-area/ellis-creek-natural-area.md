@@ -8,6 +8,7 @@ king county natural area of:
   - Vashon, Washington
   - King County, Washington
 openstreetmap: "https://www.openstreetmap.org/way/423967878"
+vicinity to: Crow Beach
 tags:
   - King County Natural Area
   - no Wikidata record
