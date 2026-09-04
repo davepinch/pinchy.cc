@@ -6,6 +6,9 @@ bridge in:
   - Seattle
   - King County, Washington
   - Washington
+bridge of:
+  - Wolf Creek Ravine Natural Area
+  - Mahteen Creek
 openstreetmap: "https://www.openstreetmap.org/way/6520688"
 vicinity to: North Queen Anne Drive Bridge
 wikimedia: "https://commons.wikimedia.org/wiki/Category:McGraw_Street_Bridge"
