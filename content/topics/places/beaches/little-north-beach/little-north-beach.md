@@ -1,9 +1,10 @@
 ---
 title: "Little North Beach"
-beach of:
+beach in:
   - Whidbey Island
   - Island County, Washington
-  - Deception Pass
+  - Washington
+beach of: Deception Pass
 description: This small beach is adjacent to North Beach along the Deception Pass at the north end of Whidbey Island.
 little of: North Beach (Whidbey Island)
 openstreetmap: "https://www.openstreetmap.org/way/105183993"
