@@ -1,10 +1,9 @@
 ---
 title: "Sammamish River (Wikipedia)"
 excerpt: >-
-  The **Sammamish River** (also known as **Sammamish Slough**) flows through north [King County](/en.wikipedia.org/wiki/King_County,_Washington/), [Washington](/en.wikipedia.org/wiki/Washington_(state)/) for about 14 miles (23 km), draining [Lake Sammamish](/en.wikipedia.org/wiki/Lake_Sammamish/) into [Lake Washington](/en.wikipedia.org/wiki/Lake_Washington/). Along its course, the Sammamish River flows through [Redmond](/en.wikipedia.org/wiki/Redmond,_Washington/), [Woodinville](/en.wikipedia.org/wiki/Woodinville,_Washington/), [Bothell](/en.wikipedia.org/wiki/Bothell,_Washington/), and [Kenmore](/en.wikipedia.org/wiki/Kenmore,_Washington/).
+  The **Sammamish River** runs for about 13.7 miles (22.0 km) through portions of King County, Washington, draining Lake Sammamish into Lake Washington. It flows out of Lake Sammamish at Marymoor Park in Redmond, before continuing through suburban residential areas in Redmond, Woodinville, Bothell, and Kenmore. About 32% of the river's riparian habitat is forested, with the invasive reed canarygrass found across its course. The river hosts fish such as salmon as they migrate between the lakes. It has four major tributary streams: Bear Creek, North Creek, Swamp Creek, and Little Bear Creek. The floodplain was carved out by a glacial meltwater channel during the Vashon Glaciation, about 15,000 years ago, resulting in a geology dominated by glacial deposits and alluvium.
 license: CC BY-SA 4.0
-related: Sammamishmap.png (Wikimedia Commons)
-retrieved: 2022-11-27
+retrieved: 2026-09-04
 type: website
 url: /en.wikipedia.org/wiki/Sammamish_River/
 website: "https://en.wikipedia.org/wiki/Sammamish_River"
