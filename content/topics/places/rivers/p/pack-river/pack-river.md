@@ -2,6 +2,8 @@
 title: "Pack River"
 openstreetmap: "https://www.openstreetmap.org/relation/19083899"
 river in:
+  - Rocky Mountains
+  - Selkirk Mountains
   - Iadho Panhandle National Forests
   - Boundary County, Idaho
   - Idaho
