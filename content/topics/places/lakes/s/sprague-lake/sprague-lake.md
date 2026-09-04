@@ -8,7 +8,6 @@ lake in:
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/282935"
 wikidata: "https://www.wikidata.org/wiki/Q21196816"
-wikipedia: "https://en.wikipedia.org/wiki/Sprague_Lake_(Washington)"
 tags:
   - lake
   - no Wikimedia category
