@@ -4,6 +4,8 @@ asterism in:
   - northern celestial hemisphere
   - southern celestial hemisphere
 asterism of:
+  - winter
+  - triangle
   - Betelgeuse
   - Procyon
   - Sirius
