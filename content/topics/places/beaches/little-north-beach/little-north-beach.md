@@ -1,5 +1,6 @@
 ---
 title: "Little North Beach"
+apple maps: "https://maps.apple/p/8DPhf36UNWT~Jt"
 beach in:
   - Whidbey Island
   - Island County, Washington
