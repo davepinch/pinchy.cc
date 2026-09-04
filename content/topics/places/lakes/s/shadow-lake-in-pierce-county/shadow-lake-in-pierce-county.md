@@ -1,5 +1,6 @@
 ---
 title: "Shadow Lake (Pierce County, Washington)"
+apple maps: "https://maps.apple/p/q5wB~cyrZbRb9_"
 disambiguation of: Shadow Lake
 lake in:
   - Yakima Park

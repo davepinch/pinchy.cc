@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake (North Cascades National Park)"
+apple maps: "https://maps.apple/p/rB1AXSIztE55mg"
 disambiguation of: Silver Lake
 lake in:
   - North Cascades National Park

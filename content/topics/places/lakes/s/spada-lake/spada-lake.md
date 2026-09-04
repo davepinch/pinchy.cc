@@ -1,5 +1,6 @@
 ---
 title: "Spada Lake"
+apple maps: "https://maps.apple/p/MR34db6sPD3-Ry"
 lake in:
   - Snohomish County, Washington
   - Washington

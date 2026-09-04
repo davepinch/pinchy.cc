@@ -1,5 +1,6 @@
 ---
 title: "Shadow Lake (King County, Washington)"
+apple maps: "https://maps.apple/p/j~ZmHQLNkhmIua"
 disambiguation of: Shadow Lake
 lake in:
   - Shadow Lake, Washington

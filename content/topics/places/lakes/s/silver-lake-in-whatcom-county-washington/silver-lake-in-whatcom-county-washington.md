@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake (Whatcom County, Washington)"
+apple maps: "https://maps.apple/p/zR7SqcnkPSvcR_"
 disambiguation of: Silver Lake
 lake in:
   - Whatcom County, Washington

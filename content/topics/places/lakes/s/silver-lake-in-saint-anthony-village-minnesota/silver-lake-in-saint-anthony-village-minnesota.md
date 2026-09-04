@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake (Saint Anthony Village, Minnesota)"
+apple maps: "https://maps.apple/p/L7xia_S9rpT-YL"
 disambiguation of: Silver Lake
 lake in:
   - Saint Anthony Village, Minnesota

@@ -1,5 +1,6 @@
 ---
 title: "Shadow Lake (Snohomish County, Washington)"
+apple maps: "https://maps.apple/p/QSbM_uxHjVF~vH"
 disambiguation of: Shadow Lake
 gnis feature: "https://edits.nationalmap.gov/apps/gaz-domestic/public/summary/1508240"
 lake in:

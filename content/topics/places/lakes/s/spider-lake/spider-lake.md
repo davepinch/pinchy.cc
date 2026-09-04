@@ -1,5 +1,6 @@
 ---
 title: "Spider Lake"
+apple maps: "https://maps.apple/p/qKf.8ZDj0QAey.z"
 lake in:
   - Olympic Mountains
   - Olympic National Forest

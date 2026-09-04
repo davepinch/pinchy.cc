@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake (Spokane County, Washington)"
+apple maps: "https://maps.apple/p/~IZ-gepPPyQvcQ"
 disambiguation of: Silver Lake
 lake in:
   - Spokane County, Washington

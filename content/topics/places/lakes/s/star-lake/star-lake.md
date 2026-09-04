@@ -1,5 +1,6 @@
 ---
 title: "Star Lake"
+apple maps: "https://maps.apple/p/GtG-ibcjKFFI~m"
 lake in:
   - Lakeland North, Washington
   - King County, Washington

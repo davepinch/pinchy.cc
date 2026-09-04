@@ -1,5 +1,6 @@
 ---
 title: "Snow Lake"
+apple maps: "https://maps.apple/p/g6zBGvI.rY_JPi"
 lake in:
   - Alpine Lakes Wilderness
   - Mount Baker–Snoqualmie National Forest

@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake (Everett, Washington)"
+apple maps: "https://maps.apple/p/.piKRpkp~pvf64"
 disambiguation of: Silver Lake
 lake in:
   - Everett, Washington

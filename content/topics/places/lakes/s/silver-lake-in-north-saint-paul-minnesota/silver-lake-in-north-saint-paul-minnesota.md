@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake (North Saint Paul, Minnesota)"
+apple maps: "https://maps.apple/p/75_viaH5DuYVtu"
 disambiguation of: Silver Lake
 lake in:
   - North Saint Paul, Minnesota

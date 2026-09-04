@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake (Cowlitz County, Washington)"
+apple maps: "https://maps.apple/p/xN~xZrx_koxYxC"
 disambiguation of: Silver Lake
 lake in:
   - Seaquest State Park

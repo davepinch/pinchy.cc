@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake (Henry M. Jackson Wilderness)"
+apple maps: "https://maps.apple/p/bVA9pJRp8EHU9h"
 disambiguation of: Silver Lake
 lake in:
   - Henry M. Jackson Wilderness

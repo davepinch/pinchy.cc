@@ -1,5 +1,6 @@
 ---
 title: "Silver Lake (Pierce County, Washington)"
+apple maps: "https://maps.apple/p/1U7~29P5SoaP5N"
 disambiguation of: Silver Lake
 lake in:
   - Pierce County, Washington
