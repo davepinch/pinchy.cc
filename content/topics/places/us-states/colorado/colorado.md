@@ -16,7 +16,6 @@ state of:
 wikidata: "https://www.wikidata.org/wiki/Q1261"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Colorado"
 wikiquote: "https://en.wikiquote.org/wiki/Colorado"
-wikivoyage: "https://en.wikivoyage.org/wiki/Colorado"
 tags:
   - state
 ---
