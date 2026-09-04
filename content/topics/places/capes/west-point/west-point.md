@@ -2,6 +2,8 @@
 title: "West Point"
 apple maps: "https://maps.apple/p/H8L~wRNAvLugSa"
 cape in:
+  - North Beach (Discovery Park)
+  - Discovery Park
   - Magnolia, Seattle
   - Seattle
   - King County, Washington
