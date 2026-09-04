@@ -1,5 +1,6 @@
 ---
 title: "Rosario Beach"
+apple maps: "https://maps.apple/p/1MA1788JangoXL"
 beach in:
   - Deception Pass State Park
   - Skagit County, Washington
