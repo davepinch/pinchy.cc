@@ -15,7 +15,6 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1212"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Montana"
-wikivoyage: "https://en.wikivoyage.org/wiki/Montana"
 tags:
   - state
 ---
