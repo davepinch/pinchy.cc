@@ -1,5 +1,6 @@
 ---
 title: "McGraw Street Bridge"
+apple maps: "https://maps.apple/p/QX2DaeXbd93M3r"
 bridge in:
   - Queen Anne, Seattle
   - Seattle
