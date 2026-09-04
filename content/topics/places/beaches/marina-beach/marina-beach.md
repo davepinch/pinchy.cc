@@ -1,8 +1,11 @@
 ---
 title: "Marina Beach"
-beach of:
+beach in:
   - Marina Beach Park
   - Edmonds, Washington
+  - Snohomish County, Washington
+  - Washington
+beach of:
   - Puget Sound
   - sand
 openstreetmap: "https://www.openstreetmap.org/way/518945206"
