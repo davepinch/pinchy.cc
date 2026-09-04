@@ -1,6 +1,11 @@
 ---
 title: "Alki Beach"
-beach of: West Seattle
+beach in:
+  - West Seattle
+  - Seattle
+  - King County, Washington
+  - Washington
+beach of: Puget Sound
 openstreetmap: "https://www.openstreetmap.org/way/172962727"
 rockhounding site of:
   - agate
