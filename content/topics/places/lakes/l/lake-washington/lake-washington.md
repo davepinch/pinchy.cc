@@ -9,8 +9,10 @@ lake in:
   - Washington
 near: Washington State Route 522
 openstreetmap: "https://www.openstreetmap.org/relation/2793848"
+tributary of: Lake Washington Ship Canal
 wikidata: "https://www.wikidata.org/entity/Q1323525"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Washington"
 tags:
   - lake
+  - tributary
 ---
