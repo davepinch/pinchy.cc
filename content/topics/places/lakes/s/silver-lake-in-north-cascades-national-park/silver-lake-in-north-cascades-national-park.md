@@ -14,7 +14,6 @@ not to be confused with: Silver Lake (Whatcom County, Washington)
 openstreetmap: "https://www.openstreetmap.org/way/258727190"
 tributary of: Silver Creek (North Cascades National Park)
 wikidata: "https://www.wikidata.org/wiki/Q14713895"
-wikipedia: "https://en.wikipedia.org/wiki/Silver_Lake_(North_Cascades,_Washington)"
 tags:
   - lake
   - no Wikimedia category
