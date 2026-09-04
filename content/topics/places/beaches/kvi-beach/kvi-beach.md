@@ -1,5 +1,6 @@
 ---
 title: "KVI Beach"
+apple maps: "https://maps.apple/p/sWIQ-XuyFjV0u2"
 beach in:
   - Vashon Island
   - Vashon, Washington
