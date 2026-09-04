@@ -1,12 +1,14 @@
 ---
 title: "KVI Beach"
-beach of:
-  - Point Heyer
+beach in:
   - Vashon Island
-  - East Passage
-  - Puget Sound
   - Vashon, Washington
   - King County, Washington
+  - Washington
+beach of:
+  - East Passage
+  - Puget Sound
+  - Point Heyer
 openstreetmap: "https://www.openstreetmap.org/relation/13312841"
 tags:
   - beach
