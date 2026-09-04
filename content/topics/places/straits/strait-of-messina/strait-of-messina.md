@@ -6,9 +6,8 @@ adjacent to:
   - Italy
   - Italian Peninsula
 apple maps: "https://maps.apple/p/WwYnp88Qa_k5k.z"
-connects to:
-  - Tyrrhenian Sea
-  - Ionian Sea
+connects to (north): Tyrrhenian Sea
+connects to (south): Ionian Sea
 openstreetmap: "https://www.openstreetmap.org/relation/11160661"
 strait in:
   - Mediterranean Sea
