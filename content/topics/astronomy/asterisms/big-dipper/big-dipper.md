@@ -1,5 +1,6 @@
 ---
 title: "Big Dipper"
+asterism in: northern celestial hemisphere
 asterism of:
   - Ursa Major
   - Milky Way
