@@ -1,5 +1,6 @@
 ---
 title: "Marina Beach"
+apple maps: "https://maps.apple/p/A-1~TQnFwH7h.V"
 beach in:
   - Marina Beach Park
   - Edmonds, Washington
