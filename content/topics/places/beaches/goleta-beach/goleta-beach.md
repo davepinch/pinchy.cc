@@ -1,8 +1,9 @@
 ---
 title: "Goleta Beach"
-beach of:
+beach in:
   - Santa Barbara, California
-  - Pacific Ocean
+  - California
+beach of: Pacific Ocean
 near:
   - Santa Barbara, California
   - Santa Ynez Mountains
