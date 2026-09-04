@@ -1,11 +1,12 @@
 ---
 title: "Crow Beach"
-beach of:
-  - East Passage
-  - Puget Sound
+beach in:
   - Vashon Island
   - Vashon, Washington
   - King County, Washington
+beach of:
+  - East Passage
+  - Puget Sound
   - crow
 openstreetmap: "https://www.openstreetmap.org/node/5057339426"
 tags:
