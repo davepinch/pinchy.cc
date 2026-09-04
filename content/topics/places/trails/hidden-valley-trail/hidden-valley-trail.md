@@ -1,5 +1,7 @@
 ---
 title: "Hidden Valley Trail"
+connects to (east): Discovery Park Loop Trail
+connects to (west): Discovery Park Boulevard
 openstreetmap:
   - "note: going north from Discovery Park Blvd"
   - "https://www.openstreetmap.org/way/267902390"
