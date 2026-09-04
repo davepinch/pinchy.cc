@@ -11,7 +11,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/6446962"
 tributary of: Rock Creek (Middle Fork Snoqualmie River tributary)
 wikidata: "https://www.wikidata.org/wiki/Q20712220"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Snow_Lake_(King_County,_Washington)"
-wikipedia: "https://en.wikipedia.org/wiki/Snow_Lake_(King_County,_Washington)"
 tags:
   - lake
 ---
