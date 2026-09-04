@@ -10,7 +10,6 @@ state of:
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q1558"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kansas"
-wikiquote: "https://en.wikiquote.org/wiki/Kansas"
 tags:
   - state
 ---
