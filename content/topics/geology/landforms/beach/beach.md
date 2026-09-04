@@ -8,6 +8,7 @@ plural: beaches
 see also:
   - coast
 tag requires property:
+  - beach in
   - beach of
   - OpenStreetMap
   - Wikidata
