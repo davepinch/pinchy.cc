@@ -1,6 +1,7 @@
 ---
 title: "Alki Beach"
 beach in:
+  - Alki Beach Park
   - West Seattle
   - Seattle
   - King County, Washington
