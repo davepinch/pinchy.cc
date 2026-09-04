@@ -1,5 +1,6 @@
 ---
 title: "Shi Shi Beach"
+apple maps: "https://maps.apple/p/mjsUZNFWenUcvc"
 beach in:
   - Makah Reservation
   - Clallam County, Washington
