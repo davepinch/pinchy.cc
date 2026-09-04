@@ -1,5 +1,6 @@
 ---
 title: "Double Bluff Beach"
+apple maps: "https://maps.apple/p/.ZhMc_L0RC8rqZ"
 beach in:
   - Double Bluff County Park
   - Whidbey Island
