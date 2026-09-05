@@ -1,5 +1,6 @@
 ---
 title: "Stillwater Wildlife Area Unit"
+adjacent to: Chinook Bend Natural Area
 openstreetmap: "https://www.openstreetmap.org/relation/10585426"
 vicinity of: Carnation, Washington
 wikidata: "https://www.wikidata.org/wiki/Q113396059"
