@@ -1,6 +1,7 @@
 ---
 title: "Interlaken Park"
 adjacent to:
+  - Louisa Boren Park
   - Montlake, Seattle
   - Stevens, Seattle
   - Capitol Hill, Seattle
