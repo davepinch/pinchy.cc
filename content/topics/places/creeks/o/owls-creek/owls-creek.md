@@ -13,7 +13,9 @@ openstreetmap:
   - "[1st tributary](https://www.openstreetmap.org/way/169030284)"
   - "[2nd tributary](https://www.openstreetmap.org/way/169030294)"
   - "[3rd tributary](https://www.openstreetmap.org/way/169030282)"
-tributary of: Puget Sound
+tributary of:
+  - Shilshole Bay
+  - Puget Sound
 url: /owls-creek/
 tags:
   - creek
