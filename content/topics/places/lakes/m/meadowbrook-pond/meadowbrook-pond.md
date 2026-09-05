@@ -6,7 +6,7 @@ lake in:
   - Seattle
   - King County, Washington
   - Washington
-lake in the watercourse of: Thorton Creek
+lake in the watercourse of: Thornton Creek
 note: Meadowbrook Pond is near the border with Meadowbrook, Seattle on the west side of Matthews Beach, Seattle.
 openstreetmap: "https://www.openstreetmap.org/relation/4048264"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Meadowbrook_Pond"
