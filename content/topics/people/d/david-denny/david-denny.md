@@ -5,7 +5,6 @@ person of:
   - New York Alki
   - Seattle
 wikidata: "https://www.wikidata.org/wiki/Q5232928"
-wikipedia: "https://en.wikipedia.org/wiki/David_Denny"
 younger brother of: Arthur Denny
 tags:
   - human being
