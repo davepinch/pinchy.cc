@@ -16,6 +16,7 @@ openstreetmap:
   - "[steps to Illinois Avenue](https://www.openstreetmap.org/way/267902388)"
 trail in:
   - Discovery Park
+  - Magnolia, Seattle
   - Seattle, Washington
   - King County, Washington
   - Washington
