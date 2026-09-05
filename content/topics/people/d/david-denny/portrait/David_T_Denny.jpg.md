@@ -2,6 +2,7 @@
 title: "David T Denny.jpg (Wikimedia Commons)"
 author: Emily Inez Denny
 description: "A photo of David T. Denny ca. 1880"
+illustration of: David Denny (Wikipedia)
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/0/04/David_T_Denny.jpg"
 portrait of: David Denny
