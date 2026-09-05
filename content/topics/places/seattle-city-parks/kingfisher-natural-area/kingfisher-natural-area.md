@@ -5,7 +5,7 @@ city park in:
   - Victory Heights, Seattle
   - Seattle
   - King County, Washington
-city park of: South Fork Thorton Creek
+city park of: South Fork Thornton Creek
 openstreetmap: "https://www.openstreetmap.org/way/435543040"
 vicinity of: Northgate, Seattle
 tags:
