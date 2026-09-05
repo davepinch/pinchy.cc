@@ -4,6 +4,7 @@ creek in:
   - Chinook Passage Natural Area
   - Matthews Beach Park
   - Matthews Beach, Seattle
+  - Lake City, Seattle
   - Seattle
   - King County, Washington
   - Washington

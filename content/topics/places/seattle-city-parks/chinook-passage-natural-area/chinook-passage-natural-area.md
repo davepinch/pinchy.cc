@@ -2,6 +2,7 @@
 title: "Chinook Passage Natural Area"
 city park in:
   - Matthews Beach, Seattle
+  - Lake City, Seattle
   - Seattle
   - King County, Washington
 city park of:

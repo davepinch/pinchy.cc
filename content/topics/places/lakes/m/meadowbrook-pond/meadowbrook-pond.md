@@ -3,6 +3,7 @@ title: "Meadowbrook Pond"
 google maps: "https://maps.app.goo.gl/B4usRix3WVfRhQR26"
 lake in:
   - Matthews Beach, Seattle
+  - Lake City, Seattle
   - Seattle
   - King County, Washington
   - Washington
