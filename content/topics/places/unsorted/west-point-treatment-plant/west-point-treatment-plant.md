@@ -4,6 +4,7 @@ adjacent to: Discovery Park
 apple maps: "https://maps.apple/p/-dUmF.d8i5dCuv"
 official website: "https://kingcounty.gov/en/dept/dnrp/waste-services/wastewater-treatment/facilities/west-point"
 openstreetmap: "https://www.openstreetmap.org/way/34932485"
+vicinity to: West Point Light
 wastewater treatment plant in:
   - Magnolia, Seattle
   - Seattle
