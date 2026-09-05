@@ -13,13 +13,16 @@ openstreetmap:
   - "[1st tributary](https://www.openstreetmap.org/way/169030284)"
   - "[2nd tributary](https://www.openstreetmap.org/way/169030294)"
   - "[3rd tributary](https://www.openstreetmap.org/way/169030282)"
+TODO: Confirm the creek is piped to the other side of the waste treatment plant to feed ponds or wetland.
 tributary of:
   - Shilshole Bay
   - Puget Sound
 url: /owls-creek/
+vicinity to: West Point Treatment Plant
 tags:
   - creek
   - no Wikidata record
   - no Wikimedia category
   - no Wikipedia article
+  - TODO
 ---
