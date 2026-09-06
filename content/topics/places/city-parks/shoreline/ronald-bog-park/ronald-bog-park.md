@@ -8,6 +8,7 @@ city park in:
 city park of:
   - North Fork Thornton Creek
   - Ronald Bog
+namesake of: Ronald Bog
 official website: "https://www.shorelinewa.gov/Home/Components/FacilityDirectory/FacilityDirectory/1075/135"
 openstreetmap: "https://www.openstreetmap.org/way/471191463"
 tags:
