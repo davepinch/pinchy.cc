@@ -30,7 +30,6 @@ suburb of: Seattle
 up the Pacific coast: Point Wells
 wikidata: "https://www.wikidata.org/entity/Q983657"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Shoreline,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/Shoreline"
 tags:
   - city
 ---
