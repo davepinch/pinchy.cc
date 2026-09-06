@@ -4,6 +4,7 @@ apple maps: "https://maps.apple/p/TVRd5vzXkAVYPE"
 city park in:
   - Shoreline, Washington
   - King County, Washington
+namesake of: Howard H. Hamlin
 openstreetmap: "https://www.openstreetmap.org/way/133678627"
 quick trip from Bothell of: VISIT SOMEWHERE NEW
 TODO: "Visit this park and get a picture of the historic guns from the *USS Boston*."
