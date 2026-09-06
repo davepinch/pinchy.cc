@@ -17,10 +17,12 @@ adjacent to:
   - Olympic Hills, Seattle
   - Pinehurst, Seattle
 apple maps: "https://maps.apple/p/YJB8SPw-jPNX-D"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - Interstate 5
+  - Puget Sound
   - Washington State Route 99
   - Washington State Route 522
 northbound on interstate 5: Mountlake Terrace, Washington
