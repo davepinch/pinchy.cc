@@ -1,0 +1,68 @@
+---
+title: "North Fork Thornton Creek"
+creek in:
+  - Shoreline, Washington
+  - Ronald Bog Park
+  - Twin Ponds Park
+  - Seattle
+  - Pinehurst, Seattle
+  - Licorice Fern Natural Area
+  - Lake City, Seattle
+  - Olympic Hills, Seattle
+  - Lake City Floodplain Park
+  - Victory Heights, Seattle
+  - Thornton Creek Natural Area
+  - Meadowbrook, Seattle
+  - Matthews Beach, Seattle
+  - King County, Washington
+  - Washington
+openstreetmap:
+  - "[culvert in the arboretum of Ronald Bog Park](https://www.openstreetmap.org/way/837464258)"
+  - "[arboretum to Ronald Bog](https://www.openstreetmap.org/way/837464259)"
+  - "[culvert from Ronald Bog to 16739-16747 Corliss Place North](https://www.openstreetmap.org/way/838826819)"
+  - "[culvert behind houses on 16727-16747 Corliss Place North](https://www.openstreetmap.org/way/478523044)"
+  - "[culvert under private drive on Corliss Place North](https://www.openstreetmap.org/way/478523043)"
+  - "[private drive to North 167th St](https://www.openstreetmap.org/way/478523042)"
+  - "[culvert under N 167th St](https://www.openstreetmap.org/way/478523041)"
+  - "[N 167th St to N 165th St service road](https://www.openstreetmap.org/way/478523040)"
+  - "[culvert from N 165th St to N 163rd St](https://www.openstreetmap.org/way/478523039)"
+  - "[culvert along N 163rd St toward Interstate 5](https://www.openstreetmap.org/way/1155142736)"
+  - "[I-5 at N 163rd St to I-5 at N 156 Place](https://www.openstreetmap.org/way/429001326)"
+  - "[culvert near 2330 N 156th Place](https://www.openstreetmap.org/way/1155142737)"
+  - "[culvert branch toward the west](https://www.openstreetmap.org/way/478523038)"
+  - "[culvert to N 155th St](https://www.openstreetmap.org/way/854781529)"
+  - "[culvert under N 155th St](https://www.openstreetmap.org/way/854781528)"
+  - "[N 155th St to footpath in Twin Ponds Park](https://www.openstreetmap.org/way/877660795)"
+  - "[footpath to 1st Ave NE via Twin Ponds](https://www.openstreetmap.org/way/429001322)"
+  - "[culvert under 1st Ave NE](https://www.openstreetmap.org/way/478523037)"
+  - "[1st Ave NE to Interstate 5](https://www.openstreetmap.org/way/478523036)"
+  - "[culvert under Interstate 5 crossing into Pinehurst, Seattle](https://www.openstreetmap.org/way/478523035)"
+  - "[between Interstate 5 and off-ramp](https://www.openstreetmap.org/way/1312370304)"
+  - "[culvert under off-ramp 5th Ave NE](https://www.openstreetmap.org/way/1312370303)"
+  - "[5th Ave NE to 10th Ave NE](https://www.openstreetmap.org/way/52710472)"
+  - "[culvert under 10th Ave NE](https://www.openstreetmap.org/way/242172263)"
+  - "[10th Ave NE to 15th Ave NE via Licorice Fern Natural Area](https://www.openstreetmap.org/way/242172267)"
+  - "[culvert under 15th Ave NE crossing into Olympic Hills](https://www.openstreetmap.org/way/84508175)"
+  - "[15th Ave NE to 19th Ave NE](https://www.openstreetmap.org/way/84508173)"
+  - "[culvert under 19th Ave NE](https://www.openstreetmap.org/way/350664476)"
+  - "[19th Ave NE to NE 125th Street via Lake City Floodplain Park](https://www.openstreetmap.org/way/350664477)"
+  - "[culvert under NE 125th St crossing into Victory Heights](https://www.openstreetmap.org/way/242172264)"
+  - "[NE 125th St to 25th Ave NE](https://www.openstreetmap.org/way/242172266)"
+  - "[culvert under 25th Ave NE](https://www.openstreetmap.org/way/242172265)"
+  - "[25th Ave NE to Lake City Way NE via Thornton Creek Natural Area](https://www.openstreetmap.org/way/242172268)"
+  - "[culvert under Lake City Way NE crossing into Meadowbrook](https://www.openstreetmap.org/way/242172269)"
+  - "[Lake City Way NE to 34th Ave NE](https://www.openstreetmap.org/way/242172271)"
+  - "[culvert under 34th Ave NE](https://www.openstreetmap.org/way/335443980)"
+  - "[34th Ave NE to 35th Ave NE](https://www.openstreetmap.org/way/335443987)"
+  - "[culvert under 35th Ave NE to Little Brook Creek crossing into Matthews Beach](https://www.openstreetmap.org/way/242172261)"
+  - "[Little Brook Creek to NE 110th Street](https://www.openstreetmap.org/way/335443977)"
+  - "[culvert under NE 110th Street](https://www.openstreetmap.org/way/335443985)"
+  - "[NE 110th Street to building in alley](https://www.openstreetmap.org/way/335443983)"
+  - "[culvert under building in alley](https://www.openstreetmap.org/way/1458779420)"
+  - "[building in alley to confluence](https://www.openstreetmap.org/way/839718529)"
+tributary of: Thornton Creek
+tags:
+  - creek
+  - tributary
+  - no Wikidata record
+---
