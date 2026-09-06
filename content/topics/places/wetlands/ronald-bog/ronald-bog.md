@@ -7,6 +7,7 @@ bog in:
   - Shoreline, Washington
   - King County, Washington
   - Washington
+description: A bog near the headwaters of the North Fork Thornton Creek in Ronald Bog Park.
 lake in the watercourse of: North Fork Thornton Creek
 openstreetmap: "https://www.openstreetmap.org/way/35837013"
 wikidata: "https://www.wikidata.org/wiki/Q49219254"
