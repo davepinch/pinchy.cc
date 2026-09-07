@@ -1,4 +1,4 @@
----0
+---
 title: "South Beach Trail"
 apple maps: "https://maps.apple/p/7YH_FkiTQrxYZ7"
 connects to (east): Discovery Park Loop Trail
