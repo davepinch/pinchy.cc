@@ -1,7 +1,8 @@
 ---
 title: "Carkeek Park"
-apple maps: "https://maps.apple/p/M3UD2anWMm_kH-"
+address: "950 NW Carkeek Park Rd., Seattle, WA 98177"
 adjacent to: Pipers Creek Natural Area
+apple maps: "https://maps.apple/p/M3UD2anWMm_kH-"
 city park in:
   - Broadview, Seattle
   - Seattle
