@@ -1,5 +1,8 @@
 ---
 title: "Ravenna Park"
+address:
+  - "note: An address is not listed on the Seattle site. The address below was found with a Copilot search."
+  - 5520 Ravenna Ave NE, Seattle, WA 98105
 apple maps: "https://maps.apple/p/aoDCjR2ZQR1TRv"
 city park in:
   - Ravenna, Seattle
