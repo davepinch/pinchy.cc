@@ -1,5 +1,6 @@
 ---
 title: "Kiwanis Memorial Preserve Park"
+address: "4441 Brygger Dr. W, Seattle, WA 98199"
 also known as: Kiwanis Ravine
 city park in:
   - Magnolia, Seattle
