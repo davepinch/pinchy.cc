@@ -16,4 +16,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Shoreline_Historical_Mus
 tags:
   - museum
   - no Wikidata record
+  - no Wikipedia article
 ---
