@@ -1,5 +1,6 @@
 ---
 title: "Cal Anderson Park"
+address: "1635 11th Ave., Seattle, WA 98122"
 apple maps: "https://maps.apple/p/fFpPpctHUd~T1T"
 city park in:
   - Capitol Hill, Seattle
