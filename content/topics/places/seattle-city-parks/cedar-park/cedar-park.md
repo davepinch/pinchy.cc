@@ -3,6 +3,7 @@ title: "Cedar Park"
 address: 3737 NE 135th St, Seattle, WA 98125
 apple maps: "https://maps.apple/p/od1q0p.7b3HTAV"
 city park in:
+  - Cedar Park, Seattle
   - Seattle
   - King County, Washington
 official website: "https://www.seattle.gov/parks/parks/cedar-park"
