@@ -1,5 +1,6 @@
 ---
 title: "City Hall Park"
+address: "450 3rd Ave., Seattle, WA 98104"
 apple maps: "https://maps.apple/p/jF7myg4FMYbTgK"
 city park in:
   - Downtown Seattle
