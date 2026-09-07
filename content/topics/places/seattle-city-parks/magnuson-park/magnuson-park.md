@@ -10,6 +10,7 @@ city park of:
   - Lake Washington
 LOOK AROUND: Lake Washington
 near: A Sound Garden
+official website: "https://www.seattle.gov/parks/parks/magnuson-park"
 openstreetmap: "https://www.openstreetmap.org/relation/6618625"
 wikidata: "https://www.wikidata.org/wiki/Q10323074"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Magnuson_Park"
