@@ -1,5 +1,6 @@
 ---
 title: "Wolf Creek Ravine Natural Area"
+address: "McGraw St,. between 2nd Ave. N & Nobb Hill Ave. N, Seattle, WA 98109"
 apple maps: "https://maps.apple/p/ucmDZa.Fhfae9U"
 city park in:
   - Queen Anne, Seattle
