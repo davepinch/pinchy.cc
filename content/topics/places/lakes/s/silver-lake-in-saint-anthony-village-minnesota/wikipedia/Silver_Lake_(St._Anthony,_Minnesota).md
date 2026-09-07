@@ -7,7 +7,7 @@ retrieved: 2026-09-04
 type: website
 url: /en.wikipedia.org/wiki/Silver_Lake_(St._Anthony,_Minnesota)/
 website: "https://en.wikipedia.org/wiki/Silver_Lake_(St._Anthony,_Minnesota)"
-wikipedia of: Silver Lake (St. Anthony, Minnesota)
+wikipedia of: Silver Lake (Saint Anthony Village, Minnesota)
 tags:
   - Wikipedia
 ---
