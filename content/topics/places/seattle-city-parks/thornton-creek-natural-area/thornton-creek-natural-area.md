@@ -1,7 +1,7 @@
 ---
 title: "Thornton Creek Natural Area"
 address:
-  - "note: The Seattle website indicates Thornton Creek Natural Area is a series of properties along Thornton Creek. The address listed on the website is for a parcel south of the Jackson Park Golf Course.
+  - "note: The Seattle website indicates Thornton Creek Natural Area is a series of properties along Thornton Creek. The address listed on the website is for a parcel south of the Jackson Park Golf Course."
   - "13002 10th Ave NE, Seattle, WA 98125"
 city park in:
   - Seattle
