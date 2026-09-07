@@ -1,0 +1,14 @@
+---
+title: "Donald Trump on the September 11 Attacks"
+attribution: Donald Trump to TV station WWOR on 11 September 2001
+quote: >-
+  Well, it was an amazing phone call. I mean, 40 Wall Street actually was the second-tallest building in downtown Manhattan. And it was actually – before the World Trade Center – was the tallest. And then when they built the World Trade Center, it became known as the second-tallest, and now it’s the tallest.
+tallest building by: Donald Trump
+tallest building in: Manhattan
+tallest building of: September 11 attacks
+type: quote
+url: /well-it-was-an-amazing-phone-call/
+when: 2026-09-07
+tags:
+  - quote
+---
