@@ -1,5 +1,6 @@
 ---
 title: "Pigeon Point Park"
+address: "4418 21st Ave. SW, Seattle, WA 98106"
 apple maps: "https://maps.apple/p/VtNB_i.H9yDBGz"
 city park in:
   - West Seattle
