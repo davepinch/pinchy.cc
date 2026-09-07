@@ -6,6 +6,7 @@ adjacent to:
 apple maps: "https://maps.apple/p/tY-AbaG8WJRUEo"
 city park in:
   - Cedar Park, Seattle
+  - Lake City, Seattle
   - Seattle
   - King County, Washington
 openstreetmap: "https://www.openstreetmap.org/way/293126948"
