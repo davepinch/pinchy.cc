@@ -8,6 +8,7 @@ adjacent to (west):
   - Victory Heights, Seattle
   - Washington State Route 522
 apple maps: "https://maps.apple/p/~2LE..0eQE7Xi9"
+google maps: "https://maps.app.goo.gl/avshj2PbAnLNEDjY6"
 neighborhood in: Lake City, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q14713813"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Meadowbrook,_Seattle,_Washington"
