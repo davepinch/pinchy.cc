@@ -3,6 +3,7 @@ title: "Matthews Beach Park"
 address: 5100 NE 93rd St, Seattle, WA 98115
 apple maps: "https://maps.apple/p/1KSWWSS-MRvw8q"
 city park in:
+  - Matthews Beach, Seattle
   - Seattle
   - King County, Washington
 city park of:
