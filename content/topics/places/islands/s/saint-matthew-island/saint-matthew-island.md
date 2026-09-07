@@ -6,6 +6,7 @@ island in:
   - Alaska
   - United States
 openstreetmap: "https://www.openstreetmap.org/relation/1255668"
+vicinity to: Hall Island
 wikidata: "https://www.wikidata.org/wiki/Q1655937"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:St._Matthew_Island"
 tags:
