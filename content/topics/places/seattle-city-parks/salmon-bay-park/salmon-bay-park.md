@@ -7,7 +7,7 @@ city park in:
   - Ballard, Seattle
   - Seattle
   - King County, Washington
-official website: "https://www.seattle.gov/parks/allparks/salmon-bay-park"
+official website: "https://www.seattle.gov/parks/parks/salmon-bay-park"
 openstreetmap: "https://www.openstreetmap.org/way/53600070"
 vicinity of: Salmon Bay
 wikidata: "https://www.wikidata.org/wiki/Q49556453"
