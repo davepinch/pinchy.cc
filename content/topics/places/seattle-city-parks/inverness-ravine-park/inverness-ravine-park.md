@@ -5,6 +5,7 @@ city park in:
   - Wedgwood, Seattle
   - Seattle
   - King County, Washington
+city park of: Thornton Creek Mainstem Tributary A
 official website: "https://www.seattle.gov/parks/parks/inverness-ravine-park"
 openstreetmap: "https://www.openstreetmap.org/way/55174405"
 tags:
