@@ -1,5 +1,6 @@
 ---
 title: "Belvoir Place"
+address: "3659 42nd Ave. NE, Seattle, WA 98105"
 adjacent to: Union Bay
 apple maps: "https://maps.apple/p/99JmVgeCKmzuHG"
 city park in:
