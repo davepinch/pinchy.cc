@@ -10,9 +10,10 @@ adjacent to:
   - Washington State Route 522
   - Wedgwood, Seattle
 apple maps: "https://maps.apple/p/7a6PAhVtC3dcy6"
-neighborhood in: Seattle
+neighborhood in:
+  - Northgate, Seattle
+  - Seattle
 openstreetmap: "https://www.openstreetmap.org/node/150946177"
-part of: Northgate, Seattle
 wikidata: "https://www.wikidata.org/wiki/Q6753924"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Maple_Leaf,_Seattle,_Washington"
 tags:
