@@ -1,5 +1,6 @@
 ---
 title: "Jefferson Park"
+address: "3801 Beacon Ave. S, Seattle, WA 98108"
 adjacent to: Beacon Food Forest
 apple maps: "https://maps.apple/p/KN3r_tpou4CFbd"
 city park in:
