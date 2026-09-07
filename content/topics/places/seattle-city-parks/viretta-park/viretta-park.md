@@ -1,5 +1,6 @@
 ---
 title: "Viretta Park"
+address: "151 Lake Washington Blvd. E, Seattle, WA 98112"
 apple maps: "https://maps.apple/p/nCTnNHQeY9tTNR"
 city park in:
   - Denny-Blaine, Seattle
