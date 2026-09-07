@@ -5,6 +5,7 @@ excerpt: >-
 license: CC BY-SA 4.0
 retrieved: 2026-09-05
 type: website
+url: /en.wikiquote.org/wiki/Maria_Bartiromo/
 website: "https://en.wikiquote.org/wiki/Maria_Bartiromo"
 wikiquote of: Maria Bartiromo
 tags:
