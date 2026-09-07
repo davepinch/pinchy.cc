@@ -7,7 +7,7 @@ retrieved: 2026-09-04
 type: website
 url: /en.wikipedia.org/wiki/Silver_Lake_(North_Cascades,_Washington)/
 website: "https://en.wikipedia.org/wiki/Silver_Lake_(North_Cascades,_Washington)"
-wikipedia of: Silver Lake (North Cascades, Washington)
+wikipedia of: Silver Lake (North Cascades National Park)
 tags:
   - Wikipedia
 ---
