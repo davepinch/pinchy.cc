@@ -1,5 +1,6 @@
 ---
 title: "University Lake Shore Place"
+address: "4271 NE 125th St., Seattle, WA 98125"
 apple maps: "https://maps.apple/p/UQHkY1o2Y0SXjp"
 city park in:
   - Cedar Park, Seattle
