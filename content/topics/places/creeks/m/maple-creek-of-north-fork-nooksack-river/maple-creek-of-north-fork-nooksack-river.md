@@ -4,6 +4,7 @@ creek in:
   - Whatcom County, Washington
   - Washington
   - Cascade Range
+disambiguation of: Maple Creek
 openstreetmap:
   - "https://www.openstreetmap.org/way/503652954 (Silver Lake)"
   - "https://www.openstreetmap.org/way/503652955"
@@ -15,6 +16,7 @@ openstreetmap:
 tributary of: North Fork Nooksack River
 tags:
   - creek
+  - disambiguation
   - tributary
   - no Wikidata record
   - no Wikimedia category
