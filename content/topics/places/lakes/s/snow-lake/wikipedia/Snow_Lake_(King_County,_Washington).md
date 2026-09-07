@@ -7,7 +7,7 @@ retrieved: 2026-09-04
 type: website
 url: /en.wikipedia.org/wiki/Snow_Lake_(King_County,_Washington)/
 website: "https://en.wikipedia.org/wiki/Snow_Lake_(King_County,_Washington)"
-wikipedia of: Snow Lake (King County, Washington)
+wikipedia of: Snow Lake
 tags:
   - Wikipedia
 ---
