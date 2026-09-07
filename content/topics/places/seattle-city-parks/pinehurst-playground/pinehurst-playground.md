@@ -3,6 +3,8 @@ title: "Pinehurst Playground"
 address: 12029 14th Ave NE, Seattle, WA 98125
 apple maps: "https://maps.apple/p/BSEBQuN8BWPnqM"
 city park in:
+  - Pinehurst, Seattle
+  - Northgate, Seattle
   - Seattle
   - King County, Washington
 official website: "https://www.seattle.gov/parks/parks/pinehurst-playground"
