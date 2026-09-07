@@ -6,6 +6,7 @@ city park in:
   - Olympic Hills, Seattle
   - Seattle
   - King County, Washington
+not to be confused with: Little Brook Creek Natural Area
 official website: "https://www.seattle.gov/parks/parks/little-brook-park"
 openstreetmap: "https://www.openstreetmap.org/way/56393779"
 tags:
