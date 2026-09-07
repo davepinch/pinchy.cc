@@ -7,7 +7,7 @@ retrieved: 2026-09-06
 type: website
 url: /en.wikipedia.org/wiki/St._Matthew_Island/
 website: "https://en.wikipedia.org/wiki/St._Matthew_Island"
-wikipedia of: St. Matthew Island
+wikipedia of: Saint Matthew Island
 tags:
   - Wikipedia
 ---
