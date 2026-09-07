@@ -3,6 +3,7 @@ title: "Mineral Springs Park"
 address: 1500 N 105th St, Seattle, WA 98133
 apple maps: "https://maps.apple/p/viNuPh67MjZ5Fj"
 city park in:
+  - Licton Springs, Seattle
   - Northgate, Seattle
   - Seattle
   - King County, Washington
