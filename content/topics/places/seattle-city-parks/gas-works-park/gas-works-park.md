@@ -1,5 +1,6 @@
 ---
 title: "Gas Works Park"
+address: "2101 N Northlake Way, Seattle, WA 98103"
 apple maps: "https://maps.apple/p/DBY1jtuxgvLSt3"
 city park in:
   - Northlake, Seattle
