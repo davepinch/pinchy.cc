@@ -1,5 +1,6 @@
 ---
 title: "Alki Beach Park"
+address: "2665 Alki Ave SW, Seattle, WA 98116"
 apple maps: "https://maps.apple/p/nUXIcGENdNeW8R"
 city park in:
   - West Seattle
