@@ -6,6 +6,9 @@ openstreetmap: "https://www.openstreetmap.org/way/76744203"
 city park in:
   - Shoreline, Washington
   - King County, Washington
+city park of:
+  - Meridian Creek
+  - North Fork Thornton Creek
 quick trip from Bothell of: VISIT SOMEWHERE NEW
 tags:
   - city park
