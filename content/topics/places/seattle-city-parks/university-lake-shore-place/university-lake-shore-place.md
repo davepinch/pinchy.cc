@@ -4,6 +4,7 @@ apple maps: "https://maps.apple/p/UQHkY1o2Y0SXjp"
 city park in:
   - Cedar Park, Seattle
   - Seattle
+  - King County, Washington
 driving address: "4271 NE 125th St., Seattle, WA 98125"
 google maps: "https://maps.app.goo.gl/h96sPHRdTrVgrtt88"
 official website: "https://www.seattle.gov/parks/parks/university-lake-shore-place"
