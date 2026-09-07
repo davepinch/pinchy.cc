@@ -4,6 +4,7 @@ apple maps:
   - "note: Apple Maps has an entry for *Beaver Pond Natural Area on Thorton Creek*, which is the correct location. Apple also has a different entry for *Beaver Pond Natural Area*, which is actually the Licorice Fern Natural Area, according to OpenStreetMap."
   - "https://maps.apple/p/ApwAoioDAK4.Md"
 city park in:
+  - Maple Leaf, Seattle
   - Northgate, Seattle
   - Seattle
   - King County, Washington
