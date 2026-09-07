@@ -10,6 +10,7 @@ city park in:
   - Seattle
   - King County, Washington
 connects to: Green Lake Park
+official website: "https://www.seattle.gov/parks/parks/woodland-park"
 openstreetmap: "https://www.openstreetmap.org/way/8097142"
 split in half by: Washington State Route 99
 wikidata: "https://www.wikidata.org/wiki/Q2388076"
