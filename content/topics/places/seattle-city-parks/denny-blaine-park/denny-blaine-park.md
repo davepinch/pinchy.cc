@@ -7,6 +7,7 @@ city park in:
   - Seattle
   - King County, Washington
 city park of: Lake Washington
+official website: "https://www.seattle.gov/parks/parks/denny-blaine-park"
 openstreetmap: "https://www.openstreetmap.org/relation/537268"
 vantage point of:
   - Bellevue, Washington
