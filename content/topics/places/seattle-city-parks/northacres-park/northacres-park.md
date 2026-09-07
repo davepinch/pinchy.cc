@@ -6,6 +6,7 @@ city park in:
   - Haller Lake, Seattle
   - Seattle
   - King County, Washington
+official website: "https://www.seattle.gov/parks/parks/northacres-park"
 openstreetmap: "https://www.openstreetmap.org/way/53594531"
 wikidata: "https://www.wikidata.org/wiki/Q7057551"
 tags:
