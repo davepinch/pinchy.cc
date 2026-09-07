@@ -6,6 +6,7 @@ city park in:
   - Seattle
   - King County, Washington
 city park of: Pine Street
+official website: "https://www.seattle.gov/parks/parks/cal-anderson-park"
 openstreetmap: "https://www.openstreetmap.org/way/158721036"
 vicinity of: Broadway (Seattle)
 wikidata: "https://www.wikidata.org/wiki/Q12054012"
