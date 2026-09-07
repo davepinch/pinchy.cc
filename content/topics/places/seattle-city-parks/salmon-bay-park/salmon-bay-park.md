@@ -1,5 +1,6 @@
 ---
 title: "Salmon Bay Park"
+address: "2001 NW Canoe Pl., Seattle, WA 98117"
 apple maps: "https://maps.apple/p/wvETTBE.2I8a~a"
 around the canal of: VISIT SOMEWHERE NEW
 city park in:
