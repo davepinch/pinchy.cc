@@ -1,5 +1,6 @@
 ---
 title: "Interlaken Park"
+address: "2451 Delmar Dr. E, Seattle, WA 98102"
 adjacent to:
   - Louisa Boren Park
   - Montlake, Seattle
