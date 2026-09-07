@@ -2,6 +2,7 @@
 title: "Inverness Ravine Park"
 address: 8619 45th Ave NE, Seattle, WA 98115
 city park in:
+  - Wedgwood, Seattle
   - Seattle
   - King County, Washington
 official website: "https://www.seattle.gov/parks/parks/inverness-ravine-park"
