@@ -3,6 +3,7 @@ title: "If you tell the truth you don't have to remember anything."
 attribution: "Mark Twain"
 citation: >-
   Mark Twain. (2023, November 25). *Wikiquote*. Retrieved January 7, 2024 from https://en.wikiquote.org/w/index.php?title=Mark_Twain&oldid=3407072.
+quote of: Mark Twain (en.wikiquote.org)
 truth of: Mark Twain
 type: quote
 tags:

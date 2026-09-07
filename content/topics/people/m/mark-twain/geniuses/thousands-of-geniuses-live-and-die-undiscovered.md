@@ -10,6 +10,7 @@ discovered by the Civil War of:
   - William Tecumseh Sherman
   - Philip Sheridan
 geniuses of: Mark Twain
+quote of: Mark Twain (en.wikiquote.org)
 type: quote
 tags:
   - quote
