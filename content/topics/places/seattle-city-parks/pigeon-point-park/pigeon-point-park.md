@@ -5,6 +5,7 @@ city park in:
   - West Seattle
   - Seattle
   - King County, Washington
+official website: "https://www.seattle.gov/parks/parks/pigeon-point-park"
 openstreetmap: "https://www.openstreetmap.org/way/166768711"
 tags:
   - city park
