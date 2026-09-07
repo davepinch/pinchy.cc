@@ -1,5 +1,6 @@
 ---
 title: "Woodland Park"
+address: "1000 N 50th St,. Seattle, WA 98103"
 adjacent to:
   - Fremont, Seattle
   - Green Lake, Seattle
