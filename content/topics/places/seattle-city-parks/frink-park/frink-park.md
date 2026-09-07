@@ -1,5 +1,6 @@
 ---
 title: "Frink Park"
+address: "398 Lake Washington Blvd. S, Seattle, WA 98144"
 apple maps: "https://maps.apple/p/U1H-HQMFd5sTGT"
 city park in:
   - Leschi, Seattle
