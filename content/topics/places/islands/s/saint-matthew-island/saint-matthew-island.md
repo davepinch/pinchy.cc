@@ -1,5 +1,5 @@
 ---
-title: "Saint Matthew Island"
+title: "St. Matthew Island"
 island in:
   - Bering Sea
   - Pacific Ocean
