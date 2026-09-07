@@ -1,5 +1,6 @@
 ---
 title: "Wedgwood Square"
+address: "8126 31st Ave. NE, Seattle, WA 98115"
 city park in:
   - Wedgwood, Seattle
   - Seattle
