@@ -1,5 +1,6 @@
 ---
 title: "Louisa Boren Park"
+address: "1606 15th Ave. E, Seattle, WA 98112"
 adjacent to: Interlaken Park
 city park in:
   - Capitol Hill, Seattle
