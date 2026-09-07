@@ -4,11 +4,15 @@ title: >-
 attribution: "Mark Twain"
 citation: >-
   Mark Twain. (2023, November 25). *Wikiquote*. Retrieved January 7, 2024 from https://en.wikiquote.org/w/index.php?title=Mark_Twain&oldid=3407072.
+discovered by the Civil War of:
+  - Abraham Lincoln
+  - Ulysses S. Grant
+  - William Tecumseh Sherman
+  - Philip Sheridan
 geniuses of: Mark Twain
 type: quote
 tags:
   - quote
   - American Civil War
-  - Abraham Lincoln
 ---
 > The Autobiography of Mark Twain (1959 edition, edited by Charles Neider)
