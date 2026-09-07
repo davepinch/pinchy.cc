@@ -6,8 +6,8 @@ city park in:
   - Wallingford, Seattle
   - Seattle
   - King County, Washington
-city park of:
-  - Lake Union
+city park of: Lake Union
+official website: "https://www.seattle.gov/parks/parks/gas-works-park"
 openstreetmap: "https://www.openstreetmap.org/relation/1047789"
 wikidata: "https://www.wikidata.org/wiki/Q5526323"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Gas_Works_Park"
