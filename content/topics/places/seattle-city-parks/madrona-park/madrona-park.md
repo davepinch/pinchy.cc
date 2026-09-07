@@ -1,5 +1,6 @@
 ---
 title: "Madrona Park"
+address: "853 Lake Washington Blvd., Seattle, WA 98122"
 apple maps: "https://maps.apple/p/6YwvQPItVZKLoz"
 city park in:
   - Madrona, Seattle
