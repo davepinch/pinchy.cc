@@ -2,6 +2,7 @@
 title: "Licorice Fern Natural Area"
 city park in:
   - Pinehurst, Seattle
+  - Northgate, Seattle
   - Seattle
   - King County, Washington
 city park of: North Fork Thornton Creek
