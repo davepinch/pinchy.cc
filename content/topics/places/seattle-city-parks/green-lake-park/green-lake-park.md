@@ -1,5 +1,6 @@
 ---
 title: "Green Lake Park"
+address: "7201 E Green Lake Dr. N, Seattle, WA 98115"
 apple maps: "https://maps.apple/p/8CY-cTpYkbVyPG"
 city park in:
   - Green Lake, Seattle
