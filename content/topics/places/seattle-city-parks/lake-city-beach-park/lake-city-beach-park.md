@@ -1,5 +1,6 @@
 ---
 title: "Lake City Beach Park"
+address: "13000 Riviera Place NE, Seattle, WA 98125"
 adjacent to:
   - Burk-Gillman Trail
   - Lake Washington
