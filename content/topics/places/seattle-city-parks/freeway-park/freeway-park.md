@@ -1,5 +1,6 @@
 ---
 title: "Freeway Park"
+address: "700 Seneca St., Seattle, WA 98101"
 adjacent to: Interstate 5
 apple maps: "https://maps.apple/p/h5nS8Yb7TF.Nzg"
 city park in:
