@@ -9,7 +9,7 @@ city park in:
   - Ballard, Seattle
   - Seattle
   - King County, Washington
-official website: "https://www.seattle.gov/parks/allparks/golden-gardens-park"
+official website: "https://www.seattle.gov/parks/parks/golden-gardens-park"
 openstreetmap: "https://www.openstreetmap.org/way/159483662"
 vantage point of:
   - Olympic Mountains
