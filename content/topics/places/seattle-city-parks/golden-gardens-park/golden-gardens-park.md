@@ -1,5 +1,6 @@
 ---
 title: "Golden Gardens Park"
+address: "8498 Seaview Pl. NW, Seattle, WA 98117"
 apple maps: "https://maps.apple/p/DHDbPojURG1S_n"
 adjacent to:
   - Blue Ridge, Seattle
