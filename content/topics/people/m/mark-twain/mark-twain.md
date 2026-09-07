@@ -11,7 +11,6 @@ died on: 1910-04-21
 WAKE UP: The Mysterious Stranger
 wikidata: "https://www.wikidata.org/wiki/Q7245"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mark_Twain"
-wikiquote: "https://en.wikiquote.org/wiki/Mark_Twain"
 wikisource: "https://en.wikisource.org/wiki/Author:Samuel_Langhorne_Clemens"
 tags:
   - American
