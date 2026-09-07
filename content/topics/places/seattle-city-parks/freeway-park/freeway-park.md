@@ -7,6 +7,7 @@ city park in:
   - Seattle
   - King County, Washington
 city park of: Seattle Convention Center
+official website: "https://www.seattle.gov/parks/parks/freeway-park"
 openstreetmap: "https://www.openstreetmap.org/relation/7152576"
 wikidata: "https://www.wikidata.org/wiki/Q5501246"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Freeway_Park,_Seattle"
