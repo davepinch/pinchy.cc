@@ -7,6 +7,7 @@ city park in:
   - King County, Washington
 city park of: Green Lake
 connects to: Woodland Park
+official website: "https://www.seattle.gov/parks/parks/green-lake-park"
 openstreetmap: "https://www.openstreetmap.org/relation/6580044"
 wikidata: "https://www.wikidata.org/wiki/Q123146717"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Green_Lake_Park_(Seattle)"
