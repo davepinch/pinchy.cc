@@ -1,5 +1,6 @@
 ---
 title: "Plymouth Pillars Park"
+address: "1050 Pike St., Seattle, WA 98101"
 apple maps: "https://maps.apple/p/XqzjgJp-XLUAVi"
 city park in:
   - Capitol Hill, Seattle
