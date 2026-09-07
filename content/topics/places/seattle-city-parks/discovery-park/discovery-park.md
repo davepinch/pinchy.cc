@@ -1,5 +1,6 @@
 ---
 title: "Discovery Park"
+address: "3801 Discovery Park Blvd., Seattle, WA 98199"
 apple maps: "https://maps.apple/p/UuAyco9iJWI6iT"
 city park in:
   - Magnolia, Seattle
