@@ -1,5 +1,6 @@
 ---
 title: "Seward Park"
+address: "5900 Lake Washington Blvd. S, Seattle, WA 98118"
 apple maps: "https://maps.apple/p/XtAIT_Loy6fGd9"
 city park in:
   - Seward Park, Seattle
