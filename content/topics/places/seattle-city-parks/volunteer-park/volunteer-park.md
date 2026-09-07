@@ -1,5 +1,6 @@
 ---
 title: "Volunteer Park"
+address: "1247 15th Ave. E, Seattle, WA 98112"
 apple maps: "https://maps.apple/p/.U-pIPsyvY9YKq"
 city park in:
   - Capitol Hill, Seattle
