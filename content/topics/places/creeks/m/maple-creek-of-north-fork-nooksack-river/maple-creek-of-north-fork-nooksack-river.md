@@ -1,5 +1,5 @@
 ---
-title: "Maple Creek"
+title: "Maple Creek (North Fork Nooksack River tributary)"
 creek in:
   - Whatcom County, Washington
   - Washington

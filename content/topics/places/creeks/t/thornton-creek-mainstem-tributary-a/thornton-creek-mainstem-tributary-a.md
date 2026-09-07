@@ -18,7 +18,7 @@ openstreetmap:
   - "[culvert under Sandy Point Way NE](https://www.openstreetmap.org/way/478498610)"
   - "[Sandy Point Way NE to Thornton Creek (unlabeled)](https://www.openstreetmap.org/way/478498611)"
 tributary of:
-  - Maple Creek
+  - Maple Creek (Thornton Creek tributary)
   - Thornton Creek
 tags:
   - creek
