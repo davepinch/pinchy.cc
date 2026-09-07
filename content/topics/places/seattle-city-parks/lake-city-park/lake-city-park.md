@@ -2,6 +2,8 @@
 title: "Lake City Park"
 address: 12510 33rd Ave NE, Seattle, WA 98125
 city park in:
+  - Cedar Park, Seattle
+  - Lake City, Seattle
   - Seattle
   - King County, Washington
 note: OSM indicates the park does not have a name yet (September 2026).
