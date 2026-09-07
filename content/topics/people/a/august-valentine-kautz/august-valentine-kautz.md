@@ -4,6 +4,7 @@ born in: Germany
 died in:
   - Seattle
   - United States
+person of: American Civil War
 wikidata: "https://www.wikidata.org/wiki/Q214511"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:August_Kautz"
 tags:

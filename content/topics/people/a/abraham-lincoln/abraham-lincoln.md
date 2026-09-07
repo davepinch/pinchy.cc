@@ -8,6 +8,7 @@ born in:
 member of:
   - Whig Party
   - Republican Party
+person of: American Civil War
 president of: United States
 wikidata: "https://www.wikidata.org/wiki/Q91"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Abraham_Lincoln"
