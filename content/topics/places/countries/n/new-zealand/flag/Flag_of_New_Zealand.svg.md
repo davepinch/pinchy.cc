@@ -4,9 +4,9 @@ author: multiple (see website)
 flag of:
   - New Zealand
   - Crux
-  - Union Jack
   - SVG
 license: public domain
+new zealand of: Union Jack
 picture: "https://upload.wikimedia.org/wikipedia/commons/3/3e/Flag_of_New_Zealand.svg"
 type: picture
 url: /commons.wikimedia.org/wiki/Flag_of_New_Zealand.svg/
