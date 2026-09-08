@@ -7,7 +7,7 @@ retrieved: 2026-09-07
 type: website
 url: /en.wikiquote.org/wiki/Sam_Bankman-Fried/
 website: "https://en.wikiquote.org/wiki/Sam_Bankman-Fried"
-wikipedia of: Sam Bankman-Fried
+wikiquote of: Sam Bankman-Fried
 tags:
   - website
   - Wikiquote
