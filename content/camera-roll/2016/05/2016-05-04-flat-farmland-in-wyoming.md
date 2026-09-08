@@ -1,12 +1,13 @@
 ---
 title: "Flat farmland in Wyoming"
 caption: "The horizon is flat and the sky is blue and sunny with a few clouds. Old farm equipment is scattered around patches of wheat."
+farmland in:
+  - Wheatland, Wyoming
+  - Wyoming
 license: public domain
 photograph of:
   - farmland
   - sky
-  - Wheatland, Wyoming
-  - Wyoming
 picture: content/camera-roll/2016/05/2016-05-04-flat-farmland-in-wyoming/2016-05-04-flat-farmland-in-wyoming.jpg
 related:
   - Flat farmland in Wyoming (fence)
