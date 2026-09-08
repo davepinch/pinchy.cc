@@ -7,7 +7,9 @@ retrieved: 2026-09-07
 type: website
 url: /en.wikipedia.org/wiki/Sicily/
 website: "https://en.wikipedia.org/wiki/Sicily"
-wikipedia of: Sicily
+wikipedia of:
+  - Sicily (island)
+  - Sicily (region)
 tags:
   - Wikipedia
 ---
