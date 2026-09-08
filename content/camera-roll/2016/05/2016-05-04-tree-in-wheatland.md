@@ -1,12 +1,12 @@
 ---
 title: "Tree in Wheatland"
-photograph of:
-  - tree
-  - Wheatland, Wyoming
-  - Wyoming
+photograph of: tree
 picture: content/camera-roll/2016/05/2016-05-04-tree-in-wheatland/20160505_014658020_iOS.jpg
 related: Wheatland, Wyoming (Wikipedia)
 thumbnail: content/camera-roll/2016/05/2016-05-04-tree-in-wheatland/20160505_014658020_iOS-thumbnail.jpg
+tree in:
+  - Wheatland, Wyoming
+  - Wyoming
 type: picture
 when: 2016-05-04
 tags:
