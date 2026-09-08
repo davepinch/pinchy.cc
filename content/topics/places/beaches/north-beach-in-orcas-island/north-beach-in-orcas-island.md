@@ -11,4 +11,6 @@ wikidata: "https://www.wikidata.org/wiki/Q49322287"
 tags:
   - beach
   - disambiguation
+  - no Wikimedia category
+  - no Wikipedia article
 ---
