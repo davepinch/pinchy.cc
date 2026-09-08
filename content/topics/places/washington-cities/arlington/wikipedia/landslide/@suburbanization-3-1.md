@@ -7,6 +7,7 @@ landslide of:
   - North Fork Stillaguamish River
   - Stillaguamish River
   - Oso, Washington
+landslide in the vacinity of: Arlington, Washington
 snippet of: Arlington, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Arlington,_Washington/@suburbanization-and-present-day-3-1/

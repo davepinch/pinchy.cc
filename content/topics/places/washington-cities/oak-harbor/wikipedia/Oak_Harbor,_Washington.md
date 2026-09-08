@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2024-09-27
 type: website
 url: /en.wikipedia.org/wiki/Oak_Harbor,_Washington/
-website: "https://en.wikipedia.org/wiki/Oak_Harbor%2C_Washington"
+website: "https://en.wikipedia.org/wiki/Oak_Harbor,_Washington"
 wikipedia of: Oak Harbor, Washington
 tags:
   - Wikipedia

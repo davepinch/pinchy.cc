@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2024-09-27
 type: website
 url: /en.wikipedia.org/wiki/Sumas,_Washington/
-website: "https://en.wikipedia.org/wiki/Sumas%2C_Washington"
+website: "https://en.wikipedia.org/wiki/Sumas,_Washington"
 wikipedia of: Sumas, Washington
 tags:
   - Wikipedia

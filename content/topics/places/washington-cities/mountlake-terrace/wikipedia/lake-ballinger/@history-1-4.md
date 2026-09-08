@@ -4,6 +4,7 @@ title: >-
 citation: >-
   Wikipedia contributors. (2024, March 23). Mountlake Terrace, Washington. In *Wikipedia, The Free Encyclopedia*. Retrieved March 24, 2024, from https://en.wikipedia.org/w/index.php?title=Mountlake_Terrace,_Washington&oldid=1215105536
 history of: Lake Ballinger
+lake ballinger of: Mountlake Terrace, Washington
 snippet of: Mountlake Terrace, Washington (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Mountlake_Terrace,_Washington/@history-1-4/
