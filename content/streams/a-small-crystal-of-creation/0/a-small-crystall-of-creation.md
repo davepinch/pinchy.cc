@@ -40,6 +40,4 @@ unedited first draft:
   - Duck, said God, and God harder than ever.
 type: title
 when: 2025-12-25
-tags:
-  - footer
 ---
