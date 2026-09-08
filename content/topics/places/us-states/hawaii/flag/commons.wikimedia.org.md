@@ -2,8 +2,8 @@
 title: "Flag_of_Hawaii.svg (Wikimedia Commons)"
 flag of:
   - Hawaii
-  - Union Jack
   - SVG
+hawaii of: Union Jack
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/ef/Flag_of_Hawaii.svg"
 type: picture
