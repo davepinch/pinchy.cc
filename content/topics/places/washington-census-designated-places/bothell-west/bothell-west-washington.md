@@ -15,9 +15,11 @@ census-designated place in:
   - Snohomish County, Washington
   - Washington
 census-designated place of: United States Census Bureau
+disambiguation of: Bothell
 openstreetmap: "https://www.openstreetmap.org/relation/18393641"
 opposite: Bothell East, Washington
 wikidata: "https://www.wikidata.org/wiki/Q5732724"
 tags:
   - census-designated place
+  - disambiguation
 ---
