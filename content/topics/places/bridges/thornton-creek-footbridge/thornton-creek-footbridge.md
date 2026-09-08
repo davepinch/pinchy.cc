@@ -11,4 +11,6 @@ openstreetmap: "https://www.openstreetmap.org/way/954451379"
 tags:
   - bridge
   - no Wikidata record
+  - no Wikimedia category
+  - no Wikipedia article
 ---
