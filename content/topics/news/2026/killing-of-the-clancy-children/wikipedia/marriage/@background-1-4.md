@@ -8,6 +8,7 @@ marriage of:
   - Lindsay Clancy
   - Patrick Clancy
 snippet of: Killing of the Clancy children (Wikipedia)
+timeline of: Killing of the Clancy children
 type: snippet
 url: /en.wikipedia.org/wiki/Killing_of_the_Clancy_children/@background-1-4/
 when: 2016-12-03

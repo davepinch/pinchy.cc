@@ -7,6 +7,7 @@ license: CC BY-SA 4.0
 prescribed by: Jennifer Tufts
 prescription of: Lindsay Clancy
 snippet of: Killing of the Clancy children (Wikipedia)
+timeline of: Killing of the Clancy children
 type: snippet
 url: /en.wikipedia.org/wiki/Killing_of_the_Clancy_children/@september-to-november-2022-2-5/
 when: 2022-10-26
