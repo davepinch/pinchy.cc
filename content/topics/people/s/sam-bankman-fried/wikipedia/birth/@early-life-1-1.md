@@ -9,6 +9,7 @@ license: CC BY-SA 4.0
 snippet of: Sam Bankman-Fried (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Sam_Bankman-Fried/@early-life-1-1/
+when: 1992-03-05
 tags:
   - snippet
   - birth
