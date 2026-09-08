@@ -16,7 +16,7 @@ watershed in:
   - Lake City Park
   - LaVilla Meadows Natural Area
   - Licorice Fern Natural Area
-  - Lincton Springs Park
+  - Licton Springs Park
   - Little Brook Creek Natural Area
   - Little Brook Park
   - Maple Springs Natural Area
