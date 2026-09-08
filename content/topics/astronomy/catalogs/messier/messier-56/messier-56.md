@@ -6,6 +6,7 @@ globular cluster of:
   - Lyra
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13967"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_56"
 tags:
   - globular cluster
   - Messier object

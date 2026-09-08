@@ -6,6 +6,7 @@ globular cluster of:
   - Aquarius
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q14008"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_72"
 tags:
   - globular cluster
   - Messier object

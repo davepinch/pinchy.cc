@@ -8,6 +8,7 @@ nebula of:
   - Milky Way
 NGC: NGC 1976
 wikidata: "https://www.wikidata.org/wiki/Q13903"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Orion_Nebula"
 tags:
   - nebula
   - Messier object

@@ -6,6 +6,7 @@ globular cluster of:
   - Sagittarius
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q14004"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_70"
 tags:
   - globular cluster
   - Messier object

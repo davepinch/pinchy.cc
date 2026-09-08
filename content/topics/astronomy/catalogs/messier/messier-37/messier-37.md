@@ -6,6 +6,7 @@ open cluster of:
   - Auriga
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13878"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_37"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_37"
 tags:
   - open cluster

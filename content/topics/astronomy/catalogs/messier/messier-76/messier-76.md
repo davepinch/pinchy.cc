@@ -6,6 +6,7 @@ planetary nebula of:
   - Perseus
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q14015"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Little_Dumbbell_Nebula"
 tags:
   - planetary nebula
   - Messier object

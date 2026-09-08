@@ -6,6 +6,7 @@ globular cluster of:
   - Ophiuchus
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q4755"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_107"
 tags:
   - globular cluster
   - Messier object

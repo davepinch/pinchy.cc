@@ -5,6 +5,7 @@ title: "Messier 60"
 galaxy in: Virgo Cluster
 galaxy of: Virgo
 wikidata: "https://www.wikidata.org/wiki/Q13976"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_60"
 tags:
   - elliptical galaxy
   - Messier object

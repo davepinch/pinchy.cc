@@ -6,6 +6,7 @@ open cluster of:
   - Cygnus
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13647"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_29"
 tags:
   - open cluster
   - Messier object

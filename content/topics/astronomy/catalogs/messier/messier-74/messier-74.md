@@ -4,6 +4,7 @@ title: "Messier 74"
 ➡️: Messier 75
 spiral galaxy of: Pisces
 wikidata: "https://www.wikidata.org/wiki/Q14013"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_74"
 tags:
   - spiral galaxy
   - Messier object

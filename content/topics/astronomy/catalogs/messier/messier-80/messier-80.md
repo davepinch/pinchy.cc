@@ -6,6 +6,7 @@ globular cluster of:
   - Scorpius
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q14021"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_80"
 tags:
   - globular cluster
   - Messier object

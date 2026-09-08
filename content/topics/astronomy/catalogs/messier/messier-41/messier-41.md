@@ -6,6 +6,7 @@ open cluster of:
   - Canis Major
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13897"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_41"
 tags:
   - open cluster
   - Messier object

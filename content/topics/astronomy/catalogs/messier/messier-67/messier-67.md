@@ -6,6 +6,7 @@ open cluster of:
   - Cancer
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13997"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_67"
 tags:
   - open cluster
   - Messier object

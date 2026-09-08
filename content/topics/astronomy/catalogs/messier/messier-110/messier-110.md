@@ -6,6 +6,7 @@ galaxy of:
   - Local Group
 satellite of: Andromeda Galaxy
 wikidata: "https://www.wikidata.org/wiki/Q4662"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_110"
 tags:
   - galaxy
   - Messier object

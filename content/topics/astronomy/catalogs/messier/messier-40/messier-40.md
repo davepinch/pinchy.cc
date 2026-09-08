@@ -5,6 +5,7 @@ title: "Messier 40"
 winnecke: 4
 optical double star of: Ursa Major
 wikidata: "https://www.wikidata.org/wiki/Q13886"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_40"
 tags:
   - optical double star
   - Messier object

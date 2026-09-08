@@ -12,6 +12,7 @@ other names:
   - RCW 146
   - Gum 72
 wikidata: "https://www.wikidata.org/wiki/Q11243"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Lagoon_Nebula"
 tags:
   - nebula
   - Messier object

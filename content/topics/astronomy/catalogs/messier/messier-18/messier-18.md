@@ -6,6 +6,7 @@ open cluster of:
   - Sagittarius
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q11370"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_18"
 tags:
   - open cluster
   - Messier object

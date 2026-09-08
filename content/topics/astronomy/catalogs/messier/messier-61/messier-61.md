@@ -5,6 +5,7 @@ title: "Messier 61"
 galaxy in: Virgo Cluster
 galaxy of: Virgo
 wikidata: "https://www.wikidata.org/wiki/Q13978"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_61"
 tags:
   - galaxy
   - Messier object

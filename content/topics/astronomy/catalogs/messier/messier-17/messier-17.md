@@ -13,6 +13,7 @@ other names:
   - Omega Nebula
   - Swan Nebula
 wikidata: "https://www.wikidata.org/wiki/Q11357"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Omega_Nebula"
 wikipedia: "https://en.wikipedia.org/wiki/Omega_Nebula"
 tags:
   - nebula

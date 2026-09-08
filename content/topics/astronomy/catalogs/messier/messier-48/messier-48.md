@@ -6,6 +6,7 @@ open cluster of:
   - Hydra
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13951"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_48"
 tags:
   - open cluster
   - Messier object

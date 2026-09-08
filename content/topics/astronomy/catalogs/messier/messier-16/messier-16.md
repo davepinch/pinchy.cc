@@ -10,6 +10,7 @@ other names:
   - NGC 6611
   - Star Queen Nebula
 wikidata: "https://www.wikidata.org/wiki/Q11349"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Eagle_Nebula"
 wikipedia: "https://en.wikipedia.org/wiki/Eagle_Nebula"
 tags:
   - open cluster

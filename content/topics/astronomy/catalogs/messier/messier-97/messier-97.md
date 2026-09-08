@@ -9,6 +9,7 @@ other names:
   - Owl Nebula
   - NGC 3587
 wikidata: "https://www.wikidata.org/wiki/Q14359"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Owl_Nebula"
 tags:
   - nebula
   - Messier object

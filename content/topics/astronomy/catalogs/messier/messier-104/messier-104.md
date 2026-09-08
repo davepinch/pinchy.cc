@@ -9,6 +9,7 @@ galaxy of:
   - Virgo
   - Corvus
 wikidata: "https://www.wikidata.org/wiki/Q91461627"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Sombrero_Galaxy"
 tags:
   - galaxy
   - Messier object

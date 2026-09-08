@@ -7,6 +7,7 @@ globular cluster of:
   - Serpens Caput
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q11217"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_5"
 tags:
   - globular cluster
   - Messier object

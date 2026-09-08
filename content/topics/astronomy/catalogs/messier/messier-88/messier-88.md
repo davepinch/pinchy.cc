@@ -5,6 +5,7 @@ title: "Messier 88"
 galaxy in: Virgo Cluster
 galaxy of: Coma Berenices
 wikidata: "https://www.wikidata.org/wiki/Q14048"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_88"
 tags:
   - galaxy
   - Messier object

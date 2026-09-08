@@ -6,6 +6,7 @@ globular cluster of:
   - Capricornus
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q13653"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_30"
 wikipedia: "https://en.wikipedia.org/wiki/Messier_30"
 tags:
   - globular cluster

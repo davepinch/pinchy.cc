@@ -10,6 +10,7 @@ other names:
   - Trifid Nebula
   - NGC 6514
 wikidata: "https://www.wikidata.org/wiki/Q11377"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Trifid_Nebula"
 tags:
   - nebula
   - Messier object

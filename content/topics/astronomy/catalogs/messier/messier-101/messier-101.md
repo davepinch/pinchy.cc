@@ -7,6 +7,7 @@ other names:
   - Pinwheel Galaxy
   - NGC 5457
 wikidata: "https://www.wikidata.org/wiki/Q14371"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Pinwheel_Galaxy"
 tags:
   - galaxy
   - Messier object
