@@ -17,7 +17,7 @@ openstreetmap:
 trail in:
   - Discovery Park
   - Magnolia, Seattle
-  - Seattle, Washington
+  - Seattle
   - King County, Washington
   - Washington
 vantage point of: Owl's Creek
