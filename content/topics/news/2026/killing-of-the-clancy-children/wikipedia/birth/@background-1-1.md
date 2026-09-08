@@ -7,6 +7,7 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: Killing of the Clancy children (Wikipedia)
 type: snippet
+url: /en.wikipedia.org/wiki/Killing_of_the_Clancy_children/@background-1-1/
 when: 1990-08-11
 tags:
   - snippet
