@@ -1,6 +1,7 @@
 ---
 title: "Callan Clancy"
 murdered by: Lindsay Clancy
+person of: Killing of Clancy children
 third child of:
   - Lindsay Clancy
   - Patrick Clancy

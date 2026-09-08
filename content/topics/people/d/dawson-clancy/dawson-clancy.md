@@ -1,6 +1,7 @@
 ---
 title: "Dawson Clancy"
 murdered by: Lindsay Clancy
+person of: Killing of Clancy children
 second child of:
   - Lindsay Clancy
   - Patrick Clancy
