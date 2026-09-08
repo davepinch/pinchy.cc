@@ -4,7 +4,7 @@ author: David Pinch
 description: "A view of the trees along a trail in Grace Cole Nature Park of Lake Forest Park, Washington. It is January but no snow is on the ground. The sky is cloudy. Bright green moss can be seen on a few trees."
 license: CC BY-SA 4.0
 picture: "https://upload.wikimedia.org/wikipedia/commons/5/51/Trees_of_Grace_Cole_Nature_Park.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Trees_of_Grace_Cole_Nature_Park.jpg/320px-Trees_of_Grace_Cole_Nature_Park.jpg"
+thumbnail: "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Trees_of_Grace_Cole_Nature_Park.jpg/330px-Trees_of_Grace_Cole_Nature_Park.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 trees of:
   - Grace Cole Nature Park
   - Lake Forest Park, Washington

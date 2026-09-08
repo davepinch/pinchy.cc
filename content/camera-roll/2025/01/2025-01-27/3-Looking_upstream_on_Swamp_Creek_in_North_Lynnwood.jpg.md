@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 north lynnwood of: Swamp Creek
 parking: "https://www.openstreetmap.org/way/6124086"
 picture: "https://upload.wikimedia.org/wikipedia/commons/d/db/Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg/320px-Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
+thumbnail: "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg/330px-Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg"

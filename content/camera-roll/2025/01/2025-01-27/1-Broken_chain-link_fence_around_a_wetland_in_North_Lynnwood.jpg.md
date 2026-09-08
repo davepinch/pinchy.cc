@@ -6,7 +6,7 @@ description: "This chain-link fence surrounds a wetland between WA 525 and Inter
 license: CC BY-SA 4.0
 parking: "https://www.openstreetmap.org/way/6124086"
 picture: "https://upload.wikimedia.org/wikipedia/commons/e/e4/Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg/320px-Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg"
+thumbnail: "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e4/Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg/330px-Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg/
 website: "https://commons.wikimedia.org/wiki/File:Broken_chain-link_fence_around_a_wetland_in_North_Lynnwood.jpg"

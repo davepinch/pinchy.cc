@@ -6,7 +6,7 @@ description: "This was taken from a small wetland near the interchange of WA 525
 license: CC BY-SA 4.0
 parking: "https://www.openstreetmap.org/way/6124086"
 picture: "https://upload.wikimedia.org/wikipedia/commons/a/a8/On_a_culvert_looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
-thumbnail: "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/On_a_culvert_looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg/320px-On_a_culvert_looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
+thumbnail: "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/On_a_culvert_looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg/330px-On_a_culvert_looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg?utm_source=commons.wikimedia.org&utm_campaign=index&utm_content=thumbnail"
 type: picture
 url: /commons.wikimedia.org/wiki/On_a_culvert_looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg/
 website: "https://commons.wikimedia.org/wiki/File:On_a_culvert_looking_upstream_on_Swamp_Creek_in_North_Lynnwood.jpg"
