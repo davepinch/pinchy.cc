@@ -1,5 +1,5 @@
 ---
-title: "Key Rood"
+title: "Kay Rood"
 writer of: HistoryLink.org
 tags:
   - person
