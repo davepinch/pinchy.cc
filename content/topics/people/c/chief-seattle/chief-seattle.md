@@ -1,5 +1,6 @@
 ---
 title: "Chief Seattle"
+friend to: David Swinson Maynard
 person of:
   - Seattle
   - Washington
