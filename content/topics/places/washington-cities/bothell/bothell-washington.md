@@ -14,6 +14,7 @@ city of:
   - Washington
   - Interstate 405
   - Washington State Route 522
+disambiguation of: Bothell
 openstreetmap: "https://www.openstreetmap.org/relation/237656"
 suburb of: Seattle
 vicinity to:
@@ -26,4 +27,5 @@ wikidata: "https://www.wikidata.org/entity/Q303046"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bothell,_Washington"
 tags:
   - city
+  - disambiguation
 ---
