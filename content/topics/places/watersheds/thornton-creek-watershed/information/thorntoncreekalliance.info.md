@@ -10,6 +10,8 @@ mention of:
   - Seattle
   - Shoreline, Washington
   - Thornton Creek
+note:
+  - The watershed map on this web page labels the area around Meadowbrook Pond as the Meadowbrook Pond Natural Area. This name is not listed on OSM, Google, or the Seattle website.
 type: website
 url: /thorntoncreekalliance.info/the-watershed/
 website: "https://thorntoncreekalliance.info/the-watershed/"
