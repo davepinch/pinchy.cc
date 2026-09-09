@@ -7,7 +7,7 @@ retrieved: 2026-09-04
 type: website
 url: /en.wikipedia.org/wiki/Depression_(geology)/
 website: "https://en.wikipedia.org/wiki/Depression_(geology)"
-wikipedia of: Depression (geology)
+wikipedia of: depression (landform)
 tags:
   - Wikipedia
 ---
