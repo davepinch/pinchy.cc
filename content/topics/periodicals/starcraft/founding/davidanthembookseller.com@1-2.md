@@ -7,7 +7,7 @@ founding of:
   - Kenneth M. Kellar
 snippet of: "https://www.davidanthembookseller.com/pages/books/12140/dr-marianne-francis/starcraft-nine-issues-in-five-vols"
 type: snippet
-url: /www.davidanthembookseller.com/pages/books/12140/dr-marianne-francis/starcraft-nine-issues-in-five-vols/@1-4/
+url: /www.davidanthembookseller.com/pages/books/12140/dr-marianne-francis/starcraft-nine-issues-in-five-vols/@1-2/
 tags:
   - snippet
 ---
