@@ -1,5 +1,5 @@
 ---
-title: "length of Aurora Bridge (seattle.gov)"
+title: "streetcar tracks of Aurora Bridge (seattle.gov)"
 ✂️: "The demise Of the streetcar in Seattle was foreshadowed in this bridge, the first to be built without tracks."
 demise of the streetcar in: Seattle
 snippet of: "george-wa-memorial-bridge-designation-nomination.pdf"
