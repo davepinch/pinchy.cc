@@ -9,7 +9,7 @@ timeline of:
   - Lindsay Clancy
   - Killing of the Clancy children
 type: snippet
-url: /en.wikipedia.org/wiki/Killing_of_the_Clancy_children/@december-2023-1-1/
+url: /en.wikipedia.org/wiki/Killing_of_the_Clancy_children/@january-2023-1-1/
 when: 2022-12-31
 tags:
   - snippet
