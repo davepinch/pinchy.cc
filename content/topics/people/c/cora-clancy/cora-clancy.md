@@ -4,7 +4,7 @@ first child of:
   - Lindsay Clancy
   - Patrick Clancy
 murdered by: Lindsay Clancy
-person of: Killing of Clancy children
+person of: Killing of the Clancy children
 tags:
   - person
   - murdered
