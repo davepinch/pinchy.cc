@@ -7,7 +7,7 @@ retrieved: 2026-09-01
 type: website
 url: /en.wikipedia.org/wiki/Pipers_Creek_(Seattle)/
 website: "https://en.wikipedia.org/wiki/Pipers_Creek_(Seattle)"
-wikipedia of: Pipers Creek (Seattle)
+wikipedia of: Pipers Creek
 tags:
   - Wikipedia
 ---
