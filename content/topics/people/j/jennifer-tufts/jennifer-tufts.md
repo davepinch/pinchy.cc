@@ -1,6 +1,6 @@
 ---
 title: "Jennifer Tufts"
-person of: Killing of Clancy children
+person of: Killing of the Clancy children
 psychiatrist of: Lindsay Clancy
 tags:
   - person
