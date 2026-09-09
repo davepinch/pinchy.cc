@@ -1,5 +1,5 @@
 ---
-title: "name change of Marianne Francis (davidanthembookseller.com)"
+title: "founding of Marianne Francis (davidanthembookseller.com)"
 ✂️: "Starcraft was the newsletter of the Solar Light Center founded by Marianne Francis and husband Kenneth Kellar in Oregon in 1966."
 founding of:
   - Starcraft (periodical)
