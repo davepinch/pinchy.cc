@@ -2,6 +2,39 @@
 title: "Scratchpad"
 draft: true
 ---
+9/9
+
+title: "James' Lucid dream"
+You go into this weird sleep state where you hear a lot of sounds -- buzzing like a bumble bee, popping sounds. It got more and more intenense and felt weird sensations. Then, you would start to see shadows and shapes as the world is being built. Then finally yo ucan see textures that are kinda blurry, and get more and more focused. After a minute or so of that, it was more clear, and I was in a room. I knew I was fully dreaming and could walk around and interact with stuff. Now I cound control objects, like insert an object. Could not change them. I would go in and out of being lucide. I would be lucid for 5 minutes, in and out, in and out, then I got kicked out of it. 
+
+What was the room like?
+Everyone was kind of blurry. It was just really cool looking textures with random colors. Kind of like whenyou mix a bunch of colors of paint together.
+
+What was really creepy - as I was going into the dream, I could hear voices of people talking. it was really creepy. I could not understand them. WHispering, talking, muffl,y but clearly people talking. Whie the dream is taking form, I could hear them talking.
+
+I could walk around, I could actually feel the wall and everything. 
+
+Since I knew I was dreaming, let's walk through the wall, and was able to do it. Ended up in a diffrent room, random. 
+
+Was it the same kind of room? Don't remember.
+
+Then there was a whole bunch of stuff that happened but I was not lucid. Underwater drop-off. Ended up in water for no reason.
+
+What did you do to get into the lucid dream?
+Usually i have to fall asleep first, then wake up, and while half awake drift off again.
+
+Exploding Head syndrome. When you hear the sounds like gunshots, banging, pounding.
+
+Usually that occurs in the dream while going into it.
+
+It started to happen and I realized when I saw shadows and different textures. Usually i don't get this far into it. Once I started seeing the objects and things forming, I realized I was going into it.
+
+I am going to try again tonight.
+
+---
+
+the most important thing you can do it focus on it. Say to yourself when you go to bed that you're going to have a lucid dream. 
+
 
 7/22
 facebook: "https://www.facebook.com/groups/105660393253/"
