@@ -10,7 +10,7 @@ timeline of:
   - Jennifer Tufts
   - Lindsay Clancy
 type: snippet
-url: /en.wikipedia.org/wiki/Killing_of_the_Clancy_children/@january-2023-3/
+url: /en.wikipedia.org/wiki/Killing_of_the_Clancy_children/@january-2023-2-2-b/
 when: 2023-01-16
 tags:
   - snippet
