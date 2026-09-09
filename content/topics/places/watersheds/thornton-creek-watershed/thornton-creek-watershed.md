@@ -22,7 +22,7 @@ watershed in:
   - Maple Springs Natural Area
   - Matthews Beach Park
   - Meadowbrook Playfield
-  - Meadowbrook Pond Natural Area
+  - Meadowbrook Pond
   - Meridian Park
   - Mineral Springs Park
   - Mock Creek Ravine
