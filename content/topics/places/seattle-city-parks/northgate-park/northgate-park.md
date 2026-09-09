@@ -5,7 +5,7 @@ apple maps: "https://maps.apple/p/_kfWssWSc_3D~J"
 city park in:
   - Northgate, Seattle
   - Seattle
-  - King County, Washingotn
+  - King County, Washington
 official website: "https://www.seattle.gov/parks/parks/northgate-park"
 openstreetmap: "https://www.openstreetmap.org/way/35090134"
 tags:
