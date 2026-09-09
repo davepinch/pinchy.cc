@@ -7,8 +7,8 @@ license: CC BY-SA 4.0
 prescription of: Lindsay Clancy
 snippet of: Killing of the Clancy children (Wikipedia)
 timeline of:
-  - Lindsay Clancy
   - Killing of the Clancy children
+  - Lindsay Clancy
 type: snippet
 url: /en.wikipedia.org/wiki/Killing_of_the_Clancy_children/@january-2023-1-7/
 when: 2023-01-05

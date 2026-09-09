@@ -6,8 +6,8 @@ citation: >-
 license: CC BY-SA 4.0
 snippet of: Killing of the Clancy children (Wikipedia)
 timeline of:
-  - Lindsay Clancy
   - Killing of the Clancy children
+  - Lindsay Clancy
 type: snippet
 url: /en.wikipedia.org/wiki/Killing_of_the_Clancy_children/@december-2022-3-1/
 when: 2022-12-20
