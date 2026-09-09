@@ -10,6 +10,7 @@ citation: >-
 timeline of: Killing of the Clancy children
 type: quote
 url: /my-wife-is-not-bipolar/
+when: 2022-12-06
 tags:
   - quote
 ---
