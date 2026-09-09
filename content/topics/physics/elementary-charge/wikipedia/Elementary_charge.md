@@ -7,7 +7,7 @@ retrieved: 2026-09-07
 type: website
 url: /en.wikipedia.org/wiki/Elementary_charge/
 website: "https://en.wikipedia.org/wiki/Elementary_charge"
-wikipedia of: Elementary charge
+wikipedia of: elementary charge
 tags:
   - Wikipedia
 ---
