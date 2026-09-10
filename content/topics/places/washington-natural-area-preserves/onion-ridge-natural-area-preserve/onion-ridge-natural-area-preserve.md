@@ -6,6 +6,10 @@ natural area preserve (proposed) in:
   - Stevens County, Washington
   - Washington
 natural area preserve of: Washington Department of Natural Resources
+openstreetmap:
+  - "note: Based on the parcel map found on the DNR website, the following tracks on OpenStreetMap are located within the proposed property. These tracks can be reached via Clugston Onion Creek Road (road conditions unknown)."
+  - "[track located in the property](https://www.openstreetmap.org/way/1321940031)"
+  - "[track located in the property](https://www.openstreetmap.org/way/1321940032)"
 tags:
   - Washington Natural Area Preserve
 ---
