@@ -16,7 +16,6 @@ state park of:
   - Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q812894"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Beacon_Rock_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Beacon_Rock_State_Park"
 tags:
   - state park
   - Discover Pass required
