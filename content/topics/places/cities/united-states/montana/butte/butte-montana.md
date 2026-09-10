@@ -11,4 +11,5 @@ wikisource: "https://en.wikisource.org/wiki/Portal:Butte,_Montana"
 wikivoyage: "https://en.wikivoyage.org/wiki/Butte"
 tags:
   - city
+  - disambiguation
 ---
