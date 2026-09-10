@@ -11,7 +11,7 @@ state park of:
   - Washington State Parks and Recreation Commission
   - Saratoga Passage
   - Puget Sound
-vicinity to: Cama Beach State Park
+vicinity to: Cama Beach Historical State Park
 wikidata: "https://www.wikidata.org/wiki/Q5024930"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Camano_Island_State_Park"
 tags:
