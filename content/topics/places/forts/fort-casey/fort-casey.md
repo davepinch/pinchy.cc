@@ -8,7 +8,6 @@ fort in:
 openstreetmap: "https://www.openstreetmap.org/node/6781451899"
 wikidata: "https://www.wikidata.org/wiki/Q261208"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Fort_Casey"
-wikipedia: "https://en.wikipedia.org/wiki/Fort_Casey"
 tags:
   - fort
 ---
