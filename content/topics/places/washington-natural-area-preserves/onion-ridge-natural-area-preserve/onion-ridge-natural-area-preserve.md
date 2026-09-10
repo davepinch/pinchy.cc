@@ -2,7 +2,7 @@
 title: "Onion Ridge Natural Area Preserve"
 description: A proposed Washington Natural Area Preserved in Stevens County, Washington.
 coordinates: 48.79122347,-117.89004689
-natural area preserve (proposed) in:
+natural area preserve in:
   - Stevens County, Washington
   - Washington
 natural area preserve of: Washington Department of Natural Resources
@@ -11,5 +11,7 @@ openstreetmap:
   - "[track located in the property](https://www.openstreetmap.org/way/1321940031)"
   - "[track located in the property](https://www.openstreetmap.org/way/1321940032)"
 tags:
+  - proposed
   - Washington Natural Area Preserve
+  - no Wikidata record
 ---
