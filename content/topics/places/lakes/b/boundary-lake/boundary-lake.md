@@ -7,9 +7,7 @@ lake in:
   - Washington
 lake in the watercourse of: Pend Oreille River
 openstreetmap: "https://www.openstreetmap.org/relation/228113"
-vicinity to:
-  - Canada
-  - Crawford State Park
+vicinity to: Crawford State Park Heritage Site
 tags:
   - lake
   - lake in the watercourse

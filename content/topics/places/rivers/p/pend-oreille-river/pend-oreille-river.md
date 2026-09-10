@@ -14,8 +14,7 @@ river in:
   - Canada
   - Rocky Mountains
 tributary of: Columbia River
-vicinity to:
-  - Crawford State Park
+vicinity to: Crawford State Park Heritage Site
 wikidata: "https://www.wikidata.org/wiki/Q270499"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pend_Oreille_River"
 tags:
