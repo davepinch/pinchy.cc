@@ -2,7 +2,7 @@
 title: "Onion Ridge Proposed-Natural Area Preserve (dnr.wa.gov)"
 excerpt: >-
   This page is currently being updated. Please check back in the future for more information.
-official website of: Onion Ridge Proposed-Natural Area Preserve
+official website of: Onion Ridge Natural Area Preserve
 retrieved: 2026-06-16
 type: website
 url: /dnr.wa.gov/natural-areas/natural-area-preserves/onion-ridge-proposed-natural-area-preserve/
