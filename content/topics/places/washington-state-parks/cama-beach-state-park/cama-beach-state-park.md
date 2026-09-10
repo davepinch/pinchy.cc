@@ -1,5 +1,5 @@
 ---
-title: "Cama Beach State Park"
+title: "Cama Beach Historical State Park"
 apple maps: "https://maps.apple/p/MMPI4oN44VMyUK"
 official website: "https://parks.wa.gov/find-parks/state-parks/cama-beach-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5967338"
