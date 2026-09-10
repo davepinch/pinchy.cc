@@ -7,5 +7,5 @@ time extension request of: Onion Ridge NAP Natural Area 2020 (secure.rco.wa.gov)
 type: pdf
 url: /secure.rco.wa.gov/prism/search/ProjectSnapshotAttachmentData.aspx/id=700294/
 tags:
-  - pdf
+  - PDF
 ---
