@@ -1,5 +1,6 @@
 ---
 title: "Yakima Sportsman State Park"
+address: "904 University Parkway, Yakima, WA 98901"
 apple maps: "https://maps.apple/p/HxYmzHcVWbL~7Z"
 official website: "https://parks.wa.gov/find-parks/state-parks/yakima-sportsman-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5956203"
