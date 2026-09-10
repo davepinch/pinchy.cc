@@ -7,7 +7,9 @@ retrieved: 2026-09-10
 type: website
 url: /en.wikipedia.org/wiki/Steptoe_Butte/
 website: "https://en.wikipedia.org/wiki/Steptoe_Butte"
-wikipedia of: Steptoe Butte
+wikipedia of:
+  - Steptoe Butte
+  - Steptoe Butte State Park Heritage Site
 tags:
   - Wikipedia
 ---
