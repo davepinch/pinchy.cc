@@ -4,3 +4,6 @@
 [submodule "content/submodules/ancientlibrary.net"]
 	path = content/submodules/ancientlibrary.net
 	url = https://github.com/davepinch/cc-ancientlibrary.net
+[submodule "content/submodules/parks.wa.gov"]
+	path = content/submodules/parks.wa.gov
+	url = https://github.com/davepinch/cc-parks.wa.gov.git
