@@ -10,7 +10,6 @@ state park in:
 state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q6549120"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lime_Kiln_Point_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Lime_Kiln_Point_State_Park"
 tags:
   - state park
 ---
