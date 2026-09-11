@@ -12,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:St._Louis_Park,_Minnesot
 wikipedia: "https://en.wikipedia.org/wiki/St._Louis_Park,_Minnesota"
 tags:
   - city
+  - suburb
 ---

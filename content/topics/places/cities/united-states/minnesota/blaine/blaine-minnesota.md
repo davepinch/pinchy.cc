@@ -15,8 +15,13 @@ city of:
   - Minnesota
 not to be confused with: Blaine, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/136848"
+suburb of:
+  - Minneapolis, Minnesota
+  - Saint Paul, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q881140"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Blaine,_Minnesota"
 tags:
   - city
+  - suburb
 ---

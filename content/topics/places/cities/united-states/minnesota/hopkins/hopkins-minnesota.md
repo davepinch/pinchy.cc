@@ -12,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Hopkins,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Hopkins,_Minnesota"
 tags:
   - city
+  - suburb
 ---

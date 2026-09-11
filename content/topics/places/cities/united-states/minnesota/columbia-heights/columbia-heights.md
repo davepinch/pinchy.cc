@@ -10,8 +10,12 @@ city of:
   - Anoka County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/137871"
+suburb of:
+  - Minneapolis, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q1978865"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Columbia_Heights,_Minnesota"
 tags:
   - city
+  - suburb
 ---

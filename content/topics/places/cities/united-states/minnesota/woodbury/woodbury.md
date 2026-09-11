@@ -22,4 +22,5 @@ wikidata: "https://www.wikidata.org/entity/Q862672"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Woodbury,_Minnesota"
 tags:
   - city
+  - suburb
 ---

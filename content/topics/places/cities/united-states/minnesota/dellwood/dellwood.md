@@ -9,7 +9,9 @@ city of:
   - Washington County, Minnesota
   - Minnesota
 clockwise around white bear lake: Mahtomedi, Minnesota
-suburb of: Saint Paul, Minnesota
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 openstreetmap: "https://www.openstreetmap.org/relation/136805"
 wikidata: "https://www.wikidata.org/entity/Q2212370"
 tags:

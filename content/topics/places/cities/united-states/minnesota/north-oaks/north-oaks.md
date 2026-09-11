@@ -10,7 +10,9 @@ city of:
   - Minnesota
 official website: "https://www.northoaksmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136619"
-suburb of: Saint Paul, Minnesota
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q2229230"
 tags:
   - city

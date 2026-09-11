@@ -10,7 +10,9 @@ adjacent to:
 city of:
   - Anoka County, Minnesota
   - Minnesota
-suburb of: Minneapolis, Minnesota
+suburb of:
+  - Minneapolis, Minnesota
+  - Twin Cities
 openstreetmap: "https://www.openstreetmap.org/relation/136687"
 wikidata: "https://www.wikidata.org/entity/Q984534"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Coon_Rapids,_Minnesota"

@@ -13,4 +13,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Plymouth,_Minnesota"
 wikivoyage: "https://en.wikivoyage.org/wiki/Plymouth_(Minnesota)"
 tags:
   - city
+  - suburb
 ---

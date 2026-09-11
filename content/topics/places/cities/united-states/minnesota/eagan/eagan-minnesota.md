@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/entity/Q936730"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Eagan,_Minnesota"
 tags:
   - city
+  - suburb
 ---

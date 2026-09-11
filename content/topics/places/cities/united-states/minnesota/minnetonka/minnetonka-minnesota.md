@@ -12,4 +12,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnetonka,_Minnesota"
 wikipedia: "https://en.wikipedia.org/wiki/Minnetonka,_Minnesota"
 tags:
   - city
+  - suburb
 ---

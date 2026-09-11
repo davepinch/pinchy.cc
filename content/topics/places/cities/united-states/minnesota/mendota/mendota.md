@@ -9,8 +9,12 @@ city of:
   - Dakota County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136571"
+suburb of:
+  - Saint Paul, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q1934309"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mendota,_Minnesota"
 tags:
   - city
+  - suburb
 ---

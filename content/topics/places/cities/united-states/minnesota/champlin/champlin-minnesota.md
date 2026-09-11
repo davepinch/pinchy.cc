@@ -10,8 +10,12 @@ city of:
   - Hennepin County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136688"
+suburb of:
+  - Minneapolis, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q987126"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Champlin,_Minnesota"
 tags:
   - city
+  - suburb
 ---

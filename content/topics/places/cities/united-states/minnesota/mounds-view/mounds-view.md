@@ -12,8 +12,13 @@ city of:
   - Ramsey County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136629"
+suburb of:
+  - Minneapolis, Minnesota
+  - Saint Paul, Minnesota
+  - Twin Cities
 wikidata: "https://www.wikidata.org/entity/Q1958703"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mounds_View,_Minnesota"
 tags:
   - city
+  - suburb
 ---

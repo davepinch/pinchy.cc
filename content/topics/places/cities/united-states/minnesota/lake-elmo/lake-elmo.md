@@ -19,4 +19,5 @@ wikidata: "https://www.wikidata.org/entity/Q1927010"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_Elmo,_Minnesota"
 tags:
   - city
+  - suburb
 ---

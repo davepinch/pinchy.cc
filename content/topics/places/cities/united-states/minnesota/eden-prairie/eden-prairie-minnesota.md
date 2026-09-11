@@ -18,4 +18,5 @@ wikipedia: "https://en.wikipedia.org/wiki/Eden_Prairie,_Minnesota"
 wikivoyage: "https://en.wikivoyage.org/wiki/Eden_Prairie"
 tags:
   - city
+  - suburb
 ---

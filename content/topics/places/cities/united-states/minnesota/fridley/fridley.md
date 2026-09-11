@@ -22,4 +22,5 @@ wikidata: "https://www.wikidata.org/entity/Q985235"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Fridley,_Minnesota"
 tags:
   - city
+  - suburb
 ---
