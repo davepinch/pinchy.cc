@@ -16,7 +16,6 @@ state park of:
   - Skykomish River
 vicinity to: U.S. Route 2
 wikidata: "https://www.wikidata.org/wiki/Q105043985"
-wikipedia: "https://en.wikipedia.org/wiki/Forks_of_the_Sky_State_Park"
 tags:
   - Washington State Park
 ---
