@@ -7,7 +7,7 @@ retrieved: 2026-08-26
 type: website
 url: /en.wikipedia.org/wiki/Sacajawea_State_Park/
 website: "https://en.wikipedia.org/wiki/Sacajawea_State_Park"
-wikipedia of: Sacajawea State Park
+wikipedia of: Sacajawea Historical State Park
 tags:
   - Wikipedia
 ---
