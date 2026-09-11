@@ -1,6 +1,5 @@
 ---
 title: "Griffiths-Priday State Park"
-address: "30 Benner Road, Copalis Beach, WA 98535"
 apple maps: "https://maps.apple/p/jAEjzo4okjJcsM"
 openstreetmap: "https://www.openstreetmap.org/relation/5944466"
 state park in:
