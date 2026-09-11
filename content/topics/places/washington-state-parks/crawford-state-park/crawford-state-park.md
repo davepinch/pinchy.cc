@@ -13,7 +13,6 @@ vicinity to:
   - Boundary Dam
 wikidata: "https://www.wikidata.org/wiki/Q1139141"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Crawford_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Crawford_State_Park_(Washington)"
 tags:
   - state park
   - Discover Pass required
