@@ -59,7 +59,7 @@ sequence:
 # - Smuggler's Cove
   - Footprint Rock
   - Driftwood Park
-  - Fort Casey State Park
+  - Fort Casey Historical State Park
   - Crockett Lake
   - Keystone Harbor
   - Coupeville Ferry Terminal
