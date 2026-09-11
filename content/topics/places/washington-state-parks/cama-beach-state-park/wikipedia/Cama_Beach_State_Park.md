@@ -7,7 +7,7 @@ retrieved: 2026-09-10
 type: website
 url: /en.wikipedia.org/wiki/Cama_Beach_State_Park/
 website: "https://en.wikipedia.org/wiki/Cama_Beach_State_Park"
-wikipedia of: Cama Beach State Park
+wikipedia of: Cama Beach Historical State Park
 tags:
   - Wikipedia
 ---
