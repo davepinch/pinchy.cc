@@ -10,7 +10,6 @@ state park of:
   - Washington State Parks and Recreation Commission
   - Skagit Bay
 wikidata: "https://www.wikidata.org/wiki/Q5899349"
-wikipedia: "https://en.wikipedia.org/wiki/Hope_Island_State_Park_(Skagit_County,_Washington)"
 tags:
   - state park
   - Discover Pass required
