@@ -14,7 +14,6 @@ state park of:
   - Puget Sound
 wikidata: "https://www.wikidata.org/wiki/Q5226557"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Dash_Point_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Dash_Point_State_Park"
 tags:
   - state park
   - Discover Pass required
