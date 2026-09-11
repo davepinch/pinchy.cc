@@ -11,7 +11,6 @@ state park of:
   - Washington State Parks and Recreation Commission
   - Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q5300225"
-wikipedia: "https://en.wikipedia.org/wiki/Doug%27s_Beach_State_Park"
 tags:
   - state park
   - Discover Pass required
