@@ -15,7 +15,6 @@ state park of:
   - Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q19865643"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Columbia_Hills_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Columbia_Hills_State_Park"
 tags:
   - state park
   - Discover Pass required
