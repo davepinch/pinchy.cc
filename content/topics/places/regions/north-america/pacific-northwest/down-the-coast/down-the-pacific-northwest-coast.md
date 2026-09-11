@@ -59,7 +59,7 @@ sequence:
   - South Fork Skagit River
   - Snohomish County, Washington
   - Camano Island
-  - Cama Beach State Park
+  - Cama Beach Historical State Park
   - Camano Island State Park
 # - Elgar Bay
   - Port Susan
