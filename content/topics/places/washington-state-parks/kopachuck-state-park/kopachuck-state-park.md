@@ -10,7 +10,6 @@ state park in:
 state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q6430916"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Kopachuck_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Kopachuck_State_Park"
 tags:
   - state park
   - Discover Pass required
