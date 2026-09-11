@@ -11,7 +11,6 @@ state park of:
   - Strait of Juan de Fuca
 vicinity of: Oak Harbor, Washington
 wikidata: "https://www.wikidata.org/wiki/Q6287898"
-wikipedia: "https://en.wikipedia.org/wiki/Joseph_Whidbey_State_Park"
 tags:
   - state park
   - Discover Pass required
