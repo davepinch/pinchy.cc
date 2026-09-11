@@ -10,7 +10,6 @@ state park in:
 state park of: Touchet River
 vicinity of: Dayton, Washington
 wikidata: "https://www.wikidata.org/wiki/Q6537232"
-wikipedia: "https://en.wikipedia.org/wiki/Lewis_and_Clark_Trail_State_Park"
 tags:
   - state park
   - Discover Pass required
