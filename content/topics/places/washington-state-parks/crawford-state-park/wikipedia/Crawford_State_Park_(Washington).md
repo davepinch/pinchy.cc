@@ -7,7 +7,7 @@ retrieved: 2026-09-10
 type: website
 url: /en.wikipedia.org/wiki/Crawford_State_Park_(Washington)/
 website: "https://en.wikipedia.org/wiki/Crawford_State_Park_(Washington)"
-wikipedia of: Crawford State Park
+wikipedia of: Crawford State Park Heritage Site
 tags:
   - Wikipedia
 ---
