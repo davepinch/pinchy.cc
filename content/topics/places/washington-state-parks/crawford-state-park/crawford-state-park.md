@@ -2,7 +2,6 @@
 title: "Crawford State Park Heritage Site"
 adjacent to: Colville National Forest
 apple maps: "https://maps.apple/p/qXuKUSysz02_NH"
-official website: "https://parks.wa.gov/find-parks/state-parks/crawford-state-park-heritage-site"
 openstreetmap: "https://www.openstreetmap.org/relation/11009368"
 state park in:
   - Pend Oreille County, Washington

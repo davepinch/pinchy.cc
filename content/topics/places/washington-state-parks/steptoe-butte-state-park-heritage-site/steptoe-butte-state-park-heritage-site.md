@@ -1,7 +1,6 @@
 ---
 title: "Steptoe Butte State Park Heritage Site"
 address: "Whitman, WA 99111"
-official website: "https://parks.wa.gov/find-parks/state-parks/steptoe-butte-state-park-heritage-site"
 openstreetmap: "https://www.openstreetmap.org/relation/5904209"
 state park in:
   - Palouse

@@ -5,7 +5,6 @@ adjacent to:
   - Pierce National Wildlife Refuge
   - Table Mountain Natural Resources Conservation Area
 apple maps: "https://maps.apple/p/amWIcmDvb5rIC.z"
-official website: "https://parks.wa.gov/find-parks/state-parks/beacon-rock-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5936264"
 state park in:
   - Columbia River Gorge National Scenic Area

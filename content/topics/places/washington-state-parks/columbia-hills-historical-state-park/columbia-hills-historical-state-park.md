@@ -5,7 +5,6 @@ adjacent to:
   - Columbia Hills Natural Area Preserve
   - Gifford Pinchot National Forest
 apple maps: "https://maps.apple/p/s92oqRs67nIxsc"
-official website: "https://parks.wa.gov/find-parks/state-parks/columbia-hills-historical-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/8151008"
 state park in:
   - Columbia River Gorge National Scenic Area

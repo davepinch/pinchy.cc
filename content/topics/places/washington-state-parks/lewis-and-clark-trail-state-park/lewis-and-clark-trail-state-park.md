@@ -1,7 +1,6 @@
 ---
 title: "Lewis and Clark Trail State Park"
 apple maps: "https://maps.apple/p/BrYy.~14RPD4jH"
-official website: "https://parks.wa.gov/find-parks/state-parks/lewis-and-clark-trail-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/10525177"
 state park by: Washington State Parks and Recreation Commission
 state park in:

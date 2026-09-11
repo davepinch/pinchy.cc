@@ -8,7 +8,6 @@ adjacent to:
   - Skagit Bald Eagle Natural Area Preserve
   - Washington State Route 20
 apple maps: "https://maps.apple/p/s7DM.k.kWDD1e1"
-official website: "https://parks.wa.gov/find-parks/state-parks/rockport-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/3721642"
 state park in:
   - Skagit County, Washington

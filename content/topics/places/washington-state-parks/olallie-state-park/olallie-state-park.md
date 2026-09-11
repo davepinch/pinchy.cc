@@ -6,7 +6,6 @@ adjacent to:
   - Mount Baker–Snoqualmie National Forest
   - Palouse to Cascades State Park
 apple maps: "https://maps.apple/p/dxedQMFg~~_V44"
-official website: "https://parks.wa.gov/find-parks/state-parks/olallie-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/5970526"
 state park in:
   - King County, Washington

@@ -2,7 +2,6 @@
 title: "South Whidbey State Park"
 apple maps: "https://maps.apple/p/Kxj~LsYL4Idno~"
 mapcarta: "https://mapcarta.com/W759100391"
-official website: "https://parks.wa.gov/find-parks/state-parks/south-whidbey-state-park"
 openstreetmap: "https://www.openstreetmap.org/way/759100391"
 state park in:
   - Freeland, Washington

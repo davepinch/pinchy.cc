@@ -4,7 +4,6 @@ adjacent to:
   - Chinook, Washington
   - Lewis and Clark National Historical Park
 apple maps: "https://maps.apple/p/Va-aK7oNp~JeQQ"
-official website: "https://parks.wa.gov/find-parks/state-parks/fort-columbia-state-park"
 openstreetmap: "https://www.openstreetmap.org/relation/14393728"
 state park in:
   - Pacific County, Washington
