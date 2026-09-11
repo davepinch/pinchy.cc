@@ -9,7 +9,7 @@ peninsula in:
 peninsula of:
   - Discovery Bay
   - Jamestown S'Klallam Indian Reservation
-  - Miller Peninsula State Park
+  - Miller Peninsula State Park Property
   - Sequim Bay
   - Strait of Juan de Fuca
   - U.S. Route 101
