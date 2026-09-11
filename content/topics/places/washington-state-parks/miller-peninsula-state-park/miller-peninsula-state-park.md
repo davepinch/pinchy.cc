@@ -1,5 +1,5 @@
 ---
-title: "Miller Peninsula State Park"
+title: "Miller Peninsula State Park Property"
 apple maps: "https://maps.apple/p/S_e5~cqqwRvJt9"
 note: A tiny sliver in the southeast extends into Jefferson County, Washington.
 official website: "https://parks.wa.gov/find-parks/state-parks/miller-peninsula-state-park-property"
