@@ -9,7 +9,6 @@ state park in:
 state park of: Washington State Parks and Recreation Commission
 wikidata: "https://www.wikidata.org/wiki/Q1438508"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Fort_Ebey_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Fort_Ebey_State_Park"
 tags:
   - state park
   - Discover Pass required
