@@ -17,7 +17,6 @@ state park of:
 vicinity of: North Bend, Washington
 wikidata: "https://www.wikidata.org/wiki/Q7083061"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Olallie_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Olallie_State_Park"
 tags:
   - state park
   - Discover Pass required
