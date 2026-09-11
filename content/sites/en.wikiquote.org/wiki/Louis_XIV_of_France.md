@@ -7,7 +7,7 @@ retrieved: 2026-08-05
 type: website
 url: /en.wikiquote.org/wiki/Louis_XIV_of_France/
 website: "https://en.wikiquote.org/wiki/Louis_XIV_of_France"
-wikiquote of: Louis IV
+wikiquote of: Louis XIV
 tags:
   - website
   - Wikiquote
