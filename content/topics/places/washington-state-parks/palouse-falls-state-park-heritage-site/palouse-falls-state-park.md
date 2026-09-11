@@ -1,5 +1,5 @@
 ---
-title: "Palouse Falls State Park"
+title: "Palouse Falls State Park Heritage Site"
 apple maps: "https://maps.apple/p/QL.iWLxo~C0qbe"
 official website: "https://parks.wa.gov/find-parks/state-parks/palouse-falls-state-park-heritage-site"
 note: On both Wikimedia and Wikipedia, links to Palouse Falls State Park are redirected to Palouse Falls (July 2026).

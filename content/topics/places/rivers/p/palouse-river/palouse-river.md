@@ -12,7 +12,7 @@ river in:
   - Colfax, Washington
   - Adams County, Washington
   - Franklin County, Washington
-  - Palouse Falls State Park
+  - Palouse Falls State Park Heritage Site
   - Lyons Ferry Habitat Management Unit
   - Lyons Ferry State Park
 tributary of: Snake River

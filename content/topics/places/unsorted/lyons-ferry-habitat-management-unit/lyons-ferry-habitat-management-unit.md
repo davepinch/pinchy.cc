@@ -2,7 +2,7 @@
 title: "Lyons Ferry Habitat Management Unit"
 adjacent to:
   - Lyons Ferry State Park
-  - Palouse Falls State Park
+  - Palouse Falls State Park Heritage Site
 official website: "https://www.nww.usace.army.mil/Locations/District-Locks-and-Dams/Lower-Monumental-Lock-and-Dam/Lyons-Ferry-Habitat-Management-Unit/"
 openstreetmap: "https://www.openstreetmap.org/relation/19173970"
 protected area in:

@@ -9,7 +9,7 @@ url: /en.wikipedia.org/wiki/Palouse_Falls/
 website: "https://en.wikipedia.org/wiki/Palouse_Falls"
 wikipedia of:
   - Palouse Falls
-  - Palouse Falls State Park
+  - Palouse Falls State Park Heritage Site
 tags:
   - Wikipedia
 ---

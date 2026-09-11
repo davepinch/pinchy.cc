@@ -6,7 +6,7 @@ note: >-
 openstreetmap: "https://www.openstreetmap.org/node/666692178"
 waterfall in:
   - Palouse River
-  - Palouse Falls State Park
+  - Palouse Falls State Park Heritage Site
   - Franklin County, Washington
   - Whitman County, Washington
   - Washington
