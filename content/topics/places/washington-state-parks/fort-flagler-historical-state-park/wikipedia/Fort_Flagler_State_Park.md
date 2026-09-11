@@ -7,7 +7,7 @@ retrieved: 2026-09-10
 type: website
 url: /en.wikipedia.org/wiki/Fort_Flagler_State_Park/
 website: "https://en.wikipedia.org/wiki/Fort_Flagler_State_Park"
-wikipedia of: Fort Flagler State Park
+wikipedia of: Fort Flagler Historical State Park
 tags:
   - Wikipedia
 ---
