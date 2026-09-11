@@ -12,7 +12,6 @@ state park of:
 vicinity to: Interstate 5
 wikidata: "https://www.wikidata.org/wiki/Q7406226"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Saltwater_State_Park"
-wikipedia: "https://en.wikipedia.org/wiki/Saltwater_State_Park"
 tags:
   - state park
   - Discover Pass required
