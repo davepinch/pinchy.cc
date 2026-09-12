@@ -15,7 +15,6 @@ census-designated place of: United States Census Bureau
 openstreetmap: "https://www.openstreetmap.org/relation/18395558"
 wikidata: "https://www.wikidata.org/wiki/Q6007987"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:McMillin,_Washington"
-wikipedia: "https://en.wikipedia.org/wiki/McMillin,_Washington"
 tags:
   - census-designated place
 ---
