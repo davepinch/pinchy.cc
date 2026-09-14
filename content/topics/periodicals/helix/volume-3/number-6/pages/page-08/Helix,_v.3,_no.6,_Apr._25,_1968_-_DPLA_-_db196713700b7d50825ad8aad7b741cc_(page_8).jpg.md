@@ -1,5 +1,5 @@
 ---
-title: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 8).jpg"
+title: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 8).jpg (Wikimedia Commons)"
 ➡️: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 9).jpg (Wikimedia Commons)"
 ⬅️: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 7).jpg (Wikimedia Commons)"
 eat it of: Senator Byrd on Martin Luther King Jr. (29 March 1968)
