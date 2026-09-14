@@ -8,6 +8,7 @@ mention of:
   - Abe Weisburd
   - Bobby Hutton
   - Central Park
+  - Eric Clapton
   - H. Rap Brown
   - marijuana
   - Martin Luther King Jr.
