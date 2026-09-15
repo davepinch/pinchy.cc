@@ -4,6 +4,7 @@ description: "A place for photographs, pictures, and other images."
 subreddit of:
   - photograph
   - picture
+  - reddit
 url: /www.reddit.com/r/pics/
 website: "https://www.reddit.com/r/pics/"
 when: 2008-01-25

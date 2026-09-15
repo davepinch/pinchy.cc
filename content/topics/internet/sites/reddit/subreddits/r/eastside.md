@@ -18,6 +18,7 @@ subreddit of:
   - Renton, Washington
   - Sammamish, Washington
   - Yarrow Point, Washington
+  - reddit
 url: /www.reddit.com/r/eastside/
 website: "https://www.reddit.com/r/eastside/"
 when: 2011-02-02

@@ -4,6 +4,7 @@ description: "This is a moderated subreddit. It is our intent and purpose to fos
 subreddit of:
   - book
   - novel
+  - reddit
 url: /www.reddit.com/r/books/
 website: "https://www.reddit.com/r/books/"
 when: 2008-01-25

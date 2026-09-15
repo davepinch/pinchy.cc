@@ -1,7 +1,9 @@
 ---
 title: "r/stupidpeoplefacebook"
 description: "Dedicated to stupid posts that people put on Facebook!"
-subreddit of: Facebook
+subreddit of:
+  - Facebook
+  - reddit
 url: /www.reddit.com/r/stupidpeoplefacebook/
 website: "https://www.reddit.com/r/stupidpeoplefacebook/"
 when: 2014-11-11

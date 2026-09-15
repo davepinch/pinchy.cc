@@ -7,6 +7,7 @@ history of:
 subreddit of:
   - Seattle
   - history
+  - reddit
 url: /www.reddit.com/r/SeattleHistory/
 website: "https://www.reddit.com/r/SeattleHistory/"
 when: 2013-03-01
