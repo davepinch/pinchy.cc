@@ -1,5 +1,6 @@
 ---
 title: "Ms. Rachel"
+instagram: "https://www.instagram.com/msrachelforlittles/"
 official website: "https://www.msrachel.com/"
 url: /ms-rachel/
 wikidata: "https://www.wikidata.org/wiki/Q117066641"
