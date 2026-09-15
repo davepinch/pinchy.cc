@@ -1,5 +1,6 @@
 ---
 title: "Ed Sheeran"
+instagram: "https://www.instagram.com/teddysphotos/"
 person of:
   - England
   - Macklemore dropped from Ed Sheeran tour
