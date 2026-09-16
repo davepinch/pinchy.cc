@@ -7,6 +7,6 @@ tags:
   - activist
   - artist
   - human being
+  - dead at the moment
   - no Wikimedia category
-  - no Wikipedia article
 ---
