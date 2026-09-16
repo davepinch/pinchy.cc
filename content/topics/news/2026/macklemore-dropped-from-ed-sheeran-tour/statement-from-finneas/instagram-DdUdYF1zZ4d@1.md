@@ -5,9 +5,11 @@ title: "statement from Finneas (1 of 3)"
 in the wild (comments):
   - "https://www.reddit.com/r/Music/comments/1wh8qg7/ed_sheeran_support_act_aaron_rowe_withdraws_from/"
   - "https://www.reddit.com/r/EdSheeran/comments/1whanj5/finneas_also_withdraws_from_the_tour/"
+  - "https://www.reddit.com/r/popculturechat/comments/1whapdh/finneas_withdraws_as_an_opening_act_for_ed/"
 posted in:
   - r/Music
   - r/EdSheeran
+  - r/popculturechat
 snippet of: "https://www.instagram.com/p/DdUdYF1zZ4d/"
 statement of: Finneas O'Connell
 statement from Finneas of: Macklemore dropped from Ed Sheeran tour
