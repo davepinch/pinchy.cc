@@ -13,7 +13,7 @@ signature of:
   - SVG
 source: "https://www.ebay.com/itm/294560829160"
 type: picture
-url: /commons.wikimedia.org/wiki/File:Ed_Sheeran_sig.svg/
+url: /commons.wikimedia.org/wiki/File/Ed_Sheeran_sig.svg/
 website: "https://commons.wikimedia.org/wiki/File:Ed_Sheeran_sig.svg"
 tags:
   - Wikimedia Commons
