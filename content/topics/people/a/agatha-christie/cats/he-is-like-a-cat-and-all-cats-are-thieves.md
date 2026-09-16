@@ -4,6 +4,7 @@ attribution: Agatha Christie, *Murder for Christmas* (1939)
 cats of: Agatha Christie
 citation: >-
   Agatha Christie. (2024, January 3). *Wikiquote*. Retrieved January 6, 2024 from https://en.wikiquote.org/w/index.php?title=Agatha_Christie&oldid=3435779.
+quote of: Agatha Christie (en.wikiquote.org)
 related: Agatha Christie (Wikipedia)
 type: quote
 tags:

@@ -3,6 +3,7 @@ title: "Understand this, I mean to arrive at the truth. The truth, however ugly 
 attribution: "Hecule Poirot in *The Murder of Roger Ackroyd*"
 citation: >-
   Agatha Christie. (2024, January 3). *Wikiquote*. Retrieved January 6, 2024 from https://en.wikiquote.org/w/index.php?title=Agatha_Christie&oldid=3435779.
+quote of: Agatha Christie (en.wikiquote.org)
 truth of: Agatha Christie
 type: quote
 tags:
