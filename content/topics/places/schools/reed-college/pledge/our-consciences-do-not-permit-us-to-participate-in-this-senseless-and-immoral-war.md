@@ -5,7 +5,7 @@ note: The date is approximate based on the April 1, 1968 publication in *Helix*.
 page 8 of: Helix, volume 3, number 6
 pledge of resistance (1968) in: Reed College
 senseless and immoral of: Vietnam War
-quotation in: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 8).jpg"
+quotation in: "Helix, v.3, no.6, Apr. 25, 1968 - DPLA - db196713700b7d50825ad8aad7b741cc (page 8).jpg (Wikimedia Commons)"
 type: quote
 url: /our-consciences-do-not-permit-us-to-participate-in-this-senseless-and-immoral-war/
 when: 1968-04-01
