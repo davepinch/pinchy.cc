@@ -5,6 +5,7 @@ attribution: Bertrand Russell, *History of Western Philosophy*
 citation: >-
   Islam. (2023, December 26). *Wikiquote*. Retrieved June 14, 2024 from https://en.wikiquote.org/w/index.php?title=Islam&oldid=3429339.
 civilization of: Bertrand Russell
+quote of: Bertrand Russell (en.wikiquote.org)
 type: quote
 tags:
   - quote
