@@ -7,7 +7,7 @@ excerpt: >-
 factcheck.org of:
   - Supreme Court of the United States
   - Donald Trump
-  - executive order
+  - United States executive order
   - Amy Coney Barrett
 license: "https://www.factcheck.org/copyright-policy/"
 retrieved: 2026-04-02
