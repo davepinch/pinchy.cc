@@ -1,6 +1,6 @@
 ---
 title: "DEC desktops (retrotechnology.com)"
-author: Herb Johnson
+author: Herbert R. Johnson
 excerpt: >-
   I acquired three DEC desktop computers during spring-summer of 2013. This page is a description of my initial work to test and operate them. I have many DEC computers which are listed on this linked Web page. I have in particular, a PDP-8/f which is largely operating, thanks to work done on that 8/f as of April 2013.
 retrieved: 2026-09-16
