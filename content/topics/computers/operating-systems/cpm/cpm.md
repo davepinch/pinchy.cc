@@ -1,8 +1,7 @@
 ---
 title: "CP/M"
-product of:
-  - Gary Kildall
-  - Digital Research
+created by: Gary Kildall
+product of: Digital Research
 wikidata: "https://www.wikidata.org/wiki/Q219528"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:CP/M"
 tags:
