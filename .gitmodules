@@ -7,3 +7,6 @@
 [submodule "content/submodules/parks.wa.gov"]
 	path = content/submodules/parks.wa.gov
 	url = https://github.com/davepinch/cc-parks.wa.gov.git
+[submodule "content/submodules/techtinkering.com"]
+	path = content/submodules/techtinkering.com
+	url = https://github.com/davepinch/cc-techtinkering.com
