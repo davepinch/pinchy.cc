@@ -1,5 +1,6 @@
 ---
 title: "Macklemore"
+instagram: "https://www.instagram.com/macklemore/"
 person in:
   - Capitol Hill, Seattle
   - Seattle
