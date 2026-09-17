@@ -1,5 +1,6 @@
 ---
 title: "PL/M"
+product of: Intel
 programming language by: Gary Kildall
 programming language of:
   - Intel 8008
