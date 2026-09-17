@@ -2,6 +2,7 @@
 title: "Z-80 SoftCard"
 processor card of:
   - Apple II
+  - Apple II Plus
   - CP/M
   - Zilog Z80
 product of: Microsoft
