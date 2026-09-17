@@ -11,6 +11,7 @@ retrieved: 2026-09-16
 type: website
 url: /nicole.express/2020/nicole-gets-a-real-computer.html/
 website: "https://nicole.express/2020/nicole-gets-a-real-computer.html"
+when: 2020-10-29
 tags:
   - website
   - Nicole Express
