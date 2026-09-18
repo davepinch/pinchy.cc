@@ -11,6 +11,7 @@ note: >-
 openstreetmap:
   - "[near east trailhead](https://www.openstreetmap.org/way/1292561091)"
   - "[near Louisa Boren Park](https://www.openstreetmap.org/way/522291482)"
+tributary of: Portage Bay
 tags:
   - creek
   - no OpenStreetMap element
