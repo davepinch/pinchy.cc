@@ -6,6 +6,7 @@ creek in:
   - Seattle
   - King County, Washington
   - Washington
+namesake of: Christian Scheuerman
 openstreetmap:
   - "[headwaters to The Field](https://www.openstreetmap.org/way/266630288)"
   - "[culvert under The Field](https://www.openstreetmap.org/way/267902482)"
