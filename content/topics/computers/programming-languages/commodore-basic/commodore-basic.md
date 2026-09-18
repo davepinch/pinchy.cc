@@ -1,6 +1,7 @@
 ---
 title: "Commodore BASIC"
 basic of:
+  - Commodore 64
   - Commodore 128
   - VIC-20
 dialect of: BASIC
