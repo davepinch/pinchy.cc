@@ -1,9 +1,5 @@
 ---
 title: "Commodore BASIC"
-programming language of:
-  - Commodore 64
-  - Commodore 128
-  - VIC-20
 dialect of: BASIC
 programming language of:
   - Commodore 64
