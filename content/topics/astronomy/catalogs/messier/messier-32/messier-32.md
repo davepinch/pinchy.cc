@@ -2,6 +2,7 @@
 title: "Messier 32"
 ⬅️: Messier 31
 ➡️: Messier 33
+galaxy in: Local Group
 galaxy of: Andromeda
 wikidata: "https://www.wikidata.org/wiki/Q13720"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Messier_32"
