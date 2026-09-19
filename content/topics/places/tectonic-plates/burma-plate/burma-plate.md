@@ -5,6 +5,7 @@ adjacent to:
   - Eurasian Plate
   - Indian Plate
   - Sunda Plate
+namesake of: Burma
 sometimes considered a part of: Eurasian Plate
 tectonic plate of: Southeast Asia
 wikidata: "https://www.wikidata.org/wiki/Q969490"
