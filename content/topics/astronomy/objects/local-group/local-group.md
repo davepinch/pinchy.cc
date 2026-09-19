@@ -2,9 +2,6 @@
 title: "Local Group"
 adjacent to: Local Void
 ASCEND: Virgo Supercluster
-contains:
-  - Andromeda Galaxy
-  - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q3944"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Local_Group"
 tags:
