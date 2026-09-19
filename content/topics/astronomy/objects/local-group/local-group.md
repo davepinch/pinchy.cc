@@ -6,6 +6,7 @@ contains:
   - Andromeda Galaxy
   - Milky Way
 wikidata: "https://www.wikidata.org/wiki/Q3944"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Local_Group"
 tags:
   - you
   - Virgo Supercluster
