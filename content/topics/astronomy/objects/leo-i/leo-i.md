@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q35810"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Leo_I_(galaxy)"
 tags:
   - galaxy
+  - satellite
 ---
