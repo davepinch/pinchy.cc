@@ -1,5 +1,6 @@
 ---
 title: "Milwaukee"
+apple maps: "https://maps.apple/p/7aDq5wkDCPM8KX"
 city of:
   - Wisconsin
   - Lake Michigan

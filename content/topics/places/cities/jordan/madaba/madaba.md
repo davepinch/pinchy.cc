@@ -1,5 +1,6 @@
 ---
 title: "Madaba"
+apple maps: "https://maps.apple/p/z5ux2uHKg7.0PT"
 city of:
   - Jordan
   - King's Highway

@@ -1,6 +1,7 @@
 ---
 title: "Medora, North Dakota"
 adjacent to: Theodore Roosevelt National Park
+apple maps: "https://maps.apple/p/14meAF5XT-aP9Y"
 city of:
   - North Dakota
   - Interstate 94

@@ -1,5 +1,6 @@
 ---
 title: "Berlin"
+apple maps: "https://maps.apple/p/.muivet7rBdqsZ"
 city of:
   - Germany
   - Nazi Germany

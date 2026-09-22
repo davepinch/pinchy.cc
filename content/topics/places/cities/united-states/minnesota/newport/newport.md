@@ -5,6 +5,7 @@ adjacent to:
   - Mississippi River
   - Woodbury, Minnesota
   - incomplete list
+apple maps: "https://maps.apple/p/x0ewG.o4nLBTMF"
 city of:
   - Washington County, Minnesota
   - Minnesota

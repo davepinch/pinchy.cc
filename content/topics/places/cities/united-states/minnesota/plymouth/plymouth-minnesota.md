@@ -1,5 +1,6 @@
 ---
 title: "Plymouth, Minnesota"
+apple maps: "https://maps.apple/p/LIu2p6Zykx5psw"
 city of:
   - Hennepin County, Minnesota
   - Minnesota

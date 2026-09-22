@@ -5,6 +5,7 @@ adjacent to:
   - Mendota Heights, Minnesota
   - Mississippi River
   - Saint Paul, Minnesota
+apple maps: "https://maps.apple/p/p7KkFDHTcbeD8m"
 city of:
   - Dakota County, Minnesota
   - Minnesota

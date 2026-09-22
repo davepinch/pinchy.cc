@@ -8,6 +8,7 @@ adjacent to:
   - Maplewood, Minnesota
   - Newport, Minnesota
   - Oakdale, Minnesota
+apple maps: "https://maps.apple/p/SCmWxJAJBwD5Fa"
 city in:
   - Washington County, Minnesota
   - Minnesota

@@ -1,5 +1,6 @@
 ---
 title: "Post Falls, Idaho"
+apple maps: "https://maps.apple/p/85pjaboXCai_RM"
 city of:
   - Idaho
   - Interstate 90

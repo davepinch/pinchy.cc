@@ -4,6 +4,7 @@ adjacent to:
   - Blaine, Minnesota
   - Fridley, Minnesota
   - Mounds View, Minnesota
+apple maps: "https://maps.apple/p/vh15UYw8CYmL-A"
 city of:
   - Anoka County, Minnesota
   - Ramsey County, Minnesota

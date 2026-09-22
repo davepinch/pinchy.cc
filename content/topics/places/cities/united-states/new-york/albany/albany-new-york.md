@@ -1,5 +1,6 @@
 ---
 title: "Albany, New York"
+apple maps: "https://maps.apple/p/5zKNZaY9tNh-zM"
 city of: New York
 openstreetmap: "https://www.openstreetmap.org/relation/175549"
 wikidata: "https://www.wikidata.org/wiki/Q24861"

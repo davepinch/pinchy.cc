@@ -6,6 +6,7 @@ adjacent to:
   - Shoreview, Minnesota
   - White Bear Township, Minnesota
   - incomplete list
+apple maps: "https://maps.apple/p/JwjQCe_UIN.yD4"
 city of:
   - Anoka County, Minnesota
   - Minnesota

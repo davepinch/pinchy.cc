@@ -1,5 +1,6 @@
 ---
 title: "Houlton, Wisconsin"
+apple maps: "https://maps.apple/p/Cek3i3q.0JSzyb"
 city of:
   - Saint Croix River
   - Wisconsin

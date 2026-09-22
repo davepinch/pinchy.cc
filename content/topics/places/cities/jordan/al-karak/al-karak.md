@@ -1,5 +1,6 @@
 ---
 title: "Al-Karak"
+apple maps: "https://maps.apple/p/0H-w2tvQyDQ5Xb"
 city of:
   - Jordan
   - King's Highway

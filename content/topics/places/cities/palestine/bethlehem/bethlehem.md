@@ -1,5 +1,6 @@
 ---
 title: "Bethlehem"
+apple maps: "https://maps.apple/p/rDR1hwZdaXpB2B"
 city of:
   - West Bank
   - Palestine

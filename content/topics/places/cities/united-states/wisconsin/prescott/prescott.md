@@ -1,5 +1,6 @@
 ---
 title: "Prescott, Wisconsin"
+apple maps: "https://maps.apple/p/_fJF6sqVZPsy4o"
 city of:
   - Wisconsin
   - Mississippi River

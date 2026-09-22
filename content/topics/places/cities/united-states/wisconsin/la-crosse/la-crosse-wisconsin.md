@@ -1,5 +1,6 @@
 ---
 title: "La Crosse, Wisconsin"
+apple maps: "https://maps.apple/p/ihd~ej~HZkwY_T"
 city of:
   - Wisconsin
   - Interstate 90

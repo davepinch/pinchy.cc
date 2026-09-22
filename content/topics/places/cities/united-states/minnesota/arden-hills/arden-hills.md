@@ -1,5 +1,6 @@
 ---
 title: "Arden Hills, Minnesota"
+apple maps: "https://maps.apple/p/WRaDbk-HcvuMoJ"
 borders clockwise from north:
   - Shoreview, Minnesota
   - Roseville, Minnesota

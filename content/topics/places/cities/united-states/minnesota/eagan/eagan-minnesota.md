@@ -1,5 +1,6 @@
 ---
 title: "Eagan, Minnesota"
+apple maps: "https://maps.apple/p/_g4HKb5aMhtaiN"
 city of:
   - Dakota County, Minnesota
   - Minnesota

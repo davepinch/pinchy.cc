@@ -1,6 +1,7 @@
 ---
 title: "St. Croix Falls, Wisconsin"
 across the river: Taylors Falls, Minnesota
+apple maps: "https://maps.apple/p/R~cbIDX8dQS4.o"
 city of:
   - Wisconsin
   - Saint Croix River

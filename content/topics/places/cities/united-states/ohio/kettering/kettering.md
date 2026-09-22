@@ -1,5 +1,6 @@
 ---
 title: "Kettering, Ohio"
+apple maps: "https://maps.apple/p/Q.K9pB1Gob3GP4"
 city of: Ohio
 openstreetmap: "https://www.openstreetmap.org/relation/182150"
 suburb of: Dayton, Ohio

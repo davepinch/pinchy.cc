@@ -1,5 +1,6 @@
 ---
 title: "Beirut"
+apple maps: "https://maps.apple/p/bEFymcn4d6jdWW"
 city of:
   - Lebanon
   - Mediterranean Sea

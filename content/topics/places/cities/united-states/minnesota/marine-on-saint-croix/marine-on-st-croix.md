@@ -1,5 +1,6 @@
 ---
 title: "Marine on St. Croix, Minnesota"
+apple maps: "https://maps.apple/p/IpWFT5.IsIP5fG"
 city of:
   - Washington County, Minnesota
   - Minnesota

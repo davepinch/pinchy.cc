@@ -1,5 +1,6 @@
 ---
 title: "Odesa, Ukraine"
+apple maps: "https://maps.apple/p/B6Qbs7tBEk0Szn"
 city of: Ukraine
 openstreetmap: "https://www.openstreetmap.org/relation/1413934"
 wikidata: "https://www.wikidata.org/wiki/Q1874"

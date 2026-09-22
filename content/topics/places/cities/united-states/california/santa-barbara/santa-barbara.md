@@ -1,5 +1,6 @@
 ---
 title: "Santa Barbara, California"
+apple maps: "https://maps.apple/p/iHE6xLINVK3bCH"
 city of:
   - California
   - Pacific Ocean

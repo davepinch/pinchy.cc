@@ -1,5 +1,6 @@
 ---
 title: "Epworth, Iowa"
+apple maps: "https://maps.apple/p/wzLJEd1x-Jkmke"
 city of: Iowa
 near: Dubuque, Iowa
 openstreetmap: "https://www.openstreetmap.org/relation/128815"

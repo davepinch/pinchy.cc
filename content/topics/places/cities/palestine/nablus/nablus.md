@@ -1,5 +1,6 @@
 ---
 title: "Nablus"
+apple maps: "https://maps.apple/p/4jUB8tXbbIvLTd"
 city of:
   - West Bank
   - Palestine

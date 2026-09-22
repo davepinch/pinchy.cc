@@ -1,5 +1,6 @@
 ---
 title: "Trinidad, Texas"
+apple maps: "https://maps.apple/p/-FqqGR2xNYR7SK"
 city of: Texas
 openstreetmap: "https://www.openstreetmap.org/relation/6603686"
 wikidata: "https://www.wikidata.org/wiki/Q981535"

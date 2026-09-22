@@ -1,5 +1,6 @@
 ---
 title: "Edina, Minnesota"
+apple maps: "https://maps.apple/p/EmTtI~LuX0cEc5"
 city of:
   - Hennepin County, Minnesota
   - Minnesota

@@ -1,5 +1,6 @@
 ---
 title: "Palm Beach, Florida"
+apple maps: "https://maps.apple/p/b_tCb4cmhrGZce"
 city of:
   - Florida
   - Atlantic Ocean

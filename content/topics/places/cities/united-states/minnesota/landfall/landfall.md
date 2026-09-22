@@ -1,5 +1,6 @@
 ---
 title: "Landfall, Minnesota"
+apple maps: "https://maps.apple/p/-_NeN.jocEaHFD"
 city of:
   - Washington County, Minnesota
   - Minnesota

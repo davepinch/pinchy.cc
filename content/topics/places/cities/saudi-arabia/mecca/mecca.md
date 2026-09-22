@@ -1,5 +1,6 @@
 ---
 title: "Mecca"
+apple maps: "https://maps.apple/p/99YCTbt1QnaIEK"
 city of: Saudi Arabia
 holiest city of: Islam
 near: Red Sea

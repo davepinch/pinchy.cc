@@ -1,5 +1,6 @@
 ---
 title: "Auckland"
+apple maps: "https://maps.apple/p/beNqn8aGKzF9yj"
 city of:
   - New Zealand
   - Pacific Ocean

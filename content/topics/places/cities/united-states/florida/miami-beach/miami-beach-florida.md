@@ -1,5 +1,6 @@
 ---
 title: "Miami Beach, Florida"
+apple maps: "https://maps.apple/p/GfdF6dJ~fX0qjr"
 city of:
   - Florida
   - Atlantic Ocean

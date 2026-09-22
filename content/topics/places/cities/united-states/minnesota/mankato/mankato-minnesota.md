@@ -1,5 +1,6 @@
 ---
 title: "Mankato, Minnesota"
+apple maps: "https://maps.apple/p/45UefX3_zwHAwA"
 city of: Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/137644"
 wikidata: "https://www.wikidata.org/entity/Q913243"

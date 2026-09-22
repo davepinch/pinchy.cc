@@ -5,6 +5,7 @@ adjacent to:
   - Minneapolis, Minnesota
   - Roseville, Minnesota
   - Saint Paul, Minnesota
+apple maps: "https://maps.apple/p/xkYLZMC4apW3fF"
 city of:
   - Ramsey County, Minnesota
   - Minnesota

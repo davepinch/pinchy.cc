@@ -1,5 +1,6 @@
 ---
 title: "Dayton, Ohio"
+apple maps: "https://maps.apple/p/pXfK.Vnau2z.LL"
 city of: Ohio
 openstreetmap: "https://www.openstreetmap.org/relation/182954"
 suburb I lived in: Kettering, Ohio

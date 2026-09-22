@@ -1,5 +1,6 @@
 ---
 title: "Jerusalem"
+apple maps: "https://maps.apple/p/vgy6MYqsrPsfWv"
 city of:
   - Israel
   - Kingdom of Judah

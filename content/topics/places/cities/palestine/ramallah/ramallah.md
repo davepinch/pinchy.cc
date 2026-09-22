@@ -1,5 +1,6 @@
 ---
 title: "Ramallah"
+apple maps: "https://maps.apple/p/wao2iU93DpaE1Q"
 city of:
   - West Bank
   - Palestine

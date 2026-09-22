@@ -1,5 +1,6 @@
 ---
 title: "Los Angeles"
+apple maps: "https://maps.apple/p/ABSXyFcFcKK1ys"
 city of:
   - California
   - Pacific Ocean

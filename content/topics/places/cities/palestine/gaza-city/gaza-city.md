@@ -3,6 +3,7 @@ title: "Gaza City"
 adjacent to:
   - Israel
   - Mediterranean Sea
+apple maps: "https://maps.apple/p/idgW~PVDmFB81p"
 city of:
   - Gaza Strip
   - Palestine

@@ -5,6 +5,7 @@ adjacent to:
   - Shoreview, Minnesota
   - Vadnais Heights, Minnesota
   - White Bear Township, Minnesota
+apple maps: "https://maps.apple/p/j6yFIf413niiFX"
 city of:
   - Ramsey County, Minnesota
   - Minnesota

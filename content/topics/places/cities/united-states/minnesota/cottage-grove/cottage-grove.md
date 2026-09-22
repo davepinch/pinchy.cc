@@ -1,5 +1,6 @@
 ---
 title: "Cottage Grove, Minnesota"
+apple maps: "https://maps.apple/p/sUI4Eq0CQ9kR1T"
 city of:
   - Washington County, Minnesota
   - Minnesota

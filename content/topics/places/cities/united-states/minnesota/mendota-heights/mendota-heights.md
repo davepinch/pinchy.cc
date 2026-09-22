@@ -9,6 +9,7 @@ adjacent to:
   - Saint Paul, Minnesota
   - Sunfish Lake, Minnesota
   - West St. Paul, Minnesota
+apple maps: "https://maps.apple/p/jIBmUDVsRaibYJ"
 city of:
   - Dakota County, Minnesota
   - Minnesota

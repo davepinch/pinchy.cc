@@ -1,5 +1,6 @@
 ---
 title: "Richfield, Minnesota"
+apple maps: "https://maps.apple/p/evFM-ynFog3~NS"
 city of:
   - Hennepin County, Minnesota
   - Minnesota

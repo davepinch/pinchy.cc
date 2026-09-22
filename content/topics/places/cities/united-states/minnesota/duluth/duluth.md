@@ -3,6 +3,7 @@ title: "Duluth, Minnesota"
 adjacent to:
   - Lake Superior
   - Wisconsin
+apple maps: "https://maps.apple/p/aMETSQ1wBSi5uf"
 city of:
   - Lake Superior
   - Minnesota

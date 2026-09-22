@@ -1,5 +1,6 @@
 ---
 title: "Stockton, California"
+apple maps: "https://maps.apple/p/XHepTRTDCAneS2"
 city of: California
 openstreetmap: "https://www.openstreetmap.org/relation/112382"
 wikidata: "https://www.wikidata.org/wiki/Q49240"

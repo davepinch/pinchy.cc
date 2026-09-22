@@ -1,5 +1,6 @@
 ---
 title: "Saint Petersburg"
+apple maps: "https://maps.apple/p/sXJ7dAGHT6t1-_"
 capital of: Russian Empire
 city of: Russia
 wikidata: "https://www.wikidata.org/wiki/Q656"

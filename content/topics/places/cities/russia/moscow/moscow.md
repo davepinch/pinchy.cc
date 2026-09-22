@@ -1,5 +1,6 @@
 ---
 title: "Moscow"
+apple maps: "https://maps.apple/p/bgKLGjTvaAeZPh"
 capital of:
   - Russia
   - Russian Empire

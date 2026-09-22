@@ -1,5 +1,6 @@
 ---
 title: "North Hudson, Wisconsin"
+apple maps: "https://maps.apple/p/rKZ1pdJZGy-UFw"
 city of: Wisconsin
 north of: Hudson, Wisconsin
 openstreetmap: "https://www.openstreetmap.org/relation/242809"

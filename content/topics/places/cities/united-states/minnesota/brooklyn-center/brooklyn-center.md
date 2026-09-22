@@ -6,6 +6,7 @@ adjacent to:
   - Minneapolis, Minnesota
   - Mississippi River
   - incomplete list
+apple maps: "https://maps.apple/p/6CsrUPJr-4NTyc"
 city of:
   - Hennepin County, Minnesota
   - Minnesota

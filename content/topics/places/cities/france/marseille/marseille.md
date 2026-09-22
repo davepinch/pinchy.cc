@@ -1,5 +1,6 @@
 ---
 title: "Marseille"
+apple maps: "https://maps.apple/p/tG3ohy3bu09jfC"
 city of:
   - France
   - Mediterranean Sea

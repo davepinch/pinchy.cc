@@ -1,5 +1,6 @@
 ---
 title: "Park City"
+apple maps: "https://maps.apple/p/_JuSpBcvUaTGwf"
 city of: Utah
 near: Salt Lake City
 openstreetmap: "https://www.openstreetmap.org/relation/198864"

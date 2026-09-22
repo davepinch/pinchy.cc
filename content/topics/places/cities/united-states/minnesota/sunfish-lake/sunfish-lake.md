@@ -1,5 +1,6 @@
 ---
 title: "Sunfish Lake, Minnesota"
+apple maps: "https://maps.apple/p/uzmH7Idh5d-s20"
 city of:
   - Dakota County, Minnesota
   - Minnesota

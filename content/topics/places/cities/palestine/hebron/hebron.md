@@ -1,5 +1,6 @@
 ---
 title: "Hebron"
+apple maps: "https://maps.apple/p/rq5C3~RWGiU46~"
 city of:
   - West Bank
   - Palestine

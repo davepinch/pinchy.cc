@@ -1,5 +1,6 @@
 ---
 title: "Youngstown, Ohio"
+apple maps: "https://maps.apple/p/33~QAdK87ufsG.z"
 city of: Ohio
 official website: "http://youngstownohio.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/181934"

@@ -1,5 +1,6 @@
 ---
 title: "Savannah, Georgia"
+apple maps: "https://maps.apple/p/g9VSH7.TFreDaL"
 city of:
   - Georgia
   - Atlantic Ocean

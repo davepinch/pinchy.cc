@@ -1,5 +1,6 @@
 ---
 title: "New Orleans"
+apple maps: "https://maps.apple/p/-Z6muUVx.vSoUg"
 city of:
   - Louisiana
   - Mississippi River

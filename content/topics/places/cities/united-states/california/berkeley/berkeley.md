@@ -1,5 +1,6 @@
 ---
 title: "Berkeley, California"
+apple maps: "https://maps.apple/p/bdgMx9cK2hcThm"
 city of: California
 openstreetmap: "https://www.openstreetmap.org/relation/2833528"
 vicinity to: San Francisco

@@ -1,5 +1,6 @@
 ---
 title: "Barcelona"
+apple maps: "https://maps.apple/p/s8zYzTf4iy337o"
 city of:
   - Catalonia
   - Spain

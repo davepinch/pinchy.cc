@@ -1,5 +1,6 @@
 ---
 title: "New York City"
+apple maps: "https://maps.apple/p/jaeWC7p6ozxmnr"
 city of: New York
 most populous city of: United States
 openstreetmap: "https://www.openstreetmap.org/relation/175905"

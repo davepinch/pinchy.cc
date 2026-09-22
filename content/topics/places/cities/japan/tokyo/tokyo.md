@@ -1,5 +1,6 @@
 ---
 title: "Tokyo"
+apple maps: "https://maps.apple/p/9jvjjYcLRyJ2jL"
 city of:
   - Japan
   - Pacific Ocean

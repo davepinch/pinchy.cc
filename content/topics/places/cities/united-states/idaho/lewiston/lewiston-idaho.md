@@ -1,5 +1,6 @@
 ---
 title: "Lewiston, Idaho"
+apple maps: "https://maps.apple/p/FvhTm.5REa~Kri"
 city in:
   - Palouse
   - Columbia Plateau

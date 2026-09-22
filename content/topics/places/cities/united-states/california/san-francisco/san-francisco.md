@@ -1,5 +1,6 @@
 ---
 title: "San Francisco"
+apple maps: "https://maps.apple/p/4s92g_huoiQZDu"
 city of:
   - California
   - Pacific Ocean

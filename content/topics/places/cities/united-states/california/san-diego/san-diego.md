@@ -1,5 +1,6 @@
 ---
 title: "San Diego, California"
+apple maps: "https://maps.apple/p/GusX4K.HQauwZA"
 city of:
   - California
   - Pacific Ocean

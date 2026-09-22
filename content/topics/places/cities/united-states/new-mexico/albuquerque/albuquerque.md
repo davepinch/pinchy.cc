@@ -1,5 +1,6 @@
 ---
 title: "Albuquerque, New Mexico"
+apple maps: "https://maps.apple/p/hiWFND_EajQX~e"
 city of: New Mexico
 openstreetmap: "https://www.openstreetmap.org/relation/171262"
 wikidata: "https://www.wikidata.org/entity/Q34804"

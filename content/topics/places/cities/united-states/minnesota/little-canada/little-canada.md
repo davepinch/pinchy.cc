@@ -5,9 +5,11 @@ adjacent to:
   - Roseville, Minnesota
   - Shoreview, Minnesota
   - Vadnais Heights, Minnesota
+apple maps: "https://maps.apple/p/_~nFp4vPSEDK_k"
 city of:
   - Ramsey County, Minnesota
   - Minnesota
+little of: Canada
 openstreetmap: "https://www.openstreetmap.org/relation/136609"
 suburb of:
   - Saint Paul, Minnesota

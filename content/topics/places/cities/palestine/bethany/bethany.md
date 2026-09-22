@@ -1,5 +1,7 @@
 ---
 title: "Bethany"
+also known as: Al 'Eizariya
+apple maps: "https://maps.apple/p/sEmxuDkVPraorW"
 city of:
   - West Bank
   - Palestine

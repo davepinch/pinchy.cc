@@ -9,6 +9,7 @@ adjacent to:
   - North Saint Paul, Minnesota
   - Pine Springs, Minnesota
   - Woodbury, Minnesota
+apple maps: "https://maps.apple/p/YxNdiU6XqBx_ag"
 city of:
   - Washington County, Minnesota
   - Minnesota

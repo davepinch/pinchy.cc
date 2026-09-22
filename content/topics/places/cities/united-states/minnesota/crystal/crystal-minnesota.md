@@ -1,5 +1,6 @@
 ---
 title: "Crystal, Minnesota"
+apple maps: "https://maps.apple/p/.-Y7asNo_teZi8"
 borders (clockwise from north):
   - Brooklyn Park, Minnesota
   - Brooklyn Center, Minnesota

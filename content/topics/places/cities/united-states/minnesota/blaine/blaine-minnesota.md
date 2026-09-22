@@ -9,6 +9,7 @@ adjacent to:
   - Shoreview, Minnesota
   - Spring Lake Park, Minnesota
   - incomplete list
+apple maps: "https://maps.apple/p/hThL28ILBo~BhD"
 city of:
   - Anoka County, Minnesota
   - Ramsey County, Minnesota

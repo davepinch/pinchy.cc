@@ -1,5 +1,6 @@
 ---
 title: "Pittsburgh, Pennsylvania"
+apple maps: "https://maps.apple/p/TbJCim_c7~xKDe"
 city of: Pennsylvania
 openstreetmap: "https://www.openstreetmap.org/relation/188553"
 wikidata: "https://www.wikidata.org/wiki/Q1342"

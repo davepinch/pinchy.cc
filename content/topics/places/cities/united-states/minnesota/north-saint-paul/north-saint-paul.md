@@ -4,6 +4,7 @@ adjacent to:
   - Maplewood, Minnesota
   - Oakdale, Minnesota
   - Washington County, Minnesota
+apple maps: "https://maps.apple/p/0Ug.wKu0dz9~2N"
 city of:
   - Ramsey County, Minnesota
   - Minnesota

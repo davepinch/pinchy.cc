@@ -1,5 +1,6 @@
 ---
 title: "St. Louis, Missouri"
+apple maps: "https://maps.apple/p/PzX97HwTRHaW-p"
 city of:
   - Missouri
   - Mississippi River

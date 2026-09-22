@@ -1,5 +1,6 @@
 ---
 title: "Buffalo, New York"
+apple maps: "https://maps.apple/p/qzjH-0zf75gujg"
 city of:
   - New York
   - Lake Erie

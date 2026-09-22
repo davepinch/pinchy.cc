@@ -1,6 +1,7 @@
 ---
 title: "Khan Yunis"
 also known as: Khan Younis
+apple maps: "https://maps.apple/p/f.6qGisbDJaAZN"
 city of:
   - Gaza Strip
   - Palestine

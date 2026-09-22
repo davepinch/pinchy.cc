@@ -1,5 +1,6 @@
 ---
 title: "Roswell, New Mexico"
+apple maps: "https://maps.apple/p/S-HcTEBwJ6zp2C"
 city of: New Mexico
 openstreetmap: "https://www.openstreetmap.org/relation/171201"
 wikidata: "https://www.wikidata.org/wiki/Q33561"

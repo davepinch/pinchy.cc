@@ -1,5 +1,6 @@
 ---
 title: "Minnetonka, Minnesota"
+apple maps: "https://maps.apple/p/jVrpB-.I3g~jw8"
 city of:
   - Hennepin County, Minnesota
   - Minnesota

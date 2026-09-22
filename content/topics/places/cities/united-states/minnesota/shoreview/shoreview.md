@@ -11,6 +11,7 @@ adjacent to:
   - Roseville, Minnesota
   - Vadnais Heights, Minnesota
   - White Bear Township, Minnesota
+apple maps: "https://maps.apple/p/f2Dqzkx5f0BkrM"
 city of:
   - Ramsey County, Minnesota
   - Minnesota

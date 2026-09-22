@@ -1,5 +1,6 @@
 ---
 title: "Rome"
+apple maps: "https://maps.apple/p/uWv-YtXMSWjzxg"
 city of: Italy
 near:
   - Florence

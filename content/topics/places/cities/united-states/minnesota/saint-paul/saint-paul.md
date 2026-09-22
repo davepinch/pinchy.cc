@@ -14,6 +14,7 @@ adjacent to:
   - Roseville, Minnesota
   - South St. Paul, Minnesota
   - West St. Paul, Minnesota
+apple maps: "https://maps.apple/p/gCn0WmZ.SvHN7q"
 city of:
   - Ramsey County, Minnesota
   - Minnesota

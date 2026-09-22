@@ -1,5 +1,6 @@
 ---
 title: "Belfast"
+apple maps: "https://maps.apple/p/uZ7cmgIRieXUn_"
 city of: Northern Ireland
 openstreetmap: "https://www.openstreetmap.org/way/1219767831"
 wikidata: "https://www.wikidata.org/wiki/Q10686"

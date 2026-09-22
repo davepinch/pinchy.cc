@@ -8,6 +8,7 @@ adjacent to:
   - Shoreview, Minnesota
   - White Bear Lake, Minnesota
   - White Bear Township, Minnesota
+apple maps: "https://maps.apple/p/r9i6bwgnK9j7Kx"
 city of:
   - Ramsey County, Minnesota
   - Minnesota

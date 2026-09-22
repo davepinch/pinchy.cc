@@ -1,5 +1,6 @@
 ---
 title: "Chicago"
+apple maps: "https://maps.apple/p/Rhiw_rmE9tbQTu"
 ASCEND: Willis Tower
 city of:
   - Illinois

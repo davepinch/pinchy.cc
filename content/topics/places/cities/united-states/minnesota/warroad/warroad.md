@@ -1,5 +1,6 @@
 ---
 title: "Warroad, Minnesota"
+apple maps: "https://maps.apple/p/cUvuZ6b8tdFJnK"
 city of:
   - Lake of the Woods
   - Minnesota

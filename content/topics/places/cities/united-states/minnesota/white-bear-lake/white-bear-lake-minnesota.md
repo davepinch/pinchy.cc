@@ -9,6 +9,7 @@ adjacent to:
   - Vadnais Heights, Minnesota
   - White Bear Lake
   - White Bear Township, Minnesota
+apple maps: "https://maps.apple/p/-y9ztP1CiJF2tb"
 city of:
   - Ramsey County, Minnesota
   - Washington County, Minnesota

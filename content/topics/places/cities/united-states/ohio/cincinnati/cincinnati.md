@@ -1,5 +1,6 @@
 ---
 title: "Cincinnati"
+apple maps: "https://maps.apple/p/1SZqErf.A62t0Q"
 city of: Ohio
 openstreetmap: "https://www.openstreetmap.org/relation/183453"
 wikidata: "https://www.wikidata.org/entity/Q43196"

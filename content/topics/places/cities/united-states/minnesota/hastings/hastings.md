@@ -1,5 +1,6 @@
 ---
 title: "Hastings, Minnesota"
+apple maps: "https://maps.apple/p/cbHUX056DNvFii"
 city of:
   - Dakota County, Minnesota
   - Minnesota

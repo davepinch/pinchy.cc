@@ -5,6 +5,7 @@ adjacent to:
   - Saint Croix River
   - Woodbury, Minnesota
   - incomplete list
+apple maps: "https://maps.apple/p/nZ5gaMMgWj7yTu"
 city of:
   - Washington County, Minnesota
   - Minnesota

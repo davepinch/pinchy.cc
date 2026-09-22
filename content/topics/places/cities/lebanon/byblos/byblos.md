@@ -1,5 +1,6 @@
 ---
 title: "Byblos"
+apple maps: "https://maps.apple/p/s~87kYivpqJDT~"
 city of:
   - Lebanon
   - Mediterranean Sea

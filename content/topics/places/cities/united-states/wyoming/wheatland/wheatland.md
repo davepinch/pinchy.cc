@@ -1,5 +1,6 @@
 ---
 title: "Wheatland, Wyoming"
+apple maps: "https://maps.apple/p/951XInXmd7Lrpj"
 city of: Wyoming
 official website: "https://www.wheatlandwy.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/252220"

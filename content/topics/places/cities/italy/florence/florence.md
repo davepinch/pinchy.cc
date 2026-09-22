@@ -1,5 +1,6 @@
 ---
 title: "Florence"
+apple maps: "https://maps.apple/p/hVyJoXPAsRJptR"
 city of: Italy
 near: Rome
 openstreetmap: "https://www.openstreetmap.org/relation/42602"

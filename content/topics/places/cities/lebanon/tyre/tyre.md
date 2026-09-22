@@ -1,5 +1,6 @@
 ---
 title: "Tyre"
+apple maps: "https://maps.apple/p/iZff68wT4mIZhA"
 city of:
   - Lebanon
   - Mediterranean Sea

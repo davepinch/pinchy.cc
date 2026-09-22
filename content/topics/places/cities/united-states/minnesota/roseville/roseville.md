@@ -12,6 +12,7 @@ adjacent to:
   - Saint Paul, Minnesota
   - Saint Anthony Village, Minnesota
   - Shoreview, Minnesota
+apple maps: "https://maps.apple/p/49dN~3aMzGxw-1"
 city of:
   - Ramsey County, Minnesota
   - Minnesota

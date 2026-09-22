@@ -5,6 +5,7 @@ adjacent to:
   - Saint Croix River
   - Stillwater Township, Minnesota
   - incomplete list
+apple maps: "https://maps.apple/p/yhd4mYTMQ2xj5U"
 city of:
   - Washington County, Minnesota
   - Minnesota

@@ -1,5 +1,6 @@
 ---
 title: "Port-au-Prince"
+apple maps: "https://maps.apple/p/G.w90xqJx6xBXs"
 city of: Haiti 
 openstreetmap: "https://www.openstreetmap.org/relation/387318"
 wikidata: "https://www.wikidata.org/wiki/Q34261"

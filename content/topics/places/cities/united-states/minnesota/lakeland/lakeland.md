@@ -3,6 +3,7 @@ title: "Lakeland, Minnesota"
 adjacent to:
   - Afton, Minnesota
   - incomplete list
+apple maps: "https://maps.apple/p/tHmYd~uubqds8F"
 city of:
   - Washington County, Minnesota
   - Minnesota

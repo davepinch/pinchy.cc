@@ -9,6 +9,7 @@ adjacent cities (clockwise from north):
   - New Hope, Minnesota
   - Maple Grove, Minnesota
   - Osseo, Minnesota
+apple maps: "https://maps.apple/p/6JerwMceHnKwDo"
 city of:
   - Hennepin County, Minnesota
   - Minnesota

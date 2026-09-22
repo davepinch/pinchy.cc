@@ -7,6 +7,7 @@ adjacent to:
   - Fridley, Minnesota
   - Mississippi River
   - incomplete list
+apple maps: "https://maps.apple/p/IQxPjZguskzWhV"
 city of:
   - Anoka County, Minnesota
   - Minnesota

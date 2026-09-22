@@ -8,6 +8,7 @@ adjacent to:
   - Mounds View, Minnesota
   - Roseville, Minnesota
   - Saint Anthony Village, Minnesota
+apple maps: "https://maps.apple/p/eAVLk3Nhmux7~X"
 city of:
   - Ramsey County, Minnesota
   - Minnesota

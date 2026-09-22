@@ -5,6 +5,7 @@ adjacent to:
   - Saint Paul, Minnesota
   - South St. Paul, Minnesota
   - incomplete list
+apple maps: "https://maps.apple/p/usAnZgsqieoTbj"
 city of:
   - Dakota County, Minnesota
   - Minnesota

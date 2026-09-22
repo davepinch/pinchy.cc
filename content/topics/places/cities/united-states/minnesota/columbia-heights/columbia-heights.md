@@ -6,6 +6,7 @@ adjacent to:
   - Minneapolis, Minnesota
   - New Brighton, Minnesota
   - Saint Anthony Village, Minnesota
+apple maps: "https://maps.apple/p/VHI3zSeC.WeL-0"
 city of:
   - Anoka County, Minnesota
   - Minnesota

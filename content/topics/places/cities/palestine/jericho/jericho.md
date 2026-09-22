@@ -1,5 +1,6 @@
 ---
 title: "Jericho"
+apple maps: "https://maps.apple/p/JJrshSYr_FEb14"
 city of:
   - West Bank
   - Palestine

@@ -1,5 +1,6 @@
 ---
 title: "Bangkok"
+apple maps: "https://maps.apple/p/uz8Q5WThR.0RKW"
 city of: Thailand
 openstreetmap: "https://www.openstreetmap.org/relation/92277"
 timezone: "UTC+07:00"

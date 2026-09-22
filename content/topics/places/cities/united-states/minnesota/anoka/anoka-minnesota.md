@@ -1,5 +1,6 @@
 ---
 title: "Anoka, Minnesota"
+apple maps: "https://maps.apple/p/CsiNZLP_cD~KZ-"
 city of:
   - Anoka County, Minnesota
   - Minnesota

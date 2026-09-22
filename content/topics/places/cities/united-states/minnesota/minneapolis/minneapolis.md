@@ -8,6 +8,7 @@ adjacent to:
   - Saint Paul, Minnesota
   - incomplete list
 ASCEND: IDS Center
+apple maps: "https://maps.apple/p/1SmI.KPtTKMsIN"
 city of:
   - Hennepin County, Minnesota
   - Minnesota

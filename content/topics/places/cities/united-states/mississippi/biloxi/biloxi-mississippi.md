@@ -1,5 +1,6 @@
 ---
 title: "Biloxi, Mississippi"
+apple maps: "https://maps.apple/p/N6Ft520SG4m6bg"
 city of:
   - Mississippi
   - Gulf of Mexico

@@ -1,5 +1,6 @@
 ---
 title: "Hudson, Wisconsin"
+apple maps: "https://maps.apple/p/epC1n5rnC~mp.z"
 city of:
   - Saint Croix River
   - Wisconsin

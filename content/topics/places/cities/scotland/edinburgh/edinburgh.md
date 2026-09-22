@@ -1,5 +1,6 @@
 ---
 title: "Edinburgh"
+apple maps: "https://maps.apple/p/L7jmImHU5kU.Lr"
 capital of: Scotland
 city of:
   - Scotland

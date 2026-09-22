@@ -1,5 +1,6 @@
 ---
 title: "Farley, Iowa"
+apple maps: "https://maps.apple/p/YKRSh9h9QBvBVL"
 city of:
   - Dubuque County, Iowa
   - Iowa

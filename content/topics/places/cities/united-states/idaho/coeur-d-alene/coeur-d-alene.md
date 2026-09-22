@@ -1,5 +1,6 @@
 ---
 title: "Coeur d'Alene, Idaho"
+apple maps: "https://maps.apple/p/CTCRTL_fou7d5J"
 city of: Idaho
 openstreetmap: "https://www.openstreetmap.org/relation/121259"
 satellite city of: Spokane, Washington

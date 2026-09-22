@@ -8,6 +8,7 @@ adjacent to:
   - New Brighton, Minnesota
   - Shoreview, Minnesota
   - Spring Lake Park, Minnesota
+apple maps: "https://maps.apple/p/_.kAbhGT5pCPbL"
 city of:
   - Ramsey County, Minnesota
   - Minnesota

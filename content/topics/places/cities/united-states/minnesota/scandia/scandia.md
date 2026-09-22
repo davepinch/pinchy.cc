@@ -1,5 +1,6 @@
 ---
 title: "Scandia, Minnesota"
+apple maps: "https://maps.apple/p/tmFyVqbNGGyr0g"
 city of:
   - Washington County, Minnesota
   - Minnesota

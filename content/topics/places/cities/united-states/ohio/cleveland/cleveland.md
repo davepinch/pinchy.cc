@@ -1,5 +1,6 @@
 ---
 title: "Cleveland, Ohio"
+apple maps: "https://maps.apple/p/.CcnDM46BIKLTi"
 city of: Ohio
 openstreetmap: "https://www.openstreetmap.org/relation/182130"
 wikidata: "https://www.wikidata.org/entity/Q37320"

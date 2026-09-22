@@ -1,5 +1,6 @@
 ---
 title: "Boise, Idaho"
+apple maps: "https://maps.apple/p/g_RvD9V4NFhtN0"
 city of:
   - Idaho
   - Interstate 84

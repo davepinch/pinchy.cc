@@ -5,6 +5,7 @@ adjacent to:
   - White Bear Lake
   - White Bear Lake, Minnesota
   - White Bear Township, Minnesota
+apple maps: "https://maps.apple/p/s.7o88qHWeVhme"
 city of:
   - Washington County, Minnesota
   - Minnesota

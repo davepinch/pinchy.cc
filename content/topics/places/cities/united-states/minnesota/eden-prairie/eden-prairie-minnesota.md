@@ -5,6 +5,7 @@ adjacent to:
   - Edina, Minnesota
   - Minnetonka, Minnesota
   - Chanhassen, Minnesota
+apple maps: "https://maps.apple/p/mWB~xoV9GMScVV"
 city of:
   - Hennepin County, Minnesota
   - Minnesota

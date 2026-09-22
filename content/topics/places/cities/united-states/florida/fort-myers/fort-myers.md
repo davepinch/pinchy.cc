@@ -1,5 +1,6 @@
 ---
 title: "Fort Myers, Florida"
+apple maps: "https://maps.apple/p/0XvaBEyjeEfN9~"
 city of: Florida
 openstreetmap: "https://www.openstreetmap.org/relation/118879"
 wikidata: "https://www.wikidata.org/entity/Q506451"

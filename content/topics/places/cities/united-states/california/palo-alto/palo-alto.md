@@ -1,5 +1,6 @@
 ---
 title: "Palo Alto, California"
+apple maps: "https://maps.apple/p/zFSkBbf~AJjRL6"
 city of: California
 openstreetmap: "https://www.openstreetmap.org/relation/1544955"
 wikidata: "https://www.wikidata.org/entity/Q47265"

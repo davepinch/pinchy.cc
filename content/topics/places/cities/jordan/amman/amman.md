@@ -1,5 +1,6 @@
 ---
 title: "Amman"
+apple maps: "https://maps.apple/p/08TkkWfFdmew-b"
 city of:
   - Jordan
   - Decapolis

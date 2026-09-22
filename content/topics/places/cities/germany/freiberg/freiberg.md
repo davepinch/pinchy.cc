@@ -1,5 +1,6 @@
 ---
 title: "Freiberg"
+apple maps: "https://maps.apple/p/UHSMVZ36ADJTIT"
 city of: Germany
 openstreetmap: "https://www.openstreetmap.org/relation/416561"
 wikidata: "https://www.wikidata.org/wiki/Q14819"

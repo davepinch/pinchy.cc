@@ -1,5 +1,6 @@
 ---
 title: "Andover, Minnesota"
+apple maps: "https://maps.apple/p/_Lj6CoduspNV5y"
 city of:
   - Anoka County, Minnesota
   - Minnesota

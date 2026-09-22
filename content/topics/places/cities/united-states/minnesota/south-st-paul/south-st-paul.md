@@ -5,6 +5,7 @@ adjacent to:
   - Saint Paul, Minnesota
   - West St. Paul, Minnesota
   - incomplete list
+apple maps: "https://maps.apple/p/krgom_ie3u5vN5"
 city of:
   - Dakota County, Minnesota
   - Minnesota

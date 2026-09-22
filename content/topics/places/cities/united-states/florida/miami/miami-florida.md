@@ -1,5 +1,6 @@
 ---
 title: "Miami, Florida"
+apple maps: "https://maps.apple/p/veKq~~q33KA~rs"
 city of:
   - Florida
   - Atlantic Ocean

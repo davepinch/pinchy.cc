@@ -6,6 +6,7 @@ adjacent to:
   - Brooklyn Park, Minnesota
   - Maple Grove, Minnesota
   - Coon Rapids, Minnesota
+apple maps: "https://maps.apple/p/UMIdYf9dvYfzmn"
 city of:
   - Hennepin County, Minnesota
   - Minnesota

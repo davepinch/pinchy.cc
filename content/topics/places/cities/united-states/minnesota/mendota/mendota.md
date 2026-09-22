@@ -5,6 +5,7 @@ adjacent to:
   - Mendota Heights, Minnesota
   - Minnesota River
   - Mississippi River
+apple maps: "https://maps.apple/p/DsxWxw9qwjs1.v"
 city of:
   - Dakota County, Minnesota
   - Minnesota

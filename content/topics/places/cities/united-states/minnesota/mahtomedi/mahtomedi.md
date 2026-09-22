@@ -9,6 +9,7 @@ adjacent to:
   - White Bear Lake
   - White Bear Lake, Minnesota
   - Willernie, Minnesota
+apple maps: "https://maps.apple/p/u8FWSjmv8YCqT4"
 clockwise around white bear lake: Birchwood Village, Minnesota
 city of:
   - Washington County, Minnesota

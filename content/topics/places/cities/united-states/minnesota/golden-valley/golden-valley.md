@@ -1,5 +1,6 @@
 ---
 title: "Golden Valley, Minnesota"
+apple maps: "https://maps.apple/p/KVkHeBC_V_q.wk"
 city of:
   - Hennepin County, Minnesota
   - Minnesota
