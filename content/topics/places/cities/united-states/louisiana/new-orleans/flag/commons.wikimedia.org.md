@@ -1,7 +1,7 @@
 ---
 title: "Flag_of_New_Orleans,_Louisiana.svg (Wikimedia Commons)"
 flag of:
-  - New Orleans
+  - New Orleans, Louisiana
   - horizontal
   - tricolor
   - triband

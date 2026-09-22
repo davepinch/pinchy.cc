@@ -7,7 +7,7 @@ retrieved: 2023-06-04
 type: website
 url: /en.wikipedia.org/wiki/New_Orleans/
 website: "https://en.wikipedia.org/wiki/New_Orleans"
-wikipedia of: New Orleans
+wikipedia of: New Orleans, Louisiana
 tags:
   - Wikipedia
 ---

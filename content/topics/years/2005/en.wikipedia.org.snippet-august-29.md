@@ -9,7 +9,7 @@ url: /en.wikipedia.org/wiki/2005/august-29/
 when: 2024-02-26
 tags:
   - Hurricane Katrina
-  - New Orleans
+  - New Orleans, Louisiana
   - Gulf of Mexico
   - snippet
 ---

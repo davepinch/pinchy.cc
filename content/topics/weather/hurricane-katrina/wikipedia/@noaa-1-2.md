@@ -6,7 +6,7 @@ citation: >-
 notable bulletin of:
   - Hurricane Katrina
   - National Weather Service
-  - New Orleans
+  - New Orleans, Louisiana
   - Baton Rouge, Louisiana
 related: WWUS74 KLIX 281550 NPWLIX
 type: snippet

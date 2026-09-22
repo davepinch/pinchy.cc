@@ -1,5 +1,5 @@
 ---
-title: "New Orleans"
+title: "New Orleans, Louisiana"
 apple maps: "https://maps.apple/p/-Z6muUVx.vSoUg"
 city in: Louisiana
 city of:

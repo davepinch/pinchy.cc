@@ -3,7 +3,7 @@ title: "Hurricane Katrina"
 tropical cyclone of:
   - Atlantic Ocean
   - Gulf of Mexico
-  - New Orleans
+  - New Orleans, Louisiana
   - Louisiana
   - United States
 wikidata: "https://www.wikidata.org/wiki/Q16422"
