@@ -10,4 +10,5 @@ url: /commons.wikimedia.org/wiki/File/US_2.svg/
 website: "https://commons.wikimedia.org/wiki/File:US_2.svg"
 tags:
   - Wikimedia Commons
+  - "2"
 ---
