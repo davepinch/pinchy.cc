@@ -7,6 +7,7 @@ city of:
   - U.S. Route 61
 openstreetmap: "https://www.openstreetmap.org/relation/132206"
 wikidata: "https://www.wikidata.org/entity/Q28218"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Baton_Rouge,_Louisiana"
 tags:
   - city
 ---
