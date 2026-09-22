@@ -13,6 +13,6 @@ highway of: 61
 wikidata: "https://www.wikidata.org/wiki/Q409964"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:U.S._Route_61"
 tags:
+  - U.S. Route
   - highway
-  - United States numbered highway
 ---

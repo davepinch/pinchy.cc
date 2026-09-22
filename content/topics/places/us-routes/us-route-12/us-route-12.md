@@ -5,5 +5,6 @@ highway of: 12
 wikidata: "https://www.wikidata.org/wiki/Q407564"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:U.S._Route_12"
 tags:
-  - United States Numbered Highway
+  - U.S. Route
+  - highway
 ---
