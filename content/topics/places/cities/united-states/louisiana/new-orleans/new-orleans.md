@@ -7,6 +7,7 @@ city of:
   - U.S. Route 61
 openstreetmap: "https://www.openstreetmap.org/relation/131885"
 wikidata: "https://www.wikidata.org/entity/Q34404"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:New_Orleans"
 tags:
   - city
 ---
