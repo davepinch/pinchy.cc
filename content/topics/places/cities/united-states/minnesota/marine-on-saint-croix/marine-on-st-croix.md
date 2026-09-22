@@ -1,5 +1,8 @@
 ---
 title: "Marine on St. Croix, Minnesota"
+adjacent to:
+  - Scandia, Minnesota
+  - Wisconsin
 apple maps: "https://maps.apple/p/IpWFT5.IsIP5fG"
 city of:
   - Washington County, Minnesota
