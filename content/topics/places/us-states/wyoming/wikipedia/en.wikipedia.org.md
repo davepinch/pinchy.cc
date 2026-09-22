@@ -1,9 +1,9 @@
 ---
 title: "Wyoming (Wikipedia)"
 excerpt: >-
-  **Wyoming** (/waɪˈoʊmɪŋ/) is a state in the Mountain West subregion of the Western United States. It is bordered by [Montana](/en.wikipedia.org/wiki/Montana/) to the north and northwest, [South Dakota](/en.wikipedia.org/wiki/South_Dakota/) and [Nebraska](/en.wikipedia.org/wiki/Nebraska/) to the east, [Idaho](/en.wikipedia.org/wiki/Idaho/) to the west, [Utah](/en.wikipedia.org/wiki/Utah/) to the southwest, and [Colorado](/en.wikipedia.org/wiki/Colorado/) to the south. With a population of 576,851 in the 2020 United States census, Wyoming is the least populous state despite being the 10th largest by area, with the second-lowest population density after Alaska. The state capital and most populous city is Cheyenne, which had an estimated population of 63,957 in 2018.
+  **Wyoming** (/waɪˈoʊmɪŋ/ *wy-OH-ming*) is a landlocked state in the Mountain West subregion of the Western United States. It borders Montana to the north and northwest, South Dakota and Nebraska to the east, Idaho to the west, Utah to the southwest, and Colorado to the south. With an estimated population of 587,618 as of 2024, Wyoming is the least populous state despite being the tenth-largest by area, and it has the second-lowest population density. The state capital and most populous city is Cheyenne.
 license: CC BY-SA 4.0
-retrieved: 2022-10-31
+retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/Wyoming/
 website: "https://en.wikipedia.org/wiki/Wyoming"

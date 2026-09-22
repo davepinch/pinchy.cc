@@ -1,9 +1,9 @@
 ---
 title: "Nebraska (Wikipedia)"
 excerpt: >-
-  **Nebraska** (/nəˈbræskə/) is a state in the [Midwestern](/en.wikipedia.org/wiki/Midwestern_United_States/) region of the [United States](/en.wikipedia.org/wiki/United_States/). It is bordered by [South Dakota](/en.wikipedia.org/wiki/South_Dakota/) to the north; [Iowa](/en.wikipedia.org/wiki/Iowa/) to the east and [Missouri](/en.wikipedia.org/wiki/Missouri/) to the southeast, both across the Missouri River; [Kansas](/en.wikipedia.org/wiki/Kansas/) to the south; [Colorado](/en.wikipedia.org/wiki/Colorado/) to the southwest; and [Wyoming](/en.wikipedia.org/wiki/Wyoming/) to the west. It is the only triply landlocked U.S. state.
+  **Nebraska** (/nəˈbræskə/ *nə-BRASK-ə*) is a landlocked state in the Midwestern region of the United States. It borders South Dakota to the north; Wyoming to the west; Colorado to the southwest; Kansas to the south; and Missouri to the southeast and Iowa to the east, both across the Missouri River. Nebraska is the 16th-largest state by land area, with just over 77,347 square miles (200,330 km2). As of the 2020 census, the population was 1,961,504, and was estimated to be 2,018,006 in 2025, it is the 38th-most populous state and the eighth-least densely populated. Nebraska's capital is Lincoln, and its most populous city is Omaha, which is on the Missouri River.
 license: CC BY-SA 4.0
-retrieved: 2022-10-31
+retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/Nebraska/
 website: "https://en.wikipedia.org/wiki/Nebraska"

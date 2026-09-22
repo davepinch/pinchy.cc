@@ -1,9 +1,9 @@
 ---
 title: "Ohio (Wikipedia)"
 excerpt: >-
-  **Ohio** (/oʊˈhaɪoʊ/) is a state in the [Midwestern](/en.wikipedia.org/wiki/Midwestern_United_States/) region of the [United States](/en.wikipedia.org/wiki/United_States/). Of the fifty U.S. states, it is the 34th-largest by area, and with a population of nearly 11.8 million, is the seventh-most populous and tenth-most densely populated. The state's capital and largest city is Columbus, with the Columbus metro area, Greater Cincinnati, and Greater Cleveland being the largest metropolitan areas. Ohio is bordered by [Lake Erie](/en.wikipedia.org/wiki/Lake_Erie/) to the north, [Pennsylvania](/en.wikipedia.org/wiki/Pennsylvania/) to the east, [West Virginia](/en.wikipedia.org/wiki/West_Virginia/) to the southeast, [Kentucky](/en.wikipedia.org/wiki/Kentucky/) to the southwest, [Indiana](/en.wikipedia.org/wiki/Indiana/) to the west, and [Michigan](/en.wikipedia.org/wiki/Michigan/) to the northwest. Ohio is historically known as the "Buckeye State" after its Ohio buckeye trees, and Ohioans are also known as "Buckeyes". Its state flag is the only non-rectangular flag of all the U.S. states.
+  **Ohio** (/oʊˈhaɪ.oʊ/ *oh-HY-oh*) is a state in the Midwestern region of the United States. It borders the Canadian province of Ontario to the north (through Lake Erie), Pennsylvania to the east, West Virginia to the southeast, Kentucky to the southwest, Indiana to the west, and Michigan to the northwest. Ohio is the 34th-largest state by area, at 44,825 sq mi (116,100 km2), and the seventh-most populous state, with a population of nearly 11.9 million. Its capital and most populous city is Columbus, with other major metropolitan cities including Cleveland, Cincinnati, Dayton, Akron, and Toledo.
 license: CC BY-SA 4.0
-retrieved: 2022-11-13
+retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/Ohio/
 website: "https://en.wikipedia.org/wiki/Ohio"

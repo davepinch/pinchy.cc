@@ -1,9 +1,9 @@
 ---
 title: "Oklahoma (Wikipedia)"
 excerpt: >-
-  **Oklahoma** (/ˌoʊkləˈhoʊmə/; Choctaw: *Oklahumma*, pronounced [oklahómma]; Cherokee: ᎣᎧᎳᎰᎹ, *Okalahoma*, pronounced [ògàlàhǒːmã́]) is a state in the South Central region of the [United States](/en.wikipedia.org/wiki/United_States/), bordered by [Texas](/en.wikipedia.org/wiki/Texas/) on the south and west, [Kansas](/en.wikipedia.org/wiki/Kansas/) on the north, [Missouri](/en.wikipedia.org/wiki/Missouri/) on the northeast, [Arkansas](/en.wikipedia.org/wiki/Arkansas/) on the east, [New Mexico](/en.wikipedia.org/wiki/New_Mexico/) on the west, and [Colorado](/en.wikipedia.org/wiki/Colorado/) on the northwest. Partially in the western extreme of the Upland South, it is the 20th-most extensive and the 28th-most populous of the 50 United States. Its residents are known as Oklahomans and its capital and largest city is Oklahoma City.
+  **Oklahoma** (/ˌoʊkləˈhoʊmə/ *OH-klə-HOH-mə*; Choctaw: *Oklahumma*, pronounced [oklahómma]), is a landlocked state in the South Central, Southern, and Southwestern regions of the United States. It borders Texas to the southwest, Kansas to the north, Missouri to the northeast, Arkansas to the southeast, New Mexico to the west, and Colorado to the northwest. Partially in the western extreme of the Upland South, it is the 20th-most extensive and the 28th-most populous of the 50 United States. Its residents are known as Oklahomans, and its capital and largest city is Oklahoma City.
 license: CC BY-SA 4.0
-retrieved: 2023-07-04
+retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/Oklahoma/
 website: "https://en.wikipedia.org/wiki/Oklahoma"

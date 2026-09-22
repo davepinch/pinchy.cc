@@ -1,13 +1,13 @@
 ---
 title: "Georgia (U.S. state) (Wikipedia)"
 excerpt: >-
-  **Georgia** is a state in the [Southeastern](/en.wikipedia.org/wiki/Southeastern_United_States) region of the [United States](/en.wikipedia.org/wiki/United_States/), bordered to the north by [Tennessee](/en.wikipedia.org/wiki/Tennessee) and [North Carolina](/en.wikipedia.org/wiki/North_Carolina); to the northeast by [South Carolina](/en.wikipedia.org/wiki/South_Carolina); to the southeast by the [Atlantic Ocean](/en.wikipedia.org/wiki/Atlantic_Ocean); to the south by [Florida](/en.wikipedia.org/wiki/Florida); and to the west by [Alabama](/en.wikipedia.org/wiki/Alabama). Georgia is the 24th-largest state in area and 8th most populous of the 50 United States. Its 2020 population was 10,711,908, according to the U.S. Census Bureau. [Atlanta](/en.wikipedia.org/wiki/Atlanta), a "beta(+)" global city, is both the state's capital and its largest city. The Atlanta metropolitan area, with a population of more than 6 million people in 2021, is the 8th most populous metropolitan area in the United States and contains about 57% of Georgia's entire population.
+  **Georgia** (/ˈdʒɔːrdʒə/ *JOR-jə*) is a state in the Southeastern, South Atlantic, and Deep South regions of the United States. It borders Tennessee to the northwest, North Carolina and South Carolina to the northeast, the Atlantic Ocean to the east, Florida to the south, and Alabama to the west. Of the 50 U.S. states, Georgia is the 24th-largest by area and eighth-most populous. According to the U.S. Census Bureau, its 2025 estimated population was 11,302,748. Atlanta, a global city, is both the state's capital and its largest city. The Atlanta metropolitan area, with a population greater than 6.3 million people in 2023, is the eighth most populous metropolitan area in the United States and contains about 57% of Georgia's entire population. Other major metropolitan areas in the state include Augusta, Savannah, Columbus, and Macon.
 license: CC BY-SA 4.0
-retrieved: 2023-07-15
+retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/Georgia_(U.S._state)/
 website: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
-wikipedia of: Georgia
+wikipedia of: Georgia (U.S. state)
 tags:
   - Wikipedia
 ---

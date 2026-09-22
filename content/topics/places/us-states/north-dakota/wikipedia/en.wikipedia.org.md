@@ -1,9 +1,9 @@
 ---
 title: "North Dakota (Wikipedia)"
 excerpt: >-
-  **North Dakota** ( /- dəˈkoʊtə/) is a U.S. state in the [Upper Midwest](/en.wikipedia.org/wiki/Upper_Midwest/), named after the indigenous Dakota Sioux. It is bordered by the Canadian provinces of Saskatchewan and Manitoba to the north and by the U.S. states of [Minnesota](/en.wikipedia.org/wiki/Minnesota/) to the east, [South Dakota](/en.wikipedia.org/wiki/South_Dakota/) to the south, and [Montana](/en.wikipedia.org/wiki/Montana/) to the west. North Dakota is part of the Great Plains region, characterized by broad prairies, steppe, temperate savanna, badlands, and farmland. It is believed to host the geographic center of North America, Rugby, and is home to the tallest artificial structure in the Western Hemisphere, the KVLY-TV mast.
+  **North Dakota** ( /dəˈkoʊtə/ *də-KOH-tə*) is a landlocked U.S. state in the Upper Midwest, named after the indigenous Dakota and Sioux peoples. It is bordered by the Canadian provinces of Saskatchewan and Manitoba to the north and by the U.S. states of Minnesota to the east, South Dakota to the south, and Montana to the west. North Dakota is part of the Great Plains region, characterized by broad prairies, steppe, temperate savanna, badlands, and farmland. North Dakota is the 19th-largest state by area, but with a population of just under 800,000, the fourth-least populous and fourth-least densely populated. The state capital is Bismarck and the most populous city is Fargo, which accounts for nearly a fifth of the state's population; both cities are among the fastest-growing in the U.S., although half of North Dakotans live in rural areas.
 license: CC BY-SA 4.0
-retrieved: 2023-07-16
+retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/North_Dakota/
 website: "https://en.wikipedia.org/wiki/North_Dakota"

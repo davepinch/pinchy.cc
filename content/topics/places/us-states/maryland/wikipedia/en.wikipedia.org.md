@@ -1,9 +1,9 @@
 ---
 title: "Maryland (Wikipedia)"
 excerpt: >-
-  **Maryland** (US: /ˈmɛrɪlənd/ *MERR-il-ənd*) is a state in the [Mid-Atlantic](/en.wikipedia.org/wiki/Mid-Atlantic_(United_States)/) region of the [United States](/en.wikipedia.org/wiki/United_States/). It shares borders with [Virginia](/en.wikipedia.org/wiki/Virginia/), [West Virginia](/en.wikipedia.org/wiki/West_Virginia/), and the [District of Columbia](/en.wikipedia.org/wiki/Washington,_D.C./) to its south and west; [Pennsylvania](/en.wikipedia.org/wiki/Pennsylvania/) to its north; and [Delaware](/en.wikipedia.org/wiki/Delaware/) and the [Atlantic Ocean](/en.wikipedia.org/wiki/Atlantic_Ocean/) to its east. Baltimore is the largest city in the state, and the capital is Annapolis. Among its occasional nicknames are *Old Line State*, the *Free State*, and the *Chesapeake Bay State*. It is named after Henrietta Maria, the French-born queen of England, Scotland, and Ireland, who was known then in England as Mary.
+  **Maryland** (US: /ˈmɛrələnd/) is a state in the Mid-Atlantic and Southeastern regions of the United States. It borders Virginia to its south, West Virginia to its west, Pennsylvania to its north, and Delaware to its east, as well as with the Atlantic Ocean to its east, and the national capital and federal district of Washington, D.C. to the southwest. With a total area of 12,407 square miles (32,130 km2), Maryland is the ninth-smallest state by land area, and its population of 6.1 million ranks it the 19th-most populous state and the fifth-most densely populated. Maryland's capital city is Annapolis, and the state's most populous city is Baltimore.
 license: CC BY-SA 4.0
-retrieved: 2022-10-31
+retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/Maryland/
 website: "https://en.wikipedia.org/wiki/Maryland"
