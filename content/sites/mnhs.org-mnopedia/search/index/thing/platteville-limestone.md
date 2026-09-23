@@ -1,6 +1,6 @@
 ---
 title: "Platteville Limestone (MNopedia)"
-author: Paul Nelson
+creator: Paul Nelson
 excerpt: >-
   Platteville limestone is a distinctive building stone of southeastern Minnesota and southwestern Wisconsin characterized by its gray color, rough texture, and many fossils. It was heavily used in the early decades of the building of the Twin Cities and Faribault.
 license: CC BY-SA 3.0
