@@ -1,5 +1,5 @@
 ---
-title: "Foshay Tower (mnopedia.org)"
+title: "Foshay Tower (MNopedia)"
 creator: Britt Aamodt
 excerpt: >-
   Since 1929, the Foshay Tower has been a vital part of the Minneapolis skyline. When it was built, the thirty-two-story tower was the tallest building between Chicago and the West Coast. In the 1970s and 1980s, much taller skyscrapers were built, but the attractive Foshay Tower remained a crowning glory of Minnesota architecture.
