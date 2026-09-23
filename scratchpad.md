@@ -1221,7 +1221,6 @@ There is only the frame you are in.
 * Redo east & westbound on Internet 90
 * https://www.historylink.org/File/3837 - Home of the Good Shepard, April 2017 dragon statue
 * https://washingtonlandscape.blogspot.com/ -- Good geology blog.
-* https://www.mnopedia.org/thing/platteville-limestone
 * Look into https://www.mountvernonwa.gov/facilities/facility/details/Little-Mountain-Park-15
 * Look into Monument Park
 * https://www.willhiteweb.com/washington/fire_lookouts/mcmurray_lookout/pilchuck_tree_farm_244.htm
