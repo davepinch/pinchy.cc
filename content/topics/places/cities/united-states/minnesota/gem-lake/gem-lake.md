@@ -5,9 +5,10 @@ adjacent to:
   - White Bear Lake, Minnesota
   - White Bear Township, Minnesota
 apple maps: "https://maps.apple/p/5Y72JzaC8Ev7-x"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
+city of: U.S. Route 61
 openstreetmap: "https://www.openstreetmap.org/relation/136606"
 suburb of:
   - Saint Paul, Minnesota
