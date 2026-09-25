@@ -10,10 +10,11 @@ adjacent to:
   - White Bear Lake
   - White Bear Township, Minnesota
 apple maps: "https://maps.apple/p/-y9ztP1CiJF2tb"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Washington County, Minnesota
   - Minnesota
+city of: U.S. Route 61
 clockwise around white bear lake: White Bear Township, Minnesota
 named after the lake: White Bear Lake
 openstreetmap: "https://www.openstreetmap.org/relation/137417"
