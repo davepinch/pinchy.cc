@@ -4,8 +4,8 @@ adjacent to:
   - Brooklyn Park, Minnesota
   - Fridley, Minnesota
   - Minneapolis, Minnesota
-  - Mississippi River
-  - incomplete list
+  - Robbinsdale, Minnesota
+  - Crystal, Minnesota
 apple maps: "https://maps.apple/p/6CsrUPJr-4NTyc"
 city in:
   - Hennepin County, Minnesota
