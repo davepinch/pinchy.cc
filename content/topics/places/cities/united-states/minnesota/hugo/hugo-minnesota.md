@@ -10,6 +10,7 @@ apple maps: "https://maps.apple/p/1KKwGwQ_BcNxLy"
 city in:
   - Washington County, Minnesota
   - Minnesota
+city of: U.S. Route 61
 openstreetmap: "https://www.openstreetmap.org/relation/136810"
 wikidata: "https://www.wikidata.org/wiki/Q18285736"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Hugo,_Minnesota"
