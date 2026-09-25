@@ -12,9 +12,13 @@ adjacent to:
 clockwise around white bear lake: Dellwood, Minnesota
 only remaining township of: Ramsey County, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/11822742"
-township of:
-  - White Bear Lake, Minnesota
+township in:
   - Ramsey County, Minnesota
+  - Minnesota
+township of:
+  - White Bear Lake
+  - White Bear Lake, Minnesota
+  - U.S. Route 61
 wikidata: "https://www.wikidata.org/wiki/Q998331"
 tags:
   - township
