@@ -7,7 +7,7 @@ retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/Georgia_(U.S._state)/
 website: "https://en.wikipedia.org/wiki/Georgia_(U.S._state)"
-wikipedia of: Georgia (U.S. state)
+wikipedia of: Georgia
 tags:
   - Wikipedia
 ---
