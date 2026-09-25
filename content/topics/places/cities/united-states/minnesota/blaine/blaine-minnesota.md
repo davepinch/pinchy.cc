@@ -12,10 +12,11 @@ adjacent to:
   - Fridley, Minnesota
   - Coon Rapids, Minnesota
 apple maps: "https://maps.apple/p/hThL28ILBo~BhD"
-city of:
+city in:
   - Anoka County, Minnesota
   - Ramsey County, Minnesota
   - Minnesota
+city of: Interstate 35W
 not to be confused with: Blaine, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/136848"
 suburb of:
