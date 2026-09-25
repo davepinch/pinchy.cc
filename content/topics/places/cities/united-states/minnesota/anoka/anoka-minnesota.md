@@ -1,5 +1,11 @@
 ---
 title: "Anoka, Minnesota"
+adjacent to:
+  - Andover, Minnesota
+  - Coon Rapids, Minnesota
+  - Champlin, Minnesota
+  - Dayton, Minnesota
+  - Ramsey, Minnesota
 apple maps: "https://maps.apple/p/CsiNZLP_cD~KZ-"
 city of:
   - Anoka County, Minnesota
