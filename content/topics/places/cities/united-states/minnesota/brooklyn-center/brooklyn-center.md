@@ -7,10 +7,12 @@ adjacent to:
   - Mississippi River
   - incomplete list
 apple maps: "https://maps.apple/p/6CsrUPJr-4NTyc"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of:
   - Interstate 94
+  - Mississippi River
 suburb of:
   - Minneapolis, Minnesota
   - Twin Cities
