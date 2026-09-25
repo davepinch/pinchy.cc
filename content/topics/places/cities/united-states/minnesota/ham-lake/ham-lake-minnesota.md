@@ -1,5 +1,13 @@
 ---
 title: "Ham Lake, Minnesota"
+adjacent to:
+  - East Bethel, Minnesota
+  - Columbus, Minnesota
+  - Lino Lakes, Minnesota
+  - Blaine, Minnesota
+  - Coon Rapids, Minnesota
+  - Andover, Minnesota
+  - Oak Grove, Minnesota
 apple maps: "https://maps.apple/p/X_WoPCUpCpwqej"
 city of:
   - Anoka County, Minnesota
