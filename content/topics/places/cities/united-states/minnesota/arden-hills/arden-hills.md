@@ -6,9 +6,12 @@ adjacent to:
   - New Brighton, Minnesota
   - Mounds View, Minnesota
 apple maps: "https://maps.apple/p/WRaDbk-HcvuMoJ"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
+city of:
+  - Interstate 35W
+  - Interstate 694
 openstreetmap: "https://www.openstreetmap.org/relation/136614"
 suburb of:
   - Saint Paul, Minnesota
