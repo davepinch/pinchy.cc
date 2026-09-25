@@ -1,12 +1,11 @@
 ---
 title: "Arden Hills, Minnesota"
-apple maps: "https://maps.apple/p/WRaDbk-HcvuMoJ"
-borders clockwise from north:
+adjacent to:
   - Shoreview, Minnesota
   - Roseville, Minnesota
   - New Brighton, Minnesota
-  - Interstate 35W (Minnesota)
   - Mounds View, Minnesota
+apple maps: "https://maps.apple/p/WRaDbk-HcvuMoJ"
 city of:
   - Ramsey County, Minnesota
   - Minnesota
