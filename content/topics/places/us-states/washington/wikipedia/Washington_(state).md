@@ -7,7 +7,7 @@ retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/Washington_(state)/
 website: "https://en.wikipedia.org/wiki/Washington_(state)"
-wikipedia of: Washington (state)
+wikipedia of: Washington
 tags:
   - Wikipedia
 ---
