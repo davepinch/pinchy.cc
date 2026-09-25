@@ -10,7 +10,6 @@ suburb of:
   - Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q923384"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnetonka,_Minnesota"
-wikipedia: "https://en.wikipedia.org/wiki/Minnetonka,_Minnesota"
 tags:
   - city
   - suburb
