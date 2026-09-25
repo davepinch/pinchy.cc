@@ -1,11 +1,13 @@
 ---
 title: "Cottage Grove, Minnesota"
 apple maps: "https://maps.apple/p/sUI4Eq0CQ9kR1T"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of:
   - Mississippi River
   - Minnesota State Highway 95
+  - U.S. Route 61
 openstreetmap: "https://www.openstreetmap.org/relation/136804"
 suburb of:
   - Saint Paul, Minnesota
