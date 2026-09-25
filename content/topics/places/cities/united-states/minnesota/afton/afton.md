@@ -2,9 +2,11 @@
 title: "Afton, Minnesota"
 adjacent to:
   - Lakeland, Minnesota
-  - Saint Croix River
+  - Lake St. Croix Beach, Minnesota
+  - St. Mary's Point, Minnesota
+  - Cottage Grove, Minnesota
   - Woodbury, Minnesota
-  - incomplete list
+  - Lake Elmo, Minnesota
 apple maps: "https://maps.apple/p/nZ5gaMMgWj7yTu"
 city of:
   - Washington County, Minnesota
