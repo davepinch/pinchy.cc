@@ -7,7 +7,7 @@ license: CC BY-SA 3.0
 mnopedia of: Red Wing, Minnesota
 retrieved: 2026-09-22
 type: website
-url: /www.mnhs.org/mnopedia/search/index/event/red-wing-s-stone-age
+url: /www.mnhs.org/mnopedia/search/index/event/red-wing-s-stone-age/
 website: "https://www.mnhs.org/mnopedia/search/index/event/red-wing-s-stone-age"
 tags:
   - website
