@@ -11,10 +11,12 @@ adjacent to:
   - Washington County, Minnesota
   - White Bear Lake, Minnesota
 apple maps: "https://maps.apple/p/YyyT~adLo_jGFB"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
+city of:
   - Interstate 94
+  - U.S. Route 61
 disambiguation of: Maplewood
 openstreetmap: "https://www.openstreetmap.org/relation/136631"
 suburb of:
