@@ -1,0 +1,13 @@
+---
+title: "Mounds View, Minnesota (Wikipedia)"
+excerpt: >-
+  **Mounds View** is a city in Ramsey County, Minnesota, United States. The population was 13,249 at the 2020 census. It is part of the Twin Cities Metropolitan Area.
+license: CC BY-SA 4.0
+retrieved: 2026-09-24
+type: website
+url: /en.wikipedia.org/wiki/Mounds_View,_Minnesota/
+website: "https://en.wikipedia.org/wiki/Mounds_View,_Minnesota"
+wikipedia of: Mounds View, Minnesota
+tags:
+  - Wikipedia
+---
