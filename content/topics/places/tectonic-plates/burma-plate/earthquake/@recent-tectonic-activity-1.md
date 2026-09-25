@@ -7,7 +7,7 @@ earthquake of:
   - Burma Plate
   - Indian Plate
 license: CC BY-SA 4.0
-snippet of: Burma Plate (Wikipedia)
+snippet of: Burma plate (Wikipedia)
 type: snippet
 url: /en.wikipedia.org/wiki/Burma_Plate/recent-tectonic-activity-1/
 when: 2004-12-26
