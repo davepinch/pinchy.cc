@@ -7,7 +7,7 @@ retrieved: 2026-09-22
 type: website
 url: /en.wikipedia.org/wiki/New_York_(state)/
 website: "https://en.wikipedia.org/wiki/New_York_(state)"
-wikipedia of: New York (state)
+wikipedia of: New York
 tags:
   - Wikipedia
 ---
