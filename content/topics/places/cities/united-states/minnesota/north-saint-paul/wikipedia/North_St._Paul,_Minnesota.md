@@ -7,7 +7,7 @@ retrieved: 2026-09-24
 type: website
 url: /en.wikipedia.org/wiki/North_St._Paul,_Minnesota/
 website: "https://en.wikipedia.org/wiki/North_St._Paul,_Minnesota"
-wikipedia of: North St. Paul, Minnesota
+wikipedia of: North Saint Paul, Minnesota
 tags:
   - Wikipedia
 ---
