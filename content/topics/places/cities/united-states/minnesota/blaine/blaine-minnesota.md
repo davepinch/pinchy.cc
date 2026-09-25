@@ -1,14 +1,16 @@
 ---
 title: "Blaine, Minnesota"
 adjacent to:
-  - Circle Pines, Minnesota
-  - Coon Rapids, Minnesota
-  - Fridley, Minnesota
+  - Ham Lake, Minnesota
+  - Columbus, Minnesota
   - Lino Lakes, Minnesota
-  - Mounds View, Minnesota
+  - Circle Pines, Minnesota
+  - Lexington, Minnesota
   - Shoreview, Minnesota
+  - Mounds View, Minnesota
   - Spring Lake Park, Minnesota
-  - incomplete list
+  - Fridley, Minnesota
+  - Coon Rapids, Minnesota
 apple maps: "https://maps.apple/p/hThL28ILBo~BhD"
 city of:
   - Anoka County, Minnesota
