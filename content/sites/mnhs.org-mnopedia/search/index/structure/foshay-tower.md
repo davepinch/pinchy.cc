@@ -7,7 +7,7 @@ license: CC BY-SA 3.0
 mnopedia of: Foshay Tower
 retrieved: 2026-09-22
 type: website
-url: /www.mnhs.org/mnopedia/search/index/structure/foshay-tower
+url: /www.mnhs.org/mnopedia/search/index/structure/foshay-tower/
 website: "https://www.mnhs.org/mnopedia/search/index/structure/foshay-tower"
 tags:
   - website
