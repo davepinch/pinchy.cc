@@ -1,5 +1,5 @@
 ---
-title: "Platville Limestone"
+title: "Platteville Limestone"
 geological formation in:
   - Minnesota
   - Wisconsin
