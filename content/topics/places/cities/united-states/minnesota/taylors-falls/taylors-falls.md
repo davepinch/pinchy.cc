@@ -2,9 +2,10 @@
 title: "Taylors Falls, Minnesota"
 across the river: St. Croix Falls, Wisconsin
 apple maps: "https://maps.apple/p/dc9EoRCJWY14oy"
-city of:
+city in:
   - Chisago County, Minnesota
   - Minnesota
+city of:
   - Saint Croix River
   - Minnesota State Highway 95
 openstreetmap: "https://www.openstreetmap.org/relation/137285"
