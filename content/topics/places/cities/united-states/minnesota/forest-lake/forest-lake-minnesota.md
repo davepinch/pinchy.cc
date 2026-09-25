@@ -1,6 +1,12 @@
 ---
 title: "Forest Lake, Minnesota"
-adjacent to: Chisago County, Minnesota
+adjacent to:
+  - Wyoming, Minnesota
+  - Chisago City, Minnesota
+  - Scandia, Minnesota
+  - Hugo, Minnesota
+  - Lino Lakes, Minnesota
+  - Columbus, Minnesota
 apple maps: "https://maps.apple/p/hdwjPSP-pEt2Nv"
 city in:
   - Washington County, Minnesota
