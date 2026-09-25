@@ -1,6 +1,6 @@
 ---
 title: "On the morning of the 19th [of August 1881] we sighted the island of Saint Mathews, passing three miles to the eastward of it, its highest peaks only showing above the fog."
-sighting of: Saint Matthew Island
+sighting of: St. Matthew Island
 snippet of: Report of the International polar expedition to Point Barrow, Alaska, in response to the resolution of the [U.S.] House of representatives of December 11, 1884 (archive.org)
 timeline of: Report of the International Polar Expedition to Point Barrow, Alaska
 type: snippet
