@@ -1,0 +1,11 @@
+---
+title: "Goodhue County, Minnesota"
+apple maps: "https://maps.apple/p/m1tMIqCpDf4t4r"
+county in: Minnesota
+openstreetmap: "https://www.openstreetmap.org/relation/1795847"
+wikidata: "https://www.wikidata.org/wiki/Q8494271"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Goodhue_County,_Minnesota"
+tags:
+  - county
+  - county in Minnesota
+---
