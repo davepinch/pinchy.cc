@@ -15,11 +15,13 @@ adjacent to:
   - South St. Paul, Minnesota
   - West St. Paul, Minnesota
 apple maps: "https://maps.apple/p/gCn0WmZ.SvHN7q"
-city of:
+city in:
   - Ramsey County, Minnesota
-  - Minnesota
   - Twin Cities
+  - Minnesota
+city of:
   - Interstate 94
+  - U.S. Route 61
 namesake of: Paul the Apostle
 openstreetmap: "https://www.openstreetmap.org/relation/136612"
 wikidata: "https://www.wikidata.org/entity/Q28848"
