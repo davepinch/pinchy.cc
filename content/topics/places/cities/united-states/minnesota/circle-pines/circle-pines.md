@@ -4,7 +4,7 @@ adjacent to:
   - Blaine, Minnesota
   - Lino Lakes, Minnesota
   - Shoreview, Minnesota
-  - incomplete list
+  - Lexington, Minnesota
 apple maps: "https://maps.apple/p/0h18bBzxZcrLGW"
 city of:
   - Anoka County, Minnesota
