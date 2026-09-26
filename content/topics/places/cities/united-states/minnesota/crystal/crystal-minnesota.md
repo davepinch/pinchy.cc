@@ -16,7 +16,6 @@ suburb of:
   - Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q948360"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Crystal,_Minnesota"
-wikipedia: "https://en.wikipedia.org/wiki/Crystal%2C_Minnesota"
 tags:
   - city
   - suburb
