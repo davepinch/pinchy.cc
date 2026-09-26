@@ -1,12 +1,13 @@
 ---
 title: "Coon Rapids, Minnesota"
 adjacent to:
+  - Andover, Minnesota
+  - Ham Lake, Minnesota
   - Blaine, Minnesota
+  - Fridley, Minnesota
   - Brooklyn Park, Minnesota
   - Champlin, Minnesota
-  - Fridley, Minnesota
-  - Mississippi River
-  - incomplete list
+  - Anoka, Minnesota
 apple maps: "https://maps.apple/p/IQxPjZguskzWhV"
 city in:
   - Anoka County, Minnesota
