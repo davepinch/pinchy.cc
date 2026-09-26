@@ -7,9 +7,10 @@ adjacent to:
   - Maple Grove, Minnesota
   - Coon Rapids, Minnesota
 apple maps: "https://maps.apple/p/UMIdYf9dvYfzmn"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of: Mississippi River
 openstreetmap: "https://www.openstreetmap.org/relation/136688"
 suburb of:
   - Minneapolis, Minnesota
