@@ -8,9 +8,10 @@ adjacent to:
   - Mississippi River
   - incomplete list
 apple maps: "https://maps.apple/p/IQxPjZguskzWhV"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
+city of: Mississippi River
 suburb of:
   - Minneapolis, Minnesota
   - Twin Cities
