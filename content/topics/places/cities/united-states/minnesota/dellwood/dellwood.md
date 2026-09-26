@@ -3,12 +3,12 @@ title: "Dellwood, Minnesota"
 adjacent to:
   - Grant, Minnesota
   - Mahtomedi, Minnesota
-  - White Bear Lake
   - White Bear Township, Minnesota
 apple maps: "https://maps.apple/p/4h~JpxxLDyvZtJ"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of: White Bear Lake
 clockwise around white bear lake: Mahtomedi, Minnesota
 suburb of:
   - Saint Paul, Minnesota
