@@ -1,5 +1,12 @@
 ---
 title: "Chisago City, Minnesota"
+adjacent to:
+  - Stacy, Minnesota
+  - Chisago Lake Township, Minnesota
+  - Lindstrom, Minnesota
+  - Scandia, Minnesota
+  - Forest Lake, Minnesota
+  - Wyoming, Minnesota
 apple maps: "https://maps.apple/p/5Aj3x2PQC7Werf"
 city in:
   - Chisago County, Minnesota
