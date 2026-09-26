@@ -2,10 +2,10 @@
 title: "Columbia Heights, Minnesota"
 adjacent to:
   - Fridley, Minnesota
-  - Hilltop, Minnesota
-  - Minneapolis, Minnesota
   - New Brighton, Minnesota
   - Saint Anthony Village, Minnesota
+  - Minneapolis, Minnesota
+  - Hilltop, Minnesota
 apple maps: "https://maps.apple/p/VHI3zSeC.WeL-0"
 city of:
   - Anoka County, Minnesota
