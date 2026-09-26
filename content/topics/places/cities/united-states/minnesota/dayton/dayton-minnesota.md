@@ -1,5 +1,14 @@
 ---
 title: "Dayton, Minnesota"
+adjacent to:
+  - Elk River, Minnesota
+  - Ramsey, Minnesota
+  - Anoka, Minnesota
+  - Champlin, Minnesota
+  - Maple Grove, Minnesota
+  - Corcoran, Minnesota
+  - Rogers, Minnesota
+  - Otsego, Minnesota
 apple maps: "https://maps.apple/p/kn~r651pHszCuV"
 city in:
   - Hennepin County, Minnesota
