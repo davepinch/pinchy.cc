@@ -1,12 +1,12 @@
 ---
 title: "Crystal, Minnesota"
-apple maps: "https://maps.apple/p/.-Y7asNo_teZi8"
-borders (clockwise from north):
+adjacent to:
   - Brooklyn Park, Minnesota
   - Brooklyn Center, Minnesota
   - Robbinsdale, Minnesota
   - Golden Valley, Minnesota
   - New Hope, Minnesota
+apple maps: "https://maps.apple/p/.-Y7asNo_teZi8"
 city of:
   - Hennepin County, Minnesota
   - Minnesota
