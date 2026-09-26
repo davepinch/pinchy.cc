@@ -1,5 +1,12 @@
 ---
 title: "Cottage Grove, Minnesota"
+adjacent to:
+  - Woodbury, Minnesota
+  - Afton, Minnesota
+  - Rosemount, Minnesota
+  - Inver Grove Heights, Minnesota
+  - Saint Paul Park, Minnesota
+  - Newport, Minnesota
 apple maps: "https://maps.apple/p/sUI4Eq0CQ9kR1T"
 city in:
   - Washington County, Minnesota
