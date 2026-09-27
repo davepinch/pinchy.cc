@@ -1,5 +1,14 @@
 ---
 title: "Bloomington, Minnesota"
+adjacent to:
+  - Edina, Minnesota
+  - Richfield, Minnesota
+  - Mendota Heights, Minnesota
+  - Eagan, Minnesota
+  - Burnsville, Minnesota
+  - Savage, Minnesota
+  - Shakopee, Minnesota
+  - Eden Prairie, Minnesota
 apple maps: "https://maps.apple/p/1t5ZWDJgr.UIpL"
 city in:
   - Hennepin County, Minnesota
