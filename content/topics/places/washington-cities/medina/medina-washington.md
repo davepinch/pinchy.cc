@@ -23,4 +23,5 @@ wikidata: "https://www.wikidata.org/entity/Q1506847"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Medina,_Washington"
 tags:
   - city
+  - disambiguation
 ---
