@@ -1,5 +1,14 @@
 ---
 title: "Corcoran, Minnesota"
+adjacent to:
+  - Hanover, Minnesota
+  - Rogers, Minnesota
+  - Dayton, Minnesota
+  - Maple Grove, Minnesota
+  - Plymouth, Minnesota
+  - Medina, Minnesota
+  - Independence, Minnesota
+  - Greenfield, Minnesota
 apple maps: "https://maps.apple/p/Mgixzfe1La.VEh"
 city of:
   - Hennepin County, Minnesota
