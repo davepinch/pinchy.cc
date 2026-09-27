@@ -1,0 +1,13 @@
+---
+title: "Empire, Minnesota"
+apple maps: "https://maps.apple/p/ZMy02-n4PJHjwQ"
+city of:
+  - Dakota County, Minnesota
+  - Minnesota
+official website: "https://empiremn.gov/"
+openstreetmap: "https://www.openstreetmap.org/relation/15782281"
+wikidata: "https://www.wikidata.org/wiki/Q1899809"
+tags:
+  - city
+  - no Wikimedia category
+---
