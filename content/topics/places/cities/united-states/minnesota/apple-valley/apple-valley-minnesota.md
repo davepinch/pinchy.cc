@@ -1,5 +1,11 @@
 ---
 title: "Apple Valley, Minnesota"
+adjacent to:
+  - Eagan, Minnesota
+  - Rosemount, Minnesota
+  - Empire, Minnesota
+  - Lakeville, Minnesota
+  - Burnsville, Minnesota
 apple maps: "https://maps.apple/p/64-w6RYsmBsFfV"
 city of:
   - Dakota County, Minnesota
