@@ -10,7 +10,6 @@ suburb of:
   - Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q957763"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Edina,_Minnesota"
-wikipedia: "https://en.wikipedia.org/wiki/Edina,_Minnesota"
 tags:
   - city
 ---
