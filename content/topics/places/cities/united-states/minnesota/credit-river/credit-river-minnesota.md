@@ -1,0 +1,13 @@
+---
+title: "Credit River, Minnesota"
+apple maps: "https://maps.apple/p/e2a_g.fZC_eTd4"
+city of:
+  - Scott County, Minnesota
+  - Minnesota
+official website: "https://www.creditriver-mn.gov/"
+openstreetmap: "https://www.openstreetmap.org/relation/13253143"
+wikidata: "https://www.wikidata.org/wiki/Q1898300"
+tags:
+  - city
+  - no Wikimedia category
+---
