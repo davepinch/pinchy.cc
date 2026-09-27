@@ -1,5 +1,12 @@
 ---
 title: "Burnsville, Minnesota"
+adjacent to:
+  - Bloomington, Minnesota
+  - Eagan, Minnesota
+  - Apple Valley, Minnesota
+  - Lakeville, Minnesota
+  - Credit River, Minnesota
+  - Savage, Minnesota
 apple maps: "https://maps.apple/p/WDvGyB8qtASS3V"
 city in:
   - Dakota County, Minnesota
