@@ -1,5 +1,10 @@
 ---
 title: "Credit River, Minnesota"
+adjacent to:
+  - Savage, Minnesota
+  - Burnsville, Minnesota
+  - Lakeville, Minnesota
+  - Prior Lake, Minnesota
 apple maps: "https://maps.apple/p/e2a_g.fZC_eTd4"
 city of:
   - Scott County, Minnesota
