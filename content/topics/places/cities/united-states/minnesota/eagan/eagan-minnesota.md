@@ -1,5 +1,13 @@
 ---
 title: "Eagan, Minnesota"
+adjacent to:
+  - Mendota Heights, Minnesota
+  - Sunfish Lake, Minnesota
+  - Inver Grove Heights, Minnesota
+  - Rosemount, Minnesota
+  - Apple Valley, Minnesota
+  - Burnsville, Minnesota
+  - Bloomington, Minnesota
 apple maps: "https://maps.apple/p/_g4HKb5aMhtaiN"
 city of:
   - Dakota County, Minnesota
