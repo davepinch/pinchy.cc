@@ -1,5 +1,11 @@
 ---
 title: "Greenfield, Minnesota"
+adjacent to:
+  - Hanover, Minnesota
+  - Corcoran, Minnesota
+  - Medina, Minnesota
+  - Independence, Minnesota
+  - Rockford, Minnesota
 apple maps: "https://maps.apple/p/zr9WhDXdrSrvhR"
 city of:
   - Hennepin County, Minnesota
