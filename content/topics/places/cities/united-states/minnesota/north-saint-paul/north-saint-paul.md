@@ -1,5 +1,5 @@
 ---
-title: "North Saint Paul, Minnesota"
+title: "North St. Paul, Minnesota"
 adjacent to:
   - Maplewood, Minnesota
   - Oakdale, Minnesota

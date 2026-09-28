@@ -14,7 +14,7 @@ map of:
   - Mounds View, Minnesota
   - New Brighton, Minnesota
   - New Canada Township, Minnesota
-  - North Saint Paul, Minnesota
+  - North St. Paul, Minnesota
   - Pleasant Lake
   - Saint Paul, Minnesota
   - Snail Lake

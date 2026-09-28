@@ -1,7 +1,7 @@
 ---
 title: "North High School"
 school of:
-  - North Saint Paul, Minnesota
+  - North St. Paul, Minnesota
   - Ramsey County, Minnesota
   - Independent School District 622
 official website: "https://north.isd622.org/"

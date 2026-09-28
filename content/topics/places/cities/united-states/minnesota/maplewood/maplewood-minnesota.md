@@ -3,7 +3,7 @@ title: "Maplewood, Minnesota"
 adjacent to:
   - Little Canada, Minnesota
   - Newport, Minnesota
-  - North Saint Paul, Minnesota
+  - North St. Paul, Minnesota
   - Oakdale, Minnesota
   - Roseville, Minnesota
   - Saint Paul, Minnesota

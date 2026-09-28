@@ -6,7 +6,7 @@ adjacent to:
   - Landfall, Minnesota
   - Mahtomedi, Minnesota
   - Maplewood, Minnesota
-  - North Saint Paul, Minnesota
+  - North St. Paul, Minnesota
   - Pine Springs, Minnesota
   - Woodbury, Minnesota
 apple maps: "https://maps.apple/p/YxNdiU6XqBx_ag"

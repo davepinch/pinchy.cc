@@ -1,9 +1,9 @@
 ---
-title: "Silver Lake (North Saint Paul, Minnesota)"
+title: "Silver Lake (North St. Paul, Minnesota)"
 apple maps: "https://maps.apple/p/75_viaH5DuYVtu"
 disambiguation of: Silver Lake
 lake in:
-  - North Saint Paul, Minnesota
+  - North St. Paul, Minnesota
   - Ramsey County, Minnesota
   - Minnesota
 lake of: silver
