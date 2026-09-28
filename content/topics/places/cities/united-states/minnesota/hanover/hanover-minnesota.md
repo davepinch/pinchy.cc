@@ -1,5 +1,10 @@
 ---
 title: "Hanover, Minnesota"
+adjacent to:
+  - St. Michael, Minnesota
+  - Rogers, Minnesota
+  - Corcoran, Minnesota
+  - Greenfield, Minnesota
 apple maps: "https://maps.apple/p/HyPuRTSnUu9RVv"
 city of:
   - Wright County, Minnesota
