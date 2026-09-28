@@ -1,8 +1,10 @@
 ---
 title: "Lakeland, Minnesota"
 adjacent to:
+  - West Lakeland Township
+  - Lakeland Shores, Minnesota
+  - Lake St. Croix Beach, Minnesota
   - Afton, Minnesota
-  - incomplete list
 apple maps: "https://maps.apple/p/tHmYd~uubqds8F"
 city of:
   - Washington County, Minnesota
