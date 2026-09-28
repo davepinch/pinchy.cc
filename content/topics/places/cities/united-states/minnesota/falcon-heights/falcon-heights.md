@@ -1,9 +1,9 @@
 ---
 title: "Falcon Heights, Minnesota"
 adjacent to:
-  - Lauderdale, Minnesota
   - Roseville, Minnesota
   - Saint Paul, Minnesota
+  - Lauderdale, Minnesota
 apple maps: "https://maps.apple/p/.ErwPXG0AbKwLk"
 city of:
   - Ramsey County, Minnesota
