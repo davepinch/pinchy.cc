@@ -1,5 +1,16 @@
 ---
 title: "Minnetonka, Minnesota"
+adjacent to:
+  - Plymouth, Minnesota
+  - St. Louis Park, Minnesota
+  - Hopkins, Minnesota
+  - Edina, Minnesota
+  - Eden Prarie, Minnesota
+  - Chanhassen, Minnesota
+  - Shorewood, Minnesota
+  - Deephaven, Minnesota
+  - Woodland, Minnesota
+  - Wayzata, Minnesota
 apple maps: "https://maps.apple/p/jVrpB-.I3g~jw8"
 city in:
   - Hennepin County, Minnesota
