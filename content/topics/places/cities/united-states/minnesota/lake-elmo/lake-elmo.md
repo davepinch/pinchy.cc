@@ -1,12 +1,14 @@
 ---
 title: "Lake Elmo, Minnesota"
 adjacent to:
-  - Baytown Township, Minnesota
+  - Grant, Minnesota
+  - Stillwater, Minnesota
   - Oak Park Heights, Minnesota
+  - Baytown Township, Minnesota
+  - Afton, Minnesota
+  - Woodbury, Minnesota
   - Oakdale, Minnesota
   - Pine Springs, Minnesota
-  - Woodbury, Minnesota
-  - incomplete list
 apple maps: "https://maps.apple/p/RDiPpAbBxiuB1Q"
 city of:
   - Washington County, Minnesota
