@@ -1,9 +1,12 @@
 ---
 title: "Grant, Minnesota"
 adjacent to:
-  - Dellwood, Minnesota
+  - Hugo, Minnesota
+  - Stillwater, Minnesota
+  - Lake Elmo, Minnesota
+  - Pine Springs, Minnesota
   - Mahtomedi, Minnesota
-  - incomplete list
+  - Dellwood, Minnesota
 apple maps: "https://maps.apple/p/9IaXisgzAPGZbz"
 city of:
   - Washington County, Minnesota
