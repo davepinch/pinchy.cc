@@ -5,9 +5,12 @@ adjacent to:
   - Mendota Heights, Minnesota
   - Mendota, Minnesota
 apple maps: "https://maps.apple/p/p7KkFDHTcbeD8m"
-city of:
+city in:
   - Dakota County, Minnesota
   - Minnesota
+city of:
+  - Minnesota River
+  - Mississippi River
 openstreetmap: "https://www.openstreetmap.org/relation/136897"
 suburb of:
   - Saint Paul, Minnesota
