@@ -3,12 +3,13 @@ title: "Mendota, Minnesota"
 adjacent to:
   - Lilydale, Minnesota
   - Mendota Heights, Minnesota
-  - Minnesota River
-  - Mississippi River
 apple maps: "https://maps.apple/p/DsxWxw9qwjs1.v"
-city of:
+city in:
   - Dakota County, Minnesota
   - Minnesota
+city of:
+  - Minnesota River
+  - Mississippi River
 openstreetmap: "https://www.openstreetmap.org/relation/136571"
 suburb of:
   - Saint Paul, Minnesota
