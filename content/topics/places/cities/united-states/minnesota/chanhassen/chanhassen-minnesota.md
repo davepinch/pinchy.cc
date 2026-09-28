@@ -1,5 +1,12 @@
 ---
 title: "Chanhassen, Minnesota"
+adjacent to:
+  - Shorewood, Minnesota
+  - Minnetonka, Minnesota
+  - Eden Prairie, Minnesota
+  - Shakopee, Minnesota
+  - Chaska, Minnesota
+  - Victoria, Minnesota
 apple maps: "https://maps.apple/p/e6RwFLIm6SP29i"
 city of:
   - Carver County, Minnesota
