@@ -1,14 +1,15 @@
 ---
 title: "Mendota Heights, Minnesota"
 adjacent to:
-  - Eagan, Minnesota
-  - Fort Snelling (unincorporated territory)
-  - Lilydale, Minnesota
-  - Mendota, Minnesota
-  - Mississippi River
   - Saint Paul, Minnesota
-  - Sunfish Lake, Minnesota
   - West St. Paul, Minnesota
+  - Sunfish Lake, Minnesota
+  - Inver Grove Heights, Minnesota
+  - Eagan, Minnesota
+  - Bloomington, Minnesota
+  - Fort Snelling (unincorporated territory)
+  - Mendota, Minnesota
+  - Lilydale, Minnesota
 apple maps: "https://maps.apple/p/jIBmUDVsRaibYJ"
 city in:
   - Dakota County, Minnesota
