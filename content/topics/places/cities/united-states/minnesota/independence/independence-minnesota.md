@@ -1,5 +1,13 @@
 ---
 title: "Independence, Minnesota"
+adjacent to:
+  - Greenfield, Minnesota
+  - Corcoran, Minnesota
+  - Medina, Minnesota
+  - Maple Plain, Minnesota
+  - Orono, Minnesota
+  - Minnetrista, Minnesota
+  - Delano, Minnesota
 apple maps: "https://maps.apple/p/7-zzZKv-GHp5DT"
 city of:
   - Hennepin County, Minnesota
