@@ -1,5 +1,14 @@
 ---
 title: "Medina, Minnesota"
+adjacent to:
+  - Loretto, Minnesota
+  - Corcoran, Minnesota
+  - Maple Grove, Minnesota
+  - Plymouth, Minnesota
+  - Orono, Minnesota
+  - Independence, Minnesota
+  - Maple Plain, Minnesota
+  - Greenfield, Minnesota
 apple maps: "https://maps.apple/p/8Du_431kF589pV"
 city of:
   - Hennepin County, Minnesota
