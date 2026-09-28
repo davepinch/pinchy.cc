@@ -10,9 +10,10 @@ adjacent to:
   - Birchwood Village, Minnesota
 apple maps: "https://maps.apple/p/u8FWSjmv8YCqT4"
 clockwise around white bear lake: Birchwood Village, Minnesota
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of: White Bear Lake
 openstreetmap: "https://www.openstreetmap.org/relation/137849"
 suburb of:
   - Saint Paul, Minnesota
