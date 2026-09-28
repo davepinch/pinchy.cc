@@ -1,6 +1,7 @@
 ---
 title: "Mendota, Minnesota"
 adjacent to:
+  - Saint Paul, Minnesota
   - Lilydale, Minnesota
   - Mendota Heights, Minnesota
 apple maps: "https://maps.apple/p/DsxWxw9qwjs1.v"
