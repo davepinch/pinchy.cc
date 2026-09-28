@@ -1,5 +1,11 @@
 ---
 title: "Elk River, Minnesota"
+adjacent to:
+  - St. Francis, Minnesota
+  - Nowthen, Minnesota
+  - Ramsey, Minnesota
+  - Dayton, Minnesota
+  - Otsego, Minnesota
 apple maps: "https://maps.apple/p/.KF9R~RXZLS_C8"
 city in:
   - Sherburne County, Minnesota
