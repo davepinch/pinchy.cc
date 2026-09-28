@@ -1,5 +1,12 @@
 ---
 title: "Lakeville, Minnesota"
+adjacent to:
+  - Burnsville, Minnesota
+  - Apple Valley, Minnesota
+  - Rosemount, Minnesota
+  - Empire, Minnesota
+  - Farmington, Minnesota
+  - Credit River, Minnesota
 apple maps: "https://maps.apple/p/bjWdDJPf-Lf.XC"
 city in:
   - Dakota County, Minnesota
