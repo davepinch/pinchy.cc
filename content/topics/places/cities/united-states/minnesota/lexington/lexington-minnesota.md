@@ -1,5 +1,8 @@
 ---
 title: "Lexington, Minnesota"
+adjacent to:
+  - Blaine, Minnesota
+  - Circle Pines, Minnesota
 apple maps: "https://maps.apple/p/GwwsCsJK2fF3~W"
 city of:
   - Anoka County, Minnesota
