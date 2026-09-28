@@ -2,13 +2,13 @@
 title: "Birchwood Village, Minnesota"
 adjacent to:
   - Mahtomedi, Minnesota
-  - White Bear Lake
   - White Bear Lake, Minnesota
   - White Bear Township, Minnesota
 apple maps: "https://maps.apple/p/s.7o88qHWeVhme"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of: White Bear Lake
 clockwise around white bear lake: Bellaire, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136633"
 suburb of:
