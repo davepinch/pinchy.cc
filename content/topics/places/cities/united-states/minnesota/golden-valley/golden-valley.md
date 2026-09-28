@@ -1,5 +1,12 @@
 ---
 title: "Golden Valley, Minnesota"
+adjacent to:
+  - New Hope, Minnesota
+  - Crystal, Minnesota
+  - Robbinsdale, Minnesota
+  - Minneapolis, Minnesota
+  - St. Louis Park, Minnesota
+  - Plymouth, Minnesota
 apple maps: "https://maps.apple/p/KVkHeBC_V_q.wk"
 city of:
   - Hennepin County, Minnesota
