@@ -1,11 +1,16 @@
 ---
 title: "Lino Lakes, Minnesota"
 adjacent to:
-  - Blaine, Minnesota
-  - Circle Pines, Minnesota
-  - Shoreview, Minnesota
+  - Centerville, Minnesota
+  - Columbus, Minnesota
+  - Forest Lake, Minnesota
+  - Hugo, Minnesota
   - White Bear Township, Minnesota
-  - incomplete list
+  - North Oaks, Minnesota
+  - Shoreview, Minnesota
+  - Circle Pines, Minnesota
+  - Blaine, Minnesota
+  - Ham Lake, Minnesota
 apple maps: "https://maps.apple/p/JwjQCe_UIN.yD4"
 city in:
   - Anoka County, Minnesota
