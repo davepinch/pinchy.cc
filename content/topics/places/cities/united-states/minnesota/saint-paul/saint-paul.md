@@ -21,6 +21,7 @@ city in:
   - Minnesota
 city of:
   - Interstate 94
+  - Mississippi River
   - U.S. Route 61
 namesake of: Paul the Apostle
 openstreetmap: "https://www.openstreetmap.org/relation/136612"
