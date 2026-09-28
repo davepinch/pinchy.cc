@@ -1,5 +1,9 @@
 ---
 title: "Hopkins, Minnesota"
+adjacent to:
+  - Minnetonka, Minnesota
+  - St. Louis Park, Minnesota
+  - Edina, Minnesota
 apple maps: "https://maps.apple/p/9uv9z.oHUaZU7J"
 city of:
   - Hennepin County, Minnesota
