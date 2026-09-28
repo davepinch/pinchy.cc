@@ -1,12 +1,11 @@
 ---
 title: "Fort Snelling unorganized territory"
 adjacent to:
-  - Mendota Heights, Minnesota
-  - Minneapolis
-  - Minnesota River
-  - Mississippi River
+  - Minneapolis, Minnesota
   - Saint Paul, Minnesota
-  - incomplete list
+  - Mendota Heights, Minnesota
+  - Bloomington, Minnesota
+  - Richfield, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/15804725"
 unorganized territory of:
   - Hennepin County, Minnesota
