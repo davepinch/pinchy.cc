@@ -1,5 +1,5 @@
 ---
-title: "Saint Paul Park, Minnesota"
+title: "St. Paul Park, Minnesota"
 apple maps: "https://maps.apple/p/Rvz_2aVXcfLmKB"
 city in:
   - Washington County, Minnesota
