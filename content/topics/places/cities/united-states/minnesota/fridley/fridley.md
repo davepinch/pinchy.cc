@@ -1,16 +1,15 @@
 ---
 title: "Fridley, Minnesota"
 adjacent to:
-  - Blaine, Minnesota
-  - Brooklyn Center, Minnesota
-  - Brooklyn Park, Minnesota
-  - Columbia Heights, Minnesota
   - Coon Rapids, Minnesota
-  - Minneapolis, Minnesota
-  - Mississippi River
+  - Blaine, Minnesota
+  - Spring Lake Park, Minnesota
   - Mounds View, Minnesota
   - New Brighton, Minnesota
-  - Spring Lake Park, Minnesota
+  - Columbia Heights, Minnesota
+  - Minneapolis, Minnesota
+  - Brooklyn Center, Minnesota
+  - Brooklyn Park, Minnesota
 apple maps: "https://maps.apple/p/viijZnsTm1ecj0"
 city of:
   - Anoka County, Minnesota
