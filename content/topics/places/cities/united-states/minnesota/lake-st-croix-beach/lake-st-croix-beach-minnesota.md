@@ -1,5 +1,9 @@
 ---
 title: "Lake St. Croix Beach, Minnesota"
+adjacent to:
+  - Lakeland, Minnesota
+  - St. Mary's Point, Minnesota
+  - Afton, Minnesota
 apple maps: "https://maps.apple/p/PhAA~GHcyI_4zg"
 city in:
   - Washington County, Minnesota
