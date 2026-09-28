@@ -10,9 +10,12 @@ adjacent to:
   - Sunfish Lake, Minnesota
   - West St. Paul, Minnesota
 apple maps: "https://maps.apple/p/jIBmUDVsRaibYJ"
-city of:
+city in:
   - Dakota County, Minnesota
   - Minnesota
+city of:
+  - Minnesota River
+  - Mississippi River
 openstreetmap: "https://www.openstreetmap.org/relation/136896"
 suburb of:
   - Saint Paul, Minnesota
