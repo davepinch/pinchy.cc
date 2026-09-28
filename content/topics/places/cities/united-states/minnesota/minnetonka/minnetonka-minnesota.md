@@ -1,9 +1,10 @@
 ---
 title: "Minnetonka, Minnesota"
 apple maps: "https://maps.apple/p/jVrpB-.I3g~jw8"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of: Lake Minnetonka
 openstreetmap: "https://www.openstreetmap.org/relation/136714"
 suburb of:
   - Minneapolis, Minnesota
