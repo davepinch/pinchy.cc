@@ -1,5 +1,6 @@
 ---
 title: "Carver, Minnesota"
+adjacent to: Chaska, Minnesota
 apple maps: "https://maps.apple/p/FwqKKsoA0nvtIe"
 city in:
   - Carver County, Minnesota
