@@ -4,10 +4,10 @@ adjacent to:
   - Scandia, Minnesota
   - Wisconsin
 apple maps: "https://maps.apple/p/IpWFT5.IsIP5fG"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
-  - Saint Croix River
+city of: Saint Croix River
 openstreetmap: "https://www.openstreetmap.org/relation/136816"
 wikidata: "https://www.wikidata.org/entity/Q2113427"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Marine_on_St._Croix,_Minnesota"
