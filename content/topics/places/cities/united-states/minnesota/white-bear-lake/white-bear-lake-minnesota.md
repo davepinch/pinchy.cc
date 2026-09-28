@@ -14,7 +14,9 @@ city in:
   - Ramsey County, Minnesota
   - Washington County, Minnesota
   - Minnesota
-city of: U.S. Route 61
+city of:
+  - U.S. Route 61
+  - White Bear Lake
 clockwise around white bear lake: White Bear Township, Minnesota
 named after the lake: White Bear Lake
 openstreetmap: "https://www.openstreetmap.org/relation/137417"
