@@ -7,7 +7,7 @@ retrieved: 2026-09-24
 type: website
 url: /en.wikipedia.org/wiki/St._Paul_Park,_Minnesota/
 website: "https://en.wikipedia.org/wiki/St._Paul_Park,_Minnesota"
-wikipedia of: Saint Paul Park, Minnesota
+wikipedia of: St. Paul Park, Minnesota
 tags:
   - Wikipedia
 ---
