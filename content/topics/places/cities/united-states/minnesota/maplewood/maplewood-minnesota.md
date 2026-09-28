@@ -1,15 +1,15 @@
 ---
 title: "Maplewood, Minnesota"
 adjacent to:
-  - Little Canada, Minnesota
-  - Newport, Minnesota
-  - North St. Paul, Minnesota
-  - Oakdale, Minnesota
-  - Roseville, Minnesota
-  - Saint Paul, Minnesota
-  - Vadnais Heights, Minnesota
-  - Washington County, Minnesota
   - White Bear Lake, Minnesota
+  - Oakdale, Minnesota
+  - North St. Paul, Minnesota
+  - Woodbury, Minnesota
+  - Newport, Minnesota
+  - Saint Paul, Minnesota
+  - Roseville, Minnesota
+  - Little Canada, Minnesota
+  - Vadnais Heights, Minnesota
 apple maps: "https://maps.apple/p/YyyT~adLo_jGFB"
 city in:
   - Ramsey County, Minnesota
