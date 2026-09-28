@@ -1,14 +1,13 @@
 ---
 title: "Mahtomedi, Minnesota"
 adjacent to:
-  - Birchwood Village, Minnesota
+  - Willernie, Minnesota
   - Dellwood, Minnesota
   - Grant, Minnesota
-  - Oakdale, Minnesota
   - Pine Springs, Minnesota
-  - White Bear Lake
+  - Oakdale, Minnesota
   - White Bear Lake, Minnesota
-  - Willernie, Minnesota
+  - Birchwood Village, Minnesota
 apple maps: "https://maps.apple/p/u8FWSjmv8YCqT4"
 clockwise around white bear lake: Birchwood Village, Minnesota
 city of:
