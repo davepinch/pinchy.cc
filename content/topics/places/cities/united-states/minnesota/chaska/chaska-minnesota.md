@@ -1,5 +1,9 @@
 ---
 title: "Chaska, Minnesota"
+adjacent to:
+  - Victoria, Minnesota
+  - Chanhassen, Minnesota
+  - Carver, Minnesota
 apple maps: "https://maps.apple/p/z8--.XLmTdg27i"
 city in:
   - Carver County, Minnesota
