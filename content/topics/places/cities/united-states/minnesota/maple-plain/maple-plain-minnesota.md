@@ -1,5 +1,8 @@
 ---
 title: "Maple Plain, Minnesota"
+adjacent to:
+  - Independence, Minnesota
+  - Medina, Minnesota
 apple maps: "https://maps.apple/p/UpxgD4d3kemTfD"
 city of:
   - Hennepin County, Minnesota
