@@ -1,5 +1,13 @@
 ---
 title: "Edina, Minnesota"
+adjacent to:
+  - Hopkins, Minnesota
+  - St. Louis Park, Minnesota
+  - Minneapolis, Minnesota
+  - Richfield, Minnesota
+  - Bloomington, Minnesota
+  - Eden Prairie, Minnesota
+  - Minnetonka, Minnesota
 apple maps: "https://maps.apple/p/EmTtI~LuX0cEc5"
 city of:
   - Hennepin County, Minnesota
