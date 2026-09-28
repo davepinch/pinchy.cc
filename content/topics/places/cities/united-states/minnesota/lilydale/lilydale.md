@@ -1,10 +1,9 @@
 ---
 title: "Lilydale, Minnesota"
 adjacent to:
-  - Mendota, Minnesota
-  - Mendota Heights, Minnesota
-  - Mississippi River
   - Saint Paul, Minnesota
+  - Mendota Heights, Minnesota
+  - Mendota, Minnesota
 apple maps: "https://maps.apple/p/p7KkFDHTcbeD8m"
 city of:
   - Dakota County, Minnesota
