@@ -1,5 +1,10 @@
 ---
 title: "Greenwood, Minnesota"
+adjacent to:
+  - Deephaven, Minnesota
+  - Shorewood, Minnesota
+  - Excelsior, Minnesota
+  - Orono, Minnesota
 apple maps: "https://maps.apple/p/ecdEBDtrSjwsyZ"
 city of:
   - Hennepin County, Minnesota
