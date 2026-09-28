@@ -1,10 +1,10 @@
 ---
 title: "Little Canada, Minnesota"
 adjacent to:
+  - Vadnais Heights, Minnesota
   - Maplewood, Minnesota
   - Roseville, Minnesota
   - Shoreview, Minnesota
-  - Vadnais Heights, Minnesota
 apple maps: "https://maps.apple/p/_~nFp4vPSEDK_k"
 city of:
   - Ramsey County, Minnesota
