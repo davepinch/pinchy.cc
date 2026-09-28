@@ -1,5 +1,6 @@
 ---
 title: "Hilltop, Minnesota"
+adjacent to: Columbia Heights, Minnesota
 apple maps: "https://maps.apple/p/W.U5Lat3HsEA7D"
 city of:
   - Anoka County, Minnesota
