@@ -1,5 +1,5 @@
 ---
-title: "Saint Louis Park, Minnesota"
+title: "St. Louis Park, Minnesota"
 apple maps: "https://maps.apple/p/YQpJHSE1oWbMxo"
 city of:
   - Hennepin County, Minnesota

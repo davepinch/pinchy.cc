@@ -6,7 +6,7 @@ retrieved: 2026-06-02
 type: website
 url: /en.wikivoyage.org/wiki/St._Louis_Park/
 website: "https://en.wikivoyage.org/wiki/St._Louis_Park"
-wikivoyage of: Saint Louis Park, Minnesota
+wikivoyage of: St. Louis Park, Minnesota
 tags:
   - website
   - Wikivoyage

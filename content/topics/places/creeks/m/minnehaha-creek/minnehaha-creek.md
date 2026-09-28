@@ -3,7 +3,7 @@ title: "Minnehaha Creek"
 creek in:
   - Minnetonka, Minnesota
   - Hopkins, Minnesota
-  - Saint Louis Park, Minnesota
+  - St. Louis Park, Minnesota
   - Edina, Minnesota
   - Minneapolis, Minnesota
   - Hennepin County, Minnesota
