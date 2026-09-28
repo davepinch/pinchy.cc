@@ -1,10 +1,10 @@
 ---
 title: "Lauderdale, Minnesota"
 adjacent to:
-  - Falcon Heights, Minnesota
-  - Minneapolis, Minnesota
   - Roseville, Minnesota
+  - Falcon Heights, Minnesota
   - Saint Paul, Minnesota
+  - Minneapolis, Minnesota
 apple maps: "https://maps.apple/p/xkYLZMC4apW3fF"
 city of:
   - Ramsey County, Minnesota
