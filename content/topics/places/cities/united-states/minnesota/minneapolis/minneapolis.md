@@ -2,11 +2,18 @@
 title: "Minneapolis, Minnesota"
 adjacent to:
   - Brooklyn Center, Minnesota
+  - Fridley, Minnesota
   - Columbia Heights, Minnesota
-  - Fort Snelling (unincorporated territory)
-  - Mississippi River
+  - Saint Anthony Village, Minnesota
+  - Roseville, Minnesota
+  - Lauderdale, Minnesota
   - Saint Paul, Minnesota
-  - incomplete list
+  - Fort Snelling (unincorporated territory)
+  - Richfield, Minnesota
+  - Edina, Minnesota
+  - St. Louis Park, Minnesota
+  - Golden Valley, Minnesota
+  - Robbinsdale, Minnesota
 ASCEND: IDS Center
 apple maps: "https://maps.apple/p/1SmI.KPtTKMsIN"
 city of:
