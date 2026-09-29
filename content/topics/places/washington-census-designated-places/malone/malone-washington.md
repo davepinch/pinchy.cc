@@ -10,7 +10,6 @@ census-designated place of: U.S. Route 12
 openstreetmap: "https://www.openstreetmap.org/relation/238248"
 vicinity to: Elma, Washington
 wikidata: "https://www.wikidata.org/wiki/Q17406719"
-wikipedia: "https://en.wikipedia.org/wiki/Malone,_Washington"
 tags:
   - census-designated place
   - no Wikimedia category
