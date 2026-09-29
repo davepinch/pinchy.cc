@@ -7,6 +7,7 @@ city in:
   - Washington
 city of:
   - Chehalis River
+  - Interstate 5
   - U.S. Route 12
 county seat of: Lewis County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237445"
