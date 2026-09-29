@@ -1,6 +1,8 @@
 ---
 title: "Centralia, Washington"
-adjacent to: Chehalis, Washington
+adjacent to:
+  - Fords Prairie, Washington
+  - Chehalis, Washington
 apple maps: "https://maps.apple/p/QXggVjZPmXQrj5"
 city in:
   - Lewis County, Washington
