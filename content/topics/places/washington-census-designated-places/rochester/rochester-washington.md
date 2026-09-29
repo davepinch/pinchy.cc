@@ -1,5 +1,6 @@
 ---
 title: "Rochester, Washington"
+adjacent to: Grand Mound, Washington
 apple maps: "https://maps.apple/p/htqukTu4TjiWKB"
 census-designated place by: United States Census Bureau
 census-designated place in:
