@@ -12,7 +12,6 @@ vicinity of:
   - Malone, Washington
 wikidata: "https://www.wikidata.org/entity/Q610930"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Elma,_Washington"
-wikivoyage: "https://en.wikivoyage.org/wiki/Elma"
 tags:
   - city
 ---
