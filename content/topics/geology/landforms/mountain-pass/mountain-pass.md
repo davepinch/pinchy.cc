@@ -5,6 +5,7 @@ navigatable route of:
   - mountain range
 plural: mountain passes
 tag requires property:
+  - Apple Maps
   - Wikidata
   - Wikimedia
   - Wikipedia
