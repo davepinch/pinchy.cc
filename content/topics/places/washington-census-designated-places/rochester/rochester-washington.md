@@ -6,9 +6,11 @@ census-designated place in:
   - Thurston County, Washington
   - Washington
 census-designated place of: U.S. Route 12
+disambiguation of: Rochester
 openstreetmap: "https://www.openstreetmap.org/relation/238243"
 wikidata: "https://www.wikidata.org/wiki/Q1505161"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rochester,_Washington"
 tags:
   - census-designated place
+  - disambiguation
 ---
