@@ -1,5 +1,6 @@
 ---
 title: "Eschbach, Washington"
+adjacent to: Gleed, Washington
 apple maps: "https://maps.apple/p/uDGcznWp83SWq4"
 census-designated place by: United States Census Bureau
 census-designated place in:
