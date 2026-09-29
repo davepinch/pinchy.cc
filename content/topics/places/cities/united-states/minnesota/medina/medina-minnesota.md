@@ -10,9 +10,10 @@ adjacent to:
   - Maple Plain, Minnesota
   - Greenfield, Minnesota
 apple maps: "https://maps.apple/p/8Du_431kF589pV"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of: U.S. Route 12
 disambiguation of: Medina
 openstreetmap: "https://www.openstreetmap.org/relation/137436"
 suburb of:
