@@ -12,6 +12,7 @@ county seat of: Grays Harbor County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/238013"
 vicinity to: Central Park, Washington
 wikidata: "https://www.wikidata.org/entity/Q987133"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Montesano,_Washington"
 wikivoyage: "https://en.wikivoyage.org/wiki/Montesano"
 tags:
   - city
