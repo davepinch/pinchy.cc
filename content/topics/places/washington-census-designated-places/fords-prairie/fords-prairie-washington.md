@@ -1,5 +1,8 @@
 ---
 title: "Fords Prairie, Washington"
+adjacent to:
+  - Grand Mound, Washington
+  - Centralia, Washington
 apple maps: "https://maps.apple/p/QxTZJhjq1wRBBB"
 census-designated place by: United States Census Bureau
 census-designated place in:
