@@ -1,5 +1,8 @@
 ---
 title: "Grand Mound, Washington"
+adjacent to:
+  - Rochester, Washington
+  - Fords Prairie, Washington
 apple maps: "https://maps.apple/p/eHuB2NkgXmXi1m"
 census-designated place by: United States Census Bureau
 census-designated place in:
