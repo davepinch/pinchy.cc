@@ -2,6 +2,7 @@
 title: "Richland, Washington"
 apple maps: "https://maps.apple/p/wjJgIjh1pUM9Xy"
 city in:
+  - Columbia Plateau
   - Benton County, Washington
   - Washington
 city of:
