@@ -6,7 +6,9 @@ openstreetmap: "https://www.openstreetmap.org/relation/237745"
 town in:
   - Yakima County, Washington
   - Washington
-town of: Naches River
+town of:
+  - Naches River
+  - U.S. Route 12
 wikidata: "https://www.wikidata.org/wiki/Q658219"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Naches,_Washington"
 tags:
