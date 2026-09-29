@@ -4,11 +4,13 @@ adjacent to:
   - Cosmopolis, Washington
   - Hoquiam, Washington
 apple maps: "https://maps.apple/p/qe1jG6GzD~z~E4"
-city of:
+city in:
   - Grays Harbor County, Washington
   - Washington
-  - Grays Harbor
+city of:
   - Chehalis River
+  - Grays Harbor
+  - U.S. Route 12
 nicknames:
   - Gateway to the Olympic Peninsula
   - The Hellhole of the Pacific
