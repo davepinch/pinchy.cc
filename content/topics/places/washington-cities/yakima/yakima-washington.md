@@ -7,10 +7,13 @@ adjacent to:
   - Ahtanum, Washington
   - Summitview, Washington
 apple maps: "https://maps.apple/p/k6VV._sgpVsG-L"
-city of:
+city in:
+  - Columbia Plateau
   - Yakima County, Washington
   - Washington
-  - Columbia Plateau
+city of:
+  - Interstate 82
+  - U.S. Route 12
 openstreetmap: "https://www.openstreetmap.org/relation/237752"
 vicinity to:
   - Cowiche Canyon Trail System
