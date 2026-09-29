@@ -1,5 +1,6 @@
 ---
 title: "Excelsior Pass"
+apple maps: "https://maps.apple/p/jZzyNBKWYvfFkI"
 mountain pass in:
   - Mount Baker–Snoqualmie National Forest
   - Whatcom County, Washington

@@ -11,6 +11,7 @@ saddle of:
 westbound on Interstate 82: Manastash Vista Point (westbound)
 tags:
   - saddle
+  - no Apple Maps place
   - no Wikidata record
   - no Wikimedia category
 ---

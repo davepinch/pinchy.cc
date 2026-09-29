@@ -1,5 +1,6 @@
 ---
 title: "Chinook Pass"
+apple maps: "https://maps.apple/p/RCiH8FX4bdtvci"
 mountain pass of:
   - Cascade Range
   - Pierce County, Washington

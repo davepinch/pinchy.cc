@@ -1,5 +1,6 @@
 ---
 title: "Fourth of July Summit"
+apple maps: "https://maps.apple/p/XjFw2HuW4P5JNS"
 mountain pass of:
   - Idaho
   - Interstate 90

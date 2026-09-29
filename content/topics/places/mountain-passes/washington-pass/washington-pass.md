@@ -1,5 +1,6 @@
 ---
 title: "Washington Pass"
+apple maps: "https://maps.apple/p/4nFdcG84CQTM6G"
 mountain pass of:
   - Washington State Route 20
   - Cascade Range
