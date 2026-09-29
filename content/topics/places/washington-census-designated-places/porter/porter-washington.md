@@ -8,7 +8,6 @@ census-designated place in:
 census-designated place of: U.S. Route 12
 openstreetmap: "https://www.openstreetmap.org/relation/18393405"
 wikidata: "https://www.wikidata.org/wiki/Q5664483"
-wikipedia: "https://en.wikipedia.org/wiki/Porter,_Washington"
 tags:
   - census-designated place
   - no Wikimedia category
