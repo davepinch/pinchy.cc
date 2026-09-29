@@ -11,6 +11,7 @@ city of:
   - Washington State Route 507
 openstreetmap: "https://www.openstreetmap.org/relation/238074"
 wikidata: "https://www.wikidata.org/entity/Q868700"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Centralia,_Washington"
 tags:
   - city
   - VISIT SOMEWHERE NEW
