@@ -18,6 +18,7 @@ nicknames:
 openstreetmap: "https://www.openstreetmap.org/relation/238017"
 southwest of: Olympic Mountains
 wikidata: "https://www.wikidata.org/entity/Q233808"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Aberdeen,_Washington"
 tags:
   - city
 ---
