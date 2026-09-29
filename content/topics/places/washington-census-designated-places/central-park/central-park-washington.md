@@ -9,7 +9,6 @@ census-designated place of:
   - U.S. Route 12
 openstreetmap: "https://www.openstreetmap.org/relation/237577"
 wikidata: "https://www.wikidata.org/wiki/Q1504159"
-wikipedia: "https://en.wikipedia.org/wiki/Central_Park,_Washington"
 tags:
   - census-designated place
   - no Wikimedia category
