@@ -2,6 +2,7 @@
 title: "College Place, Washington"
 apple maps: "https://maps.apple/p/qnPFZZoDu9Vh5A"
 city of:
+  - Columbia Plateau
   - Walla Walla County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/238096"
