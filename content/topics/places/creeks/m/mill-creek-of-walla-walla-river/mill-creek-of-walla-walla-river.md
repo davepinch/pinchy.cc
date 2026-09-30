@@ -4,6 +4,7 @@ creek in:
   - Mill Creek Watershed
   - Umatilla National Forest
   - Walla Walla County, Washington
+  - Garrett, Washington
   - Washington
   - Umatilla County, Oregon
   - Oregon
