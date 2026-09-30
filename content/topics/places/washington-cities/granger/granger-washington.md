@@ -2,6 +2,7 @@
 title: "Granger, Washington"
 apple maps: "https://maps.apple/p/zf1R0jz1zCdy9j"
 city in:
+  - Columbia Plateau
   - Yakima County, Washington
   - Washington
 city of:
