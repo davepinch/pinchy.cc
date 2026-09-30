@@ -8,6 +8,7 @@ adjacent to:
   - Scott County, Minnesota
   - Carver County, Minnesota
   - Wright County, Minnesota
+apple maps: "https://maps.apple/p/ECX7jY1ME8_fHU"
 county in: Minnesota
 official website: "https://www.hennepin.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795848"
