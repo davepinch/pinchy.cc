@@ -1,10 +1,12 @@
 ---
 title: "Dayton, Washington"
 apple maps: "https://maps.apple/p/uD0mCLvqc9bIP9"
-city of:
+city in:
+  - Columbia Plateau
   - Palouse
   - Columbia County, Washington
   - Washington
+city of: U.S. Route 12
 county seat of: Columbia County, Washington
 official website: "https://www.daytonwa.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/237718"
