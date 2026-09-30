@@ -3,6 +3,8 @@ title: "Asotin, Washington"
 apple maps: "https://maps.apple/p/coev90mzLZz0jx"
 adjacent to: Clarkston Heights-Vineland, Washington
 city in:
+  - Columbia Plateau
+  - Palouse
   - Asotin County, Washington
   - Washington
 city of: Snake River
