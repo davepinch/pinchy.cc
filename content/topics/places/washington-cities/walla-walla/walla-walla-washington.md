@@ -1,5 +1,9 @@
 ---
 title: "Walla Walla, Washington"
+adjacent to:
+  - Walla Walla East, Washington
+  - College Place, Washington
+  - Garrett, Washington
 apple maps: "https://maps.apple/p/Q09E3uyWmz~TvC"
 city in:
   - Columbia Plateau
