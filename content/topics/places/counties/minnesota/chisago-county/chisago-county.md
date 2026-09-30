@@ -1,5 +1,6 @@
 ---
 title: "Chisago County, Minnesota"
+apple maps: "https://maps.apple/p/tvuEeh3t0f-Kad"
 county in: Minnesota
 official website: "https://www.chisagocountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795845"
