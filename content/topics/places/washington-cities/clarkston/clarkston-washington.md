@@ -1,5 +1,8 @@
 ---
 title: "Clarkston, Washington"
+adjacent to:
+  - Lewiston, Idaho
+  - West Clarkston-Highland, Washington
 apple maps: "https://maps.apple/p/ZQcR.wnz51oE_y"
 city in:
   - Palouse
