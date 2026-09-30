@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q486309"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Chisago_County,_Minnesota"
 tags:
   - county
+  - county in Minnesota
 ---
