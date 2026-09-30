@@ -12,7 +12,9 @@ census-designated place in:
   - Palouse
   - Asotin County, Washington
   - Washington
-census-designated place of: U.S. Route 12
+census-designated place of:
+  - Snake River
+  - U.S. Route 12
 openstreetmap: "https://www.openstreetmap.org/relation/237588"
 wikidata: "https://www.wikidata.org/wiki/Q27276"
 tags:
