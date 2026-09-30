@@ -2,9 +2,9 @@
 title: "Ferry County, Washington"
 adjacent to:
   - British Columbia
+  - Stevens County, Washington
   - Lincoln County, Washington
   - Okanogan County, Washington
-  - Stevens County, Washington
 county in: Washington
 official website: "https://www.ferry-county.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153067"

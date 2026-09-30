@@ -2,11 +2,11 @@
 title: "Franklin County, Washington"
 adjacent counties:
   - Adams County, Washington
-  - Benton County, Washington
-  - Columbia County, Washington
-  - Grant County, Washington
-  - Walla Walla County, Washington
   - Whitman County, Washington
+  - Columbia County, Washington
+  - Walla Walla County, Washington
+  - Benton County, Washington
+  - Grant County, Washington
 county in: Washington
 namesake of: Benjamin Franklin
 official website: "https://www.franklincountywa.gov/"

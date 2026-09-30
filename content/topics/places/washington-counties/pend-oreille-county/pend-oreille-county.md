@@ -2,7 +2,8 @@
 title: "Pend Oreille County, Washington"
 adjacent to:
   - British Columbia
-  - Idaho
+  - Boundary County, Idaho
+  - Bonner County, Idaho
   - Spokane County, Washington
   - Stevens County, Washington
 county in: Washington

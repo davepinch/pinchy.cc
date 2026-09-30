@@ -1,12 +1,12 @@
 ---
 title: "Kittitas County, Washington"
 adjacent to:
+  - King County, Washington
   - Chelan County, Washington
   - Douglas County, Washington
   - Grant County, Washington
-  - King County, Washington
-  - Pierce County, Washington
   - Yakima County, Washington
+  - Pierce County, Washington
 ASCEND: Mount Daniel
 county in:
   - Washington

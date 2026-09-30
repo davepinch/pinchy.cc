@@ -2,11 +2,11 @@
 title: "Kitsap County, Washington"
 adjacent to:
   - Island County, Washington
-  - Jefferson County, Washington
-  - King County, Washington
-  - Mason County, Washington
-  - Pierce County, Washington
   - Snohomish County, Washington
+  - King County, Washington
+  - Pierce County, Washington
+  - Mason County, Washington
+  - Jefferson County, Washington
 county in: Washington
 county of: Pacific Ocean
 official website: "https://www.kitsap.gov/"

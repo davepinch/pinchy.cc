@@ -2,11 +2,10 @@
 title: "Grays Harbor County, Washington"
 adjacent to:
   - Jefferson County, Washington
-  - Lewis County, Washington
   - Mason County, Washington
   - Thurston County, Washington
+  - Lewis County, Washington
   - Pacific County, Washington
-  - Pacific Ocean
 county in: Washington
 county of: Pacific Ocean
 official website: "https://www.graysharbor.us/"

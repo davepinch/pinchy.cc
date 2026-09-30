@@ -1,12 +1,11 @@
 ---
 title: "Clallam County, Washington"
 across the strait: Vancouver Island
-adjacent to:
-  - Jefferson County, Washington
+adjacent to: Jefferson County, Washington
+county in: Washington
+county of:
   - Pacific Ocean
   - Strait of Juan de Fuca
-county in: Washington
-county of: Pacific Ocean
 official website: "https://www.clallamcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153923"
 westernmost county in:

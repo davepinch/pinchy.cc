@@ -2,13 +2,13 @@
 title: "Pierce County, Washington"
 ASCEND: Mount Rainier
 adjacent to:
-  - King County, Washington
   - Kitsap County, Washington
+  - King County, Washington
   - Kittitas County, Washington
-  - Lewis County, Washington
-  - Mason County, Washington
-  - Thurston County, Washington
   - Yakima County, Washington
+  - Lewis County, Washington
+  - Thurston County, Washington
+  - Mason County, Washington
 county in:
   - Washington
   - Interstate 5

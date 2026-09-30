@@ -1,12 +1,12 @@
 ---
 title: "Skagit County, Washington"
 adjacent to:
-  - Chelan County, Washington
-  - Island County, Washington
-  - Okanogan County, Washington
-  - San Juan County, Washington
-  - Snohomish County, Washington
   - Whatcom County, Washington
+  - Okanogan County, Washington
+  - Chelan County, Washington
+  - Snohomish County, Washington
+  - Island County, Washington
+  - San Juan County, Washington
 ASCEND: Buckner Mountain
 county in:
   - Washington

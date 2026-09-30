@@ -1,10 +1,13 @@
 ---
 title: "Klickitat County, Washington"
 adjacent to:
-  - Benton County, Washington
-  - Oregon
   - Skamania County, Washington
   - Yakima County, Washington
+  - Benton County, Washington
+  - Gilliam County, Oregon
+  - Sherman County, Oregon
+  - Wasco County, Oregon
+  - Hood River County, Oregon
 county in: Washington
 official website: "https://klickitatcounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1152565"

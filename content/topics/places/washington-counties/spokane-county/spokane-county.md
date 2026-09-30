@@ -1,11 +1,13 @@
 ---
 title: "Spokane County, Washington"
 adjacent to:
-  - Idaho
-  - Lincoln County, Washington
-  - Pend Oreille County, Washington
   - Stevens County, Washington
+  - Pend Oreille County, Washington
+  - Bonner County, Idaho
+  - Kootenai County, Idaho
+  - Benewah County, Idaho
   - Whitman County, Washington
+  - Lincoln County, Washington
 county in:
   - Washington
   - Interstate 90

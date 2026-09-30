@@ -5,7 +5,6 @@ adjacent to:
    - Lewis County, Washington
    - Wahkiakum County, Washington
    - Clatsop County, Oregon
-   - Oregon
 county in: Washington
 county of: Pacific Ocean
 namesake of: Pacific Ocean

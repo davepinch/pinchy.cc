@@ -1,10 +1,10 @@
 ---
 title: "Cowlitz County, Washington"
 adjacent to:
-  - Clark County, Washington
   - Lewis County, Washington
-  - Oregon
   - Skamania County, Washington
+  - Clark County, Washington
+  - Columbia County, Oregon
   - Wahkiakum County, Washington
 county in: Washington
 northbound on interstate 5: Lewis County, Washington

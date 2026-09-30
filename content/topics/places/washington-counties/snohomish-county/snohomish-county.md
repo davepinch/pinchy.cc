@@ -1,11 +1,11 @@
 ---
 title: "Snohomish County, Washington"
 adjacent to:
+  - Skagit County, Washington
   - Chelan County, Washington
-  - Island County, Washington
   - King County, Washington
   - Kitsap County, Washington
-  - Skagit County, Washington
+  - Island County, Washington
 county in:
   - Washington
   - Cascade Range

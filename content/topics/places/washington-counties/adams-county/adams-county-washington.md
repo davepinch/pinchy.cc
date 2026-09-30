@@ -1,10 +1,10 @@
 ---
 title: "Adams County, Washington"
 adjacent to:
-  - Franklin County, Washington
-  - Grant County, Washington
   - Lincoln County, Washington
   - Whitman County, Washington
+  - Franklin County, Washington
+  - Grant County, Washington
 county in: Washington
 disambiguation of: Adams County
 eastbound on interstate 90: Lincoln County

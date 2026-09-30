@@ -1,14 +1,14 @@
 ---
 title: "Lewis County, Washington"
 adjacent to:
-  - Cowlitz County, Washington
   - Grays Harbor County, Washington
-  - Pacific County, Washington
-  - Pierce County, Washington
-  - Skamania County, Washington
   - Thurston County, Washington
-  - Wahkiakum County, Washington
+  - Pierce County, Washington
   - Yakima County, Washington
+  - Skamania County, Washington
+  - Cowlitz County, Washington
+  - Wahkiakum County, Washington
+  - Pacific County, Washington
 county in: Washington
 disambiguation of: Lewis County
 northbound on interstate 5: Thurston County, Washington

@@ -3,9 +3,10 @@ title: "Benton County, Washington"
 adjacent to:
   - Grant County, Washington
   - Franklin County, Washington
-  - Oregon
-  - Klickitat County, Washington
   - Walla Walla County, Washington
+  - Umatilla County, Oregon
+  - Morrow County, Oregon
+  - Klickitat County, Washington
   - Yakima County, Washington
 county in: Washington
 official website: "https://www.bentoncountywa.gov/"

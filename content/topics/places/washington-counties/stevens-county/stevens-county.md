@@ -2,10 +2,10 @@
 title: "Stevens County, Washington"
 adjacent to:
   - British Columbia
-  - Ferry County, Washington
-  - Lincoln County, Washington
   - Pend Oreille County, Washington
   - Spokane County, Washington
+  - Lincoln County, Washington
+  - Ferry County, Washington
 county in: Washington
 official website: "https://www.stevenscountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150602"

@@ -1,10 +1,10 @@
 ---
 title: "Douglas County, Washington"
 adjacent to:
-  - Chelan County, Washington
-  - Grant County, Washington
-  - Kittitas County, Washington
   - Okanogan County, Washington
+  - Kittitas County, Washington
+  - Kittitas County, Washington
+  - Chelan County, Washington
 county in: Washington
 official website: "https://douglascountywa.net/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153555"

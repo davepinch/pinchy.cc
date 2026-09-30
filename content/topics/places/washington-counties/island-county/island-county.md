@@ -1,11 +1,11 @@
 ---
 title: "Island County, Washington"
 adjacent to:
-  - Jefferson County, Washington
-  - Kitsap County, Washington
   - San Juan County, Washington
   - Skagit County, Washington
   - Snohomish County, Washington
+  - Kitsap County, Washington
+  - Jefferson County, Washington
 county in: Washington
 county of: Pacific Ocean
 created from: Thurston County, Washington

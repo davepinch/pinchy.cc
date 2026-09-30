@@ -1,10 +1,10 @@
 ---
 title: "Walla Walla County, Washington"
 adjacent to:
-  - Benton County, Washington
-  - Columbia County, Washington
   - Franklin County, Washington
-  - Oregon
+  - Columbia County, Washington
+  - Umatilla County, Oregon
+  - Benton County, Washington
 census profile: "https://data.census.gov/profile/Walla_Walla_County,_Washington?g=050XX00US53071"
 county in: Washington
 disambiguation of: Walla Walla

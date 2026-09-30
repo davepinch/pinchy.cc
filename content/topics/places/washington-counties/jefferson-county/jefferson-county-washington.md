@@ -1,15 +1,15 @@
 ---
 title: "Jefferson County, Washington"
 adjacent to:
-  - Clallam County, Washington
-  - Grays Harbor County, Washington
-  - Hood Canal
   - Island County, Washington
   - Kitsap County, Washington
   - Mason County, Washington
-  - Pacific Ocean
+  - Grays Harbor County, Washington
+  - Clallam County, Washington
 county in: Washington
-county of: Pacific Ocean
+county of:
+  - Hood Canal
+  - Pacific Ocean
 county seat: Port Townsend, Washington
 disambiguation of: Jefferson County
 created from: Thurston County, Washington

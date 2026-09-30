@@ -1,11 +1,11 @@
 ---
 title: "Chelan County, Washington"
 adjacent to:
-  - Douglas County, Washington
-  - King County, Washington
-  - Kittitas County, Washington
-  - Okanogan County, Washington
   - Skagit County, Washington
+  - Okanogan County, Washington
+  - Douglas County, Washington
+  - Kittitas County, Washington
+  - King County, Washington
   - Snohomish County, Washington
 county in:
   - Washington

@@ -1,11 +1,12 @@
 ---
 title: "Columbia County, Washington"
 adjacent to:
-  - Franklin County, Washington
-  - Garfield County, Washington
-  - Oregon
-  - Walla Walla County, Washington
   - Whitman County, Washington
+  - Garfield County, Washington
+  - Wallowa County, Oregon
+  - Umatilla County, Oregon
+  - Walla Walla County, Washington
+  - Franklin County, Washington
 county in: Washington
 created from: Walla Walla County, Washington
 official website: "https://columbiaco.com/"

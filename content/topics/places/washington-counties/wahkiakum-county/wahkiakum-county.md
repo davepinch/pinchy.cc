@@ -1,10 +1,11 @@
 ---
 title: "Wahkiakum County, Washington"
 adjacent to:
-  - Cowlitz County, Washington
-  - Lewis County, Washington
-  - Oregon
   - Pacific County, Washington
+  - Lewis County, Washington
+  - Cowlitz County, Washington
+  - Columbia County, Oregon
+  - Clatsop County, Oregon
 county in: Washington
 official website: "https://www.co.wahkiakum.wa.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153389"

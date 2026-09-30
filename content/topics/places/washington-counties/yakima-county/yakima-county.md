@@ -1,13 +1,14 @@
 ---
 title: "Yakima County, Washington"
 adjacent to:
-  - Benton County, Washington
-  - Grant County, Washington
+  - King County, Oregon
   - Kittitas County, Washington
+  - Grant County, Washington
+  - Benton County, Washington
   - Klickitat County, Washington
+  - Skamania County, Washington
   - Lewis County, Washington
   - Pierce County, Washington
-  - Skamania County, Washington
 county in:
   - Washington
   - Cascade Range

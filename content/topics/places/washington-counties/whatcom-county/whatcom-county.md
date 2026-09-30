@@ -3,13 +3,14 @@ title: "Whatcom County, Washington"
 adjacent to:
   - British Columbia
   - Okanogan County, Washington
-  - Pacific Ocean
-  - San Juan County, Washington
   - Skagit County, Washington
+  - San Juan County, Washington
 county in:
   - Washington
   - Cascade Range
-county of: Pacific Ocean
+county of:
+  - Pacific Ocean
+  - Salish Sea
 northbound on interstate 5: Canada
 official website: "https://www.whatcomcounty.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153762"

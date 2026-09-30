@@ -1,13 +1,13 @@
 ---
 title: "Lincoln County, Washington"
 adjacent to:
-  - Adams County, Washington
   - Ferry County, Washington
+  - Stevens County, Washington
+  - Spokane County, Washington
+  - Whitman County, Washington
+  - Adams County, Washington
   - Grant County, Washington
   - Okanogan County, Washington
-  - Spokane County, Washington
-  - Stevens County, Washington
-  - Whitman County, Washington
 county in:
   - Washington
   - Interstate 90

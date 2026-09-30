@@ -1,14 +1,14 @@
 ---
 title: "Grant County, Washington"
 adjacent to:
-  - Adams County, Washington
-  - Benton County, Washington
   - Douglas County, Washington
-  - Franklin County, Washington
-  - Kittitas County, Washington
-  - Lincoln County, Washington
   - Okanogan County, Washington
+  - Lincoln County, Washington
+  - Adams County, Washington
+  - Franklin County, Washington
+  - Benton County, Washington
   - Yakima County, Washington
+  - Kittitas County, Washington
 county in: Washington
 eastbound on interstate 90: Adams County
 official website: "https://www.grantcountywa.gov/"

@@ -1,14 +1,16 @@
 ---
 title: "Whitman County, Washington"
 adjacent to:
-  - Adams County, Washington
-  - Asotin County, Washington
-  - Columbia County, Washington
-  - Franklin County, Washington
-  - Garfield County, Washington
-  - Idaho
   - Lincoln County, Washington
   - Spokane County, Washington
+  - Benewah County, Idaho
+  - Latah County, Idaho
+  - Nez Perce County, Idaho
+  - Asotin County, Washington
+  - Garfield County, Washington
+  - Columbia County, Washington
+  - Franklin County, Washington
+  - Adams County, Washington
 county in: Washington
 official website: "https://www.whitmancounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150529"

@@ -1,11 +1,12 @@
 ---
 title: "King County, Washington"
 adjacent to:
-  - Chelan County, Washington
-  - Kitsap County, Washington
-  - Kittitas County, Washington
-  - Pierce County, Washington
   - Snohomish County, Washington
+  - Chelan County, Washington
+  - Kittitas County, Washington
+  - Yakima County, Washington
+  - Pierce County, Washington
+  - Kitsap County, Washington
 ASCEND: Mount Daniel
 county in:
   - Washington

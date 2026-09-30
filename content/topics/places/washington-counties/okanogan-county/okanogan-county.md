@@ -2,11 +2,11 @@
 title: "Okanogan County, Washington"
 adjacent to:
   - British Columbia
-  - Chelan County, Washington
-  - Douglas County, Washington
   - Ferry County, Washington
-  - Grant County, Washington
   - Lincoln County, Washington
+  - Grant County, Washington
+  - Douglas County, Washington
+  - Chelan County, Washington
   - Skagit County, Washington
   - Whatcom County, Washington
 county in: Washington

@@ -1,10 +1,10 @@
 ---
 title: "Thurston County, Washington"
 adjacent to:
-  - Grays Harbor County, Washington
-  - Lewis County, Washington
   - Mason County, Washington
   - Pierce County, Washington
+  - Lewis County, Washington
+  - Grays Harbor County, Washington
 county in:
   - Washington
   - Interstate 5
