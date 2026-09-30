@@ -1,8 +1,13 @@
 ---
 title: "Hennepin County, Minnesota"
 adjacent to:
+  - Sherburne County, Minnesota
+  - Anoka County, Minnesota
   - Ramsey County, Minnesota
-  - incomplete list
+  - Dakota County, Minnesota
+  - Scott County, Minnesota
+  - Carver County, Minnesota
+  - Wright County, Minnesota
 county in: Minnesota
 official website: "https://www.hennepin.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795848"
