@@ -1,5 +1,6 @@
 ---
 title: "Dakota County, Minnesota"
+apple maps: "https://maps.apple/p/sMWgETYgHD--DL"
 county in: Minnesota
 county seat: Hastings, Minnesota
 official website: "https://www.co.dakota.mn.us/"
