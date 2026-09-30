@@ -7,6 +7,7 @@ mountain pass in:
   - Idaho County, Idaho
   - Idaho
   - Lolo National Forest
+  - Missoula County, Montana
   - Montana
   - Bitterroot Range
   - Rocky Mountains
