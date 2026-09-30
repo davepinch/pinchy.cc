@@ -7,4 +7,5 @@ wikidata: "https://www.wikidata.org/wiki/Q110495"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Anoka_County,_Minnesota"
 tags:
   - county
+  - county in Minnesota
 ---
