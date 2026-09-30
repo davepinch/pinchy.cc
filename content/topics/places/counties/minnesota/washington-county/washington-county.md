@@ -3,6 +3,7 @@ title: "Washington County, Minnesota"
 adjacent to:
   - Ramsey County, Minnesota
   - Saint Croix River
+apple maps: "https://maps.apple/p/k2I-QHUUu_DAiy"
 county in: Minnesota
 county seat: Stillwater, Minnesota
 official website: "https://www.washingtoncountymn.gov/"
