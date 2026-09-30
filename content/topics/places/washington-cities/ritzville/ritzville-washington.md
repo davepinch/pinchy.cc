@@ -1,8 +1,8 @@
 ---
 title: "Ritzville, Washington"
 apple maps: "https://maps.apple/p/rerAFi5Bj.Wx0C"
-census profile: "https://data.census.gov/profile/Ritzville_city,_Washington?g=160XX00US5358725"
 city of:
+  - Columbia Plateau
   - Adams County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237648"
