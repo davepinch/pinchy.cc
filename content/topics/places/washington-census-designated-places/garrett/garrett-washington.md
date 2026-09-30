@@ -6,6 +6,7 @@ adjacent to:
 apple maps: "https://maps.apple/p/24XxInDAoMIcqs"
 census-designated place by: United States Census Bureau
 census-designated place in:
+  - Columbia Plateau
   - Walla Walla County, Washington
   - Washington
 census-designated place of:
