@@ -3,6 +3,7 @@ title: "Zillah, Washington"
 adjacent to: Buena, Washington
 apple maps: "https://maps.apple/p/7JbBz_EcXoEioi"
 city in:
+  - Columbia Plateau
   - Yakima County, Washington
   - Washington
 city of:
