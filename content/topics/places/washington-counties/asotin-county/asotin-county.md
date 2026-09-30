@@ -1,10 +1,10 @@
 ---
 title: "Asotin County, Washington"
 adjacent to:
-  - Garfield County, Washington
-  - Idaho
-  - Oregon
   - Whitman County, Washington
+  - Nez Perce County, Idaho
+  - Wallowa County, Oregon
+  - Garfield County, Washington
 county in: Washington
 official website: "https://www.asotincountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150372"
