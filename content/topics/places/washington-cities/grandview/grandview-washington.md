@@ -2,6 +2,7 @@
 title: "Grandview, Washington"
 apple maps: "https://maps.apple/p/eIqt.ZERvGJ~1p"
 city in:
+  - Columbia Plateau
   - Yakima County, Washington
   - Washington
 city of:
