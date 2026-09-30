@@ -1,8 +1,13 @@
 ---
 title: "Washington County, Minnesota"
 adjacent to:
+  - Chisago County, Minnesota
+  - Polk County, Wisconsin
+  - St. Croix County, Wisconsin
+  - Pierce County, Wisconsin
+  - Dakota County, Minnesota
   - Ramsey County, Minnesota
-  - Saint Croix River
+  - Anoka County, Minnesota
 apple maps: "https://maps.apple/p/k2I-QHUUu_DAiy"
 county in: Minnesota
 county seat: Stillwater, Minnesota
