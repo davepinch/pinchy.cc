@@ -1,9 +1,10 @@
 ---
 title: "Ramsey County, Minnesota"
 adjacent to:
-  - Hennepin County, Minnesota
+  - Anoka County, Minnesota
   - Washington County, Minnesota
-  - incomplete list
+  - Dakota County, Minnesota
+  - Hennepin County, Minnesota
 apple maps: "https://maps.apple/p/YPmj7UMqbWy2Az"
 county in: Minnesota
 official website: "https://www.ramseycountymn.gov/"
