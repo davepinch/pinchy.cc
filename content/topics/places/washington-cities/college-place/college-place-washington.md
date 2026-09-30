@@ -1,5 +1,8 @@
 ---
 title: "College Place, Washington"
+adjacent to:
+  - Garrett, Washington
+  - Walla Walla, Washington
 apple maps: "https://maps.apple/p/qnPFZZoDu9Vh5A"
 city of:
   - Columbia Plateau
