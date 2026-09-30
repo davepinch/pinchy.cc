@@ -1,5 +1,12 @@
 ---
 title: "Anoka County, Minnesota"
+adjacent to:
+  - Isanti County, Minnesota
+  - Chisago County, Minnesota
+  - Washington County, Minnesota
+  - Ramsey County, Minnesota
+  - Hennepin County, Minnesota
+  - Sherburne County, Minnesota
 apple maps: "https://maps.apple/p/1MNCEwb_rh7-MD"
 county in: Minnesota
 official website: "https://www.anokacountymn.gov/"
