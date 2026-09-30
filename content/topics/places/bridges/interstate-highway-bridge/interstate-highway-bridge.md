@@ -1,6 +1,7 @@
 ---
 title: "Interstate Highway Bridge"
 bridge in:
+  - U.S. Route 12
   - Clarkston, Washington
   - Washington
   - Lewiston, Idaho
