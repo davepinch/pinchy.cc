@@ -2,6 +2,7 @@
 title: "Prosser, Washington"
 apple maps: "https://maps.apple/p/hshF8hkR4AaqJR"
 city in:
+  - Columbia Plateau
   - Benton County, Washington
   - Washington
 city of:
