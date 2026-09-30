@@ -2,6 +2,7 @@
 title: "Toppenish, Washington"
 apple maps: "https://maps.apple/p/cVIiRV046HACze"
 city of:
+  - Columbia Plateau
   - Yakama Indian Reservation
   - Yakima County, Washington
   - Washington
