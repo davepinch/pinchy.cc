@@ -1,6 +1,7 @@
 ---
 title: "Burbank, Washington"
 census-designated place in:
+  - Columbia Plateau
   - Walla Walla County, Washington
   - Washington
 census-designated place of:
