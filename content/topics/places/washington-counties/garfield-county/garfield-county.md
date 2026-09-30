@@ -1,10 +1,10 @@
 ---
 title: "Garfield County, Washington"
 adjacent to:
-  - Asotin County, Washington
-  - Columbia County, Washington
-  - Oregon
   - Whitman County, Washington
+  - Asotin County, Washington
+  - Wallowa County, Oregon
+  - Columbia County, Washington
 county in: Washington
 official website: "https://www.garfieldcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1150429"
