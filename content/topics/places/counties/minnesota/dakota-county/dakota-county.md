@@ -8,4 +8,5 @@ wikidata: "https://www.wikidata.org/wiki/Q111694"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Dakota_County,_Minnesota"
 tags:
   - county
+  - county in Minnesota
 ---
