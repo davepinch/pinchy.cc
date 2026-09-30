@@ -7,6 +7,7 @@ census-designated place in:
 census-designated place of:
   - Columbia River
   - Snake River
+  - U.S. Route 12
   - Washington State Route 124
 openstreetmap: "https://www.openstreetmap.org/relation/237414"
 western terminus of: Washington State Route 124
