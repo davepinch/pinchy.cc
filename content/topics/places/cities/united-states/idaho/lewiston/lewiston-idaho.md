@@ -4,6 +4,7 @@ apple maps: "https://maps.apple/p/FvhTm.5REa~Kri"
 city in:
   - Palouse
   - Columbia Plateau
+  - Nez Perce County, Idaho
   - Idaho
 city of: Snake River
 openstreetmap: "https://www.openstreetmap.org/relation/121282"
