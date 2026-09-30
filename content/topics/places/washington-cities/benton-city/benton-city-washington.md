@@ -2,6 +2,7 @@
 title: "Benton City, Washington"
 apple maps: "https://maps.apple/p/QhC23xUFaPk2zX"
 city in:
+  - Columbia Plateau
   - Benton County, Washington
   - Washington
 city of:
