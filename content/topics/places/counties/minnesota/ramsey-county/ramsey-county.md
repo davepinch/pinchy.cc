@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q491201"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ramsey_County,_Minnesota"
 tags:
   - county
+  - county in Minnesota
 ---
