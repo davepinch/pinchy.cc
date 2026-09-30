@@ -1,9 +1,11 @@
 ---
 title: "Quincy, Washington"
 apple maps: "https://maps.apple/p/Hi8zEEA3fFuMFX"
-city of:
+city in:
+  - Columbia Plateau
   - Grant County, Washington
   - Washington
+city of:
   - BNSF Columbia River Subdivision
   - Interstate 90
 openstreetmap: "https://www.openstreetmap.org/relation/237813"
