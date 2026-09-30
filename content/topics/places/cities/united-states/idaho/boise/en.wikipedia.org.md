@@ -6,7 +6,7 @@ license: CC BY-SA 4.0
 retrieved: 2025-01-10
 type: website
 url: /en.wikipedia.org/wiki/Boise,_Idaho/
-website: "https://en.wikipedia.org/wiki/Boise%2C_Idaho"
+website: "https://en.wikipedia.org/wiki/Boise,_Idaho"
 wikipedia of: Boise, Idaho
 tags:
   - Wikipedia
