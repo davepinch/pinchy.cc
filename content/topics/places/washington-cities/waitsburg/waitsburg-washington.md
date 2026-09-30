@@ -2,6 +2,7 @@
 title: "Waitsburg, Washington"
 apple maps: "https://maps.apple/p/N981HQgwqzRGqH"
 city in:
+  - Columbia Plateau
   - Walla Walla County, Washington
   - Washington
 city of:
