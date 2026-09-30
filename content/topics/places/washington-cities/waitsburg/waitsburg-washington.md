@@ -8,6 +8,7 @@ city in:
 city of:
   - Coppei Creek
   - Touchet River
+  - U.S. Route 12
   - Washington State Route 124
 eastern terminus of: Washington State Route 124
 official website: "https://www.cityofwaitsburg.com/"
