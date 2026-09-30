@@ -2,6 +2,7 @@
 title: "Pomeroy, Washington"
 apple maps: "https://maps.apple/p/HRgYG.IoML1HRu"
 city in:
+  - Columbia Plateau
   - Palouse
   - Garfield County, Washington
   - Washington
