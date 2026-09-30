@@ -1,0 +1,13 @@
+---
+title: "Hennepin County, Minnesota (Wikipedia)"
+excerpt: >-
+  **Hennepin County** (/ˈhɛnəpɪn/ *HEN-ə-pin*) is a county in the U.S. state of Minnesota. As of the 2020 census, the population was 1,281,565, and was estimated to be 1,284,784 in 2025, making it the most populous county in Minnesota and the 34th-most populous county in the United States. Its county seat is Minneapolis, the most populous city in Minnesota and the 46th-most populous city in the United States. The county is named for the 17th-century explorer Louis Hennepin. It extends from Minneapolis to the suburbs and outlying cities in the western part of the county. Its natural areas are covered by extensive woods, hills, and lakes. It contains over 21.98% of the state's population. It is included in the Minneapolis–Saint Paul–Bloomington metropolitan statistical area.
+license: CC BY-SA 4.0
+retrieved: 2026-09-30
+type: website
+url: /en.wikipedia.org/wiki/Hennepin_County,_Minnesota/
+website: "https://en.wikipedia.org/wiki/Hennepin_County,_Minnesota"
+wikipedia of: Hennepin County, Minnesota
+tags:
+  - Wikipedia
+---
