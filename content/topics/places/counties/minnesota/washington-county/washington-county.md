@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q485408"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_County,_Minnesota"
 tags:
   - county
+  - county in Minnesota
 ---
