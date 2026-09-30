@@ -2,6 +2,7 @@
 title: "Sunnyside, Washington"
 apple maps: "https://maps.apple/p/4WRYEaQKfzWinm"
 city in:
+  - Columbia Plateau
   - Yakima County, Washington
   - Washington
 city of:
