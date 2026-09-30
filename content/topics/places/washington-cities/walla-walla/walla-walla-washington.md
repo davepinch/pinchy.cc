@@ -11,6 +11,7 @@ city in:
   - Washington
 city of:
   - Mill Creek (Walla Walla River tributary)
+  - U.S. Route 12
 disambiguation of: Walla Walla
 openstreetmap: "https://www.openstreetmap.org/relation/238102"
 wikidata: "https://www.wikidata.org/wiki/Q222338"
