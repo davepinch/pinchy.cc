@@ -2,6 +2,9 @@
 title: "Scratchpad"
 draft: true
 ---
+9/30
+https://cosmicave.org/
+
 9/9
 
 title: "James' Lucid dream"
