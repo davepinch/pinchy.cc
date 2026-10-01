@@ -1,5 +1,13 @@
 ---
 title: "Dakota County, Minnesota"
+adjacent to:
+  - Ramsey County, Minnesota
+  - Washington County, Minnesota
+  - Pierce County, Wisconsin
+  - Goodhue County, Minnesota
+  - Rice County, Minnesota
+  - Scott County, Minnesota
+  - Hennepin County, Minnesota
 apple maps: "https://maps.apple/p/sMWgETYgHD--DL"
 county in: Minnesota
 county seat: Hastings, Minnesota
