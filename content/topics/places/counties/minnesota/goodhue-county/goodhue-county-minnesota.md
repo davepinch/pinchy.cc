@@ -1,5 +1,13 @@
 ---
 title: "Goodhue County, Minnesota"
+adjacent to:
+  - Pierce County, Wisconsin
+  - Pepin County, Wisconsin
+  - Wabasha County, Minnesota
+  - Olmsted County, Minnesota
+  - Dodge County, Minnesota
+  - Rice County, Minnesota
+  - Dakota County, Minnesota
 apple maps: "https://maps.apple/p/m1tMIqCpDf4t4r"
 county in: Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/1795847"
