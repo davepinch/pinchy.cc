@@ -1,9 +1,11 @@
 ---
 title: "Lake of the Woods County, Minnesota"
 adjacent to:
+  - Ontario
   - Koochiching County, Minnesota
   - Beltrami County, Minnesota
   - Roseau County, Minnesota
+  - Manitoba
 apple maps: "https://maps.apple/p/.~Qa3IeejK2ooX"
 county in: Minnesota
 county of: Lake of the Woods
