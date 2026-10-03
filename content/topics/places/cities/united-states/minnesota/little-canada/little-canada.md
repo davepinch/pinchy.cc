@@ -6,9 +6,13 @@ adjacent to:
   - Roseville, Minnesota
   - Shoreview, Minnesota
 apple maps: "https://maps.apple/p/_~nFp4vPSEDK_k"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
+city of:
+  - Interstate 35E
+  - Interstate 694
+  - Minnesota State Highway 36
 little of: Canada
 openstreetmap: "https://www.openstreetmap.org/relation/136609"
 suburb of:
