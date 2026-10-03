@@ -6,9 +6,10 @@ adjacent to:
   - Lake St. Croix Beach, Minnesota
   - Afton, Minnesota
 apple maps: "https://maps.apple/p/tHmYd~uubqds8F"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of:
   - Interstate 94
   - Minnesota State Highway 95
   - Saint Croix River
