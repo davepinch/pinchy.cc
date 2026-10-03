@@ -7,6 +7,7 @@ city in:
   - Minnesota
 city of: Minnesota River
 official website: "https://www.cityofcarver.com/"
+openstreetmap: "https://www.openstreetmap.org/relation/136583"
 wikidata: "https://www.wikidata.org/wiki/Q1946865"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Carver,_Minnesota"
 tags:
