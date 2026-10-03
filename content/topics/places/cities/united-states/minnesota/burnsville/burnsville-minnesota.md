@@ -19,6 +19,7 @@ city of:
 suburb of:
   - Minneapolis
   - Twin Cities
+official website: "https://burnsvillemn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136578"
 wikidata: "https://www.wikidata.org/wiki/Q736586"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Burnsville,_Minnesota"
