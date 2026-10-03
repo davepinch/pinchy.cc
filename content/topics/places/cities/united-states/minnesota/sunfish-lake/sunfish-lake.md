@@ -5,6 +5,7 @@ city in:
   - Dakota County, Minnesota
   - Minnesota
 city of: Interstate 494
+official website: "https://sunfishlake.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136561"
 suburb of:
   - Saint Paul, Minnesota
