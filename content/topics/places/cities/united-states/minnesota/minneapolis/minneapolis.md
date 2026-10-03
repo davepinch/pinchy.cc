@@ -17,10 +17,10 @@ adjacent to:
 ASCEND: IDS Center
 apple maps: "https://maps.apple/p/1SmI.KPtTKMsIN"
 city in:
+  - Twin Cities
   - Hennepin County, Minnesota
   - Minnesota
 city of:
-  - Twin Cities
   - Interstate 35W
   - Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/136712"
