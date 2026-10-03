@@ -8,9 +8,10 @@ adjacent to:
   - Mahtomedi, Minnesota
   - Dellwood, Minnesota
 apple maps: "https://maps.apple/p/9IaXisgzAPGZbz"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of: Minnesota State Highway 36
 suburb of:
   - Saint Paul, Minnesota
   - Twin Cities
