@@ -9,6 +9,7 @@ city of:
   - Anoka County, Minnesota
   - Ramsey County, Minnesota
   - Minnesota
+official website: "https://springlakeparkmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136630"
 suburb of:
   - Minneapolis, Minnesota
