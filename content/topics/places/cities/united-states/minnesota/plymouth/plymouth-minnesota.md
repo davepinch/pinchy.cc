@@ -1,9 +1,10 @@
 ---
 title: "Plymouth, Minnesota"
 apple maps: "https://maps.apple/p/LIu2p6Zykx5psw"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of: Interstate 494
 openstreetmap: "https://www.openstreetmap.org/relation/137441"
 suburb of:
   - Minneapolis, Minnesota
