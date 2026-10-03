@@ -9,9 +9,10 @@ adjacent to:
   - Anoka, Minnesota
   - Ramsey, Minnesota
 apple maps: "https://maps.apple/p/_Lj6CoduspNV5y"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
+city of: Rum River
 openstreetmap: "https://www.openstreetmap.org/relation/136833"
 suburb of:
   - Minneapolis, Minnesota
