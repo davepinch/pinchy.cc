@@ -5,9 +5,12 @@ adjacent to:
   - Oakdale, Minnesota
   - Mahtomedi, Minnesota
 apple maps: "https://maps.apple/p/8qGSBt7t2dehiB"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of:
+  - Interstate 694
+  - Minnesota State Highway 36
 suburb of:
   - Saint Paul, Minnesota
   - Twin Cities
