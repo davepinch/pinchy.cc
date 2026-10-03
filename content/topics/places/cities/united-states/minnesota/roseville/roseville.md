@@ -13,9 +13,12 @@ adjacent to:
   - Saint Anthony Village, Minnesota
   - Shoreview, Minnesota
 apple maps: "https://maps.apple/p/49dN~3aMzGxw-1"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
+city of:
+  - Interstate 35W
+  - Minnesota State Highway 36
 openstreetmap: "https://www.openstreetmap.org/relation/136616"
 suburb of:
   - Saint Paul, Minnesota
