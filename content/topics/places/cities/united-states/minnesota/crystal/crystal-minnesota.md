@@ -10,6 +10,7 @@ apple maps: "https://maps.apple/p/.-Y7asNo_teZi8"
 city of:
   - Hennepin County, Minnesota
   - Minnesota
+official website: "https://www.crystalmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137431"
 suburb of:
   - Minneapolis, Minnesota
