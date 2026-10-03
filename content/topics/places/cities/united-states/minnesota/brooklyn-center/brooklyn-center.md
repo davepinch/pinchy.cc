@@ -17,6 +17,7 @@ city of:
 suburb of:
   - Minneapolis, Minnesota
   - Twin Cities
+official website: "https://www.brooklyncentermn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136672"
 wikidata: "https://www.wikidata.org/entity/Q929519"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Brooklyn_Center,_Minnesota"
