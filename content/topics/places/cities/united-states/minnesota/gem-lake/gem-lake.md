@@ -9,6 +9,7 @@ city in:
   - Ramsey County, Minnesota
   - Minnesota
 city of: U.S. Route 61
+official website: "https://gemlakemn.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136606"
 suburb of:
   - Saint Paul, Minnesota
