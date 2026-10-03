@@ -1,9 +1,10 @@
 ---
 title: "Sunfish Lake, Minnesota"
 apple maps: "https://maps.apple/p/uzmH7Idh5d-s20"
-city of:
+city in:
   - Dakota County, Minnesota
   - Minnesota
+city of: Interstate 494
 openstreetmap: "https://www.openstreetmap.org/relation/136561"
 suburb of:
   - Saint Paul, Minnesota
