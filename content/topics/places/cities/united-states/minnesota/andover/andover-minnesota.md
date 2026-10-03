@@ -13,6 +13,7 @@ city in:
   - Anoka County, Minnesota
   - Minnesota
 city of: Rum River
+official website: "https://www.andovermn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136833"
 suburb of:
   - Minneapolis, Minnesota
