@@ -12,6 +12,7 @@ city in:
 city of:
   - Interstate 494
   - Minnesota River
+official website: "https://www.edenprairiemn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136689"
 suburb of:
   - Minneapolis, Minnesota
