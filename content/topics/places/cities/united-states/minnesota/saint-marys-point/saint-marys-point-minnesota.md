@@ -5,6 +5,7 @@ city in:
   - Washington County, Minnesota
   - Minnesota
 city of: Saint Croix River
+official website: "https://www.stmaryspointmn.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136799"
 url: /saint-marys-point-minnesota/
 wikidata: "https://www.wikidata.org/wiki/Q2246540"
