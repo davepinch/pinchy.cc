@@ -18,6 +18,7 @@ city in:
 city of:
   - Interstate 35E
   - Interstate 35W
+official website: "https://www.linolakes.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137869"
 wikidata: "https://www.wikidata.org/entity/Q1992863"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lino_Lakes,_Minnesota"
