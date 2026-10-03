@@ -9,6 +9,7 @@ city in:
   - Hennepin County, Minnesota
   - Minnesota
 city of: Minnehaha Creek
+official website: "https://www.hopkinsmn.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/136696"
 suburb of:
   - Minneapolis, Minnesota
