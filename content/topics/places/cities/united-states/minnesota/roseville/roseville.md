@@ -19,6 +19,7 @@ city in:
 city of:
   - Interstate 35W
   - Minnesota State Highway 36
+official website: "https://www.cityofroseville.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/136616"
 suburb of:
   - Saint Paul, Minnesota
