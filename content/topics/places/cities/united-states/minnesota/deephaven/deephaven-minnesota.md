@@ -1,5 +1,6 @@
 ---
 title: "Deephaven, Minnesota"
+apple maps: "https://maps.apple/p/RH1yqEU8tPDmCP"
 city in:
   - Hennepin County, Minnesota
   - Minnesota
