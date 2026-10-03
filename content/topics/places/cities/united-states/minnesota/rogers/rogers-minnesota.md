@@ -5,6 +5,7 @@ city in:
   - Hennepin County, Minnesota
   - Minnesota
 city of: Interstate 94
+official website: "https://www.rogersmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137442"
 wikidata: "https://www.wikidata.org/wiki/Q1924299"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rogers,_Minnesota"
