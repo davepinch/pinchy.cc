@@ -13,6 +13,7 @@ city in:
   - Hennepin County, Minnesota
   - Minnesota
 city of: U.S. Route 12
+official website: "https://www.ci.independence.mn.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/136711"
 wikidata: "https://www.wikidata.org/wiki/Q24350"
 wikimedia: "https://commons.wikimedia.org/wiki/Independence,_Minnesota"
