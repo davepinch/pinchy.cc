@@ -18,6 +18,7 @@ city in:
   - Minnesota
 city of: Interstate 35W
 not to be confused with: Blaine, Washington
+official website: "https://www.blainemn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136848"
 suburb of:
   - Minneapolis, Minnesota
