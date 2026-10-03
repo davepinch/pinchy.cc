@@ -4,9 +4,10 @@ adjacent to:
   - Lakeville, Minnesota
   - Empire, Minnesota
 apple maps: "https://maps.apple/p/jhXVJxaYQMIjGv"
-city of:
+city in:
    - Dakota County, Minnesota
    - Minnesota
+city of: Vermillion River
 official website: "https://www.farmingtonmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136899"
 wikidata: "https://www.wikidata.org/wiki/Q18283964"
