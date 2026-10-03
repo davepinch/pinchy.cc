@@ -1,9 +1,12 @@
 ---
 title: "Richfield, Minnesota"
 apple maps: "https://maps.apple/p/evFM-ynFog3~NS"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of:
+  - Interstate 35W
+  - Interstate 494
 official website: "http://www.cityofrichfield.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136713"
 suburb of:
