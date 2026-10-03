@@ -12,6 +12,7 @@ city in:
 city of:
   - Interstate 494
   - Mississippi River
+official website: "https://southstpaulmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136562"
 suburb of:
   - Saint Paul, Minnesota
