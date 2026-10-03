@@ -19,6 +19,7 @@ city of:
   - Interstate 494
   - Lake Minnetonka
   - U.S. Route 12
+official website: "https://www.minnetonkamn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136714"
 suburb of:
   - Minneapolis, Minnesota
