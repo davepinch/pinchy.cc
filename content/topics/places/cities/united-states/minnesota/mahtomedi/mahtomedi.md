@@ -16,6 +16,7 @@ city in:
 city of:
   - Interstate 694
   - White Bear Lake
+official website: "https://www.mahtomedimn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137849"
 suburb of:
   - Saint Paul, Minnesota
