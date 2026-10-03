@@ -7,6 +7,7 @@ city in:
   - La Sueur County, Minnesota
   - Minnesota
 city of: Minnesota River
+official website: "https://www.mankatomn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137644"
 wikidata: "https://www.wikidata.org/entity/Q913243"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mankato,_Minnesota"
