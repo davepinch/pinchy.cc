@@ -7,7 +7,9 @@ apple maps: "https://maps.apple/p/aMETSQ1wBSi5uf"
 city in:
   - St. Louis County, Minnesota
   - Minnesota
-city of: Lake Superior
+city of:
+  - Interstate 35
+  - Lake Superior
 disambiguation of: Duluth
 openstreetmap: "https://www.openstreetmap.org/relation/136669"
 wikidata: "https://www.wikidata.org/entity/Q485708"
