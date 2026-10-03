@@ -9,6 +9,7 @@ apple maps: "https://maps.apple/p/0h18bBzxZcrLGW"
 city of:
   - Anoka County, Minnesota
   - Minnesota
+official website: "https://circlepinesmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136634"
 wikidata: "https://www.wikidata.org/entity/Q2246527"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Circle_Pines,_Minnesota"
