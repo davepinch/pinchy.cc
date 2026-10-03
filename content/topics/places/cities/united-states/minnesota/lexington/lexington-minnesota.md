@@ -8,6 +8,7 @@ city in:
   - Anoka County, Minnesota
   - Minnesota
 city of: Interstate 35W
+official website: "https://www.lexingtonmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136849"
 wikidata: "https://www.wikidata.org/wiki/Q2230312"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lexington,_Minnesota"
