@@ -21,6 +21,7 @@ city of:
   - White Bear Lake
 clockwise around white bear lake: White Bear Township, Minnesota
 named after the lake: White Bear Lake
+official website: "https://www.whitebearlakemn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137417"
 suburb of:
   - Saint Paul, Minnesota
