@@ -7,9 +7,10 @@ adjacent to:
   - Dayton, Minnesota
   - Ramsey, Minnesota
 apple maps: "https://maps.apple/p/CsiNZLP_cD~KZ-"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
+city of: Rum River
 openstreetmap: "https://www.openstreetmap.org/relation/136832"
 suburb of:
   - Minneapolis, Minnesota
