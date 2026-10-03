@@ -16,10 +16,12 @@ adjacent to:
   - Robbinsdale, Minnesota
 ASCEND: IDS Center
 apple maps: "https://maps.apple/p/1SmI.KPtTKMsIN"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of:
   - Twin Cities
+  - Interstate 35W
   - Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/136712"
 wikidata: "https://www.wikidata.org/entity/Q36091"
