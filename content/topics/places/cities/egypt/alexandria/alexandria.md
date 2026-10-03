@@ -6,7 +6,6 @@ city of:
 openstreetmap: "https://www.openstreetmap.org/node/27565020"
 wikidata: "https://www.wikidata.org/wiki/Q87"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Alexandria"
-wikivoyage: "https://en.wikivoyage.org/wiki/Alexandria"
 tags:
   - city
 ---
