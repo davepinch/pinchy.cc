@@ -10,6 +10,7 @@ city in:
 city of:
   - Minnesota State Highway 95
   - Saint Croix River
+official website: "https://www.bayportmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136802"
 wikidata: "https://www.wikidata.org/entity/Q2334515"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bayport,_Minnesota"
