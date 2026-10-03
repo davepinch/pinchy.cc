@@ -5,9 +5,10 @@ adjacent to:
   - St. Louis Park, Minnesota
   - Edina, Minnesota
 apple maps: "https://maps.apple/p/9uv9z.oHUaZU7J"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of: Minnehaha Creek
 openstreetmap: "https://www.openstreetmap.org/relation/136696"
 suburb of:
   - Minneapolis, Minnesota
