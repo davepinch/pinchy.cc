@@ -15,6 +15,8 @@ city in:
   - Washington County, Minnesota
   - Minnesota
 city of:
+  - Interstate 35E
+  - Interstate 694
   - U.S. Route 61
   - White Bear Lake
 clockwise around white bear lake: White Bear Township, Minnesota
