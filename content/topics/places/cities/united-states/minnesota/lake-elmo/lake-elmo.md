@@ -14,6 +14,7 @@ city in:
   - Washington County, Minnesota
   - Minnesota
 city of: Interstate 94
+official website: "https://www.lakeelmo.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136811"
 suburb of:
   - Saint Paul, Minnesota
