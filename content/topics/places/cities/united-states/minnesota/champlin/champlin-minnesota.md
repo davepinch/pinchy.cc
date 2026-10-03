@@ -11,6 +11,7 @@ city in:
   - Hennepin County, Minnesota
   - Minnesota
 city of: Mississippi River
+official website: "https://champlinmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136688"
 suburb of:
   - Minneapolis, Minnesota
