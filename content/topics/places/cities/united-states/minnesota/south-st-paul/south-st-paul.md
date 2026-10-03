@@ -6,9 +6,12 @@ adjacent to:
   - West St. Paul, Minnesota
   - incomplete list
 apple maps: "https://maps.apple/p/krgom_ie3u5vN5"
-city of:
+city in:
   - Dakota County, Minnesota
   - Minnesota
+city of:
+  - Interstate 494
+  - Mississippi River
 openstreetmap: "https://www.openstreetmap.org/relation/136562"
 suburb of:
   - Saint Paul, Minnesota
