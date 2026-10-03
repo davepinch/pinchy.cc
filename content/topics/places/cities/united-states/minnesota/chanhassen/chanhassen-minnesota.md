@@ -13,6 +13,7 @@ city in:
   - Hennepin County, Minnesota
   - Minnesota
 city of: Minnesota River
+official website: "https://www.chanhassenmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136690"
 wikidata: "https://www.wikidata.org/wiki/Q1992901"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Chanhassen,_Minnesota"
