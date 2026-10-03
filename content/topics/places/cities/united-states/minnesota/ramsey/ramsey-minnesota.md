@@ -5,6 +5,7 @@ city in:
   - Anoka County, Minnesota
   - Minnesota
 city of: Mississippi River
+official website: "https://www.cityoframseymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136831"
 suburb of: Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q1992875"
