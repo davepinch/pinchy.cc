@@ -11,6 +11,7 @@ apple maps: "https://maps.apple/p/sm61q7MEmPK-7K"
 city of:
   - Anoka County, Minnesota
   - Minnesota
+official website: "https://mn-eastbethel2.civicplus.com/1/Home"
 openstreetmap: "https://www.openstreetmap.org/relation/136827"
 wikidata: "https://www.wikidata.org/wiki/Q1884002"
 tags:
