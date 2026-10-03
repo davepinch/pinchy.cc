@@ -9,6 +9,7 @@ city in:
   - Dakota County, Minnesota
   - Minnesota
 city of:
+  - Interstate 35E
   - Minnesota River
   - Mississippi River
 openstreetmap: "https://www.openstreetmap.org/relation/136897"
