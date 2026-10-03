@@ -11,6 +11,7 @@ city in:
   - Dakota County, Minnesota
   - Minnesota
 city of: Interstate 35E
+official website: "https://applevalleymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136572"
 suburb of: Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q9927618"
