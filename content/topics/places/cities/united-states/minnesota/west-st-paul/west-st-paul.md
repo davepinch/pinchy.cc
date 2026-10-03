@@ -12,6 +12,7 @@ city of:
 suburb of:
   - Saint Paul, Minnesota
   - Twin Cities
+official website: "https://www.wspmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136559"
 wikidata: "https://www.wikidata.org/entity/Q2036838"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:West_St._Paul,_Minnesota"
