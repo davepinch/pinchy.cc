@@ -18,6 +18,7 @@ city in:
 city of:
   - Interstate 35W
   - Interstate 694
+official website: "https://www.shoreviewmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136611"
 suburb of:
   - Saint Paul, Minnesota
