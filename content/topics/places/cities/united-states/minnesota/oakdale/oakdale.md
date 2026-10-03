@@ -17,6 +17,7 @@ city of:
   - Interstate 94
   - Interstate 694
   - Minnesota State Highway 36
+official website: "https://ci.oakdale.mn.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/137850"
 suburb of:
   - Saint Paul, Minnesota
