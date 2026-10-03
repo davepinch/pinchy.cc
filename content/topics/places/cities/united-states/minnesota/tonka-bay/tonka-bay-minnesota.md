@@ -5,6 +5,7 @@ city in:
   - Hennepin County, Minnesota
   - Minnesota
 city of: Lake Minnetonka
+official website: "https://www.cityoftonkabay.net/"
 openstreetmap: "https://www.openstreetmap.org/relation/136725"
 wikidata: "https://www.wikidata.org/wiki/Q1816668"
 tags:
