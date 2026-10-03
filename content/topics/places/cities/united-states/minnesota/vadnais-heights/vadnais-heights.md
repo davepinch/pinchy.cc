@@ -16,6 +16,7 @@ city of:
   - Interstate 35E
   - Interstate 694
   - U.S. Route 61
+official website: "https://cityvadnaisheights.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/136607"
 suburb of:
   - Saint Paul, Minnesota
