@@ -10,10 +10,11 @@ city in:
   - Minnesota
 city of: White Bear Lake
 clockwise around white bear lake: Mahtomedi, Minnesota
+official website: "https://www.dellwood.us/"
+openstreetmap: "https://www.openstreetmap.org/relation/136805"
 suburb of:
   - Saint Paul, Minnesota
   - Twin Cities
-openstreetmap: "https://www.openstreetmap.org/relation/136805"
 wikidata: "https://www.wikidata.org/entity/Q2212370"
 tags:
   - city
