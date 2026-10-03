@@ -10,10 +10,10 @@ adjacent to:
   - Oakdale, Minnesota
   - Pine Springs, Minnesota
 apple maps: "https://maps.apple/p/RDiPpAbBxiuB1Q"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
-  - Interstate 94
+city of: Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/136811"
 suburb of:
   - Saint Paul, Minnesota
