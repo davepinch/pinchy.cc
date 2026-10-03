@@ -15,6 +15,7 @@ city in:
   - Minnesota
 city of: U.S. Route 12
 disambiguation of: Medina
+official website: "https://www.medinamn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137436"
 suburb of:
   - Minneapolis
