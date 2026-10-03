@@ -8,6 +8,7 @@ city in:
 city of:
   - Interstate 94
   - Red River of the North
+official website: "https://www.moorheadmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137253"
 wikidata: "https://www.wikidata.org/wiki/Q983754"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Moorhead,_Minnesota"
