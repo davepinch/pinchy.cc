@@ -10,6 +10,7 @@ city in:
   - Washington County, Minnesota
   - Minnesota
 city of:
+  - Interstate 494
   - Mississippi River
   - U.S. Route 61
 official website: "https://www.newportmn.gov/"
