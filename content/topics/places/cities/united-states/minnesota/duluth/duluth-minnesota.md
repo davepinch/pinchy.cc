@@ -4,9 +4,10 @@ adjacent to:
   - Lake Superior
   - Wisconsin
 apple maps: "https://maps.apple/p/aMETSQ1wBSi5uf"
-city of:
-  - Lake Superior
+city in:
+  - St. Louis County, Minnesota
   - Minnesota
+city of: Lake Superior
 disambiguation of: Duluth
 openstreetmap: "https://www.openstreetmap.org/relation/136669"
 wikidata: "https://www.wikidata.org/entity/Q485708"
