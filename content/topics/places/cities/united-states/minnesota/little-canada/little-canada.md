@@ -14,6 +14,7 @@ city of:
   - Interstate 694
   - Minnesota State Highway 36
 little of: Canada
+official website: "https://littlecanada.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136609"
 suburb of:
   - Saint Paul, Minnesota
