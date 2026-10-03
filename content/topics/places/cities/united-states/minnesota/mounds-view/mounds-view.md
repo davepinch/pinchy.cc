@@ -13,6 +13,7 @@ city in:
   - Ramsey County, Minnesota
   - Minnesota
 city of: Interstate 35W
+official website: "https://www.moundsviewmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136629"
 suburb of:
   - Minneapolis, Minnesota
