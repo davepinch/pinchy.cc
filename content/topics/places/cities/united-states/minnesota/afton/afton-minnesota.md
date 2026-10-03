@@ -16,6 +16,7 @@ city of:
   - Minnesota State Highway 95
   - Saint Croix River
 disambiguation of: Afton
+official website: "https://aftonmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136800"
 wikidata: "https://www.wikidata.org/entity/Q692740"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Afton,_Minnesota"
