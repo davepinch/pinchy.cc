@@ -14,6 +14,7 @@ city in:
 city of:
   - Minnesota State Highway 95
   - Saint Croix River
+official website: "https://www.cityofscandia.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/136815"
 wikidata: "https://www.wikidata.org/entity/Q2463967"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Scandia,_Minnesota"
