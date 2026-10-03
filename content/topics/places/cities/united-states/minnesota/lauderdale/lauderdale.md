@@ -12,6 +12,7 @@ city of:
 suburb of:
   - Saint Paul, Minnesota
   - Twin Cities
+official website: "https://www.lauderdalemn.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136615"
 wikidata: "https://www.wikidata.org/entity/Q144180"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lauderdale,_Minnesota"
