@@ -9,9 +9,12 @@ adjacent to:
   - Roseville, Minnesota
   - Saint Anthony Village, Minnesota
 apple maps: "https://maps.apple/p/eAVLk3Nhmux7~X"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
+city of:
+  - Interstate 35W
+  - Interstate 694
 official website: "https://www.newbrightonmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136625"
 suburb of:
