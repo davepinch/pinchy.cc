@@ -11,6 +11,7 @@ city in:
   - Anoka County, Minnesota
   - Minnesota
 city of: Rum River
+official website: "https://www.anokamn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136832"
 suburb of:
   - Minneapolis, Minnesota
