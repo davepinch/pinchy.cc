@@ -20,6 +20,7 @@ city of:
   - Interstate 694
   - U.S. Route 61
 disambiguation of: Maplewood
+official website: "https://maplewoodmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136631"
 suburb of:
   - Saint Paul, Minnesota
