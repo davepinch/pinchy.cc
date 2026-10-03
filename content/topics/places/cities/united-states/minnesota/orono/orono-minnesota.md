@@ -7,6 +7,7 @@ city in:
 city of:
   - Lake Minnetonka
   - U.S. Route 12
+official website: "https://oronomn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137440"
 wikidata: "https://www.wikidata.org/wiki/Q636069"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Orono,_Minnesota"
