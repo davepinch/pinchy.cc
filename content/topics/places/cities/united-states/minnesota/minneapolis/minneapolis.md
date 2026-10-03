@@ -23,6 +23,7 @@ city in:
 city of:
   - Interstate 35W
   - Interstate 94
+official website: "https://www.minneapolismn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136712"
 wikidata: "https://www.wikidata.org/entity/Q36091"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Minneapolis"
