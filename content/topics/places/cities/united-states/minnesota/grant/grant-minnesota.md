@@ -15,6 +15,7 @@ city of: Minnesota State Highway 36
 suburb of:
   - Saint Paul, Minnesota
   - Twin Cities
+official website: "https://www.cityofgrant.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/136809"
 wikidata: "https://www.wikidata.org/entity/Q1987755"
 tags:
