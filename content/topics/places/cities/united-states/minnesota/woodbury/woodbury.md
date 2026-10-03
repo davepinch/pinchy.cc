@@ -16,6 +16,7 @@ city of:
   - Minnesota State Highway 95
   - Interstate 94
   - Interstate 494
+official website: "https://www.woodburymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136632"
 suburb of:
   - Saint Paul, Minnesota
