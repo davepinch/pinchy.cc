@@ -9,9 +9,10 @@ adjacent to:
   - Shoreview, Minnesota
   - Spring Lake Park, Minnesota
 apple maps: "https://maps.apple/p/_.kAbhGT5pCPbL"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
+city of: Interstate 35W
 openstreetmap: "https://www.openstreetmap.org/relation/136629"
 suburb of:
   - Minneapolis, Minnesota
