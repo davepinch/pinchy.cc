@@ -11,9 +11,13 @@ adjacent to:
   - Brooklyn Center, Minnesota
   - Brooklyn Park, Minnesota
 apple maps: "https://maps.apple/p/viijZnsTm1ecj0"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
+city of:
+  - Interstate 94
+  - Interstate 694
+  - Mississippi River
 openstreetmap: "https://www.openstreetmap.org/relation/136671"
 suburb of:
   - Minneapolis, Minnesota
