@@ -15,6 +15,7 @@ city in:
   - Hennepin County, Minnesota
   - Minnesota
 city of: Interstate 94
+official website: "https://www.maplegrovemn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136692"
 wikidata: "https://www.wikidata.org/wiki/Q983741"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Maple_Grove,_Minnesota"
