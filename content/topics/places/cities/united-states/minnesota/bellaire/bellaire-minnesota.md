@@ -6,6 +6,7 @@ adjacent to:
   - White Bear Lake, Minnesota
 apple maps: "https://maps.apple/p/KeZEdJATo8sc-d"
 clockwise around white bear lake: White Bear Lake, Minnesota
+openstreetmap: "https://www.openstreetmap.org/node/151616924"
 TODO: link to Minnesota. Quality townships with the State.
 unincorporated community of: White Bear Township, Minnesota
 tags:
