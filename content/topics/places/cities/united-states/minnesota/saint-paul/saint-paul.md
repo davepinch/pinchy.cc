@@ -20,7 +20,9 @@ city in:
   - Twin Cities
   - Minnesota
 city of:
+  - Interstate 35E
   - Interstate 94
+  - Minnesota River
   - Mississippi River
   - U.S. Route 61
 namesake of: Paul the Apostle
