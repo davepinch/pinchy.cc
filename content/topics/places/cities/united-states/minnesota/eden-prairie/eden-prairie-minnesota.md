@@ -6,9 +6,12 @@ adjacent to:
   - Minnetonka, Minnesota
   - Chanhassen, Minnesota
 apple maps: "https://maps.apple/p/mWB~xoV9GMScVV"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of:
+  - Interstate 494
+  - Minnesota River
 openstreetmap: "https://www.openstreetmap.org/relation/136689"
 suburb of:
   - Minneapolis, Minnesota
