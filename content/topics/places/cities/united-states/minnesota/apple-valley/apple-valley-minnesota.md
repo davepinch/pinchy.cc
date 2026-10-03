@@ -7,9 +7,10 @@ adjacent to:
   - Lakeville, Minnesota
   - Burnsville, Minnesota
 apple maps: "https://maps.apple/p/64-w6RYsmBsFfV"
-city of:
+city in:
   - Dakota County, Minnesota
   - Minnesota
+city of: Interstate 35E
 openstreetmap: "https://www.openstreetmap.org/relation/136572"
 suburb of: Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q9927618"
