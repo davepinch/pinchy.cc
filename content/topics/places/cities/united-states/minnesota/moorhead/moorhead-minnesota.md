@@ -5,7 +5,9 @@ apple maps: "https://maps.apple/p/0jfzEuAHcEvTzG"
 city in:
   - Clay County, Minnesota
   - Minnesota
-city of: Red River of the North
+city of:
+  - Interstate 94
+  - Red River of the North
 openstreetmap: "https://www.openstreetmap.org/relation/137253"
 wikidata: "https://www.wikidata.org/wiki/Q983754"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Moorhead,_Minnesota"
