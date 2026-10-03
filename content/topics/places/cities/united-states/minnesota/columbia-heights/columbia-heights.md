@@ -10,6 +10,7 @@ apple maps: "https://maps.apple/p/VHI3zSeC.WeL-0"
 city of:
   - Anoka County, Minnesota
   - Minnesota
+official website: "https://columbiaheightsmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137871"
 suburb of:
   - Minneapolis, Minnesota
