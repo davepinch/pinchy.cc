@@ -16,6 +16,8 @@ city in:
   - Minnesota
 city of:
   - Interstate 94
+  - Interstate 494
+  - Interstate 694
   - U.S. Route 61
 disambiguation of: Maplewood
 openstreetmap: "https://www.openstreetmap.org/relation/136631"
