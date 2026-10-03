@@ -4,6 +4,7 @@ apple maps: "https://maps.apple/p/YQpJHSE1oWbMxo"
 city of:
   - Hennepin County, Minnesota
   - Minnesota
+official website: "https://www.stlouisparkmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136701"
 suburb of:
   - Minneapolis, Minnesota
