@@ -12,9 +12,12 @@ adjacent to:
   - Vadnais Heights, Minnesota
   - White Bear Township, Minnesota
 apple maps: "https://maps.apple/p/f2Dqzkx5f0BkrM"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
+city of:
+  - Interstate 35W
+  - Interstate 694
 openstreetmap: "https://www.openstreetmap.org/relation/136611"
 suburb of:
   - Saint Paul, Minnesota
