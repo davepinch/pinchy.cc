@@ -15,6 +15,7 @@ city of:
   - Mississippi River
   - Minnesota State Highway 95
   - U.S. Route 61
+official website: "https://www.cottagegrovemn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136804"
 suburb of:
   - Saint Paul, Minnesota
