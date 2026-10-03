@@ -9,9 +9,11 @@ adjacent to:
   - Burnsville, Minnesota
   - Bloomington, Minnesota
 apple maps: "https://maps.apple/p/_g4HKb5aMhtaiN"
-city of:
+city in:
   - Dakota County, Minnesota
   - Minnesota
+city of: Interstate 494
+official website: "https://cityofeagan.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/136575"
 suburb of:
   - Saint Paul, Minnesota
