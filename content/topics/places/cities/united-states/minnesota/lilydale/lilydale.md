@@ -12,6 +12,7 @@ city of:
   - Interstate 35E
   - Minnesota River
   - Mississippi River
+official website: "https://lilydalemn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136897"
 suburb of:
   - Saint Paul, Minnesota
