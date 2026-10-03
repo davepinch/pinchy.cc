@@ -5,9 +5,10 @@ adjacent to:
   - Oakdale, Minnesota
   - Washington County, Minnesota
 apple maps: "https://maps.apple/p/0Ug.wKu0dz9~2N"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
+city of: Minnesota State Highway 36
 dave: >-
   At some point I walked home from [North High School](/north-high-school/). I don't remember the exact route but I do remember walking by John Glenn school on the way back.
 official website: "https://www.northstpaul.org/"
