@@ -18,6 +18,7 @@ city of:
   - Interstate 94
   - Interstate 694
   - Mississippi River
+official website: "https://www.fridleymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136671"
 suburb of:
   - Minneapolis, Minnesota
