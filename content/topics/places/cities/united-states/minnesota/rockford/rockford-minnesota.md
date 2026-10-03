@@ -6,6 +6,7 @@ city in:
   - Hennepin County, Minnesota
   - Minnesota
 city of: Crow River
+official website: "https://www.cityofrockford.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/137856"
 wikidata: "https://www.wikidata.org/wiki/Q2032638"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rockford,_Minnesota"
