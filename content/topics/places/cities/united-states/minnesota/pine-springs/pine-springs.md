@@ -14,6 +14,7 @@ city of:
 suburb of:
   - Saint Paul, Minnesota
   - Twin Cities
+official website: "https://www.cityofpinesprings.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136814"
 wikidata: "https://www.wikidata.org/entity/Q519307"
 tags:
