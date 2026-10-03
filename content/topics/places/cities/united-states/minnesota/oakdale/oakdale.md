@@ -10,10 +10,13 @@ adjacent to:
   - Pine Springs, Minnesota
   - Woodbury, Minnesota
 apple maps: "https://maps.apple/p/YxNdiU6XqBx_ag"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of:
   - Interstate 94
+  - Interstate 694
+  - Minnesota State Highway 36
 openstreetmap: "https://www.openstreetmap.org/relation/137850"
 suburb of:
   - Saint Paul, Minnesota
