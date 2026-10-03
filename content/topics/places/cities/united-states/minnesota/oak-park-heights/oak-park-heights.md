@@ -7,10 +7,12 @@ adjacent to:
   - Stillwater, Minnesota
   - incomplete list
 apple maps: "https://maps.apple/p/k.VJjUady5wt1f"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
+city of:
   - Saint Croix River
+  - Minnesota State Highway 36
   - Minnesota State Highway 95
 openstreetmap: "https://www.openstreetmap.org/relation/137851"
 wikidata: "https://www.wikidata.org/entity/Q2228020"
