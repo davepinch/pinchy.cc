@@ -17,6 +17,7 @@ city in:
 city of:
   - Interstate 94
   - Mississippi River
+official website: "https://www.brooklynpark.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136686"
 suburb of:
   - Minneapolis, Minnesota
