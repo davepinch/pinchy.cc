@@ -13,6 +13,7 @@ city in:
   - Hennepin County, Minnesota
   - Minnesota
 city of: Interstate 494
+official website: "https://www.edinamn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136695"
 suburb of:
   - Minneapolis, Minnesota
