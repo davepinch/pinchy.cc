@@ -11,6 +11,7 @@ city in:
 city of:
   - Minnesota River
   - Mississippi River
+official website: "https://www.cityofmendota.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136571"
 suburb of:
   - Saint Paul, Minnesota
