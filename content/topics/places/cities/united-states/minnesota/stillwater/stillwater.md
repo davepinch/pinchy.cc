@@ -13,6 +13,7 @@ city of:
   - Saint Croix River
   - Minnesota State Highway 36
   - Minnesota State Highway 95
+official website: "https://www.stillwatermn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137853"
 wikidata: "https://www.wikidata.org/entity/Q862658"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Stillwater,_Minnesota"
