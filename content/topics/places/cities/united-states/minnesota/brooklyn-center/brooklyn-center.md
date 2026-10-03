@@ -12,6 +12,7 @@ city in:
   - Minnesota
 city of:
   - Interstate 94
+  - Interstate 694
   - Mississippi River
 suburb of:
   - Minneapolis, Minnesota
