@@ -7,6 +7,7 @@ city in:
 city of:
   - Mississippi River
   - U.S. Route 61
+  - Vermillion River
 down the mississippi: Prescott, Wisconsin
 openstreetmap: "https://www.openstreetmap.org/relation/136913"
 wikidata: "https://www.wikidata.org/entity/Q994793"
