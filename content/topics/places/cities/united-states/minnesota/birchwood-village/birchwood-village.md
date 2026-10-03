@@ -10,6 +10,7 @@ city in:
   - Minnesota
 city of: White Bear Lake
 clockwise around white bear lake: Bellaire, Minnesota
+official website: "https://cityofbirchwood.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/136633"
 suburb of:
   - Saint Paul, Minnesota
