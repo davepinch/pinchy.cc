@@ -9,6 +9,7 @@ city in:
   - Washington County, Minnesota
   - Minnesota
 city of: Saint Croix River
+official website: "https://lakestcroixbeach.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136801"
 wikidata: "https://www.wikidata.org/wiki/Q2375821"
 tags:
