@@ -7,6 +7,7 @@ city in:
 city of:
   - Mississippi River
   - U.S. Route 61
+  - Vermillion River
 openstreetmap: "https://www.openstreetmap.org/relation/137374"
 wikidata: "https://www.wikidata.org/entity/Q862727"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Red_Wing,_Minnesota"
