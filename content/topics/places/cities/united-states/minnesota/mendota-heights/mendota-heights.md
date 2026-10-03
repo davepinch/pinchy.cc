@@ -19,6 +19,7 @@ city of:
   - Interstate 494
   - Minnesota River
   - Mississippi River
+official website: "https://mendotaheightsmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136896"
 suburb of:
   - Saint Paul, Minnesota
