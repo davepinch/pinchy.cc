@@ -4,6 +4,7 @@ apple maps: "https://maps.apple/p/0qa80oaCoPGz7C"
 city in:
   - Wright County, Minnesota
   - Minnesota
+city of: Interstate 94
 official website: "https://stmichaelmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136825"
 wikidata: "https://www.wikidata.org/wiki/Q18240575"
