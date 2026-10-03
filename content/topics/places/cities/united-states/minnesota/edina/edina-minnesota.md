@@ -9,9 +9,10 @@ adjacent to:
   - Eden Prairie, Minnesota
   - Minnetonka, Minnesota
 apple maps: "https://maps.apple/p/EmTtI~LuX0cEc5"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of: Interstate 494
 openstreetmap: "https://www.openstreetmap.org/relation/136695"
 suburb of:
   - Minneapolis, Minnesota
