@@ -12,7 +12,10 @@ apple maps: "https://maps.apple/p/r9i6bwgnK9j7Kx"
 city in:
   - Ramsey County, Minnesota
   - Minnesota
-city of: U.S. Route 61
+city of:
+  - Interstate 35E
+  - Interstate 694
+  - U.S. Route 61
 openstreetmap: "https://www.openstreetmap.org/relation/136607"
 suburb of:
   - Saint Paul, Minnesota
