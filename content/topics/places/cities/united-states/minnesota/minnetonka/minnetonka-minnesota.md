@@ -15,7 +15,10 @@ apple maps: "https://maps.apple/p/jVrpB-.I3g~jw8"
 city in:
   - Hennepin County, Minnesota
   - Minnesota
-city of: Lake Minnetonka
+city of:
+  - Interstate 494
+  - Lake Minnetonka
+  - U.S. Route 12
 openstreetmap: "https://www.openstreetmap.org/relation/136714"
 suburb of:
   - Minneapolis, Minnesota
