@@ -11,9 +11,10 @@ adjacent to:
   - Corcoran, Minnesota
   - Rogers, Minnesota
 apple maps: "https://maps.apple/p/6sp3vtFf06K1qU"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
+city of: Interstate 94
 openstreetmap: "https://www.openstreetmap.org/relation/136692"
 wikidata: "https://www.wikidata.org/wiki/Q983741"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Maple_Grove,_Minnesota"
