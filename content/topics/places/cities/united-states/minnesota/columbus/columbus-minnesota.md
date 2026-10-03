@@ -16,6 +16,7 @@ city of:
   - Interstate 35
   - Interstate 35E
   - Interstate 35W
+official website: "https://columbusmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136826"
 wikidata: "https://www.wikidata.org/wiki/Q2463946"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Columbus,_Minnesota"
