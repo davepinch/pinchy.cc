@@ -11,6 +11,7 @@ adjacent to:
 county in:
   - Washington
   - Interstate 90
+disambiguation of: Lincoln County
 eastbound on interstate 90: Spokane County, Washington
 namesake of: Abraham Lincoln
 official website: "https://www.lincolncountywa.com/"
@@ -21,4 +22,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Lincoln_County,_Washingt
 tags:
   - county
   - county in Washington
+  - disambiguation
 ---
