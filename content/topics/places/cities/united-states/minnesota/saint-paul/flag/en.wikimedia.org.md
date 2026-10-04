@@ -1,5 +1,6 @@
 ---
 title: "Flag_of_St._Paul,_Minnesota.svg (Wikimedia Commons)"
+depiction of: Mississippi River
 flag of: Saint Paul, Minnesota
 license: public domain
 picture: "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flag_of_Saint_Paul%2C_Minnesota.svg"
