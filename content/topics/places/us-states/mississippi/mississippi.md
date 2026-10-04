@@ -11,7 +11,6 @@ coastal state of:
   - Gulf of Mexico
   - Atlantic Ocean
 counterclockwise on the Gulf of Mexico: Louisiana
-down the mississippi: Louisiana
 not to be confused with: Mississippi River
 state of:
   - Southeastern United States

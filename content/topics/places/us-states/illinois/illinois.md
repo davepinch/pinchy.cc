@@ -9,7 +9,6 @@ adjacent to:
   - Missouri
   - Wisconsin
 ASCEND: Willis Tower
-down the mississippi: Missouri
 state of:
   - Midwestern United States
   - United States

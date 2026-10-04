@@ -15,7 +15,6 @@ adjacent to:
   - Wisconsin
 capital: Saint Paul, Minnesota
 clockwise around lake superior: Ontario
-down the mississippi: Wisconsin
 see also: Twin Cities
 state of:
   - Upper Midwest

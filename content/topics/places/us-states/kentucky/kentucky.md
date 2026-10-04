@@ -9,7 +9,6 @@ adjacent to:
   - Tennessee
   - Virginia
   - West Virginia
-down the mississippi: Tennessee
 state of:
   - Southeastern United States
   - United States

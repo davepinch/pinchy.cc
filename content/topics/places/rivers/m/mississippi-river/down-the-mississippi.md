@@ -1,8 +1,18 @@
 ---
 title: "down the Mississippi"
-related:
-  - Lake Itasca
+sequence:
+  - United States
   - Minnesota
+  - Wisconsin
+  - Iowa
+  - Illinois
+  - Missouri
+  - Kentucky
+  - Tennessee
+  - Arkansas
+  - Mississippi
+  - Louisiana
+  - Gulf of Mexico
 type: sequence
 tags:
   - Mississippi River

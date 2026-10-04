@@ -9,7 +9,6 @@ adjacent to:
   - Minnesota
   - Mississippi River
 clockwise around lake superior: Minnesota
-down the mississippi: Iowa
 state of:
   - Upper Midwest
   - Midwestern United States

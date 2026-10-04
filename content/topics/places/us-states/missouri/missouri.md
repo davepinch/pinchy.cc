@@ -10,7 +10,6 @@ adjacent to:
   - Nebraska
   - Oklahoma
   - Tennessee
-down the mississippi: Kentucky
 state of:
   - Midwestern United States
   - United States

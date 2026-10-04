@@ -8,7 +8,6 @@ adjacent to:
   - Nebraska
   - South Dakota
   - Wisconsin
-down the mississippi: Illinois
 highpoint: Hawkeye Point
 state of:
   - Upper Midwest

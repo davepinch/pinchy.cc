@@ -8,7 +8,6 @@ adjacent to:
   - Oklahoma
   - Tennessee
   - Texas
-down the mississippi: Mississippi
 state of:
   - Southeastern United States
   - United States
