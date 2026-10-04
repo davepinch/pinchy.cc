@@ -1,7 +1,9 @@
 ---
 title: "Lake Itasca"
 apple maps: "https://maps.apple/p/KpjucEYRc0waAq"
-lake in: Minnesota
+lake in:
+  - Clearwater County, Minnesota
+  - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/899441"
 tributary of: Mississippi River
 wikidata: "https://www.wikidata.org/wiki/Q877319"
