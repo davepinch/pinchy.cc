@@ -9,6 +9,7 @@ adjacent to:
   - Klickitat County, Washington
   - Yakima County, Washington
 county in: Washington
+disambiguation of: Benton County
 official website: "https://www.bentoncountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1152564"
 wikidata: "https://www.wikidata.org/wiki/Q156216"
@@ -16,4 +17,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Benton_County,_Washingto
 tags:
   - county
   - county in Washington
+  - disambiguation
 ---
