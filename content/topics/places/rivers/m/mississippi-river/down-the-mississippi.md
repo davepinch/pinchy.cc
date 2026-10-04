@@ -1,5 +1,6 @@
 ---
 title: "down the Mississippi"
+downstream of: Mississippi River
 sequence:
   - United States
   - Minnesota
@@ -15,6 +16,6 @@ sequence:
   - Gulf of Mexico
 type: sequence
 tags:
-  - Mississippi River
   - sequence
+  - downstream
 ---
