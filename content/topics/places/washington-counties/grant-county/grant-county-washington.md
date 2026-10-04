@@ -10,6 +10,7 @@ adjacent to:
   - Yakima County, Washington
   - Kittitas County, Washington
 county in: Washington
+disambiguation of: Grant County
 eastbound on interstate 90: Adams County
 official website: "https://www.grantcountywa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1153147"
@@ -19,4 +20,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Grant_County,_Washington
 tags:
   - county
   - county in Washington
+  - disambiguation
 ---
