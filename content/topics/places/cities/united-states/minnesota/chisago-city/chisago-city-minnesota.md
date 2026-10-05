@@ -8,7 +8,7 @@ adjacent to:
   - Forest Lake, Minnesota
   - Wyoming, Minnesota
 apple maps: "https://maps.apple/p/5Aj3x2PQC7Werf"
-city in:
+city of:
   - Chisago County, Minnesota
   - Minnesota
 official website: "https://www.ci.chisago.mn.us/"
