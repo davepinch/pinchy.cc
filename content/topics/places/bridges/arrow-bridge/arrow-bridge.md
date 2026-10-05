@@ -1,5 +1,6 @@
 ---
 title: "Arrow Bridge"
+apple maps: "https://maps.apple/p/JLmCK9.oADobn9"
 bridge in:
   - Nez Perce County, Idaho
   - Idaho
