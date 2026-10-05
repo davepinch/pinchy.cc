@@ -1,5 +1,13 @@
 ---
 title: "Winona County, Minnesota"
+adjacent to:
+  - Wabasha County, Minnesota
+  - Buffalo County, Wisconsin
+  - Trempealeau County, Wisconsin
+  - La Crosse County, Wisconsin
+  - Houston County, Minnesota
+  - Fillmore County, Minnesota
+  - Olmsted County, Minnesota
 apple maps: "https://maps.apple/p/80eJL_W9MAddVk"
 county in: Minnesota
 county in Minnesota of:
