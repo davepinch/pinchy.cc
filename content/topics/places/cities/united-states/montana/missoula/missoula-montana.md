@@ -10,6 +10,7 @@ city in:
 city of:
   - Clark Fork River
   - Interstate 90
+  - U.S. Route 12
 openstreetmap: "https://www.openstreetmap.org/relation/142429"
 vicinity of: Lolo National Forest
 wikidata: "https://www.wikidata.org/wiki/Q189602"
