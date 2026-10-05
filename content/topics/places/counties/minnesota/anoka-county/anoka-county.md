@@ -9,6 +9,12 @@ adjacent to:
   - Sherburne County, Minnesota
 apple maps: "https://maps.apple/p/1MNCEwb_rh7-MD"
 county in: Minnesota
+county in Minnesota of:
+  - Interstate 35
+  - Interstate 35E
+  - Interstate 35W
+  - Interstate 94
+  - Mississippi River
 official website: "https://www.anokacountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795840"
 wikidata: "https://www.wikidata.org/wiki/Q110495"
