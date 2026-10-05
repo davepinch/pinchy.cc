@@ -1,7 +1,7 @@
 ---
 title: "Coates, Minnesota"
 apple maps: "https://maps.apple/p/SmJNB0kPJ0Kyym"
-city in:
+city of:
   - Dakota County, Minnesota
   - Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/136563"
