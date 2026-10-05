@@ -1,5 +1,6 @@
 ---
 title: "Clearwater Memorial Bridge"
+apple maps: "https://maps.apple/p/.TgLMzM9LchMV-"
 bridge in:
   - U.S. Route 12
   - Lewiston, Idaho
