@@ -7,7 +7,7 @@ retrieved: 2026-09-30
 type: website
 url: /en.wikipedia.org/wiki/Lolo_Pass_(Idaho%E2%80%93Montana)/
 website: "https://en.wikipedia.org/wiki/Lolo_Pass_(Idaho%E2%80%93Montana)"
-wikipedia of: Lolo Pass (Idaho–Montana)
+wikipedia of: Lolo Pass
 tags:
   - Wikipedia
 ---
