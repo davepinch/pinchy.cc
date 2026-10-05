@@ -7,7 +7,7 @@ retrieved: 2026-09-25
 type: website
 url: /en.wikipedia.org/wiki/St._Marys_Point,_Minnesota/
 website: "https://en.wikipedia.org/wiki/St._Marys_Point,_Minnesota"
-wikipedia of: St. Marys Point, Minnesota
+wikipedia of: St. Mary's Point, Minnesota
 tags:
   - Wikipedia
 ---
