@@ -1,5 +1,6 @@
 ---
 title: "Interstate 35E"
+east route of: Interstate 35
 interstate highway of:
   - United States
   - Minnesota
