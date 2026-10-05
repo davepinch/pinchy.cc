@@ -3,7 +3,7 @@ title: "Buena, Washington"
 adjacent to: Zillah, Washington
 apple maps: "https://maps.apple/p/4k.LmFG6-FfDE9"
 census-designated place by: United States Census Bureau
-census-designated place of:
+census-designated place in:
   - Yakima County, Washington
   - Washington
 census-designated place of:
