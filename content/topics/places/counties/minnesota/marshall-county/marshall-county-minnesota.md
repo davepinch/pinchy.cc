@@ -10,7 +10,7 @@ adjacent to:
   - Walsh County, North Dakota
   - Pembina County, North Dakota
 apple maps: "https://maps.apple/p/qyLByAIHQCEaqa"
-country in: Minnesota
+county in: Minnesota
 official website: "https://www.marshallcountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1740290"
 wikidata: "https://www.wikidata.org/wiki/Q8609828"
