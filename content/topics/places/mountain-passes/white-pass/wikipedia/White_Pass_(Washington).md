@@ -7,7 +7,7 @@ retrieved: 2026-09-28
 type: website
 url: /en.wikipedia.org/wiki/White_Pass_(Washington)/
 website: "https://en.wikipedia.org/wiki/White_Pass_(Washington)"
-wikipedia of: White Pass (Washington)
+wikipedia of: White Pass
 tags:
   - Wikipedia
 ---
