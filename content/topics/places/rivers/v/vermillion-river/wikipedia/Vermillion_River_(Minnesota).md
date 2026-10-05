@@ -7,7 +7,7 @@ retrieved: 2026-10-02
 type: website
 url: /en.wikipedia.org/wiki/Vermillion_River_(Minnesota)/
 website: "https://en.wikipedia.org/wiki/Vermillion_River_(Minnesota)"
-wikipedia of: Vermillion River (Minnesota)
+wikipedia of: Vermillion River (Mississippi River tributary)
 tags:
   - Wikipedia
 ---
