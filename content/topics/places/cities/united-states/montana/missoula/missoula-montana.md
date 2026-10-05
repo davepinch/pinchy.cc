@@ -1,5 +1,8 @@
 ---
 title: "Missoula, Montana"
+adjacent to:
+  - East Missoula, Montana
+  - incomplete list
 apple maps: "https://maps.apple/p/FDoFWdJbi4sumV"
 city in:
   - Missoula County, Montana
