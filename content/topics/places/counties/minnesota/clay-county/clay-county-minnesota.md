@@ -9,6 +9,9 @@ adjacent to:
   - Cass County, North Dakota
 apple maps: "https://maps.apple/p/-NkyMGY0bNU~Fa"
 county in: Minnesota
+county in Minnesota of:
+  - Interstate 94
+  - Red River of the North
 official website: "https://claycountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1740278"
 wikidata: "https://www.wikidata.org/wiki/Q8382171"

@@ -9,7 +9,7 @@ adjacent to:
   - Rock County, Minnesota
 apple maps: "https://maps.apple/p/CJr0wnJhTjy0kR"
 county in: Minnesota
-county of: Interstate 90
+county in Minnesota of: Interstate 90
 official website: "https://www.co.nobles.mn.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1789137"
 wikidata: "https://www.wikidata.org/wiki/Q491196"

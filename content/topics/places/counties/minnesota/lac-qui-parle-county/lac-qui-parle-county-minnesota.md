@@ -9,7 +9,7 @@ adjacent to:
   - Grant County, South Dakota
 apple maps: "https://maps.apple/p/Agnqbpuix~5m4q"
 county in: Minnesota
-county of: Minnesota River
+county in Minnesota of: Minnesota River
 official website: "https://www.lqpcomn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1834229"
 wikidata: "https://www.wikidata.org/wiki/Q486261"

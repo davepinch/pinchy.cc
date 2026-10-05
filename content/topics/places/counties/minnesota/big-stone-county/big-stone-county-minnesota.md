@@ -9,7 +9,7 @@ adjacent to:
   - Roberts County, South Dakota
 apple maps: "https://maps.apple/p/k_wiQ6d_3e5RYi"
 county in: Minnesota
-county of:
+county in Minnesota of:
   - Minnesota River
   - U.S. Route 12
 official website: "https://bigstonecounty.gov/"

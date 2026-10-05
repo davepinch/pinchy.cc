@@ -11,7 +11,7 @@ adjacent to:
   - Grand Forks County, North Dakota
 apple maps: "https://maps.apple/p/TIqcX~.nn.HQ5J"
 county in: Minnesota
-county of: U.S. Route 2
+county in Minnesota of: U.S. Route 2
 official website: "https://www.polkcountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1740302"
 wikidata: "https://www.wikidata.org/wiki/Q372648"

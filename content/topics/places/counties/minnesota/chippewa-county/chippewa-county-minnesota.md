@@ -8,7 +8,7 @@ adjacent to:
   - Lac Qui Parle County, Minnesota
 apple maps: "https://maps.apple/p/iNjtJJuhrs_sQb"
 county in: Minnesota
-county of: Minnesota River
+county in Minnesota of: Minnesota River
 official website: "https://www.chippewacountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795844"
 wikidata: "https://www.wikidata.org/wiki/Q109846"

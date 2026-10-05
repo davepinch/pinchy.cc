@@ -10,6 +10,9 @@ adjacent to:
   - Kanabec County, Minnesota
 apple maps: "https://maps.apple/p/tvuEeh3t0f-Kad"
 county in: Minnesota
+county in Minnesota of:
+  - Interstate 35
+  - Saint Croix River
 official website: "https://www.chisagocountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795845"
 wikidata: "https://www.wikidata.org/wiki/Q486309"

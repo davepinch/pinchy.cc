@@ -9,7 +9,7 @@ adjacent to:
   - Traill County, North Dakota
 apple maps: "https://maps.apple/p/LWzmD_edXaPWt8"
 county in: Minnesota
-county of: Red River of the North 
+county in Minnesota of: Red River of the North 
 official website: "https://www.normanmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1740297"
 wikidata: "https://www.wikidata.org/wiki/Q486265"

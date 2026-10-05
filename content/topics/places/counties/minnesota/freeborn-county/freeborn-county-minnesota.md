@@ -9,7 +9,7 @@ adjacent to:
   - Faribault County, Minnesota
 apple maps: "https://maps.apple/p/WjQJtzAcj-wSXY"
 county in: Minnesota
-county of:
+county in Minnesota of:
   - Interstate 35
   - Interstate 90
 official website: "https://www.freeborncountymn.gov/"

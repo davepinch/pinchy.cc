@@ -8,7 +8,7 @@ adjacent to:
   - Beltrami County, Minnesota
 apple maps: "https://maps.apple/p/3aHnfeMnXTTBpw"
 county in: Minnesota
-county of: Mississippi River
+county in Minnesota of: Mississippi River
 official website: "https://itascacountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1796049"
 wikidata: "https://www.wikidata.org/wiki/Q486238"

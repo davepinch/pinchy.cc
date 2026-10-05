@@ -12,7 +12,7 @@ adjacent to:
   - Steele County, Minnesota
 apple maps: "https://maps.apple/p/JJfLE-WVgFymEz"
 county in: Minnesota
-county of: Interstate 90
+county in Minnesota of: Interstate 90
 official website: "https://co.mower.mn.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1792988"
 wikidata: "https://www.wikidata.org/wiki/Q490450"

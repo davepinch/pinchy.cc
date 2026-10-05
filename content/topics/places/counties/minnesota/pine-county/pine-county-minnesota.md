@@ -10,7 +10,7 @@ adjacent to:
   - Aitkin County, Minnesota
 apple maps: "https://maps.apple/p/xWWmCHQ.u0xNiq"
 county in: Minnesota
-county of: Interstate 35
+county in Minnesota of: Interstate 35
 official website: "https://www.pinecountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795855"
 wikidata: "https://www.wikidata.org/wiki/Q485509"

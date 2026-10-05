@@ -10,6 +10,10 @@ adjacent to:
   - Dakota County, Minnesota
 apple maps: "https://maps.apple/p/m1tMIqCpDf4t4r"
 county in: Minnesota
+county in Minnesota of:
+  - Mississippi River
+  - U.S. Route 61
+  - Vermillion River
 openstreetmap: "https://www.openstreetmap.org/relation/1795847"
 wikidata: "https://www.wikidata.org/wiki/Q8494271"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Goodhue_County,_Minnesota"

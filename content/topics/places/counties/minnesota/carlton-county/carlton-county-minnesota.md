@@ -7,7 +7,7 @@ adjacent to:
   - Aitkin County, Minnesota
 apple maps: "https://maps.apple/p/dMPwZuacGriv-B"
 county in: Minnesota
-county of: Interstate 35
+county in Minnesota of: Interstate 35
 official website: "https://www.carltoncountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795842"
 wikidata: "https://www.wikidata.org/wiki/Q8344407"

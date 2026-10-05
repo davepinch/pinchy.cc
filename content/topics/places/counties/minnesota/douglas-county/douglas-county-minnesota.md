@@ -9,7 +9,7 @@ adjacent to:
   - Grant County, Minnesota
 apple maps: "https://maps.apple/p/1CHgif3NvvSW1p"
 county in: Minnesota
-county of: Interstate 94
+county in Minnesota of: Interstate 94
 official website: "https://www.douglascountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795711"
 wikidata: "https://www.wikidata.org/wiki/Q8388868"

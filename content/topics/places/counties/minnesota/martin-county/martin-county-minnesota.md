@@ -9,7 +9,7 @@ adjacent to:
   - Jackson County, Minnesots
 apple maps: "https://maps.apple/p/I8_rPNvB0DSo2N"
 county in: Minnesota
-county of: Interstate 90
+county in Minnesota of: Interstate 90
 official website: "https://www.co.martin.mn.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1792987"
 wikidata: "https://www.wikidata.org/wiki/Q284439"
