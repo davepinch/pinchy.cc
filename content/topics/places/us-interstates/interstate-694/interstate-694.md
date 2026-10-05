@@ -1,5 +1,6 @@
 ---
 title: "Interstate 694"
+auxiliary highway of: Interstate 94
 interstate highway of:
   - United States
   - Minnesota
