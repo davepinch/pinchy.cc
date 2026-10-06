@@ -1,5 +1,6 @@
 ---
 title: "Plitzville, Montana"
+adjacent to: Bonner-West Riverside, Montana
 apple maps: "https://maps.apple/p/ZLKVNM59gKK-nk"
 census-designated place by: United States Census Bureau
 census-designated place in:
