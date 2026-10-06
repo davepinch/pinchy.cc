@@ -8,7 +8,7 @@ city in:
   - Washington County, Minnesota
   - Minnesota
 city of:
-  - Minnesota State Route 95
+  - Minnesota State Highway 95
   - Saint Croix River
 official website: "https://marineonstcroix.org/"
 openstreetmap: "https://www.openstreetmap.org/relation/136816"
