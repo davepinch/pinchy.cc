@@ -1,6 +1,6 @@
 ---
 title: "Ortonville city, Minnesota (data.census.gov)"
-census profile of: Orgonville, Minnesota
+census profile of: Ortonville, Minnesota
 city in Minnesota of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Ortonville city, Minnesota is a city, town, place equivalent, or township located in Minnesota. Ortonville city, Minnesota has a land area of 4.2 square miles.
