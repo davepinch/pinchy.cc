@@ -9,7 +9,7 @@ highway in:
   - Iowa
   - Minnesota
   - United States
-highway of: 61
+highway of: "61"
 openstreetmap:
   - "note: from south to north per convention"
   - "[Louisiana](https://www.openstreetmap.org/relation/2304867)"
