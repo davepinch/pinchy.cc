@@ -5,7 +5,7 @@ adjacent to:
   - Kandiyohi County, Minnesota
   - Renville County, Minnesota
   - Yellow Medicine County, Minnesota
-  - Lac Qui Parle County, Minnesota
+  - Lac qui Parle County, Minnesota
 apple maps: "https://maps.apple/p/iNjtJJuhrs_sQb"
 county in: Minnesota
 county in Minnesota of: Minnesota River
