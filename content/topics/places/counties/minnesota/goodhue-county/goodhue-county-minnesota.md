@@ -13,7 +13,7 @@ county in: Minnesota
 county in Minnesota of:
   - Mississippi River
   - U.S. Route 61
-  - Vermillion River
+  - Vermillion River (Mississippi River tributary)
 official website: "https://goodhuecountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795847"
 wikidata: "https://www.wikidata.org/wiki/Q8494271"
