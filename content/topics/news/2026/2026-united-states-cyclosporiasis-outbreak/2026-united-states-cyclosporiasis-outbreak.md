@@ -7,5 +7,4 @@ wikidata: "https://www.wikidata.org/wiki/Q140514577"
 tags:
   - news
   - disease outbreak
-  - footer
 ---
