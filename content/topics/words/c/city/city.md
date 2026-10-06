@@ -4,7 +4,7 @@ see also:
   - downtown
   - neighborhood
 tag requires property:
-  - city of
+  - city in
   - OpenStreetMap
   - Wikidata
   - Wikipedia
