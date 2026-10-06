@@ -7,7 +7,7 @@ state highway of:
   - Roseville, Minnesota
   - Little Canada, Minnesota
   - Maplewood, Minnesota
-  - North Saint Paul, Minnesota
+  - North St. Paul, Minnesota
   - Oakdale, Minnesota
   - Pine Springs, Minnesota
   - Lake Elmo, Minnesota
