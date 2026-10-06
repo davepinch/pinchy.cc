@@ -2,7 +2,7 @@
 title: "Walla Walla East, Washington"
 adjacent to: Walla Walla, Washington
 census-designated place by: United States Census Bureau
-census-designated place of:
+census-designated place in:
   - Columbia Plateau
   - Walla Walla County, Washington
   - Washington
