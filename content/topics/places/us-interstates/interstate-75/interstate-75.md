@@ -1,6 +1,6 @@
 ---
 title: "Interstate 75"
-interstate highway of:
+interstate highway in:
   - United States
   - Florida
   - Georgia
@@ -8,6 +8,7 @@ interstate highway of:
   - Kentucky
   - Ohio
   - Michigan
+interstate highway of: "75"
 wikidata: "https://www.wikidata.org/wiki/Q94689"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Interstate_75"
 tags:
