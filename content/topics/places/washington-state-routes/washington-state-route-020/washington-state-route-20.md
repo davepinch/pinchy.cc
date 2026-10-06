@@ -1,5 +1,6 @@
 ---
 title: "Washington State Route 20"
+state route by: Washington State Department of Transportation
 state route in:
   - Jefferson County, Washington
   - Island County, Washington
@@ -11,7 +12,7 @@ state route in:
   - Stevens County, Washington
   - Pend Oreille County, Washington
   - Washington
-state route of: Washington State Department of Transportation
+state route of: "20"
 wikidata: "https://www.wikidata.org/wiki/Q835817"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Washington_State_Route_20"
 tags:
