@@ -1,7 +1,7 @@
 ---
 title: "Minnesota State Highway 36"
 openstreetmap: "https://www.openstreetmap.org/relation/918505"
-state highway in:
+state highway of:
   - Minnesota
   - Ramsey County, Minnesota
   - Roseville, Minnesota
