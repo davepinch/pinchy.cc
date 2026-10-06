@@ -7,7 +7,7 @@ city in:
 city of:
   - Mississippi River
   - U.S. Route 61
-  - Vermillion River
+  - Vermillion River (Mississippi River tributary)
 official website: "https://www.redwingmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137374"
 wikidata: "https://www.wikidata.org/entity/Q862727"
