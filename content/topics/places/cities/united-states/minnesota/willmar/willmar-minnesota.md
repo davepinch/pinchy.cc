@@ -13,4 +13,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Willmar,_Minnesota"
 tags:
   - city
   - city in Minnesota
+  - county seat
 ---
