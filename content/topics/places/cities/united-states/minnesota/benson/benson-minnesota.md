@@ -1,7 +1,7 @@
 ---
 title: "Benson, Minnesota"
 apple maps: "https://maps.apple/p/TwmhRH_AwQhJXu"
-city in:
+city of:
   - Swift County, Minnesota
   - Minnesota
 city in Minnesota of: U.S. Route 12
