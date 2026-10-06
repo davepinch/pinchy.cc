@@ -4,7 +4,7 @@ apple maps: "https://maps.apple/p/45UefX3_zwHAwA"
 city in:
   - Blue Earth County, Minnesota
   - Nicollet County, Minnesota
-  - La Sueur County, Minnesota
+  - Le Sueur County, Minnesota
   - Minnesota
 city of: Minnesota River
 official website: "https://www.mankatomn.gov/"
