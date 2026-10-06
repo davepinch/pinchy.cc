@@ -2,7 +2,8 @@
 title: "Missoula, Montana"
 adjacent to:
   - East Missoula, Montana
-  - incomplete list
+  - Bonner-West Riverside, Montana
+  - Orchard Homes, Montana
 apple maps: "https://maps.apple/p/FDoFWdJbi4sumV"
 city in:
   - Missoula County, Montana
