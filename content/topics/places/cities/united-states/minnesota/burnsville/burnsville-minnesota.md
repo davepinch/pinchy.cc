@@ -17,7 +17,7 @@ city of:
   - Interstate 35W
   - Minnesota River
 suburb of:
-  - Minneapolis
+  - Minneapolis, Minnesota
   - Twin Cities
 official website: "https://burnsvillemn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136578"
