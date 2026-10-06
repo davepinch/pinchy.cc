@@ -8,6 +8,7 @@ city in:
   - Washington
 city of: U.S. Route 12
 county seat of: Columbia County, Washington
+disambiguation of: Dayton
 official website: "https://www.daytonwa.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/237718"
 wikidata: "https://www.wikidata.org/wiki/Q925426"
@@ -15,4 +16,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Dayton,_Washington"
 tags:
   - city
   - county seat
+  - disambiguation
 ---
