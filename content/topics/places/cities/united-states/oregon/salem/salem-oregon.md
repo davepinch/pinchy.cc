@@ -1,6 +1,6 @@
 ---
 title: "Salem, Oregon"
-city of:
+city in:
   - Marion County, Oregon
   - Oregon
 county seat of: Marion County, Oregon

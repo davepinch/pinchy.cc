@@ -2,9 +2,10 @@
 title: "Mount Vernon, Washington"
 adjacent to: Burlington, Washington
 apple maps: "https://maps.apple/p/FGVivkGEVjy9Fa"
-city of:
+city in:
   - Skagit County, Washington
   - Washington
+city of:
   - Skagit River
   - Interstate 5
 disambiguation of: Mount Vernon

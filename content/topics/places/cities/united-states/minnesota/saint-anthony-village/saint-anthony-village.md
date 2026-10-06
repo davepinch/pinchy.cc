@@ -6,7 +6,7 @@ adjacent to:
   - New Brighton, Minnesota
   - Roseville, Minnesota
 apple maps: "https://maps.apple/p/8cd1d2-Qq2.Wdz"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Ramsey County, Minnesota
   - Minnesota

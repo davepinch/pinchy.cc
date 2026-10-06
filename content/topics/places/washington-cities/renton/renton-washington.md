@@ -10,10 +10,10 @@ adjacent to:
   - Tukwila, Washington
   - Bryn Mawr-Skyway, Washington
 apple maps: "https://maps.apple/p/3eLSKzKnzCN6NL"
-city of:
+city in:
   - King County, Washington
   - Washington
-  - Lake Washington
+city of: Lake Washington
 disambiguation of: Renton
 openstreetmap: "https://www.openstreetmap.org/relation/237877"
 wikidata: "https://www.wikidata.org/entity/Q679952"

@@ -1,7 +1,7 @@
 ---
 title: "Morton, Minnesota"
 apple maps: "https://maps.apple/p/CcRb7S1ergyICE"
-city of:
+city in:
   - Renville County, Minnesota
   - Minnesota
 official website: "https://mortonmn.gov/"

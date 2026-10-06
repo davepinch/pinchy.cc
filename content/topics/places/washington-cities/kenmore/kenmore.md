@@ -10,9 +10,10 @@ adjacent to:
   - Lake Forest Park, Washington
 apple maps: "https://maps.apple/p/VWuHfsuhwuvoQK"
 census profile: "https://data.census.gov/profile/Kenmore_city,_Washington?g=160XX00US5335170"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - Lake Washington
   - Sammamish River
   - Washington State Route 522

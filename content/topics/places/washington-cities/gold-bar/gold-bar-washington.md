@@ -5,10 +5,10 @@ adjacent to:
   - Startup, Washington
 apple maps: "https://maps.apple/p/PI_RjeiL.QzJQg"
 census profile: "https://data.census.gov/profile/Gold_Bar_city,_Washington?g=160XX00US5327365"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
-  - Skykomish River
+city of: Skykomish River
 disambiguation of: Gold Bar
 openstreetmap: "https://www.openstreetmap.org/relation/237236"
 wikidata: "https://www.wikidata.org/wiki/Q1506914"

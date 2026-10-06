@@ -1,9 +1,8 @@
 ---
 title: "Santa Barbara, California"
 apple maps: "https://maps.apple/p/iHE6xLINVK3bCH"
-city of:
-  - California
-  - Pacific Ocean
+city in: California
+city of: Pacific Ocean
 near:
   - Goleta Beach
   - Santa Ynez Mountains

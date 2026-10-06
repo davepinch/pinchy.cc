@@ -6,11 +6,12 @@ adjacent to:
   - North Sultan, Washington
 apple maps: "https://maps.apple/p/jSwYrHfLoNzPtq"
 census profile: "https://data.census.gov/profile/Sultan_city,_Washington?g=160XX00US5368260"
+city in:
+  - Snohomish County, Washington
+  - Washington
 city of:
   - Skykomish River
   - Sultan River
-  - Snohomish County, Washington
-  - Washington
 disambiguate of: sultan
 openstreetmap: "https://www.openstreetmap.org/relation/237255"
 vantage point of:

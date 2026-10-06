@@ -12,9 +12,10 @@ adjacent to:
   - Shoreline, Washington
 apple maps: "https://maps.apple/p/qjNPEp_RnQszUd"
 census profile: "https://data.census.gov/profile/Lake_Forest_Park_city,_Washington?g=160XX00US5337270"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - Lake Washington
   - Washington State Route 522
 disambiguation of: Lake Forest Park

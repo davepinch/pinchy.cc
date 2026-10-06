@@ -3,10 +3,10 @@ title: "Sumas, Washington"
 adjacent to: Canada
 apple maps: "https://maps.apple/p/yNkhjRqvxb9L1N"
 census profile: "https://data.census.gov/profile/Sumas_city,_Washington?g=160XX00US5368330"
-city of:
+city in:
   - Whatcom County, Washington
   - Washington
-  - Washington State Route 9
+city of: Washington State Route 9
 openstreetmap: "https://www.openstreetmap.org/relation/238061"
 vicinity to:
   - Everson, Washington

@@ -1,7 +1,7 @@
 ---
 title: "Salt Lake City"
 apple maps: "https://maps.apple/p/L03ZZd5fo9fdv2"
-city of: Utah
+city in: Utah
 near: Park City
 openstreetmap: "https://www.openstreetmap.org/relation/198770"
 wikidata: "https://www.wikidata.org/entity/Q23337"

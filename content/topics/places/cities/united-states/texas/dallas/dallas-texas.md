@@ -1,7 +1,7 @@
 ---
 title: "Dallas, Texas"
 apple maps: "https://maps.apple/p/urE3t1uMA8ieXq"
-city of: Texas
+city in: Texas
 official website: "https://dallascityhall.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/6571629"
 wikidata: "https://www.wikidata.org/wiki/Q16557"

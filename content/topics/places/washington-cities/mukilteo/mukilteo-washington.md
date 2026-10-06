@@ -7,7 +7,7 @@ adjacent to:
   - Puget Sound
 apple maps: "https://maps.apple/p/LvsgFZc2WrJTQx"
 census profile: "https://data.census.gov/profile/Mukilteo_city,_Washington?g=160XX00US5347735"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
 disambiguation of: Mukilteo

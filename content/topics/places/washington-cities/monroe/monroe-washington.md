@@ -6,9 +6,10 @@ adjacent to:
   - Woods Creek, Washington
 apple maps: "https://maps.apple/p/C5qo3SuHuo820Y"
 census profile: "https://data.census.gov/profile/Monroe_city,_Washington?g=160XX00US5346685"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
+city of:
   - Skykomish River
   - U.S. Route 2
   - Washington State Route 522

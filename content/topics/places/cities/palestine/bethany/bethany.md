@@ -2,7 +2,7 @@
 title: "Bethany"
 also known as: Al 'Eizariya
 apple maps: "https://maps.apple/p/sEmxuDkVPraorW"
-city of:
+city in:
   - West Bank
   - Palestine
 openstreetmap: "https://www.openstreetmap.org/node/332793704"

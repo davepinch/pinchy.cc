@@ -1,8 +1,8 @@
 ---
 title: "La Crosse, Wisconsin"
 apple maps: "https://maps.apple/p/ihd~ej~HZkwY_T"
+city in: Wisconsin
 city of:
-  - Wisconsin
   - Interstate 90
   - Mississippi River
 openstreetmap: "https://www.openstreetmap.org/relation/251414"

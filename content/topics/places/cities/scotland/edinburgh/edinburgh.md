@@ -2,10 +2,10 @@
 title: "Edinburgh"
 apple maps: "https://maps.apple/p/L7jmImHU5kU.Lr"
 capital of: Scotland
-city of:
+city in:
   - Scotland
   - United Kingdom
-  - North Sea
+city of: North Sea
 openstreetmap: "https://www.openstreetmap.org/relation/1920901"
 wikidata: "https://www.wikidata.org/wiki/Q23436"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Edinburgh"

@@ -6,7 +6,7 @@ adjacent to:
   - Lakeville, Minnesota
   - Prior Lake, Minnesota
 apple maps: "https://maps.apple/p/e2a_g.fZC_eTd4"
-city of:
+city in:
   - Scott County, Minnesota
   - Minnesota
 official website: "https://www.creditriver-mn.gov/"

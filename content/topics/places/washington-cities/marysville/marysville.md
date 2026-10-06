@@ -8,10 +8,10 @@ adjacent to:
   - Everett, Washington
 apple maps: "https://maps.apple/p/9MTLB6U2IchbHV"
 census profile: "https://data.census.gov/profile/Marysville_city,_Washington?g=160XX00US5343955"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
-  - Interstate 5
+city of: Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/237663"
 roadways: Interstate 5
 vantage point of: Mount Pilchuck

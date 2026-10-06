@@ -8,7 +8,7 @@ adjacent to:
   - Billy Frank Jr. Nisqually National Wildlife Refuge
 apple maps: "https://maps.apple/p/MuRgajUEiPRrt9"
 census profile: "https://data.census.gov/profile/DuPont_city,_Washington?g=160XX00US5318965"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
 disambiguation of: DuPont

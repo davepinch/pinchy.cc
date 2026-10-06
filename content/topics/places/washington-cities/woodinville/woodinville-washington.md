@@ -8,9 +8,10 @@ adjacent to:
   - Bothell, Washington
 apple maps: "https://maps.apple/p/tis-f3Y8orkt1T"
 census profile: "https://data.census.gov/profile/Woodinville_city,_Washington?g=160XX00US5379590"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - Washington State Route 9
   - Washington State Route 522
 disambiguation of: Woodinville

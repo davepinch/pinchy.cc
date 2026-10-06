@@ -1,6 +1,6 @@
 ---
 title: "Vancouver, British Columbia"
-city of:
+city in:
   - British Columbia
   - Canada
 namesake of: George Vancouver

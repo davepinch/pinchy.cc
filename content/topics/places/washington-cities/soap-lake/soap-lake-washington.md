@@ -1,7 +1,7 @@
 ---
 title: "Soap Lake, Washington"
 apple maps: "https://maps.apple/p/6zhM~TpGSAfYs0"
-city of:
+city in:
   - Columbia Plateau
   - Grant County, Washington
   - Washington

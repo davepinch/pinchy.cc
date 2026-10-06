@@ -9,11 +9,12 @@ adjacent to:
   - Port Gardner
 apple maps: "https://maps.apple/p/H-xaV.9QNS9yEA"
 census profile: "https://data.census.gov/profile/Everett_city,_Washington?g=160XX00US5322640"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
-  - Snohomish River
+city of:
   - Interstate 5
+  - Snohomish River
   - U.S. Route 2
   - Washington State Route 99
 disambiguation of: Everett

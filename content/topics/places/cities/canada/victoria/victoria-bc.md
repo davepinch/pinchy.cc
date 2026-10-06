@@ -1,11 +1,11 @@
 ---
 title: "Victoria, British Columbia"
 capital of: British Columbia
-city of:
+city in:
   - Vancouver Island
   - British Columbia
   - Canada
-  - Strait of Juan de Fuca
+city of: Strait of Juan de Fuca
 openstreetmap: "https://www.openstreetmap.org/relation/2221062"
 wikidata: "https://www.wikidata.org/wiki/Q2132"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Victoria,_British_Columbia"

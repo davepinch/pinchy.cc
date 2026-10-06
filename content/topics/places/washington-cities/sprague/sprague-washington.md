@@ -2,10 +2,10 @@
 title: "Sprague, Washington"
 apple maps: "https://maps.apple/p/GwY.XYZBDSBa-3"
 census profile: "https://data.census.gov/profile/Sprague_city,_Washington?g=160XX00US5367175"
-city of:
+city in:
   - Lincoln County, Washington
   - Washington
-  - Interstate 90
+city of: Interstate 90
 openstreetmap: "https://www.openstreetmap.org/relation/238019"
 vicinity to: Lamont, Washington
 wikidata: "https://www.wikidata.org/wiki/Q2603465"

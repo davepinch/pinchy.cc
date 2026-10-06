@@ -3,10 +3,10 @@ title: "Blaine, Washington"
 adjacent to: Birch Bay, Washington
 apple maps: "https://maps.apple/p/NdQ~Wh37XNgr10"
 census profile: "https://data.census.gov/profile/Blaine_city,_Washington?g=160XX00US5306505"
-city of:
+city in:
   - Whatcom County, Washington
   - Washington
-  - Interstate 5
+city of: Interstate 5
 not to be confused with: Blaine, Minnesota
 openstreetmap: "https://www.openstreetmap.org/relation/237604"
 wikidata: "https://www.wikidata.org/wiki/Q1144380"

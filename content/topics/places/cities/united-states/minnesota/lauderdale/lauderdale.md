@@ -6,7 +6,7 @@ adjacent to:
   - Saint Paul, Minnesota
   - Minneapolis, Minnesota
 apple maps: "https://maps.apple/p/xkYLZMC4apW3fF"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
 suburb of:

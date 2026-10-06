@@ -1,7 +1,7 @@
 ---
 title: "Tillamook, Oregon"
 apple maps: "https://maps.apple/p/kZ3BFDyfQxeaE~"
-city of:
+city in:
   - Tillamook County, Oregon
   - Oregon
 openstreetmap: "https://www.openstreetmap.org/relation/186500"

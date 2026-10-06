@@ -10,10 +10,10 @@ adjacent to:
   - Chambers Bay
   - Nisqually Reach
 apple maps: "https://maps.apple/p/~nLKo~-dfz40hM"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
-  - Puget Sound
+city of: Puget Sound
 disambiguation of: University Place
 openstreetmap: "https://www.openstreetmap.org/relation/237268"
 similarly named: College Place, Washington

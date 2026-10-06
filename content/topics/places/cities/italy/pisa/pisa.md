@@ -1,7 +1,7 @@
 ---
 title: "Pisa"
 apple maps: "https://maps.apple/p/QhWuiyg23d6NyS"
-city of: Italy
+city in: Italy
 openstreetmap: "https://www.openstreetmap.org/relation/42527"
 wikidata: "https://www.wikidata.org/wiki/Q13375"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Pisa"

@@ -1,6 +1,6 @@
 ---
 title: "Manchester"
-city of: England
+city in: England
 official website: "https://www.manchester.gov.uk/"
 openstreetmap: "https://www.openstreetmap.org/relation/146656"
 wikidata: "https://www.wikidata.org/wiki/Q18125"

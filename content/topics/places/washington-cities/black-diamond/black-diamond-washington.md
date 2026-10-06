@@ -5,7 +5,7 @@ adjacent to:
   - Maple Valley, Washington
   - Lake Morton-Berrydale, Washington
 apple maps: "https://maps.apple/p/m8Qve.zjLxyG_L"
-city of:
+city in:
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237869"

@@ -7,9 +7,10 @@ adjacent to:
   - Redmond, Washington
 apple maps: "https://maps.apple/p/MA~Akhd705qzSu"
 census profile: "https://data.census.gov/profile/Sammamish_city,_Washington?g=160XX00US5361115"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of: Lake Sammamish
 clockwise around lake sammamish: Issaquah, Washington
 disambiguation of: Sammamish
 openstreetmap: "https://www.openstreetmap.org/relation/237379"

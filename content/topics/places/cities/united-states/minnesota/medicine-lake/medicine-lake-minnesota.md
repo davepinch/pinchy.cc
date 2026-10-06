@@ -2,7 +2,7 @@
 title: "Medicine Lake, Minnesota"
 adjacent to: Plymouth, Minnesota
 apple maps: "https://maps.apple/p/aaHFNmYZ6PztUo"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
 official website: "https://www.cityofmedicinelake.com/"

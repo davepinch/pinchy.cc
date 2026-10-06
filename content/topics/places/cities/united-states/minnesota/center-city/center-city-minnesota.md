@@ -2,7 +2,7 @@
 title: "Center City, Minnesota"
 adjacent to: Lindstrom, Minnesota
 apple maps: "https://maps.apple/p/fQNg27bJmouQ01"
-city of:
+city in:
   - Chisago County, Minnesota
   - Minnesota
 official website: "https://centercitymn.gov/"

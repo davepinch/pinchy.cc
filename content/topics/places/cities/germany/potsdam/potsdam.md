@@ -1,7 +1,7 @@
 ---
 title: "Potsdam"
 apple maps: "https://maps.apple/p/qG7fzXwboSpJPZ"
-city of: Germany
+city in: Germany
 openstreetmap: "https://www.openstreetmap.org/relation/62369"
 vicinity of: Berlin
 wikidata: "https://www.wikidata.org/wiki/Q1711"

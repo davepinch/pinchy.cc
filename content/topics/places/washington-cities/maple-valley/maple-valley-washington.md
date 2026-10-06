@@ -8,7 +8,7 @@ adjacent to:
   - Covington, Washington
   - Shadow Lake, Washington
 apple maps: "https://maps.apple/p/W_QvkxAptpMj~f"
-city of:
+city in:
   - King County, Washington
   - Washington
 disambiguation of: Maple Valley

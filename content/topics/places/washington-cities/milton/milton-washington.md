@@ -8,7 +8,7 @@ adjacent to:
   - Fife, Washington
   - Fife Heights, Washington
 apple maps: "https://maps.apple/p/378EtiDP~dDUyY"
-city of:
+city in:
   - King County, Washington
   - Pierce County, Washington
   - Washington

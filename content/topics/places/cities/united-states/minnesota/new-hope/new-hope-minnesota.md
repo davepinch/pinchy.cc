@@ -1,7 +1,7 @@
 ---
 title: "New Hope, Minnesota"
 apple maps: "https://maps.apple/p/jS0-wwsaeWkBQ0"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
 official website: "https://www.newhopemn.gov/"

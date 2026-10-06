@@ -1,10 +1,10 @@
 ---
 title: "George, Washington"
 apple maps: "https://maps.apple/p/z~chTzYyMKz1Bt"
-city of:
+city in:
   - Grant County, Washington
   - Washington
-  - Interstate 90
+city of: Interstate 90
 namesake of: George Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237820"
 vicinity to:

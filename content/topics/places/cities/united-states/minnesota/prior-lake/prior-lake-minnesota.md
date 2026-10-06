@@ -1,7 +1,7 @@
 ---
 title: "Prior Lake, Minnesota"
 apple maps: "https://maps.apple/p/b_WI.JomXttqIf"
-city of:
+city in:
   - Scott County, Minnesota
   - Minnesota
 official website: "https://www.priorlakemn.gov/"

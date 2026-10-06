@@ -1,6 +1,6 @@
 ---
 title: "Montreal"
-city of:
+city in:
   - Quebec
   - Canada
 openstreetmap: "https://www.openstreetmap.org/relation/1634158"

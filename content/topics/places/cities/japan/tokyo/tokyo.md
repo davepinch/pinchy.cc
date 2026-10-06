@@ -1,9 +1,8 @@
 ---
 title: "Tokyo"
 apple maps: "https://maps.apple/p/9jvjjYcLRyJ2jL"
-city of:
-  - Japan
-  - Pacific Ocean
+city in: Japan
+city of: Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/1543125"
 wikidata: "https://www.wikidata.org/wiki/Q1490"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Tokyo"

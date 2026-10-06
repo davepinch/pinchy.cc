@@ -1,6 +1,6 @@
 ---
 title: "San José, Costa Rica"
-city of: Costa Rica
+city in: Costa Rica
 openstreetmap: "https://www.openstreetmap.org/node/197698100"
 wikidata: "https://www.wikidata.org/wiki/Q3070"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:San_Jos%C3%A9,_Costa_Rica"

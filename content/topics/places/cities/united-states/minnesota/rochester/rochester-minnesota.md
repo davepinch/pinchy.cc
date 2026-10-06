@@ -1,7 +1,7 @@
 ---
 title: "Rochester, Minnesota"
 apple maps: "https://maps.apple/p/cM6XDym6R-FfiM"
-city of:
+city in:
   - Olmsted County, Minnesota
   - Minnesota
 county seat of: Olmsted County, Minnesota

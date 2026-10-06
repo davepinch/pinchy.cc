@@ -5,7 +5,7 @@ adjacent to:
   - Pacific, Washington
   - Lakeland South, Washington
 apple maps: "https://maps.apple/p/3I2yUjEWPdvKdX"
-city of:
+city in:
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237589"

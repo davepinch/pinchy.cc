@@ -1,10 +1,10 @@
 ---
 title: "Vancouver, Washington"
 apple maps: "https://maps.apple/p/VG41LB8odVkHNK"
-city of:
+city in:
   - Clark County, Washington
   - Washington
-  - Columbia River
+city of: Columbia River
 namesake of: George Vancouver
 not to be confused with: "Vancouver, British Columbia"
 openstreetmap: "https://www.openstreetmap.org/relation/237278"

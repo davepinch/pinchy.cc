@@ -1,9 +1,8 @@
 ---
 title: "Los Angeles"
 apple maps: "https://maps.apple/p/ABSXyFcFcKK1ys"
-city of:
-  - California
-  - Pacific Ocean
+city in: California
+city of: Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/207359"
 wikidata: "https://www.wikidata.org/wiki/Q65"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Los_Angeles"

@@ -3,7 +3,7 @@ title: "Buckley, Washington"
 adjacent to: White River
 apple maps: "https://maps.apple/p/LQyPx47WjZriBI"
 census profile: "https://data.census.gov/profile/Buckley_city,_Washington?g=160XX00US5308570"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
 official website: "https://www.cityofbuckley.com/"

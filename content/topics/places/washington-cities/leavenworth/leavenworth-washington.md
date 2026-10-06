@@ -1,9 +1,10 @@
 ---
 title: "Leavenworth, Washington"
 apple maps: "https://maps.apple/p/0QAAMxC5NmfI2B"
-city of:
+city in:
   - Chelan County, Washington
   - Washington
+city of:
   - BNSF Scenic Subdivision
   - U.S. Route 2
   - Wenatchee River

@@ -1,9 +1,8 @@
 ---
 title: "Miami Beach, Florida"
 apple maps: "https://maps.apple/p/GfdF6dJ~fX0qjr"
-city of:
-  - Florida
-  - Atlantic Ocean
+city in: Florida
+city of: Atlantic Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/118856"
 vicinity of: Miami, Florida
 wikidata: "https://www.wikidata.org/wiki/Q201516"

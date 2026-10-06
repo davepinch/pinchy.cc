@@ -5,7 +5,7 @@ adjacent to:
   - Tacoma, Washington
 apple maps: "https://maps.apple/p/Q.RYEwD-bhvPwI"
 census profile: "https://data.census.gov/profile/Ruston_city,_Washington?g=160XX00US5360510"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
 official website: "https://www.rustonwa.org/"

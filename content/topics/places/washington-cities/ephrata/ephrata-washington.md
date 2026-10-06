@@ -1,7 +1,7 @@
 ---
 title: "Ephrata, Washington"
 apple maps: "https://maps.apple/p/m7PHG8oq2ZTmtT"
-city of:
+city in:
   - Columbia Plateau
   - Grant County, Washington
   - Washington

@@ -1,7 +1,7 @@
 ---
 title: "Phoenix, Arizona"
 apple maps: "https://maps.apple/p/jI6.UbTn2DP6L~"
-city of: Arizona
+city in: Arizona
 openstreetmap: "https://www.openstreetmap.org/relation/111257"
 wikidata: "https://www.wikidata.org/wiki/Q16556"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Phoenix,_Arizona"

@@ -1,7 +1,7 @@
 ---
 title: "Santa Fe, New Mexico"
 apple maps: "https://maps.apple/p/sozW8HIhakkJoy"
-city of: New Mexico
+city in: New Mexico
 openstreetmap: "https://www.openstreetmap.org/relation/171264"
 wikidata: "https://www.wikidata.org/wiki/Q38555"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Santa_Fe,_New_Mexico"

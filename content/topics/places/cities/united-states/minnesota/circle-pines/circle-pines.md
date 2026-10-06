@@ -6,7 +6,7 @@ adjacent to:
   - Shoreview, Minnesota
   - Lexington, Minnesota
 apple maps: "https://maps.apple/p/0h18bBzxZcrLGW"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
 official website: "https://circlepinesmn.gov/"

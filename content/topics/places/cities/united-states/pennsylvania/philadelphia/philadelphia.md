@@ -1,7 +1,7 @@
 ---
 title: "Philadelphia, Pennsylvania"
 apple maps: "https://maps.apple/p/0XT.VTqLhLSRzc"
-city of: Pennsylvania
+city in: Pennsylvania
 openstreetmap: "https://www.openstreetmap.org/relation/188022"
 wikidata: "https://www.wikidata.org/wiki/Q1345"
 wikimedia: "https://commons.wikimedia.org/wiki/Philadelphia"

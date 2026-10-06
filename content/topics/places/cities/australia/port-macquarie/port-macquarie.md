@@ -1,8 +1,9 @@
 ---
 title: "Port Macquarie"
-city of:
+city in:
   - New South Wales
-  - Pacific Ocean
+  - Australia
+city of: Pacific Ocean
 near: Laurieton, New South Wales
 openstreetmap: "https://www.openstreetmap.org/relation/6063746"
 wikidata: "https://www.wikidata.org/wiki/Q606153"

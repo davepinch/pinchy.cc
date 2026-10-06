@@ -1,6 +1,6 @@
 ---
 title: "Nazareth"
-city of:
+city in:
   - Galilee
   - Israel
 hometown of: Jesus

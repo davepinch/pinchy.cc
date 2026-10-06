@@ -13,12 +13,14 @@ adjacent to:
   - White Center, Washington
   - Burien, Washington
 apple maps: "https://maps.apple/p/7LMa0VrADRgRj6"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
+  - Interstate 5
+  - Interstate 90
   - Lake Washington
   - Puget Sound
-  - Interstate 90
 namesake of: Chief Seattle
 openstreetmap: "https://www.openstreetmap.org/relation/237385"
 up the pacific coast: Shoreline, Washington

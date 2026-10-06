@@ -5,9 +5,10 @@ adjacent to:
   - Marysville, Washington
 apple maps: "https://maps.apple/p/HG~PejVzd0gvLT"
 census profile: "https://data.census.gov/profile/Arlington_city,_Washington?g=160XX00US5302585"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
+city of:
   - Interstate 5
   - Washington State Route 9
 openstreetmap: "https://www.openstreetmap.org/relation/237216"

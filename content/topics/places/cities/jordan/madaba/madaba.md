@@ -1,9 +1,8 @@
 ---
 title: "Madaba"
 apple maps: "https://maps.apple/p/z5ux2uHKg7.0PT"
-city of:
-  - Jordan
-  - King's Highway
+city in: Jordan
+city of: King's Highway
 openstreetmap: "https://www.openstreetmap.org/way/379035955"
 wikidata: "https://www.wikidata.org/wiki/Q1683958"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Madaba"

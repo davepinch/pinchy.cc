@@ -7,7 +7,7 @@ adjacent to:
   - Minneapolis, Minnesota
   - Hilltop, Minnesota
 apple maps: "https://maps.apple/p/VHI3zSeC.WeL-0"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
 official website: "https://columbiaheightsmn.gov/"

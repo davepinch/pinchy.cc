@@ -1,7 +1,7 @@
 ---
 title: "Berlin"
 apple maps: "https://maps.apple/p/.muivet7rBdqsZ"
-city of:
+city in:
   - Germany
   - Nazi Germany
   - German Empire

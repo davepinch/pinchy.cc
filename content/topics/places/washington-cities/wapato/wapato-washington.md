@@ -1,7 +1,7 @@
 ---
 title: "Wapato, Washington"
 apple maps: "https://maps.apple/p/jpD3QhM_5-uerA"
-city of:
+city in:
   - Columbia Plateau
   - Yakima County, Washington
   - Washington

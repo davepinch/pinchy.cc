@@ -7,9 +7,10 @@ adjacent to:
   - Puget Sound
   - East Passage
 apple maps: "https://maps.apple/p/jNS_K8XfLgvI6w"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - East Passage
   - Puget Sound
 disambiguation of: Normandy Park

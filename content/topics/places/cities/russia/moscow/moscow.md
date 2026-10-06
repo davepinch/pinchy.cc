@@ -4,7 +4,7 @@ apple maps: "https://maps.apple/p/bgKLGjTvaAeZPh"
 capital of:
   - Russia
   - Russian Empire
-city of: Russia
+city in: Russia
 openstreetmap: "https://www.openstreetmap.org/relation/2555133"
 wikidata: "https://www.wikidata.org/wiki/Q649"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Moscow"

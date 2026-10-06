@@ -6,7 +6,7 @@ adjacent to:
   - Excelsior, Minnesota
   - Orono, Minnesota
 apple maps: "https://maps.apple/p/ecdEBDtrSjwsyZ"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
 official website: "https://www.greenwoodmn.gov/"

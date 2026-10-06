@@ -13,10 +13,10 @@ adjacent to:
   - Medina, Washington
 apple maps: "https://maps.apple/p/DuBTUoMyG37TxF"
 census profile: "https://data.census.gov/profile/Kirkland_city,_Washington?g=160XX00US5335940"
-city of:
+city in:
   - King County, Washington
   - Washington
-  - Lake Washington
+city of: Lake Washington
 disambiguation of: Kirkland
 openstreetmap: "https://www.openstreetmap.org/relation/237356"
 suburb of: Seattle

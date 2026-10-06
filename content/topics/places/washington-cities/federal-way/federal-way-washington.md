@@ -15,9 +15,10 @@ adjacent to:
   - Puget Sound
   - Salish Sea
 apple maps: "https://maps.apple/p/YIpICpI3s~Lg5U"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - East Passage
   - Puget Sound
 disambiguation of: Federal Way

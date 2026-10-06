@@ -1,7 +1,7 @@
 ---
 title: "Robbinsdale, Minnesota"
 apple maps: "https://maps.apple/p/M9pn1IIsc8oy1b"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
 official website: "https://www.robbinsdalemn.gov/"

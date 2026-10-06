@@ -7,9 +7,10 @@ adjacent to:
   - Bellevue, Washington
 apple maps: "https://maps.apple/p/JgpT_AkJwKiQ0Q"
 census profile: "https://data.census.gov/profile/Medina_city,_Washington?g=160XX00US5344725"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - Lake Washington
   - Washington State Route 520
 disambiguation of: Medina

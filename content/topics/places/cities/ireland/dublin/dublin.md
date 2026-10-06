@@ -1,7 +1,7 @@
 ---
 title: "Dublin"
 apple maps: "https://maps.apple/p/erUAKAx5xY7k~q"
-city of: Ireland
+city in: Ireland
 openstreetmap: "https://www.openstreetmap.org/relation/1109531"
 wikidata: "https://www.wikidata.org/wiki/Q1761"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Dublin"

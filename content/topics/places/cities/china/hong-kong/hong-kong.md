@@ -1,8 +1,9 @@
 ---
 title: "Hong Kong"
-city of:
+city in:
   - China
-  - Pacific Ocean
+  - Asia
+city of: Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/10264792"
 wikidata: "https://www.wikidata.org/wiki/Q8646"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Hong_Kong"

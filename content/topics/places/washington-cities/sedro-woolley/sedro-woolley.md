@@ -1,9 +1,10 @@
 ---
 title: "Sedro-Woolley, Washington"
 apple maps: "https://maps.apple/p/esqgacSbgdZT1R"
-city of:
+city in:
   - Skagit County, Washington
   - Washington
+city of:
   - Skagit River
   - Washington State Route 9
   - Washington State Route 20

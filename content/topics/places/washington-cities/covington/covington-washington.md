@@ -1,7 +1,7 @@
 ---
 title: "Covington, Washington"
 apple maps: "https://maps.apple/p/gf2bbU1xWF6~sT"
-city of:
+city in:
   - King County, Washington
   - Washington
 official website: "https://www.covingtonwa.gov/"

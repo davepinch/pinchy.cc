@@ -1,7 +1,7 @@
 ---
 title: "Medical Lake, Washington"
 apple maps: "https://maps.apple/p/jrotZYpWU.jwsD"
-city of:
+city in:
   - Spokane County, Washington
   - Washington
 namesake of: Medical Lake

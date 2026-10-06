@@ -1,7 +1,7 @@
 ---
 title: "Nashville, Tennessee"
 apple maps: "https://maps.apple/p/SvARYFCaSRduh7"
-city of: Tennessee
+city in: Tennessee
 openstreetmap: "https://www.openstreetmap.org/relation/197472"
 wikidata: "https://www.wikidata.org/wiki/Q23197"
 wikimedia: "https://commons.wikimedia.org/wiki/Nashville,_Tennessee"

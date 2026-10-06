@@ -7,9 +7,10 @@ adjacent to:
   - Des Moines, Washington
 apple maps: "https://maps.apple/p/oEZeaAVZdvTZVr"
 census profile: "https://data.census.gov/profile/SeaTac_city,_Washington?g=160XX00US5362288"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - Interstate 5
   - Washington State Route 99
 not to be confused with: Seattle–Tacoma International Airport

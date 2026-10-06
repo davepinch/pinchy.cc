@@ -1,7 +1,7 @@
 ---
 title: "Boca Raton, Florida"
 apple maps: "https://maps.apple/p/LVe8.YR~aDjIn.z"
-city of: Florida
+city in: Florida
 official website: "https://myboca.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1216593"
 wikidata: "https://www.wikidata.org/wiki/Q29422"

@@ -6,7 +6,7 @@ adjacent to:
   - Cohassett Beach, Washington
   - Pacific Ocean
 apple maps: "https://maps.apple/p/fg-7AuSR3X3dUK"
-city of:
+city in:
   - Grays Harbor County, Washington
   - Washington
 official website: "https://www.ci.westport.wa.us/"

@@ -10,7 +10,7 @@ adjacent to:
   - Independence, Minnesota
   - Greenfield, Minnesota
 apple maps: "https://maps.apple/p/Mgixzfe1La.VEh"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
 official website: "https://www.corcoranmn.gov/"

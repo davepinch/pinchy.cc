@@ -1,7 +1,7 @@
 ---
 title: "Delano, Minnesota"
 apple maps: "https://maps.apple/p/kDBZHi_LIC5s~.z"
-city of:
+city in:
   - Wright County, Minnesota
   - Minnesota
 official website: "https://www.delanomn.gov/"

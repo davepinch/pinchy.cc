@@ -9,9 +9,10 @@ adjacent to:
   - Puget Sound
   - Normandy Park, Washington
 apple maps: "https://maps.apple/p/1Ph_RisEmaq0sZ"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - East Passage
   - Puget Sound
 official website: "https://www.desmoineswa.gov/"

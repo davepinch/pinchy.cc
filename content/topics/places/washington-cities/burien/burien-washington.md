@@ -13,9 +13,10 @@ adjacent to:
   - Puget Sound
   - East Passage
 apple maps: "https://maps.apple/p/IHrNq~h1WMwZy0"
-city of:
+city in:
   - King County, Washington
   - Washington
+city of:
   - East Passage
   - Puget Sound
 disambiguation of: Burien

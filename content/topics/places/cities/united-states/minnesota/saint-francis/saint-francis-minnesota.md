@@ -1,7 +1,7 @@
 ---
 title: "St. Francis, Minnesota"
 apple maps: "https://maps.apple/p/.GUuewS1_1TJKx"
-city of:
+city in:
   - Anoka County, Minnesota
   - Isanti County, Minnesota
   - Minnesota

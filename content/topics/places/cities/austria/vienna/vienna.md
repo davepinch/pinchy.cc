@@ -1,6 +1,6 @@
 ---
 title: "Vienna"
-city of: Austria
+city in: Austria
 openstreetmap: "https://www.openstreetmap.org/relation/109166"
 wikidata: "https://www.wikidata.org/wiki/Q1741"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Vienna"

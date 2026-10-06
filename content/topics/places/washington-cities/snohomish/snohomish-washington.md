@@ -1,9 +1,10 @@
 ---
 title: "Snohomish, Washington"
 apple maps: "https://maps.apple/p/ftDfIYLDinb9yg"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
+city of:
   - Pilchuck River
   - Snohomish River
   - U.S. Route 2

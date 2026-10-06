@@ -1,6 +1,6 @@
 ---
 title: "Copenhagen"
-city of: Denmark
+city in: Denmark
 openstreetmap: "https://www.openstreetmap.org/node/13707878"
 wikidata: "https://www.wikidata.org/wiki/Q1748"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Copenhagen"

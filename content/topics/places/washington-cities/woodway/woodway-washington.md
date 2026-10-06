@@ -8,12 +8,12 @@ adjacent to:
   - King County, Washington
   - Shoreline, Washington
   - Point Wells
-  - Puget Sound
 apple maps: "https://maps.apple/p/Rbmz5eZz.5ipoC"
 census profile: "https://data.census.gov/profile/Woodway_city,_Washington?g=160XX00US5379835"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
+city of: Puget Sound
 official website: "https://www.townofwoodway.com/index.php"
 openstreetmap: "https://www.openstreetmap.org/relation/237219"
 up the pacific coast: Edmonds, Washington

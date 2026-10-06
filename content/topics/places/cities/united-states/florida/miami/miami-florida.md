@@ -1,9 +1,8 @@
 ---
 title: "Miami, Florida"
 apple maps: "https://maps.apple/p/veKq~~q33KA~rs"
-city of:
-  - Florida
-  - Atlantic Ocean
+city in: Florida
+city of: Atlantic Ocean
 official website: "https://www.miami.gov"
 openstreetmap: "https://www.openstreetmap.org/relation/1216769"
 wikidata: "https://www.wikidata.org/wiki/Q8652"

@@ -1,9 +1,8 @@
 ---
 title: "Milwaukee"
 apple maps: "https://maps.apple/p/7aDq5wkDCPM8KX"
-city of:
-  - Wisconsin
-  - Lake Michigan
+city in: Wisconsin
+city of: Lake Michigan
 openstreetmap: "https://www.openstreetmap.org/relation/251075"
 wikidata: "https://www.wikidata.org/wiki/Q37836"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Milwaukee,_Wisconsin"

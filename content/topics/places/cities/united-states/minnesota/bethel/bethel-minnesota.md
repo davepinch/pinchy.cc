@@ -4,7 +4,7 @@ adjacent to:
   - St. Francis, Minnesota
   - East Bethel, Minnesota
 apple maps: "https://maps.apple/p/zd4tDBWK9aGX-r"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
 official website: "https://bethelmn.gov/"

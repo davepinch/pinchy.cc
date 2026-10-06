@@ -1,7 +1,7 @@
 ---
 title: "Amman"
 apple maps: "https://maps.apple/p/08TkkWfFdmew-b"
-city of:
+city in:
   - Jordan
   - Decapolis
 not to be confused with: Ammon

@@ -1,7 +1,7 @@
 ---
 title: "Osseo, Minnesota"
 apple maps: "https://maps.apple/p/T.oEvhsEMaMZ6d"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
 official website: "https://www.osseomn.gov/"

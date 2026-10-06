@@ -2,7 +2,7 @@
 title: "Eatonville, Washington"
 apple maps: "https://maps.apple/p/MURqq3DkPIKTT~"
 census profile: "https://data.census.gov/profile/Eatonville_town,_Washington?g=160XX00US5320260"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237681"

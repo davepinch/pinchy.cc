@@ -1,7 +1,7 @@
 ---
 title: "Nowthen, Minnesota"
 apple maps: "https://maps.apple/p/35wNwxHmk0wRTx"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
 official website: "https://www.cityofnowthen.gov/"

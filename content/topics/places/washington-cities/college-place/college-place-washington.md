@@ -4,7 +4,7 @@ adjacent to:
   - Garrett, Washington
   - Walla Walla, Washington
 apple maps: "https://maps.apple/p/qnPFZZoDu9Vh5A"
-city of:
+city in:
   - Columbia Plateau
   - Walla Walla County, Washington
   - Washington

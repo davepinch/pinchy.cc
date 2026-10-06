@@ -10,10 +10,10 @@ adjacent to:
   - Lynnwood, Washington
 apple maps: "https://maps.apple/p/7SRS2Da_dQuvXb"
 census profile: "https://data.census.gov/profile/Mountlake_Terrace_city,_Washington?g=160XX00US5347490"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
-  - Interstate 5
+city of: Interstate 5
 openstreetmap: "https://www.openstreetmap.org/relation/237670"
 wikidata: "https://www.wikidata.org/wiki/Q1507087"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mountlake_Terrace,_Washington"

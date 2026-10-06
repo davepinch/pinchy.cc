@@ -1,7 +1,7 @@
 ---
 title: "Willernie, Minnesota"
 apple maps: "https://maps.apple/p/BA1M-MqRCc~WGq"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
 official website: "https://willernie.org/"

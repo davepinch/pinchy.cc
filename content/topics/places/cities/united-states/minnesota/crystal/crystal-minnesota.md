@@ -7,7 +7,7 @@ adjacent to:
   - Golden Valley, Minnesota
   - New Hope, Minnesota
 apple maps: "https://maps.apple/p/.-Y7asNo_teZi8"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
 official website: "https://www.crystalmn.gov/"

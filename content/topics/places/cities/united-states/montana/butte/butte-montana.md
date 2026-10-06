@@ -1,7 +1,8 @@
 ---
 title: "Butte, Montana"
 apple maps: "https://maps.apple/p/zuyWG6xuSrG~uY"
-city of: Montana
+city in: Montana
+city of: Interstate 90
 disambiguation of: butte
 openstreetmap: "https://www.openstreetmap.org/relation/6840978"
 wikidata: "https://www.wikidata.org/wiki/Q467664"

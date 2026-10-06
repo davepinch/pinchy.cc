@@ -1,9 +1,8 @@
 ---
 title: "San Francisco"
 apple maps: "https://maps.apple/p/4s92g_huoiQZDu"
-city of:
-  - California
-  - Pacific Ocean
+city in: California
+city of: Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/111968"
 vicinity to: Berkeley, California
 wikidata: "https://www.wikidata.org/entity/Q62"

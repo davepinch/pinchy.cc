@@ -2,7 +2,7 @@
 title: "Selah, Washington"
 adjacent to: Yakima, Washington
 apple maps: "https://maps.apple/p/-Y5EpHM6-ieb28"
-city of:
+city in:
   - Yakima County, Washington
   - Washington
 official website: "https://www.selahwa.gov/"

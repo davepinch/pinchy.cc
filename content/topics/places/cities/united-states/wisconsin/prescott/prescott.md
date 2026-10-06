@@ -1,8 +1,8 @@
 ---
 title: "Prescott, Wisconsin"
 apple maps: "https://maps.apple/p/_fJF6sqVZPsy4o"
+city in: Wisconsin
 city of:
-  - Wisconsin
   - Mississippi River
   - Saint Croix River
 i remember as a kid:

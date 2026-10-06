@@ -1,8 +1,9 @@
 ---
 title: "Laurieton, New South Wales"
-city of:
+city in:
   - New South Wales
-  - Pacific Ocean
+  - Australia
+city of: Pacific Ocean
 near: Port Macquarie
 openstreetmap: "https://www.openstreetmap.org/relation/6063643"
 wikidata: "https://www.wikidata.org/wiki/Q6501807"

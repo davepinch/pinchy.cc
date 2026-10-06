@@ -1,7 +1,7 @@
 ---
 title: "Republic, Washington"
 apple maps: "https://maps.apple/p/YxigtzgYHmaSJ0"
-city of:
+city in:
   - Ferry County, Washington
   - Washington
 county seat of: Ferry County, Washington

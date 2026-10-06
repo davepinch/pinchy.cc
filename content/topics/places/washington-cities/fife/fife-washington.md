@@ -9,7 +9,7 @@ adjacent to:
   - unnamed Pierce County, Washington
   - Waller, Washington
 apple maps: "https://maps.apple/p/Ht-Jdy1QXrYT1a"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237260"

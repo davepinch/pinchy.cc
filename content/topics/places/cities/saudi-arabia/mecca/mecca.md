@@ -1,7 +1,7 @@
 ---
 title: "Mecca"
 apple maps: "https://maps.apple/p/99YCTbt1QnaIEK"
-city of: Saudi Arabia
+city in: Saudi Arabia
 holiest city of: Islam
 near: Red Sea
 openstreetmap: "https://www.openstreetmap.org/relation/12429517"

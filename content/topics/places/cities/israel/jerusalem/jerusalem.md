@@ -1,7 +1,7 @@
 ---
 title: "Jerusalem"
 apple maps: "https://maps.apple/p/vgy6MYqsrPsfWv"
-city of:
+city in:
   - Israel
   - Kingdom of Judah
 openstreetmap: "https://www.openstreetmap.org/relation/6502363"

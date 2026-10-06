@@ -1,9 +1,10 @@
 ---
 title: "Churchill, Manitoba"
-city of:
+city in:
   - Manitoba
-  - Hudson Bay
   - Canada
+city of:
+  - Hudson Bay
   - polar bear
 openstreetmap: "https://www.openstreetmap.org/relation/14426854"
 wikidata: "https://www.wikidata.org/wiki/Q744553"

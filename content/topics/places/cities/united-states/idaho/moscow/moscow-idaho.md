@@ -1,7 +1,7 @@
 ---
 title: "Moscow, Idaho"
 apple maps: "https://maps.apple/p/nrWu9ZH8sVF2by"
-city of:
+city in:
   - Palouse
   - Idaho
 openstreetmap: "https://www.openstreetmap.org/relation/121430"

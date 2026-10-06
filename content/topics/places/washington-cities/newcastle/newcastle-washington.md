@@ -7,10 +7,10 @@ adjacent to:
   - Lake Washington
 apple maps: "https://maps.apple/p/fmJxBk2IbWb0Sk"
 census profile: "https://data.census.gov/profile/Newcastle_city,_Washington?g=160XX00US5348645"
-city of:
+city in:
   - King County, Washington
   - Washington
-  - Lake Washington
+city of: Lake Washington
 disambiguation of: Newcastle
 openstreetmap: "https://www.openstreetmap.org/relation/237361"
 wikidata: "https://www.wikidata.org/entity/Q1502408"

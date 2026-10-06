@@ -1,10 +1,10 @@
 ---
 title: "Ridgefield, Washington"
 apple maps: "https://maps.apple/p/ik2-tfkGWhyi40"
-city of:
+city in:
   - Clark County, Washington
   - Washington
-  - Lake River
+city of: Lake River
 openstreetmap: "https://www.openstreetmap.org/relation/237691"
 vicinity to: Columbia River
 wikidata: "https://www.wikidata.org/wiki/Q1505990"

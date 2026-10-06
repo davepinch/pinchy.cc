@@ -9,7 +9,7 @@ adjacent to:
   - Sumner, Washington
 apple maps: "https://maps.apple/p/I36Sx~zv1HFUzK"
 census profile: "https://data.census.gov/profile/Bonney_Lake_city,_Washington?g=160XX00US5307170"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237675"

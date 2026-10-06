@@ -11,7 +11,7 @@ adjacent to:
   - Henderson Bay
 apple maps: "https://maps.apple/p/Hq~xRVm5yvna83"
 census profile: "https://data.census.gov/profile/Gig_Harbor_city,_Washington?g=160XX00US5326735"
-city of:
+city in:
   - Gig Harbor Peninsula
   - Kitsap Peninsula
   - Pierce County, Washington

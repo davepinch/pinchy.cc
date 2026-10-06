@@ -8,10 +8,10 @@ adjacent to:
   - Medina, Washington
 apple maps: "https://maps.apple/p/7t~NPsP7uoo_JC"
 census profile: "https://data.census.gov/profile/Clyde_Hill_city,_Washington?g=160XX00US5313365"
-city of:
+city in:
   - King County, Washington
   - Washington
-  - Washington State Route 520
+city of: Washington State Route 520
 openstreetmap: "https://www.openstreetmap.org/relation/237343"
 vicinity to:
   - Beaux Arts Village, Washington

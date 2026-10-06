@@ -5,7 +5,7 @@ adjacent to:
   - Lake Bosworth, Washington
 apple maps: "https://maps.apple/p/bUCzL5To3ohb6_"
 census profile: "https://data.census.gov/profile/Granite_Falls_city,_Washington?g=160XX00US5327995"
-city of:
+city in:
   - Snohomish County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237660"

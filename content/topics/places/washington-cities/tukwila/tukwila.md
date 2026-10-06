@@ -13,7 +13,7 @@ adjacent to:
   - Burien, Washington
   - Boulevard Park, Washington
 apple maps: "https://maps.apple/p/CdIFw4DimJnSv7"
-city of:
+city in:
   - King County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237384"

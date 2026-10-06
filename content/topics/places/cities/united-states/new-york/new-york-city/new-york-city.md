@@ -1,7 +1,8 @@
 ---
 title: "New York City"
 apple maps: "https://maps.apple/p/jaeWC7p6ozxmnr"
-city of: New York
+city in: New York
+city of: Atlantic Ocean
 most populous city of: United States
 openstreetmap: "https://www.openstreetmap.org/relation/175905"
 wikidata: "https://www.wikidata.org/entity/Q60"

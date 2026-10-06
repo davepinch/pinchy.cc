@@ -1,10 +1,10 @@
 ---
 title: "South Bend, Washington"
 apple maps: "https://maps.apple/p/mxRMjEkqYuvNiX"
-city of:
+city in:
   - Pacific County, Washington
   - Washington
-  - Willapa River
+city of: Willapa River
 county seat of: Pacific County, Washington
 official website: "https://southbend-wa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/237596"

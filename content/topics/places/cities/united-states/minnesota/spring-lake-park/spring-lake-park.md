@@ -5,7 +5,7 @@ adjacent to:
   - Fridley, Minnesota
   - Mounds View, Minnesota
 apple maps: "https://maps.apple/p/vh15UYw8CYmL-A"
-city of:
+city in:
   - Anoka County, Minnesota
   - Ramsey County, Minnesota
   - Minnesota

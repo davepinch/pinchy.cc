@@ -1,7 +1,7 @@
 ---
 title: "Battle Ground, Washington"
 apple maps: "https://maps.apple/p/c~5AKjhG9krigs"
-city of:
+city in:
   - Clark County, Washington
   - Washington
 official website: "https://www.cityofbg.org/"

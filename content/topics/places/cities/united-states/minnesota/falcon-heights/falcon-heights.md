@@ -5,7 +5,7 @@ adjacent to:
   - Saint Paul, Minnesota
   - Lauderdale, Minnesota
 apple maps: "https://maps.apple/p/.ErwPXG0AbKwLk"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
 suburb of:

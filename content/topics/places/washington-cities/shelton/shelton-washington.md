@@ -1,9 +1,9 @@
 ---
 title: "Shelton, Washington"
 apple maps: "https://maps.apple/p/.U_I_ssfzwJnJB"
-city of:
-  - Mason County, Washington
+city in:
   - Olympic Peninsula
+  - Mason County, Washington
   - Washington
 county seat of: Mason County, Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237719"

@@ -1,7 +1,7 @@
 ---
 title: "Goldendale, Washington"
 apple maps: "https://maps.apple/p/W..I7-_dgv8WjM"
-city of:
+city in:
   - Columbia Plateau
   - Klickitat County, Washington
   - Washington

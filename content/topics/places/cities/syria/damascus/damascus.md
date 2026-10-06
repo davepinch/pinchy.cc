@@ -1,7 +1,7 @@
 ---
 title: "Damascus"
 apple maps: "https://maps.apple/p/_6WEZetXr1e68i"
-city of:
+city in:
   - Syria
   - Decapolis
   - Roman Syria

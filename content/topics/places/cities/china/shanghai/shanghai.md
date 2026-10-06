@@ -1,6 +1,9 @@
 ---
 title: "Shanghai"
-city of: China
+city in:
+  - China
+  - Asia
+city of: Pacific Ocean
 openstreetmap: "https://www.openstreetmap.org/relation/913067"
 wikidata: "https://www.wikidata.org/wiki/Q8686"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Shanghai"

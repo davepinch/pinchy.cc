@@ -15,7 +15,7 @@ adjacent to:
   - Black Diamond, Washington
   - Ravensdale, Washington
 apple maps: "https://maps.apple/p/Hq2IMqeY4f_x_W"
-city of:
+city in:
   - King County, Washington
   - Washington
 disambiguation of: Kent

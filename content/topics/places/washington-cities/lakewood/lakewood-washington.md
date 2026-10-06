@@ -11,7 +11,7 @@ adjacent to:
   - North Fort Lewis, Washington
   - Steilacoom, Washington
 apple maps: "https://maps.apple/p/Q2VoWFqrKPnzIi"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237683"

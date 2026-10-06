@@ -1,7 +1,7 @@
 ---
 title: "Connell, Washington"
 apple maps: "https://maps.apple/p/9~1JXUsDSo2gr2"
-city of:
+city in:
   - Columbia Plateau
   - Franklin County, Washington
   - Washington

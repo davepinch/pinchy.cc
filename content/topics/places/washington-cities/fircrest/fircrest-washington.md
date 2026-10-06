@@ -4,7 +4,7 @@ adjacent to:
   - Tacoma, Washington
   - University Place, Washington
 apple maps: "https://maps.apple/p/oNM6MwuR~29xRi"
-city of:
+city in:
   - Pierce County, Washington
   - Washington
 openstreetmap: "https://www.openstreetmap.org/relation/237682"

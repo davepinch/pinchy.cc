@@ -8,10 +8,11 @@ adjacent to:
   - Kenmore, Washington
   - Bothell West, Washington
 apple maps: "https://maps.apple/p/_qUiE-nkL7~jYf"
-city of:
+city in:
   - King County, Washington
   - Snohomish County, Washington
   - Washington
+city of:
   - Interstate 405
   - Washington State Route 522
 disambiguation of: Bothell

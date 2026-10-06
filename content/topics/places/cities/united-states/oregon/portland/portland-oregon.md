@@ -1,7 +1,7 @@
 ---
 title: "Portland, Oregon"
 apple maps: "https://maps.apple/p/Trq~L.9xV9gt~n"
-city of:
+city in:
   - Multnomah County, Oregon
   - Oregon
 county seat of: Multnomah County, Oregon

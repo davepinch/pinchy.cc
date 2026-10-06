@@ -1,10 +1,10 @@
 ---
 title: "Duvall, Washington"
 apple maps: "https://maps.apple/p/3.njisHEb2PkNI"
-city of:
+city in:
   - King County, Washington
   - Washington
-  - Snoqualmie River
+city of: Snoqualmie River
 disambiguation of: Duvall
 official website: "https://duvallwa.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/237872"

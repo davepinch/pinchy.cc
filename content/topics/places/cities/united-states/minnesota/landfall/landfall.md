@@ -2,7 +2,7 @@
 title: "Landfall, Minnesota"
 adjacent to: Oakdale, Minnesota
 apple maps: "https://maps.apple/p/-_NeN.jocEaHFD"
-city of:
+city in:
   - Washington County, Minnesota
   - Minnesota
 near:

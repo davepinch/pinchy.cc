@@ -1,7 +1,7 @@
 ---
 title: "Othello, Washington"
 apple maps: "https://maps.apple/p/tFtCwGTuxoEZbq"
-city of:
+city in:
   - Columbia Plateau
   - Adams County, Washington
   - Washington

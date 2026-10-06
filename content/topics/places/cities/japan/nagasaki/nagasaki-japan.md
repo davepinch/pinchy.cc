@@ -1,7 +1,7 @@
 ---
 title: "Nagasaki, Japan"
 apple maps: "https://maps.apple/p/Sw8se6WTfzXI06"
-city of: Japan
+city in: Japan
 openstreetmap: "https://www.openstreetmap.org/relation/4011885"
 wikidata: "https://www.wikidata.org/wiki/Q38234"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Nagasaki"

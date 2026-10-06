@@ -1,7 +1,7 @@
 ---
 title: "Bethlehem"
 apple maps: "https://maps.apple/p/rDR1hwZdaXpB2B"
-city of:
+city in:
   - West Bank
   - Palestine
 openstreetmap: "https://www.openstreetmap.org/relation/6759715"

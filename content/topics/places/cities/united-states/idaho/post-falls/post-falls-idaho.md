@@ -1,8 +1,8 @@
 ---
 title: "Post Falls, Idaho"
 apple maps: "https://maps.apple/p/85pjaboXCai_RM"
+city in: Idaho
 city of:
-  - Idaho
   - Interstate 90
   - Spokane River
 openstreetmap: "https://www.openstreetmap.org/relation/121256"

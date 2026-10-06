@@ -2,7 +2,7 @@
 title: "Centerville, Minnesota"
 adjacent to: Lino Lakes, Minnesota
 apple maps: "https://maps.apple/p/Rrna3sAbZ~~Zfz"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
 official website: "https://www.centervillemn.com/"

@@ -2,7 +2,7 @@
 title: "Loretto, Minnesota"
 adjacent to: Medina, Minnesota
 apple maps: "https://maps.apple/p/xRyU-npPAkigBw"
-city of:
+city in:
   - Hennepin County, Minnesota
   - Minnesota
 official website: "https://lorettomn.gov/"

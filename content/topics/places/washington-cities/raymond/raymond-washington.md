@@ -1,7 +1,7 @@
 ---
 title: "Raymond, Washington"
 apple maps: "https://maps.apple/p/03fZzRJX1gvL__"
-city of:
+city in:
   - Pacific County, Washington
   - Washington
 disambiguation of: Raymond

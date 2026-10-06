@@ -1,7 +1,8 @@
 ---
 title: "North Hudson, Wisconsin"
 apple maps: "https://maps.apple/p/rKZ1pdJZGy-UFw"
-city of: Wisconsin
+city in: Wisconsin
+city of: Saint Croix River
 north of: Hudson, Wisconsin
 openstreetmap: "https://www.openstreetmap.org/relation/242809"
 wikidata: "https://www.wikidata.org/wiki/Q1807115"

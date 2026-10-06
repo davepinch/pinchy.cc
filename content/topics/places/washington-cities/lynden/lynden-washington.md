@@ -2,10 +2,10 @@
 title: "Lynden, Washington"
 apple maps: "https://maps.apple/p/N6NntY64.-PJxg"
 census profile: "https://data.census.gov/profile/Lynden_city,_Washington?g=160XX00US5340805"
-city of:
+city in:
   - Whatcom County, Washington
   - Washington
-  - Nooksack River
+city of: Nooksack River
 openstreetmap: "https://www.openstreetmap.org/relation/238062"
 vicinity to:
   - Custer, Washington

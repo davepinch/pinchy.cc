@@ -4,7 +4,7 @@ adjacent to:
   - Center City, Minnesota
   - Chisago City, Minnesota
 apple maps: "https://maps.apple/p/Douhp65VHk6mLY"
-city of:
+city in:
   - Chisago County, Minnesota
   - Minnesota
 official website: "https://www.cityoflindstrom.us/"

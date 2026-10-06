@@ -1,10 +1,10 @@
 ---
 title: "Willmar, Minnesota"
 apple maps: "https://maps.apple/p/1KiNvRXQXaCbIG"
-city of:
+city in:
   - Kandiyohi County, Minnesota
   - Minnesota
-city in Minnesota of: U.S. Route 12
+city of: U.S. Route 12
 county seat of: Kandiyohi County, Minnesota
 official website: "https://www.willmarmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137350"

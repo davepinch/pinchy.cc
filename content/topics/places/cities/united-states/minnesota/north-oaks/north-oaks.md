@@ -6,7 +6,7 @@ adjacent to:
   - Vadnais Heights, Minnesota
   - White Bear Township, Minnesota
 apple maps: "https://maps.apple/p/j6yFIf413niiFX"
-city of:
+city in:
   - Ramsey County, Minnesota
   - Minnesota
 official website: "https://www.northoaksmn.gov/"

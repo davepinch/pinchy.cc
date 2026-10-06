@@ -9,7 +9,7 @@ adjacent to:
   - Andover, Minnesota
   - Oak Grove, Minnesota
 apple maps: "https://maps.apple/p/X_WoPCUpCpwqej"
-city of:
+city in:
   - Anoka County, Minnesota
   - Minnesota
 official website: "https://www.hamlakemn.gov/"

@@ -1,9 +1,10 @@
 ---
 title: "Cashmere, Washington"
 apple maps: "https://maps.apple/p/kJsxLq5SjQ2TC7"
-city of:
+city in:
   - Chelan County, Washington
   - Washington
+city of:
   - BNSF Scenic Subdivision
   - Wenatchee River
 official website: "https://www.cityofcashmere.org/"
