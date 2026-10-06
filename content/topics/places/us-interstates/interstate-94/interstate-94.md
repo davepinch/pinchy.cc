@@ -1,6 +1,6 @@
 ---
 title: "Interstate 94"
-interstate highway of:
+interstate highway in:
   - United States
   - Montana
   - North Dakota
@@ -9,6 +9,7 @@ interstate highway of:
   - Illinois
   - Indiana
   - Michigan
+interstate highway of: "94"
 wikidata: "https://www.wikidata.org/wiki/Q94965"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Interstate_94"
 tags:
