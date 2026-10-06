@@ -93,9 +93,17 @@ sequence:
   - Missoula County, Montana
   - Lolo, Montana
   - Missoula, Montana
+#  - Interstate 90
   - East Missoula, Montana
-
+  - Bonner-West Riverside, Montana
+  - Piltzville, Montana
+  - Turah, Montana
+  - Clinton, Montana
   - Drummond, Montana
+  - Garrison, Montana
+  - Avon, Montana
+  - Elliston, Montana
+  - Helena West Side, Montana
   - Helena, Montana
   - Forsyth, Montana
   - Miles City, Montana
