@@ -9,7 +9,7 @@ adjacent to:
   - Carver County, Minnesota
 apple maps: "https://maps.apple/p/x0Uvr8eB3IMHfc"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Interstate 35
   - Minnesota River
 official website: "https://www.scottcountymn.gov/"

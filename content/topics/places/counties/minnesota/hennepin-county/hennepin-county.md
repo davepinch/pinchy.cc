@@ -10,7 +10,7 @@ adjacent to:
   - Wright County, Minnesota
 apple maps: "https://maps.apple/p/ECX7jY1ME8_fHU"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Interstate 35W
   - Interstate 94
   - Interstate 494

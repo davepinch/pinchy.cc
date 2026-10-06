@@ -12,7 +12,7 @@ adjacent to:
   - Douglas County, Minnesota
 apple maps: "https://maps.apple/p/9bRnnI.YPNzoEj"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Interstate 94
   - Mississippi River
 official website: "https://www.stearnscountymn.gov/"

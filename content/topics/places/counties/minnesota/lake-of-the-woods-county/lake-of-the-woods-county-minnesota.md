@@ -8,7 +8,7 @@ adjacent to:
   - Manitoba
 apple maps: "https://maps.apple/p/.~Qa3IeejK2ooX"
 county in: Minnesota
-county in Minnesota of: Lake of the Woods
+county of: Lake of the Woods
 official website: "https://lotwcounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1796052"
 wikidata: "https://www.wikidata.org/wiki/Q8580322"

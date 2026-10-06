@@ -10,7 +10,7 @@ adjacent to:
   - Olmsted County, Minnesota
 apple maps: "https://maps.apple/p/80eJL_W9MAddVk"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Interstate 90
   - Mississippi River
   - U.S. Route 61

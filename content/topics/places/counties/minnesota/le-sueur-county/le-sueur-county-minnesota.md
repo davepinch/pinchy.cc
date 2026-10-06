@@ -9,7 +9,7 @@ adjacent to:
   - Sibley County, Minnesota
 apple maps: "https://maps.apple/p/tLPUu0~J5By~GC"
 county in: Minnesota
-county in Minnesota of: Minnesota River
+county of: Minnesota River
 official website: "https://lesueurcounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795879"
 wikidata: "https://www.wikidata.org/wiki/Q491288"

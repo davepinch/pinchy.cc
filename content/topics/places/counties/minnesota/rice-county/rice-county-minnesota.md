@@ -10,7 +10,7 @@ adjacent to:
   - Le Sueur County, Minnesota
 apple maps: "https://maps.apple/p/Wt9.EI.DAHm2Yg"
 county in: Minnesota
-county in Minnesota of: Interstate 35
+county of: Interstate 35
 official website: "https://www.ricecountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795858"
 wikidata: "https://www.wikidata.org/wiki/Q490423"

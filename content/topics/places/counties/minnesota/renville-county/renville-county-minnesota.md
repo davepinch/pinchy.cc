@@ -12,7 +12,7 @@ adjacent to:
   - Yellow Medicine County, Minnesota
 apple maps: "https://maps.apple/p/hkUsu6rv0KxL3n"
 county in: Minnesota
-county in Minnesota of: Minnesota River
+county of: Minnesota River
 official website: "https://www.renvillecountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795791"
 wikidata: "https://www.wikidata.org/wiki/Q188275"

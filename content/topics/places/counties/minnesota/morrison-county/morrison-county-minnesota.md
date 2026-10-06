@@ -9,7 +9,7 @@ adjacent to:
   - Todd County, Minnesota
 apple maps: "https://maps.apple/p/UdzyD7~HmZP-H9"
 county in: Minnesota
-county in Minnesota of: Mississippi River
+county of: Mississippi River
 official website: "https://www.morrisoncountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795715"
 wikidata: "https://www.wikidata.org/wiki/Q491272"

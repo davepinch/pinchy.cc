@@ -10,7 +10,7 @@ adjacent to:
   - Brown County, Minnesota
 apple maps: "https://maps.apple/p/PgKtdXCUNhtH7F"
 county in: Minnesota
-county in Minnesota of: Minnesota River
+county of: Minnesota River
 official website: "https://www.blueearthcountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795877"
 wikidata: "https://www.wikidata.org/wiki/Q110340"

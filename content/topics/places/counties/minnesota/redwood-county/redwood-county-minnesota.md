@@ -9,7 +9,7 @@ adjacent to:
   - Yellow Medicine County, Minnesota
 apple maps: "https://maps.apple/p/_q6decvh8wzhI1"
 county in: Minnesota
-county in Minnesota of: Minnesota River
+county of: Minnesota River
 official website: "https://redwoodcounty-mn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795857"
 wikidata: "https://www.wikidata.org/wiki/Q485430"

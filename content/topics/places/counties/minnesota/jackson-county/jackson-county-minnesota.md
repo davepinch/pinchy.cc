@@ -10,7 +10,7 @@ adjacent to:
   - Nobles County, Minnesota
 apple maps: "https://maps.apple/p/itz24PYB6qapKg"
 county in: Minnesota
-county in Minnesota of: Interstate 90
+county of: Interstate 90
 official website: "https://jacksoncountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1792986"
 wikidata: "https://www.wikidata.org/wiki/Q486215"

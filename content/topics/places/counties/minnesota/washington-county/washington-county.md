@@ -10,7 +10,7 @@ adjacent to:
   - Anoka County, Minnesota
 apple maps: "https://maps.apple/p/k2I-QHUUu_DAiy"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Interstate 35
   - Interstate 94
   - Interstate 494

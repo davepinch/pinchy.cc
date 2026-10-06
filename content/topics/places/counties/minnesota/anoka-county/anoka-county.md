@@ -9,7 +9,7 @@ adjacent to:
   - Sherburne County, Minnesota
 apple maps: "https://maps.apple/p/1MNCEwb_rh7-MD"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Interstate 35
   - Interstate 35E
   - Interstate 35W

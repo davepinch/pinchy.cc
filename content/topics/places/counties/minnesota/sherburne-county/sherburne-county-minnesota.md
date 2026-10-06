@@ -9,7 +9,7 @@ adjacent to:
   - Wright County, Minnesota
   - Stearns County, Minnesota
 county in: Minnesota
-county in Minnesota of: Mississippi River
+county of: Mississippi River
 official website: "https://www.co.sherburne.mn.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795718"
 wikidata: "https://www.wikidata.org/wiki/Q490427"

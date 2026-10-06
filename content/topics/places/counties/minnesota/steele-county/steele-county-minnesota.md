@@ -8,7 +8,7 @@ adjacent to:
   - Waseca County, Minnesota
 apple maps: "https://maps.apple/p/NF6Q3pC6mvC7Dq"
 county in: Minnesota
-county in Minnesota of: Interstate 35
+county of: Interstate 35
 official website: "https://www.steelecountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1797829"
 wikidata: "https://www.wikidata.org/wiki/Q487686"

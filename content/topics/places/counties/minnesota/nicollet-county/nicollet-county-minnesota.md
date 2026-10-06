@@ -8,7 +8,7 @@ adjacent to:
   - Brown County, Minnesota
 apple maps: "https://maps.apple/p/sCILVmFhptWciw"
 county in: Minnesota
-county in Minnesota of: Minnesota River
+county of: Minnesota River
 official website: "https://www.nicolletcountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795853"
 wikidata: "https://www.wikidata.org/wiki/Q490409"

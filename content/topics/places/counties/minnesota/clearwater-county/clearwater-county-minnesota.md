@@ -9,7 +9,7 @@ adjacent to:
   - Pennington County, Minnesota
 apple maps: "https://maps.apple/p/Xi.h9SNbM6DMdF"
 county in: Minnesota
-county in Minnesota of: U.S. Route 2
+county of: U.S. Route 2
 official website: "https://clearwatercountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1796045"
 wikidata: "https://www.wikidata.org/wiki/Q486281"

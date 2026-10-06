@@ -8,7 +8,7 @@ adjacent to:
   - Traverse County, Minnesota
   - Wilkin County, Minnesota
 county in: Minnesota
-county in Minnesota of: Interstate 94
+county of: Interstate 94
 disambiguation of: Grant County
 official website: "https://www.grantcountymn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1795712"

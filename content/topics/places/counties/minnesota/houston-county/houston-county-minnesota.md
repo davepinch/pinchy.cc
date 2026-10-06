@@ -9,7 +9,7 @@ adjacent to:
   - Fillmore County, Minnesota
 apple maps: "https://maps.apple/p/hU8LEeGX7XITbD"
 county in: Minnesota
-county in Minnesota of: Mississippi River
+county of: Mississippi River
 official website: "https://www.hocomn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1792815"
 wikidata: "https://www.wikidata.org/wiki/Q486288"

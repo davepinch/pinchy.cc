@@ -9,7 +9,7 @@ adjacent to:
   - Dodge County, Minnesota
 apple maps: "https://maps.apple/p/TV~0MkXoAuKfak"
 county in: Minnesota
-county in Minnesota of: Interstate 90
+county of: Interstate 90
 official website: "https://www.olmstedcounty.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1797828"
 wikidata: "https://www.wikidata.org/wiki/Q485656"

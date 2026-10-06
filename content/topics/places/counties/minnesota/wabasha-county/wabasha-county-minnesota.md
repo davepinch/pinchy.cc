@@ -8,7 +8,7 @@ adjacent to:
   - Olmsted County, Minnesota
 apple maps: "https://maps.apple/p/-S2~zQq8rPv-b1"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Mississippi River
   - U.S. Route 61
 official website: "https://www.co.wabasha.mn.us/"

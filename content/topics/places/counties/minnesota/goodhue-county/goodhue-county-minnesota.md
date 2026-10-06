@@ -10,7 +10,7 @@ adjacent to:
   - Dakota County, Minnesota
 apple maps: "https://maps.apple/p/m1tMIqCpDf4t4r"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Mississippi River
   - U.S. Route 61
   - Vermillion River (Mississippi River tributary)

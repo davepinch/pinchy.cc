@@ -9,7 +9,7 @@ adjacent to:
   - Big Stone County, Minnesota
 apple maps: "https://maps.apple/p/.7-ZMaHdVxTQcZ"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Minnesota River
   - U.S. Route 12
 official website: "https://swiftcounty.gov/"

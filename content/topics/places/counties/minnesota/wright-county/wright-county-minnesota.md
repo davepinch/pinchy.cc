@@ -8,7 +8,7 @@ adjacent to:
   - McLeod County, Minnesota
   - Meeker County, Minnesota
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Interstate 94
   - Mississippi River
   - U.S. Route 12

@@ -10,7 +10,7 @@ adjacent to:
   - Deuel County, South Dakota
 apple maps: "https://maps.apple/p/6qsF1cGJfjPHDr"
 county in: Minnesota
-county in Minnesota of: Minnesota River
+county of: Minnesota River
 official website: "https://www.co.ym.mn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1739859"
 wikidata: "https://www.wikidata.org/wiki/Q490414"

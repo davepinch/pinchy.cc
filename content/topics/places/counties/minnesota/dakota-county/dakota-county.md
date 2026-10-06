@@ -10,7 +10,7 @@ adjacent to:
   - Hennepin County, Minnesota
 apple maps: "https://maps.apple/p/sMWgETYgHD--DL"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Interstate 35
   - Interstate 35E
   - Interstate 35W

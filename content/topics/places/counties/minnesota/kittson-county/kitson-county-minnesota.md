@@ -8,7 +8,7 @@ adjacent to:
   - Pembina County, North Dakota
 apple maps: "https://maps.apple/p/jh1o43119h3sP4"
 county in: Minnesota
-county in Minnesota of: Red River of the North
+county of: Red River of the North
 official website: "https://co.kittson.mn.us/"
 openstreetmap: "https://www.openstreetmap.org/relation/1740287"
 wikidata: "https://www.wikidata.org/wiki/Q486207"

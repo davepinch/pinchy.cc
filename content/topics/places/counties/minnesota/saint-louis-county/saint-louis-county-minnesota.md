@@ -10,7 +10,7 @@ adjacent to:
   - Koochiching County, Minnesota
 apple maps: "https://maps.apple/p/KXCPjT-dQoMMaE"
 county in: Minnesota
-county in Minnesota of:
+county of:
   - Interstate 35
   - Lake Superior
 official website: "https://www.stlouiscountymn.gov/"
