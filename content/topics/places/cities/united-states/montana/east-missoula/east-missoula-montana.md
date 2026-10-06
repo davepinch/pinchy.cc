@@ -1,6 +1,7 @@
 ---
 title: "East Missoula, Montana"
 adjacent to: Missoula, Montana
+apple maps: "https://maps.apple/p/AiLoCL4kgXxyx6"
 census-designated place by: United States Census Bureau
 census-designated place in:
   - Missoula County, Montana
