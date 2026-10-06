@@ -1,7 +1,7 @@
 ---
 title: "Baker, Montana"
 apple maps: "https://maps.apple/p/zTkVeQyeMSghj5"
-city in: Montana
+city of: Montana
 city in Montana of: U.S. Route 12
 official website: "https://www.bakermt.com/"
 openstreetmap: "https://www.openstreetmap.org/relation/142510"
