@@ -7,7 +7,7 @@ city in:
 city of:
   - Mississippi River
   - U.S. Route 61
-  - Vermillion River
+  - Vermillion River (Mississippi River tributary)
 down the mississippi: Prescott, Wisconsin
 official website: "https://www.hastingsmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136913"
