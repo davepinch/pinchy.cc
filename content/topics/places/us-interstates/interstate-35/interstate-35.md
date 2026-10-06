@@ -1,6 +1,6 @@
 ---
 title: "Interstate 35"
-interstate highway in:
+interstate highway of:
   - United States
   - Texas
   - Oklahoma
