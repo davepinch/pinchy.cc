@@ -1,7 +1,7 @@
 ---
 title: "Litchfield, Minnesota"
 apple maps: "https://maps.apple/p/9pKxMt8o9K_wN-"
-city in:
+city of:
   - Meeker County, Minnesot
   - Minnesota
 city in Minnesota of: U.S. Route 12
