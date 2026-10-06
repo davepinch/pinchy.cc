@@ -9,6 +9,7 @@ city in:
   - Anoka County, Minnesota
   - Ramsey County, Minnesota
   - Minnesota
+not to be confused with: Spring Park, Minnesota
 official website: "https://springlakeparkmn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136630"
 suburb of:
