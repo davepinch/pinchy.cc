@@ -1,5 +1,10 @@
 ---
 title: "Boundary County, Idaho"
+adjacent to:
+  - British Columbia
+  - Lincoln County, Montana
+  - Bonner County, Idaho
+  - Pend Oreille County, Washington
 apple maps: "https://maps.apple/p/05c.TWggatbMnP"
 county in: Idaho
 official website: "https://boundarycountyid.org/"
