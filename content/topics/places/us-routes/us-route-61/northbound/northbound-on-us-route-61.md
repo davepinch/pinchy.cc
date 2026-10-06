@@ -24,7 +24,7 @@ sequence:
   - Hastings, Minnesota
   - Hastings Bridge
   - Cottage Grove, Minnesota
-  - Saint Paul Park, Minnesota
+  - St. Paul Park, Minnesota
   - Newport, Minnesota
   - Saint Paul, Minnesota
   - Maplewood, Minnesota
