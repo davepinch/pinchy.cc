@@ -18,7 +18,7 @@ disambiguation of: Medina
 official website: "https://www.medinamn.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/137436"
 suburb of:
-  - Minneapolis
+  - Minneapolis, Minnesota
   - Twin Cities
 wikidata: "https://www.wikidata.org/wiki/Q2228269"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Medina,_Minnesota"
