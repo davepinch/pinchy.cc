@@ -1,5 +1,13 @@
 ---
 title: "Bonner County, Idaho"
+adjacent to:
+  - Boundary County, Idaho
+  - Lincoln County, Montana
+  - Sanders County, Montana
+  - Shoshone County, Idaho
+  - Kootenai County, Idaho
+  - Spokane County, Washington
+  - Pend Oreille County, Washington
 county in: Idaho
 official website: "https://www.bonnercountyid.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/1536525"
