@@ -19,4 +19,5 @@ wikidata: "https://www.wikidata.org/entity/Q862658"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Stillwater,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

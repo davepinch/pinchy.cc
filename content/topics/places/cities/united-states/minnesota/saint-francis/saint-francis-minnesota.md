@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1926959"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:St._Francis,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

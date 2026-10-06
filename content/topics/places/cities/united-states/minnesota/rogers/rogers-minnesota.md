@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1924299"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rogers,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

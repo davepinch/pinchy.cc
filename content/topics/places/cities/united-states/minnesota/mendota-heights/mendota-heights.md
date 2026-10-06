@@ -28,5 +28,6 @@ wikidata: "https://www.wikidata.org/entity/Q1992845"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mendota_Heights,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

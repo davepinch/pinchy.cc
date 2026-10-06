@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1916607"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Medicine_Lake,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

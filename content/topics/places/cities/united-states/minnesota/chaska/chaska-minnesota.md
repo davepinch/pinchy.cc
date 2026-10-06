@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/wiki/Q24068512"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Chaska,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

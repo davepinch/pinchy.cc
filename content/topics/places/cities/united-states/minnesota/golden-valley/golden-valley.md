@@ -20,5 +20,6 @@ wikidata: "https://www.wikidata.org/entity/Q868848"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Golden_Valley,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

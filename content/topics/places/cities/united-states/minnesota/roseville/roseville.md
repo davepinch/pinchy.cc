@@ -28,5 +28,6 @@ wikidata: "https://www.wikidata.org/entity/Q983979"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Roseville,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

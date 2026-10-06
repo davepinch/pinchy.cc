@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/entity/Q2124648"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Taylors_Falls,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

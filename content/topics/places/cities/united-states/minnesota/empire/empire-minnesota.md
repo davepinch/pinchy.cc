@@ -16,5 +16,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/15782281"
 wikidata: "https://www.wikidata.org/wiki/Q1899809"
 tags:
   - city
+  - city in Minnesota
   - no Wikimedia category
 ---

@@ -17,4 +17,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2195827"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Chisago_City,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

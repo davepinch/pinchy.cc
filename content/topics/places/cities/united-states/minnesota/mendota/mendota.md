@@ -20,5 +20,6 @@ wikidata: "https://www.wikidata.org/entity/Q1934309"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mendota,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

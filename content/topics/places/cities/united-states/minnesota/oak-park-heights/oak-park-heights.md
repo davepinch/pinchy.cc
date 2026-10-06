@@ -20,4 +20,5 @@ wikidata: "https://www.wikidata.org/entity/Q2228020"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Oak_Park_Heights,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

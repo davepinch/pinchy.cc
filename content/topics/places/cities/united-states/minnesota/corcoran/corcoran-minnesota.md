@@ -19,4 +19,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1926997"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Corcoran,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

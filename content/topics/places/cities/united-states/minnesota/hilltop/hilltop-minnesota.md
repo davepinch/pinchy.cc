@@ -15,4 +15,6 @@ wikidata: "https://www.wikidata.org/entity/Q2230839"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Hilltop,_Minnesota"
 tags:
   - city
+  - city in Minnesota
+  - suburb
 ---

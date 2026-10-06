@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2228155"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Maple_Plain,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

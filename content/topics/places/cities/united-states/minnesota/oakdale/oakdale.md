@@ -26,5 +26,6 @@ wikidata: "https://www.wikidata.org/entity/Q986185"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Oakdale,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

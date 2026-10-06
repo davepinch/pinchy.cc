@@ -19,5 +19,6 @@ openstreetmap: "https://www.openstreetmap.org/relation/136814"
 wikidata: "https://www.wikidata.org/entity/Q519307"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

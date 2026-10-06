@@ -17,4 +17,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1924328"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Greenfield,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

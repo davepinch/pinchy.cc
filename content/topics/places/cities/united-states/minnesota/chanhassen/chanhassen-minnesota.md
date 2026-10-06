@@ -19,4 +19,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1992901"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Chanhassen,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

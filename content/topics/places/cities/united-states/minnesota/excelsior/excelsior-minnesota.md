@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2302086"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Excelsior,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

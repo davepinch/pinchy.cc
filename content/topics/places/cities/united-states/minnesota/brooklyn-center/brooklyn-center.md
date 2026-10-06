@@ -23,5 +23,6 @@ wikidata: "https://www.wikidata.org/entity/Q929519"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Brooklyn_Center,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

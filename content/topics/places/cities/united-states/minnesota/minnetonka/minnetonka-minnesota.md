@@ -28,5 +28,6 @@ wikidata: "https://www.wikidata.org/wiki/Q923384"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnetonka,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

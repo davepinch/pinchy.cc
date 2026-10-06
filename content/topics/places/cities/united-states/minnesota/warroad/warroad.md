@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/entity/Q2186684"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Warroad,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

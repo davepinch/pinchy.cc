@@ -11,5 +11,6 @@ url: /saint-marys-point-minnesota/
 wikidata: "https://www.wikidata.org/wiki/Q2246540"
 tags:
   - city
+  - city in Minnesota
   - no Wikimedia category
 ---

@@ -13,5 +13,6 @@ wikidata: "https://www.wikidata.org/wiki/Q538210"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Alexandria,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - disambiguation
 ---

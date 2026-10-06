@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q636069"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Orono,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

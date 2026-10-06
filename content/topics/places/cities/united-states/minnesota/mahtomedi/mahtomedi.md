@@ -25,5 +25,6 @@ wikidata: "https://www.wikidata.org/entity/Q1924308"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mahtomedi,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

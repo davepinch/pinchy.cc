@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q983754"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Moorhead,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

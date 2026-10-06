@@ -21,5 +21,6 @@ wikidata: "https://www.wikidata.org/entity/Q2230155"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lilydale,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

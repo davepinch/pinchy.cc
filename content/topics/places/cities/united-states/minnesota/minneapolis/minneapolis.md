@@ -29,4 +29,5 @@ wikidata: "https://www.wikidata.org/entity/Q36091"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Minneapolis"
 tags:
   - city
+  - city in Minnesota
 ---

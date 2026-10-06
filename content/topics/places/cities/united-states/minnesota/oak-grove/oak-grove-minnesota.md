@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1916839"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Oak_Grove,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

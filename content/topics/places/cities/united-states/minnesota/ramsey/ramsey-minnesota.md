@@ -12,5 +12,6 @@ wikidata: "https://www.wikidata.org/wiki/Q1992875"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ramsey,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

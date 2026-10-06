@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q18283964"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Farmington,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

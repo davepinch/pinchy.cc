@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/entity/Q994793"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Hastings,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

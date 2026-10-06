@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q18239601"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Savage,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

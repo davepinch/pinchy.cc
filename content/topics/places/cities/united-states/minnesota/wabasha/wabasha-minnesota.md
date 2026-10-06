@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q612217"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wabasha,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

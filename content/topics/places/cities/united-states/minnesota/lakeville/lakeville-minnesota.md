@@ -18,4 +18,5 @@ wikidata: "https://www.wikidata.org/wiki/Q18200822"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lakeville,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

@@ -22,4 +22,5 @@ wikidata: "https://www.wikidata.org/wiki/Q8303042"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bloomington,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

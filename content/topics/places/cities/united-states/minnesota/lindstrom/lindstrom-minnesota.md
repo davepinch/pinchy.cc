@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2232344"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lindstr%C3%B6m,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

@@ -24,5 +24,6 @@ wikidata: "https://www.wikidata.org/entity/Q1986542"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:New_Brighton,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

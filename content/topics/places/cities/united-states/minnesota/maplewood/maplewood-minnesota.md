@@ -29,5 +29,6 @@ wikidata: "https://www.wikidata.org/entity/Q990856"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Maplewood,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

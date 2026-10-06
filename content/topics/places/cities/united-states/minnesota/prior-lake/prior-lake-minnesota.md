@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q18227798"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Prior_Lake,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

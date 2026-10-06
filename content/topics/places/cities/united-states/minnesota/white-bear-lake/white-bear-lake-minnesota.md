@@ -31,5 +31,6 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:White_Bear_Lake,_Minneso
 wikivoyage: "https://en.wikivoyage.org/wiki/White_Bear_Lake"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

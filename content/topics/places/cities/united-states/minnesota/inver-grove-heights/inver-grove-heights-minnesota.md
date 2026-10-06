@@ -21,4 +21,5 @@ wikidata: "https://www.wikidata.org/wiki/Q104553785"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Inver_Grove_Heights,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

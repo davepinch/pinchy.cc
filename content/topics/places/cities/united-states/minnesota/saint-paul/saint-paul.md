@@ -32,4 +32,5 @@ wikidata: "https://www.wikidata.org/entity/Q28848"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Saint_Paul,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

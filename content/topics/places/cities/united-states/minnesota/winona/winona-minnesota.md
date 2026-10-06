@@ -15,4 +15,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Category:Winona,_Minnesota"
 wikisource: "https://en.wikisource.org/wiki/Portal:Winona,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

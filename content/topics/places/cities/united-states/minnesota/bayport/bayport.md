@@ -16,4 +16,5 @@ wikidata: "https://www.wikidata.org/entity/Q2334515"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bayport,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

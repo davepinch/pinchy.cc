@@ -18,5 +18,6 @@ wikidata: "https://www.wikidata.org/entity/Q144180"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lauderdale,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

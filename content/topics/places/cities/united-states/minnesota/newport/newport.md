@@ -22,5 +22,6 @@ wikidata: "https://www.wikidata.org/entity/Q2228334"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Newport,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

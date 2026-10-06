@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2567178"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Shorewood,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

@@ -19,4 +19,5 @@ wikidata: "https://www.wikidata.org/entity/Q2230396"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lakeland,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

@@ -21,5 +21,6 @@ wikidata: "https://www.wikidata.org/wiki/Q985558"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Eden_Prairie,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

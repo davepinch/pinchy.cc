@@ -18,5 +18,6 @@ wikidata: "https://www.wikidata.org/entity/Q2036838"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:West_St._Paul,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

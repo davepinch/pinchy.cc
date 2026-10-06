@@ -19,4 +19,5 @@ wikidata: "https://www.wikidata.org/wiki/Q24350"
 wikimedia: "https://commons.wikimedia.org/wiki/Independence,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

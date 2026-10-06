@@ -20,4 +20,5 @@ wikidata: "https://www.wikidata.org/entity/Q2463967"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Scandia,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

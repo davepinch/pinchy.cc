@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2227844"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Wayzata,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

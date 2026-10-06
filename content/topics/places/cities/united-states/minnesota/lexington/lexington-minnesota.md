@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2230312"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lexington,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

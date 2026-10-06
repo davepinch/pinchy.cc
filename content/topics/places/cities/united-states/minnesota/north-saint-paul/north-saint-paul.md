@@ -20,5 +20,6 @@ wikidata: "https://www.wikidata.org/entity/Q1932960"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:North_St._Paul,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

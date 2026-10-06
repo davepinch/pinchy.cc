@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q18240575"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:St._Michael,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

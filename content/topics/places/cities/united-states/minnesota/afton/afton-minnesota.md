@@ -22,5 +22,6 @@ wikidata: "https://www.wikidata.org/entity/Q692740"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Afton,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - disambiguation
 ---

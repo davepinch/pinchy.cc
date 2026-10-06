@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2232195"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Deephaven,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

@@ -12,5 +12,6 @@ wikidata: "https://www.wikidata.org/wiki/Q486479"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Rochester,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - disambiguation
 ---

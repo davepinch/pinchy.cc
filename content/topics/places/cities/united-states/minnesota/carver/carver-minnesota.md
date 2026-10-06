@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1946865"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Carver,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

@@ -15,5 +15,6 @@ wikidata: "https://www.wikidata.org/wiki/Q986636"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lake_City,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - disambiguation
 ---

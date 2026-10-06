@@ -12,4 +12,5 @@ wikidata: "https://www.wikidata.org/wiki/Q9117818"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Shakopee,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

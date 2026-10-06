@@ -21,5 +21,6 @@ wikidata: "https://www.wikidata.org/wiki/Q1931777"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Dayton,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - disambiguation
 ---

@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1927024"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:St._Paul_Park,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

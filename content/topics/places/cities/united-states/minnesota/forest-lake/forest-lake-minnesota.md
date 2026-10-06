@@ -20,4 +20,5 @@ wikidata: "https://www.wikidata.org/wiki/Q65736397"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Forest_Lake,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

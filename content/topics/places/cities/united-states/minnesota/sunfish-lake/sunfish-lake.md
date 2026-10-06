@@ -13,5 +13,6 @@ suburb of:
 wikidata: "https://www.wikidata.org/entity/Q2227172"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

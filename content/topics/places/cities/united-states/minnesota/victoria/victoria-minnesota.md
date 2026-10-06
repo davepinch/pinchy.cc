@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2038025"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Victoria,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

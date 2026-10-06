@@ -20,4 +20,5 @@ wikidata: "https://www.wikidata.org/wiki/Q567530"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Anoka,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

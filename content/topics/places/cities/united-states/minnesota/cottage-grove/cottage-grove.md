@@ -24,5 +24,6 @@ wikidata: "https://www.wikidata.org/entity/Q268916"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Cottage_Grove,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

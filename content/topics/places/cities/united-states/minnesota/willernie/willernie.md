@@ -13,5 +13,6 @@ surrounded by: Mahtomedi, Minnesota
 wikidata: "https://www.wikidata.org/entity/Q2227678"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

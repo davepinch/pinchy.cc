@@ -18,5 +18,6 @@ wikidata: "https://www.wikidata.org/wiki/Q9927618"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Apple_Valley,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

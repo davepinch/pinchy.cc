@@ -26,5 +26,6 @@ wikidata: "https://www.wikidata.org/entity/Q864128"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Brooklyn_Park,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

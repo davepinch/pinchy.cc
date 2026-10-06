@@ -21,4 +21,5 @@ wikidata: "https://www.wikidata.org/wiki/Q983741"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Maple_Grove,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

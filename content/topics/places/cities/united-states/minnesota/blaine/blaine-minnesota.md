@@ -28,5 +28,6 @@ wikidata: "https://www.wikidata.org/entity/Q881140"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Blaine,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

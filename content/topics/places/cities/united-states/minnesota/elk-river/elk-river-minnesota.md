@@ -17,4 +17,5 @@ wikidata: "https://www.wikidata.org/wiki/Q18283520"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Elk_River,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

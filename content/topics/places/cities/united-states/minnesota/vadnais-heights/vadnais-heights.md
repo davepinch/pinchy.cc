@@ -25,5 +25,6 @@ wikidata: "https://www.wikidata.org/entity/Q1992815"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Vadnais_Heights,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

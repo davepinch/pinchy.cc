@@ -18,5 +18,6 @@ wikidata: "https://www.wikidata.org/wiki/Q1992894"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Hopkins,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

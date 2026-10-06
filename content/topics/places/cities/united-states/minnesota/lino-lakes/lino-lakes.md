@@ -24,4 +24,5 @@ wikidata: "https://www.wikidata.org/entity/Q1992863"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Lino_Lakes,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

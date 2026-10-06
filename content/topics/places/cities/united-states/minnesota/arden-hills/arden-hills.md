@@ -21,5 +21,6 @@ wikidata: "https://www.wikidata.org/entity/Q519815"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Arden_Hills,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

@@ -10,4 +10,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2229441"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Osseo,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

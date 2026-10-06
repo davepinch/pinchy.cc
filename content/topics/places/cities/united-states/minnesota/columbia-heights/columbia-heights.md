@@ -19,5 +19,6 @@ wikidata: "https://www.wikidata.org/entity/Q1978865"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Columbia_Heights,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

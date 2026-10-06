@@ -15,4 +15,5 @@ wikidata: "https://www.wikidata.org/entity/Q2246527"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Circle_Pines,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

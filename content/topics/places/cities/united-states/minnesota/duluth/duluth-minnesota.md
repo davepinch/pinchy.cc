@@ -17,5 +17,6 @@ wikidata: "https://www.wikidata.org/entity/Q485708"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Duluth,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - disambiguation
 ---

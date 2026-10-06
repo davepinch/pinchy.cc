@@ -25,5 +25,6 @@ wikidata: "https://www.wikidata.org/wiki/Q736586"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Burnsville,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

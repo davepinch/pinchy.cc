@@ -17,4 +17,5 @@ wikidata: "https://www.wikidata.org/wiki/Q18285736"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Hugo,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

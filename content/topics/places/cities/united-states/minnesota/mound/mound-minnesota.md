@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2025450"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mound,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

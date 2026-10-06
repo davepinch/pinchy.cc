@@ -16,4 +16,5 @@ wikidata: "https://www.wikidata.org/entity/Q2113427"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Marine_on_St._Croix,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

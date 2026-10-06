@@ -19,5 +19,6 @@ wikidata: "https://www.wikidata.org/wiki/Q948360"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Crystal,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

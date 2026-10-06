@@ -22,4 +22,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2463946"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Columbus,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

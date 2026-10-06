@@ -19,4 +19,5 @@ wikidata: "https://www.wikidata.org/entity/Q1927062"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Spring_Lake_Park,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

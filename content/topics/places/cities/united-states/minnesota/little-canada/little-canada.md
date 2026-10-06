@@ -23,5 +23,6 @@ wikidata: "https://www.wikidata.org/entity/Q1926987"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Little_Canada,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

@@ -20,5 +20,6 @@ wikidata: "https://www.wikidata.org/wiki/Q987126"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Champlin,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

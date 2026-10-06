@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q2232122"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Minnetrista,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

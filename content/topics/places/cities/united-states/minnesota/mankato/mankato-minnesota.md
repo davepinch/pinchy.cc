@@ -13,4 +13,5 @@ wikidata: "https://www.wikidata.org/entity/Q913243"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Mankato,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

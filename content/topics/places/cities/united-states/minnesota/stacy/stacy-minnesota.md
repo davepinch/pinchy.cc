@@ -11,4 +11,5 @@ wikidata: "https://www.wikidata.org/wiki/Q1003860"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Stacy,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---
