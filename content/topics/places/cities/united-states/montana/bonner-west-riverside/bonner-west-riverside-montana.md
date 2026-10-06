@@ -1,5 +1,8 @@
 ---
 title: "Bonner-West Riverside, Montana"
+adjacent to:
+  - Missoula, Montana
+  - Plitzville, Montana
 apple maps: "https://maps.apple/p/Aw00aoiaem-hz2"
 census-designated place by: United States Census Bureau
 census-designated place in:
