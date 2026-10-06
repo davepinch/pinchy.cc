@@ -1,7 +1,7 @@
 ---
 title: "U.S. Route 12"
 highway in: United States
-highway of: 12
+highway of: "12"
 openstreetmap:
   - "[US 12 (WA)](https://www.openstreetmap.org/relation/301541)"
   - "[US 12 (ID)](https://www.openstreetmap.org/relation/446070)"
