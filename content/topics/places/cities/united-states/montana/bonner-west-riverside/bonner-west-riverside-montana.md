@@ -8,7 +8,7 @@ census-designated place by: United States Census Bureau
 census-designated place in:
   - Missoula County, Montana
   - Montana
-census-designaeted place of:
+census-designated place of:
   - Interstate 90
   - U.S. Route 12
 openstreetmap: "https://www.openstreetmap.org/relation/142567"
