@@ -1,5 +1,6 @@
 ---
 title: "Wayzata, Minnesota"
+apple maps: "https://maps.apple/p/w0Fku3n1xfe0t3"
 city in:
   - Hennepin County, Minnesota
   - Minnesota
