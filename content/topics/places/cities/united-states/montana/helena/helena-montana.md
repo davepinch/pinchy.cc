@@ -10,5 +10,5 @@ wikimedia: "https://commons.wikimedia.org/wiki/Helena,_Montana"
 wikisource: "https://en.wikisource.org/wiki/Portal:Helena,_Montana"
 tags:
   - city
-  - city in Minnesota
+  - city in Montana
 ---
