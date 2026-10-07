@@ -1,5 +1,6 @@
 ---
 title: "Woodland, Minnesota"
+apple maps: "https://maps.apple/p/KhZMXK6k2xQ8s3"
 city in:
   - Hennepin County, Minnesota
   - Minnesota
