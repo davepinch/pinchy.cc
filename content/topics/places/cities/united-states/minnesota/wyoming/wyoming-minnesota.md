@@ -5,6 +5,7 @@ adjacent to:
   - Chisago, Minnesota
   - Forest Lake, Minnesota
   - Columbus, Minnesota
+apple maps: "https://maps.apple/p/~.wWe1mpp.f1T4"
 city in:
   - Chisago County, Minnesota
   - Minnesota
