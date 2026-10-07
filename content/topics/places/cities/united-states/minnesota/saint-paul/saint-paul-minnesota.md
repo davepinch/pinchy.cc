@@ -25,6 +25,7 @@ city of:
   - Minnesota River
   - Mississippi River
   - U.S. Route 61
+disambiguation of: Saint Paul
 namesake of: Paul the Apostle
 official website: "https://www.stpaul.gov/"
 openstreetmap: "https://www.openstreetmap.org/relation/136612"
