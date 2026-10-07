@@ -14,6 +14,7 @@ city of:
 northern terminus of: U.S. Route 61
 openstreetmap: "https://www.openstreetmap.org/relation/137286"
 wikidata: "https://www.wikidata.org/wiki/Q282815"
+wikimedia: "https://commons.wikimedia.org/wiki/Category:Wyoming,_Minnesota"
 tags:
   - city
   - city in Minnesota
