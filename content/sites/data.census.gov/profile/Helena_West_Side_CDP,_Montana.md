@@ -1,6 +1,6 @@
 ---
 title: "Helena West Side CDP, Montana (data.census.gov)"
-census profile: Helena West Side, Montana
+census profile of: Helena West Side, Montana
 census-designated place in Minnesota of: Census Bureau Data (data.census.gov)
 excerpt: >-
   Helena West Side CDP, Montana is a city, town, place equivalent, or township located in Montana. Helena West Side CDP, Montana has a land area of 14.2 square miles.
