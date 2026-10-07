@@ -1,5 +1,5 @@
 ---
-title: "Ebey's Landing State Park"
+title: "Ebey's Landing State Park Heritage Site"
 apple maps: "https://maps.apple/p/U1~7j4BHLDGctj"
 openstreetmap: "https://www.openstreetmap.org/relation/10459503"
 state park in:

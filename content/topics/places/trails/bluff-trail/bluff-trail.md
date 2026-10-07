@@ -3,7 +3,7 @@ title: "Bluff Trail"
 openstreetmap: "https://www.openstreetmap.org/way/351394048"
 trail of:
   - Robert Y. Pratt Preserve
-  - Ebey's Landing State Park
+  - Ebey's Landing State Park Heritage Site
   - Ebey's Landing National Historical Reserve
   - Whidbey Island
   - Island County, Washington

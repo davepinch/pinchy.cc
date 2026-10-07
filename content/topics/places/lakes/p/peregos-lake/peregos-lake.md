@@ -3,7 +3,7 @@ title: "Perego's Lake"
 alongside of: Admiralty Inlet
 also known as: "Perego's Lagoon"
 lake in:
-  - Ebey's Landing State Park
+  - Ebey's Landing State Park Heritage Site
   - Ebey's Landing National Historical Reserve
   - Whidbey Island
   - Island County, Washington

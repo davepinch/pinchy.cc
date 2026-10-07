@@ -64,7 +64,7 @@ sequence:
   - Keystone Harbor
   - Coupeville Ferry Terminal
   - Admiralty Inlet Natural Area Preserve
-  - Ebey's Landing State Park
+  - Ebey's Landing State Park Heritage Site
   - Robert Y. Pratt Preserve
   - Perego's Lake
   - Fort Ebey State Park
