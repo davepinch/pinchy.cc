@@ -23,4 +23,5 @@ tags:
   - city
   - city in Minnesota
   - suburb
+  - no Wikimedia category
 ---
