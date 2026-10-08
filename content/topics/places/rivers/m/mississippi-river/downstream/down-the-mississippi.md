@@ -6,6 +6,7 @@ sequence:
   - Minnesota
   - Lake Itasca
   - Lake Bemidji
+  - Bemidji, Minnesota
 # - Cass Lake
 # - Lake Winnibigoshish
 # - Little Winnibigoshish Lake
