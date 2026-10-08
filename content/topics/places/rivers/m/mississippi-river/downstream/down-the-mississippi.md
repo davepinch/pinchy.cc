@@ -5,7 +5,7 @@ sequence:
   - United States
   - Minnesota
   - Lake Itasca
-# - Lake Bemidji
+  - Lake Bemidji
 # - Cass Lake
 # - Lake Winnibigoshish
 # - Little Winnibigoshish Lake
