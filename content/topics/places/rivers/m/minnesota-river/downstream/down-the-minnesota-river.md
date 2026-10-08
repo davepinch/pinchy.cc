@@ -24,7 +24,7 @@ sequence:
   - Savage, Minnesota
   - Burnsville, Minnesota
   - Eagan, Minnesota
-  - Fort Snelling Unorganized Territory
+  - Fort Snelling unorganized territory
   - Mendota Heights, Minnesota
   - Saint Paul, Minnesota
   - Mendota, Minnesota
