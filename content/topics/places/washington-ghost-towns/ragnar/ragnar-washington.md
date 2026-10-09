@@ -9,4 +9,5 @@ wikidata: "https://www.wikidata.org/wiki/Q91047679"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Ragnar,_Washington"
 tags:
   - ghost town
+  - ghost town in Washington
 ---

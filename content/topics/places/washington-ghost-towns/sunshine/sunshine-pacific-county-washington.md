@@ -8,6 +8,7 @@ disambiguation of: Sunshine, Washington
 not to be confused with: Sunshine, Whitman County, Washington
 tags:
   - ghost town
+  - ghost town in Washington
   - disambiguation
   - no Wikidata record
 ---

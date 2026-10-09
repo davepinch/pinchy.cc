@@ -11,6 +11,7 @@ openstreetmap: "https://www.openstreetmap.org/node/150939631"
 wikidata: "https://www.wikidata.org/wiki/Q15252537"
 tags:
   - ghost town
+  - ghost town in Washington
   - railway station
   - no Wikimedia category
 ---

@@ -11,5 +11,6 @@ openstreetmap: "https://www.openstreetmap.org/node/150971350"
 wikidata: "https://www.wikidata.org/wiki/Q27995381"
 tags:
   - ghost town
+  - ghost town in Washington
   - no Wikimedia category
 ---

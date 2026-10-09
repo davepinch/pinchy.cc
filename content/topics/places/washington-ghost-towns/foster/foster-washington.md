@@ -7,4 +7,5 @@ ghost town in:
 wikidata: "https://www.wikidata.org/wiki/Q5473601"
 tags:
   - ghost town
+  - ghost town in Washington
 ---
