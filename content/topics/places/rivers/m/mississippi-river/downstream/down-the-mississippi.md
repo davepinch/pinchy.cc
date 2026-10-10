@@ -56,7 +56,7 @@ sequence:
 # - Bay City, Wisconsin
 # - Maiden Rock, Wisconsin
 # - Stockholm, Wisconsin
-# - Lake City, Minnesota
+  - Lake City, Minnesota
 # - Pepin, Wisconsin
   - Wabasha, Minnesota
 # - Nelson, Wisconsin
