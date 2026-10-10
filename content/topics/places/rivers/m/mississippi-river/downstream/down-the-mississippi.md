@@ -13,7 +13,7 @@ sequence:
   - U.S. Route 2
 # - Grand Rapids, Minnesota
 # - Aitkin, Minnesota
-# - Brainerd, Minnesotsa
+  - Brainerd, Minnesota
 # - Baxter, Minnesota
 # - Fort Ripley, Minnesota
 # - Little Falls, Minnesota
