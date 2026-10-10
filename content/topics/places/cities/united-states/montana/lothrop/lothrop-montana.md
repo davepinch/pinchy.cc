@@ -2,9 +2,10 @@
 title: "Lothrop, Montana"
 apple maps: "https://maps.apple/p/aAygSGHIt_HQQo"
 openstreetmap: "https://www.openstreetmap.org/node/150964539"
-unincorporated community of:
+unincorporated community in:
+  - Missoula County, Montana
   - Montana
-  - Interstate 90
+unincorporated community of: Interstate 90
 vicinity of:
   - Alberton, Montana
   - Missoula, Montana
