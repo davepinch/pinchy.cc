@@ -18,7 +18,7 @@ sequence:
 # - Fort Ripley, Minnesota
 # - Little Falls, Minnesota
 # - Rice, Minnesota
-# - Sartell, Minnesota
+  - Sartell, Minnesota
 # - Sauk Rapids, Minnesota
   - St. Cloud, Minnesota
 # - Clearwater, Minnesota
