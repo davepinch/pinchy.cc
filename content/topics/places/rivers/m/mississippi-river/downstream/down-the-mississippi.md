@@ -20,7 +20,7 @@ sequence:
 # - Rice, Minnesota
 # - Sartell, Minnesota
 # - Sauk Rapids, Minnesota
-# - Saint Cloud, Minnesota
+  - St. Cloud, Minnesota
 # - Clearwater, Minnesota
 # - Becker, Minnesota
 # - Monticello, Minnesota
