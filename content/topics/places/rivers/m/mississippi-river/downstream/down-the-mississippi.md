@@ -19,7 +19,7 @@ sequence:
 # - Little Falls, Minnesota
 # - Rice, Minnesota
   - Sartell, Minnesota
-# - Sauk Rapids, Minnesota
+  - Sauk Rapids, Minnesota
   - St. Cloud, Minnesota
 # - Clearwater, Minnesota
 # - Becker, Minnesota
