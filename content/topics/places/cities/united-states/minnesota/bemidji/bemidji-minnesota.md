@@ -14,4 +14,5 @@ wikidata: "https://www.wikidata.org/wiki/Q730430"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Bemidji,_Minnesota"
 tags:
   - city
+  - city in Minnesota
 ---

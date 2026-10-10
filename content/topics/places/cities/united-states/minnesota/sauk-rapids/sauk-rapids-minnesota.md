@@ -15,5 +15,6 @@ wikidata: "https://www.wikidata.org/wiki/Q993515"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Sauk_Rapids,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---

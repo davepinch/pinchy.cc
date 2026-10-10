@@ -16,5 +16,6 @@ wikidata: "https://www.wikidata.org/wiki/Q8704898"
 wikimedia: "https://commons.wikimedia.org/wiki/Category:Sartell,_Minnesota"
 tags:
   - city
+  - city in Minnesota
   - suburb
 ---
