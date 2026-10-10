@@ -12,7 +12,7 @@ sequence:
 # - Little Winnibigoshish Lake
   - U.S. Route 2
 # - Grand Rapids, Minnesota
-# - Aitkin, Minnesota
+  - Aitkin, Minnesota
   - Brainerd, Minnesota
 # - Baxter, Minnesota
 # - Fort Ripley, Minnesota
