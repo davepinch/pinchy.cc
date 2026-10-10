@@ -1,5 +1,5 @@
 ---
-title: "St. Augustsa, Minnesota"
+title: "St. Augusta, Minnesota"
 adjacent to:
   - St. Cloud, Minnesota
   - Rockville, Minnesota
